@@ -4,6 +4,8 @@
 # hoje ou se ainda não deu 7h — assim, se o Mac estava dormindo/desligado às 7h,
 # a atualização acontece na primeira meia hora depois que você abrir o Mac.
 
+export PATH="$HOME/.local/bin:/opt/homebrew/bin:/usr/local/bin:$PATH"
+
 BASE="$HOME/encartes-concorrentes"
 STAMP="$BASE/data/.ultima_execucao"
 LOG="$BASE/data/rotina.log"
