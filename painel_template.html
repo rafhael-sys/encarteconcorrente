@@ -63,6 +63,7 @@
   .card:hover{box-shadow:0 6px 20px rgba(0,0,0,.09);transform:translateY(-1px)}
   .thumb{position:relative;aspect-ratio:4/4.2;background:var(--surface);overflow:hidden}
   .thumb img{width:100%;height:100%;object-fit:cover;object-position:top;display:block}
+  .thumb-off{display:flex;align-items:center;justify-content:center;height:100%;color:var(--text-3);font-size:12.5px}
   .thumb .npag{
     position:absolute;right:8px;bottom:8px;background:rgba(13,13,13,.72);color:#fff;
     font-size:11.5px;font-weight:500;border-radius:999px;padding:3px 9px;
@@ -272,10 +273,11 @@ const CANON = __CANON__;
 
 const $ = id => document.getElementById(id);
 const norm = s => (s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+const esc = s => String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 // busca por termos: cada palavra digitada precisa aparecer em alguma parte do nome
 const toks = q => norm(q).split(/\s+/).filter(Boolean);
 const matches = (normName, q) => toks(q).every(t => normName.includes(t));
-const hoje = () => new Date().toISOString().slice(0,10);
+const hoje = () => { const d = new Date(), z = n => String(n).padStart(2,'0'); return `${d.getFullYear()}-${z(d.getMonth()+1)}-${z(d.getDate())}`; };
 const fmt = d => d.slice(8,10)+'/'+d.slice(5,7);
 const status = a => a.fim < hoje() ? 'off' : (a.fim === hoje() ? 'today' : 'on');
 const isActive = a => status(a) !== 'off';
@@ -296,7 +298,10 @@ ACTIONS.forEach(a => a.pgs.forEach((pid, i) =>
 ));
 
 /* ---------- ranking de incidência ---------- */
-const priceNum = s => parseFloat(String(s).replace(/\./g,'').replace(',','.')) || 0;
+const priceNum = s => {
+  const m = String(s??'').match(/\d{1,3}(?:\.\d{3})+,\d{2}|\d+,\d{2}|\d+(?:\.\d{1,2})?/g);
+  return m ? (parseFloat(m[m.length-1].replace(/\./g,'').replace(',','.')) || 0) : 0;
+};
 const fmtP = v => 'R$ ' + v.toFixed(2).replace('.', ',');
 const RANK = CANON.map(c => {
   const occ = c.m.map(k => RES[k]).filter(Boolean);
@@ -325,7 +330,10 @@ function render(){
   if(query.length >= 2){ renderSearch(main, inTab); return; }
 
   main.innerHTML = '';
-  SEGS.forEach(([seg, label]) => {
+  const known = new Set(SEGS.map(s => s[0]));
+  const extras = [...new Set(inTab.map(a => a.seg).filter(g => !known.has(g)))]
+    .map(g => [g, g.charAt(0).toUpperCase() + g.slice(1)]);
+  [...SEGS, ...extras].forEach(([seg, label]) => {
     const list = inTab.filter(a => a.seg === seg);
     if(!list.length) return;
     const h = document.createElement('div'); h.className='seg-title'; h.textContent=label; main.appendChild(h);
@@ -341,12 +349,13 @@ function card(a){
   const el = document.createElement('button'); el.className='card';
   const st = status(a);
   const nprod = a.pgs.reduce((s,p)=> s+(PRODUCTS[p]||[]).length, 0);
+  const cover = a.pgs.find(p => IMG[p]);
   el.innerHTML = `
-    <div class="thumb"><img src="${IMG[a.pgs[0]]}" alt="" loading="lazy">
+    <div class="thumb">${cover ? `<img src="${IMG[cover]}" alt="" loading="lazy">` : '<span class="thumb-off">imagem no Instagram ↗</span>'}
       <span class="npag">${a.pgs.length} pág · ${nprod} itens</span></div>
     <div class="card-b">
-      <span class="banner">${a.banner}</span>
-      <span class="title">${a.titulo}</span>
+      <span class="banner">${esc(a.banner)}</span>
+      <span class="title">${esc(a.titulo)}</span>
       <span class="meta">${pill(st)}<span class="dates">${fmt(a.ini)} – ${fmt(a.fim)}</span></span>
     </div>`;
   // abre direto na primeira página que tem produto (pula capa/publicidade)
@@ -394,8 +403,8 @@ function renderSearch(main, inTab){
     const c = document.createElement('div'); c.className='rcard';
     const h = document.createElement('button'); h.className='rcard-h';
     h.innerHTML = `<span class="avatar">${initials(a.banner)}</span>
-      <span class="who"><span class="banner">${a.banner}</span><br>
-      <span class="sub">${a.titulo} · ${fmt(a.ini)} – ${fmt(a.fim)}</span></span>
+      <span class="who"><span class="banner">${esc(a.banner)}</span><br>
+      <span class="sub">${esc(a.titulo)} · ${fmt(a.ini)} – ${fmt(a.fim)}</span></span>
       ${pill(st)}<span class="go">›</span>`;
     h.addEventListener('click', () => openViewer(a, g[0].pg, g[0].prod));
     c.appendChild(h);
@@ -403,7 +412,7 @@ function renderSearch(main, inTab){
     g.forEach(hit => {
       const r = document.createElement('button'); r.className='rrow';
       r.innerHTML = `<span class="pname">${highlight(hit.prod.n)}</span>
-        <span class="price">R$ ${hit.prod.p}${hit.prod.u?`<small>${hit.prod.u}</small>`:''}</span>
+        <span class="price">R$ ${esc(hit.prod.p)}${hit.prod.u?`<small>${esc(hit.prod.u)}</small>`:''}</span>
         <span class="pg">pág. ${hit.pg+1}</span><span class="go">›</span>`;
       r.addEventListener('click', () => openViewer(hit.a, hit.pg, hit.prod));
       rows.appendChild(r);
@@ -482,7 +491,9 @@ function krow(r, pos){
   const div = document.createElement('div'); div.className = 'krow';
   const h = document.createElement('button'); h.className = 'krow-h';
   let priceHtml;
-  if(st.min === st.max){
+  if(st.mode === 0){
+    priceHtml = `<span class="ksingle">—<small>preço não numérico</small></span>`;
+  } else if(st.min === st.max){
     priceHtml = `<span class="ksingle">${fmtP(st.mode)}<small>${occ.length === 1 ? 'aparição única' : 'mesmo preço em todas'}</small></span>`;
   } else {
     const px = v => 5 + ((v - st.min) / (st.max - st.min)) * 90;
@@ -493,8 +504,8 @@ function krow(r, pos){
       <span class="klabels"><span>${fmtP(st.min)}</span><span class="mid">${fmtP(st.mode)}</span><span>${fmtP(st.max)}</span></span></span>`;
   }
   h.innerHTML = `<span class="krank">${pos}</span>
-    <span class="kmain"><span class="kname">${r.c.n}${r.c.u ? `<span class="kunit">${r.c.u}</span>` : ''}${compBadge(compInfo(r))}</span>
-      <span class="kmeta"><b>${nEnc}</b> encarte${nEnc===1?'':'s'} · ${occ.length} ${occ.length===1?'aparição':'aparições'} · ${banners.join(' · ')}</span></span>
+    <span class="kmain"><span class="kname">${esc(r.c.n)}${r.c.u ? `<span class="kunit">${esc(r.c.u)}</span>` : ''}${compBadge(compInfo(r))}</span>
+      <span class="kmeta"><b>${nEnc}</b> encarte${nEnc===1?'':'s'} · ${occ.length} ${occ.length===1?'aparição':'aparições'} · ${esc(banners.join(' · '))}</span></span>
     <span class="kprice">${priceHtml}</span><span class="kchev">›</span>`;
   h.addEventListener('click', () => div.classList.toggle('open'));
   div.appendChild(h);
@@ -502,9 +513,9 @@ function krow(r, pos){
   occ.forEach(o => {
     const row = document.createElement('button'); row.className = 'rrow';
     const mine = o.a.seg === 'propria';
-    row.innerHTML = `<span class="who-mini"${mine ? ' style="color:var(--green)"' : ''}>${mine ? '★ ' : ''}${o.a.banner}</span>
-      <span class="pname">${o.prod.n}</span>
-      <span class="price">R$ ${o.prod.p}${o.prod.u ? `<small>${o.prod.u}</small>` : ''}</span>
+    row.innerHTML = `<span class="who-mini"${mine ? ' style="color:var(--green)"' : ''}>${mine ? '★ ' : ''}${esc(o.a.banner)}</span>
+      <span class="pname">${esc(o.prod.n)}</span>
+      <span class="price">R$ ${esc(o.prod.p)}${o.prod.u ? `<small>${esc(o.prod.u)}</small>` : ''}</span>
       <span class="pg">pág. ${o.pg+1}</span><span class="go">›</span>`;
     row.addEventListener('click', () => openViewer(o.a, o.pg, o.prod));
     list.appendChild(row);
@@ -517,7 +528,7 @@ function highlight(name){
   const nn = norm(name);
   const spans = [];
   toks(query).forEach(t => { const i = nn.indexOf(t); if(i >= 0) spans.push([i, i + t.length]); });
-  if(!spans.length) return name;
+  if(!spans.length) return esc(name);
   spans.sort((a,b) => a[0]-b[0]);
   const merged = [];
   spans.forEach(s => {
@@ -525,8 +536,8 @@ function highlight(name){
     if(last && s[0] <= last[1]) last[1] = Math.max(last[1], s[1]); else merged.push(s);
   });
   let out = '', prev = 0;
-  merged.forEach(([a,b]) => { out += name.slice(prev,a) + '<mark>' + name.slice(a,b) + '</mark>'; prev = b; });
-  return out + name.slice(prev);
+  merged.forEach(([a,b]) => { out += esc(name.slice(prev,a)) + '<mark>' + esc(name.slice(a,b)) + '</mark>'; prev = b; });
+  return out + esc(name.slice(prev));
 }
 
 /* ---------- visor ---------- */
@@ -565,7 +576,7 @@ function drawPage(){
     s.style.width = prod.w+'%'; s.style.height = prod.h+'%';
     t.style.left = Math.min(Math.max(prod.x+prod.w/2, 18), 82)+'%';
     t.style.top = prod.y+'%';
-    t.innerHTML = `${prod.n} — <b>R$ ${prod.p}</b>`;
+    t.innerHTML = `${esc(prod.n)} — <b>R$ ${esc(prod.p)}</b>`;
   } else { s.hidden = t.hidden = true; }
 }
 function resetZoom(){

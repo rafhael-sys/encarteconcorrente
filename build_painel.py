@@ -6,6 +6,10 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(BASE, 'data')
 PAGES = os.path.join(DATA, 'pages')
 
+import sys
+if not (os.path.exists(f'{DATA}/actions.json') and os.path.exists(f'{DATA}/products.json')):
+    print('nada para construir ainda (actions.json/products.json ausentes)')
+    sys.exit(0)
 actions = json.load(open(f'{DATA}/actions.json'))
 products = json.load(open(f'{DATA}/products.json'))
 canon = json.load(open(f'{DATA}/canon.json')) if os.path.exists(f'{DATA}/canon.json') else None
@@ -34,10 +38,13 @@ with tempfile.TemporaryDirectory() as tmp:
                 continue
             if embutir:
                 small = os.path.join(tmp, fname)
-                subprocess.run(['sips', '-Z', '1080', '-s', 'format', 'jpeg',
-                                '-s', 'formatOptions', '45', src, '--out', small],
-                               capture_output=True)
-                images[pid] = 'data:image/jpeg;base64,' + base64.b64encode(open(small, 'rb').read()).decode()
+                r = subprocess.run(['sips', '-Z', '1080', '-s', 'format', 'jpeg',
+                                    '-s', 'formatOptions', '45', src, '--out', small],
+                                   capture_output=True)
+                if r.returncode == 0 and os.path.exists(small):
+                    images[pid] = 'data:image/jpeg;base64,' + base64.b64encode(open(small, 'rb').read()).decode()
+                else:
+                    print(f'[aviso] sips falhou em {fname}; página fica sem imagem embutida', file=sys.stderr)
             page_ids.append(pid)
         if page_ids:
             data_actions.append({'id': a['id'], 'banner': a['banner'], 'perfil': a['perfil'],
