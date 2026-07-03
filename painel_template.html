@@ -200,6 +200,25 @@
   .kocc .rrow .who-mini{flex:none;font-size:11.5px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--text-3);width:118px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .kmore{width:100%;text-align:center;padding:13px;font-size:13.5px;font-weight:500;color:var(--green);border:1px dashed var(--border-strong);border-radius:var(--radius)}
   .kmore:hover{background:var(--surface)}
+  .kcheck{display:flex;align-items:center;gap:7px;margin-left:auto;font-size:13px;font-weight:500;color:var(--text-2);cursor:pointer;user-select:none}
+  .kcheck input{accent-color:var(--green);width:15px;height:15px;cursor:pointer;margin:0}
+  .kbadge{font-size:11px;font-weight:600;border-radius:999px;padding:2px 8px;margin-left:8px;vertical-align:1px;white-space:nowrap}
+  .kbadge.win{color:var(--green);background:var(--green-bg)}
+  .kbadge.tie{color:var(--text-2);background:var(--surface-2)}
+  .kbadge.lose{color:#c2410c;background:#faeee5}
+  .comp-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px;margin:0 0 22px}
+  .comp-card{border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;background:var(--bg)}
+  .comp-card .t{font-size:13.5px;font-weight:600}
+  .comp-card .d{font-size:11.5px;color:var(--text-3)}
+  .comp-card .pct{font-size:24px;font-weight:700;letter-spacing:-.02em;margin-top:6px;font-variant-numeric:tabular-nums}
+  .comp-card .pct small{font-size:12px;font-weight:500;color:var(--text-3);margin-left:6px}
+  .comp-bar{display:flex;height:8px;border-radius:4px;overflow:hidden;margin:8px 0 7px;background:var(--surface-2)}
+  .comp-bar span{height:100%}
+  .comp-bar .cw{background:var(--green)}
+  .comp-bar .ct{background:#b9b5ad}
+  .comp-bar .cl{background:#c2410c}
+  .comp-card .cnt{font-size:12px;color:var(--text-2)}
+  .comp-card .gaps{font-size:11.5px;color:#c2410c;margin-top:6px;line-height:1.45}
   @media (max-width:640px){.kprice{width:150px}.kocc .rrow .who-mini{width:70px}}
 
   footer{max-width:1080px;margin:0 auto;padding:0 20px 40px;font-size:12.5px;color:var(--text-3)}
@@ -408,26 +427,60 @@ function renderSearch(main, inTab){
 }
 
 /* ---------- aba incidência ---------- */
+let onlyMine = false;
+
+const statsFor = occ => {
+  const ps = occ.map(o => priceNum(o.prod.p)).filter(v => v > 0).sort((x,y) => x-y);
+  const freq = {}; ps.forEach(v => freq[v] = (freq[v]||0) + 1);
+  const mode = ps.length ? +Object.entries(freq).sort((a,b) => b[1]-a[1] || a[0]-b[0])[0][0] : 0;
+  return { min: ps[0]||0, max: ps[ps.length-1]||0, mode };
+};
+
+// competitividade: menor preço vigente da Rede Mais vs menor preço vigente dos concorrentes
+function compInfo(r){
+  const vig = r.occ.filter(o => isActive(o.a));
+  const mine = vig.filter(o => o.a.seg === 'propria').map(o => priceNum(o.prod.p)).filter(v => v > 0);
+  const comp = vig.filter(o => o.a.seg !== 'propria').map(o => priceNum(o.prod.p)).filter(v => v > 0);
+  if(!mine.length || !comp.length) return null;
+  const my = Math.min(...mine), cm = Math.min(...comp);
+  return { my, cm, st: my < cm ? 'win' : my === cm ? 'tie' : 'lose', gap: cm ? (my - cm) / cm : 0 };
+}
+const fmtPct = v => (v*100).toFixed(1).replace('.', ',') + '%';
+const compBadge = ci => !ci ? '' :
+  ci.st === 'win' ? '<span class="kbadge win">você ganha</span>' :
+  ci.st === 'tie' ? '<span class="kbadge tie">empate</span>' :
+  `<span class="kbadge lose">você +${fmtPct(ci.gap)}</span>`;
+
 function renderRank(main){
+  const base = onlyMine ? RANK.filter(r => compInfo(r)) : RANK;
   const rows = query.length >= 2
-    ? RANK.filter(r => matches(norm(r.c.n), query) || r.occ.some(o => matches(norm(o.prod.n), query)))
-    : RANK;
+    ? base.filter(r => matches(norm(r.c.n), query) || r.occ.some(o => matches(norm(o.prod.n), query)))
+    : base;
   main.innerHTML = '';
   const head = document.createElement('div'); head.className = 'rhead';
-  head.innerHTML = `<b>${rows.length}</b> produto${rows.length===1?'':'s'}, do que mais sai em encarte para o que menos sai`
+  head.innerHTML = (onlyMine
+      ? `<b>${rows.length}</b> produto${rows.length===1?'':'s'} vigentes em disputa direta: Rede Mais × concorrentes`
+      : `<b>${rows.length}</b> produto${rows.length===1?'':'s'}, do que mais sai em encarte para o que menos sai`)
     + (query.length >= 2 ? ` — filtrado por “<b>${query}</b>”` : '');
   main.appendChild(head);
   const leg = document.createElement('div'); leg.className = 'klegend';
   leg.innerHTML = `<span><i style="background:var(--green)"></i>menor preço</span>
     <span><i style="background:var(--text)"></i>mais praticado</span>
-    <span><i style="background:#c2410c"></i>maior preço</span>`;
+    <span><i style="background:#c2410c"></i>maior preço</span>
+    <label class="kcheck"><input type="checkbox" id="chkMine"${onlyMine ? ' checked' : ''}> Só vigentes com a Rede Mais</label>`;
   main.appendChild(leg);
+  leg.querySelector('#chkMine').addEventListener('change', e => { onlyMine = e.target.checked; rankShown = 100; render(); });
+
+  if(onlyMine) renderCompSummary(main);
+
   if(!rows.length){
     const e = document.createElement('div'); e.className = 'empty';
-    e.innerHTML = `Nenhum produto com “<b>${query}</b>”.`;
+    e.innerHTML = onlyMine && query.length < 2
+      ? 'Nenhum produto seu vigente coincide com concorrentes no momento.'
+      : `Nenhum produto com “<b>${query}</b>”${onlyMine ? ' em disputa vigente' : ''}.`;
     main.appendChild(e); return;
   }
-  rows.slice(0, rankShown).forEach(r => main.appendChild(krow(r, RANK.indexOf(r) + 1)));
+  rows.slice(0, rankShown).forEach(r => main.appendChild(krow(r, base.indexOf(r) + 1)));
   if(rows.length > rankShown){
     const m = document.createElement('button'); m.className = 'kmore';
     m.textContent = `Mostrar mais ${Math.min(150, rows.length - rankShown)} produtos`;
@@ -436,28 +489,61 @@ function renderRank(main){
   }
 }
 
+// índice de competitividade por ação vigente da Rede Mais
+function renderCompSummary(main){
+  const acts = ACTIONS.filter(a => a.seg === 'propria' && isActive(a));
+  const grid = document.createElement('div'); grid.className = 'comp-grid';
+  acts.forEach(a => {
+    let win = 0, tie = 0, lose = 0; const losses = [];
+    RANK.forEach(r => {
+      const mine = r.occ.filter(o => o.a.id === a.id).map(o => priceNum(o.prod.p)).filter(v => v > 0);
+      if(!mine.length) return;
+      const comp = r.occ.filter(o => isActive(o.a) && o.a.seg !== 'propria').map(o => priceNum(o.prod.p)).filter(v => v > 0);
+      if(!comp.length) return;
+      const my = Math.min(...mine), cm = Math.min(...comp);
+      if(my < cm) win++; else if(my === cm) tie++; else { lose++; losses.push({ n: r.c.n, gap: (my-cm)/cm }); }
+    });
+    const n = win + tie + lose;
+    if(!n) return;
+    const pct = Math.round(((win + tie) / n) * 100);
+    losses.sort((x,y) => y.gap - x.gap);
+    const card = document.createElement('div'); card.className = 'comp-card';
+    card.innerHTML = `<div class="t">${a.titulo}</div><div class="d">${fmt(a.ini)} – ${fmt(a.fim)} · ${n} produtos comparáveis</div>
+      <div class="pct">${pct}%<small>competitivo</small></div>
+      <div class="comp-bar"><span class="cw" style="width:${win/n*100}%"></span><span class="ct" style="width:${tie/n*100}%"></span><span class="cl" style="width:${lose/n*100}%"></span></div>
+      <div class="cnt">ganha <b>${win}</b> · empata <b>${tie}</b> · perde <b>${lose}</b></div>
+      ${losses.length ? `<div class="gaps">maiores gaps: ${losses.slice(0,2).map(l => `${l.n} (+${fmtPct(l.gap)})`).join(' · ')}</div>` : ''}`;
+    grid.appendChild(card);
+  });
+  if(grid.children.length) main.appendChild(grid);
+}
+
 function krow(r, pos){
+  const occ = onlyMine ? r.occ.filter(o => isActive(o.a)) : r.occ;
+  const st = statsFor(occ);
+  const nEnc = new Set(occ.map(o => o.a.id)).size;
+  const banners = [...new Set(occ.map(o => o.a.banner))];
   const div = document.createElement('div'); div.className = 'krow';
   const h = document.createElement('button'); h.className = 'krow-h';
   let priceHtml;
-  if(r.min === r.max){
-    priceHtml = `<span class="ksingle">${fmtP(r.mode)}<small>${r.occ.length === 1 ? 'aparição única' : 'mesmo preço em todas'}</small></span>`;
+  if(st.min === st.max){
+    priceHtml = `<span class="ksingle">${fmtP(st.mode)}<small>${occ.length === 1 ? 'aparição única' : 'mesmo preço em todas'}</small></span>`;
   } else {
-    const px = v => 5 + ((v - r.min) / (r.max - r.min)) * 90;
+    const px = v => 5 + ((v - st.min) / (st.max - st.min)) * 90;
     priceHtml = `<span><span class="ktrack">
-        <span class="kdot min" style="left:${px(r.min)}%"></span>
-        <span class="kdot mode" style="left:${px(r.mode)}%"></span>
-        <span class="kdot max" style="left:${px(r.max)}%"></span></span>
-      <span class="klabels"><span>${fmtP(r.min)}</span><span class="mid">${fmtP(r.mode)}</span><span>${fmtP(r.max)}</span></span></span>`;
+        <span class="kdot min" style="left:${px(st.min)}%"></span>
+        <span class="kdot mode" style="left:${px(st.mode)}%"></span>
+        <span class="kdot max" style="left:${px(st.max)}%"></span></span>
+      <span class="klabels"><span>${fmtP(st.min)}</span><span class="mid">${fmtP(st.mode)}</span><span>${fmtP(st.max)}</span></span></span>`;
   }
   h.innerHTML = `<span class="krank">${pos}</span>
-    <span class="kmain"><span class="kname">${r.c.n}${r.c.u ? `<span class="kunit">${r.c.u}</span>` : ''}</span>
-      <span class="kmeta"><b>${r.nEnc}</b> encarte${r.nEnc===1?'':'s'} · ${r.occ.length} aparição${r.occ.length===1?'':'ões'} · ${r.banners.join(' · ')}</span></span>
+    <span class="kmain"><span class="kname">${r.c.n}${r.c.u ? `<span class="kunit">${r.c.u}</span>` : ''}${compBadge(compInfo(r))}</span>
+      <span class="kmeta"><b>${nEnc}</b> encarte${nEnc===1?'':'s'} · ${occ.length} ${occ.length===1?'aparição':'aparições'} · ${banners.join(' · ')}</span></span>
     <span class="kprice">${priceHtml}</span><span class="kchev">›</span>`;
   h.addEventListener('click', () => div.classList.toggle('open'));
   div.appendChild(h);
-  const occ = document.createElement('div'); occ.className = 'kocc rrows';
-  r.occ.forEach(o => {
+  const list = document.createElement('div'); list.className = 'kocc rrows';
+  occ.forEach(o => {
     const row = document.createElement('button'); row.className = 'rrow';
     const mine = o.a.seg === 'propria';
     row.innerHTML = `<span class="who-mini"${mine ? ' style="color:var(--green)"' : ''}>${mine ? '★ ' : ''}${o.a.banner}</span>
@@ -465,9 +551,9 @@ function krow(r, pos){
       <span class="price">R$ ${o.prod.p}${o.prod.u ? `<small>${o.prod.u}</small>` : ''}</span>
       <span class="pg">pág. ${o.pg+1}</span><span class="go">›</span>`;
     row.addEventListener('click', () => openViewer(o.a, o.pg, o.prod));
-    occ.appendChild(row);
+    list.appendChild(row);
   });
-  div.appendChild(occ);
+  div.appendChild(list);
   return div;
 }
 
