@@ -1,0 +1,388 @@
+[
+ {
+  "id": "rss_diashow",
+  "perfil": "redesuper.show",
+  "titulo": "Super Dia Show",
+  "banner": "Rede Super Show",
+  "segmento": "varejo",
+  "inicio": "2026-07-03",
+  "fim": "2026-07-05",
+  "carrossel": true,
+  "shortcode": "DaU5ukzESkj",
+  "caption": "🚀🔥A espera acabou: a escalação do fim de semana está definida com as melhores ofertas! É o Super Dia Show na @redesuper.show com promoções para encher o carrinho de economia. Arraste e confira. \n\nAs ofertas são válidas em todas as nossas 23 lojas, incluindo as 6 unidades da Zona Norte de Natal. Corre para aproveitar!",
+  "paginas": [
+   "rss_diashow_p1.jpg",
+   "rss_diashow_p2.jpg",
+   "rss_diashow_p3.jpg",
+   "rss_diashow_p4.jpg",
+   "rss_diashow_p5.jpg",
+   "rss_diashow_p6.jpg",
+   "rss_diashow_p7.jpg",
+   "rss_diashow_p8.jpg"
+  ]
+ },
+ {
+  "id": "rss_terca",
+  "perfil": "redesuper.show",
+  "titulo": "Terça Show",
+  "banner": "Rede Super Show",
+  "segmento": "varejo",
+  "inicio": "2026-06-29",
+  "fim": "2026-07-02",
+  "carrossel": true,
+  "shortcode": "DaNiGYzDhXg",
+  "caption": "Começou a Terça Show do Super Show.‼️‼️‼️♥️🚨🚨\nAs ofertas são válidas para essa terça-feira em todas as lojas da rede, corre conferir!📍",
+  "paginas": [
+   "rss_terca_p1.jpg",
+   "rss_terca_p2.jpg",
+   "rss_terca_p3.jpg",
+   "rss_terca_p4.jpg",
+   "rss_terca_p5.jpg",
+   "rss_terca_p6.jpg",
+   "rss_terca_p7.jpg",
+   "rss_terca_p8.jpg",
+   "rss_terca_p9.jpg",
+   "rss_terca_p10.jpg"
+  ]
+ },
+ {
+  "id": "fav_sextou",
+  "perfil": "favoritosuper",
+  "titulo": "Sextou com Sabadão",
+  "banner": "Favorito Super",
+  "segmento": "varejo",
+  "inicio": "2026-07-03",
+  "fim": "2026-07-04",
+  "carrossel": true,
+  "shortcode": "DaTsl14ljyR",
+  "caption": "📍TODAS AS LOJAS\n\nSextou com Sabadão Favorito! 🔥\nDois dias inteiros de ofertas imperdíveis em todas as lojas pra você aproveitar sem moderação 🛒\n⠀\n📍 Ofertas válidas nas unidades em todas as unidades de 03 a 04 de julho de 2026, enquanto durarem os estoques.\n#SextouComSabadão #FavoritoSuper #OfertasFavorito #AtacadoFavorito",
+  "paginas": [
+   "fav_sextou_p1.jpg",
+   "fav_sextou_p2.jpg"
+  ]
+ },
+ {
+  "id": "fav_reinaug",
+  "perfil": "favoritosuper",
+  "titulo": "Encarte de Reinauguração",
+  "banner": "Atacado Favorito ZN + Favorito Macaíba",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-03",
+  "fim": "2026-07-05",
+  "carrossel": true,
+  "shortcode": "DaTv9I7FgAZ",
+  "caption": "🚨NOVO ENCARTE DE REINAUGURAÇÃO FINAL DE SEMANA 🛒🚨\n\n📍ATACADO FAVORITO ZONA NORTE E FAVORITO MACAIBA \n\nPromoções imperdíveis para você encher o carrinho 🛒 🍓🥕\n\n📆 De 03.07 á 05.07 nas unidades de atacado da Zona Norte e Favorito Macaiba.\n\n#atacadofavorito #favoritosuper #ofertasimperdiveis #zonanortenatal #macaiba",
+  "paginas": [
+   "fav_reinaug_p1.jpg",
+   "fav_reinaug_p2.jpg"
+  ]
+ },
+ {
+  "id": "qz_vaibrasil",
+  "perfil": "queirozatacadaonatal_",
+  "titulo": "Encarte Vai Brasil",
+  "banner": "Queiroz Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-06-29",
+  "fim": "2026-07-05",
+  "carrossel": true,
+  "shortcode": "DaJWy43ERqk",
+  "caption": "O novo encarte Vai Brasil já chegou ⚽\n\nDe 29 de junho a 05 de julho, tem ofertas para você torcer pelo Brasil e economizar de verdade 🔥",
+  "paginas": [
+   "qz_vaibrasil_p1.jpg",
+   "qz_vaibrasil_p2.jpg",
+   "qz_vaibrasil_p3.jpg"
+  ]
+ },
+ {
+  "id": "qz_ofertaco",
+  "perfil": "queirozatacadaonatal_",
+  "titulo": "Ofertaço de Verdade",
+  "banner": "Queiroz Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-02",
+  "fim": "2026-07-05",
+  "carrossel": true,
+  "shortcode": "DaQ3OUWoC4s",
+  "caption": "O encarte do Ofertaço de Verdade chegou 🛒 \n\nDe 02 a 05 de julho, tem ofertas imperdíveis para você economizar de verdade no final de semana 🔥",
+  "paginas": [
+   "qz_ofertaco_p1.jpg",
+   "qz_ofertaco_p2.jpg",
+   "qz_ofertaco_p3.jpg"
+  ]
+ },
+ {
+  "id": "sfa_campeas",
+  "perfil": "superfacilatacado",
+  "titulo": "Ofertas Campeãs",
+  "banner": "SuperFácil Atacado",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-01",
+  "fim": "2026-07-06",
+  "carrossel": true,
+  "shortcode": "DaQEAJwDu7r",
+  "caption": "⚽💚💛 A torcida já está em clima de decisão… e a economia também!\n\nNo SuperFácil Atacado, você entra em campo com ofertas campeãs para abastecer a casa, reunir a família e torcer pelo Brasil sem pesar no bolso. 🛒🔥\n\n📆 Ofertas válidas de 01 a 06 de julho de 2026.\n📍 Lojas SuperFácil RN (Exceto Mossoró)",
+  "paginas": [
+   "sfa_campeas_p1.jpg",
+   "sfa_campeas_p2.jpg"
+  ]
+ },
+ {
+  "id": "sfvs_fechames",
+  "perfil": "superfacilvaledosol",
+  "titulo": "Fecha Mês",
+  "banner": "SuperFácil Vale do Sol",
+  "segmento": "atacarejo",
+  "inicio": "2026-06-27",
+  "fim": "2026-06-30",
+  "carrossel": false,
+  "shortcode": "DaELEvNhhOe",
+  "caption": "Junho foi um mês e tanto, né? 💃🏽🎉\n\nPra coroar esse fim, preparamos um Fecha Mês especial com ofertas imperdíveis! 🤩🛒 Venha aproveitar!\n\n📆 Ofertas válidas de 27 a 30 de junho de 2026, ou enquanto durarem os estoques.\n📍 Lojas SuperFácil RN (Exceto Mossoró)",
+  "paginas": [
+   "sfvs_fechames_p1.jpg"
+  ]
+ },
+ {
+  "id": "sfvs_hortifruti",
+  "perfil": "superfacilvaledosol",
+  "titulo": "Hortifruti em Oferta",
+  "banner": "SuperFácil Vale do Sol",
+  "segmento": "atacarejo",
+  "inicio": "2026-06-25",
+  "fim": "2026-06-27",
+  "carrossel": false,
+  "shortcode": "DZ-zR7XBL28",
+  "caption": "Hortifruti com economia, no SuperFácil tem! 💙 Venha aproveitar legumes, frutas e verduras fresquinhos. 🍎🧅🌽\n\n📆 Válido de 25 a 27 de junho de 2026.\n📍 Lojas SuperFácil RN (Exceto Mossoró).",
+  "paginas": [
+   "sfvs_hortifruti_p1.jpg"
+  ]
+ },
+ {
+  "id": "sfvs_saojoao",
+  "perfil": "superfacilvaledosol",
+  "titulo": "São João Verde e Amarelo",
+  "banner": "SuperFácil Vale do Sol",
+  "segmento": "atacarejo",
+  "inicio": "2026-06-16",
+  "fim": "2026-06-22",
+  "carrossel": true,
+  "shortcode": "DZnvXUHgej8",
+  "caption": "💚💛 O São João Verde e Amarelo do SuperFácil Atacado chegou com tudo! 🛒\n\nÉ hora de abastecer a casa, o comércio e a festa com muita economia, variedade e aquele preço que faz a diferença no fim das contas. 🔥✨\n\n📅 Ofertas válidas de 16 a 22 de junho de 2026, ou enquanto durarem os estoques.\n\n📍 Lojas SuperFácil RN (Exceto Mossoró): \n\n💚 SuperFácil Atacado: fácil comprar, fácil economizar!",
+  "paginas": [
+   "sfvs_saojoao_p1.jpg",
+   "sfvs_saojoao_p2.jpg"
+  ]
+ },
+ {
+  "id": "mv_julho",
+  "perfil": "marvermelhoatacado",
+  "titulo": "Ofertas de Julho",
+  "banner": "Mar Vermelho Atacado",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-03",
+  "fim": "2026-07-09",
+  "carrossel": true,
+  "shortcode": "DaTukQom_f2",
+  "caption": "Julho começou com salário na conta, ofertas em toda a loja e economia que vale cada centavo. E pra não perder nenhuma promoção, entra no MarZap 📲\n\n✅ Ofertas válidas de 03/07 a 09/07 ou enquanto durarem os estoques.\n\n#marvermelhoatacado #ofertas #economia #marzap #preçobaixo",
+  "paginas": [
+   "mv_julho_p1.jpg",
+   "mv_julho_p2.jpg",
+   "mv_julho_p3.jpg",
+   "mv_julho_p4.jpg"
+  ]
+ },
+ {
+  "id": "mv_hortifruti",
+  "perfil": "marvermelhoatacado",
+  "titulo": "Hortifrúti Fresquinho",
+  "banner": "Mar Vermelho Atacado",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-02",
+  "fim": "2026-07-03",
+  "carrossel": true,
+  "shortcode": "DaRJs-7m2WF",
+  "caption": "Dinheiro na conta, sacola na mão e hortifrúti fresquinho pra começar o mês com o pé direito 🥬\n\n✅ Ofertas válidas de 02/07 a 03/07 ou enquanto durarem os estoques.\n\n#marvermelhoatacado #hortifruti #economia #ofertas #qualidade",
+  "paginas": [
+   "mv_hortifruti_p1.jpg",
+   "mv_hortifruti_p2.jpg"
+  ]
+ },
+ {
+  "id": "mv_limpeza",
+  "perfil": "marvermelhoatacado",
+  "titulo": "Festival da Limpeza",
+  "banner": "Mar Vermelho Atacado",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-02",
+  "fim": "2026-07-06",
+  "carrossel": false,
+  "shortcode": "DaRXZElm73d",
+  "caption": "LIMPA, LIMPA TUDO! Casa um brinco, economia garantida e ofertas que fazem a diferença no seu dia a dia ✨\n\n✅ Ofertas válidas de 02/07 a 06/07 ou enquanto durarem os estoques.\n\n#marvermelhoatacado #festivaldalimpeza #economia #ofertas #marzap",
+  "paginas": [
+   "mv_limpeza_p1.jpg"
+  ]
+ },
+ {
+  "id": "lm_selecao",
+  "perfil": "levamaismacau",
+  "titulo": "Seleção de Ofertas",
+  "banner": "Leva Mais Atacarejo",
+  "segmento": "atacarejo",
+  "inicio": "2026-06-30",
+  "fim": "2026-07-09",
+  "carrossel": true,
+  "shortcode": "DaL_1F1Fb2T",
+  "caption": "⚽️ A Seleção de Ofertas do Leva Mais Atacarejo está no ar!",
+  "paginas": [
+   "lm_selecao_p1.jpg",
+   "lm_selecao_p2.jpg",
+   "lm_selecao_p3.jpg"
+  ]
+ },
+ {
+  "id": "lm_copa",
+  "perfil": "levamaismacau",
+  "titulo": "Ofertas da Copa",
+  "banner": "Leva Mais Atacarejo",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-03",
+  "fim": "2026-07-05",
+  "carrossel": true,
+  "shortcode": "DaVJX9kFcnR",
+  "caption": "🇧🇷 Vem aproveitar as melhores ofertas em ritmo de Copa do Mundo no Leva Mais Atacarejo! \n\nAqui você pode economizar de verdade com o LevaTUDOLevaMAIS!",
+  "paginas": [
+   "lm_copa_p1.jpg",
+   "lm_copa_p2.jpg"
+  ]
+ },
+ {
+  "id": "lm_fechames",
+  "perfil": "levamaismacau",
+  "titulo": "Operação Fecha Mês",
+  "banner": "Leva Mais Atacarejo",
+  "segmento": "atacarejo",
+  "inicio": "2026-06-29",
+  "fim": "2026-06-30",
+  "carrossel": true,
+  "shortcode": "DaIq9_ClQvC",
+  "caption": "⚽️ A Operação FECHA MÊS com economia chegou aqui no Leva Mais Atacarejo!",
+  "paginas": [
+   "lm_fechames_p1.jpg",
+   "lm_fechames_p2.jpg"
+  ]
+ },
+ {
+  "id": "lm_acougue",
+  "perfil": "levamaismacau",
+  "titulo": "Ofertas do Açougue",
+  "banner": "Leva Mais Atacarejo",
+  "segmento": "atacarejo",
+  "inicio": "2026-06-26",
+  "fim": "2026-06-28",
+  "carrossel": false,
+  "shortcode": "DaDP3hhSPmD",
+  "caption": "🥩 As ofertas especiais do açougue Leva Mais Atacarejo já estão no ar!",
+  "paginas": [
+   "lm_acougue_p1.jpg"
+  ]
+ },
+ {
+  "id": "lm_hortifruti",
+  "perfil": "levamaismacau",
+  "titulo": "Hortifruti Quarta e Quinta",
+  "banner": "Leva Mais Atacarejo",
+  "segmento": "atacarejo",
+  "inicio": "2026-06-24",
+  "fim": "2026-06-25",
+  "carrossel": false,
+  "shortcode": "DZ8FOpaSMek",
+  "caption": "🧺 A economia de verdade começa aqui no Hortifruti do Leva Mais Atacarejo! Somente nesta quarta e quinta.",
+  "paginas": [
+   "lm_hortifruti_p1.jpg"
+  ]
+ },
+ {
+  "id": "rm_copa_jun",
+  "perfil": "redemaisrn",
+  "titulo": "Copa RedeMAIS (23/06 a 01/07)",
+  "banner": "Rede Mais",
+  "segmento": "propria",
+  "inicio": "2026-06-23",
+  "fim": "2026-07-01",
+  "carrossel": true,
+  "shortcode": "DZ5-SNTDVTQ",
+  "caption": "🏆⚽ A Copa RedeMAIS entrou em campo cheia de ofertas e com preço campeão! 🛒🔥\n\nTem oferta de mercearia, frios, bebidas, limpeza e muito mais pra você economizar de verdade e fazer aquele carrinho completo sem levar cartão vermelho no orçamento! 😎💛❤️\n\n💥 Destaques imperdíveis esperando por você!\n📅 Ofertas válidas de 23/06 a 01/07/2026\n📍 Passe na sua RedeMAIS mais próxima e aproveite!\n\n⚽ Aqui o jogo é de economia!\n#RedeMAIS #CopaRedeMAIS #OfertaCampeã #Promoção #EconomiaDeVerdade",
+  "paginas": [
+   "rm_copa_jun_p1.jpg",
+   "rm_copa_jun_p2.jpg",
+   "rm_copa_jun_p3.jpg",
+   "rm_copa_jun_p4.jpg",
+   "rm_copa_jun_p5.jpg"
+  ]
+ },
+ {
+  "id": "rm_rasgapreco",
+  "perfil": "redemaisrn",
+  "titulo": "Rasga Preço",
+  "banner": "Rede Mais",
+  "segmento": "propria",
+  "inicio": "2026-07-03",
+  "fim": "2026-07-06",
+  "carrossel": false,
+  "shortcode": "DaTuNFfCAOX",
+  "caption": "RASGA PREÇO RedeMAIS! 🔥🏷️\n\nChegou a hora de encher o carrinho e pagar menos! De 26 a 28 de Junho, os precinhos estão de arrancar o queixo.\n\n📍 Corre pra loja mais perto de você — oferta por tempo limitado!\n\n#RedeMAIS #CashMAIS #RasgaPreço #SupermercadoNatal #OfertasDaSemana",
+  "paginas": [
+   "rm_rasgapreco_p1.jpg"
+  ]
+ },
+ {
+  "id": "rm_copa",
+  "perfil": "redemaisrn",
+  "titulo": "Copa RedeMAIS",
+  "banner": "Rede Mais",
+  "segmento": "propria",
+  "inicio": "2026-07-02",
+  "fim": "2026-07-10",
+  "carrossel": true,
+  "shortcode": "DaRJa-zAcfA",
+  "caption": "🏆⚽ A Copa RedeMAIS entrou em campo cheia de ofertas e com preço campeão! 🛒🔥\n\nTem oferta de mercearia, frios, bebidas, limpeza e muito mais pra você economizar de verdade e fazer aquele carrinho completo sem levar cartão vermelho no orçamento! 😎💛❤️\n\n💥 Destaques imperdíveis esperando por você!\n📅 Ofertas válidas de 02/07 a 10/07/2026\n📍 Passe na sua RedeMAIS mais próxima e aproveite!\n\n⚽ Aqui o jogo é de economia!\n#RedeMAIS #CopaRedeMAIS #OfertaCampeã #Promoção #EconomiaDeVerdade",
+  "paginas": [
+   "rm_copa_p1.jpg",
+   "rm_copa_p2.jpg",
+   "rm_copa_p3.jpg",
+   "rm_copa_p4.jpg"
+  ]
+ },
+ {
+  "id": "rm_feirao",
+  "perfil": "redemaisrn",
+  "titulo": "Feirão Quarta e Quinta",
+  "banner": "Rede Mais",
+  "segmento": "propria",
+  "inicio": "2026-07-01",
+  "fim": "2026-07-02",
+  "carrossel": true,
+  "shortcode": "DaOkmY_HYnJ",
+  "caption": "Nesta quarta e quinta, 01 e 02 de Julho, também tem frutas e verduras fresquinhas, com preços que cabem no bolso! 🛒🍌🥦\nÉ o feirão que todo mundo espera pra economizar de verdade.\n\n👉 Só dois dias!\n👉 Corre pra loja mais próxima!\n\nRedeMAIS — aqui é MAIS economia todo dia!",
+  "paginas": [
+   "rm_feirao_p1.jpg",
+   "rm_feirao_p2.jpg"
+  ]
+ },
+ {
+  "id": "rm_diad",
+  "perfil": "redemaisrn",
+  "titulo": "Dia D+",
+  "banner": "Rede Mais",
+  "segmento": "propria",
+  "inicio": "2026-06-29",
+  "fim": "2026-07-01",
+  "carrossel": true,
+  "shortcode": "DaJbN9SlMbO",
+  "caption": "🚨 ALERTA DE ECONOMIA MÁXIMA! 🚨\n\nChegou a hora que você esperava!\n\nO DIA D+ Acontecem de Segunda a Quarta(29/06 a 01/07🗓️💥\n\nÉ a sua OPORTUNIDADE de encher o carrinho com TUDO o que você precisa, com preços que parecem mágica! ✨\n\nNão dá pra perder! Avise todo mundo, marque a família nos comentários e prepare as sacolas. O Bom Vizinho vai fazer seu meio de mês render muito mais! 💰\n\nOfertas válidas nos dias 29 de Junho a 01 de Julho de 2026 ou enquanto durarem os estoques.\n\n#RedeMAIS #DiaDRedeMAIS #MaisBaratoDoMes #Promoção",
+  "paginas": [
+   "rm_diad_p1.jpg",
+   "rm_diad_p2.jpg"
+  ]
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "username": "redemaisrn",
+  "banner": "Rede Mais",
+  "segmento": "propria"
+ },
+ {
+  "username": "redesuper.show",
+  "banner": "Rede Super Show",
+  "segmento": "varejo"
+ },
+ {
+  "username": "favoritosuper",
+  "banner": "Favorito Super / Atacado Favorito",
+  "segmento": "varejo"
+ },
+ {
+  "username": "queirozatacadaonatal_",
+  "banner": "Queiroz Atacadão",
+  "segmento": "atacarejo"
+ },
+ {
+  "username": "superfacilatacado",
+  "banner": "SuperFácil Atacado",
+  "segmento": "atacarejo"
+ },
+ {
+  "username": "superfacilvaledosol",
+  "banner": "SuperFácil Vale do Sol",
+  "segmento": "atacarejo"
+ },
+ {
+  "username": "marvermelhoatacado",
+  "banner": "Mar Vermelho Atacado",
+  "segmento": "atacarejo"
+ },
+ {
+  "username": "levamaismacau",
+  "banner": "Leva Mais Atacarejo",
+  "segmento": "atacarejo"
+ },
+ {
+  "username": "miramarsupermercado",
+  "banner": "Miramar Supermercado",
+  "segmento": "varejo"
+ },
+ {
+  "username": "mirassolatacado",
+  "banner": "Mirassol Atacado",
+  "segmento": "atacarejo"
+ }
+]

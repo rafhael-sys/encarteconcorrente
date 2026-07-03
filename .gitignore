@@ -1,0 +1,4 @@
+data/pages/
+data/*.log
+data/.ultima_execucao
+painel-encartes.html
