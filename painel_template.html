@@ -206,19 +206,6 @@
   .kbadge.win{color:var(--green);background:var(--green-bg)}
   .kbadge.tie{color:var(--text-2);background:var(--surface-2)}
   .kbadge.lose{color:#c2410c;background:#faeee5}
-  .comp-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px;margin:0 0 22px}
-  .comp-card{border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;background:var(--bg)}
-  .comp-card .t{font-size:13.5px;font-weight:600}
-  .comp-card .d{font-size:11.5px;color:var(--text-3)}
-  .comp-card .pct{font-size:24px;font-weight:700;letter-spacing:-.02em;margin-top:6px;font-variant-numeric:tabular-nums}
-  .comp-card .pct small{font-size:12px;font-weight:500;color:var(--text-3);margin-left:6px}
-  .comp-bar{display:flex;height:8px;border-radius:4px;overflow:hidden;margin:8px 0 7px;background:var(--surface-2)}
-  .comp-bar span{height:100%}
-  .comp-bar .cw{background:var(--green)}
-  .comp-bar .ct{background:#b9b5ad}
-  .comp-bar .cl{background:#c2410c}
-  .comp-card .cnt{font-size:12px;color:var(--text-2)}
-  .comp-card .gaps{font-size:11.5px;color:#c2410c;margin-top:6px;line-height:1.45}
   @media (max-width:640px){.kprice{width:150px}.kocc .rrow .who-mini{width:70px}}
 
   footer{max-width:1080px;margin:0 auto;padding:0 20px 40px;font-size:12.5px;color:var(--text-3)}
@@ -471,8 +458,6 @@ function renderRank(main){
   main.appendChild(leg);
   leg.querySelector('#chkMine').addEventListener('change', e => { onlyMine = e.target.checked; rankShown = 100; render(); });
 
-  if(onlyMine) renderCompSummary(main);
-
   if(!rows.length){
     const e = document.createElement('div'); e.className = 'empty';
     e.innerHTML = onlyMine && query.length < 2
@@ -487,35 +472,6 @@ function renderRank(main){
     m.addEventListener('click', () => { rankShown += 150; render(); });
     main.appendChild(m);
   }
-}
-
-// índice de competitividade por ação vigente da Rede Mais
-function renderCompSummary(main){
-  const acts = ACTIONS.filter(a => a.seg === 'propria' && isActive(a));
-  const grid = document.createElement('div'); grid.className = 'comp-grid';
-  acts.forEach(a => {
-    let win = 0, tie = 0, lose = 0; const losses = [];
-    RANK.forEach(r => {
-      const mine = r.occ.filter(o => o.a.id === a.id).map(o => priceNum(o.prod.p)).filter(v => v > 0);
-      if(!mine.length) return;
-      const comp = r.occ.filter(o => isActive(o.a) && o.a.seg !== 'propria').map(o => priceNum(o.prod.p)).filter(v => v > 0);
-      if(!comp.length) return;
-      const my = Math.min(...mine), cm = Math.min(...comp);
-      if(my < cm) win++; else if(my === cm) tie++; else { lose++; losses.push({ n: r.c.n, gap: (my-cm)/cm }); }
-    });
-    const n = win + tie + lose;
-    if(!n) return;
-    const pct = Math.round(((win + tie) / n) * 100);
-    losses.sort((x,y) => y.gap - x.gap);
-    const card = document.createElement('div'); card.className = 'comp-card';
-    card.innerHTML = `<div class="t">${a.titulo}</div><div class="d">${fmt(a.ini)} – ${fmt(a.fim)} · ${n} produtos comparáveis</div>
-      <div class="pct">${pct}%<small>competitivo</small></div>
-      <div class="comp-bar"><span class="cw" style="width:${win/n*100}%"></span><span class="ct" style="width:${tie/n*100}%"></span><span class="cl" style="width:${lose/n*100}%"></span></div>
-      <div class="cnt">ganha <b>${win}</b> · empata <b>${tie}</b> · perde <b>${lose}</b></div>
-      ${losses.length ? `<div class="gaps">maiores gaps: ${losses.slice(0,2).map(l => `${l.n} (+${fmtPct(l.gap)})`).join(' · ')}</div>` : ''}`;
-    grid.appendChild(card);
-  });
-  if(grid.children.length) main.appendChild(grid);
 }
 
 function krow(r, pos){
