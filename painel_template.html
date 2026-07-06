@@ -221,19 +221,6 @@
   .kbadge.lose{color:#c2410c;background:#faeee5}
   @media (max-width:640px){.kprice{width:150px}.kocc .rrow .who-mini{width:70px}}
 
-  /* ---------- feed "desde sua última visita" ---------- */
-  .feed{border:1px solid var(--border);border-radius:var(--radius);background:var(--surface);padding:14px 16px;margin:0 0 24px}
-  .feed-t{font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--text-3);margin-bottom:8px}
-  .feed-row{display:flex;align-items:center;gap:8px;width:100%;text-align:left;padding:6px 8px;border-radius:8px;font-size:13.5px}
-  .feed-row:hover{background:var(--surface-2)}
-  .feed-row b{font-weight:600}
-  .feed-row .fdates{color:var(--text-3);font-size:12px;font-variant-numeric:tabular-nums;margin-left:auto;white-space:nowrap}
-  .feed-mais{padding:6px 8px;font-size:13px;font-weight:500;color:var(--green)}
-  .feed-mais:hover{text-decoration:underline}
-  .feed-exp{padding:7px 8px 1px;font-size:12.5px;color:var(--text-3);border-top:1px solid var(--border);margin-top:7px}
-  .feed-exp button{color:var(--text-2);font-weight:500}
-  .feed-exp button:hover{text-decoration:underline}
-
   /* ---------- saúde das fontes ---------- */
   .fontes-wrap{position:relative}
   .fontes-pill{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--border);border-radius:999px;padding:6px 13px;font-size:12.5px;font-weight:500;color:var(--text-2);background:var(--bg)}
@@ -338,49 +325,6 @@ const SEGS = [['propria','Rede Mais — sua rede'],['varejo','Varejo'],['atacare
 let tab = 'on';          // 'on' = ativos, 'off' = expirados
 let query = '';
 
-/* ---------- feed: novidades desde a última visita ---------- */
-const feedVistos = new Set(JSON.parse(localStorage.getItem('feedVistos') || '[]'));
-const expVistos = new Set(JSON.parse(localStorage.getItem('expVistos') || '[]'));
-const FEED_NOVOS = ACTIONS.filter(a => a.add && isActive(a) && !feedVistos.has(a.id));
-const FEED_EXP = ACTIONS.filter(a => !isActive(a) && !expVistos.has(a.id)
-  && a.fim >= dISO(new Date(Date.now() - 7 * 864e5)));
-try {
-  localStorage.setItem('feedVistos', JSON.stringify([...feedVistos, ...FEED_NOVOS.map(a => a.id)]));
-  localStorage.setItem('expVistos', JSON.stringify([...expVistos, ...FEED_EXP.map(a => a.id)]));
-} catch(e){}
-let feedTudo = false;
-
-function feedBox(){
-  if(!FEED_NOVOS.length && !FEED_EXP.length) return null;
-  const box = document.createElement('div'); box.className = 'feed';
-  const t = document.createElement('div'); t.className = 'feed-t';
-  t.textContent = 'Desde sua última visita';
-  box.appendChild(t);
-  const mostrar = feedTudo ? FEED_NOVOS : FEED_NOVOS.slice(0, 8);
-  mostrar.forEach(a => {
-    const nprod = a.pgs.reduce((s2, p2) => s2 + (PRODUCTS[p2]||[]).length, 0);
-    const r = document.createElement('button'); r.className = 'feed-row';
-    r.innerHTML = `<span>▸</span><span><b>${esc(a.banner)}</b> — ${esc(a.titulo)} · ${nprod} produtos</span>
-      <span class="fdates">${fmt(a.ini)} – ${fmt(a.fim)}</span>`;
-    const first = Math.max(0, a.pgs.findIndex(p2 => (PRODUCTS[p2]||[]).length > 0));
-    r.addEventListener('click', () => openViewer(a, first, null));
-    box.appendChild(r);
-  });
-  if(!feedTudo && FEED_NOVOS.length > 8){
-    const m = document.createElement('button'); m.className = 'feed-mais';
-    m.textContent = `e mais ${FEED_NOVOS.length - 8} encartes novos`;
-    m.addEventListener('click', () => { feedTudo = true; render(); });
-    box.appendChild(m);
-  }
-  if(FEED_EXP.length){
-    const e2 = document.createElement('div'); e2.className = 'feed-exp';
-    e2.innerHTML = `<button>${FEED_EXP.length} encarte${FEED_EXP.length===1?' expirou':'s expiraram'} desde sua visita →</button>`;
-    e2.querySelector('button').addEventListener('click', () => { tab = 'off'; render(); });
-    box.appendChild(e2);
-  }
-  return box;
-}
-
 /* ---------- saúde das fontes ---------- */
 let fontesAberto = false;
 function fonteNivel(f){
@@ -481,10 +425,6 @@ function render(){
   if(query.length >= 2){ renderSearch(main, inTab); return; }
 
   main.innerHTML = '';
-  if(tab === 'on'){
-    const fb = feedBox();
-    if(fb) main.appendChild(fb);
-  }
   const known = new Set(SEGS.map(s => s[0]));
   const extras = [...new Set(inTab.map(a => a.seg).filter(g => !known.has(g)))]
     .map(g => [g, g.charAt(0).toUpperCase() + g.slice(1)]);
