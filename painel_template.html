@@ -305,6 +305,7 @@ function marcaVisto(a){
 const fmt = d => d.slice(8,10)+'/'+d.slice(5,7);
 const status = a => a.fim < hoje() ? 'off' : (a.fim === hoje() ? 'today' : 'on');
 const isActive = a => status(a) !== 'off';
+const linkDe = a => a.lk || `https://www.instagram.com/p/${a.sc}/`;
 const initials = b => b.split(/\s+/).filter(w=>w.length>2 || /^[A-Z]/.test(w)).slice(0,2).map(w=>w[0]).join('').toUpperCase();
 const SEGS = [['propria','Rede Mais — sua rede'],['varejo','Varejo'],['atacarejo','Atacarejo']];
 
@@ -653,11 +654,12 @@ let V = null; // {a, pg, prod}
 function openViewer(a, pg, prod){
   marcaVisto(a);
   // encarte antigo sem imagem embutida: abre o post original
-  if(!IMG[a.pgs[pg]]){ window.open(`https://www.instagram.com/p/${a.sc}/`, '_blank'); render(); return; }
+  if(!IMG[a.pgs[pg]]){ window.open(linkDe(a), '_blank'); render(); return; }
   V = {a, pg, prod};
   $('vAvatar').textContent = initials(a.banner);
   $('vBanner').textContent = a.banner;
-  $('vLink').href = `https://www.instagram.com/p/${a.sc}/`;
+  $('vLink').href = linkDe(a);
+  $('vLink').textContent = a.lk ? 'Ver no site ↗' : 'Ver no Instagram ↗';
   drawPage();
   $('overlay').classList.add('open');
   document.body.style.overflow='hidden';

@@ -53,7 +53,8 @@ with tempfile.TemporaryDirectory() as tmp:
             data_actions.append({'id': a['id'], 'banner': a['banner'], 'perfil': a['perfil'],
                                  'titulo': a['titulo'], 'seg': a['segmento'], 'ini': a['inicio'],
                                  'fim': a['fim'], 'sc': a['shortcode'], 'pgs': page_ids,
-                                 'add': a.get('adicionado_em', '')})
+                                 'add': a.get('adicionado_em', ''),
+                                 'lk': a.get('link', '')})
 
 n_products = sum(len(products.get(p, [])) for a in data_actions for p in a['pgs'])
 import datetime
