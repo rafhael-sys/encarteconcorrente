@@ -6,7 +6,12 @@ de oferta e as páginas do encarte em JPEG (CloudFront). Validade vem do JSON.
 Documentação da descoberta: docs_assai_api.md. Atacadão documentado em
 docs_atacadao_api.md (pendente: encarte em PDF exige conversor de imagem).
 """
-import json, os, subprocess, sys, time, datetime
+import json
+import os
+import subprocess
+import sys
+import time
+import datetime
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(BASE, 'data')
@@ -71,8 +76,8 @@ def coleta_assai(seen, fila):
     novos = 0
     hoje = datetime.date.today().isoformat()
     for o in dados.get('ofertas', []):
-        if not any(l.get('eid') == ASSAI_EID and l.get('nid') == ASSAI_NID
-                   for l in o.get('lojas', [])):
+        if not any(loja.get('eid') == ASSAI_EID and loja.get('nid') == ASSAI_NID
+                   for loja in o.get('lojas', [])):
             continue
         oid = str(o.get('id_oferta', '')).strip()
         if not oid:
@@ -116,7 +121,8 @@ PDF2JPG = os.path.join(BASE, 'tools', 'pdf2jpg')
 
 
 def coleta_atacadao(seen, fila):
-    import re, hashlib
+    import re
+    import hashlib
     r = sh(['curl', '-sL', '-A', UA, ATACADAO_LOJA])
     m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', r.stdout, re.S)
     if not m:
@@ -146,7 +152,7 @@ def coleta_atacadao(seen, fila):
             if os.path.getsize(pdf) < 10000 or open(pdf, 'rb').read(5) != b'%PDF-':
                 raise ValueError('PDF inválido')
             conv = sh([PDF2JPG, pdf, os.path.join(PAGES, aid), '1400'])
-            files = [os.path.basename(l) for l in conv.stdout.strip().splitlines() if l.strip()]
+            files = [os.path.basename(ln) for ln in conv.stdout.strip().splitlines() if ln.strip()]
         except Exception as e:
             print(f'[aviso] atacadao {nome}: {e}; fica para a próxima', file=sys.stderr)
             continue

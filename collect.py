@@ -6,7 +6,13 @@ endpoint web público, identifica candidatos a encarte pela legenda, baixa as
 imagens novas em data/pages/ e registra os posts novos em data/fila_novos.json
 para o passo de extração (Claude) classificar e indexar os produtos.
 """
-import json, os, re, subprocess, sys, time, datetime
+import json
+import os
+import re
+import subprocess
+import sys
+import time
+import datetime
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(BASE, 'data')
@@ -111,8 +117,18 @@ def main():
                 seen.add(sc)
                 continue
             kids = n.get('edge_sidecar_to_children', {}).get('edges')
-            urls = ([k['node']['display_url'] for k in kids if not k['node'].get('is_video')]
-                    if kids else [n['display_url']])
+
+            def best_url(node):
+                # regra: sempre a imagem de maior resolução disponível
+                res = node.get('display_resources') or []
+                res = [r for r in res if r.get('src')]
+                if res:
+                    return max(res, key=lambda r: r.get('config_width', 0))['src']
+                return node.get('display_url')
+
+            urls = ([best_url(k['node']) for k in kids if not k['node'].get('is_video')]
+                    if kids else [best_url(n)])
+            urls = [x for x in urls if x]
             if not urls:
                 seen.add(sc)
                 continue
