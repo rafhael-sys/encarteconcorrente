@@ -3,3 +3,5 @@ data/*.log
 data/.ultima_execucao
 painel-encartes.html
 .DS_Store
+data/.pub_stamp
+data/.tentativas

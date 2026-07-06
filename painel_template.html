@@ -1,4 +1,7 @@
-<title>Encartes — Concorrentes</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Encartes · Concorrentes — Rede Mais</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8F%B7%EF%B8%8F%3C/text%3E%3C/svg%3E">
 <style>
   :root{
     --bg:#ffffff; --surface:#f9f9f9; --surface-2:#f1f1f1;
@@ -23,22 +26,54 @@
     position:sticky;top:0;z-index:40;background:rgba(255,255,255,.92);
     backdrop-filter:blur(8px);border-bottom:1px solid var(--border);
   }
-  .head-in{max-width:1080px;margin:0 auto;padding:14px 20px;display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px}
-  .brand{display:flex;flex-direction:column;min-width:170px}
-  .brand b{font-size:16px;font-weight:600;letter-spacing:-.01em}
-  .brand span{font-size:12px;color:var(--text-3)}
+  .head-in{max-width:1080px;margin:0 auto;padding:12px 20px 10px;display:flex;flex-direction:column;gap:10px}
+  .head-top{display:flex;align-items:center;flex-wrap:wrap;gap:8px 12px}
+  .head-tools{display:flex;align-items:center;flex-wrap:wrap;gap:8px 12px}
+  .brand{display:flex;align-items:center;gap:10px;margin-right:auto}
+  .mark{
+    width:26px;height:26px;flex:none;border-radius:8px;background:var(--green);
+    display:flex;align-items:center;justify-content:center;
+  }
+  .brand b{font-size:16.5px;font-weight:650;letter-spacing:-.02em}
+  .brand .sub{font-size:12.5px;color:var(--text-3);border-left:1px solid var(--border);padding-left:10px;line-height:1.25}
+  .status{
+    display:flex;align-items:center;gap:7px;font-size:12.5px;font-weight:500;color:var(--text-2);
+    background:var(--surface);border:1px solid var(--border);border-radius:999px;padding:5px 12px;white-space:nowrap;
+  }
+  .sdot{width:7px;height:7px;flex:none;border-radius:50%;background:var(--green);animation:sdot-pulse 2.6s ease-out infinite}
+  @keyframes sdot-pulse{
+    0%{box-shadow:0 0 0 0 rgba(16,163,127,.35)}
+    70%{box-shadow:0 0 0 6px rgba(16,163,127,0)}
+    100%{box-shadow:0 0 0 0 rgba(16,163,127,0)}
+  }
+  .status.stale{color:var(--amber);background:var(--amber-bg);border-color:transparent}
+  .status.stale .sdot{background:var(--amber);animation:none}
+  @media (prefers-reduced-motion:reduce){.sdot{animation:none}}
   .search{
     flex:1;min-width:230px;display:flex;align-items:center;gap:9px;
-    border:1px solid var(--border);border-radius:999px;padding:9px 16px;background:var(--bg);
-    transition:border-color .15s, box-shadow .15s;
+    border:1px solid transparent;border-radius:999px;padding:10px 16px;background:var(--surface-2);
+    transition:border-color .15s, box-shadow .15s, background .15s;
   }
-  .search:focus-within{border-color:var(--border-strong);box-shadow:0 2px 12px rgba(0,0,0,.07)}
+  .search:focus-within{background:var(--bg);border-color:var(--green);box-shadow:0 0 0 3px var(--green-bg)}
   .search svg{flex:none;color:var(--text-3)}
   .search input{flex:1;border:none;outline:none;font:inherit;font-size:14.5px;background:transparent;color:var(--text)}
+  .search kbd{
+    flex:none;font:500 11px/1 ui-sans-serif,-apple-system,sans-serif;color:var(--text-3);
+    border:1px solid var(--border);border-radius:5px;padding:3px 7px;background:var(--bg);
+  }
+  .search:focus-within kbd{display:none}
+  /* fonte <16px num input faz o iOS dar zoom automático ao focar */
+  @media (hover:none){.search kbd{display:none}.search input{font-size:16px}}
   .search .clear{display:none;color:var(--text-3);font-size:17px;line-height:1;padding:2px 4px;border-radius:50%}
   .search .clear:hover{color:var(--text)}
   .search.has-q .clear{display:block}
-  .tabs{display:flex;gap:4px;background:var(--surface-2);border-radius:999px;padding:4px}
+  .search.has-q kbd{display:none}
+  .tabs{display:flex;gap:4px;background:var(--surface-2);border-radius:999px;padding:4px;max-width:100%;overflow-x:auto;scrollbar-width:none}
+  .tabs::-webkit-scrollbar{display:none}
+  @media (max-width:520px){
+    .brand .sub{display:none}
+    .status{font-size:12px;padding:4px 10px}
+  }
   .tab{
     border-radius:999px;padding:7px 18px;font-size:13.5px;font-weight:500;color:var(--text-2);
     transition:background .15s,color .15s;white-space:nowrap;
@@ -222,6 +257,23 @@
   @media (max-width:640px){.kprice{width:150px}.kocc .rrow .who-mini{width:70px}}
 
   /* ---------- saúde das fontes ---------- */
+  /* engrenagem local (o bloco some do site publicado) */
+  .cfg-wrap{position:relative}
+  .cfg-btn{width:30px;height:30px;display:flex;align-items:center;justify-content:center;border-radius:50%;color:var(--text-3)}
+  .cfg-btn:hover{color:var(--text-2);background:var(--surface-2)}
+  .cfg-panel{
+    position:absolute;top:calc(100% + 6px);right:0;z-index:30;background:var(--bg);
+    border:1px solid var(--border);border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.12);
+    padding:14px 16px;width:min(330px,calc(100vw - 28px));font-size:13px;
+  }
+  .cfg-row{display:flex;align-items:baseline;gap:8px;margin-top:9px}
+  .cfg-row .cfg-k{flex:none;width:46px;color:var(--text-3);font-size:12px}
+  .cfg-row a{color:var(--green);word-break:break-all;text-decoration:none;min-width:0}
+  .cfg-row a:hover{text-decoration:underline}
+  .cfg-row code{background:var(--surface-2);border-radius:6px;padding:1px 7px}
+  .cfg-copy{color:var(--green);font-weight:500;font-size:12.5px;flex:none}
+  .cfg-note{margin:12px 0 0;padding-top:10px;border-top:1px solid var(--surface-2);color:var(--text-3);font-size:12px;line-height:1.5}
+
   .fontes-wrap{position:relative}
   .fontes-pill{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--border);border-radius:999px;padding:6px 13px;font-size:12.5px;font-weight:500;color:var(--text-2);background:var(--bg)}
   .fontes-pill:hover{border-color:var(--border-strong)}
@@ -243,25 +295,76 @@
 
 <header>
   <div class="head-in">
-    <div class="brand"><b>Encartes</b><span>Concorrentes · Rede Mais · atualizado <b style="color:var(--text-2);font-weight:600">__UPDATED__</b></span></div>
-    <div class="search" id="searchBox">
-      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.4-3.4"/></svg>
-      <input id="q" type="search" placeholder="Buscar produto… ex.: treloso, picanha, óleo" autocomplete="off">
-      <button class="clear" id="clearQ" aria-label="Limpar busca">✕</button>
+    <div class="head-top">
+      <div class="brand">
+        <span class="mark"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2H2v10l9.3 9.3a2 2 0 0 0 2.8 0l7.2-7.2a2 2 0 0 0 0-2.8L12 2z"/><circle cx="7.5" cy="7.5" r="1.4" fill="#fff" stroke="none"/></svg></span>
+        <b>Encartes</b>
+        <span class="sub">concorrentes · Rede Mais</span>
+      </div>
+      <div class="status" id="updChip"><span class="sdot"></span><span id="updTxt">Atualizado __UPDATED__</span></div>
+      <div class="fontes-wrap" id="fontesWrap"></div>
+      <!--CFG-INI-->
+      <div class="cfg-wrap">
+        <button class="cfg-btn" id="cfgBtn" aria-label="Publicação (só no seu arquivo local)"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09a1.65 1.65 0 0 0-1-1.51 1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09a1.65 1.65 0 0 0 1.51-1 1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33h.01a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51h.01a1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82v.01a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg></button>
+        <div class="cfg-panel" id="cfgPanel" hidden>
+          <b>Publicação para os colegas</b>
+          <div class="cfg-row"><span class="cfg-k">Link</span><a id="cfgUrl" href="__PUB_URL__" target="_blank" rel="noopener">__PUB_URL__</a><button class="cfg-copy" id="cfgCopy">copiar</button></div>
+          <div class="cfg-row"><span class="cfg-k">Senha</span><code id="cfgSenha">__PUB_SENHA__</code></div>
+          <div class="cfg-row" id="cfgAtalhoRow"><span class="cfg-k">Atalho</span><a id="cfgAtalho" target="_blank" rel="noopener">link que já entra sem digitar a senha</a><button class="cfg-copy" id="cfgCopy2">copiar</button></div>
+          <div class="cfg-row"><span class="cfg-k">Sobe</span><span>todo dia ao meio-dia (se o Mac estiver desligado, na primeira atualização depois das 13h)</span></div>
+          <p class="cfg-note">Esta engrenagem existe só no seu arquivo local — ela é removida do site publicado. Para trocar a senha: dois cliques em <code>trocar_senha.command</code> na pasta encartes-concorrentes (troca e republica na hora), ou peça ao Claude.</p>
+        </div>
+        <script>
+        (function(){
+          const btn = document.getElementById('cfgBtn'), pan = document.getElementById('cfgPanel');
+          btn.addEventListener('click', e => { pan.hidden = !pan.hidden; e.stopPropagation(); });
+          document.addEventListener('click', e => { if(!pan.hidden && !e.target.closest('.cfg-wrap')) pan.hidden = true; });
+          const url = document.getElementById('cfgUrl');
+          const copiar = (b, texto) => b.addEventListener('click', () => {
+            navigator.clipboard.writeText(texto()).then(() => {
+              b.textContent = 'copiado ✓'; setTimeout(() => b.textContent = 'copiar', 1500);
+            });
+          });
+          if(!/^https?:/i.test(url.getAttribute('href') || '')){
+            // ainda sem publicação: não vira link nem deixa copiar caminho quebrado
+            url.removeAttribute('href');
+            document.getElementById('cfgCopy').style.display = 'none';
+          } else {
+            copiar(document.getElementById('cfgCopy'), () => url.href);
+          }
+          const senha = document.getElementById('cfgSenha').textContent;
+          const atalho = document.getElementById('cfgAtalho');
+          if(url.href.startsWith('http') && senha && senha !== 'sem senha definida'){
+            atalho.href = url.href.replace(/\/$/, '') + '/#' + encodeURIComponent(senha);
+            copiar(document.getElementById('cfgCopy2'), () => atalho.href);
+          } else {
+            document.getElementById('cfgAtalhoRow').style.display = 'none';
+          }
+        })();
+        </script>
+      </div>
+      <!--CFG-FIM-->
     </div>
-    <div class="fontes-wrap" id="fontesWrap"></div>
-    <div class="tabs" role="tablist">
-      <button class="tab" role="tab" id="tabOn"  aria-selected="true">Vigentes</button>
-      <button class="tab" role="tab" id="tabOff" aria-selected="false">Expirados</button>
-      <button class="tab" role="tab" id="tabRank" aria-selected="false">Incidência</button>
-      <button class="tab" role="tab" id="tabComp" aria-selected="false">Comparativo</button>
+    <div class="head-tools">
+      <div class="search" id="searchBox">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.4-3.4"/></svg>
+        <input id="q" type="search" placeholder="Buscar produto… ex.: picanha, óleo, treloso" autocomplete="off">
+        <kbd>/</kbd>
+        <button class="clear" id="clearQ" aria-label="Limpar busca">✕</button>
+      </div>
+      <div class="tabs" role="tablist">
+        <button class="tab" role="tab" id="tabOn"  aria-selected="true">Vigentes</button>
+        <button class="tab" role="tab" id="tabOff" aria-selected="false">Expirados</button>
+        <button class="tab" role="tab" id="tabRank" aria-selected="false">Incidência</button>
+        <button class="tab" role="tab" id="tabComp" aria-selected="false">Comparativo</button>
+      </div>
     </div>
   </div>
 </header>
 
 <main id="main"></main>
 
-<footer>Fonte: perfis públicos do Instagram · __NPAG__ páginas e __NPROD__ produtos indexados · exemplo gerado em __GENDATE__ · atualização diária às 7h</footer>
+<footer>Fonte: perfis públicos do Instagram e sites das redes · __NPAG__ páginas e __NPROD__ produtos indexados · atualizado ao longo do dia, a partir das 7h</footer>
 
 <div class="overlay" id="overlay">
   <div class="panel" role="dialog" aria-modal="true" aria-label="Visor do encarte">
@@ -410,6 +513,7 @@ let rankShown = 100;
 
 /* ---------- render ---------- */
 function render(){
+  atualizaChip();
   const main = $('main');
   const inTab = ACTIONS.filter(a => (tab==='on') === isActive(a));
   $('tabOn').textContent  = `Vigentes (${ACTIONS.filter(isActive).length})`;
@@ -644,14 +748,17 @@ function renderComp(main){
   rows.forEach((x, i) => main.appendChild(krow(x.r, i + 1, true, compSel)));
 }
 
+const krowOpen = new Set();  // cards expandidos sobrevivem ao render()
 function krow(r, pos, vigOnly, sel){
+  // o primeiro membro do grupo desambigua clones quando canon.json não existe
+  const key = ((r.c.m && r.c.m[0]) || '') + '|' + r.c.n + '|' + (r.c.u || '');
   // aparições do mais novo para o mais antigo
   const occ = (vigOnly ? r.occ.filter(o => isActive(o.a) && (o.a.seg === 'propria' || !sel || sel.has(o.a.banner))) : [...r.occ])
     .sort((a,b) => b.a.fim.localeCompare(a.a.fim) || b.a.ini.localeCompare(a.a.ini));
   const st = statsFor(occ);
   const nEnc = new Set(occ.map(o => o.a.id)).size;
   const banners = [...new Set(occ.map(o => o.a.banner))];
-  const div = document.createElement('div'); div.className = 'krow';
+  const div = document.createElement('div'); div.className = 'krow' + (krowOpen.has(key) ? ' open' : '');
   const h = document.createElement('button'); h.className = 'krow-h';
   let priceHtml;
   if(st.mode === 0){
@@ -670,7 +777,10 @@ function krow(r, pos, vigOnly, sel){
     <span class="kmain"><span class="kname">${esc(r.c.n)}${r.c.u ? `<span class="kunit">${esc(r.c.u)}</span>` : ''}${compBadge(compInfo(r, sel))}</span>
       <span class="kmeta"><b>${nEnc}</b> encarte${nEnc===1?'':'s'} · ${occ.length} ${occ.length===1?'aparição':'aparições'} · ${esc(banners.join(' · '))}</span></span>
     <span class="kprice">${priceHtml}</span><span class="kchev">›</span>`;
-  h.addEventListener('click', () => div.classList.toggle('open'));
+  h.addEventListener('click', () => {
+    const aberto = div.classList.toggle('open');
+    aberto ? krowOpen.add(key) : krowOpen.delete(key);
+  });
   div.appendChild(h);
   const list = document.createElement('div'); list.className = 'kocc rrows';
   occ.forEach(o => {
@@ -762,7 +872,9 @@ function closeViewer(){
   $('overlay').classList.remove('open');
   document.body.style.overflow='';
   V = null;
+  const y = window.scrollY;
   render();  // atualiza as tags Novo (encarte aberto deixa de ser não-lido)
+  window.scrollTo(0, y);
 }
 
 /* ---------- eventos ---------- */
@@ -782,6 +894,29 @@ document.addEventListener('keydown', e=>{
   if(e.key==='ArrowLeft' && V.pg>0){ V.pg--; V.prod=null; drawPage(); }
   if(e.key==='ArrowRight' && V.pg<V.a.pgs.length-1){ V.pg++; V.prod=null; drawPage(); }
 });
+
+/* atalho "/" foca a busca */
+document.addEventListener('keydown', e=>{
+  if(e.key==='/' && !V && !e.target.closest('input,textarea')){ e.preventDefault(); $('q').focus(); }
+});
+
+/* chip de atualização: "hoje às HH:MM" em verde; ontem ou antes fica âmbar.
+   Reavaliado ao voltar para a aba e a cada render — uma aba deixada aberta
+   durante a noite fica âmbar sozinha no dia seguinte. */
+function atualizaChip(){
+  const m = '__UPDATED_ISO__'.match(/^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})$/);
+  if(!m) return;  // builder antigo: mantém o texto fixo
+  const d0 = new Date(); d0.setHours(0,0,0,0);
+  const dias = Math.round((d0 - new Date(+m[1], m[2]-1, +m[3])) / 864e5);
+  const hora = `${m[4]}:${m[5]}`;
+  let t = `Atualizado hoje às ${hora}`;
+  if(dias === 1) t = `Atualizado ontem às ${hora}`;
+  else if(dias > 1) t = `Atualizado em ${m[3]}/${m[2]}`;
+  $('updChip').classList.toggle('stale', dias >= 1);
+  $('updTxt').textContent = t;
+}
+document.addEventListener('visibilitychange', () => { if(!document.hidden) atualizaChip(); });
+atualizaChip();
 
 renderFontes();
 render();
