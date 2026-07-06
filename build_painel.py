@@ -37,9 +37,12 @@ with tempfile.TemporaryDirectory() as tmp:
             if not os.path.exists(src):
                 continue
             if embutir:
+                # vigentes em alta; expirados recentes em qualidade média (histórico)
+                vig = a['fim'] >= datetime.date.today().isoformat()
+                zw, q = ('1080', '45') if vig else ('680', '42')
                 small = os.path.join(tmp, fname)
-                r = subprocess.run(['sips', '-Z', '1080', '-s', 'format', 'jpeg',
-                                    '-s', 'formatOptions', '45', src, '--out', small],
+                r = subprocess.run(['sips', '-Z', zw, '-s', 'format', 'jpeg',
+                                    '-s', 'formatOptions', q, src, '--out', small],
                                    capture_output=True)
                 if r.returncode == 0 and os.path.exists(small):
                     images[pid] = 'data:image/jpeg;base64,' + base64.b64encode(open(small, 'rb').read()).decode()
@@ -49,7 +52,8 @@ with tempfile.TemporaryDirectory() as tmp:
         if page_ids:
             data_actions.append({'id': a['id'], 'banner': a['banner'], 'perfil': a['perfil'],
                                  'titulo': a['titulo'], 'seg': a['segmento'], 'ini': a['inicio'],
-                                 'fim': a['fim'], 'sc': a['shortcode'], 'pgs': page_ids})
+                                 'fim': a['fim'], 'sc': a['shortcode'], 'pgs': page_ids,
+                                 'novo': a.get('adicionado_em') == datetime.date.today().isoformat()})
 
 n_products = sum(len(products.get(p, [])) for a in data_actions for p in a['pgs'])
 import datetime
@@ -61,6 +65,7 @@ html = html.replace('__CANON__', json.dumps(canon, ensure_ascii=False))
 html = html.replace('__NPROD__', str(n_products))
 html = html.replace('__NPAG__', str(len(images)))
 html = html.replace('__GENDATE__', datetime.date.today().strftime('%d/%m/%Y'))
+html = html.replace('__UPDATED__', datetime.datetime.now().strftime('%d/%m às %H:%M'))
 
 out = f'{BASE}/painel-encartes.html'
 open(out, 'w', encoding='utf-8').write(html)

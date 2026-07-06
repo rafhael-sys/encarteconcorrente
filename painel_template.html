@@ -76,6 +76,7 @@
   .pill.on{color:var(--green);background:var(--green-bg)}
   .pill.today{color:var(--amber);background:var(--amber-bg)}
   .pill.off{color:var(--text-3);background:var(--surface-2)}
+  .pill.new{color:#fff;background:var(--green)}
   .dates{font-size:12px;color:var(--text-3);font-variant-numeric:tabular-nums}
 
   /* ---------- resultados de busca ---------- */
@@ -201,8 +202,10 @@
   .kocc .rrow .who-mini{flex:none;font-size:11.5px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--text-3);width:118px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .kmore{width:100%;text-align:center;padding:13px;font-size:13.5px;font-weight:500;color:var(--green);border:1px dashed var(--border-strong);border-radius:var(--radius)}
   .kmore:hover{background:var(--surface)}
-  .kcheck{display:flex;align-items:center;gap:7px;margin-left:auto;font-size:13px;font-weight:500;color:var(--text-2);cursor:pointer;user-select:none}
-  .kcheck input{accent-color:var(--green);width:15px;height:15px;cursor:pointer;margin:0}
+  .chips{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:0 0 16px;font-size:12.5px;color:var(--text-3)}
+  .chip{border:1px solid var(--border);border-radius:999px;padding:5px 13px;font-size:12.5px;font-weight:500;color:var(--text-2);transition:all .12s}
+  .chip:hover{border-color:var(--border-strong)}
+  .chip[aria-pressed="true"]{background:var(--text);color:#fff;border-color:var(--text)}
   .kbadge{font-size:11px;font-weight:600;border-radius:999px;padding:2px 8px;margin-left:8px;vertical-align:1px;white-space:nowrap}
   .kbadge.win{color:var(--green);background:var(--green-bg)}
   .kbadge.tie{color:var(--text-2);background:var(--surface-2)}
@@ -220,7 +223,7 @@
 
 <header>
   <div class="head-in">
-    <div class="brand"><b>Encartes</b><span>Concorrentes · Rede Mais</span></div>
+    <div class="brand"><b>Encartes</b><span>Concorrentes · Rede Mais · atualizado <b style="color:var(--text-2);font-weight:600">__UPDATED__</b></span></div>
     <div class="search" id="searchBox">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.4-3.4"/></svg>
       <input id="q" type="search" placeholder="Buscar produto… ex.: treloso, picanha, óleo" autocomplete="off">
@@ -230,6 +233,7 @@
       <button class="tab" role="tab" id="tabOn"  aria-selected="true">Vigentes</button>
       <button class="tab" role="tab" id="tabOff" aria-selected="false">Expirados</button>
       <button class="tab" role="tab" id="tabRank" aria-selected="false">Incidência</button>
+      <button class="tab" role="tab" id="tabComp" aria-selected="false">Comparativo</button>
     </div>
   </div>
 </header>
@@ -324,9 +328,11 @@ function render(){
   $('tabOn').setAttribute('aria-selected', tab==='on');
   $('tabOff').setAttribute('aria-selected', tab==='off');
   $('tabRank').setAttribute('aria-selected', tab==='rank');
+  $('tabComp').setAttribute('aria-selected', tab==='comp');
   $('searchBox').classList.toggle('has-q', !!query);
 
   if(tab === 'rank'){ renderRank(main); return; }
+  if(tab === 'comp'){ renderComp(main); return; }
   if(query.length >= 2){ renderSearch(main, inTab); return; }
 
   main.innerHTML = '';
@@ -356,7 +362,7 @@ function card(a){
     <div class="card-b">
       <span class="banner">${esc(a.banner)}</span>
       <span class="title">${esc(a.titulo)}</span>
-      <span class="meta">${pill(st)}<span class="dates">${fmt(a.ini)} – ${fmt(a.fim)}</span></span>
+      <span class="meta">${a.novo ? '<span class="pill new">Novo</span>' : ''}${pill(st)}<span class="dates">${fmt(a.ini)} – ${fmt(a.fim)}</span></span>
     </div>`;
   // abre direto na primeira página que tem produto (pula capa/publicidade)
   const first = Math.max(0, a.pgs.findIndex(p => (PRODUCTS[p]||[]).length > 0));
@@ -405,7 +411,7 @@ function renderSearch(main, inTab){
     h.innerHTML = `<span class="avatar">${initials(a.banner)}</span>
       <span class="who"><span class="banner">${esc(a.banner)}</span><br>
       <span class="sub">${esc(a.titulo)} · ${fmt(a.ini)} – ${fmt(a.fim)}</span></span>
-      ${pill(st)}<span class="go">›</span>`;
+      ${a.novo ? '<span class="pill new">Novo</span>' : ''}${pill(st)}<span class="go">›</span>`;
     h.addEventListener('click', () => openViewer(a, g[0].pg, g[0].prod));
     c.appendChild(h);
     const rows = document.createElement('div'); rows.className='rrows';
@@ -413,7 +419,7 @@ function renderSearch(main, inTab){
       const r = document.createElement('button'); r.className='rrow';
       r.innerHTML = `<span class="pname">${highlight(hit.prod.n)}</span>
         <span class="price">R$ ${esc(hit.prod.p)}${hit.prod.u?`<small>${esc(hit.prod.u)}</small>`:''}</span>
-        <span class="pg">pág. ${hit.pg+1}</span><span class="go">›</span>`;
+        <span class="pg">${fmt(hit.a.ini)}–${fmt(hit.a.fim)} · pág. ${hit.pg+1}</span><span class="go">›</span>`;
       r.addEventListener('click', () => openViewer(hit.a, hit.pg, hit.prod));
       rows.appendChild(r);
     });
@@ -423,8 +429,6 @@ function renderSearch(main, inTab){
 }
 
 /* ---------- aba incidência ---------- */
-let onlyMine = false;
-
 const statsFor = occ => {
   const ps = occ.map(o => priceNum(o.prod.p)).filter(v => v > 0).sort((x,y) => x-y);
   const freq = {}; ps.forEach(v => freq[v] = (freq[v]||0) + 1);
@@ -433,10 +437,11 @@ const statsFor = occ => {
 };
 
 // competitividade: menor preço vigente da Rede Mais vs menor preço vigente dos concorrentes
-function compInfo(r){
+function compInfo(r, sel){
   const vig = r.occ.filter(o => isActive(o.a));
   const mine = vig.filter(o => o.a.seg === 'propria').map(o => priceNum(o.prod.p)).filter(v => v > 0);
-  const comp = vig.filter(o => o.a.seg !== 'propria').map(o => priceNum(o.prod.p)).filter(v => v > 0);
+  const comp = vig.filter(o => o.a.seg !== 'propria' && (!sel || sel.has(o.a.banner)))
+                  .map(o => priceNum(o.prod.p)).filter(v => v > 0);
   if(!mine.length || !comp.length) return null;
   const my = Math.min(...mine), cm = Math.min(...comp);
   return { my, cm, st: my < cm ? 'win' : my === cm ? 'tie' : 'lose', gap: cm ? (my - cm) / cm : 0 };
@@ -448,33 +453,22 @@ const compBadge = ci => !ci ? '' :
   `<span class="kbadge lose">você +${fmtPct(ci.gap)}</span>`;
 
 function renderRank(main){
-  const base = onlyMine ? RANK.filter(r => compInfo(r)) : RANK;
   const rows = query.length >= 2
-    ? base.filter(r => matches(norm(r.c.n), query) || r.occ.some(o => matches(norm(o.prod.n), query)))
-    : base;
+    ? RANK.filter(r => matches(norm(r.c.n), query) || r.occ.some(o => matches(norm(o.prod.n), query)))
+    : RANK;
   main.innerHTML = '';
   const head = document.createElement('div'); head.className = 'rhead';
-  head.innerHTML = (onlyMine
-      ? `<b>${rows.length}</b> produto${rows.length===1?'':'s'} vigentes em disputa direta: Rede Mais × concorrentes`
-      : `<b>${rows.length}</b> produto${rows.length===1?'':'s'}, do que mais sai em encarte para o que menos sai`)
+  head.innerHTML = `<b>${rows.length}</b> produto${rows.length===1?'':'s'}, do que mais sai em encarte para o que menos sai`
     + (query.length >= 2 ? ` — filtrado por “<b>${query}</b>”` : '');
   main.appendChild(head);
-  const leg = document.createElement('div'); leg.className = 'klegend';
-  leg.innerHTML = `<span><i style="background:var(--green)"></i>menor preço</span>
-    <span><i style="background:var(--text)"></i>mais praticado</span>
-    <span><i style="background:#c2410c"></i>maior preço</span>
-    <label class="kcheck"><input type="checkbox" id="chkMine"${onlyMine ? ' checked' : ''}> Só vigentes com a Rede Mais</label>`;
-  main.appendChild(leg);
-  leg.querySelector('#chkMine').addEventListener('change', e => { onlyMine = e.target.checked; rankShown = 100; render(); });
+  main.appendChild(legendRuler());
 
   if(!rows.length){
     const e = document.createElement('div'); e.className = 'empty';
-    e.innerHTML = onlyMine && query.length < 2
-      ? 'Nenhum produto seu vigente coincide com concorrentes no momento.'
-      : `Nenhum produto com “<b>${query}</b>”${onlyMine ? ' em disputa vigente' : ''}.`;
+    e.innerHTML = `Nenhum produto com “<b>${query}</b>”.`;
     main.appendChild(e); return;
   }
-  rows.slice(0, rankShown).forEach(r => main.appendChild(krow(r, base.indexOf(r) + 1)));
+  rows.slice(0, rankShown).forEach(r => main.appendChild(krow(r, RANK.indexOf(r) + 1)));
   if(rows.length > rankShown){
     const m = document.createElement('button'); m.className = 'kmore';
     m.textContent = `Mostrar mais ${Math.min(150, rows.length - rankShown)} produtos`;
@@ -483,8 +477,71 @@ function renderRank(main){
   }
 }
 
-function krow(r, pos){
-  const occ = onlyMine ? r.occ.filter(o => isActive(o.a)) : r.occ;
+function legendRuler(){
+  const leg = document.createElement('div'); leg.className = 'klegend';
+  leg.innerHTML = `<span><i style="background:var(--green)"></i>menor preço</span>
+    <span><i style="background:var(--text)"></i>mais praticado</span>
+    <span><i style="background:#c2410c"></i>maior preço</span>`;
+  return leg;
+}
+
+/* ---------- aba comparativo: disputa vigente Rede Mais × concorrentes ---------- */
+let compSel = null;  // null = todos os concorrentes
+function concorrentesVigentes(){
+  return [...new Set(ACTIONS.filter(a => a.seg !== 'propria' && isActive(a)).map(a => a.banner))];
+}
+function renderComp(main){
+  const todos = concorrentesVigentes();
+  if(compSel === null) compSel = new Set(todos);
+  let rows = RANK.map(r => ({ r, ci: compInfo(r, compSel) })).filter(x => x.ci);
+  if(query.length >= 2)
+    rows = rows.filter(x => matches(norm(x.r.c.n), query) || x.r.occ.some(o => matches(norm(o.prod.n), query)));
+  const ordem = { lose: 0, tie: 1, win: 2 };
+  rows.sort((a,b) => ordem[a.ci.st] - ordem[b.ci.st] || b.ci.gap - a.ci.gap);
+
+  main.innerHTML = '';
+  const w = rows.filter(x => x.ci.st === 'win').length;
+  const t = rows.filter(x => x.ci.st === 'tie').length;
+  const l = rows.filter(x => x.ci.st === 'lose').length;
+  const head = document.createElement('div'); head.className = 'rhead';
+  head.innerHTML = `<b>${rows.length}</b> produto${rows.length===1?'':'s'} em disputa vigente: Rede Mais × concorrentes — `
+    + `<span style="color:var(--green);font-weight:600">ganha ${w}</span> · empata ${t} · <span style="color:#c2410c;font-weight:600">perde ${l}</span>`
+    + (query.length >= 2 ? ` — filtrado por “<b>${query}</b>”` : '')
+    + `<br><span style="font-size:12px;color:var(--text-3)">ordenado do maior prejuízo para a maior vantagem · régua considera só preços vigentes</span>`;
+  main.appendChild(head);
+
+  const chips = document.createElement('div'); chips.className = 'chips';
+  chips.innerHTML = '<span>Comparar com:</span>';
+  todos.forEach(b => {
+    const c = document.createElement('button'); c.className = 'chip';
+    c.textContent = b;
+    c.setAttribute('aria-pressed', compSel.has(b));
+    c.addEventListener('click', () => {
+      compSel.has(b) ? compSel.delete(b) : compSel.add(b);
+      render();
+    });
+    chips.appendChild(c);
+  });
+  main.appendChild(chips);
+  main.appendChild(legendRuler());
+
+  if(!compSel.size){
+    const e = document.createElement('div'); e.className = 'empty';
+    e.innerHTML = 'Selecione ao menos um concorrente para comparar.';
+    main.appendChild(e); return;
+  }
+  if(!rows.length){
+    const e = document.createElement('div'); e.className = 'empty';
+    e.innerHTML = query.length >= 2
+      ? `Nenhum produto em disputa com “<b>${query}</b>”.`
+      : 'Nenhum produto seu vigente coincide com os concorrentes selecionados.';
+    main.appendChild(e); return;
+  }
+  rows.forEach((x, i) => main.appendChild(krow(x.r, i + 1, true, compSel)));
+}
+
+function krow(r, pos, vigOnly, sel){
+  const occ = vigOnly ? r.occ.filter(o => isActive(o.a) && (o.a.seg === 'propria' || !sel || sel.has(o.a.banner))) : r.occ;
   const st = statsFor(occ);
   const nEnc = new Set(occ.map(o => o.a.id)).size;
   const banners = [...new Set(occ.map(o => o.a.banner))];
@@ -516,7 +573,7 @@ function krow(r, pos){
     row.innerHTML = `<span class="who-mini"${mine ? ' style="color:var(--green)"' : ''}>${mine ? '★ ' : ''}${esc(o.a.banner)}</span>
       <span class="pname">${esc(o.prod.n)}</span>
       <span class="price">R$ ${esc(o.prod.p)}${o.prod.u ? `<small>${esc(o.prod.u)}</small>` : ''}</span>
-      <span class="pg">pág. ${o.pg+1}</span><span class="go">›</span>`;
+      <span class="pg">${fmt(o.a.ini)}–${fmt(o.a.fim)} · pág. ${o.pg+1}</span><span class="go">›</span>`;
     row.addEventListener('click', () => openViewer(o.a, o.pg, o.prod));
     list.appendChild(row);
   });
@@ -602,6 +659,7 @@ function closeViewer(){
 $('tabOn').addEventListener('click', ()=>{ tab='on'; render(); });
 $('tabOff').addEventListener('click', ()=>{ tab='off'; render(); });
 $('tabRank').addEventListener('click', ()=>{ tab='rank'; rankShown=100; render(); });
+$('tabComp').addEventListener('click', ()=>{ tab='comp'; render(); });
 $('q').addEventListener('input', e=>{ query = e.target.value.trim(); rankShown=100; render(); });
 $('clearQ').addEventListener('click', ()=>{ query=''; $('q').value=''; render(); $('q').focus(); });
 $('vClose').addEventListener('click', closeViewer);
