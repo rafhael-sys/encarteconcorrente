@@ -620,5 +620,118 @@
   "adicionado_em": "2026-07-06",
   "fonte": "web",
   "link": "https://www.assai.com.br/ofertas/rio-grande-do-norte/assai-natal"
+ },
+ {
+  "id": "atacadao_8c56c3d971",
+  "perfil": "atacadao.com.br",
+  "titulo": "Boa do Dia",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-06",
+  "fim": "2026-07-06",
+  "carrossel": false,
+  "shortcode": "atacadao_8c56c3d971",
+  "caption": "Boa do Dia",
+  "paginas": [
+   "atacadao_8c56c3d971_p1.jpg"
+  ],
+  "adicionado_em": "2026-07-06",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_fdba5e925a",
+  "perfil": "atacadao.com.br",
+  "titulo": "Super Ofertas",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-06",
+  "fim": "2026-07-12",
+  "carrossel": false,
+  "shortcode": "atacadao_fdba5e925a",
+  "caption": "Super Ofertas",
+  "paginas": [
+   "atacadao_fdba5e925a_p1.jpg"
+  ],
+  "adicionado_em": "2026-07-06",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_7e7ddc79ac",
+  "perfil": "atacadao.com.br",
+  "titulo": "Fim de Semana",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-03",
+  "fim": "2026-07-06",
+  "carrossel": true,
+  "shortcode": "atacadao_7e7ddc79ac",
+  "caption": "Fim de Semana",
+  "paginas": [
+   "atacadao_7e7ddc79ac_p1.jpg",
+   "atacadao_7e7ddc79ac_p2.jpg",
+   "atacadao_7e7ddc79ac_p3.jpg",
+   "atacadao_7e7ddc79ac_p4.jpg",
+   "atacadao_7e7ddc79ac_p5.jpg"
+  ],
+  "adicionado_em": "2026-07-06",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_94d06867d5",
+  "perfil": "atacadao.com.br",
+  "titulo": "Açougue / Padaria / Frios e Fatiados",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-03",
+  "fim": "2026-07-06",
+  "carrossel": false,
+  "shortcode": "atacadao_94d06867d5",
+  "caption": "Açougue / Padaria / Frios e Fatiados",
+  "paginas": [
+   "atacadao_94d06867d5_p1.jpg"
+  ],
+  "adicionado_em": "2026-07-06",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_420adb49f1",
+  "perfil": "atacadao.com.br",
+  "titulo": "App Meu Atacadão",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-03",
+  "fim": "2026-07-06",
+  "carrossel": false,
+  "shortcode": "atacadao_420adb49f1",
+  "caption": "App Meu Atacadão",
+  "paginas": [
+   "atacadao_420adb49f1_p1.jpg"
+  ],
+  "adicionado_em": "2026-07-06",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_f6c7b8e8bd",
+  "perfil": "atacadao.com.br",
+  "titulo": "Semana Beleza & Cuidados",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-06",
+  "fim": "2026-07-12",
+  "carrossel": true,
+  "shortcode": "atacadao_f6c7b8e8bd",
+  "caption": "Semana Beleza & Cuidados",
+  "paginas": [
+   "atacadao_f6c7b8e8bd_p1.jpg",
+   "atacadao_f6c7b8e8bd_p2.jpg"
+  ],
+  "adicionado_em": "2026-07-06",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
  }
 ]

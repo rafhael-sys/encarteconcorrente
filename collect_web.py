@@ -110,19 +110,83 @@ def coleta_assai(seen, fila):
     return novos
 
 
+ATACADAO_LOJA = 'https://www.atacadao.com.br/loja/natal-sul'
+ATACADAO_PDF = 'https://apigw.cloud.carrefour.com.br/api-middleware-flyer-services/api/v2/Flyer/?id={fid}'
+PDF2JPG = os.path.join(BASE, 'tools', 'pdf2jpg')
+
+
+def coleta_atacadao(seen, fila):
+    import re, hashlib
+    r = sh(['curl', '-sL', '-A', UA, ATACADAO_LOJA])
+    m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', r.stdout, re.S)
+    if not m:
+        raise ValueError('__NEXT_DATA__ não encontrado na página da loja')
+    flyers = (json.loads(m.group(1)).get('props', {}).get('pageProps', {})
+              .get('storeInfo', {}) or {}).get('flyers') or []
+    novos = 0
+    hoje = datetime.date.today().isoformat()
+    for f in flyers:
+        fid = str(f.get('id', '')).strip()
+        if not fid:
+            continue
+        chave = f'atacadao:{fid}'
+        if chave in seen:
+            continue
+        val = f.get('validity') or {}
+        ini = str(val.get('initial', ''))[:10]
+        fim = str(val.get('final', ''))[:10]
+        if fim and fim < hoje:
+            seen.add(chave)
+            continue
+        nome = f.get('name') or f.get('title') or 'Encarte Atacadão'
+        aid = 'atacadao_' + hashlib.md5(fid.encode()).hexdigest()[:10]
+        pdf = os.path.join(PAGES, f'{aid}.pdf')
+        try:
+            sh(['curl', '-sL', '-A', UA, '-o', pdf, ATACADAO_PDF.format(fid=fid)])
+            if os.path.getsize(pdf) < 10000 or open(pdf, 'rb').read(5) != b'%PDF-':
+                raise ValueError('PDF inválido')
+            conv = sh([PDF2JPG, pdf, os.path.join(PAGES, aid), '1400'])
+            files = [os.path.basename(l) for l in conv.stdout.strip().splitlines() if l.strip()]
+        except Exception as e:
+            print(f'[aviso] atacadao {nome}: {e}; fica para a próxima', file=sys.stderr)
+            continue
+        finally:
+            try:
+                os.remove(pdf)
+            except OSError:
+                pass
+        if files:
+            fila.append({
+                'shortcode': aid, 'perfil': 'atacadao.com.br', 'banner': 'Atacadão',
+                'segmento': 'atacarejo', 'caption': nome,
+                'taken_at': 0, 'carrossel': len(files) > 1, 'paginas': files,
+                'coletado_em': hoje,
+                'fonte': 'web', 'link': ATACADAO_LOJA,
+                'validade_confiavel': bool(ini and fim), 'inicio': ini, 'fim': fim,
+            })
+            novos += 1
+            seen.add(chave)
+        time.sleep(2)
+    return novos
+
+
 def main():
     seen_path = os.path.join(DATA, 'posts_vistos.json')
     fila_path = os.path.join(DATA, 'fila_novos.json')
     seen = set(load_json(seen_path, []))
     fila = load_json(fila_path, [])
-    try:
-        novos = coleta_assai(seen, fila)
-    except Exception as e:
-        print(f'[erro] assai: {e}', file=sys.stderr)
-        sys.exit(1)
+    total, falhas = 0, []
+    for nome, fonte in [('assai', coleta_assai), ('atacadao', coleta_atacadao)]:
+        try:
+            total += fonte(seen, fila)
+        except Exception as e:
+            falhas.append(nome)
+            print(f'[erro] {nome}: {e}', file=sys.stderr)
     save_json(seen_path, sorted(seen))
     save_json(fila_path, fila)
-    print(f'{novos} ciclos de oferta web novos na fila')
+    print(f'{total} ciclos de oferta web novos na fila')
+    if len(falhas) == 2:
+        sys.exit(1)  # só falha se TODAS as fontes web falharem
 
 
 if __name__ == '__main__':
