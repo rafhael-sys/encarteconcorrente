@@ -649,7 +649,7 @@ function concorrentesVigentes(){
 }
 function renderComp(main){
   const todos = concorrentesVigentes();
-  if(compSel === null) compSel = new Set(todos);
+  if(compSel === null) compSel = new Set();  // padrão: nenhum selecionado
   let rows = RANK.map(r => ({ r, ci: compInfo(r, compSel) })).filter(x => x.ci);
   if(query.length >= 2)
     rows = rows.filter(x => matches(norm(x.r.c.n), query) || x.r.occ.some(o => matches(norm(o.prod.n), query)));
@@ -727,7 +727,7 @@ function krow(r, pos, vigOnly, sel){
       <span class="klabels"><span>${fmtP(st.min)}</span><span class="mid">${fmtP(st.mode)}</span><span>${fmtP(st.max)}</span></span></span>`;
   }
   h.innerHTML = `<span class="krank">${pos}</span>
-    <span class="kmain"><span class="kname">${esc(r.c.n)}${r.c.u ? `<span class="kunit">${esc(r.c.u)}</span>` : ''}${compBadge(compInfo(r))}</span>
+    <span class="kmain"><span class="kname">${esc(r.c.n)}${r.c.u ? `<span class="kunit">${esc(r.c.u)}</span>` : ''}${compBadge(compInfo(r, sel))}</span>
       <span class="kmeta"><b>${nEnc}</b> encarte${nEnc===1?'':'s'} · ${occ.length} ${occ.length===1?'aparição':'aparições'} · ${esc(banners.join(' · '))}</span></span>
     <span class="kprice">${priceHtml}</span><span class="kchev">›</span>`;
   h.addEventListener('click', () => div.classList.toggle('open'));
