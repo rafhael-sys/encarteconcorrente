@@ -198,14 +198,23 @@
   .kchev{flex:none;color:var(--text-3);transition:transform .15s}
   .krow.open .kchev{transform:rotate(90deg)}
   .kocc{display:none;border-top:1px solid var(--surface-2)}
+  .kocc .occ-vig{background:#f1faf6}
+  .kocc .occ-vig:hover{background:#e6f4ef}
+  .kocc .occ-exp{background:#fdf3f1}
+  .kocc .occ-exp:hover{background:#fae9e6}
   .krow.open .kocc{display:block}
   .kocc .rrow .who-mini{flex:none;font-size:11.5px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--text-3);width:118px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .kmore{width:100%;text-align:center;padding:13px;font-size:13.5px;font-weight:500;color:var(--green);border:1px dashed var(--border-strong);border-radius:var(--radius)}
   .kmore:hover{background:var(--surface)}
-  .chips{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:0 0 16px;font-size:12.5px;color:var(--text-3)}
-  .chip{border:1px solid var(--border);border-radius:999px;padding:5px 13px;font-size:12.5px;font-weight:500;color:var(--text-2);transition:all .12s}
-  .chip:hover{border-color:var(--border-strong)}
-  .chip[aria-pressed="true"]{background:var(--text);color:#fff;border-color:var(--text)}
+  .ddwrap{position:relative;margin:0 0 16px;display:inline-block}
+  .dd-btn{border:1px solid var(--border);border-radius:999px;padding:7px 15px;font-size:13px;font-weight:500;color:var(--text-2);background:var(--bg);display:inline-flex;align-items:center;gap:7px}
+  .dd-btn:hover{border-color:var(--border-strong)}
+  .dd-btn b{color:var(--text)}
+  .dd-panel{position:absolute;top:calc(100% + 6px);left:0;z-index:30;background:var(--bg);border:1px solid var(--border);border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.12);padding:8px;min-width:280px;max-height:340px;overflow-y:auto}
+  .dd-group{font-size:11px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:var(--text-3);padding:9px 10px 4px}
+  .dd-item{display:flex;align-items:center;gap:9px;padding:7px 10px;border-radius:8px;font-size:13.5px;cursor:pointer}
+  .dd-item:hover{background:var(--surface)}
+  .dd-item input{accent-color:var(--green);width:15px;height:15px;margin:0;flex:none}
   .kbadge{font-size:11px;font-weight:600;border-radius:999px;padding:2px 8px;margin-left:8px;vertical-align:1px;white-space:nowrap}
   .kbadge.win{color:var(--green);background:var(--green-bg)}
   .kbadge.tie{color:var(--text-2);background:var(--surface-2)}
@@ -307,8 +316,21 @@ const priceNum = s => {
   return m ? (parseFloat(m[m.length-1].replace(/\./g,'').replace(',','.')) || 0) : 0;
 };
 const fmtP = v => 'R$ ' + v.toFixed(2).replace('.', ',');
+// mesma oferta não acumula incidência: mesma rede + mesmo preço + períodos
+// sobrepostos = uma ocorrência só (repost de campanha, produto em 2 páginas)
+function dedupeOcc(occ){
+  const kept = [];
+  occ.forEach(o => {
+    const dup = kept.find(k => k.a.banner === o.a.banner
+      && priceNum(k.prod.p) === priceNum(o.prod.p)
+      && k.a.ini <= o.a.fim && o.a.ini <= k.a.fim);
+    if(!dup) kept.push(o);
+  });
+  return kept;
+}
+
 const RANK = CANON.map(c => {
-  const occ = c.m.map(k => RES[k]).filter(Boolean);
+  const occ = dedupeOcc(c.m.map(k => RES[k]).filter(Boolean));
   const ps = occ.map(o => priceNum(o.prod.p)).filter(v => v > 0).sort((x,y) => x-y);
   const freq = {}; ps.forEach(v => freq[v] = (freq[v]||0) + 1);
   const mode = ps.length ? +Object.entries(freq).sort((a,b) => b[1]-a[1] || a[0]-b[0])[0][0] : 0;
@@ -487,6 +509,14 @@ function legendRuler(){
 
 /* ---------- aba comparativo: disputa vigente Rede Mais × concorrentes ---------- */
 let compSel = null;  // null = todos os concorrentes
+let ddOpen = false;
+document.addEventListener('click', e => {
+  if(ddOpen && !e.target.closest('.ddwrap')){
+    ddOpen = false;
+    const p = document.getElementById('ddPanel');
+    if(p) p.hidden = true;
+  }
+});
 function concorrentesVigentes(){
   return [...new Set(ACTIONS.filter(a => a.seg !== 'propria' && isActive(a)).map(a => a.banner))];
 }
@@ -510,19 +540,26 @@ function renderComp(main){
     + `<br><span style="font-size:12px;color:var(--text-3)">ordenado do maior prejuízo para a maior vantagem · régua considera só preços vigentes</span>`;
   main.appendChild(head);
 
-  const chips = document.createElement('div'); chips.className = 'chips';
-  chips.innerHTML = '<span>Comparar com:</span>';
-  todos.forEach(b => {
-    const c = document.createElement('button'); c.className = 'chip';
-    c.textContent = b;
-    c.setAttribute('aria-pressed', compSel.has(b));
-    c.addEventListener('click', () => {
-      compSel.has(b) ? compSel.delete(b) : compSel.add(b);
-      render();
-    });
-    chips.appendChild(c);
+  const segOf = {};
+  ACTIONS.forEach(a => { if(a.seg !== 'propria') segOf[a.banner] = a.seg; });
+  const dd = document.createElement('div'); dd.className = 'ddwrap';
+  dd.innerHTML = `<button class="dd-btn" id="ddBtn">Comparar com: <b>${compSel.size === todos.length ? 'todos os concorrentes' : compSel.size + ' selecionado' + (compSel.size === 1 ? '' : 's')}</b> ▾</button>
+    <div class="dd-panel" id="ddPanel"${ddOpen ? '' : ' hidden'}>` +
+    [['varejo','Varejo'],['atacarejo','Atacarejo']].map(([seg, label]) => {
+      const list = todos.filter(b => segOf[b] === seg);
+      return list.length ? `<div class="dd-group">${label}</div>` +
+        list.map(b => `<label class="dd-item"><input type="checkbox" data-b="${esc(b)}"${compSel.has(b) ? ' checked' : ''}> ${esc(b)}</label>`).join('') : '';
+    }).join('') + '</div>';
+  dd.querySelector('#ddBtn').addEventListener('click', () => {
+    ddOpen = !ddOpen;
+    dd.querySelector('#ddPanel').hidden = !ddOpen;
   });
-  main.appendChild(chips);
+  dd.querySelectorAll('.dd-item input').forEach(cb => cb.addEventListener('change', () => {
+    const b = cb.dataset.b;
+    compSel.has(b) ? compSel.delete(b) : compSel.add(b);
+    render();
+  }));
+  main.appendChild(dd);
   main.appendChild(legendRuler());
 
   if(!compSel.size){
@@ -541,7 +578,9 @@ function renderComp(main){
 }
 
 function krow(r, pos, vigOnly, sel){
-  const occ = vigOnly ? r.occ.filter(o => isActive(o.a) && (o.a.seg === 'propria' || !sel || sel.has(o.a.banner))) : r.occ;
+  // aparições do mais novo para o mais antigo
+  const occ = (vigOnly ? r.occ.filter(o => isActive(o.a) && (o.a.seg === 'propria' || !sel || sel.has(o.a.banner))) : [...r.occ])
+    .sort((a,b) => b.a.fim.localeCompare(a.a.fim) || b.a.ini.localeCompare(a.a.ini));
   const st = statsFor(occ);
   const nEnc = new Set(occ.map(o => o.a.id)).size;
   const banners = [...new Set(occ.map(o => o.a.banner))];
@@ -568,7 +607,8 @@ function krow(r, pos, vigOnly, sel){
   div.appendChild(h);
   const list = document.createElement('div'); list.className = 'kocc rrows';
   occ.forEach(o => {
-    const row = document.createElement('button'); row.className = 'rrow';
+    const row = document.createElement('button');
+    row.className = 'rrow ' + (isActive(o.a) ? 'occ-vig' : 'occ-exp');
     const mine = o.a.seg === 'propria';
     row.innerHTML = `<span class="who-mini"${mine ? ' style="color:var(--green)"' : ''}>${mine ? '★ ' : ''}${esc(o.a.banner)}</span>
       <span class="pname">${esc(o.prod.n)}</span>
