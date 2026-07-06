@@ -63,6 +63,13 @@ html = html.replace('__ACTIONS__', json.dumps(data_actions, ensure_ascii=False))
 html = html.replace('__PRODUCTS__', json.dumps(products, ensure_ascii=False))
 html = html.replace('__IMAGES__', json.dumps(images))
 html = html.replace('__CANON__', json.dumps(canon, ensure_ascii=False))
+fontes = {}
+if os.path.exists(f'{DATA}/coleta_status.json'):
+    try:
+        fontes = json.load(open(f'{DATA}/coleta_status.json'))
+    except Exception:
+        fontes = {}
+html = html.replace('__FONTES__', json.dumps(fontes, ensure_ascii=False))
 html = html.replace('__NPROD__', str(n_products))
 html = html.replace('__NPAG__', str(len(images)))
 html = html.replace('__GENDATE__', datetime.date.today().strftime('%d/%m/%Y'))

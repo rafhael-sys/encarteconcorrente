@@ -173,17 +173,26 @@ def coleta_atacadao(seen, fila):
 def main():
     seen_path = os.path.join(DATA, 'posts_vistos.json')
     fila_path = os.path.join(DATA, 'fila_novos.json')
+    status_path = os.path.join(DATA, 'coleta_status.json')
     seen = set(load_json(seen_path, []))
     fila = load_json(fila_path, [])
+    status = load_json(status_path, {})
+    agora = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
     total, falhas = 0, []
-    for nome, fonte in [('assai', coleta_assai), ('atacadao', coleta_atacadao)]:
+    for nome, rotulo, fonte in [('assai', 'Assaí Atacadista', coleta_assai),
+                                ('atacadao', 'Atacadão', coleta_atacadao)]:
         try:
             total += fonte(seen, fila)
+            status[rotulo] = {'ultima_coleta_ok': agora, 'ultimo_erro': None}
         except Exception as e:
             falhas.append(nome)
+            ent = status.get(rotulo, {})
+            ent['ultimo_erro'] = f'{agora}: {e}'
+            status[rotulo] = ent
             print(f'[erro] {nome}: {e}', file=sys.stderr)
     save_json(seen_path, sorted(seen))
     save_json(fila_path, fila)
+    save_json(status_path, status)
     print(f'{total} ciclos de oferta web novos na fila')
     if len(falhas) == 2:
         sys.exit(1)  # só falha se TODAS as fontes web falharem

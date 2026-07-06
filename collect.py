@@ -80,17 +80,25 @@ def main():
     profiles = json.load(open(os.path.join(BASE, 'profiles.json')))
     seen_path = os.path.join(DATA, 'posts_vistos.json')
     fila_path = os.path.join(DATA, 'fila_novos.json')
+    status_path = os.path.join(DATA, 'coleta_status.json')
     seen = set(load_json(seen_path, []))
     fila = load_json(fila_path, [])
+    status = load_json(status_path, {})
+    agora = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
     novos = perfis_ok = 0
 
     for p in profiles:
         user = p['username']
+        fonte = p.get('banner', user)
         try:
             u = fetch_profile(user)
         except Exception as e:
             print(f'[erro] {user}: {e}', file=sys.stderr)
+            ent = status.get(fonte, {})
+            ent['ultimo_erro'] = f'{agora}: {e}'
+            status[fonte] = ent
             continue
+        status[fonte] = {'ultima_coleta_ok': agora, 'ultimo_erro': None}
         perfis_ok += 1
         for e in u['edge_owner_to_timeline_media']['edges']:
             n = e['node']
@@ -133,6 +141,7 @@ def main():
 
     save_json(seen_path, sorted(seen))
     save_json(fila_path, fila)
+    save_json(status_path, status)
     print(f'{novos} posts novos candidatos a encarte na fila ({perfis_ok}/{len(profiles)} perfis lidos)')
     if perfis_ok == 0:
         sys.exit(1)  # falha total (provável rate-limit) — sinaliza para a rotina
