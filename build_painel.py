@@ -23,7 +23,7 @@ actions.sort(key=lambda a: (seg_rank.get(a['segmento'], 2), a['banner'], a['inic
 import datetime
 # incidência acumula para sempre, mas só embute imagens dos encartes recentes
 # (mais antigos continuam no ranking; o clique abre o post no Instagram)
-JANELA_IMAGENS_DIAS = 21
+JANELA_IMAGENS_DIAS = 14
 corte = (datetime.date.today() - datetime.timedelta(days=JANELA_IMAGENS_DIAS)).isoformat()
 
 data_actions, images = [], {}
@@ -39,7 +39,7 @@ with tempfile.TemporaryDirectory() as tmp:
             if embutir:
                 # vigentes em alta; expirados recentes em qualidade média (histórico)
                 vig = a['fim'] >= datetime.date.today().isoformat()
-                zw, q = ('1080', '45') if vig else ('680', '42')
+                zw, q = ('940', '42') if vig else ('560', '38')
                 small = os.path.join(tmp, fname)
                 r = subprocess.run(['sips', '-Z', zw, '-s', 'format', 'jpeg',
                                     '-s', 'formatOptions', q, src, '--out', small],
@@ -53,7 +53,7 @@ with tempfile.TemporaryDirectory() as tmp:
             data_actions.append({'id': a['id'], 'banner': a['banner'], 'perfil': a['perfil'],
                                  'titulo': a['titulo'], 'seg': a['segmento'], 'ini': a['inicio'],
                                  'fim': a['fim'], 'sc': a['shortcode'], 'pgs': page_ids,
-                                 'novo': a.get('adicionado_em') == datetime.date.today().isoformat()})
+                                 'add': a.get('adicionado_em', '')})
 
 n_products = sum(len(products.get(p, [])) for a in data_actions for p in a['pgs'])
 import datetime

@@ -290,7 +290,10 @@ const esc = s => String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replac
 // busca por termos: cada palavra digitada precisa aparecer em alguma parte do nome
 const toks = q => norm(q).split(/\s+/).filter(Boolean);
 const matches = (normName, q) => toks(q).every(t => normName.includes(t));
-const hoje = () => { const d = new Date(), z = n => String(n).padStart(2,'0'); return `${d.getFullYear()}-${z(d.getMonth()+1)}-${z(d.getDate())}`; };
+const dISO = d => { const z = n => String(n).padStart(2,'0'); return `${d.getFullYear()}-${z(d.getMonth()+1)}-${z(d.getDate())}`; };
+const hoje = () => dISO(new Date());
+// tag Novo: encarte vigente que entrou no painel nos últimos 2 dias
+const isNovo = a => { if(!a.add || !isActive(a)) return false; const lim = new Date(); lim.setDate(lim.getDate() - 2); return a.add >= dISO(lim); };
 const fmt = d => d.slice(8,10)+'/'+d.slice(5,7);
 const status = a => a.fim < hoje() ? 'off' : (a.fim === hoje() ? 'today' : 'on');
 const isActive = a => status(a) !== 'off';
@@ -384,7 +387,7 @@ function card(a){
     <div class="card-b">
       <span class="banner">${esc(a.banner)}</span>
       <span class="title">${esc(a.titulo)}</span>
-      <span class="meta">${a.novo ? '<span class="pill new">Novo</span>' : ''}${pill(st)}<span class="dates">${fmt(a.ini)} – ${fmt(a.fim)}</span></span>
+      <span class="meta">${isNovo(a) ? '<span class="pill new">Novo</span>' : ''}${pill(st)}<span class="dates">${fmt(a.ini)} – ${fmt(a.fim)}</span></span>
     </div>`;
   // abre direto na primeira página que tem produto (pula capa/publicidade)
   const first = Math.max(0, a.pgs.findIndex(p => (PRODUCTS[p]||[]).length > 0));
@@ -433,7 +436,7 @@ function renderSearch(main, inTab){
     h.innerHTML = `<span class="avatar">${initials(a.banner)}</span>
       <span class="who"><span class="banner">${esc(a.banner)}</span><br>
       <span class="sub">${esc(a.titulo)} · ${fmt(a.ini)} – ${fmt(a.fim)}</span></span>
-      ${a.novo ? '<span class="pill new">Novo</span>' : ''}${pill(st)}<span class="go">›</span>`;
+      ${isNovo(a) ? '<span class="pill new">Novo</span>' : ''}${pill(st)}<span class="go">›</span>`;
     h.addEventListener('click', () => openViewer(a, g[0].pg, g[0].prod));
     c.appendChild(h);
     const rows = document.createElement('div'); rows.className='rrows';
