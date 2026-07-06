@@ -1,0 +1,52 @@
+[
+ {
+  "id": "DaTjUhZmPIF",
+  "perfil": "supernordestaonatal",
+  "titulo": "Golaço de Ofertas",
+  "banner": "Super Nordestão",
+  "segmento": "varejo",
+  "inicio": "2026-07-02",
+  "fim": "2026-07-05",
+  "carrossel": true,
+  "shortcode": "DaTjUhZmPIF",
+  "caption": "⚽ O Nordestão entrou em campo com um golaço de ofertas! 💚💛\n\nAproveite para encher o carrinho com muita economia e garantir tudo o que você precisa para torcer com sabor e qualidade. Mas corra, porque é por tempo limitado! 🛒🔥\n\n📆 Ofertas válidas de 03 a 05 de julho de 2026.\n📍 Lojas Nordestão Natal",
+  "paginas": [
+   "DaTjUhZmPIF_p1.jpg",
+   "DaTjUhZmPIF_p2.jpg"
+  ],
+  "adicionado_em": "2026-07-06"
+ },
+ {
+  "id": "DaPwN0BGCiq",
+  "perfil": "supernordestaonatal",
+  "titulo": "Festival Saudáveis",
+  "banner": "Super Nordestão",
+  "segmento": "varejo",
+  "inicio": "2026-07-01",
+  "fim": "2026-07-07",
+  "carrossel": true,
+  "shortcode": "DaPwN0BGCiq",
+  "caption": "🥗 No Festival Saudáveis do Nordestão, você encontra ofertas especiais para manter a alimentação equilibrada, sem abrir mão do sabor!\n\nÉ a oportunidade perfeita para abastecer a despensa, cuidar da saúde e aproveitar uma semana cheia de economia. 💚💛\n\n📅 Ofertas válidas de 01 a 10 de julho de 2026.\n📍 Lojas Nordestão Natal",
+  "paginas": [
+   "DaPwN0BGCiq_p1.jpg",
+   "DaPwN0BGCiq_p2.jpg"
+  ],
+  "adicionado_em": "2026-07-06"
+ },
+ {
+  "id": "DaQR3sMkQbK",
+  "perfil": "supernordestaonatal",
+  "titulo": "Quarta e Quinta do Hortifruti",
+  "banner": "Super Nordestão",
+  "segmento": "varejo",
+  "inicio": "2026-07-01",
+  "fim": "2026-07-02",
+  "carrossel": false,
+  "shortcode": "DaQR3sMkQbK",
+  "caption": "🇧🇷🍊 A seleção mais fresca é aqui: toda Quarta e Quinta do Hortifruti é dia de encher a geladeira com frutas, verduras e legumes selecionados do Nordestão.\n\n📍 Válidas nas lojas Nordestão Natal, no site e no app\n📅 Toda quarta e quinta-feira, ou enquanto durarem os estoques",
+  "paginas": [
+   "DaQR3sMkQbK_p1.jpg"
+  ],
+  "adicionado_em": "2026-07-06"
+ }
+]

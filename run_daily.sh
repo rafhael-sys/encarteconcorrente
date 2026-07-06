@@ -16,14 +16,28 @@ mkdir -p "$BASE/data"
 
 HOJE=$(date +%Y-%m-%d)
 HORA=$(( 10#$(date +%H) ))
-DOW=$(date +%u)   # 1 = segunda
 
-# janelas de atualização: segunda tem 4 (7h, 12h, 14h, 17h); demais dias, só 7h
-if [[ "$DOW" == "1" ]]; then SLOTS=(7 12 14 17); else SLOTS=(7); fi
+# janelas de atualização: todos os dias, de 3 em 3 horas a partir das 7h
+SLOTS=(7 10 13 16 19 22)
 SLOT=""
 for h in $SLOTS; do (( HORA >= h )) && SLOT=$h; done
 [[ -z "$SLOT" ]] && exit 0                                          # antes das 7h
-[[ -f "$STAMP" && "$(cat "$STAMP")" == "$HOJE $SLOT" ]] && exit 0   # janela já rodou
+
+# já rodou esta janela (ou uma posterior) hoje?
+read S_DIA S_SLOT <<< "$(cat "$STAMP" 2>/dev/null || echo "- 0")"
+[[ "$S_DIA" == "$HOJE" ]] && (( S_SLOT >= SLOT )) && exit 0
+
+# trava de concorrência: nunca rodar em paralelo com outra execução
+# (ou com uma sessão manual do Claude que criou a trava)
+LOCK="$BASE/data/.lock"
+if ! mkdir "$LOCK" 2>/dev/null; then
+  if [[ -n "$(find "$LOCK" -maxdepth 0 -mmin +120 2>/dev/null)" ]]; then
+    rmdir "$LOCK" 2>/dev/null; mkdir "$LOCK" 2>/dev/null || exit 0   # trava órfã (>2h)
+  else
+    exit 0
+  fi
+fi
+trap 'rmdir "$LOCK" 2>/dev/null' EXIT
 
 read T_DIA T_SLOT T_N <<< "$(cat "$TRIES" 2>/dev/null || echo "- - 0")"
 [[ "$T_DIA $T_SLOT" != "$HOJE $SLOT" ]] && T_N=0
