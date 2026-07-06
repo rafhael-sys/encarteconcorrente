@@ -292,8 +292,16 @@ const toks = q => norm(q).split(/\s+/).filter(Boolean);
 const matches = (normName, q) => toks(q).every(t => normName.includes(t));
 const dISO = d => { const z = n => String(n).padStart(2,'0'); return `${d.getFullYear()}-${z(d.getMonth()+1)}-${z(d.getDate())}`; };
 const hoje = () => dISO(new Date());
-// tag Novo: encarte vigente que entrou no painel nos últimos 2 dias
-const isNovo = a => { if(!a.add || !isActive(a)) return false; const lim = new Date(); lim.setDate(lim.getDate() - 2); return a.add >= dISO(lim); };
+// tag Novo: selo de não-lido — fica no encarte vigente até você abri-lo
+let novoVisto;
+try { novoVisto = new Set(JSON.parse(localStorage.getItem('novoVisto') || '[]')); }
+catch(e){ novoVisto = new Set(); }
+const isNovo = a => !!a.add && isActive(a) && !novoVisto.has(a.id);
+function marcaVisto(a){
+  if(novoVisto.has(a.id)) return;
+  novoVisto.add(a.id);
+  try { localStorage.setItem('novoVisto', JSON.stringify([...novoVisto])); } catch(e){}
+}
 const fmt = d => d.slice(8,10)+'/'+d.slice(5,7);
 const status = a => a.fim < hoje() ? 'off' : (a.fim === hoje() ? 'today' : 'on');
 const isActive = a => status(a) !== 'off';
@@ -643,8 +651,9 @@ function highlight(name){
 /* ---------- visor ---------- */
 let V = null; // {a, pg, prod}
 function openViewer(a, pg, prod){
+  marcaVisto(a);
   // encarte antigo sem imagem embutida: abre o post original
-  if(!IMG[a.pgs[pg]]){ window.open(`https://www.instagram.com/p/${a.sc}/`, '_blank'); return; }
+  if(!IMG[a.pgs[pg]]){ window.open(`https://www.instagram.com/p/${a.sc}/`, '_blank'); render(); return; }
   V = {a, pg, prod};
   $('vAvatar').textContent = initials(a.banner);
   $('vBanner').textContent = a.banner;
@@ -696,6 +705,7 @@ function closeViewer(){
   $('overlay').classList.remove('open');
   document.body.style.overflow='';
   V = null;
+  render();  // atualiza as tags Novo (encarte aberto deixa de ser não-lido)
 }
 
 /* ---------- eventos ---------- */
