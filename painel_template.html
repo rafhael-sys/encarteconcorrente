@@ -221,6 +221,30 @@
   .kbadge.lose{color:#c2410c;background:#faeee5}
   @media (max-width:640px){.kprice{width:150px}.kocc .rrow .who-mini{width:70px}}
 
+  /* ---------- feed "desde sua última visita" ---------- */
+  .feed{border:1px solid var(--border);border-radius:var(--radius);background:var(--surface);padding:14px 16px;margin:0 0 24px}
+  .feed-t{font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--text-3);margin-bottom:8px}
+  .feed-row{display:flex;align-items:center;gap:8px;width:100%;text-align:left;padding:6px 8px;border-radius:8px;font-size:13.5px}
+  .feed-row:hover{background:var(--surface-2)}
+  .feed-row b{font-weight:600}
+  .feed-row .fdates{color:var(--text-3);font-size:12px;font-variant-numeric:tabular-nums;margin-left:auto;white-space:nowrap}
+  .feed-mais{padding:6px 8px;font-size:13px;font-weight:500;color:var(--green)}
+  .feed-mais:hover{text-decoration:underline}
+  .feed-exp{padding:7px 8px 1px;font-size:12.5px;color:var(--text-3);border-top:1px solid var(--border);margin-top:7px}
+  .feed-exp button{color:var(--text-2);font-weight:500}
+  .feed-exp button:hover{text-decoration:underline}
+
+  /* ---------- saúde das fontes ---------- */
+  .fontes-wrap{position:relative}
+  .fontes-pill{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--border);border-radius:999px;padding:6px 13px;font-size:12.5px;font-weight:500;color:var(--text-2);background:var(--bg)}
+  .fontes-pill:hover{border-color:var(--border-strong)}
+  .fdot{width:8px;height:8px;border-radius:50%;flex:none}
+  .f-ok{background:var(--green)} .f-warn{background:#d97706} .f-bad{background:#dc2626}
+  .fontes-panel{position:absolute;top:calc(100% + 6px);right:0;z-index:30;background:var(--bg);border:1px solid var(--border);border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.12);padding:8px;min-width:300px;max-height:340px;overflow-y:auto}
+  .fonte-row{display:flex;align-items:center;gap:9px;padding:7px 10px;border-radius:8px;font-size:13px}
+  .fonte-row .fnome{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .fonte-row .fquando{color:var(--text-3);font-size:12px;white-space:nowrap}
+
   footer{max-width:1080px;margin:0 auto;padding:0 20px 40px;font-size:12.5px;color:var(--text-3)}
   @media (max-width:640px){
     .head-in{padding:12px 14px}
@@ -238,6 +262,7 @@
       <input id="q" type="search" placeholder="Buscar produto… ex.: treloso, picanha, óleo" autocomplete="off">
       <button class="clear" id="clearQ" aria-label="Limpar busca">✕</button>
     </div>
+    <div class="fontes-wrap" id="fontesWrap"></div>
     <div class="tabs" role="tablist">
       <button class="tab" role="tab" id="tabOn"  aria-selected="true">Vigentes</button>
       <button class="tab" role="tab" id="tabOff" aria-selected="false">Expirados</button>
@@ -283,6 +308,7 @@ const ACTIONS = __ACTIONS__;
 const PRODUCTS = __PRODUCTS__;
 const IMG = __IMAGES__;
 const CANON = __CANON__;
+const FONTES = __FONTES__;
 
 const $ = id => document.getElementById(id);
 const norm = s => (s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
@@ -311,6 +337,91 @@ const SEGS = [['propria','Rede Mais — sua rede'],['varejo','Varejo'],['atacare
 
 let tab = 'on';          // 'on' = ativos, 'off' = expirados
 let query = '';
+
+/* ---------- feed: novidades desde a última visita ---------- */
+const feedVistos = new Set(JSON.parse(localStorage.getItem('feedVistos') || '[]'));
+const expVistos = new Set(JSON.parse(localStorage.getItem('expVistos') || '[]'));
+const FEED_NOVOS = ACTIONS.filter(a => a.add && isActive(a) && !feedVistos.has(a.id));
+const FEED_EXP = ACTIONS.filter(a => !isActive(a) && !expVistos.has(a.id)
+  && a.fim >= dISO(new Date(Date.now() - 7 * 864e5)));
+try {
+  localStorage.setItem('feedVistos', JSON.stringify([...feedVistos, ...FEED_NOVOS.map(a => a.id)]));
+  localStorage.setItem('expVistos', JSON.stringify([...expVistos, ...FEED_EXP.map(a => a.id)]));
+} catch(e){}
+let feedTudo = false;
+
+function feedBox(){
+  if(!FEED_NOVOS.length && !FEED_EXP.length) return null;
+  const box = document.createElement('div'); box.className = 'feed';
+  const t = document.createElement('div'); t.className = 'feed-t';
+  t.textContent = 'Desde sua última visita';
+  box.appendChild(t);
+  const mostrar = feedTudo ? FEED_NOVOS : FEED_NOVOS.slice(0, 8);
+  mostrar.forEach(a => {
+    const nprod = a.pgs.reduce((s2, p2) => s2 + (PRODUCTS[p2]||[]).length, 0);
+    const r = document.createElement('button'); r.className = 'feed-row';
+    r.innerHTML = `<span>▸</span><span><b>${esc(a.banner)}</b> — ${esc(a.titulo)} · ${nprod} produtos</span>
+      <span class="fdates">${fmt(a.ini)} – ${fmt(a.fim)}</span>`;
+    const first = Math.max(0, a.pgs.findIndex(p2 => (PRODUCTS[p2]||[]).length > 0));
+    r.addEventListener('click', () => openViewer(a, first, null));
+    box.appendChild(r);
+  });
+  if(!feedTudo && FEED_NOVOS.length > 8){
+    const m = document.createElement('button'); m.className = 'feed-mais';
+    m.textContent = `e mais ${FEED_NOVOS.length - 8} encartes novos`;
+    m.addEventListener('click', () => { feedTudo = true; render(); });
+    box.appendChild(m);
+  }
+  if(FEED_EXP.length){
+    const e2 = document.createElement('div'); e2.className = 'feed-exp';
+    e2.innerHTML = `<button>${FEED_EXP.length} encarte${FEED_EXP.length===1?' expirou':'s expiraram'} desde sua visita →</button>`;
+    e2.querySelector('button').addEventListener('click', () => { tab = 'off'; render(); });
+    box.appendChild(e2);
+  }
+  return box;
+}
+
+/* ---------- saúde das fontes ---------- */
+let fontesAberto = false;
+function fonteNivel(f){
+  if(!f.ultima_coleta_ok) return 2;
+  const h = (Date.now() - new Date(f.ultima_coleta_ok.replace(' ', 'T'))) / 36e5;
+  const erroRecente = f.ultimo_erro && f.ultimo_erro.slice(0, 16) > f.ultima_coleta_ok;
+  let n = h > 48 ? 2 : h > 24 ? 1 : 0;
+  if(erroRecente) n = Math.max(n, h > 24 ? 2 : 1);
+  return n;
+}
+const fonteIdade = f => {
+  if(!f.ultima_coleta_ok) return 'nunca coletou';
+  const h = (Date.now() - new Date(f.ultima_coleta_ok.replace(' ', 'T'))) / 36e5;
+  return h < 1 ? 'há minutos' : h < 24 ? `há ${Math.floor(h)}h` : `há ${Math.floor(h/24)}d`;
+};
+function renderFontes(){
+  const wrap = $('fontesWrap');
+  const nomes = Object.keys(FONTES);
+  if(!nomes.length){ wrap.innerHTML = ''; return; }
+  const pior = Math.max(...nomes.map(n => fonteNivel(FONTES[n])));
+  const cls = pior === 0 ? 'f-ok' : pior === 1 ? 'f-warn' : 'f-bad';
+  wrap.innerHTML = `<button class="fontes-pill" id="fontesBtn"><span class="fdot ${cls}"></span>Fontes${pior > 0 ? ' ⚠' : ''}</button>
+    <div class="fontes-panel" id="fontesPanel"${fontesAberto ? '' : ' hidden'}>` +
+    nomes.sort((a,b) => fonteNivel(FONTES[b]) - fonteNivel(FONTES[a]) || a.localeCompare(b))
+      .map(n => {
+        const f = FONTES[n], nv = fonteNivel(f);
+        const c2 = nv === 0 ? 'f-ok' : nv === 1 ? 'f-warn' : 'f-bad';
+        return `<div class="fonte-row"><span class="fdot ${c2}"></span><span class="fnome">${esc(n)}</span><span class="fquando">${fonteIdade(f)}</span></div>`;
+      }).join('') + '</div>';
+  wrap.querySelector('#fontesBtn').addEventListener('click', () => {
+    fontesAberto = !fontesAberto;
+    wrap.querySelector('#fontesPanel').hidden = !fontesAberto;
+  });
+}
+document.addEventListener('click', e => {
+  if(fontesAberto && !e.target.closest('.fontes-wrap')){
+    fontesAberto = false;
+    const p2 = document.getElementById('fontesPanel');
+    if(p2) p2.hidden = true;
+  }
+});
 
 /* ---------- índice de produtos ---------- */
 // itens: {a: action, pg: index da página, prod, key: nome normalizado}
@@ -370,6 +481,10 @@ function render(){
   if(query.length >= 2){ renderSearch(main, inTab); return; }
 
   main.innerHTML = '';
+  if(tab === 'on'){
+    const fb = feedBox();
+    if(fb) main.appendChild(fb);
+  }
   const known = new Set(SEGS.map(s => s[0]));
   const extras = [...new Set(inTab.map(a => a.seg).filter(g => !known.has(g)))]
     .map(g => [g, g.charAt(0).toUpperCase() + g.slice(1)]);
@@ -728,5 +843,6 @@ document.addEventListener('keydown', e=>{
   if(e.key==='ArrowRight' && V.pg<V.a.pgs.length-1){ V.pg++; V.prod=null; drawPage(); }
 });
 
+renderFontes();
 render();
 </script>
