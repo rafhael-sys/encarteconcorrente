@@ -10,6 +10,13 @@ BASE="$(cd "$(dirname "$0")" && pwd)"
 cd "$BASE"
 export HOJE="$(date +%Y-%m-%d)"
 
+# Autenticação do Claude: usa o que estiver disponível. Se um dos tokens vier
+# vazio (secret não cadastrado), remove-o para não atrapalhar o outro — o Claude
+# Code prioriza ANTHROPIC_API_KEY mesmo quando vazia, o que quebraria o uso do
+# CLAUDE_CODE_OAUTH_TOKEN (plano Max, gratuito).
+if [ -z "${ANTHROPIC_API_KEY:-}" ]; then unset ANTHROPIC_API_KEY; fi
+if [ -z "${CLAUDE_CODE_OAUTH_TOKEN:-}" ]; then unset CLAUDE_CODE_OAUTH_TOKEN; fi
+
 echo "=== $(date '+%Y-%m-%d %H:%M') rotina na nuvem iniciando ==="
 
 # 1) coleta do Instagram (perfis públicos). A collect.py já re-tenta internamente.
