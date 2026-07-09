@@ -6,10 +6,10 @@ name: Encartes — coleta e publicação
 # (o gatilho workflow_dispatch abaixo) na aba Actions do GitHub.
 on:
   schedule:
-    # Horários locais de Natal/RN (UTC-3): 07, 10, 13, 16, 19 e 22h.
-    # Em UTC isso vira 10, 13, 16, 19, 22 e 01h. O agendador do GitHub não é
-    # exato — pode atrasar alguns minutos; para um painel diário, tudo bem.
-    - cron: '0 1,10,13,16,19,22 * * *'
+    # Horários locais de Natal/RN (UTC-3): 07h, 13h e 19h (3x por dia).
+    # Em UTC isso vira 10h, 16h e 22h. O agendador do GitHub não é exato —
+    # pode atrasar alguns minutos; para um painel diário, tudo bem.
+    - cron: '0 10,16,22 * * *'
   workflow_dispatch: {}
 
 # nunca deixa duas execuções mexerem nos dados ao mesmo tempo
