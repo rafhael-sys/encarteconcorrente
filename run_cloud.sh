@@ -79,16 +79,18 @@ python3 atualiza_banco.py || echo "[aviso] atualização do banco de preços fal
 python3 limpa_imagens.py || echo "[aviso] limpeza de imagens antigas falhou"
 
 # 6) gera e publica o painel SÓ quando há algo novo para a equipe ver.
-#    "Novo" = ações/produtos/canon ou o conjunto de imagens mudou desde a
-#    última publicação OK, OU ainda não houve publicação hoje (a primeira
-#    janela do dia sempre publica: move vencidos para Expirados e atualiza a
-#    data). Evita re-gerar e re-subir ~46 MB ao Netlify em janela sem novidade.
+#    "Novo" = ações/produtos/canon, o conjunto de imagens OU o visual
+#    (template do painel / porta de senha) mudou desde a última publicação OK,
+#    OU ainda não houve publicação hoje (a primeira janela do dia sempre
+#    publica: move vencidos para Expirados e atualiza a data). Evita re-gerar
+#    e re-subir ~46 MB ao Netlify em janela sem novidade.
 #    (token e senha vêm das variáveis NETLIFY_TOKEN e PAINEL_SENHA;
 #    ENCARTES_LOCK_HERDADA=1 pula a trava do Mac)
 FP=$(python3 -c "
 import hashlib, os
 h = hashlib.sha256()
-for f in ('data/actions.json', 'data/products.json', 'data/canon.json'):
+for f in ('data/actions.json', 'data/products.json', 'data/canon.json',
+          'painel_template.html', 'gera_gate.py'):
     try:
         h.update(open(f, 'rb').read())
     except OSError:
