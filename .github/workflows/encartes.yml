@@ -75,5 +75,13 @@ jobs:
             echo "Nada mudou nos dados nesta execução."
           else
             git commit -m "dados: atualização automática $(date '+%Y-%m-%d %H:%M')"
-            git push
+            # envio resistente: se alguém empurrou algo ao mesmo tempo, traz as
+            # mudanças remotas (rebase) e re-tenta, em vez de falhar.
+            ok=0
+            for i in 1 2 3 4 5; do
+              if git pull --rebase --autostash origin main && git push; then ok=1; break; fi
+              echo "[aviso] envio recusado (tentativa $i) — sincronizando e re-tentando..."
+              sleep $((2 * i))
+            done
+            [ "$ok" = "1" ] || { echo "[erro] não foi possível salvar os dados após 5 tentativas"; exit 1; }
           fi
