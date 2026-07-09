@@ -750,5 +750,65 @@
   "veredito": "mesmo",
   "quando": "2026-07-09",
   "aplicado": true
+ },
+ "tangerina murcote || tangerina murcote kg": {
+  "a": "Tangerina Murcote kg",
+  "b": "Tangerina Murcote",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "farinha de mandioca brejeira branca 1kg || farinha de mandioca brejeirinha branca pct 1kg": {
+  "a": "Farinha de Mandioca Brejeira Branca 1kg",
+  "b": "Farinha de Mandioca Brejeirinha Branca pct 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-09"
+ },
+ "mac espaguete imperador 400g || macarrao espaguete imperador 400g": {
+  "a": "Macarrão Espaguete Imperador 400g",
+  "b": "Mac Espaguete Imperador 400g",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "coxa de frango sadia pct 1kg || sobrecoxa de frango sadia pct 1kg": {
+  "a": "Sobrecoxa de Frango Sadia pct 1kg",
+  "b": "Coxa de Frango Sadia PCT 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-09"
+ },
+ "uva vitoria sem semente 500g || uva vitoria sem sementes bdj 500g": {
+  "a": "Uva Vitória sem Semente 500g",
+  "b": "Uva Vitória Sem Sementes BDJ 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "carne bovina paleta com osso kg || carne bovina peito com osso kg": {
+  "a": "Carne Bovina Peito com Osso kg",
+  "b": "Carne Bovina Paleta com Osso KG",
+  "veredito": "diferente",
+  "quando": "2026-07-09"
+ },
+ "pao bom de massa 400g forma trad, integral, leite || pao bom de massa 400g forma tradicional integral leite": {
+  "a": "Pão Bom de Massa 400g Forma Tradicional Integral Leite",
+  "b": "Pão Bom de Massa 400g Forma Trad, Integral, Leite",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "ovos iana grande branco com 30 unds || ovos iana grandes brancos c/30und": {
+  "a": "Ovos Iana Grandes Brancos c/30und",
+  "b": "Ovos Iana Grande Branco com 30 Unds",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "almondega bovina chuletao congelada 1kg || almondega bovina chuletao conq 1kg": {
+  "a": "Almôndega Bovina Chuletão Congelada 1kg",
+  "b": "Almôndega Bovina Chuletão Conq 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
  }
 }

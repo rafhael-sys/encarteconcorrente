@@ -81,16 +81,20 @@
 - MESMO: «Tira Manchas em Gel Vanish Multiuso/White Refil 1,2L» == «Tira Manchas em Gel Vanish White Refil 1,2L»
 - MESMO: «Tomate Italiano kg» == «Tomate Italiano»
 - MESMO: «Whisky Johnnie Walker RED LABEL 1L» == «Whisky Johnnie Walker Red Label Garrafa 1L»
+- MESMO: «Almôndega Bovina Chuletão Congelada 1kg» == «Almôndega Bovina Chuletão Conq 1kg»
 - MESMO: «Azeite Extra Virgem Gallo Por 500ml» == «Azeite Extra Virgem Gallo 500ml»
 - MESMO: «Batata Frita Easyfcher Congelado 2kg Tradicional» == «Batata Frita Easychef Congelado 2kg Tradicional»
 - MESMO: «Camarão Inteiro Camanor Congelado a Granel kg» == «Camarão Inteiro Camanor Congelado a Granel»
 - MESMO: «Carne Bovina Dianteira de Sol» == «Carne Bovina Dianteira de Sol kg»
+- DIFERENTES: «Carne Bovina Peito com Osso kg» != «Carne Bovina Paleta com Osso KG»
 - MESMO: «Carne Bovina Paleta com Osso» == «Carne Bovina Paleta com Osso KG»
 - MESMO: «Cerveja Lager Impero Puro Malte GF 355ml» == «Cerveja Lager Imperio Puro Malte GF 355ml»
 - MESMO: «Cerveja Malzbeer Brahma GF 355ml» == «Cerveja Malzbier Brahma GF 355ml»
 - MESMO: «Coração de Frango Bom Todo 500g Bandeja» == «Coração Frango Bom Todo 500g Bandeja»
+- DIFERENTES: «Sobrecoxa de Frango Sadia pct 1kg» != «Coxa de Frango Sadia PCT 1kg»
 - MESMO: «Coxinha da asa Jaguá IQF 1kg» == «Coxinha Asa Jagua IQF 1kg»
 - MESMO: «Enxaguante Bucal Colgate Leve750 P500ml (Plax Fresh Mint - Odor Control)» == «Enxaguante Bucal Colgate Leve 750 Pague 500ml (Plax Fresh Mint / Odor Control)»
+- DIFERENTES: «Farinha de Mandioca Brejeira Branca 1kg» != «Farinha de Mandioca Brejeirinha Branca pct 1kg»
 - DIFERENTES: «Filé de Peito de Frango Jaguá Bandeja 1kg» != «Filé de Peito de Frango Sadia Bandeja 1kg»
 - DIFERENTES: «Filé de Peito de Frango Lar Bandeja 1kg» != «Filé de Peito de Frango Sadia Bandeja 1kg»
 - MESMO: «Filé Peixe Tilápia Aurora 800g Congelado» == «Filé Peixe Tilápia Aurora 800g Cong»
@@ -103,12 +107,15 @@
 - MESMO: «Linguiça de Frango Avivar kg Churrasco» == «Linguiça de Frango Aviava KG Churrasco»
 - MESMO: «Linguiça de Frango Avivar kg Churrasco» == «Linguiça de Frango Avinar Kg Churrasco»
 - MESMO: «Linguiça de Frango Avivar» == «Linguiça de Frango Avivar kg»
+- MESMO: «Macarrão Espaguete Imperador 400g» == «Mac Espaguete Imperador 400g»
 - MESMO: «Maçã Vermelha Nacional kg» == «Maçã Vermelha Nacional»
 - MESMO: «Macarrão Espaguete Imperador 400g» == «Macarrão Espaguete Emperador 400g»
 - MESMO: «Manteiga Itacolomy com Sal 500g» == «Manteiga Itacolomy com Sal pt 500g»
 - MESMO: «Milho Pipoca Vitaforte Premium 400g» == «Milho de Pipoca Vitaforte Premium 400g»
 - MESMO: «Mini Coxinha Bom Todo Congelada 300g Sabores» == «Mini Coxinha Bom Todo Cong 300g Sabores»
 - MESMO: «Mini Coxinha Bom Todo Congelada 300g Sabores» == «Mini Coxinha Bom Todo Congelado 300g Sabores»
+- MESMO: «Ovos Iana Grandes Brancos c/30und» == «Ovos Iana Grande Branco com 30 Unds»
+- MESMO: «Pão Bom de Massa 400g Forma Tradicional Integral Leite» == «Pão Bom de Massa 400g Forma Trad, Integral, Leite»
 - MESMO: «Pão de Queijo Delícia Mineira 1kg Congelado Tradicional» == «Pão Queijo Delicia Mineira 1kg Cong Tradicional»
 - MESMO: «Papel Toalha Scala c/2 200fls» == «Papel Toalha Scala Plus c/2 200fls»
 - MESMO: «Peito de Frango Congelado kg» == «Peito Frango Congelado Kg»
@@ -116,4 +123,6 @@
 - MESMO: «Queijo Jardinense Coalho ou Manteiga Peça, Pedaço ou Mini kg» == «Queijo Jardineire Coalho/Manteiga Peça, Pedaço ou Mini KG»
 - MESMO: «Salsicha Hot Dog Avivar kg» == «Salsicha Hot Dog Aviava KG»
 - MESMO: «Salsicha Hot Dog Avivar kg» == «Salsicha Hot Dog Avinar Kg»
+- MESMO: «Tangerina Murcote kg» == «Tangerina Murcote»
+- MESMO: «Uva Vitória sem Semente 500g» == «Uva Vitória Sem Sementes BDJ 500g»
 - MESMO: «Vinho Collina GF 750ml Sabores» == «Vinho Colina 750ml Sabores»

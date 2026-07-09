@@ -1,0 +1,13 @@
+{
+ "validacoes": [
+  {"a": "Tangerina Murcote kg", "b": "Tangerina Murcote", "veredito": "mesmo"},
+  {"a": "Farinha de Mandioca Brejeira Branca 1kg", "b": "Farinha de Mandioca Brejeirinha Branca pct 1kg", "veredito": "diferente"},
+  {"a": "Macarrão Espaguete Imperador 400g", "b": "Mac Espaguete Imperador 400g", "veredito": "mesmo"},
+  {"a": "Sobrecoxa de Frango Sadia pct 1kg", "b": "Coxa de Frango Sadia PCT 1kg", "veredito": "diferente"},
+  {"a": "Uva Vitória sem Semente 500g", "b": "Uva Vitória Sem Sementes BDJ 500g", "veredito": "mesmo"},
+  {"a": "Carne Bovina Peito com Osso kg", "b": "Carne Bovina Paleta com Osso KG", "veredito": "diferente"},
+  {"a": "Pão Bom de Massa 400g Forma Tradicional Integral Leite", "b": "Pão Bom de Massa 400g Forma Trad, Integral, Leite", "veredito": "mesmo"},
+  {"a": "Ovos Iana Grandes Brancos c/30und", "b": "Ovos Iana Grande Branco com 30 Unds", "veredito": "mesmo"},
+  {"a": "Almôndega Bovina Chuletão Congelada 1kg", "b": "Almôndega Bovina Chuletão Conq 1kg", "veredito": "mesmo"}
+ ]
+}
