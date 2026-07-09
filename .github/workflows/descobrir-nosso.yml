@@ -1,0 +1,20 @@
+# TEMPORÁRIO — será removido antes do merge. Serve só para descobrir a API do
+# site do Nosso Atacarejo rodando um Chrome na máquina do GitHub (que tem rede
+# aberta, ao contrário do ambiente onde o código está sendo escrito).
+name: TEMP descobrir nosso atacarejo
+on:
+  workflow_dispatch: {}
+jobs:
+  descobrir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: cd tools && (npm ci || npm install)
+      - name: Sondar página do encarte
+        run: node tools/descobrir_nosso.js 'https://www.nossoatacarejo.com.br/encarte/quarta-e-quinta-rn/5'
+      - name: Sondar página inicial
+        run: node tools/descobrir_nosso.js 'https://www.nossoatacarejo.com.br/'
