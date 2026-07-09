@@ -1,0 +1,21 @@
+name: Teste — as fontes respondem na nuvem?
+
+# Teste de risco: verifica se Instagram/Assaí/Atacadão respondem a partir do IP
+# da nuvem, ANTES de migrar de vez. Não usa segredos, não baixa nada, não altera
+# o repositório. Rode manualmente pela aba Actions (botão "Run workflow").
+on:
+  workflow_dispatch: {}
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Testar as fontes
+        run: python3 tools/teste_instagram.py
