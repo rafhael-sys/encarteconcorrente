@@ -3,7 +3,9 @@
 # aberta, ao contrário do ambiente onde o código está sendo escrito).
 name: TEMP descobrir nosso atacarejo
 on:
-  workflow_dispatch: {}
+  push:
+    branches: [claude/add-competitors-instagram-site-v2g8dw]
+    paths: ['.github/workflows/descobrir-nosso.yml', 'tools/descobrir_nosso.js']
 jobs:
   descobrir:
     runs-on: ubuntu-latest
