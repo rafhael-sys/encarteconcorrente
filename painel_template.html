@@ -64,7 +64,9 @@
   .search:focus-within kbd{display:none}
   /* fonte <16px num input faz o iOS dar zoom automático ao focar */
   @media (hover:none){.search kbd{display:none}.search input{font-size:16px}}
-  .search .clear{display:none;color:var(--text-3);font-size:17px;line-height:1;padding:2px 4px;border-radius:50%}
+  /* o ✕ nativo do input type=search duplicaria o nosso botão de limpar */
+  .search input::-webkit-search-cancel-button{-webkit-appearance:none;display:none}
+  .search .clear{display:none;color:var(--text-3);font-size:17px;line-height:1;padding:6px 8px;border-radius:50%}
   .search .clear:hover{color:var(--text)}
   .search.has-q .clear{display:block}
   .search.has-q kbd{display:none}
@@ -74,12 +76,19 @@
     .brand .sub{display:none}
     .status{font-size:12px;padding:4px 10px}
   }
+  /* no celular as 4 abas quebram em 2 linhas — nada fica escondido */
+  @media (max-width:640px){
+    .tabs{flex-wrap:wrap;border-radius:18px;justify-content:center}
+  }
   .tab{
     border-radius:999px;padding:7px 18px;font-size:13.5px;font-weight:500;color:var(--text-2);
     transition:background .15s,color .15s;white-space:nowrap;
   }
   .tab[aria-selected="true"]{background:var(--bg);color:var(--text);box-shadow:0 1px 3px rgba(0,0,0,.09)}
-  .tab:focus-visible,.search input:focus-visible,button:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+  /* o pill inteiro já sinaliza o foco da busca (focus-within) — outline no
+     input criaria caixa dentro de caixa */
+  .tab:focus-visible,button:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+  .search input:focus-visible{outline:none}
 
   /* ---------- main ---------- */
   main{max-width:1080px;margin:0 auto;padding:26px 20px 60px}
@@ -108,11 +117,12 @@
   .card-b .title{font-size:14.5px;font-weight:600;letter-spacing:-.01em}
   .meta{display:flex;align-items:center;gap:7px;margin-top:3px;flex-wrap:wrap}
   .pill{font-size:11.5px;font-weight:600;border-radius:999px;padding:2.5px 9px;white-space:nowrap}
-  .pill.on{color:var(--green);background:var(--green-bg)}
-  .pill.today{color:var(--amber);background:var(--amber-bg)}
-  .pill.off{color:var(--text-3);background:var(--surface-2)}
-  .pill.new{color:#fff;background:var(--green)}
-  .dates{font-size:12px;color:var(--text-3);font-variant-numeric:tabular-nums}
+  /* tons mais escuros que os das cores-base: contraste AA em texto pequeno */
+  .pill.on{color:#0b6e55;background:var(--green-bg)}
+  .pill.today{color:#8a5a00;background:var(--amber-bg)}
+  .pill.off{color:#5d5d5d;background:var(--surface-2)}
+  .pill.new{color:#fff;background:#0c7a5c}
+  .dates{font-size:12px;color:#6f6f6f;font-variant-numeric:tabular-nums}
 
   /* ---------- resultados de busca ---------- */
   .rhead{margin:4px 0 18px;font-size:14px;color:var(--text-2)}
@@ -192,13 +202,13 @@
   }
   .spot-tag b{font-weight:700}
   .nav-btn{
-    position:absolute;top:50%;transform:translateY(-50%);width:36px;height:36px;border-radius:50%;
+    position:absolute;top:50%;transform:translateY(-50%);width:44px;height:44px;border-radius:50%;
     background:rgba(255,255,255,.94);box-shadow:0 2px 10px rgba(0,0,0,.25);
-    display:flex;align-items:center;justify-content:center;font-size:17px;color:var(--text);
+    display:flex;align-items:center;justify-content:center;font-size:19px;color:var(--text);
   }
   .nav-btn:hover{background:#fff}
   .nav-btn.prev{left:10px}.nav-btn.next{right:10px}
-  .nav-btn[disabled]{opacity:.35;cursor:default}
+  .nav-btn[disabled]{opacity:.55;background:rgba(240,240,240,.9);color:var(--text-3);cursor:default}
   .panel-f{display:flex;align-items:center;gap:12px;padding:12px 16px;border-top:1px solid var(--border)}
   .dots{display:flex;gap:5px;flex:1;flex-wrap:wrap}
   .dot{width:7px;height:7px;border-radius:50%;background:var(--border-strong);padding:0}
@@ -206,6 +216,19 @@
   .pcount{font-size:12.5px;color:var(--text-3);font-variant-numeric:tabular-nums;white-space:nowrap}
   .iglink{font-size:13px;font-weight:500;color:var(--text-2);text-decoration:none;white-space:nowrap}
   .iglink:hover{color:var(--text);text-decoration:underline}
+
+  /* ---------- aba preços agressivos ---------- */
+  .agrow{width:100%;display:flex;align-items:center;gap:14px;padding:12px 16px;text-align:left;
+    border:1px solid var(--border);border-radius:var(--radius);background:var(--bg);margin-bottom:10px}
+  .agrow:hover{background:var(--surface)}
+  .agdrop{flex:none;width:60px;text-align:center;font-size:15px;font-weight:700;color:#c2410c;
+    background:#fdf3f1;border-radius:10px;padding:9px 0;font-variant-numeric:tabular-nums}
+  .agmid{flex:1;min-width:0}
+  .agname{display:block;font-size:14.5px;font-weight:600;letter-spacing:-.01em}
+  .agsub{display:block;font-size:12px;color:var(--text-3);margin-top:2px}
+  .agprice{flex:none;text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+  .agprice b{font-size:15px;color:var(--green)}
+  .agwas{display:block;font-size:11.5px;color:var(--text-3);text-decoration:line-through;margin-top:1px}
 
   /* ---------- aba incidência ---------- */
   .klegend{display:flex;gap:18px;align-items:center;margin:2px 0 16px;font-size:12.5px;color:var(--text-3);flex-wrap:wrap}
@@ -220,7 +243,7 @@
   .kmeta{font-size:12px;color:var(--text-3);margin-top:2px}
   .kmeta b{color:var(--text-2);font-weight:600}
   .kprice{flex:none;width:230px;min-width:0}
-  .ktrack{position:relative;height:22px}
+  .ktrack{display:block;position:relative;height:22px}
   .ktrack::before{content:"";position:absolute;left:5px;right:5px;top:50%;height:2px;background:var(--border-strong);border-radius:2px}
   .kdot{position:absolute;top:50%;transform:translate(-50%,-50%);width:9px;height:9px;border-radius:50%;border:2px solid var(--bg);box-shadow:0 0 0 1px rgba(0,0,0,.06)}
   .kdot.min{background:var(--green)}
@@ -254,7 +277,12 @@
   .kbadge.win{color:var(--green);background:var(--green-bg)}
   .kbadge.tie{color:var(--text-2);background:var(--surface-2)}
   .kbadge.lose{color:#c2410c;background:#faeee5}
-  @media (max-width:640px){.kprice{width:150px}.kocc .rrow .who-mini{width:70px}}
+  @media (max-width:640px){
+    .kprice{width:132px}
+    .kocc .rrow .who-mini{width:70px}
+    /* lista longa de redes não pode virar torre de 15 linhas no celular */
+    .kmeta{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  }
 
   /* ---------- saúde das fontes ---------- */
   /* engrenagem local (o bloco some do site publicado) */
@@ -268,11 +296,16 @@
   }
   .cfg-row{display:flex;align-items:baseline;gap:8px;margin-top:9px}
   .cfg-row .cfg-k{flex:none;width:46px;color:var(--text-3);font-size:12px}
-  .cfg-row a{color:var(--green);word-break:break-all;text-decoration:none;min-width:0}
+  .cfg-row a{color:var(--green);overflow-wrap:anywhere;text-decoration:none;min-width:0}
   .cfg-row a:hover{text-decoration:underline}
   .cfg-row code{background:var(--surface-2);border-radius:6px;padding:1px 7px}
   .cfg-copy{color:var(--green);font-weight:500;font-size:12.5px;flex:none}
   .cfg-note{margin:12px 0 0;padding-top:10px;border-top:1px solid var(--surface-2);color:var(--text-3);font-size:12px;line-height:1.5}
+  /* no celular o botão da engrenagem fica à esquerda: o painel ancorado nele
+     sairia da tela — vira uma folha fixa ocupando a largura útil */
+  @media (max-width:640px){
+    .cfg-panel{position:fixed;left:14px;right:14px;top:110px;width:auto}
+  }
 
   .fontes-wrap{position:relative}
   .fontes-pill{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--border);border-radius:999px;padding:6px 13px;font-size:12.5px;font-weight:500;color:var(--text-2);background:var(--bg)}
@@ -311,7 +344,8 @@
           <div class="cfg-row"><span class="cfg-k">Link</span><a id="cfgUrl" href="__PUB_URL__" target="_blank" rel="noopener">__PUB_URL__</a><button class="cfg-copy" id="cfgCopy">copiar</button></div>
           <div class="cfg-row"><span class="cfg-k">Senha</span><code id="cfgSenha">__PUB_SENHA__</code></div>
           <div class="cfg-row" id="cfgAtalhoRow"><span class="cfg-k">Atalho</span><a id="cfgAtalho" target="_blank" rel="noopener">link que já entra sem digitar a senha</a><button class="cfg-copy" id="cfgCopy2">copiar</button></div>
-          <div class="cfg-row"><span class="cfg-k">Sobe</span><span>todo dia ao meio-dia (se o Mac estiver desligado, na primeira atualização depois das 13h)</span></div>
+          <div class="cfg-row"><span class="cfg-k">Sobe</span><span>todo dia às 9h (se o Mac estiver desligado, na primeira atualização depois das 10h)</span></div>
+          <div class="cfg-row"><span class="cfg-k">No ar</span><span>versão de __PUB_QUANDO__</span></div>
           <p class="cfg-note">Esta engrenagem existe só no seu arquivo local — ela é removida do site publicado. Para trocar a senha: dois cliques em <code>trocar_senha.command</code> na pasta encartes-concorrentes (troca e republica na hora), ou peça ao Claude.</p>
         </div>
         <script>
@@ -353,18 +387,19 @@
         <button class="clear" id="clearQ" aria-label="Limpar busca">✕</button>
       </div>
       <div class="tabs" role="tablist">
-        <button class="tab" role="tab" id="tabOn"  aria-selected="true">Vigentes</button>
-        <button class="tab" role="tab" id="tabOff" aria-selected="false">Expirados</button>
-        <button class="tab" role="tab" id="tabRank" aria-selected="false">Incidência</button>
-        <button class="tab" role="tab" id="tabComp" aria-selected="false">Comparativo</button>
+        <button class="tab" role="tab" id="tabOn"  aria-controls="main" aria-selected="true">Vigentes</button>
+        <button class="tab" role="tab" id="tabOff" aria-controls="main" aria-selected="false">Expirados</button>
+        <button class="tab" role="tab" id="tabRank" aria-controls="main" aria-selected="false">Incidência</button>
+        <button class="tab" role="tab" id="tabComp" aria-controls="main" aria-selected="false">Comparativo</button>
+        <button class="tab" role="tab" id="tabAgr" aria-controls="main" aria-selected="false">Agressivos</button>
       </div>
     </div>
   </div>
 </header>
 
-<main id="main"></main>
+<main id="main" role="tabpanel"></main>
 
-<footer>Fonte: perfis públicos do Instagram e sites das redes · __NPAG__ páginas e __NPROD__ produtos indexados · atualizado ao longo do dia, a partir das 7h</footer>
+<footer>Fonte: perfis públicos do Instagram e sites das redes · __NPAG__ páginas e __NPROD__ produtos indexados · dados coletados ao longo do dia · site da equipe atualizado às 9h</footer>
 
 <div class="overlay" id="overlay">
   <div class="panel" role="dialog" aria-modal="true" aria-label="Visor do encarte">
@@ -421,6 +456,9 @@ function marcaVisto(a){
 const fmt = d => d.slice(8,10)+'/'+d.slice(5,7);
 const status = a => a.fim < hoje() ? 'off' : (a.fim === hoje() ? 'today' : 'on');
 const isActive = a => status(a) !== 'off';
+// expirados só aparecem no painel (grade, contadores E busca) por 30 dias;
+// o histórico de preços deles continua íntegro na Incidência, que não usa este corte
+const naJanela = a => a.fim >= dISO(new Date(Date.now() - 30*864e5));
 const linkDe = a => a.lk || `https://www.instagram.com/p/${a.sc}/`;
 const initials = b => b.split(/\s+/).filter(w=>w.length>2 || /^[A-Z]/.test(w)).slice(0,2).map(w=>w[0]).join('').toUpperCase();
 const SEGS = [['propria','Rede Mais — sua rede'],['varejo','Varejo'],['atacarejo','Atacarejo']];
@@ -482,8 +520,13 @@ ACTIONS.forEach(a => a.pgs.forEach((pid, i) =>
 
 /* ---------- ranking de incidência ---------- */
 const priceNum = s => {
-  const m = String(s??'').match(/\d{1,3}(?:\.\d{3})+,\d{2}|\d+,\d{2}|\d+(?:\.\d{1,2})?/g);
-  return m ? (parseFloat(m[m.length-1].replace(/\./g,'').replace(',','.')) || 0) : 0;
+  const t = String(s??'');
+  // promoção não é preço: '20%' e 'Leve 3 Pague 2' poluiriam min/máx/moda
+  if(t.includes('%') || (/\bleve\b/i.test(t) && /\bpague\b/i.test(t))) return 0;
+  const m = t.match(/\d{1,3}(?:\.\d{3})+,\d{2}|\d+,\d{2}|\d+(?:\.\d{1,2})?/g);
+  if(!m) return 0;
+  const u = m[m.length-1];
+  return (u.includes(',') ? parseFloat(u.replace(/\./g,'').replace(',','.')) : parseFloat(u)) || 0;
 };
 const fmtP = v => 'R$ ' + v.toFixed(2).replace('.', ',');
 // mesma oferta não acumula incidência: mesma rede + mesmo preço + períodos
@@ -511,29 +554,85 @@ const RANK = CANON.map(c => {
   .sort((a,b) => b.nEnc - a.nEnc || b.occ.length - a.occ.length || a.c.n.localeCompare(b.c.n));
 let rankShown = 100;
 
+/* ---------- aba preços agressivos ---------- */
+// "de costume" = preço mais praticado (moda) em todo o histórico do produto.
+// Entra quem tem histórico suficiente (>=3 aparições) e está agora >=10% abaixo
+// desse costume. Quedas absurdas (>65%) quase sempre são agrupamento errado
+// (produtos diferentes no mesmo grupo canônico), então ficam de fora.
+const AGRESSIVOS = CANON.map(c => {
+  const occ = dedupeOcc(c.m.map(k => RES[k]).filter(Boolean));
+  const ps = occ.map(o => priceNum(o.prod.p)).filter(v => v > 0);
+  if(ps.length < 3) return null;
+  const vig = occ.filter(o => isActive(o.a) && priceNum(o.prod.p) > 0);
+  if(!vig.length) return null;
+  const freq = {}; ps.forEach(v => freq[v] = (freq[v]||0) + 1);
+  const costume = +Object.entries(freq).sort((a,b) => b[1]-a[1] || a[0]-b[0])[0][0];
+  const alvo = vig.reduce((m,o) => priceNum(o.prod.p) < priceNum(m.prod.p) ? o : m);
+  const atual = priceNum(alvo.prod.p);
+  if(costume <= 0 || atual >= costume) return null;
+  const queda = (costume - atual) / costume;
+  if(queda < 0.10 || queda > 0.65) return null;
+  return { c, alvo, atual, costume, queda, nHist: ps.length };
+}).filter(Boolean).sort((a,b) => b.queda - a.queda || b.nHist - a.nHist);
+
+function renderAgr(main){
+  let rows = AGRESSIVOS;
+  if(query.length >= 2)
+    rows = rows.filter(r => matches(norm(r.c.n), query) || matches(norm(r.alvo.prod.n), query));
+  main.innerHTML = '';
+  const head = document.createElement('div'); head.className = 'rhead';
+  head.innerHTML = `<b>${rows.length}</b> oferta${rows.length===1?'':'s'} vigente${rows.length===1?'':'s'} bem abaixo do preço de costume`
+    + (query.length >= 2 ? ` — filtrado por “<b>${esc(query)}</b>”` : '')
+    + `<br><span style="font-size:12px;color:var(--text-3)">“de costume” = preço mais praticado no histórico do produto · só entram produtos com histórico suficiente</span>`;
+  main.appendChild(head);
+  if(!rows.length){
+    const e = document.createElement('div'); e.className = 'empty';
+    e.innerHTML = query.length >= 2
+      ? `Nenhum produto com “<b>${esc(query)}</b>”.`
+      : 'Ainda sem ofertas bem abaixo do costume com histórico suficiente — a lista enche conforme mais encartes entram.';
+    main.appendChild(e); return;
+  }
+  rows.forEach(r => {
+    const a = r.alvo.a;
+    const el = document.createElement('button'); el.className = 'agrow';
+    el.innerHTML = `<span class="agdrop">−${Math.round(r.queda*100)}%</span>
+      <span class="agmid"><span class="agname">${highlight(r.c.n)}</span>
+        <span class="agsub">${esc(a.banner)} · vence ${fmt(a.fim)} · ${r.nHist}× no histórico</span></span>
+      <span class="agprice"><b>R$ ${esc(r.alvo.prod.p)}</b><span class="agwas">costume R$ ${r.costume.toFixed(2).replace('.', ',')}</span></span>
+      <span class="go">›</span>`;
+    el.addEventListener('click', () => openViewer(r.alvo.a, r.alvo.pg, r.alvo.prod));
+    main.appendChild(el);
+  });
+}
+
 /* ---------- render ---------- */
 function render(){
   atualizaChip();
   const main = $('main');
-  const inTab = ACTIONS.filter(a => (tab==='on') === isActive(a));
+  const inTab = ACTIONS.filter(a => (tab==='on') === isActive(a) && (tab==='on' || naJanela(a)));
   $('tabOn').textContent  = `Vigentes (${ACTIONS.filter(isActive).length})`;
-  $('tabOff').textContent = `Expirados (${ACTIONS.filter(a=>!isActive(a)).length})`;
+  $('tabOff').textContent = `Expirados (${ACTIONS.filter(a=>!isActive(a) && naJanela(a)).length})`;
   $('tabOn').setAttribute('aria-selected', tab==='on');
   $('tabOff').setAttribute('aria-selected', tab==='off');
   $('tabRank').setAttribute('aria-selected', tab==='rank');
   $('tabComp').setAttribute('aria-selected', tab==='comp');
+  $('tabAgr').setAttribute('aria-selected', tab==='agr');
   $('searchBox').classList.toggle('has-q', !!query);
 
   if(tab === 'rank'){ renderRank(main); return; }
   if(tab === 'comp'){ renderComp(main); return; }
+  if(tab === 'agr'){ renderAgr(main); return; }
   if(query.length >= 2){ renderSearch(main, inTab); return; }
+  if(query.length === 1){
+    main.innerHTML = '<div class="empty">Digite pelo menos 2 letras para buscar.</div>';
+    return;
+  }
 
   main.innerHTML = '';
-  const known = new Set(SEGS.map(s => s[0]));
-  const extras = [...new Set(inTab.map(a => a.seg).filter(g => !known.has(g)))]
-    .map(g => [g, g.charAt(0).toUpperCase() + g.slice(1)]);
-  [...SEGS, ...extras].forEach(([seg, label]) => {
-    const list = inTab.filter(a => a.seg === seg);
+  // Rede Mais no topo; abaixo todos os concorrentes juntos (varejo e
+  // atacarejo misturados), do mais novo ao mais antigo — ordem vinda dos dados
+  [['propria','Rede Mais — sua rede'], [null,'Concorrentes']].forEach(([seg, label]) => {
+    const list = inTab.filter(a => seg ? a.seg === seg : a.seg !== 'propria');
     if(!list.length) return;
     const h = document.createElement('div'); h.className='seg-title'; h.textContent=label; main.appendChild(h);
     const g = document.createElement('div'); g.className='grid';
@@ -569,21 +668,23 @@ const pill = st => st==='on' ? '<span class="pill on">Vigente</span>'
 
 /* ---------- busca ---------- */
 function renderSearch(main, inTab){
-  const hits = INDEX.filter(h => matches(h.key, query));
+  // fora da janela de 30 dias o encarte não aparece em aba nenhuma — não pode
+  // entrar na conta do "+N em expirados", senão o atalho promete e não mostra
+  const hits = INDEX.filter(h => matches(h.key, query) && (isActive(h.a) || naJanela(h.a)));
   const inTabIds = new Set(inTab.map(a=>a.id));
   const shown = hits.filter(h => inTabIds.has(h.a.id));
   const other = hits.length - shown.length;
 
   main.innerHTML = '';
   const head = document.createElement('div'); head.className='rhead';
-  head.innerHTML = `<b>${shown.length}</b> resultado${shown.length===1?'':'s'} para “<b>${query}</b>” em ${tab==='on'?'vigentes':'expirados'}`
+  head.innerHTML = `<b>${shown.length}</b> resultado${shown.length===1?'':'s'} para “<b>${esc(query)}</b>” em ${tab==='on'?'vigentes':'expirados'}`
     + (other>0 ? ` <button class="rhint" id="swTab">+${other} em ${tab==='on'?'expirados':'vigentes'} →</button>` : '');
   main.appendChild(head);
   if(other>0) head.querySelector('#swTab').addEventListener('click', ()=>{ tab = tab==='on'?'off':'on'; render(); });
 
   if(!shown.length){
     const e = document.createElement('div'); e.className='empty';
-    e.innerHTML = `Nenhum produto com “<b>${query}</b>” nos encartes ${tab==='on'?'vigentes':'expirados'}.`
+    e.innerHTML = `Nenhum produto com “<b>${esc(query)}</b>” nos encartes ${tab==='on'?'vigentes':'expirados'}.`
       + (other>0 ? `<div class="sw"><button id="swTab2">Ver ${other} resultado${other===1?'':'s'} em ${tab==='on'?'expirados':'vigentes'}</button></div>` : '');
     main.appendChild(e);
     if(other>0) e.querySelector('#swTab2').addEventListener('click', ()=>{ tab = tab==='on'?'off':'on'; render(); });
@@ -652,13 +753,13 @@ function renderRank(main){
   main.innerHTML = '';
   const head = document.createElement('div'); head.className = 'rhead';
   head.innerHTML = `<b>${rows.length}</b> produto${rows.length===1?'':'s'}, do que mais sai em encarte para o que menos sai`
-    + (query.length >= 2 ? ` — filtrado por “<b>${query}</b>”` : '');
+    + (query.length >= 2 ? ` — filtrado por “<b>${esc(query)}</b>”` : '');
   main.appendChild(head);
   main.appendChild(legendRuler());
 
   if(!rows.length){
     const e = document.createElement('div'); e.className = 'empty';
-    e.innerHTML = `Nenhum produto com “<b>${query}</b>”.`;
+    e.innerHTML = `Nenhum produto com “<b>${esc(query)}</b>”.`;
     main.appendChild(e); return;
   }
   rows.slice(0, rankShown).forEach(r => main.appendChild(krow(r, RANK.indexOf(r) + 1)));
@@ -693,7 +794,8 @@ function concorrentesVigentes(){
 }
 function renderComp(main){
   const todos = concorrentesVigentes();
-  if(compSel === null) compSel = new Set();  // padrão: nenhum selecionado
+  // padrão: todos os concorrentes — o gestor abre e já vê o placar, sem clique
+  if(compSel === null) compSel = new Set(todos);
   let rows = RANK.map(r => ({ r, ci: compInfo(r, compSel) })).filter(x => x.ci);
   if(query.length >= 2)
     rows = rows.filter(x => matches(norm(x.r.c.n), query) || x.r.occ.some(o => matches(norm(o.prod.n), query)));
@@ -701,15 +803,19 @@ function renderComp(main){
   rows.sort((a,b) => ordem[a.ci.st] - ordem[b.ci.st] || b.ci.gap - a.ci.gap);
 
   main.innerHTML = '';
-  const w = rows.filter(x => x.ci.st === 'win').length;
-  const t = rows.filter(x => x.ci.st === 'tie').length;
-  const l = rows.filter(x => x.ci.st === 'lose').length;
-  const head = document.createElement('div'); head.className = 'rhead';
-  head.innerHTML = `<b>${rows.length}</b> produto${rows.length===1?'':'s'} em disputa vigente: Rede Mais × concorrentes — `
-    + `<span style="color:var(--green);font-weight:600">ganha ${w}</span> · empata ${t} · <span style="color:#c2410c;font-weight:600">perde ${l}</span>`
-    + (query.length >= 2 ? ` — filtrado por “<b>${query}</b>”` : '')
-    + `<br><span style="font-size:12px;color:var(--text-3)">ordenado do maior prejuízo para a maior vantagem · régua considera só preços vigentes</span>`;
-  main.appendChild(head);
+  // placar e legenda só existem quando há comparação de fato — sem
+  // concorrente selecionado, mostrar zeros confunde mais do que informa
+  if(compSel.size){
+    const w = rows.filter(x => x.ci.st === 'win').length;
+    const t = rows.filter(x => x.ci.st === 'tie').length;
+    const l = rows.filter(x => x.ci.st === 'lose').length;
+    const head = document.createElement('div'); head.className = 'rhead';
+    head.innerHTML = `<b>${rows.length}</b> produto${rows.length===1?'':'s'} em disputa vigente: Rede Mais × concorrentes — `
+      + `<span style="color:var(--green);font-weight:600">ganha ${w}</span> · empata ${t} · <span style="color:#c2410c;font-weight:600">perde ${l}</span>`
+      + (query.length >= 2 ? ` — filtrado por “<b>${esc(query)}</b>”` : '')
+      + `<br><span style="font-size:12px;color:var(--text-3)">ordenado do maior prejuízo para a maior vantagem · régua considera só preços vigentes</span>`;
+    main.appendChild(head);
+  }
 
   const segOf = {};
   ACTIONS.forEach(a => { if(a.seg !== 'propria') segOf[a.banner] = a.seg; });
@@ -731,17 +837,17 @@ function renderComp(main){
     render();
   }));
   main.appendChild(dd);
-  main.appendChild(legendRuler());
 
   if(!compSel.size){
     const e = document.createElement('div'); e.className = 'empty';
     e.innerHTML = 'Selecione ao menos um concorrente para comparar.';
     main.appendChild(e); return;
   }
+  main.appendChild(legendRuler());
   if(!rows.length){
     const e = document.createElement('div'); e.className = 'empty';
     e.innerHTML = query.length >= 2
-      ? `Nenhum produto em disputa com “<b>${query}</b>”.`
+      ? `Nenhum produto em disputa com “<b>${esc(query)}</b>”.`
       : 'Nenhum produto seu vigente coincide com os concorrentes selecionados.';
     main.appendChild(e); return;
   }
@@ -882,6 +988,7 @@ $('tabOn').addEventListener('click', ()=>{ tab='on'; render(); });
 $('tabOff').addEventListener('click', ()=>{ tab='off'; render(); });
 $('tabRank').addEventListener('click', ()=>{ tab='rank'; rankShown=100; render(); });
 $('tabComp').addEventListener('click', ()=>{ tab='comp'; render(); });
+$('tabAgr').addEventListener('click', ()=>{ tab='agr'; render(); });
 $('q').addEventListener('input', e=>{ query = e.target.value.trim(); rankShown=100; render(); });
 $('clearQ').addEventListener('click', ()=>{ query=''; $('q').value=''; render(); $('q').focus(); });
 $('vClose').addEventListener('click', closeViewer);
@@ -921,3 +1028,57 @@ atualizaChip();
 renderFontes();
 render();
 </script>
+<!--LOGS-INI-->
+<style>
+.log-dia{margin:0 0 22px}
+.log-dia h3{font-size:14.5px;font-weight:650;margin:0 0 8px;padding-bottom:6px;border-bottom:1px solid var(--border,#e5e5e5)}
+.log-linha{font:12.5px/1.6 ui-monospace,SFMono-Regular,Menlo,monospace;padding:2px 0;word-break:break-word}
+.log-pub{background:#e7f0fd;border-left:3px solid #1565c0;padding:4px 8px;border-radius:6px;font-weight:600}
+.log-tipo{font-weight:650}
+.logs-wrap{padding:4px 0}
+.logs-top{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:4px}
+.logs-top b{font-size:16px}
+.logs-top button{font-size:13px;font-weight:500;color:#0b6e55;border:1px solid var(--border,#e5e5e5);border-radius:999px;padding:6px 14px;background:var(--bg,#fff)}
+.logs-nota{margin:0 0 18px;font-size:12.5px;color:var(--text-3,#8f8f8f)}
+</style>
+<script>
+(function(){
+  /* Aba Logs — existe só no seu arquivo local; o gera_gate.py remove este
+     bloco inteiro (marcadores LOGS-INI/LOGS-FIM) antes de publicar. */
+  const LOGS = __LOGS__;
+  const pan = document.getElementById('cfgPanel');
+  const main = document.getElementById('main');
+  if(!pan || !main) return;
+  const nProb = Object.values(LOGS).reduce((s,l) => s + l.filter(e => e.t !== 'ok' && e.t !== 'pub').length, 0);
+  const row = document.createElement('div');
+  row.className = 'cfg-row';
+  row.innerHTML = `<span class="cfg-k">Logs</span><button class="cfg-copy" id="logsAbrir">ver logs da rotina${nProb ? ` (${nProb} problema${nProb > 1 ? 's' : ''} em 30 dias)` : ''}</button>`;
+  pan.appendChild(row);
+  const btn = document.getElementById('logsAbrir');
+  const COR = {falha:'#c62828', erro:'#c62828', aviso:'#b26a00', ok:'#2e7d32', pub:'#1565c0'};
+  const ROTULO = {falha:'Falha', erro:'Erro', aviso:'Aviso', ok:'OK', pub:'📢 Publicado'};
+  const escL = s => String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  btn.addEventListener('click', () => {
+    pan.hidden = true;
+    document.querySelectorAll('.tabs .tab').forEach(t => t.setAttribute('aria-selected', 'false'));
+    const dias = Object.keys(LOGS).sort().reverse();
+    main.innerHTML = '<div class="logs-wrap"><div class="logs-top"><b>Logs da rotina</b><button id="logsVoltar">← Voltar ao painel</button></div>'
+      + '<div class="logs-nota">Registro diário (data/rotina.log) — só no seu arquivo local, últimos 30 dias, mais recente primeiro.</div>'
+      + (dias.length ? dias.map(d => {
+          const ent = LOGS[d].slice().reverse();  // mais recente primeiro dentro do dia
+          const probs = ent.filter(e => e.t !== 'ok' && e.t !== 'pub').length;
+          return `<div class="log-dia"><h3>${d.slice(8,10)}/${d.slice(5,7)}/${d.slice(0,4)}`
+            + (probs ? ` — ${probs} problema${probs > 1 ? 's' : ''}` : ' — sem problemas') + '</h3>'
+            + ent.map(e => `<div class="log-linha${e.t==='pub' ? ' log-pub' : ''}"${e.d ? ` title="${escL(e.d)}"` : ''}><span class="log-tipo" style="color:${COR[e.t]||'#555'}">${e.h ? e.h + ' · ' : ''}${escL(ROTULO[e.t]||e.t)}</span> ${escL(e.m)}</div>`).join('')
+            + '</div>';
+        }).join('')
+        : '<div class="empty">Nenhum registro nos últimos 30 dias.</div>') + '</div>';
+    const volta = document.getElementById('logsVoltar');
+    if(volta) volta.addEventListener('click', () => {
+      const t = document.getElementById('tabOn');
+      if(t) t.click();
+    });
+  });
+})();
+</script>
+<!--LOGS-FIM-->

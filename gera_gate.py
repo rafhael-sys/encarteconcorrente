@@ -24,11 +24,15 @@ def main():
         sys.exit('[gate] senha muito curta (mínimo 6 caracteres)')
 
     html = open(painel, 'rb').read()
-    ini, fim = html.find(b'<!--CFG-INI-->'), html.find(b'<!--CFG-FIM-->')
-    if ini != -1 and fim != -1:
-        html = html[:ini] + html[fim + len(b'<!--CFG-FIM-->'):]
-    if b'<!--CFG-INI-->' in html or b'cfgBtn' in html:
-        sys.exit('[gate] a engrenagem local ainda está no HTML — publicação abortada')
+    # blocos só-locais: engrenagem (CFG) e aba de logs (LOGS) nunca vão pro site
+    for mi, mf in ((b'<!--CFG-INI-->', b'<!--CFG-FIM-->'),
+                   (b'<!--LOGS-INI-->', b'<!--LOGS-FIM-->')):
+        ini, fim = html.find(mi), html.find(mf)
+        if ini != -1 and fim != -1:
+            html = html[:ini] + html[fim + len(mf):]
+    if (b'<!--CFG-INI-->' in html or b'cfgBtn' in html
+            or b'<!--LOGS-INI-->' in html or b'logsAbrir' in html):
+        sys.exit('[gate] bloco só-local (engrenagem/logs) ainda está no HTML — publicação abortada')
 
     salt, iv = os.urandom(16), os.urandom(16)
     key = hashlib.pbkdf2_hmac('sha256', senha.encode(), salt, ITERACOES, dklen=32)
@@ -108,7 +112,7 @@ GATE = '''<!doctype html>
     <div class="txt" id="ptxt">Baixando o painel…</div>
   </div>
 </div>
-<footer>Atualizado todo dia ao meio-dia · uso interno</footer>
+<footer>Atualizado todo dia às 9h · uso interno</footer>
 <script>
 /* Tudo dentro de uma função: document.open() reaproveita a janela, e
    declarações soltas aqui (ex.: const $) colidiriam com as do painel

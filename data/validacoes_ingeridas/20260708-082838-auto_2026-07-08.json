@@ -1,0 +1,49 @@
+{
+ "validacoes": [
+  {
+   "a": "Leite Condensado Damare Semidesnatado cx 395g",
+   "b": "Leite Condensado Itambé Semidesnatado 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Lata 350ml",
+   "b": "Refrigerante Guaraná Antarctica 350ml Zero",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Manteiga Itacolomy com Sal 500g",
+   "b": "Manteiga Itambé com Sal 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Acém com Osso kg",
+   "b": "Carne Bovina Peito com Osso kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha de Trigo Finna Tradicional 1kg",
+   "b": "Farinha de Trigo Farina Tradicional Pacote 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Picanha Bovina Fatiada kg",
+   "b": "Picanha Bordon Fatiada KG",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Salsicha Hot Dog Avivar kg",
+   "b": "Salsicha Hot Dog RARA kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Detergente Líquido Guarani Vários tipos Frasco com 500ml",
+   "b": "Detergente Líquido Dragão Vários Tipos Frasco 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sabonete Suave Maran Várias Fragrâncias Unidade 80g",
+   "b": "Sabonete Francis Várias Fragrâncias Unidade 80g",
+   "veredito": "diferente"
+  }
+ ]
+}

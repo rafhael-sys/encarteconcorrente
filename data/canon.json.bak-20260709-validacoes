@@ -4495,8 +4495,7 @@
   "n": "Enxaguante Bucal Colgate Leve750 P500ml (Plax Fresh Mint - Odor Control)",
   "u": "und",
   "m": [
-   "lm_selecao_p3#12",
-   "DaL_0i6FvJN_p4#12"
+   "lm_selecao_p3#12"
   ]
  },
  {
@@ -4678,8 +4677,7 @@
   "n": "Papel Toalha Scala c/2 200fls",
   "u": "und",
   "m": [
-   "lm_selecao_p3#38",
-   "DaL_0i6FvJN_p4#38"
+   "lm_selecao_p3#38"
   ]
  },
  {
@@ -4754,16 +4752,14 @@
   "n": "Filezinho Sassami Somave Congelado",
   "u": "kg",
   "m": [
-   "lm_copa_p2#5",
-   "DaVJbSjltiV_p2#5"
+   "lm_copa_p2#5"
   ]
  },
  {
   "n": "Linguiça de Frango Avivar",
   "u": "kg",
   "m": [
-   "lm_copa_p2#6",
-   "DaVJbSjltiV_p2#6"
+   "lm_copa_p2#6"
   ]
  },
  {
@@ -4861,8 +4857,7 @@
   "n": "Carne Bovina Dianteira de Sol",
   "u": "kg",
   "m": [
-   "lm_acougue_p1#3",
-   "DaDQBrsg9vP_p1#3"
+   "lm_acougue_p1#3"
   ]
  },
  {
@@ -7589,8 +7584,7 @@
   "n": "Leite Condensado CCGL 395g",
   "u": "un",
   "m": [
-   "Daba-Qylsw5_p1#15",
-   "DaL_0i6FvJN_p3#6"
+   "Daba-Qylsw5_p1#15"
   ]
  },
  {
@@ -7996,8 +7990,7 @@
   "n": "Azeite Extra Virgem Gallo Por 500ml",
   "u": "",
   "m": [
-   "DabRmxqHxTB_p3#9",
-   "DabRUA8jwaZ_p3#9"
+   "DabRmxqHxTB_p3#9"
   ]
  },
  {
@@ -8034,8 +8027,7 @@
   "n": "Milho Pipoca Vitaforte Premium 400g",
   "u": "",
   "m": [
-   "DabRmxqHxTB_p3#16",
-   "DabRUA8jwaZ_p3#16"
+   "DabRmxqHxTB_p3#16"
   ]
  },
  {
@@ -8073,8 +8065,7 @@
   "n": "Vinho Collina GF 750ml Sabores",
   "u": "",
   "m": [
-   "DabRmxqHxTB_p3#26",
-   "DabRUA8jwaZ_p3#27"
+   "DabRmxqHxTB_p3#26"
   ]
  },
  {
@@ -12961,6 +12952,13 @@
   ]
  },
  {
+  "n": "Azeite Extra Virgem Gallo 500ml",
+  "u": "un",
+  "m": [
+   "DabRUA8jwaZ_p3#9"
+  ]
+ },
+ {
   "n": "Maionese Hellmann's 290g",
   "u": "un",
   "m": [
@@ -12972,6 +12970,13 @@
   "u": "un",
   "m": [
    "DabRUA8jwaZ_p3#13"
+  ]
+ },
+ {
+  "n": "Milho de Pipoca Vitaforte Premium 400g",
+  "u": "un",
+  "m": [
+   "DabRUA8jwaZ_p3#16"
   ]
  },
  {
@@ -13000,6 +13005,13 @@
   "u": "un",
   "m": [
    "DabRUA8jwaZ_p3#26"
+  ]
+ },
+ {
+  "n": "Vinho Colina 750ml Sabores",
+  "u": "un",
+  "m": [
+   "DabRUA8jwaZ_p3#27"
   ]
  },
  {
@@ -13283,6 +13295,13 @@
   ]
  },
  {
+  "n": "Leite Condensado CCGL TP 395g",
+  "u": "un",
+  "m": [
+   "DaL_0i6FvJN_p3#6"
+  ]
+ },
+ {
   "n": "Creme de Avelã Nutella 140g",
   "u": "un",
   "m": [
@@ -13417,6 +13436,13 @@
   ]
  },
  {
+  "n": "Enxaguante Bucal Colgate Leve 750 Pague 500ml (Plax Fresh Mint / Odor Control)",
+  "u": "un",
+  "m": [
+   "DaL_0i6FvJN_p4#12"
+  ]
+ },
+ {
   "n": "Mingau Cremogema 180g Sabores",
   "u": "un",
   "m": [
@@ -13442,6 +13468,13 @@
   "u": "un",
   "m": [
    "DaL_0i6FvJN_p4#37"
+  ]
+ },
+ {
+  "n": "Papel Toalha Scala Plus c/2 200fls",
+  "u": "un",
+  "m": [
+   "DaL_0i6FvJN_p4#38"
   ]
  },
  {
@@ -13495,6 +13528,20 @@
   ]
  },
  {
+  "n": "Filezinho Sassami Somave Congelado kg",
+  "u": "kg",
+  "m": [
+   "DaVJbSjltiV_p2#5"
+  ]
+ },
+ {
+  "n": "Linguiça de Frango Avivar kg",
+  "u": "kg",
+  "m": [
+   "DaVJbSjltiV_p2#6"
+  ]
+ },
+ {
   "n": "Lava Roupas Pó Sonho 400g",
   "u": "un",
   "m": [
@@ -13520,6 +13567,13 @@
   "u": "un",
   "m": [
    "DaIrAZzljbN_p2#2"
+  ]
+ },
+ {
+  "n": "Carne Bovina Dianteira de Sol kg",
+  "u": "kg",
+  "m": [
+   "DaDQBrsg9vP_p1#3"
   ]
  },
  {

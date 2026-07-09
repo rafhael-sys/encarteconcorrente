@@ -1,0 +1,53 @@
+{
+ "DagmKtcDSao_p1": [
+  {"n":"Uva Vitória Seleta S/ Semente 500g","p":"4,99","u":"cada","x":25,"y":42,"w":16,"h":6},
+  {"n":"Tomate kg","p":"2,59","u":"kg","x":52,"y":42,"w":14,"h":6},
+  {"n":"Goma para Tapioca Ouro Fino 1kg","p":"4,29","u":"cada","x":84,"y":42,"w":15,"h":6},
+  {"n":"Batata Inglesa kg","p":"5,49","u":"kg","x":13,"y":63,"w":14,"h":6},
+  {"n":"Maçã Nacional kg","p":"7,99","u":"kg","x":36,"y":63,"w":14,"h":6},
+  {"n":"Alho a Granel 100g","p":"2,29","u":"100g","x":57,"y":63,"w":14,"h":6},
+  {"n":"Abacate kg","p":"3,99","u":"kg","x":81,"y":63,"w":14,"h":6},
+  {"n":"Pera Danjou kg","p":"11,99","u":"kg","x":24,"y":81,"w":15,"h":6},
+  {"n":"Goiaba kg","p":"4,49","u":"kg","x":54,"y":81,"w":14,"h":6},
+  {"n":"Tangerina Importada kg","p":"9,99","u":"kg","x":84,"y":81,"w":14,"h":6}
+ ],
+ "DagmKtcDSao_p2": [
+  {"n":"Sacola Retornável Redemais","p":"5,98","u":"un","x":13,"y":49,"w":18,"h":9}
+ ],
+ "Dah4MbKst8__p1": [
+  {"n":"Goma Fresca Caicó 1kg","p":"4,29","u":"und","x":8,"y":52,"w":18,"h":4},
+  {"n":"Maçã Vermelha Nacional kg","p":"7,99","u":"kg","x":29,"y":52,"w":18,"h":4},
+  {"n":"Tomate Extra kg","p":"2,59","u":"kg","x":52,"y":52,"w":18,"h":4},
+  {"n":"Uva Vitória Seleta 500g S/Sementes","p":"4,99","u":"bdj","x":76,"y":52,"w":18,"h":4},
+  {"n":"Abacate kg","p":"3,99","u":"kg","x":8,"y":71,"w":16,"h":4},
+  {"n":"Alho à Granel kg","p":"22,90","u":"kg","x":24,"y":71,"w":18,"h":4},
+  {"n":"Batata Inglesa kg","p":"5,49","u":"kg","x":44,"y":71,"w":18,"h":4},
+  {"n":"Brócolis Reis Fruit 300g","p":"9,98","u":"und","x":62,"y":71,"w":18,"h":4},
+  {"n":"Goiaba kg","p":"4,49","u":"kg","x":82,"y":71,"w":16,"h":4},
+  {"n":"Ovos Brancos Grandes Enavis BDJ 30un","p":"16,99","u":"bdj","x":11,"y":90,"w":18,"h":4},
+  {"n":"Pêra kg","p":"11,99","u":"kg","x":35,"y":90,"w":16,"h":4},
+  {"n":"Tangerina Importada kg","p":"9,99","u":"kg","x":57,"y":90,"w":16,"h":4},
+  {"n":"Sacola Retornável","p":"5,89","u":"und","x":80,"y":90,"w":16,"h":4}
+ ],
+ "DagfTMoDzu2_p1": [
+  {"n":"Tomate","p":"2,78","u":"kg","x":7,"y":30,"w":21,"h":30},
+  {"n":"Batata Inglesa","p":"5,48","u":"kg","x":29,"y":30,"w":21,"h":30},
+  {"n":"Laranja Pera","p":"2,18","u":"kg","x":52,"y":30,"w":21,"h":30},
+  {"n":"Alho a Granel","p":"1,78","u":"100g","x":74,"y":30,"w":22,"h":30},
+  {"n":"Uva Vitória Seleta 500g","p":"4,98","u":"cada","x":3,"y":46,"w":19,"h":16},
+  {"n":"Goma para Tapioca Delícia Potiguar 1kg","p":"4,48","u":"cada","x":22,"y":46,"w":19,"h":16},
+  {"n":"Banana Prata ou Pacovan","p":"3,98","u":"kg","x":42,"y":47,"w":17,"h":15},
+  {"n":"Cenoura","p":"6,98","u":"kg","x":60,"y":47,"w":18,"h":15},
+  {"n":"Mamão Formosa","p":"3,28","u":"kg","x":80,"y":47,"w":18,"h":15},
+  {"n":"Maracujá","p":"6,98","u":"kg","x":5,"y":62,"w":18,"h":15},
+  {"n":"Maçã Nacional","p":"7,48","u":"kg","x":24,"y":62,"w":18,"h":15},
+  {"n":"Macaxeira","p":"2,68","u":"kg","x":43,"y":62,"w":18,"h":15},
+  {"n":"Abacate","p":"4,98","u":"kg","x":62,"y":62,"w":18,"h":15},
+  {"n":"Morango 200g","p":"8,98","u":"cada","x":80,"y":60,"w":18,"h":17},
+  {"n":"Pera D'anjou","p":"13,48","u":"kg","x":4,"y":78,"w":20,"h":16},
+  {"n":"Uva Verde Seleta 500g","p":"8,98","u":"cada","x":26,"y":78,"w":20,"h":16},
+  {"n":"Tâmara 200g","p":"5,98","u":"cada","x":48,"y":78,"w":20,"h":16},
+  {"n":"Kiwi","p":"21,98","u":"kg","x":72,"y":78,"w":20,"h":16}
+ ],
+ "DagfTMoDzu2_p2": []
+}

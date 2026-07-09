@@ -31,8 +31,22 @@ HOJE=$(date +%Y-%m-%d)
 if (( DIARIO )) && [[ "$(cat "$STAMP_FILE" 2>/dev/null)" == "$HOJE" ]]; then
   exit 0   # a publicação de hoje já foi
 fi
+# cabeçalho datado: dá dia/hora corretos às linhas [netlify] na aba Logs,
+# inclusive nos caminhos de pulo/falha abaixo (que não têm outro cabeçalho)
+echo "=== $(date '+%Y-%m-%d %H:%M') publicação (Netlify) ==="
 
 [[ -s "$PAINEL" ]] || { echo "[netlify] painel-encartes.html não existe — nada a publicar"; exit 1; }
+# na rotina diária, não gasta a publicação do dia com um painel que a equipe
+# JÁ recebeu (ex.: janela das 7h ainda rodando às 9h) — mas se o painel local
+# for mais novo que a última publicação (coleta falhando há dias, painel de
+# ontem à tarde nunca publicado), publica assim mesmo: melhor a versão de
+# ontem do que deixar a equipe presa numa ainda mais velha.
+PAINEL_DIA=$(stat -f %Sm -t %Y-%m-%d "$PAINEL" 2>/dev/null || echo "1970-01-01")
+ULT_PUB=$(cat "$STAMP_FILE" 2>/dev/null || echo "1970-01-01")
+if (( DIARIO )) && [[ "$PAINEL_DIA" != "$HOJE" ]] && [[ ! "$PAINEL_DIA" > "$ULT_PUB" ]]; then
+  echo "[netlify] painel ainda não foi gerado hoje — publicação fica para a próxima janela"
+  exit 0
+fi
 [[ -s "$TOKEN_FILE" ]] || { echo "[netlify] token não encontrado em $TOKEN_FILE"; exit 1; }
 [[ -s "$SENHA_FILE" ]] || { echo "[netlify] senha não encontrada em $SENHA_FILE — não publico sem proteção"; exit 1; }
 TOKEN="$(tr -d '[:space:]' < "$TOKEN_FILE")"
@@ -45,7 +59,7 @@ if [[ "${ENCARTES_LOCK_HERDADA:-0}" != "1" ]]; then
   ESPERA=0
   until mkdir "$LOCK" 2>/dev/null; do
     if [[ -n "$(find "$LOCK" -maxdepth 0 -mmin +120 2>/dev/null)" ]]; then
-      rmdir "$LOCK" 2>/dev/null; continue                     # trava órfã (>2h)
+      rm -rf "$LOCK" 2>/dev/null; continue                    # trava órfã (>2h)
     fi
     if (( ESPERA >= 2700 )); then
       echo "[netlify] rotina em andamento há 45 min — deixo para a próxima janela"
@@ -54,9 +68,10 @@ if [[ "${ENCARTES_LOCK_HERDADA:-0}" != "1" ]]; then
     sleep 60; ESPERA=$((ESPERA + 60))
   done
   TRAVA_MINHA=1
+  echo $$ > "$LOCK/dono"   # só removemos a trava se ela ainda for nossa
 fi
 TMP=$(mktemp -d)
-limpa(){ rm -rf "$TMP"; (( TRAVA_MINHA )) && rmdir "$LOCK" 2>/dev/null; return 0; }
+limpa(){ rm -rf "$TMP"; (( TRAVA_MINHA )) && [[ "$(cat "$LOCK/dono" 2>/dev/null)" == "$$" ]] && rm -rf "$LOCK"; return 0; }
 trap limpa EXIT
 
 json_get() {  # json_get <campo> — lê um campo do JSON no stdin; vazio se não for JSON
@@ -98,6 +113,8 @@ DEPLOY_ID=$(echo "$RESP" | json_get id)
 
 # deploy confirmado: o carimbo diário entra já, antes de qualquer passo opcional
 (( DIARIO )) && echo "$HOJE" > "$STAMP_FILE"
+# horário da versão no ar — a engrenagem do painel local mostra este valor
+date '+%Y-%m-%dT%H:%M' > "$BASE/data/netlify_pub_em"
 
 URL=$("${CURL[@]}" --max-time 60 "$API/sites/$SITE_ID" -H "Authorization: Bearer $TOKEN" | json_get ssl_url || true)
 [[ -n "$URL" ]] && echo "$URL" > "$URL_FILE"

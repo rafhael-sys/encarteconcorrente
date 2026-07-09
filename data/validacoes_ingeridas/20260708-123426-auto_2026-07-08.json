@@ -1,0 +1,14 @@
+{
+ "validacoes": [
+  {"a": "Água Mineral Ster Bom sem Gás 510ml", "b": "Água Mineral Sterbom Sem Gás 510ml", "veredito": "mesmo"},
+  {"a": "Arroz para Cães Amigaço 5kg", "b": "Arroz para Cães Amigação 5kg", "veredito": "mesmo"},
+  {"a": "Ovo Caipira, Vermelho, Ômegas ou Branco Livre de Gaiola C/20 Avine", "b": "Ovo Caipira, Vermelho Ômega3 ou Branco Livre de Gaiola c/20 Avine", "veredito": "mesmo"},
+  {"a": "Sardinha Coqueiro 125g Óleo/Tomate", "b": "Sardinha Coqueiro 125g Óleo ou Tomate", "veredito": "mesmo"},
+  {"a": "Biscoito Água&Sal 3 de Maio 300g", "b": "Biscoito Água e Sal 03 de Maio 300g", "veredito": "mesmo"},
+  {"a": "Sobrecoxas de Frango Sadia Congeladas IQF pct ou bd 1kg", "b": "Coxas de Frango Sadia Congeladas IQF pct ou bd 1kg", "veredito": "diferente"},
+  {"a": "Papel Higiênico Caprice Neutro 20m Folha Dupla Leve 12 Pague 11", "b": "Papel Higiênico Caprice Neutro 20m Folha Dupla LV12PG11", "veredito": "mesmo"},
+  {"a": "Lavanda Johnsons Baby 200ml", "b": "Lavanda Johnsons Baby Inf 200ml", "veredito": "mesmo"},
+  {"a": "Tangerina Importada", "b": "Tangerina Importada kg", "veredito": "mesmo"},
+  {"a": "Maionese Hellmann's SH 200g", "b": "Maionese Hellmanns 200g", "veredito": "mesmo"}
+ ]
+}

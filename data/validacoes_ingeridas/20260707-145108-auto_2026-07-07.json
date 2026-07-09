@@ -1,0 +1,14 @@
+{
+ "validacoes": [
+  {"a": "Arroz Parboilizado Mariano Tipo 1 1kg", "b": "Arroz Parboilizado AGRODEZ Tipo 1 1kg", "veredito": "diferente"},
+  {"a": "Filé de Peito de Frango Sadia Congelado IQF 1kg", "b": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg", "veredito": "diferente"},
+  {"a": "Azeite de Oliva Extra Virgem Fioz 500ml", "b": "Azeite de Oliva Extra Virgem PALERMO 500ml", "veredito": "diferente"},
+  {"a": "Cerveja Puro Malte Petra Lata 350ml", "b": "Cerveja Puro Malte Devassa Lata 350ml", "veredito": "diferente"},
+  {"a": "Creme de Tratamento para Cabelo Novex Vários tipos Pote com 1kg", "b": "Creme de Tratamento para Cabelo Skala Vários Tipos Pote 1kg", "veredito": "diferente"},
+  {"a": "Desodorante Aerosol Nivea 150ml Fragrâncias", "b": "Desodorante Aerossol Mood 150ml (Fragrâncias)", "veredito": "diferente"},
+  {"a": "Lava Roupas Líquido Alice 3L Fragrâncias", "b": "Lava Roupa Liquido OMO 3L Fragrancias", "veredito": "diferente"},
+  {"a": "Papel Higiênico Max Pure Neutro Folha Dupla 30m Leve 12 Pague 11", "b": "Papel Higiênico Caprice Neutro 20m Folha Dupla Leve 12 Pague 11", "veredito": "diferente"},
+  {"a": "Asa de Frango Resfriada Mauricéa", "b": "Coração de Frango Resfriado Mauricéa", "veredito": "diferente"},
+  {"a": "Bala Gelatina Fini PCT 80g Sabores", "b": "Balas de Gelatina FINI 80g Sabores", "veredito": "mesmo"}
+ ]
+}

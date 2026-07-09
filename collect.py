@@ -8,6 +8,7 @@ para o passo de extração (Claude) classificar e indexar os produtos.
 """
 import json
 import os
+import random
 import re
 import subprocess
 import sys
@@ -52,14 +53,28 @@ def save_json(path, data):
     os.replace(tmp, path)
 
 
-def fetch_profile(username):
-    r = sh(['curl', '-sk', '--compressed', '-A', UA,
-            '-H', f'x-ig-app-id: {APP_ID}',
-            f'https://i.instagram.com/api/v1/users/web_profile_info/?username={username}'])
-    u = json.loads(r.stdout)['data']['user']
-    if not u:
-        raise ValueError('perfil indisponível (user=null: rate-limit, renomeado ou removido)')
-    return u
+def fetch_profile(username, tentativas=4):
+    # resposta inválida (sem 'data', ou user=null) é quase sempre estrangulamento
+    # passageiro do Instagram — comum quando o Mac acorda e dispara os 11 perfis
+    # de uma vez. Re-tenta com espera exponencial + jitter (~4-8s, 8-12s, 16-20s)
+    # deixar o rate-limit passar antes de desistir do perfil.
+    ultimo = None
+    for t in range(1, tentativas + 1):
+        try:
+            r = sh(['curl', '-sk', '--compressed', '-A', UA,
+                    '-H', f'x-ig-app-id: {APP_ID}',
+                    f'https://i.instagram.com/api/v1/users/web_profile_info/?username={username}'])
+            u = json.loads(r.stdout)['data']['user']
+            if not u:
+                # user=null é o formato clássico de rate-limit — também re-tenta
+                raise ValueError('perfil indisponível (user=null: rate-limit, renomeado ou removido)')
+            return u
+        except (json.JSONDecodeError, KeyError, TypeError, ValueError, subprocess.SubprocessError) as e:
+            ultimo = e
+            if t == tentativas:
+                raise
+            time.sleep(min(30, 4 * 2 ** (t - 1)) + random.uniform(0, 4))
+    raise ultimo  # inalcançável, mas mantém o tipo de erro explícito
 
 
 def download(url, path):
@@ -82,31 +97,36 @@ def download(url, path):
         return False
 
 
-def main():
-    profiles = json.load(open(os.path.join(BASE, 'profiles.json')))
-    seen_path = os.path.join(DATA, 'posts_vistos.json')
-    fila_path = os.path.join(DATA, 'fila_novos.json')
-    status_path = os.path.join(DATA, 'coleta_status.json')
-    seen = set(load_json(seen_path, []))
-    fila = load_json(fila_path, [])
-    status = load_json(status_path, {})
-    agora = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
-    novos = perfis_ok = 0
+def best_url(node):
+    # regra: sempre a imagem de maior resolução disponível
+    res = node.get('display_resources') or []
+    res = [r for r in res if r.get('src')]
+    if res:
+        return max(res, key=lambda r: r.get('config_width', 0))['src']
+    return node.get('display_url')
 
-    for p in profiles:
-        user = p['username']
-        fonte = p.get('banner', user)
+
+def processa_perfil(p, seen, fila, status, agora):
+    """Coleta um perfil. Devolve (ok, novos). ok=False só em falha de rede/IG
+    ou resposta malformada (o perfil entra na fila de re-tentativa); qualquer
+    post problemático é apenas pulado sem derrubar o perfil nem a coleta toda."""
+    user = p['username']
+    fonte = p.get('banner', user)
+    try:
+        u = fetch_profile(user)
+        edges = u['edge_owner_to_timeline_media']['edges']
+    except Exception as e:
+        # inclui o caso raro de o IG devolver 200 com um 'user' sem os campos
+        # esperados: tratamos como falha do perfil (re-tenta), nunca como crash
+        print(f'[erro] {user}: {e}', file=sys.stderr)
+        ent = status.get(fonte, {})
+        ent['ultimo_erro'] = f'{agora}: {e}'
+        status[fonte] = ent
+        return False, 0
+    status[fonte] = {'ultima_coleta_ok': agora, 'ultimo_erro': None}
+    novos = 0
+    for e in edges:
         try:
-            u = fetch_profile(user)
-        except Exception as e:
-            print(f'[erro] {user}: {e}', file=sys.stderr)
-            ent = status.get(fonte, {})
-            ent['ultimo_erro'] = f'{agora}: {e}'
-            status[fonte] = ent
-            continue
-        status[fonte] = {'ultima_coleta_ok': agora, 'ultimo_erro': None}
-        perfis_ok += 1
-        for e in u['edge_owner_to_timeline_media']['edges']:
             n = e['node']
             sc = n['shortcode']
             if sc in seen:
@@ -117,15 +137,6 @@ def main():
                 seen.add(sc)
                 continue
             kids = n.get('edge_sidecar_to_children', {}).get('edges')
-
-            def best_url(node):
-                # regra: sempre a imagem de maior resolução disponível
-                res = node.get('display_resources') or []
-                res = [r for r in res if r.get('src')]
-                if res:
-                    return max(res, key=lambda r: r.get('config_width', 0))['src']
-                return node.get('display_url')
-
             urls = ([best_url(k['node']) for k in kids if not k['node'].get('is_video')]
                     if kids else [best_url(n)])
             urls = [x for x in urls if x]
@@ -153,11 +164,57 @@ def main():
             else:
                 # nada baixou: NÃO marca como visto — tenta de novo na próxima execução
                 print(f'[aviso] {sc}: nenhuma página baixada, fica para a próxima', file=sys.stderr)
-        time.sleep(2)  # gentil com o Instagram
+        except Exception as ex:
+            # um post com formato inesperado é pulado sem derrubar o perfil
+            print(f'[aviso] {user}: post ignorado por formato inesperado ({ex})', file=sys.stderr)
+            continue
+    return True, novos
 
-    save_json(seen_path, sorted(seen))
-    save_json(fila_path, fila)
-    save_json(status_path, status)
+
+def main():
+    profiles = json.load(open(os.path.join(BASE, 'profiles.json')))
+    seen_path = os.path.join(DATA, 'posts_vistos.json')
+    fila_path = os.path.join(DATA, 'fila_novos.json')
+    status_path = os.path.join(DATA, 'coleta_status.json')
+    seen = set(load_json(seen_path, []))
+    fila = load_json(fila_path, [])
+    status = load_json(status_path, {})
+    agora = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
+    novos = 0
+
+    # Coleta em rodadas: quem falha por estrangulamento do Instagram volta para
+    # a fila e é re-tentado após um descanso maior, em vez de ficar de fora até
+    # a próxima janela (3h). Assim uma queda passageira não perde o perfil.
+    ok_final = {}  # username -> conseguiu em alguma rodada?
+    pendentes = list(profiles)
+    RODADAS = 2
+    for rodada in range(1, RODADAS + 1):
+        falhados = []
+        for p in pendentes:
+            ok, n = processa_perfil(p, seen, fila, status, agora)
+            novos += n
+            ok_final[p['username']] = ok_final.get(p['username'], False) or ok
+            if not ok:
+                falhados.append(p)
+            time.sleep(2 + random.uniform(0, 1.5))  # gentil com o Instagram
+        # persiste o progresso a cada rodada: uma interrupção não perde o que já veio
+        save_json(seen_path, sorted(seen))
+        save_json(fila_path, fila)
+        save_json(status_path, status)
+        if not falhados:
+            break
+        if rodada < RODADAS:
+            nomes = ', '.join(pp['username'] for pp in falhados)
+            print(f'[info] {len(falhados)} perfil(is) falharam nesta rodada; '
+                  f'nova tentativa em 60s ({nomes})', file=sys.stderr)
+            time.sleep(60)  # descanso deixa o rate-limit do Instagram passar
+        pendentes = falhados
+
+    perfis_ok = sum(1 for v in ok_final.values() if v)
+    ainda_falhos = [u for u, v in ok_final.items() if not v]
+    if ainda_falhos:
+        print(f'[erro] mesmo após {RODADAS} rodadas seguem sem coletar: '
+              f'{", ".join(ainda_falhos)}', file=sys.stderr)
     print(f'{novos} posts novos candidatos a encarte na fila ({perfis_ok}/{len(profiles)} perfis lidos)')
     if perfis_ok == 0:
         sys.exit(1)  # falha total (provável rate-limit) — sinaliza para a rotina

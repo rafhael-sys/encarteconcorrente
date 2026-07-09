@@ -5,3 +5,4 @@ painel-encartes.html
 .DS_Store
 data/.pub_stamp
 data/.tentativas
+tools/node_modules/

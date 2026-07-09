@@ -25,8 +25,8 @@ ASSAI_EID, ASSAI_NID = 19, 120  # loja Natal
 ASSAI_LINK = 'https://www.assai.com.br/ofertas/rio-grande-do-norte/assai-natal'
 
 
-def sh(args, **kw):
-    return subprocess.run(args, capture_output=True, text=True, timeout=90, **kw)
+def sh(args, timeout=90, **kw):
+    return subprocess.run(args, capture_output=True, text=True, timeout=timeout, **kw)
 
 
 def load_json(path, default):
@@ -71,8 +71,24 @@ def download(url, path):
 
 
 def coleta_assai(seen, fila):
-    r = sh(['curl', '-sS', '-A', UA, ASSAI_JSON])
-    dados = json.loads(r.stdout)
+    # o JSON nacional às vezes responde vazio/erro num soluço do CDN; re-tentar
+    # aqui (como o Atacadão já faz) evita perder o Assaí por uma queda passageira
+    dados = None
+    for t in range(3):
+        try:
+            r = sh(['curl', '-sS', '-A', UA, ASSAI_JSON])
+            d = json.loads(r.stdout)
+            if not isinstance(d, dict):
+                # 200 com corpo válido mas não-objeto (ex.: '[]' num soluço do
+                # CDN) — trata como falha e re-tenta, senão o dados.get quebra
+                raise ValueError('resposta não é um objeto JSON')
+            dados = d
+            break
+        except (json.JSONDecodeError, ValueError, subprocess.SubprocessError):
+            if t < 2:
+                time.sleep(15)
+    if dados is None:
+        raise ValueError('JSON de ofertas do Assaí indisponível/inválido (curl 3x)')
     novos = 0
     hoje = datetime.date.today().isoformat()
     for o in dados.get('ofertas', []):
@@ -115,6 +131,23 @@ def coleta_assai(seen, fila):
     return novos
 
 
+def html_via_navegador(url, seletor):
+    """Plano B: Chrome DE VERDADE via playwright-core (tools/fetch_pagina.js).
+    Um navegador real passa pelos desafios anti-robô (Cloudflare) que barram
+    o curl esporadicamente. Devolve '' em falha — o chamador decide."""
+    node = os.path.expanduser('~/.local/bin/node')
+    if not os.path.exists(node):
+        node = 'node'
+    try:
+        # o navegador tem orçamento interno de ~65s; o teto aqui precisa ser
+        # maior, senão o kill do timeout deixa um Chrome órfão na máquina
+        r = sh([node, os.path.join(BASE, 'tools', 'fetch_pagina.js'), url, seletor],
+               timeout=150)
+        return r.stdout if r.returncode == 0 else ''
+    except (OSError, subprocess.SubprocessError):
+        return ''
+
+
 ATACADAO_LOJA = 'https://www.atacadao.com.br/loja/natal-sul'
 ATACADAO_PDF = 'https://apigw.cloud.carrefour.com.br/api-middleware-flyer-services/api/v2/Flyer/?id={fid}'
 PDF2JPG = os.path.join(BASE, 'tools', 'pdf2jpg')
@@ -123,10 +156,27 @@ PDF2JPG = os.path.join(BASE, 'tools', 'pdf2jpg')
 def coleta_atacadao(seen, fila):
     import re
     import hashlib
-    r = sh(['curl', '-sL', '-A', UA, ATACADAO_LOJA])
-    m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', r.stdout, re.S)
+    # o edge do site às vezes responde uma página sem o __NEXT_DATA__ (challenge
+    # momentâneo); re-tentar aqui evita perder a janela por um soluço passageiro
+    m = None
+    for t in range(3):
+        try:
+            r = sh(['curl', '-sL', '-A', UA, ATACADAO_LOJA])
+            m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', r.stdout, re.S)
+        except subprocess.SubprocessError:
+            m = None  # curl pendurado (timeout) é tão passageiro quanto — re-tenta
+        if m:
+            break
+        if t < 2:
+            time.sleep(15)
     if not m:
-        raise ValueError('__NEXT_DATA__ não encontrado na página da loja')
+        # curl barrado 3x: abre a página num Chrome real (plano B)
+        html = html_via_navegador(ATACADAO_LOJA, 'script#__NEXT_DATA__')
+        m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.S)
+        if m:
+            print('[info] atacadao: página obtida pelo navegador (plano B)', file=sys.stderr)
+    if not m:
+        raise ValueError('__NEXT_DATA__ não encontrado (curl 3x e navegador)')
     flyers = (json.loads(m.group(1)).get('props', {}).get('pageProps', {})
               .get('storeInfo', {}) or {}).get('flyers') or []
     novos = 0

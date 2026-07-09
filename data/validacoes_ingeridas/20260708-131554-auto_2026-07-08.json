@@ -1,0 +1,44 @@
+{
+ "validacoes": [
+  {
+   "a": "Lava Roupas Brilhante Bag 1,6kg Limp Poderosa",
+   "b": "Lava Roupas Brilhante Bag 1,6kg Perf Poderoso",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Tomate Italiano kg",
+   "b": "Tomate Italiano",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Tira Manchas em Gel Vanish Multiuso/White Refil 1,2L",
+   "b": "Tira Manchas em Gel Vanish White Refil 1,2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Tilápia Riviera 800g",
+   "b": "File de Peixe Tilápia Riviera 800g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Cremoso Clan Tradicional 400g",
+   "b": "Requeijão Cremoso Isis Tradicional 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Maçã Nacional kg",
+   "b": "Maçã Nacional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Alho a Granel kg",
+   "b": "Alho a Granel",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Whisky Johnnie Walker RED LABEL 1L",
+   "b": "Whisky Johnnie Walker Red Label Garrafa 1L",
+   "veredito": "mesmo"
+  }
+ ]
+}
