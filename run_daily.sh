@@ -69,7 +69,7 @@ falha() {
   touch "$LOCK"
   /usr/bin/python3 collect.py || falha "coleta do Instagram"
 
-  /usr/bin/python3 collect_web.py || echo "[aviso] coleta web (Assaí) falhou nesta janela"
+  /usr/bin/python3 collect_web.py || echo "[aviso] coleta web (Assaí/Atacadão/Nosso) falhou nesta janela"
 
   # aprendizado de similaridade: ingere validações feitas na aba do painel
   # (arquivo exportado para ~/Downloads) antes da análise, para valerem já
