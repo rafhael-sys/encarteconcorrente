@@ -189,11 +189,14 @@
   @media (prefers-reduced-motion:reduce){.zoomwrap{transition:none}}
   .stage img{width:100%;height:auto;display:block}
   .spot{
-    position:absolute;border-radius:10px;pointer-events:none;
-    box-shadow:0 0 0 2.5px #fff, 0 0 0 9999px rgba(13,13,13,.55);
+    position:absolute;border-radius:16px;pointer-events:none;
+    /* halo suave em vez de caixa cirúrgica: a posição extraída é aproximada,
+       então a marcação indica a REGIÃO sem prometer precisão de pixel; a
+       máscara mais leve deixa os vizinhos visíveis para o olho completar */
+    box-shadow:0 0 0 2.5px rgba(255,255,255,.95), 0 0 18px 5px rgba(255,255,255,.35), 0 0 0 9999px rgba(13,13,13,.42);
     animation:pulse 1.6s ease-in-out infinite;
   }
-  @keyframes pulse{0%,100%{box-shadow:0 0 0 2.5px #fff,0 0 0 9999px rgba(13,13,13,.55)}50%{box-shadow:0 0 0 5px #fff,0 0 0 9999px rgba(13,13,13,.48)}}
+  @keyframes pulse{0%,100%{box-shadow:0 0 0 2.5px rgba(255,255,255,.95),0 0 18px 5px rgba(255,255,255,.35),0 0 0 9999px rgba(13,13,13,.42)}50%{box-shadow:0 0 0 5px rgba(255,255,255,.95),0 0 26px 8px rgba(255,255,255,.45),0 0 0 9999px rgba(13,13,13,.35)}}
   @media (prefers-reduced-motion:reduce){.spot{animation:none}.panel{animation:none}}
   .spot-tag{
     position:absolute;transform:translate(-50%,-130%);background:#0d0d0d;color:#fff;border-radius:8px;
@@ -201,6 +204,8 @@
     max-width:88%;overflow:hidden;text-overflow:ellipsis;
   }
   .spot-tag b{font-weight:700}
+  /* produto no topo da página: a etiqueta desce para não ser cortada */
+  .spot-tag.abaixo{transform:translate(-50%,0);margin-top:10px}
   .nav-btn{
     position:absolute;top:50%;transform:translateY(-50%);width:44px;height:44px;border-radius:50%;
     background:rgba(255,255,255,.94);box-shadow:0 2px 10px rgba(0,0,0,.25);
@@ -953,11 +958,33 @@ function drawPage(){
   const s = $('spot'), t = $('spotTag');
   if(prod){
     s.hidden = t.hidden = false;
-    s.style.left = prod.x+'%'; s.style.top = prod.y+'%';
-    s.style.width = prod.w+'%'; s.style.height = prod.h+'%';
-    t.style.left = Math.min(Math.max(prod.x+prod.w/2, 18), 82)+'%';
-    t.style.top = prod.y+'%';
+    // FOLGA: a posição extraída da imagem é aproximada; a marcação ganha uma
+    // margem para envolver o produto mesmo quando a caixa veio um pouco torta
+    const FX = 2.5, FY = 2;
+    const x = Math.max(0, (prod.x||0) - FX), y = Math.max(0, (prod.y||0) - FY);
+    const w = Math.min(100 - x, (prod.w||0) + 2*FX), h = Math.min(100 - y, (prod.h||0) + 2*FY);
+    s.style.left = x+'%'; s.style.top = y+'%';
+    s.style.width = w+'%'; s.style.height = h+'%';
     t.innerHTML = `${esc(prod.n)} — <b>R$ ${esc(prod.p)}</b>`;
+    // etiqueta: acima da marcação; produto no topo da página -> desce para
+    // baixo da marcação (senão a borda da imagem cortaria a etiqueta)
+    const noTopo = y < 9;
+    t.classList.toggle('abaixo', noTopo);
+    t.style.top = (noTopo ? y + h : y)+'%';
+    // centraliza na marcação SEM sair da tela: mede a largura real da
+    // etiqueta e prende o centro dentro da área visível. A medição roda no
+    // quadro seguinte: na ABERTURA do visor este código executa antes de o
+    // overlay ficar visível (largura ainda é 0 e a conta sairia errada)
+    t.style.left = '50%';
+    const posiciona = () => {
+      if(t.hidden) return;
+      const wrapW = $('zoomWrap').clientWidth;
+      if(!wrapW){ requestAnimationFrame(posiciona); return; }
+      const meio = Math.round((x + w/2) / 100 * wrapW);
+      const metade = Math.ceil(t.offsetWidth / 2);
+      t.style.left = Math.min(Math.max(meio, metade + 6), wrapW - metade - 6) + 'px';
+    };
+    requestAnimationFrame(posiciona);
   } else { s.hidden = t.hidden = true; }
 }
 function resetZoom(){
