@@ -44,6 +44,11 @@ fi
 # 5) espelha os dados no banco de preços consultável (rápido e idempotente)
 python3 atualiza_banco.py || echo "[aviso] atualização do banco de preços falhou"
 
+# 5b) limpeza: apaga só as IMAGENS de encartes vencidos há mais de 60 dias
+#     (preços e datas continuam no histórico; só o repositório para de crescer).
+#     Ajuste a retenção com a variável DIAS_MANTER_IMAGENS, se quiser.
+python3 limpa_imagens.py || echo "[aviso] limpeza de imagens antigas falhou"
+
 # 6) publica o painel no Netlify (token e senha vêm das variáveis de ambiente
 #    NETLIFY_TOKEN e PAINEL_SENHA; ENCARTES_LOCK_HERDADA=1 pula a trava do Mac).
 ENCARTES_LOCK_HERDADA=1 bash publicar_painel.sh || echo "[aviso] publicação no Netlify falhou nesta execução"
