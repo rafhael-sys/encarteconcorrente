@@ -34,19 +34,35 @@ def main():
             or b'<!--LOGS-INI-->' in html or b'logsAbrir' in html):
         sys.exit('[gate] bloco só-local (engrenagem/logs) ainda está no HTML — publicação abortada')
 
-    salt, iv = os.urandom(16), os.urandom(16)
-    key = hashlib.pbkdf2_hmac('sha256', senha.encode(), salt, ITERACOES, dklen=32)
-    cifra = subprocess.run(
-        ['openssl', 'enc', '-aes-256-cbc', '-K', key.hex(), '-iv', iv.hex()],
-        input=html, capture_output=True, check=True).stdout
-    # salt e iv viajam no cabeçalho do próprio blob: uma aba aberta antes da
-    # republicação diária continua conseguindo decifrar o painel novo
-    enc = b'ENC1' + salt + iv + cifra
+    # DIVISÃO: as fotos (bloco IMG, ~90% do peso) saem do painel e viajam num
+    # arquivo separado, baixado em segundo plano DEPOIS que a pessoa já entrou
+    # — a entrada cai de ~45 MB para poucos MB. O painel local não muda.
+    mi, mf = b'/*IMG-INI*/', b'/*IMG-FIM*/'
+    ini, fim = html.find(mi), html.find(mf)
+    imagens = b'{}'
+    if ini != -1 and fim != -1 and fim > ini:
+        imagens = html[ini + len(mi):fim]
+        html = html[:ini] + b'{}' + html[fim + len(mf):]
+
+    def cifra(dados):
+        # salt e iv viajam no cabeçalho do próprio blob: uma aba aberta antes
+        # da republicação diária continua conseguindo decifrar a versão nova
+        salt, iv = os.urandom(16), os.urandom(16)
+        key = hashlib.pbkdf2_hmac('sha256', senha.encode(), salt, ITERACOES, dklen=32)
+        corpo = subprocess.run(
+            ['openssl', 'enc', '-aes-256-cbc', '-K', key.hex(), '-iv', iv.hex()],
+            input=dados, capture_output=True, check=True).stdout
+        return b'ENC1' + salt + iv + corpo
+
+    enc = cifra(html)
     open(os.path.join(outdir, 'painel.enc'), 'wb').write(enc)
+    enc_img = cifra(imagens)
+    open(os.path.join(outdir, 'imagens.enc'), 'wb').write(enc_img)
 
     gate = GATE.replace('__ITER__', str(ITERACOES))
     open(os.path.join(outdir, 'index.html'), 'w', encoding='utf-8').write(gate)
-    print(f'[gate] ok — painel.enc {len(enc)/1e6:.1f} MB')
+    print(f'[gate] ok — painel.enc {len(enc)/1e6:.1f} MB (miolo) '
+          f'+ imagens.enc {len(enc_img)/1e6:.1f} MB (fotos em segundo plano)')
 
 
 GATE = '''<!doctype html>
@@ -162,6 +178,9 @@ async function abrir(senha){
   if(!txt.startsWith('<meta charset')) throw new Error('senha');
   /* guarda a senha COM a hora — usada pela regra de validade de 3h no rodapé do script */
   try{ localStorage.setItem('painel_senha', JSON.stringify({s: senha, t: Date.now()})); }catch(e){}
+  /* a janela sobrevive ao document.write: o painel usa esta senha para
+     decifrar as FOTOS (imagens.enc), que chegam em segundo plano */
+  window.__senhaPainel = senha;
   document.open(); document.write(txt); document.close();
 }
 
