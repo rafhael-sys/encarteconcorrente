@@ -22,7 +22,8 @@ const { chromium } = require('playwright-core');
     process.exit(1);
   }, 110000);
   try {
-    // macOS: usa o Chrome instalado; nuvem/Linux: cai para o Chromium empacotado
+    // usa o Chrome instalado na máquina (macOS ou o runner do GitHub, que já
+    // vem com ele); só cai para o Chromium do Playwright se não houver Chrome
     try {
       browser = await chromium.launch({ channel: 'chrome', headless: true });
     } catch (_) {

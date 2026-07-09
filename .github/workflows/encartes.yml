@@ -39,26 +39,34 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: requirements-cloud.txt
 
       - name: Preparar Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: tools/package-lock.json
 
-      - name: Instalar utilitários do sistema (zip, openssl)
-        run: sudo apt-get update && sudo apt-get install -y zip openssl
+      - name: Conferir utilitários do sistema (zip, openssl)
+        # os dois já vêm instalados na máquina do GitHub — este passo só instala
+        # se um dia a imagem oficial deixar de trazê-los (custa <1s)
+        run: |
+          if ! command -v zip >/dev/null || ! command -v openssl >/dev/null; then
+            sudo apt-get update && sudo apt-get install -y zip openssl
+          fi
 
       - name: Instalar dependências Python
         run: pip install -r requirements-cloud.txt
 
-      - name: Instalar ferramentas Node e o navegador (plano B do Atacadão)
+      - name: Instalar ferramentas Node (plano B do Atacadão)
+        # o navegador NÃO é mais baixado (eram ~150 MB e ~30s por execução):
+        # a máquina do GitHub já vem com o Google Chrome instalado e o
+        # tools/fetch_pagina.js usa esse Chrome (channel 'chrome') primeiro.
         run: |
           cd tools
           npm ci || npm install
-          # instala o Chromium na MESMA versão do playwright-core (^1.61.1);
-          # se falhar, só o plano B do Atacadão (raro) fica indisponível.
-          npx --yes playwright@1.61.1 install --with-deps chromium \
-            || echo "[aviso] navegador não instalado — plano B do Atacadão ficará indisponível"
 
       - name: Instalar o Claude Code (o "cérebro" que lê os encartes)
         run: npm install -g @anthropic-ai/claude-code
