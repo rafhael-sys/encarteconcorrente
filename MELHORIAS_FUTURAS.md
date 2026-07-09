@@ -22,6 +22,10 @@ depois. Cada passo é pequeno (<10%), mas o movimento pra baixo **é agressivo**
 - Manter o guarda de queda >65% (filtra agrupamento errado).
 - Rankear por: tamanho do corte vs. valor recente + consistência da queda.
 
+**Regra a MANTER (já é assim):** a aba mostra apenas ofertas VIGENTES; quando o
+encarte expira, sai da aba automaticamente. O histórico continua guardado no
+GitHub (arquivos + banco SQL) e nunca é apagado — é ele que alimenta o cálculo.
+
 ## 2. Casamento de produtos iguais (canon) — vários sinais, só com certeza
 **Feeling do Rafhael:** o Claude deve decidir se dois produtos são o mesmo
 usando **vários indicadores juntos** e só unir quando tiver **certeza**:
