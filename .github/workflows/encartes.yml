@@ -13,6 +13,10 @@ on:
     # do minuto cheio a fila é bem menor e a rotina dispara com muito mais
     # regularidade. Mesmo assim o horário nunca é exato — pode variar alguns min.
     - cron: '12 10,16,23 * * *'
+    # TESTE TEMPORÁRIO (remover depois): confirma que o agendamento dispara
+    # sozinho. 16h03 de Natal = 19h03 UTC. É só uma prova — assim que rodar
+    # sozinho hoje, este horário deve ser removido.
+    - cron: '3 19 * * *'
   workflow_dispatch: {}
 
 # nunca deixa duas execuções mexerem nos dados ao mesmo tempo
