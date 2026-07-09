@@ -44,8 +44,23 @@ fi
 # 5) espelha os dados no banco de preços consultável (rápido e idempotente)
 python3 atualiza_banco.py || echo "[aviso] atualização do banco de preços falhou"
 
+# 5b) limpeza: apaga só as IMAGENS de encartes vencidos há mais de 60 dias
+#     (preços e datas continuam no histórico; só o repositório para de crescer).
+#     Ajuste a retenção com a variável DIAS_MANTER_IMAGENS, se quiser.
+python3 limpa_imagens.py || echo "[aviso] limpeza de imagens antigas falhou"
+
 # 6) publica o painel no Netlify (token e senha vêm das variáveis de ambiente
 #    NETLIFY_TOKEN e PAINEL_SENHA; ENCARTES_LOCK_HERDADA=1 pula a trava do Mac).
-ENCARTES_LOCK_HERDADA=1 bash publicar_painel.sh || echo "[aviso] publicação no Netlify falhou nesta execução"
+#    TRAVA DE SEGURANÇA: nunca publica um painel vazio por cima do site ao vivo.
+#    Se há encartes cadastrados mas nenhuma imagem em disco (ex.: imagens não
+#    subiram, ou uma falha rara), o painel sairia sem encartes — nesse caso
+#    pulamos a publicação e mantemos a versão que a equipe já vê.
+N_ACOES=$(python3 -c 'import json;print(len(json.load(open("data/actions.json"))))' 2>/dev/null || echo 0)
+N_IMGS=$(find data/pages -maxdepth 1 -type f -name '*.jpg' 2>/dev/null | wc -l | tr -d ' ')
+if [ "${N_ACOES:-0}" -gt 0 ] && [ "${N_IMGS:-0}" -eq 0 ]; then
+  echo "[erro] $N_ACOES encartes cadastrados mas 0 imagens em data/pages — publicação ABORTADA para não subir painel vazio sobre o site ao vivo."
+else
+  ENCARTES_LOCK_HERDADA=1 bash publicar_painel.sh || echo "[aviso] publicação no Netlify falhou nesta execução"
+fi
 
 echo "=== $(date '+%Y-%m-%d %H:%M') concluído ==="
