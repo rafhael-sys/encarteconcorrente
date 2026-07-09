@@ -810,5 +810,65 @@
   "veredito": "mesmo",
   "quando": "2026-07-09",
   "aplicado": true
+ },
+ "bolinho bauducco 34/40g sabores || bolinho bauducco 40g sabores": {
+  "a": "Bolinho Bauducco 34/40g Sabores",
+  "b": "Bolinho Bauducco 40g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "sabao em barra guarani 5x160g fragrancias || sabao em barra guarani c/5 de 160g fragrancias": {
+  "a": "Sabão em Barra GUARANI c/5 de 160g Fragrâncias",
+  "b": "Sabão em Barra Guarani 5x160g Fragrâncias",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "pimentao verde || pimentao verde kg": {
+  "a": "Pimentão Verde kg",
+  "b": "Pimentão Verde",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "racao umida gatos friskies 85g ou caes pedigree sch 100g || racao umida gatos friskies 85g ou racao umida caes pedigree sch 100g": {
+  "a": "Ração Úmida Gatos Friskies 85g ou Ração Úmida Cães Pedigree SCH 100g",
+  "b": "Ração Úmida Gatos Friskies 85g ou Cães Pedigree SCH 100g",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "kiwi importado || kiwi importado kg": {
+  "a": "Kiwi Importado kg",
+  "b": "Kiwi Importado",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "uva vitoria seleta 500g || uva vitoria seleta band 500g": {
+  "a": "Uva Vitória Seleta 500g",
+  "b": "Uva Vitoria Seleta Band 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "queijo de coalho isis kg || queijo de coalho isis mini kg": {
+  "a": "Queijo de Coalho Isis Mini KG",
+  "b": "Queijo de Coalho Isis kg",
+  "veredito": "diferente",
+  "quando": "2026-07-09"
+ },
+ "carne bovina acem com osso kg || carne bovina paleta com osso kg": {
+  "a": "Carne Bovina Acém com Osso kg",
+  "b": "Carne Bovina Paleta com Osso KG",
+  "veredito": "diferente",
+  "quando": "2026-07-09"
+ },
+ "requeijao clan light ou tradicional 200g || requeijao isis light ou tradicional 200g": {
+  "a": "Requeijão Clan Light ou Tradicional 200g",
+  "b": "Requeijão Isis Light ou Tradicional 200g",
+  "veredito": "diferente",
+  "quando": "2026-07-09"
  }
 }

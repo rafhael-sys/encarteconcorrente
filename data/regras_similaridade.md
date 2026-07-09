@@ -84,7 +84,9 @@
 - MESMO: «Almôndega Bovina Chuletão Congelada 1kg» == «Almôndega Bovina Chuletão Conq 1kg»
 - MESMO: «Azeite Extra Virgem Gallo Por 500ml» == «Azeite Extra Virgem Gallo 500ml»
 - MESMO: «Batata Frita Easyfcher Congelado 2kg Tradicional» == «Batata Frita Easychef Congelado 2kg Tradicional»
+- MESMO: «Bolinho Bauducco 34/40g Sabores» == «Bolinho Bauducco 40g Sabores»
 - MESMO: «Camarão Inteiro Camanor Congelado a Granel kg» == «Camarão Inteiro Camanor Congelado a Granel»
+- DIFERENTES: «Carne Bovina Acém com Osso kg» != «Carne Bovina Paleta com Osso KG»
 - MESMO: «Carne Bovina Dianteira de Sol» == «Carne Bovina Dianteira de Sol kg»
 - DIFERENTES: «Carne Bovina Peito com Osso kg» != «Carne Bovina Paleta com Osso KG»
 - MESMO: «Carne Bovina Paleta com Osso» == «Carne Bovina Paleta com Osso KG»
@@ -102,6 +104,7 @@
 - MESMO: «Flocão de Milho Dona Clara 500g» == «Flocão Milho Dona Clara 500g»
 - MESMO: «Frango Bom Todo com Miúdos com KG» == «Frango Bom Todo c/ Miudos Cong Kg»
 - MESMO: «Iogurte Isis Pro Sabores 180g» == «Iogurte Isis Isis Pro Sabores 180g»
+- MESMO: «Kiwi Importado kg» == «Kiwi Importado»
 - MESMO: «Leite Condensado CCGL 395g» == «Leite Condensado CCGL TP 395g»
 - MESMO: «Linguiça Calabresa Tony» == «Linguiça Calabresa Tony Kg»
 - MESMO: «Linguiça de Frango Avivar kg Churrasco» == «Linguiça de Frango Aviava KG Churrasco»
@@ -119,10 +122,16 @@
 - MESMO: «Pão de Queijo Delícia Mineira 1kg Congelado Tradicional» == «Pão Queijo Delicia Mineira 1kg Cong Tradicional»
 - MESMO: «Papel Toalha Scala c/2 200fls» == «Papel Toalha Scala Plus c/2 200fls»
 - MESMO: «Peito de Frango Congelado kg» == «Peito Frango Congelado Kg»
+- MESMO: «Pimentão Verde kg» == «Pimentão Verde»
+- DIFERENTES: «Queijo de Coalho Isis Mini KG» != «Queijo de Coalho Isis kg»
 - MESMO: «Queijo Jardineire Coalho/Manteiga Peça, Pedaço ou Mini KG» == «Queijo Jardineira Coalho/Manteiga Peça, Pedaço ou Mini Kg»
 - MESMO: «Queijo Jardinense Coalho ou Manteiga Peça, Pedaço ou Mini kg» == «Queijo Jardineire Coalho/Manteiga Peça, Pedaço ou Mini KG»
+- MESMO: «Ração Úmida Gatos Friskies 85g ou Ração Úmida Cães Pedigree SCH 100g» == «Ração Úmida Gatos Friskies 85g ou Cães Pedigree SCH 100g»
+- DIFERENTES: «Requeijão Clan Light ou Tradicional 200g» != «Requeijão Isis Light ou Tradicional 200g»
+- MESMO: «Sabão em Barra GUARANI c/5 de 160g Fragrâncias» == «Sabão em Barra Guarani 5x160g Fragrâncias»
 - MESMO: «Salsicha Hot Dog Avivar kg» == «Salsicha Hot Dog Aviava KG»
 - MESMO: «Salsicha Hot Dog Avivar kg» == «Salsicha Hot Dog Avinar Kg»
 - MESMO: «Tangerina Murcote kg» == «Tangerina Murcote»
+- MESMO: «Uva Vitória Seleta 500g» == «Uva Vitoria Seleta Band 500g»
 - MESMO: «Uva Vitória sem Semente 500g» == «Uva Vitória Sem Sementes BDJ 500g»
 - MESMO: «Vinho Collina GF 750ml Sabores» == «Vinho Colina 750ml Sabores»

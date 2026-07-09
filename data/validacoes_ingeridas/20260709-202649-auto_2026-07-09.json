@@ -1,0 +1,13 @@
+{
+ "validacoes": [
+  {"a": "Bolinho Bauducco 34/40g Sabores", "b": "Bolinho Bauducco 40g Sabores", "veredito": "mesmo"},
+  {"a": "Sabão em Barra GUARANI c/5 de 160g Fragrâncias", "b": "Sabão em Barra Guarani 5x160g Fragrâncias", "veredito": "mesmo"},
+  {"a": "Pimentão Verde kg", "b": "Pimentão Verde", "veredito": "mesmo"},
+  {"a": "Ração Úmida Gatos Friskies 85g ou Ração Úmida Cães Pedigree SCH 100g", "b": "Ração Úmida Gatos Friskies 85g ou Cães Pedigree SCH 100g", "veredito": "mesmo"},
+  {"a": "Kiwi Importado kg", "b": "Kiwi Importado", "veredito": "mesmo"},
+  {"a": "Uva Vitória Seleta 500g", "b": "Uva Vitoria Seleta Band 500g", "veredito": "mesmo"},
+  {"a": "Queijo de Coalho Isis Mini KG", "b": "Queijo de Coalho Isis kg", "veredito": "diferente"},
+  {"a": "Carne Bovina Acém com Osso kg", "b": "Carne Bovina Paleta com Osso KG", "veredito": "diferente"},
+  {"a": "Requeijão Clan Light ou Tradicional 200g", "b": "Requeijão Isis Light ou Tradicional 200g", "veredito": "diferente"}
+ ]
+}
