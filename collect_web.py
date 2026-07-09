@@ -8,6 +8,7 @@ docs_atacadao_api.md (pendente: encarte em PDF exige conversor de imagem).
 """
 import json
 import os
+import random
 import subprocess
 import sys
 import time
@@ -53,21 +54,27 @@ def br_date(s):
         return ''
 
 
-def download(url, path):
-    try:
-        sh(['curl', '-sk', '--compressed', '-A', UA, '-o', path, url])
-        if os.path.getsize(path) < 1024:
-            raise ValueError
-        with open(path, 'rb') as f:
-            if f.read(20).lstrip().startswith(b'<'):
-                raise ValueError
-        return True
-    except (OSError, ValueError, subprocess.SubprocessError):
+def download(url, path, tentativas=4):
+    """Baixa a imagem re-tentando alguns soluços passageiros do CDN (Assaí/
+    Atacadão) NA MESMA coleta, em vez de deixar para a próxima. True só se
+    baixou uma imagem plausível; nunca deixa arquivo lixo para trás."""
+    for t in range(1, tentativas + 1):
         try:
-            os.remove(path)
-        except OSError:
-            pass
-        return False
+            sh(['curl', '-sk', '--compressed', '-A', UA, '-o', path, url])
+            if os.path.getsize(path) < 1024:
+                raise ValueError
+            with open(path, 'rb') as f:
+                if f.read(20).lstrip().startswith(b'<'):
+                    raise ValueError
+            return True
+        except (OSError, ValueError, subprocess.SubprocessError):
+            try:
+                os.remove(path)
+            except OSError:
+                pass
+            if t < tentativas:
+                time.sleep(min(8, 1.5 ** t) + random.uniform(0, 0.8))
+    return False
 
 
 def coleta_assai(seen, fila):
