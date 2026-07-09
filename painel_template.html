@@ -487,7 +487,7 @@ function renderFontes(){
   if(!nomes.length){ wrap.innerHTML = ''; return; }
   const pior = Math.max(...nomes.map(n => fonteNivel(FONTES[n])));
   const cls = pior === 0 ? 'f-ok' : pior === 1 ? 'f-warn' : 'f-bad';
-  wrap.innerHTML = `<button class="fontes-pill" id="fontesBtn"><span class="fdot ${cls}"></span>Fontes${pior > 0 ? ' ⚠' : ''}</button>
+  wrap.innerHTML = `<button class="fontes-pill" id="fontesBtn"><span class="fdot ${cls}"></span>Fontes${pior === 0 ? ' · tudo coletado' : ' ⚠'}</button>
     <div class="fontes-panel" id="fontesPanel"${fontesAberto ? '' : ' hidden'}>` +
     nomes.sort((a,b) => fonteNivel(FONTES[b]) - fonteNivel(FONTES[a]) || a.localeCompare(b))
       .map(n => {
