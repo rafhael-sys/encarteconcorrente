@@ -7,16 +7,13 @@ name: Encartes — coleta e publicação
 on:
   schedule:
     # Horários locais de Natal/RN (UTC-3): ~07h12, ~13h12 e ~20h12 (3x/dia).
-    # Em UTC isso vira 10h12, 16h12 e 23h12. Rodamos aos :12 (e não em ponto):
-    # no minuto ZERO de cada hora milhares de rotinas disparam ao mesmo tempo e
-    # o agendador gratuito do GitHub atrasa MUITO ou até engole a execução. Fora
-    # do minuto cheio a fila é bem menor e a rotina dispara com muito mais
-    # regularidade. Mesmo assim o horário nunca é exato — pode variar alguns min.
+    # Em UTC isso vira 10h12, 16h12 e 23h12. Rodamos aos :12 (e não em ponto)
+    # porque o agendador gratuito do GitHub atrasa/engole execuções no minuto
+    # cheio. Mesmo assim ele é irregular — por isso o disparo PRINCIPAL fica no
+    # cron-job.org (externo, aos :13, via workflow_dispatch), e este schedule é
+    # só a REDE DE SEGURANÇA. Se os dois dispararem, a rotina só faz o trabalho
+    # uma vez (a segunda execução vê que já foi feito e sai).
     - cron: '12 10,16,23 * * *'
-    # TESTE TEMPORÁRIO (remover depois): confirma que o agendamento dispara
-    # sozinho. 16h03 de Natal = 19h03 UTC. É só uma prova — assim que rodar
-    # sozinho hoje, este horário deve ser removido.
-    - cron: '3 19 * * *'
   workflow_dispatch: {}
 
 # nunca deixa duas execuções mexerem nos dados ao mesmo tempo
