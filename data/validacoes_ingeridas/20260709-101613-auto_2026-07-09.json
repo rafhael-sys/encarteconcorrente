@@ -1,0 +1,54 @@
+{
+ "validacoes": [
+  {
+   "a": "Cerveja Lager Impero Puro Malte GF 355ml",
+   "b": "Cerveja Lager Imperio Puro Malte GF 355ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Jardineire Coalho/Manteiga Peça, Pedaço ou Mini KG",
+   "b": "Queijo Jardineira Coalho/Manteiga Peça, Pedaço ou Mini Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mini Coxinha Bom Todo Congelada 300g Sabores",
+   "b": "Mini Coxinha Bom Todo Congelado 300g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Avivar kg Churrasco",
+   "b": "Linguiça de Frango Avinar Kg Churrasco",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Avivar kg Churrasco",
+   "b": "Linguiça de Frango Aviava KG Churrasco",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão Espaguete Imperador 400g",
+   "b": "Macarrão Espaguete Emperador 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Malzbeer Brahma GF 355ml",
+   "b": "Cerveja Malzbier Brahma GF 355ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Frita Easyfcher Congelado 2kg Tradicional",
+   "b": "Batata Frita Easychef Congelado 2kg Tradicional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Camarão Inteiro Camanor Congelado a Granel kg",
+   "b": "Camarão Inteiro Camanor Congelado a Granel",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog Avivar kg",
+   "b": "Salsicha Hot Dog Aviava KG",
+   "veredito": "mesmo"
+  }
+ ]
+}

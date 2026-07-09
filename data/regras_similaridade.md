@@ -82,11 +82,21 @@
 - MESMO: «Tomate Italiano kg» == «Tomate Italiano»
 - MESMO: «Whisky Johnnie Walker RED LABEL 1L» == «Whisky Johnnie Walker Red Label Garrafa 1L»
 - MESMO: «Azeite Extra Virgem Gallo Por 500ml» == «Azeite Extra Virgem Gallo 500ml»
+- MESMO: «Batata Frita Easyfcher Congelado 2kg Tradicional» == «Batata Frita Easychef Congelado 2kg Tradicional»
+- MESMO: «Camarão Inteiro Camanor Congelado a Granel kg» == «Camarão Inteiro Camanor Congelado a Granel»
 - MESMO: «Carne Bovina Dianteira de Sol» == «Carne Bovina Dianteira de Sol kg»
+- MESMO: «Cerveja Lager Impero Puro Malte GF 355ml» == «Cerveja Lager Imperio Puro Malte GF 355ml»
+- MESMO: «Cerveja Malzbeer Brahma GF 355ml» == «Cerveja Malzbier Brahma GF 355ml»
 - MESMO: «Enxaguante Bucal Colgate Leve750 P500ml (Plax Fresh Mint - Odor Control)» == «Enxaguante Bucal Colgate Leve 750 Pague 500ml (Plax Fresh Mint / Odor Control)»
 - MESMO: «Filezinho Sassami Somave Congelado» == «Filezinho Sassami Somave Congelado kg»
 - MESMO: «Leite Condensado CCGL 395g» == «Leite Condensado CCGL TP 395g»
+- MESMO: «Linguiça de Frango Avivar kg Churrasco» == «Linguiça de Frango Aviava KG Churrasco»
+- MESMO: «Linguiça de Frango Avivar kg Churrasco» == «Linguiça de Frango Avinar Kg Churrasco»
 - MESMO: «Linguiça de Frango Avivar» == «Linguiça de Frango Avivar kg»
+- MESMO: «Macarrão Espaguete Imperador 400g» == «Macarrão Espaguete Emperador 400g»
 - MESMO: «Milho Pipoca Vitaforte Premium 400g» == «Milho de Pipoca Vitaforte Premium 400g»
+- MESMO: «Mini Coxinha Bom Todo Congelada 300g Sabores» == «Mini Coxinha Bom Todo Congelado 300g Sabores»
 - MESMO: «Papel Toalha Scala c/2 200fls» == «Papel Toalha Scala Plus c/2 200fls»
+- MESMO: «Queijo Jardineire Coalho/Manteiga Peça, Pedaço ou Mini KG» == «Queijo Jardineira Coalho/Manteiga Peça, Pedaço ou Mini Kg»
+- MESMO: «Salsicha Hot Dog Avivar kg» == «Salsicha Hot Dog Aviava KG»
 - MESMO: «Vinho Collina GF 750ml Sabores» == «Vinho Colina 750ml Sabores»
