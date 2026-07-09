@@ -7,6 +7,8 @@ painel-encartes.html
 .DS_Store
 data/.pub_stamp
 data/.tentativas
+# backups pontuais criados pelos scripts — o histórico do git já é o backup
+data/*.bak-*
 tools/node_modules/
 
 # artefatos do Python

@@ -2,7 +2,7 @@
 
 Este guia liga a rotina dos encartes no **GitHub Actions** — de graça, sem
 depender do seu Mac ligado. A rotina passa a rodar sozinha nos horários
-7h / 10h / 13h / 16h / 19h / 22h (horário de Natal).
+7h / 13h / 19h (horário de Natal).
 
 ## O que mudou no projeto (já está pronto)
 

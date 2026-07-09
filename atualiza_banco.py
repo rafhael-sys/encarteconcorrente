@@ -10,6 +10,7 @@ Regras de segurança:
 Roda em segundos e é idempotente — pode executar quantas vezes quiser.
 """
 import datetime
+import hashlib
 import json
 import os
 import re
@@ -19,6 +20,21 @@ import sys
 BASE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(BASE, 'data')
 DB = os.path.join(DATA, 'encartes.db')
+STAMP = os.path.join(DATA, '.banco_stamp')
+
+
+def fingerprint():
+    """Impressão digital dos 3 JSONs de origem. Se nada mudou desde a última
+    sincronização, o banco já está em dia e a regravação é dispensada — evita
+    reescrever um .db idêntico a cada janela (e inflar o histórico do git)."""
+    h = hashlib.sha256()
+    for nome in ('actions.json', 'products.json', 'canon.json'):
+        try:
+            with open(os.path.join(DATA, nome), 'rb') as f:
+                h.update(f.read())
+        except OSError:
+            h.update(b'?')
+    return h.hexdigest()
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS acoes(
@@ -81,6 +97,16 @@ def carrega(nome, default):
 
 
 def main():
+    fp = fingerprint()
+    try:
+        ja_em_dia = open(STAMP).read().strip() == fp
+    except OSError:
+        ja_em_dia = False
+    if ja_em_dia and os.path.exists(DB):
+        print('banco já em dia (JSONs inalterados desde a última sincronização) '
+              '— regravação dispensada')
+        return
+
     actions = carrega('actions.json', [])
     products = carrega('products.json', {})
     canon = carrega('canon.json', [])
@@ -154,6 +180,11 @@ def main():
     tot_a, tot_p = (con.execute(f'SELECT COUNT(*) FROM {t}').fetchone()[0]
                     for t in ('acoes', 'produtos'))
     con.close()
+    # sincronização concluída: grava o carimbo (escrita atômica) para a
+    # próxima janela saber que pode pular se os JSONs não mudarem
+    with open(f'{STAMP}.tmp', 'w') as f:
+        f.write(fp)
+    os.replace(f'{STAMP}.tmp', STAMP)
     if orfaos:
         print(f'[aviso] {len(orfaos)} páginas de products.json sem ação correspondente '
               f'(ignoradas): {", ".join(orfaos[:5])}', file=sys.stderr)

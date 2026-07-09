@@ -112,7 +112,7 @@ GATE = '''<!doctype html>
     <div class="txt" id="ptxt">Baixando o painel…</div>
   </div>
 </div>
-<footer>Atualizado todo dia às 9h · uso interno</footer>
+<footer>Atualizado 3× ao dia · uso interno</footer>
 <script>
 /* Tudo dentro de uma função: document.open() reaproveita a janela, e
    declarações soltas aqui (ex.: const $) colidiriam com as do painel
