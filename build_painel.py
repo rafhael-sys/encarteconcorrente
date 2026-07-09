@@ -266,7 +266,10 @@ def jdump(o):
 html = open(f'{BASE}/painel_template.html', encoding='utf-8').read()
 html = html.replace('__ACTIONS__', jdump(data_actions))
 html = html.replace('__PRODUCTS__', jdump(products))
-html = html.replace('__IMAGES__', jdump(images))
+# marcadores IMG-INI/IMG-FIM: no site publicado, o gera_gate.py separa este
+# bloco (as fotos, ~90% do peso) num arquivo próprio baixado em segundo plano
+# — o painel abre em segundos. No arquivo local nada muda (fotos embutidas).
+html = html.replace('__IMAGES__', '/*IMG-INI*/' + jdump(images) + '/*IMG-FIM*/')
 html = html.replace('__CANON__', jdump(canon))
 fontes = {}
 if os.path.exists(f'{DATA}/coleta_status.json'):

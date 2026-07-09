@@ -198,14 +198,17 @@
   }
   @keyframes pulse{0%,100%{box-shadow:0 0 0 2.5px rgba(255,255,255,.95),0 0 18px 5px rgba(255,255,255,.35),0 0 0 9999px rgba(13,13,13,.42)}50%{box-shadow:0 0 0 5px rgba(255,255,255,.95),0 0 26px 8px rgba(255,255,255,.45),0 0 0 9999px rgba(13,13,13,.35)}}
   @media (prefers-reduced-motion:reduce){.spot{animation:none}.panel{animation:none}}
+  /* etiqueta do produto marcado: FAIXA FIXA na base da tela (fora da imagem)
+     — nunca é cortada, não escala junto com o zoom e o preço vem primeiro.
+     Numa página lotada vista no celular, era impossível ler a etiqueta
+     flutuando sobre a foto. */
   .spot-tag{
-    position:absolute;transform:translate(-50%,-130%);background:#0d0d0d;color:#fff;border-radius:8px;
-    font-size:12.5px;font-weight:500;line-height:1.35;padding:6px 10px;pointer-events:none;white-space:nowrap;
-    max-width:88%;overflow:hidden;text-overflow:ellipsis;
+    position:fixed;left:50%;bottom:72px;transform:translateX(-50%);z-index:70;
+    background:#0d0d0d;color:#fff;border-radius:12px;
+    font-size:13px;font-weight:500;line-height:1.4;padding:8px 14px;pointer-events:none;
+    max-width:min(560px,92vw);text-align:center;box-shadow:0 4px 16px rgba(0,0,0,.35);
   }
-  .spot-tag b{font-weight:700}
-  /* produto no topo da página: a etiqueta desce para não ser cortada */
-  .spot-tag.abaixo{transform:translate(-50%,0);margin-top:10px}
+  .spot-tag b{font-weight:700;font-size:14px}
   .nav-btn{
     position:absolute;top:50%;transform:translateY(-50%);width:44px;height:44px;border-radius:50%;
     background:rgba(255,255,255,.94);box-shadow:0 2px 10px rgba(0,0,0,.25);
@@ -419,7 +422,6 @@
       <div class="zoomwrap" id="zoomWrap">
         <img id="vImg" alt="Página do encarte">
         <div class="spot" id="spot" hidden></div>
-        <div class="spot-tag" id="spotTag" hidden></div>
       </div>
       <button class="nav-btn prev" id="vPrev" aria-label="Página anterior">‹</button>
       <button class="nav-btn next" id="vNext" aria-label="Próxima página">›</button>
@@ -430,6 +432,8 @@
       <a class="iglink" id="vLink" target="_blank" rel="noopener">Ver no Instagram ↗</a>
     </div>
   </div>
+  <!-- fora do zoomwrap: a faixa não escala com o zoom nem é cortada pela imagem -->
+  <div class="spot-tag" id="spotTag" hidden></div>
 </div>
 
 <script>
@@ -929,7 +933,18 @@ let V = null; // {a, pg, prod}
 function openViewer(a, pg, prod){
   marcaVisto(a);
   // encarte antigo sem imagem embutida: abre o post original
-  if(!IMG[a.pgs[pg]]){ window.open(linkDe(a), '_blank'); render(); return; }
+  if(!IMG[a.pgs[pg]]){
+    // fotos ainda baixando em segundo plano: avisa em vez de mandar pro link
+    if(window.__fotosCarregando){
+      const av = document.createElement('div');
+      av.style.cssText = 'position:fixed;left:50%;bottom:70px;transform:translateX(-50%);z-index:90;background:#0d0d0d;color:#fff;font-size:13px;border-radius:12px;padding:9px 16px';
+      av.textContent = 'As fotos ainda estão baixando — tente de novo em instantes';
+      document.body.appendChild(av);
+      setTimeout(() => av.remove(), 2500);
+      return;
+    }
+    window.open(linkDe(a), '_blank'); render(); return;
+  }
   V = {a, pg, prod};
   $('vAvatar').textContent = initials(a.banner);
   $('vBanner').textContent = a.banner;
@@ -957,34 +972,31 @@ function drawPage(){
   });
   const s = $('spot'), t = $('spotTag');
   if(prod){
-    s.hidden = t.hidden = false;
-    // FOLGA: a posição extraída da imagem é aproximada; a marcação ganha uma
-    // margem para envolver o produto mesmo quando a caixa veio um pouco torta
-    const FX = 2.5, FY = 2;
-    const x = Math.max(0, (prod.x||0) - FX), y = Math.max(0, (prod.y||0) - FY);
-    const w = Math.min(100 - x, (prod.w||0) + 2*FX), h = Math.min(100 - y, (prod.h||0) + 2*FY);
-    s.style.left = x+'%'; s.style.top = y+'%';
-    s.style.width = w+'%'; s.style.height = h+'%';
-    t.innerHTML = `${esc(prod.n)} — <b>R$ ${esc(prod.p)}</b>`;
-    // etiqueta: acima da marcação; produto no topo da página -> desce para
-    // baixo da marcação (senão a borda da imagem cortaria a etiqueta)
-    const noTopo = y < 9;
-    t.classList.toggle('abaixo', noTopo);
-    t.style.top = (noTopo ? y + h : y)+'%';
-    // centraliza na marcação SEM sair da tela: mede a largura real da
-    // etiqueta e prende o centro dentro da área visível. A medição roda no
-    // quadro seguinte: na ABERTURA do visor este código executa antes de o
-    // overlay ficar visível (largura ainda é 0 e a conta sairia errada)
-    t.style.left = '50%';
-    const posiciona = () => {
-      if(t.hidden) return;
-      const wrapW = $('zoomWrap').clientWidth;
-      if(!wrapW){ requestAnimationFrame(posiciona); return; }
-      const meio = Math.round((x + w/2) / 100 * wrapW);
-      const metade = Math.ceil(t.offsetWidth / 2);
-      t.style.left = Math.min(Math.max(meio, metade + 6), wrapW - metade - 6) + 'px';
-    };
-    requestAnimationFrame(posiciona);
+    // faixa fixa na base da tela: preço primeiro (nunca cortado), nome depois
+    t.hidden = false;
+    t.innerHTML = `<b>R$ ${esc(prod.p)}</b> · ${esc(prod.n)}${prod.u ? ` <span style="opacity:.75">${esc(prod.u)}</span>` : ''}`;
+    const temPos = (prod.w||0) > 0 && (prod.h||0) > 0;
+    if(temPos){
+      s.hidden = false;
+      // FOLGA: a posição extraída da imagem é aproximada; a marcação ganha
+      // margem para envolver o produto mesmo quando a caixa veio um pouco torta
+      const FX = 2.5, FY = 2;
+      const x = Math.max(0, prod.x - FX), y = Math.max(0, prod.y - FY);
+      const w = Math.min(100 - x, prod.w + 2*FX), h = Math.min(100 - y, prod.h + 2*FY);
+      s.style.left = x+'%'; s.style.top = y+'%';
+      s.style.width = w+'%'; s.style.height = h+'%';
+      // ABRE JÁ AMPLIADO em cima do produto: numa página lotada (celular,
+      // principalmente) a marcação sem zoom fica minúscula e ilegível.
+      // Um toque na imagem volta ao tamanho normal, como no zoom manual.
+      const wrap = $('zoomWrap'), stg = $('stage');
+      wrap.style.transformOrigin = `${x + w/2}% ${y + h/2}%`;
+      wrap.style.transform = 'scale(2.2)';
+      stg.classList.add('zoom');
+      // páginas mais altas que a tela: rola até a marcação ficar visível
+      requestAnimationFrame(() => { if(!s.hidden) s.scrollIntoView({block:'center'}); });
+    } else {
+      s.hidden = true;  // produto antigo sem posição: só a faixa com o preço
+    }
   } else { s.hidden = t.hidden = true; }
 }
 function resetZoom(){
@@ -1053,6 +1065,79 @@ atualizaChip();
 
 renderFontes();
 render();
+
+/* ---------- fotos em segundo plano (só no site publicado) ----------
+   No site, o miolo chega SEM as fotos (o gera_gate.py separa o bloco IMG num
+   imagens.enc próprio): a pessoa entra em segundos e as fotos vão chegando.
+   No arquivo local (file://) as fotos já vêm embutidas e nada disso roda. */
+window.__fotosCarregando = false;
+(async () => {
+  if(Object.keys(IMG).length) return;               // fotos já embutidas
+  if(!/^https?:$/.test(location.protocol)) return;  // uso local
+  let senha = window.__senhaPainel || '';
+  if(!senha){
+    try{ const o = JSON.parse(localStorage.getItem('painel_senha')); if(o && typeof o.s === 'string') senha = o.s; }catch(e){}
+  }
+  if(!senha || !crypto.subtle) return;
+  window.__fotosCarregando = true;
+  const chip = document.createElement('div');
+  chip.style.cssText = 'position:fixed;left:14px;bottom:14px;z-index:80;background:#0d0d0d;color:#fff;font-size:12px;border-radius:999px;padding:6px 12px;opacity:.88;pointer-events:none';
+  chip.textContent = 'Baixando as fotos…';
+  document.body.appendChild(chip);
+  try{
+    // o cache comum do navegador NÃO guarda arquivos deste tamanho (limite
+    // por item) — então guardamos as fotos no depósito Cache API e fazemos a
+    // pergunta "mudou?" (If-None-Match) na mão: não mudou -> usa o guardado
+    // na hora; mudou -> baixa a versão nova e regrava o depósito.
+    let deposito = null, guardado = null;
+    try{
+      deposito = await caches.open('painel-fotos');
+      guardado = await deposito.match('imagens.enc');
+    }catch(e){}
+    const cab = {};
+    if(guardado && guardado.headers.get('ETag')) cab['If-None-Match'] = guardado.headers.get('ETag');
+    const resp = await fetch('imagens.enc', {cache:'no-store', headers: cab});
+    let blob;
+    if(resp.status === 304 && guardado){
+      chip.textContent = 'Abrindo as fotos guardadas…';
+      blob = new Uint8Array(await guardado.arrayBuffer());
+    } else {
+      if(!resp.ok) throw new Error('rede');
+      const total = +resp.headers.get('content-length') || 0;
+      const chunks = []; let got = 0;
+      const reader = resp.body.getReader();
+      while(true){
+        const {done, value} = await reader.read();
+        if(done) break;
+        chunks.push(value); got += value.length;
+        if(total) chip.textContent = `Baixando as fotos… ${Math.round(100*got/total)}%`;
+      }
+      blob = new Uint8Array(got); let o = 0;
+      for(const c of chunks){ blob.set(c, o); o += c.length; }
+      if(deposito){
+        try{
+          await deposito.put('imagens.enc', new Response(blob.slice().buffer,
+            {headers: {'ETag': resp.headers.get('ETag') || '', 'Content-Type': 'application/octet-stream'}}));
+        }catch(e){}
+      }
+    }
+    if(blob.length < 37 || new TextDecoder().decode(blob.slice(0,4)) !== 'ENC1') throw new Error('formato');
+    const salt = blob.slice(4,20), iv = blob.slice(20,36), dados = blob.slice(36);
+    const km = await crypto.subtle.importKey('raw', new TextEncoder().encode(senha), 'PBKDF2', false, ['deriveKey']);
+    /* 300000 iterações: casado com ITERACOES do gera_gate.py */
+    const key = await crypto.subtle.deriveKey({name:'PBKDF2', salt, iterations:300000, hash:'SHA-256'}, km, {name:'AES-CBC', length:256}, false, ['decrypt']);
+    const plano = await crypto.subtle.decrypt({name:'AES-CBC', iv}, key, dados);
+    Object.assign(IMG, JSON.parse(new TextDecoder().decode(plano)));
+    window.__fotosCarregando = false;
+    chip.remove();
+    const y = window.scrollY; render(); window.scrollTo(0, y);
+    if(V) drawPage();  // visor aberto ganha a foto na hora
+  }catch(e){
+    window.__fotosCarregando = false;
+    chip.textContent = 'Fotos indisponíveis — recarregue a página para tentar de novo';
+    setTimeout(() => chip.remove(), 8000);
+  }
+})();
 </script>
 <!--LOGS-INI-->
 <style>

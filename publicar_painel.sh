@@ -129,9 +129,9 @@ except Exception:
 fi
 SITE_ID="$(cat "$SITE_FILE")"
 
-# ---- porta com senha + painel criptografado ----
+# ---- porta com senha + painel criptografado (miolo + fotos separadas) ----
 python3 "$BASE/gera_gate.py" "$PAINEL" "$TMP" "$SENHA_FILE"
-(cd "$TMP" && zip -q site.zip index.html painel.enc)
+(cd "$TMP" && zip -q site.zip index.html painel.enc imagens.enc)
 
 # ---- publica ----
 RESP=$("${CURL[@]}" --max-time 900 -X POST "$API/sites/$SITE_ID/deploys" \
