@@ -22,12 +22,14 @@
  {
   "username": "superfacilatacado",
   "banner": "SuperFácil Atacado",
-  "segmento": "atacarejo"
+  "segmento": "atacarejo",
+  "regra": "Só monitoramos o RN. Se a legenda ou as páginas do encarte indicarem que a oferta é de João Pessoa/PB (ou de qualquer loja/unidade fora do RN), DESCARTE o post."
  },
  {
   "username": "superfacilvaledosol",
   "banner": "SuperFácil Vale do Sol",
-  "segmento": "atacarejo"
+  "segmento": "atacarejo",
+  "regra": "Só monitoramos o RN. Se a legenda ou as páginas do encarte indicarem que a oferta é de João Pessoa/PB (ou de qualquer loja/unidade fora do RN), DESCARTE o post."
  },
  {
   "username": "marvermelhoatacado",

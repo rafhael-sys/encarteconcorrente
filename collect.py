@@ -152,13 +152,18 @@ def processa_perfil(p, seen, fila, status, agora):
             if files:
                 if len(files) < len(urls):
                     print(f'[aviso] {sc}: só {len(files)}/{len(urls)} páginas baixaram', file=sys.stderr)
-                fila.append({
+                item = {
                     'shortcode': sc, 'perfil': user, 'banner': p['banner'],
                     'segmento': p['segmento'], 'caption': cap,
                     'taken_at': n['taken_at_timestamp'],
                     'carrossel': bool(kids), 'paginas': files,
                     'coletado_em': datetime.date.today().isoformat(),
-                })
+                }
+                # regra opcional do perfil (ex.: SuperFácil ignora ofertas de
+                # João Pessoa/PB) — vai junto para a análise decidir descartar.
+                if p.get('regra'):
+                    item['regra'] = p['regra']
+                fila.append(item)
                 novos += 1
                 seen.add(sc)
             else:
