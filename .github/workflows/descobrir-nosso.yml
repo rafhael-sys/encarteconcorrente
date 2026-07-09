@@ -5,7 +5,7 @@ name: TEMP descobrir nosso atacarejo
 on:
   push:
     branches: [claude/add-competitors-instagram-site-v2g8dw]
-    paths: ['.github/workflows/descobrir-nosso.yml', 'tools/descobrir_nosso.js']
+    paths: ['.github/workflows/descobrir-nosso.yml', 'tools/descobrir_nosso.js', 'tools/descobrir_nosso2.py']
 jobs:
   descobrir:
     runs-on: ubuntu-latest
@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: '22'
       - run: cd tools && (npm ci || npm install)
-      - name: Sondar página do encarte
-        run: node tools/descobrir_nosso.js 'https://www.nossoatacarejo.com.br/encarte/quarta-e-quinta-rn/5'
-      - name: Sondar página inicial
-        run: node tools/descobrir_nosso.js 'https://www.nossoatacarejo.com.br/'
+      - name: Sondar via curl (HTML embutido)
+        run: python3 tools/descobrir_nosso2.py
+      - name: Sondar via navegador (seletor de loja)
+        run: node tools/descobrir_nosso.js

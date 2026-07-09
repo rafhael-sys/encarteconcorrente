@@ -1,18 +1,17 @@
 #!/usr/bin/env node
-/* TEMPORÁRIO — descoberta da API do nossoatacarejo.com.br.
-   Abre a página do encarte num Chrome real e imprime as chamadas de rede
-   (JSON/imagens) para entendermos de onde vêm as páginas do encarte.
-   Uso: node descobrir_nosso.js <url> */
+/* TEMPORÁRIO — sonda do nossoatacarejo.com.br (v2).
+   1) Na home: abre o seletor de loja, lista estados/cidades e confirma uma
+      loja do RN para descobrir a URL/lista de encartes da loja.
+   2) Na página do encarte: imprime os scripts embutidos com dados do flyer. */
 const { chromium } = require('playwright-core');
 
 (async () => {
-  const url = process.argv[2] || 'https://www.nossoatacarejo.com.br/encarte/quarta-e-quinta-rn/5';
   let browser;
   const guarda = setTimeout(async () => {
     console.error('[descobrir] tempo esgotado');
     if (browser) await browser.close().catch(() => {});
     process.exit(1);
-  }, 110000);
+  }, 150000);
   try {
     try {
       browser = await chromium.launch({ channel: 'chrome', headless: true });
@@ -21,30 +20,70 @@ const { chromium } = require('playwright-core');
     }
     const ctx = await browser.newContext({ locale: 'pt-BR', viewport: { width: 1366, height: 900 } });
     const page = await ctx.newPage();
-    const jsons = [];
     page.on('response', async (resp) => {
       const ct = (resp.headers()['content-type'] || '').toLowerCase();
-      const u = resp.url();
-      if (ct.includes('json') || /\/api\//i.test(u)) {
+      if (ct.includes('json')) {
         try {
-          const body = await resp.text();
-          jsons.push({ url: u, status: resp.status(), body: body.slice(0, 30000) });
+          console.log(`\nJSON ${resp.status()} ${resp.url()}`);
+          console.log((await resp.text()).slice(0, 20000));
         } catch (_) {}
-      } else if (ct.includes('image') && !/\.(svg|ico|png)(\?|$)/i.test(u)) {
-        console.log(`IMG ${resp.status()} ${u}`);
       }
     });
-    await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 }).catch(() => {});
-    await page.waitForTimeout(8000);
-    console.log('=== JSON/API RESPONSES ===');
-    for (const j of jsons) {
-      console.log(`\n--- ${j.status} ${j.url}`);
-      console.log(j.body);
+
+    console.log('##### HOME: seletor de loja');
+    await page.goto('https://www.nossoatacarejo.com.br/', { waitUntil: 'networkidle', timeout: 60000 }).catch(() => {});
+    await page.waitForTimeout(3000);
+    for (const sel of await page.$$('select')) {
+      console.log('SELECT html:', (await sel.evaluate((e) => e.outerHTML)).slice(0, 3000));
     }
-    console.log('\n=== IMGS RENDERIZADAS ===');
-    for (const src of await page.$$eval('img', (els) => els.map((e) => e.src))) console.log(src);
-    console.log('\n=== LINKS ===');
-    for (const h of await page.$$eval('a', (els) => els.map((e) => e.href))) console.log(h);
+    // se não houver <select>, mostra o HTML do modal para entender o componente
+    const modal = await page.$('[role=dialog], .modal, form');
+    if (modal) console.log('MODAL html:', (await modal.evaluate((e) => e.outerHTML)).slice(0, 6000));
+    // tenta escolher RN e a primeira cidade
+    try {
+      const selects = await page.$$('select');
+      if (selects.length >= 2) {
+        const ops = await selects[0].$$eval('option', (os) => os.map((o) => `${o.value}|${o.textContent}`));
+        console.log('ESTADOS:', ops.join(' ; '));
+        const rn = ops.find((o) => /rio grande do norte|(^|\|)RN/i.test(o));
+        if (rn) {
+          await selects[0].selectOption(rn.split('|')[0]);
+          await page.waitForTimeout(2500);
+          const cid = await selects[1].$$eval('option', (os) => os.map((o) => `${o.value}|${o.textContent}`));
+          console.log('CIDADES RN:', cid.join(' ; '));
+          const cidade = cid.find((o) => o.split('|')[0] !== '');
+          if (cidade) {
+            await selects[1].selectOption(cidade.split('|')[0]);
+            await page.waitForTimeout(1500);
+            const btn = await page.$('button:has-text("Confirmar")');
+            if (btn) {
+              await btn.click();
+              await page.waitForTimeout(6000);
+              console.log('URL após confirmar:', page.url());
+              console.log('LINKS após confirmar:');
+              for (const h of await page.$$eval('a', (els) => els.map((e) => e.href))) {
+                if (/encarte/i.test(h)) console.log(' ', h);
+              }
+              const htmlHome = await page.content();
+              const m = htmlHome.match(/.{200}flyers.{600}/gi) || [];
+              for (const t of m.slice(0, 6)) console.log('TRECHO flyers:', t.replace(/\n/g, ' ').slice(0, 800));
+            } else console.log('botão Confirmar não encontrado');
+          }
+        }
+      } else console.log(`só ${selects.length} <select> na home`);
+    } catch (e) {
+      console.log('interação com seletor falhou:', e.message);
+    }
+
+    console.log('\n##### PÁGINA DO ENCARTE: scripts embutidos');
+    await page.goto('https://www.nossoatacarejo.com.br/encarte/quarta-e-quinta-rn/5', { waitUntil: 'networkidle', timeout: 60000 }).catch(() => {});
+    await page.waitForTimeout(4000);
+    const html = await page.content();
+    for (const termo of ['flyer', 'valid', 'encarte']) {
+      const re = new RegExp(`.{200}${termo}.{600}`, 'gi');
+      const ms = html.match(re) || [];
+      for (const t of ms.slice(0, 6)) console.log(`TRECHO ${termo}:`, t.replace(/\n/g, ' ').slice(0, 820));
+    }
     await browser.close();
     clearTimeout(guarda);
     process.exit(0);
