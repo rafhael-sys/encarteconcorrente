@@ -123,7 +123,11 @@ const $ = id => document.getElementById(id);
 let encCache = null;
 async function baixar(){
   if(encCache) return encCache;
-  const resp = await fetch('painel.enc', {cache:'no-store'});
+  /* 'no-cache' (e não 'no-store'): o navegador PERGUNTA ao servidor se o
+     painel mudou. Não mudou -> reusa o download anterior e abre na hora;
+     mudou -> baixa a versão nova. Nunca mostra painel velho, e as reaberturas
+     do dia deixam de baixar ~45 MB à toa. */
+  const resp = await fetch('painel.enc', {cache:'no-cache'});
   if(!resp.ok) throw new Error('rede');
   const total = +resp.headers.get('content-length') || 0;
   const chunks = []; let got = 0;

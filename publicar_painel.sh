@@ -24,6 +24,18 @@ LOCK="$BASE/data/.lock"
 PAINEL="$BASE/painel-encartes.html"
 API="https://api.netlify.com/api/v1"
 CURL=(curl -sS --connect-timeout 20)
+NOME_SITE="encartes-redemais"
+
+# Modo PRÉVIA (PUBLICAR_RASCUNHO=1): publica num site SEPARADO de teste
+# (encartes-redemais-teste) para conferir mudanças ANTES de irem ao site
+# oficial. Não toca no site oficial, no carimbo diário nem no horário
+# gravado em data/netlify_pub_em. Usado pelo workflow "Prévia do painel".
+RASCUNHO="${PUBLICAR_RASCUNHO:-0}"
+if (( RASCUNHO )); then
+  NOME_SITE="encartes-redemais-teste"
+  SITE_FILE="$BASE/data/netlify_site_id_teste"
+  URL_FILE="$BASE/data/netlify_url_teste"
+fi
 
 DIARIO=0
 [[ "${1:-}" == "--diario" ]] && DIARIO=1
@@ -100,12 +112,26 @@ except Exception:
 
 # ---- cria o site na primeira vez ----
 if [[ ! -s "$SITE_FILE" ]]; then
-  RESP=$("${CURL[@]}" --max-time 60 -X POST "$API/sites" \
-    -H "Authorization: Bearer $TOKEN" -H "Content-Type: application/json" \
-    -d '{"name":"encartes-redemais"}')
-  SITE_ID=$(echo "$RESP" | json_get id)
+  # o site pode já existir na conta (ex.: prévia criada numa execução anterior
+  # — o arquivo de id da prévia não é versionado): procura pelo nome antes
+  RESP=$("${CURL[@]}" --max-time 60 "$API/sites?name=$NOME_SITE" \
+    -H "Authorization: Bearer $TOKEN" || true)
+  SITE_ID=$(echo "$RESP" | python3 -c "
+import sys, json
+try:
+    sites = json.load(sys.stdin)
+    print(next((s['id'] for s in sites if s.get('name') == sys.argv[1]), ''))
+except Exception:
+    print('')" "$NOME_SITE")
   if [[ -z "$SITE_ID" ]]; then
+    RESP=$("${CURL[@]}" --max-time 60 -X POST "$API/sites" \
+      -H "Authorization: Bearer $TOKEN" -H "Content-Type: application/json" \
+      -d "{\"name\":\"$NOME_SITE\"}")
+    SITE_ID=$(echo "$RESP" | json_get id)
+  fi
+  if [[ -z "$SITE_ID" ]] && (( ! RASCUNHO )); then
     # nome ocupado ou erro recuperável: deixa o Netlify sortear um nome
+    # (só no site oficial; a prévia falha com aviso para não criar site a cada rodada)
     RESP=$("${CURL[@]}" --max-time 60 -X POST "$API/sites" \
       -H "Authorization: Bearer $TOKEN" -H "Content-Type: application/json" -d '{}')
     SITE_ID=$(echo "$RESP" | json_get id)
@@ -129,9 +155,14 @@ DEPLOY_ID=$(echo "$RESP" | json_get id)
 # deploy confirmado: o carimbo diário entra já, antes de qualquer passo opcional
 (( DIARIO )) && echo "$HOJE" > "$STAMP_FILE"
 # horário da versão no ar — a engrenagem do painel local mostra este valor
-date '+%Y-%m-%dT%H:%M' > "$BASE/data/netlify_pub_em"
+# (a PRÉVIA não grava: não representa o site oficial)
+(( RASCUNHO )) || date '+%Y-%m-%dT%H:%M' > "$BASE/data/netlify_pub_em"
 
 URL=$("${CURL[@]}" --max-time 60 "$API/sites/$SITE_ID" -H "Authorization: Bearer $TOKEN" | json_get ssl_url || true)
 [[ -n "$URL" ]] && echo "$URL" > "$URL_FILE"
 [[ -z "$URL" ]] && URL="$(cat "$URL_FILE" 2>/dev/null || echo '(URL indisponível agora — veja data/netlify_url mais tarde)')"
-echo "[netlify] painel publicado em $URL (protegido por senha)"
+if (( RASCUNHO )); then
+  echo "[netlify] PRÉVIA publicada em $URL (protegida por senha) — o site oficial NÃO foi alterado"
+else
+  echo "[netlify] painel publicado em $URL (protegido por senha)"
+fi

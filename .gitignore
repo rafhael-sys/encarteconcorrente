@@ -9,6 +9,9 @@ data/.pub_stamp
 data/.tentativas
 # backups pontuais criados pelos scripts — o histórico do git já é o backup
 data/*.bak-*
+# site de PRÉVIA (link de teste): id/url ficam só na máquina que publicou
+data/netlify_site_id_teste
+data/netlify_url_teste
 tools/node_modules/
 
 # artefatos do Python

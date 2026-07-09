@@ -71,8 +71,12 @@ def _recomprime(src, dst, zw, q, reduzir):
                 if im.mode not in ('RGB', 'L'):
                     im = im.convert('RGB')
                 if reduzir:
-                    im.thumbnail((zw, zw))
-                im.save(dst, 'JPEG', quality=int(q))
+                    # LANCZOS: redução mais nítida que o padrão (textos pequenos)
+                    im.thumbnail((zw, zw), _PILImage.Resampling.LANCZOS)
+                # qualidade alta (vigentes) também desliga o "borrão de cor"
+                # do JPEG (subsampling): preços pequenos vermelhos ficam nítidos
+                im.save(dst, 'JPEG', quality=int(q), optimize=True,
+                        subsampling=0 if int(q) >= 80 else 2)
             return True
         except Exception:
             return False
@@ -115,7 +119,12 @@ with tempfile.TemporaryDirectory() as tmp:
                 # os preços pequenos. Então, para vigentes já dentro do teto, embutimos o
                 # JPEG ORIGINAL sem recomprimir; só reduzimos/recomprimimos o que passa do teto.
                 vig = a['fim'] >= datetime.date.today().isoformat()
-                zw, q = (1600, '80') if vig else (800, '45')
+                # vigentes: nitidez alta sem estourar o peso — originais até
+                # 1600px entram intactos; acima disso recompressão de qualidade
+                # (q85, LANCZOS, sem subsampling). Expirados recentes ficam bem
+                # leves (640px/q40): é consulta ocasional. Medido: o painel
+                # fica no MESMO peso de antes, mais nítido onde importa.
+                zw, q = (1600, '85') if vig else (640, '40')
                 # dimensões via Pillow (nuvem/Linux) — cai para sips no macOS.
                 # sem dimensão legível -> não redimensiona, só recomprime (nunca derruba o build)
                 lado_max = _img_lado_max(src)

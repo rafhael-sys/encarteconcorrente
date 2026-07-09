@@ -30,7 +30,9 @@ def main():
         pix = page.get_pixmap(matrix=fitz.Matrix(escala, escala), alpha=False)
         out = f'{prefixo}_p{i}.jpg'
         try:
-            pix.save(out, jpg_quality=72)
+            # 85: os encartes têm muito texto pequeno; 72 deixava os preços
+            # com "sujeira" de compressão visível no zoom
+            pix.save(out, jpg_quality=85)
         except TypeError:
             # versões antigas do PyMuPDF não aceitam jpg_quality
             pix.save(out)
