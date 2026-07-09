@@ -1056,7 +1056,8 @@
    "lm_fechames_p2#8",
    "lm_selecao_p1#24",
    "qz_ofertaco_p2#43",
-   "DaIrAZzljbN_p2#8"
+   "DaIrAZzljbN_p2#8",
+   "Dai5Aw-GzCL_p2#39"
   ]
  },
  {
@@ -2248,7 +2249,9 @@
   "n": "Linguiça de Frango Avivar kg Churrasco",
   "u": "kg",
   "m": [
-   "qz_vaibrasil_p2#26"
+   "qz_vaibrasil_p2#26",
+   "Dai4vkok2fJ_p2#43",
+   "Dai5Aw-GzCL_p2#42"
   ]
  },
  {
@@ -2957,7 +2960,8 @@
   "n": "Mini Coxinha Bom Todo Congelada 300g Sabores",
   "u": "pct",
   "m": [
-   "qz_ofertaco_p2#40"
+   "qz_ofertaco_p2#40",
+   "Dai5Aw-GzCL_p2#37"
   ]
  },
  {
@@ -3094,7 +3098,8 @@
   "u": "un",
   "m": [
    "qz_ofertaco_p3#16",
-   "Dad0eT1hOow_p1#10"
+   "Dad0eT1hOow_p1#10",
+   "Dai5Aw-GzCL_p3#12"
   ]
  },
  {
@@ -3539,7 +3544,8 @@
   "u": "kg",
   "m": [
    "sfvs_saojoao_p1#14",
-   "DaTjUhZmPIF_p2#9"
+   "DaTjUhZmPIF_p2#9",
+   "Dai9PfWgVcN_p1#13"
   ]
  },
  {
@@ -13786,31 +13792,10 @@
   ]
  },
  {
-  "n": "Batata Frita Easyfcher Congelado 2kg Tradicional",
-  "u": "un",
-  "m": [
-   "Dai5Aw-GzCL_p2#36"
-  ]
- },
- {
-  "n": "Mini Coxinha Bom Todo Congelado 300g Sabores",
-  "u": "un",
-  "m": [
-   "Dai5Aw-GzCL_p2#37"
-  ]
- },
- {
   "n": "Pão de Queijo Delícia Mineira 1kg Congelado Tradicional",
   "u": "un",
   "m": [
    "Dai5Aw-GzCL_p2#38"
-  ]
- },
- {
-  "n": "Salsicha Hot Dog Aviava KG",
-  "u": "kg",
-  "m": [
-   "Dai5Aw-GzCL_p2#39"
   ]
  },
  {
@@ -13825,13 +13810,6 @@
   "u": "un",
   "m": [
    "Dai5Aw-GzCL_p2#41"
-  ]
- },
- {
-  "n": "Linguiça de Frango Aviava KG Churrasco",
-  "u": "kg",
-  "m": [
-   "Dai5Aw-GzCL_p2#42"
   ]
  },
  {
@@ -13867,7 +13845,8 @@
   "n": "Queijo Jardineire Coalho/Manteiga Peça, Pedaço ou Mini KG",
   "u": "kg",
   "m": [
-   "Dai5Aw-GzCL_p2#49"
+   "Dai5Aw-GzCL_p2#49",
+   "Dai4vkok2fJ_p2#50"
   ]
  },
  {
@@ -13967,13 +13946,6 @@
   ]
  },
  {
-  "n": "Macarrão Espaguete Emperador 400g",
-  "u": "un (30% cartão)",
-  "m": [
-   "Dai5Aw-GzCL_p3#12"
-  ]
- },
- {
   "n": "Flocão São Braz Milho 500g",
   "u": "de R$ 1,49 (30% cartão)",
   "m": [
@@ -14047,7 +14019,8 @@
   "n": "Cerveja Lager Impero Puro Malte GF 355ml",
   "u": "un",
   "m": [
-   "Dai5Aw-GzCL_p3#25"
+   "Dai5Aw-GzCL_p3#25",
+   "Dai4vkok2fJ_p3#23"
   ]
  },
  {
@@ -14098,7 +14071,8 @@
   "n": "Cerveja Malzbeer Brahma GF 355ml",
   "u": "un",
   "m": [
-   "Dai5Aw-GzCL_p3#34"
+   "Dai5Aw-GzCL_p3#34",
+   "Dai4vkok2fJ_p3#30"
   ]
  },
  {
@@ -14198,7 +14172,8 @@
   "u": "2kg",
   "m": [
    "Dai4vkok2fJ_p2#37",
-   "DakkTIOgPd8_p3#0"
+   "DakkTIOgPd8_p3#0",
+   "Dai5Aw-GzCL_p2#36"
   ]
  },
  {
@@ -14230,13 +14205,6 @@
   ]
  },
  {
-  "n": "Linguiça de Frango Avinar Kg Churrasco",
-  "u": "kg",
-  "m": [
-   "Dai4vkok2fJ_p2#43"
-  ]
- },
- {
   "n": "Iogurte Natural Clan Leite Fermentado 180g",
   "u": "180g",
   "m": [
@@ -14255,13 +14223,6 @@
   "u": "3kg",
   "m": [
    "Dai4vkok2fJ_p2#49"
-  ]
- },
- {
-  "n": "Queijo Jardineira Coalho/Manteiga Peça, Pedaço ou Mini Kg",
-  "u": "kg",
-  "m": [
-   "Dai4vkok2fJ_p2#50"
   ]
  },
  {
@@ -14391,13 +14352,6 @@
   ]
  },
  {
-  "n": "Cerveja Lager Imperio Puro Malte GF 355ml",
-  "u": "355ml",
-  "m": [
-   "Dai4vkok2fJ_p3#23"
-  ]
- },
- {
   "n": "Suco Uva Casa Serra Garrafa 1,5L",
   "u": "1,5L",
   "m": [
@@ -14409,13 +14363,6 @@
   "u": "510ml",
   "m": [
    "Dai4vkok2fJ_p3#29"
-  ]
- },
- {
-  "n": "Cerveja Malzbier Brahma GF 355ml",
-  "u": "355ml",
-  "m": [
-   "Dai4vkok2fJ_p3#30"
   ]
  },
  {
@@ -14605,13 +14552,6 @@
   "u": "kg",
   "m": [
    "Dai9PfWgVcN_p1#10"
-  ]
- },
- {
-  "n": "Camarão Inteiro Camanor Congelado a Granel",
-  "u": "kg",
-  "m": [
-   "Dai9PfWgVcN_p1#13"
   ]
  },
  {

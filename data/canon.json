@@ -677,7 +677,8 @@
   "m": [
    "qz_ofertaco_p2#49",
    "sfvs_fechames_p1#15",
-   "DabRmxqHxTB_p2#48"
+   "DabRmxqHxTB_p2#48",
+   "Dai-_doAeIN_p2#11"
   ]
  },
  {
@@ -1057,7 +1058,8 @@
    "lm_selecao_p1#24",
    "qz_ofertaco_p2#43",
    "DaIrAZzljbN_p2#8",
-   "Dai5Aw-GzCL_p2#39"
+   "Dai5Aw-GzCL_p2#39",
+   "Dai4vkok2fJ_p2#40"
   ]
  },
  {
@@ -2119,7 +2121,8 @@
    "qz_vaibrasil_p2#2",
    "lm_selecao_p1#11",
    "Dag1cX2DH80_p2#7",
-   "DaL_0i6FvJN_p1#11"
+   "DaL_0i6FvJN_p1#11",
+   "Dai4vkok2fJ_p3#11"
   ]
  },
  {
@@ -2233,7 +2236,8 @@
    "qz_vaibrasil_p2#24",
    "lm_fechames_p1#7",
    "DaIrAZzljbN_p1#7",
-   "Dai5Aw-GzCL_p2#27"
+   "Dai5Aw-GzCL_p2#27",
+   "Dai4vkok2fJ_p2#28"
   ]
  },
  {
@@ -2305,13 +2309,6 @@
   "m": [
    "qz_vaibrasil_p2#39",
    "DabRmxqHxTB_p2#40"
-  ]
- },
- {
-  "n": "Queijo Jardinense Coalho ou Manteiga Peça, Pedaço ou Mini kg",
-  "u": "kg",
-  "m": [
-   "qz_vaibrasil_p2#40"
   ]
  },
  {
@@ -2849,13 +2846,6 @@
   ]
  },
  {
-  "n": "Carne Bovina Paleta com Osso",
-  "u": "kg",
-  "m": [
-   "qz_ofertaco_p2#22"
-  ]
- },
- {
   "n": "Coração Bovino Congelado kg",
   "u": "kg",
   "m": [
@@ -2939,7 +2929,8 @@
   "u": "bandeja",
   "m": [
    "qz_ofertaco_p2#37",
-   "Dai5Aw-GzCL_p2#33"
+   "Dai5Aw-GzCL_p2#33",
+   "Dai4vkok2fJ_p2#34"
   ]
  },
  {
@@ -2961,7 +2952,8 @@
   "u": "pct",
   "m": [
    "qz_ofertaco_p2#40",
-   "Dai5Aw-GzCL_p2#37"
+   "Dai5Aw-GzCL_p2#37",
+   "Dai4vkok2fJ_p2#38"
   ]
  },
  {
@@ -7953,7 +7945,8 @@
   "m": [
    "DabRmxqHxTB_p2#28",
    "DabRUA8jwaZ_p2#28",
-   "Dai5Aw-GzCL_p2#34"
+   "Dai5Aw-GzCL_p2#34",
+   "Dai4vkok2fJ_p2#35"
   ]
  },
  {
@@ -13704,7 +13697,8 @@
   "u": "kg",
   "m": [
    "Dai5Aw-GzCL_p2#21",
-   "Dai4vkok2fJ_p2#22"
+   "Dai4vkok2fJ_p2#22",
+   "qz_ofertaco_p2#22"
   ]
  },
  {
@@ -13846,7 +13840,8 @@
   "u": "kg",
   "m": [
    "Dai5Aw-GzCL_p2#49",
-   "Dai4vkok2fJ_p2#50"
+   "Dai4vkok2fJ_p2#50",
+   "qz_vaibrasil_p2#40"
   ]
  },
  {
@@ -14133,13 +14128,6 @@
   ]
  },
  {
-  "n": "Peito Frango Congelado Kg",
-  "u": "kg",
-  "m": [
-   "Dai4vkok2fJ_p2#28"
-  ]
- },
- {
   "n": "Frango Bom Todo c/ Miudos Cong Kg",
   "u": "kg",
   "m": [
@@ -14154,20 +14142,6 @@
   ]
  },
  {
-  "n": "Coração Frango Bom Todo 500g Bandeja",
-  "u": "500g",
-  "m": [
-   "Dai4vkok2fJ_p2#34"
-  ]
- },
- {
-  "n": "Coxinha Asa Jagua IQF 1kg",
-  "u": "1kg",
-  "m": [
-   "Dai4vkok2fJ_p2#35"
-  ]
- },
- {
   "n": "Batata Frita Easychef Congelado 2kg Tradicional",
   "u": "2kg",
   "m": [
@@ -14177,24 +14151,10 @@
   ]
  },
  {
-  "n": "Mini Coxinha Bom Todo Cong 300g Sabores",
-  "u": "300g",
-  "m": [
-   "Dai4vkok2fJ_p2#38"
-  ]
- },
- {
   "n": "Pão Queijo Delicia Mineira 1kg Cong Tradicional",
   "u": "1kg",
   "m": [
    "Dai4vkok2fJ_p2#39"
-  ]
- },
- {
-  "n": "Salsicha Hot Dog Avinar Kg",
-  "u": "kg",
-  "m": [
-   "Dai4vkok2fJ_p2#40"
   ]
  },
  {
@@ -14265,13 +14225,6 @@
   "u": "no app (de 8,99)",
   "m": [
    "Dai4vkok2fJ_p3#8"
-  ]
- },
- {
-  "n": "Flocão Milho Dona Clara 500g",
-  "u": "cartão Elo (de 1,59)",
-  "m": [
-   "Dai4vkok2fJ_p3#11"
   ]
  },
  {
@@ -14495,13 +14448,6 @@
   "u": "un",
   "m": [
    "Dai-_doAeIN_p2#10"
-  ]
- },
- {
-  "n": "Manteiga Itacolomy com Sal pt 500g",
-  "u": "un",
-  "m": [
-   "Dai-_doAeIN_p2#11"
   ]
  },
  {

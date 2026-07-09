@@ -85,18 +85,27 @@
 - MESMO: «Batata Frita Easyfcher Congelado 2kg Tradicional» == «Batata Frita Easychef Congelado 2kg Tradicional»
 - MESMO: «Camarão Inteiro Camanor Congelado a Granel kg» == «Camarão Inteiro Camanor Congelado a Granel»
 - MESMO: «Carne Bovina Dianteira de Sol» == «Carne Bovina Dianteira de Sol kg»
+- MESMO: «Carne Bovina Paleta com Osso» == «Carne Bovina Paleta com Osso KG»
 - MESMO: «Cerveja Lager Impero Puro Malte GF 355ml» == «Cerveja Lager Imperio Puro Malte GF 355ml»
 - MESMO: «Cerveja Malzbeer Brahma GF 355ml» == «Cerveja Malzbier Brahma GF 355ml»
+- MESMO: «Coração de Frango Bom Todo 500g Bandeja» == «Coração Frango Bom Todo 500g Bandeja»
+- MESMO: «Coxinha da asa Jaguá IQF 1kg» == «Coxinha Asa Jagua IQF 1kg»
 - MESMO: «Enxaguante Bucal Colgate Leve750 P500ml (Plax Fresh Mint - Odor Control)» == «Enxaguante Bucal Colgate Leve 750 Pague 500ml (Plax Fresh Mint / Odor Control)»
 - MESMO: «Filezinho Sassami Somave Congelado» == «Filezinho Sassami Somave Congelado kg»
+- MESMO: «Flocão de Milho Dona Clara 500g» == «Flocão Milho Dona Clara 500g»
 - MESMO: «Leite Condensado CCGL 395g» == «Leite Condensado CCGL TP 395g»
 - MESMO: «Linguiça de Frango Avivar kg Churrasco» == «Linguiça de Frango Aviava KG Churrasco»
 - MESMO: «Linguiça de Frango Avivar kg Churrasco» == «Linguiça de Frango Avinar Kg Churrasco»
 - MESMO: «Linguiça de Frango Avivar» == «Linguiça de Frango Avivar kg»
 - MESMO: «Macarrão Espaguete Imperador 400g» == «Macarrão Espaguete Emperador 400g»
+- MESMO: «Manteiga Itacolomy com Sal 500g» == «Manteiga Itacolomy com Sal pt 500g»
 - MESMO: «Milho Pipoca Vitaforte Premium 400g» == «Milho de Pipoca Vitaforte Premium 400g»
+- MESMO: «Mini Coxinha Bom Todo Congelada 300g Sabores» == «Mini Coxinha Bom Todo Cong 300g Sabores»
 - MESMO: «Mini Coxinha Bom Todo Congelada 300g Sabores» == «Mini Coxinha Bom Todo Congelado 300g Sabores»
 - MESMO: «Papel Toalha Scala c/2 200fls» == «Papel Toalha Scala Plus c/2 200fls»
+- MESMO: «Peito de Frango Congelado kg» == «Peito Frango Congelado Kg»
 - MESMO: «Queijo Jardineire Coalho/Manteiga Peça, Pedaço ou Mini KG» == «Queijo Jardineira Coalho/Manteiga Peça, Pedaço ou Mini Kg»
+- MESMO: «Queijo Jardinense Coalho ou Manteiga Peça, Pedaço ou Mini kg» == «Queijo Jardineire Coalho/Manteiga Peça, Pedaço ou Mini KG»
 - MESMO: «Salsicha Hot Dog Avivar kg» == «Salsicha Hot Dog Aviava KG»
+- MESMO: «Salsicha Hot Dog Avivar kg» == «Salsicha Hot Dog Avinar Kg»
 - MESMO: «Vinho Collina GF 750ml Sabores» == «Vinho Colina 750ml Sabores»

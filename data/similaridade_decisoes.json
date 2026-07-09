@@ -633,5 +633,68 @@
   "veredito": "mesmo",
   "quando": "2026-07-09",
   "aplicado": true
+ },
+ "salsicha hot dog avinar kg || salsicha hot dog avivar kg": {
+  "a": "Salsicha Hot Dog Avivar kg",
+  "b": "Salsicha Hot Dog Avinar Kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "coracao de frango bom todo 500g bandeja || coracao frango bom todo 500g bandeja": {
+  "a": "Coração de Frango Bom Todo 500g Bandeja",
+  "b": "Coração Frango Bom Todo 500g Bandeja",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "manteiga itacolomy com sal 500g || manteiga itacolomy com sal pt 500g": {
+  "a": "Manteiga Itacolomy com Sal 500g",
+  "b": "Manteiga Itacolomy com Sal pt 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "flocao de milho dona clara 500g || flocao milho dona clara 500g": {
+  "a": "Flocão de Milho Dona Clara 500g",
+  "b": "Flocão Milho Dona Clara 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "carne bovina paleta com osso || carne bovina paleta com osso kg": {
+  "a": "Carne Bovina Paleta com Osso",
+  "b": "Carne Bovina Paleta com Osso KG",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "peito de frango congelado kg || peito frango congelado kg": {
+  "a": "Peito de Frango Congelado kg",
+  "b": "Peito Frango Congelado Kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "coxinha asa jagua iqf 1kg || coxinha da asa jagua iqf 1kg": {
+  "a": "Coxinha da asa Jaguá IQF 1kg",
+  "b": "Coxinha Asa Jagua IQF 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "mini coxinha bom todo cong 300g sabores || mini coxinha bom todo congelada 300g sabores": {
+  "a": "Mini Coxinha Bom Todo Congelada 300g Sabores",
+  "b": "Mini Coxinha Bom Todo Cong 300g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "queijo jardineire coalho/manteiga peca, pedaco ou mini kg || queijo jardinense coalho ou manteiga peca, pedaco ou mini kg": {
+  "a": "Queijo Jardinense Coalho ou Manteiga Peça, Pedaço ou Mini kg",
+  "b": "Queijo Jardineire Coalho/Manteiga Peça, Pedaço ou Mini KG",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
  }
 }

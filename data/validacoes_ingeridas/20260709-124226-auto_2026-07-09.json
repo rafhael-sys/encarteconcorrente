@@ -1,0 +1,13 @@
+{
+ "validacoes": [
+  {"a": "Salsicha Hot Dog Avivar kg", "b": "Salsicha Hot Dog Avinar Kg", "veredito": "mesmo"},
+  {"a": "Coração de Frango Bom Todo 500g Bandeja", "b": "Coração Frango Bom Todo 500g Bandeja", "veredito": "mesmo"},
+  {"a": "Manteiga Itacolomy com Sal 500g", "b": "Manteiga Itacolomy com Sal pt 500g", "veredito": "mesmo"},
+  {"a": "Flocão de Milho Dona Clara 500g", "b": "Flocão Milho Dona Clara 500g", "veredito": "mesmo"},
+  {"a": "Carne Bovina Paleta com Osso", "b": "Carne Bovina Paleta com Osso KG", "veredito": "mesmo"},
+  {"a": "Peito de Frango Congelado kg", "b": "Peito Frango Congelado Kg", "veredito": "mesmo"},
+  {"a": "Coxinha da asa Jaguá IQF 1kg", "b": "Coxinha Asa Jagua IQF 1kg", "veredito": "mesmo"},
+  {"a": "Mini Coxinha Bom Todo Congelada 300g Sabores", "b": "Mini Coxinha Bom Todo Cong 300g Sabores", "veredito": "mesmo"},
+  {"a": "Queijo Jardinense Coalho ou Manteiga Peça, Pedaço ou Mini kg", "b": "Queijo Jardineire Coalho/Manteiga Peça, Pedaço ou Mini KG", "veredito": "mesmo"}
+ ]
+}
