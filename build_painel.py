@@ -37,6 +37,51 @@ corte = (datetime.date.today() - datetime.timedelta(days=JANELA_PAINEL_DIAS)).is
 ARQUIVO = os.path.join(DATA, 'arquivo', 'pages')
 os.makedirs(ARQUIVO, exist_ok=True)
 
+# --- redimensionamento de imagens: Pillow (multiplataforma, usado na nuvem).
+# Se o Pillow não estiver instalado, cai para o `sips` do macOS. ---
+try:
+    from PIL import Image as _PILImage
+    _HAS_PIL = True
+except Exception:
+    _HAS_PIL = False
+
+
+def _img_lado_max(src):
+    """Maior lado da imagem em px (0 se ilegível)."""
+    if _HAS_PIL:
+        try:
+            with _PILImage.open(src) as im:
+                return max(im.size)
+        except Exception:
+            return 0
+    g = subprocess.run(['sips', '-g', 'pixelWidth', '-g', 'pixelHeight', src],
+                       capture_output=True, text=True).stdout
+    dims = [int(ln.split()[-1]) for ln in g.splitlines()
+            if ln.split() and ln.split()[-1].isdigit() and 'pixel' in ln]
+    return max(dims, default=0)
+
+
+def _recomprime(src, dst, zw, q, reduzir):
+    """Grava dst como JPEG (qualidade q); reduz para no máx zw px de lado se
+    `reduzir`. Devolve True se gerou o arquivo. Pillow, com sips (macOS) de
+    reserva — nunca derruba o build."""
+    if _HAS_PIL:
+        try:
+            with _PILImage.open(src) as im:
+                if im.mode not in ('RGB', 'L'):
+                    im = im.convert('RGB')
+                if reduzir:
+                    im.thumbnail((zw, zw))
+                im.save(dst, 'JPEG', quality=int(q))
+            return True
+        except Exception:
+            return False
+    cmd = ['sips', '-s', 'format', 'jpeg', '-s', 'formatOptions', str(q), src, '--out', dst]
+    if reduzir:
+        cmd[1:1] = ['-Z', str(zw)]
+    r = subprocess.run(cmd, capture_output=True)
+    return r.returncode == 0 and os.path.exists(dst)
+
 data_actions, images = [], {}
 with tempfile.TemporaryDirectory() as tmp:
     for a in actions:
@@ -71,12 +116,9 @@ with tempfile.TemporaryDirectory() as tmp:
                 # JPEG ORIGINAL sem recomprimir; só reduzimos/recomprimimos o que passa do teto.
                 vig = a['fim'] >= datetime.date.today().isoformat()
                 zw, q = (1600, '80') if vig else (800, '45')
-                g = subprocess.run(['sips', '-g', 'pixelWidth', '-g', 'pixelHeight', src],
-                                   capture_output=True, text=True).stdout
-                dims = [int(ln.split()[-1]) for ln in g.splitlines()
-                        if ln.split() and ln.split()[-1].isdigit() and 'pixel' in ln]
+                # dimensões via Pillow (nuvem/Linux) — cai para sips no macOS.
                 # sem dimensão legível -> não redimensiona, só recomprime (nunca derruba o build)
-                lado_max = max(dims, default=0)
+                lado_max = _img_lado_max(src)
                 usou_original = False
                 if vig and 0 < lado_max <= zw:
                     with open(src, 'rb') as f:
@@ -86,15 +128,10 @@ with tempfile.TemporaryDirectory() as tmp:
                         usou_original = True
                 if not usou_original:
                     small = os.path.join(tmp, fname)
-                    cmd = ['sips', '-s', 'format', 'jpeg', '-s', 'formatOptions', q,
-                           src, '--out', small]
-                    if lado_max > zw:
-                        cmd[1:1] = ['-Z', str(zw)]
-                    r = subprocess.run(cmd, capture_output=True)
-                    if r.returncode == 0 and os.path.exists(small):
+                    if _recomprime(src, small, zw, q, lado_max > zw):
                         images[pid] = 'data:image/jpeg;base64,' + base64.b64encode(open(small, 'rb').read()).decode()
                     else:
-                        print(f'[aviso] sips falhou em {fname}; página fica sem imagem embutida', file=sys.stderr)
+                        print(f'[aviso] recompressão falhou em {fname}; página fica sem imagem embutida', file=sys.stderr)
             page_ids.append(pid)
         if page_ids:
             data_actions.append({'id': a['id'], 'banner': a['banner'], 'perfil': a['perfil'],

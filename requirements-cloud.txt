@@ -1,0 +1,5 @@
+# Dependências Python para rodar a rotina na nuvem (GitHub Actions / Linux).
+# No Mac elas não são necessárias (o projeto usa sips/pdf2jpg nativos), mas
+# instalá-las também não atrapalha.
+PyMuPDF>=1.24      # converte o PDF do Atacadão em JPG (substitui pdf2jpg.swift)
+Pillow>=10         # redimensiona as imagens do painel (substitui o sips do macOS)

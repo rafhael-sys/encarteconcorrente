@@ -22,7 +22,12 @@ const { chromium } = require('playwright-core');
     process.exit(1);
   }, 110000);
   try {
-    browser = await chromium.launch({ channel: 'chrome', headless: true });
+    // macOS: usa o Chrome instalado; nuvem/Linux: cai para o Chromium empacotado
+    try {
+      browser = await chromium.launch({ channel: 'chrome', headless: true });
+    } catch (_) {
+      browser = await chromium.launch({ headless: true });
+    }
     const ctx = await browser.newContext({
       locale: 'pt-BR',
       viewport: { width: 1366, height: 900 },

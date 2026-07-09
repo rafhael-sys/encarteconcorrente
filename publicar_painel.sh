@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/usr/bin/env bash
 # Publica o painel no Netlify protegido por senha — só precisa de curl, zip e python3.
 #
 # O que sobe: index.html (página que pede a senha) + painel.enc (painel
@@ -41,15 +41,30 @@ echo "=== $(date '+%Y-%m-%d %H:%M') publicação (Netlify) ==="
 # for mais novo que a última publicação (coleta falhando há dias, painel de
 # ontem à tarde nunca publicado), publica assim mesmo: melhor a versão de
 # ontem do que deixar a equipe presa numa ainda mais velha.
-PAINEL_DIA=$(stat -f %Sm -t %Y-%m-%d "$PAINEL" 2>/dev/null || echo "1970-01-01")
+# data de modificação do painel, portátil (GNU stat no Linux, BSD stat no macOS)
+PAINEL_DIA=$(stat -c %y "$PAINEL" 2>/dev/null | cut -d' ' -f1)
+[[ -n "$PAINEL_DIA" ]] || PAINEL_DIA=$(stat -f %Sm -t %Y-%m-%d "$PAINEL" 2>/dev/null)
+[[ -n "$PAINEL_DIA" ]] || PAINEL_DIA="1970-01-01"
 ULT_PUB=$(cat "$STAMP_FILE" 2>/dev/null || echo "1970-01-01")
 if (( DIARIO )) && [[ "$PAINEL_DIA" != "$HOJE" ]] && [[ ! "$PAINEL_DIA" > "$ULT_PUB" ]]; then
   echo "[netlify] painel ainda não foi gerado hoje — publicação fica para a próxima janela"
   exit 0
 fi
-[[ -s "$TOKEN_FILE" ]] || { echo "[netlify] token não encontrado em $TOKEN_FILE"; exit 1; }
-[[ -s "$SENHA_FILE" ]] || { echo "[netlify] senha não encontrada em $SENHA_FILE — não publico sem proteção"; exit 1; }
-TOKEN="$(tr -d '[:space:]' < "$TOKEN_FILE")"
+# credenciais: dos arquivos locais (macOS) OU das variáveis de ambiente (nuvem)
+if [[ -s "$TOKEN_FILE" ]]; then
+  TOKEN="$(tr -d '[:space:]' < "$TOKEN_FILE")"
+elif [[ -n "${NETLIFY_TOKEN:-}" ]]; then
+  TOKEN="$(printf '%s' "$NETLIFY_TOKEN" | tr -d '[:space:]')"
+else
+  echo "[netlify] token não encontrado (nem $TOKEN_FILE nem \$NETLIFY_TOKEN)"; exit 1
+fi
+if [[ ! -s "$SENHA_FILE" ]]; then
+  if [[ -n "${PAINEL_SENHA:-}" ]]; then
+    SENHA_FILE="$(mktemp)"; printf '%s' "$PAINEL_SENHA" > "$SENHA_FILE"
+  else
+    echo "[netlify] senha não encontrada (nem $SENHA_FILE nem \$PAINEL_SENHA) — não publico sem proteção"; exit 1
+  fi
+fi
 
 # trava compartilhada com run_daily.sh: nunca ler o painel enquanto a rotina
 # pode estar reescrevendo-o. Quando o run_daily nos chama, ele já segura a
@@ -75,7 +90,7 @@ limpa(){ rm -rf "$TMP"; (( TRAVA_MINHA )) && [[ "$(cat "$LOCK/dono" 2>/dev/null)
 trap limpa EXIT
 
 json_get() {  # json_get <campo> — lê um campo do JSON no stdin; vazio se não for JSON
-  /usr/bin/python3 -c "
+  python3 -c "
 import sys, json
 try:
     print(json.load(sys.stdin).get('$1') or '')
@@ -101,8 +116,8 @@ fi
 SITE_ID="$(cat "$SITE_FILE")"
 
 # ---- porta com senha + painel criptografado ----
-/usr/bin/python3 "$BASE/gera_gate.py" "$PAINEL" "$TMP" "$SENHA_FILE"
-(cd "$TMP" && /usr/bin/zip -q site.zip index.html painel.enc)
+python3 "$BASE/gera_gate.py" "$PAINEL" "$TMP" "$SENHA_FILE"
+(cd "$TMP" && zip -q site.zip index.html painel.enc)
 
 # ---- publica ----
 RESP=$("${CURL[@]}" --max-time 900 -X POST "$API/sites/$SITE_ID/deploys" \

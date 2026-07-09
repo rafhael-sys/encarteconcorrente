@@ -150,7 +150,27 @@ def html_via_navegador(url, seletor):
 
 ATACADAO_LOJA = 'https://www.atacadao.com.br/loja/natal-sul'
 ATACADAO_PDF = 'https://apigw.cloud.carrefour.com.br/api-middleware-flyer-services/api/v2/Flyer/?id={fid}'
-PDF2JPG = os.path.join(BASE, 'tools', 'pdf2jpg')
+
+
+def pdf_para_jpg(pdf, prefixo, largura=1400):
+    """Converte um PDF em JPGs (prefixo_pN.jpg) e devolve os caminhos gerados.
+    No macOS usa o binário nativo tools/pdf2jpg (Swift); na nuvem/Linux usa o
+    conversor Python tools/pdf2jpg.py (PyMuPDF). Devolve [] se nada converteu."""
+    nativo = os.path.join(BASE, 'tools', 'pdf2jpg')
+    tentativas = []
+    if sys.platform == 'darwin' and os.path.exists(nativo) and os.access(nativo, os.X_OK):
+        tentativas.append([nativo, pdf, prefixo, str(largura)])
+    tentativas.append([sys.executable, os.path.join(BASE, 'tools', 'pdf2jpg.py'),
+                       pdf, prefixo, str(largura)])
+    for cmd in tentativas:
+        try:
+            r = sh(cmd, timeout=120)
+            linhas = [ln for ln in r.stdout.strip().splitlines() if ln.strip()]
+            if r.returncode == 0 and linhas:
+                return linhas
+        except subprocess.SubprocessError:
+            continue
+    return []
 
 
 def coleta_atacadao(seen, fila):
@@ -201,8 +221,10 @@ def coleta_atacadao(seen, fila):
             sh(['curl', '-sL', '-A', UA, '-o', pdf, ATACADAO_PDF.format(fid=fid)])
             if os.path.getsize(pdf) < 10000 or open(pdf, 'rb').read(5) != b'%PDF-':
                 raise ValueError('PDF inválido')
-            conv = sh([PDF2JPG, pdf, os.path.join(PAGES, aid), '1400'])
-            files = [os.path.basename(ln) for ln in conv.stdout.strip().splitlines() if ln.strip()]
+            linhas = pdf_para_jpg(pdf, os.path.join(PAGES, aid), 1400)
+            files = [os.path.basename(ln) for ln in linhas]
+            if not files:
+                raise ValueError('conversão do PDF não gerou páginas')
         except Exception as e:
             print(f'[aviso] atacadao {nome}: {e}; fica para a próxima', file=sys.stderr)
             continue
