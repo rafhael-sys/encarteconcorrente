@@ -10,10 +10,18 @@ BASE="$(cd "$(dirname "$0")" && pwd)"
 cd "$BASE"
 export HOJE="$(date +%Y-%m-%d)"
 
-# Autenticação do Claude: usa o que estiver disponível. Se um dos tokens vier
-# vazio (secret não cadastrado), remove-o para não atrapalhar o outro — o Claude
-# Code prioriza ANTHROPIC_API_KEY mesmo quando vazia, o que quebraria o uso do
-# CLAUDE_CODE_OAUTH_TOKEN (plano Max, gratuito).
+# --- Autenticação do Claude, tolerante a segredo com nome trocado ---
+# Se o token do Max (sk-ant-oat...) foi colado no segredo ANTHROPIC_API_KEY por
+# engano, movemos para o slot correto (e vice-versa, se uma chave de API acabou
+# no slot do OAuth). Assim funciona independente de onde o token foi colado.
+case "${ANTHROPIC_API_KEY:-}" in
+  sk-ant-oat*) export CLAUDE_CODE_OAUTH_TOKEN="$ANTHROPIC_API_KEY"; unset ANTHROPIC_API_KEY ;;
+esac
+case "${CLAUDE_CODE_OAUTH_TOKEN:-}" in
+  sk-ant-api*) export ANTHROPIC_API_KEY="$CLAUDE_CODE_OAUTH_TOKEN"; unset CLAUDE_CODE_OAUTH_TOKEN ;;
+esac
+# Remove o que estiver vazio para não atrapalhar o outro — o Claude Code
+# prioriza ANTHROPIC_API_KEY mesmo quando em branco.
 if [ -z "${ANTHROPIC_API_KEY:-}" ]; then unset ANTHROPIC_API_KEY; fi
 if [ -z "${CLAUDE_CODE_OAUTH_TOKEN:-}" ]; then unset CLAUDE_CODE_OAUTH_TOKEN; fi
 
