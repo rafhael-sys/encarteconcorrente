@@ -24,6 +24,13 @@ UA = ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 '
       '(KHTML, like Gecko) Chrome/126.0 Safari/537.36')
 APP_ID = '936619743392459'
 
+# Proxy SÓ para o Instagram (opcional): se o segredo IG_PROXY existir no
+# GitHub (formato http://usuario:senha@host:porta, de um proxy residencial),
+# todo o tráfego do Instagram sai por ele — IP "de casa" sofre muito menos
+# rate-limit que o IP de servidor do GitHub. Sem o segredo, conexão direta.
+PROXY = os.environ.get('IG_PROXY', '').strip()
+PROXY_ARGS = ['-x', PROXY] if PROXY else []
+
 # legenda que sugere ação de encarte/oferta com produto
 KEYWORDS = re.compile(
     r'encarte|oferta|ofertaço|promoç|válid[ao]s?\s|feirão|festival|fecha\s*m[êe]s|'
@@ -61,7 +68,7 @@ def fetch_profile(username, tentativas=4):
     ultimo = None
     for t in range(1, tentativas + 1):
         try:
-            r = sh(['curl', '-sk', '--compressed', '-A', UA,
+            r = sh(['curl', '-sk', '--compressed', '-A', UA, *PROXY_ARGS,
                     '-H', f'x-ig-app-id: {APP_ID}',
                     f'https://i.instagram.com/api/v1/users/web_profile_info/?username={username}'])
             u = json.loads(r.stdout)['data']['user']
@@ -80,7 +87,7 @@ def fetch_profile(username, tentativas=4):
 def download(url, path):
     """True somente se baixou uma imagem plausível; nunca deixa lixo para trás."""
     try:
-        sh(['curl', '-sk', '--compressed', '-A', UA,
+        sh(['curl', '-sk', '--compressed', '-A', UA, *PROXY_ARGS,
             '-H', 'Accept: image/avif,image/webp,image/*,*/*;q=0.8',
             '-H', 'Referer: https://www.instagram.com/', '-o', path, url])
         if os.path.getsize(path) < 1024:
