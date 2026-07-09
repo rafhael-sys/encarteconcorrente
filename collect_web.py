@@ -228,9 +228,11 @@ def coleta_atacadao(seen, fila):
             sh(['curl', '-sL', '-A', UA, '-o', pdf, ATACADAO_PDF.format(fid=fid)])
             if os.path.getsize(pdf) < 10000 or open(pdf, 'rb').read(5) != b'%PDF-':
                 raise ValueError('PDF inválido')
-            # 2000px: o PDF é vetorial — renderizar maior dá nitidez real aos
-            # preços pequenos (o painel embute vigentes até 2000px sem recomprimir)
-            linhas = pdf_para_jpg(pdf, os.path.join(PAGES, aid), 2000)
+            # 1600px: o PDF é vetorial — renderizar maior que os antigos 1400px
+            # dá nitidez real aos preços pequenos, e 1600 é EXATAMENTE o teto de
+            # embutir-intacto do build_painel.py: a página entra no painel sem
+            # segunda recompressão (mudar um dos dois exige mudar o outro)
+            linhas = pdf_para_jpg(pdf, os.path.join(PAGES, aid), 1600)
             files = [os.path.basename(ln) for ln in linhas]
             if not files:
                 raise ValueError('conversão do PDF não gerou páginas')

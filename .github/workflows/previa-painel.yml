@@ -46,23 +46,28 @@ jobs:
       - name: Gerar o painel e publicar a PRÉVIA
         id: previa
         run: |
+          if [ -z "${NETLIFY_TOKEN:-}" ] || [ -z "${PAINEL_SENHA:-}" ]; then
+            # PR vindo de fork não recebe os segredos: pula em vez de falhar
+            echo "url=indisponível (segredos ausentes nesta execução)" >> "$GITHUB_OUTPUT"
+            echo "[aviso] sem NETLIFY_TOKEN/PAINEL_SENHA — prévia pulada"
+            exit 0
+          fi
           python3 build_painel.py
           ENCARTES_LOCK_HERDADA=1 PUBLICAR_RASCUNHO=1 bash publicar_painel.sh
           echo "url=$(cat data/netlify_url_teste 2>/dev/null || echo indisponivel)" >> "$GITHUB_OUTPUT"
 
-      - name: Comentar o link de teste no PR
+      - name: Comentar o link de teste no PR (atualiza o comentário anterior)
         if: github.event_name == 'pull_request'
-        uses: actions/github-script@v7
         env:
-          PREVIA_URL: ${{ steps.previa.outputs.url }}
-        with:
-          script: |
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: `🔎 **Link de teste do painel:** ${process.env.PREVIA_URL}\n\nMesma senha do painel oficial. Este link é só uma prévia — o site oficial continua como está e só muda depois do merge.`,
-            });
+          GH_TOKEN: ${{ github.token }}
+          URL: ${{ steps.previa.outputs.url }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          BODY="🔎 **Link de teste do painel:** $URL
+
+          Mesma senha do painel oficial. Este link é só uma prévia — o site oficial continua como está e só muda depois do merge. (Se houver mais de um PR aberto, o link mostra a última prévia publicada.)"
+          gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --edit-last --create-if-none --body "$BODY" \
+            || gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body "$BODY"
 
       - name: Mostrar o link no resumo da execução
         run: echo "### 🔎 Prévia publicada em ${{ steps.previa.outputs.url }}" >> "$GITHUB_STEP_SUMMARY"

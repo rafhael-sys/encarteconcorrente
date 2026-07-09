@@ -193,10 +193,12 @@ $('f').addEventListener('submit', e => {
    (o setItem do abrir() regrava a hora a cada entrada bem-sucedida). */
 const VALIDADE_MS = 3*60*60*1000;
 function senhaSalva(){
-  const raw = localStorage.getItem('painel_senha');
-  if(!raw) return null;
-  let obj;
-  try{ obj = JSON.parse(raw); }catch(e){ return raw; }  /* formato antigo (só a senha): vale 1 último acesso e ganha hora */
+  let obj = null;
+  try{ obj = JSON.parse(localStorage.getItem('painel_senha')); }catch(e){}
+  /* qualquer coisa fora do formato atual {s, t} — inclusive a senha crua do
+     formato antigo — é descartada: a pessoa digita uma única vez e o abrir()
+     regrava no formato novo. (Aceitar o formato antigo era traiçoeiro: uma
+     senha só de números passa no JSON.parse e viraria número, não texto.) */
   if(!obj || typeof obj.s !== 'string' || Date.now() - (obj.t || 0) > VALIDADE_MS){
     localStorage.removeItem('painel_senha');
     return null;

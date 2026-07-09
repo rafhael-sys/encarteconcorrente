@@ -80,7 +80,8 @@ python3 limpa_imagens.py || echo "[aviso] limpeza de imagens antigas falhou"
 
 # 6) gera e publica o painel SÓ quando há algo novo para a equipe ver.
 #    "Novo" = ações/produtos/canon, o conjunto de imagens OU o visual
-#    (template do painel / porta de senha) mudou desde a última publicação OK,
+#    (template, porta de senha ou gerador do painel) mudou desde a última
+#    publicação OK,
 #    OU ainda não houve publicação hoje (a primeira janela do dia sempre
 #    publica: move vencidos para Expirados e atualiza a data). Evita re-gerar
 #    e re-subir ~46 MB ao Netlify em janela sem novidade.
@@ -90,7 +91,7 @@ FP=$(python3 -c "
 import hashlib, os
 h = hashlib.sha256()
 for f in ('data/actions.json', 'data/products.json', 'data/canon.json',
-          'painel_template.html', 'gera_gate.py'):
+          'painel_template.html', 'gera_gate.py', 'build_painel.py'):
     try:
         h.update(open(f, 'rb').read())
     except OSError:

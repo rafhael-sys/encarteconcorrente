@@ -61,22 +61,23 @@ def _img_lado_max(src):
     return max(dims, default=0)
 
 
-def _recomprime(src, dst, zw, q, reduzir):
-    """Grava dst como JPEG (qualidade q); reduz para no máx zw px de lado se
-    `reduzir`. Devolve True se gerou o arquivo. Pillow, com sips (macOS) de
-    reserva — nunca derruba o build."""
+def _recomprime(src, dst, zw, q, sub, reduzir):
+    """Grava dst como JPEG (qualidade q, chroma subsampling `sub`); reduz para
+    no máx zw px de lado se `reduzir`. Devolve True se gerou o arquivo.
+    Pillow, com sips (macOS) de reserva — nunca derruba o build."""
     if _HAS_PIL:
         try:
+            # LANCZOS: redução mais nítida que o padrão (textos pequenos).
+            # Pillow >= 9.1 usa Image.Resampling; versões antigas (Mac), Image.LANCZOS
+            lanczos = getattr(getattr(_PILImage, 'Resampling', _PILImage), 'LANCZOS')
             with _PILImage.open(src) as im:
                 if im.mode not in ('RGB', 'L'):
                     im = im.convert('RGB')
                 if reduzir:
-                    # LANCZOS: redução mais nítida que o padrão (textos pequenos)
-                    im.thumbnail((zw, zw), _PILImage.Resampling.LANCZOS)
-                # qualidade alta (vigentes) também desliga o "borrão de cor"
-                # do JPEG (subsampling): preços pequenos vermelhos ficam nítidos
-                im.save(dst, 'JPEG', quality=int(q), optimize=True,
-                        subsampling=0 if int(q) >= 80 else 2)
+                    im.thumbnail((zw, zw), lanczos)
+                # sub=0 desliga o "borrão de cor" do JPEG (subsampling):
+                # preços pequenos vermelhos ficam nítidos nos vigentes
+                im.save(dst, 'JPEG', quality=int(q), optimize=True, subsampling=sub)
             return True
         except Exception:
             return False
@@ -114,17 +115,17 @@ with tempfile.TemporaryDirectory() as tmp:
                 else:
                     continue
             if embutir:
-                # REGRA: vigentes na melhor nitidez possível; expirados recentes 800px/q45.
-                # O Instagram já entrega no máximo 1080px — recomprimir isso (q62) borrava
-                # os preços pequenos. Então, para vigentes já dentro do teto, embutimos o
-                # JPEG ORIGINAL sem recomprimir; só reduzimos/recomprimimos o que passa do teto.
+                # REGRA: vigentes na melhor nitidez que cabe no peso — o
+                # original entra INTACTO até 1600px (o Instagram entrega no
+                # máx. 1080px; recomprimir isso borrava os preços pequenos);
+                # acima do teto, recompressão de qualidade (q85, LANCZOS, sem
+                # subsampling de cor). Expirados recentes ficam bem leves
+                # (640px/q40): é consulta ocasional. Medido no dado real: o
+                # painel fica no MESMO peso de antes, mais nítido onde importa.
+                # ATENÇÃO: o teto de 1600px é casado com a largura de render
+                # do Atacadão em collect_web.py — mudar um exige mudar o outro.
                 vig = a['fim'] >= datetime.date.today().isoformat()
-                # vigentes: nitidez alta sem estourar o peso — originais até
-                # 1600px entram intactos; acima disso recompressão de qualidade
-                # (q85, LANCZOS, sem subsampling). Expirados recentes ficam bem
-                # leves (640px/q40): é consulta ocasional. Medido: o painel
-                # fica no MESMO peso de antes, mais nítido onde importa.
-                zw, q = (1600, '85') if vig else (640, '40')
+                zw, q, sub = (1600, '85', 0) if vig else (640, '40', 2)
                 # dimensões via Pillow (nuvem/Linux) — cai para sips no macOS.
                 # sem dimensão legível -> não redimensiona, só recomprime (nunca derruba o build)
                 lado_max = _img_lado_max(src)
@@ -137,7 +138,7 @@ with tempfile.TemporaryDirectory() as tmp:
                         usou_original = True
                 if not usou_original:
                     small = os.path.join(tmp, fname)
-                    if _recomprime(src, small, zw, q, lado_max > zw):
+                    if _recomprime(src, small, zw, q, sub, lado_max > zw):
                         images[pid] = 'data:image/jpeg;base64,' + base64.b64encode(open(small, 'rb').read()).decode()
                     else:
                         print(f'[aviso] recompressão falhou em {fname}; página fica sem imagem embutida', file=sys.stderr)

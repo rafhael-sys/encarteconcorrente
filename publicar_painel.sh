@@ -30,11 +30,17 @@ NOME_SITE="encartes-redemais"
 # (encartes-redemais-teste) para conferir mudanças ANTES de irem ao site
 # oficial. Não toca no site oficial, no carimbo diário nem no horário
 # gravado em data/netlify_pub_em. Usado pelo workflow "Prévia do painel".
-RASCUNHO="${PUBLICAR_RASCUNHO:-0}"
+# Qualquer valor não-vazio diferente de "0" liga a prévia ('true', 'sim'...):
+# na dúvida, o modo mais seguro é o de teste — nunca o site oficial.
+case "${PUBLICAR_RASCUNHO:-0}" in
+  0|'') RASCUNHO=0 ;;
+  *)    RASCUNHO=1 ;;
+esac
 if (( RASCUNHO )); then
   NOME_SITE="encartes-redemais-teste"
   SITE_FILE="$BASE/data/netlify_site_id_teste"
   URL_FILE="$BASE/data/netlify_url_teste"
+  STAMP_FILE="$BASE/data/.pub_stamp_teste"   # nunca toca o carimbo oficial
 fi
 
 DIARIO=0
