@@ -24,6 +24,8 @@ LOCK="$BASE/data/.lock"
 PAINEL="$BASE/painel-encartes.html"
 API="https://api.netlify.com/api/v1"
 CURL=(curl -sS --connect-timeout 20)
+NOME_SITE="encartes-redemais"
+
 
 DIARIO=0
 [[ "${1:-}" == "--diario" ]] && DIARIO=1
@@ -100,10 +102,22 @@ except Exception:
 
 # ---- cria o site na primeira vez ----
 if [[ ! -s "$SITE_FILE" ]]; then
-  RESP=$("${CURL[@]}" --max-time 60 -X POST "$API/sites" \
-    -H "Authorization: Bearer $TOKEN" -H "Content-Type: application/json" \
-    -d '{"name":"encartes-redemais"}')
-  SITE_ID=$(echo "$RESP" | json_get id)
+  # o site pode já existir na conta (arquivo de id perdido): procura pelo nome
+  RESP=$("${CURL[@]}" --max-time 60 "$API/sites?name=$NOME_SITE" \
+    -H "Authorization: Bearer $TOKEN" || true)
+  SITE_ID=$(echo "$RESP" | python3 -c "
+import sys, json
+try:
+    sites = json.load(sys.stdin)
+    print(next((s['id'] for s in sites if s.get('name') == sys.argv[1]), ''))
+except Exception:
+    print('')" "$NOME_SITE")
+  if [[ -z "$SITE_ID" ]]; then
+    RESP=$("${CURL[@]}" --max-time 60 -X POST "$API/sites" \
+      -H "Authorization: Bearer $TOKEN" -H "Content-Type: application/json" \
+      -d "{\"name\":\"$NOME_SITE\"}")
+    SITE_ID=$(echo "$RESP" | json_get id)
+  fi
   if [[ -z "$SITE_ID" ]]; then
     # nome ocupado ou erro recuperável: deixa o Netlify sortear um nome
     RESP=$("${CURL[@]}" --max-time 60 -X POST "$API/sites" \

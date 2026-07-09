@@ -53,7 +53,7 @@ GATE = '''<!doctype html>
 <html lang="pt-BR">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Encartes · Concorrentes — Rede Mais</title>
+<title>Encartes</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8F%B7%EF%B8%8F%3C/text%3E%3C/svg%3E">
 <style>
   :root{
@@ -100,8 +100,8 @@ GATE = '''<!doctype html>
 <body>
 <div class="box">
   <span class="mark"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2H2v10l9.3 9.3a2 2 0 0 0 2.8 0l7.2-7.2a2 2 0 0 0 0-2.8L12 2z"/><circle cx="7.5" cy="7.5" r="1.4" fill="#fff" stroke="none"/></svg></span>
-  <h1>Encartes dos concorrentes</h1>
-  <p class="sub">Painel diário · Rede Mais</p>
+  <h1>Encartes</h1>
+  <p class="sub">Painel diário</p>
   <form id="f">
     <input id="senha" type="password" placeholder="Senha de acesso" autocomplete="current-password" autofocus>
     <button id="entrar" type="submit">Entrar</button>
@@ -112,7 +112,6 @@ GATE = '''<!doctype html>
     <div class="txt" id="ptxt">Baixando o painel…</div>
   </div>
 </div>
-<footer>uso interno</footer>
 <script>
 /* Tudo dentro de uma função: document.open() reaproveita a janela, e
    declarações soltas aqui (ex.: const $) colidiriam com as do painel
@@ -124,7 +123,11 @@ const $ = id => document.getElementById(id);
 let encCache = null;
 async function baixar(){
   if(encCache) return encCache;
-  const resp = await fetch('painel.enc', {cache:'no-store'});
+  /* 'no-cache' (e não 'no-store'): o navegador PERGUNTA ao servidor se o
+     painel mudou. Não mudou -> reusa o download anterior e abre na hora;
+     mudou -> baixa a versão nova. Nunca mostra painel velho, e as reaberturas
+     do dia deixam de baixar ~45 MB à toa. */
+  const resp = await fetch('painel.enc', {cache:'no-cache'});
   if(!resp.ok) throw new Error('rede');
   const total = +resp.headers.get('content-length') || 0;
   const chunks = []; let got = 0;
@@ -157,7 +160,8 @@ async function abrir(senha){
   catch(e){ throw new Error('senha'); }
   const txt = new TextDecoder().decode(plano);
   if(!txt.startsWith('<meta charset')) throw new Error('senha');
-  try{ localStorage.setItem('painel_senha', senha); }catch(e){}
+  /* guarda a senha COM a hora — usada pela regra de validade de 3h no rodapé do script */
+  try{ localStorage.setItem('painel_senha', JSON.stringify({s: senha, t: Date.now()})); }catch(e){}
   document.open(); document.write(txt); document.close();
 }
 
@@ -184,9 +188,25 @@ $('f').addEventListener('submit', e => {
 });
 
 /* destrava sozinho: senha salva neste navegador ou embutida no link (#senha).
-   O trecho após # nunca é enviado ao servidor. */
+   O trecho após # nunca é enviado ao servidor. A senha lembrada VENCE após
+   3 horas sem uso — aí é preciso digitar de novo; cada acesso renova o prazo
+   (o setItem do abrir() regrava a hora a cada entrada bem-sucedida). */
+const VALIDADE_MS = 3*60*60*1000;
+function senhaSalva(){
+  let obj = null;
+  try{ obj = JSON.parse(localStorage.getItem('painel_senha')); }catch(e){}
+  /* qualquer coisa fora do formato atual {s, t} — inclusive a senha crua do
+     formato antigo — é descartada: a pessoa digita uma única vez e o abrir()
+     regrava no formato novo. (Aceitar o formato antigo era traiçoeiro: uma
+     senha só de números passa no JSON.parse e viraria número, não texto.) */
+  if(!obj || typeof obj.s !== 'string' || Date.now() - (obj.t || 0) > VALIDADE_MS){
+    localStorage.removeItem('painel_senha');
+    return null;
+  }
+  return obj.s;
+}
 try{
-  const salva = localStorage.getItem('painel_senha');
+  const salva = senhaSalva();
   if(salva) tentar(salva, true);
   else if(location.hash.length > 1) tentar(decodeURIComponent(location.hash.slice(1)), true);
 }catch(e){}
