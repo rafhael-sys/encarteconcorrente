@@ -875,7 +875,8 @@
    "sfvs_hortifruti_p1#2",
    "lm_hortifruti_p1#1",
    "rm_feirao_p1#5",
-   "Dah4MbKst8__p1#1"
+   "Dah4MbKst8__p1#1",
+   "DajLQkxm73t_p2#9"
   ]
  },
  {
@@ -2976,7 +2977,8 @@
   "n": "Linguiça Calabresa Tony",
   "u": "kg",
   "m": [
-   "qz_ofertaco_p2#44"
+   "qz_ofertaco_p2#44",
+   "Dai4vkok2fJ_p2#42"
   ]
  },
  {
@@ -2998,7 +3000,8 @@
   "u": "un",
   "m": [
    "qz_ofertaco_p2#47",
-   "Dai4vkok2fJ_p2#45"
+   "Dai4vkok2fJ_p2#45",
+   "Dai5Aw-GzCL_p2#44"
   ]
  },
  {
@@ -13721,7 +13724,8 @@
   "n": "Filé Peixe Tilápia Aurora 800g Congelado",
   "u": "un",
   "m": [
-   "Dai5Aw-GzCL_p2#24"
+   "Dai5Aw-GzCL_p2#24",
+   "Dai4vkok2fJ_p2#25"
   ]
  },
  {
@@ -13743,7 +13747,8 @@
   "n": "Frango Bom Todo com Miúdos com KG",
   "u": "kg",
   "m": [
-   "Dai5Aw-GzCL_p2#28"
+   "Dai5Aw-GzCL_p2#28",
+   "Dai4vkok2fJ_p2#29"
   ]
  },
  {
@@ -13789,7 +13794,8 @@
   "n": "Pão de Queijo Delícia Mineira 1kg Congelado Tradicional",
   "u": "un",
   "m": [
-   "Dai5Aw-GzCL_p2#38"
+   "Dai5Aw-GzCL_p2#38",
+   "Dai4vkok2fJ_p2#39"
   ]
  },
  {
@@ -13804,13 +13810,6 @@
   "u": "un",
   "m": [
    "Dai5Aw-GzCL_p2#41"
-  ]
- },
- {
-  "n": "Iogurte Isis Isis Pro Sabores 180g",
-  "u": "un",
-  "m": [
-   "Dai5Aw-GzCL_p2#44"
   ]
  },
  {
@@ -14114,24 +14113,10 @@
   ]
  },
  {
-  "n": "Filé Peixe Tilápia Aurora 800g Cong",
-  "u": "800g",
-  "m": [
-   "Dai4vkok2fJ_p2#25"
-  ]
- },
- {
   "n": "Filé Peixe Merluza Cruz Cong 800g",
   "u": "800g",
   "m": [
    "Dai4vkok2fJ_p2#26"
-  ]
- },
- {
-  "n": "Frango Bom Todo c/ Miudos Cong Kg",
-  "u": "kg",
-  "m": [
-   "Dai4vkok2fJ_p2#29"
   ]
  },
  {
@@ -14148,20 +14133,6 @@
    "Dai4vkok2fJ_p2#37",
    "DakkTIOgPd8_p3#0",
    "Dai5Aw-GzCL_p2#36"
-  ]
- },
- {
-  "n": "Pão Queijo Delicia Mineira 1kg Cong Tradicional",
-  "u": "1kg",
-  "m": [
-   "Dai4vkok2fJ_p2#39"
-  ]
- },
- {
-  "n": "Linguiça Calabresa Tony Kg",
-  "u": "kg",
-  "m": [
-   "Dai4vkok2fJ_p2#42"
   ]
  },
  {
@@ -14645,13 +14616,6 @@
   "u": "kg",
   "m": [
    "DajLQkxm73t_p2#8"
-  ]
- },
- {
-  "n": "Maçã Vermelha Nacional",
-  "u": "kg",
-  "m": [
-   "DajLQkxm73t_p2#9"
   ]
  },
  {

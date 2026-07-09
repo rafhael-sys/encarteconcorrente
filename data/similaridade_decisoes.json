@@ -696,5 +696,59 @@
   "veredito": "mesmo",
   "quando": "2026-07-09",
   "aplicado": true
+ },
+ "linguica calabresa tony || linguica calabresa tony kg": {
+  "a": "Linguiça Calabresa Tony",
+  "b": "Linguiça Calabresa Tony Kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "maca vermelha nacional || maca vermelha nacional kg": {
+  "a": "Maçã Vermelha Nacional kg",
+  "b": "Maçã Vermelha Nacional",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "file peixe tilapia aurora 800g cong || file peixe tilapia aurora 800g congelado": {
+  "a": "Filé Peixe Tilápia Aurora 800g Congelado",
+  "b": "Filé Peixe Tilápia Aurora 800g Cong",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "file de peito de frango jagua bandeja 1kg || file de peito de frango sadia bandeja 1kg": {
+  "a": "Filé de Peito de Frango Jaguá Bandeja 1kg",
+  "b": "Filé de Peito de Frango Sadia Bandeja 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-09"
+ },
+ "file de peito de frango lar bandeja 1kg || file de peito de frango sadia bandeja 1kg": {
+  "a": "Filé de Peito de Frango Lar Bandeja 1kg",
+  "b": "Filé de Peito de Frango Sadia Bandeja 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-09"
+ },
+ "frango bom todo c/ miudos cong kg || frango bom todo com miudos com kg": {
+  "a": "Frango Bom Todo com Miúdos com KG",
+  "b": "Frango Bom Todo c/ Miudos Cong Kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "pao de queijo delicia mineira 1kg congelado tradicional || pao queijo delicia mineira 1kg cong tradicional": {
+  "a": "Pão de Queijo Delícia Mineira 1kg Congelado Tradicional",
+  "b": "Pão Queijo Delicia Mineira 1kg Cong Tradicional",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
+ },
+ "iogurte isis isis pro sabores 180g || iogurte isis pro sabores 180g": {
+  "a": "Iogurte Isis Pro Sabores 180g",
+  "b": "Iogurte Isis Isis Pro Sabores 180g",
+  "veredito": "mesmo",
+  "quando": "2026-07-09",
+  "aplicado": true
  }
 }

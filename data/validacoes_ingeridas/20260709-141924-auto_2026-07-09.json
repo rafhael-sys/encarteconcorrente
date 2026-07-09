@@ -1,0 +1,12 @@
+{
+ "validacoes": [
+  {"a": "Linguiça Calabresa Tony", "b": "Linguiça Calabresa Tony Kg", "veredito": "mesmo"},
+  {"a": "Maçã Vermelha Nacional kg", "b": "Maçã Vermelha Nacional", "veredito": "mesmo"},
+  {"a": "Filé Peixe Tilápia Aurora 800g Congelado", "b": "Filé Peixe Tilápia Aurora 800g Cong", "veredito": "mesmo"},
+  {"a": "Filé de Peito de Frango Jaguá Bandeja 1kg", "b": "Filé de Peito de Frango Sadia Bandeja 1kg", "veredito": "diferente"},
+  {"a": "Filé de Peito de Frango Lar Bandeja 1kg", "b": "Filé de Peito de Frango Sadia Bandeja 1kg", "veredito": "diferente"},
+  {"a": "Frango Bom Todo com Miúdos com KG", "b": "Frango Bom Todo c/ Miudos Cong Kg", "veredito": "mesmo"},
+  {"a": "Pão de Queijo Delícia Mineira 1kg Congelado Tradicional", "b": "Pão Queijo Delicia Mineira 1kg Cong Tradicional", "veredito": "mesmo"},
+  {"a": "Iogurte Isis Pro Sabores 180g", "b": "Iogurte Isis Isis Pro Sabores 180g", "veredito": "mesmo"}
+ ]
+}

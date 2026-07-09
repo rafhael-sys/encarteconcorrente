@@ -91,17 +91,25 @@
 - MESMO: «Coração de Frango Bom Todo 500g Bandeja» == «Coração Frango Bom Todo 500g Bandeja»
 - MESMO: «Coxinha da asa Jaguá IQF 1kg» == «Coxinha Asa Jagua IQF 1kg»
 - MESMO: «Enxaguante Bucal Colgate Leve750 P500ml (Plax Fresh Mint - Odor Control)» == «Enxaguante Bucal Colgate Leve 750 Pague 500ml (Plax Fresh Mint / Odor Control)»
+- DIFERENTES: «Filé de Peito de Frango Jaguá Bandeja 1kg» != «Filé de Peito de Frango Sadia Bandeja 1kg»
+- DIFERENTES: «Filé de Peito de Frango Lar Bandeja 1kg» != «Filé de Peito de Frango Sadia Bandeja 1kg»
+- MESMO: «Filé Peixe Tilápia Aurora 800g Congelado» == «Filé Peixe Tilápia Aurora 800g Cong»
 - MESMO: «Filezinho Sassami Somave Congelado» == «Filezinho Sassami Somave Congelado kg»
 - MESMO: «Flocão de Milho Dona Clara 500g» == «Flocão Milho Dona Clara 500g»
+- MESMO: «Frango Bom Todo com Miúdos com KG» == «Frango Bom Todo c/ Miudos Cong Kg»
+- MESMO: «Iogurte Isis Pro Sabores 180g» == «Iogurte Isis Isis Pro Sabores 180g»
 - MESMO: «Leite Condensado CCGL 395g» == «Leite Condensado CCGL TP 395g»
+- MESMO: «Linguiça Calabresa Tony» == «Linguiça Calabresa Tony Kg»
 - MESMO: «Linguiça de Frango Avivar kg Churrasco» == «Linguiça de Frango Aviava KG Churrasco»
 - MESMO: «Linguiça de Frango Avivar kg Churrasco» == «Linguiça de Frango Avinar Kg Churrasco»
 - MESMO: «Linguiça de Frango Avivar» == «Linguiça de Frango Avivar kg»
+- MESMO: «Maçã Vermelha Nacional kg» == «Maçã Vermelha Nacional»
 - MESMO: «Macarrão Espaguete Imperador 400g» == «Macarrão Espaguete Emperador 400g»
 - MESMO: «Manteiga Itacolomy com Sal 500g» == «Manteiga Itacolomy com Sal pt 500g»
 - MESMO: «Milho Pipoca Vitaforte Premium 400g» == «Milho de Pipoca Vitaforte Premium 400g»
 - MESMO: «Mini Coxinha Bom Todo Congelada 300g Sabores» == «Mini Coxinha Bom Todo Cong 300g Sabores»
 - MESMO: «Mini Coxinha Bom Todo Congelada 300g Sabores» == «Mini Coxinha Bom Todo Congelado 300g Sabores»
+- MESMO: «Pão de Queijo Delícia Mineira 1kg Congelado Tradicional» == «Pão Queijo Delicia Mineira 1kg Cong Tradicional»
 - MESMO: «Papel Toalha Scala c/2 200fls» == «Papel Toalha Scala Plus c/2 200fls»
 - MESMO: «Peito de Frango Congelado kg» == «Peito Frango Congelado Kg»
 - MESMO: «Queijo Jardineire Coalho/Manteiga Peça, Pedaço ou Mini KG» == «Queijo Jardineira Coalho/Manteiga Peça, Pedaço ou Mini Kg»
