@@ -10,10 +10,20 @@ BASE="$(cd "$(dirname "$0")" && pwd)"
 cd "$BASE"
 export HOJE="$(date +%Y-%m-%d)"
 
-# --- Autenticação do Claude, tolerante a segredo com nome trocado ---
-# Se o token do Max (sk-ant-oat...) foi colado no segredo ANTHROPIC_API_KEY por
-# engano, movemos para o slot correto (e vice-versa, se uma chave de API acabou
-# no slot do OAuth). Assim funciona independente de onde o token foi colado.
+# --- Autenticação do Claude ---
+# 1) Limpa espaços e quebras de linha coladas junto com o token. O comando
+#    'claude setup-token' mostra o token quebrado em 2 linhas; ao copiar, um
+#    caractere invisível pode entrar no meio e quebrar o cabeçalho HTTP
+#    ("Header has invalid value"). tr -d remove qualquer espaço/newline.
+if [ -n "${CLAUDE_CODE_OAUTH_TOKEN:-}" ]; then
+  CLAUDE_CODE_OAUTH_TOKEN="$(printf '%s' "$CLAUDE_CODE_OAUTH_TOKEN" | tr -d '[:space:]')"; export CLAUDE_CODE_OAUTH_TOKEN
+fi
+if [ -n "${ANTHROPIC_API_KEY:-}" ]; then
+  ANTHROPIC_API_KEY="$(printf '%s' "$ANTHROPIC_API_KEY" | tr -d '[:space:]')"; export ANTHROPIC_API_KEY
+fi
+# 2) Tolera segredo com nome trocado: se o token do Max (sk-ant-oat...) foi
+#    colado no segredo ANTHROPIC_API_KEY por engano, move para o slot correto
+#    (e vice-versa, se uma chave de API acabou no slot do OAuth).
 case "${ANTHROPIC_API_KEY:-}" in
   sk-ant-oat*) export CLAUDE_CODE_OAUTH_TOKEN="$ANTHROPIC_API_KEY"; unset ANTHROPIC_API_KEY ;;
 esac
