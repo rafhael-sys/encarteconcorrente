@@ -1596,5 +1596,81 @@
   "adicionado_em": "2026-07-10",
   "fonte": "web",
   "link": "https://www.nossoatacarejo.com.br/encarte/nosso-final-de-semana-rn/5"
+ },
+ {
+  "id": "DaluZT4mE6m",
+  "perfil": "redesupercop",
+  "titulo": "Explosão de Ofertas (10 a 13/07)",
+  "banner": "Rede Supercop",
+  "segmento": "varejo",
+  "inicio": "2026-07-10",
+  "fim": "2026-07-13",
+  "carrossel": true,
+  "shortcode": "DaluZT4mE6m",
+  "caption": "As melhores oportunidades acabaram de chegar! 🤩\n\nSão produtos selecionados, muita qualidade e ofertas imperdíveis para você comprar mais e economizar. \n\nVem aproveitar!\n\n📅 Ofertas válidas  de 10 a 13/07/2026. Sujeitas à disponibilidade de estoque.\n__\n#RedeSupercop #NovoEncarte #Ofertas",
+  "paginas": [
+   "DaluZT4mE6m_p1.jpg",
+   "DaluZT4mE6m_p2.jpg",
+   "DaluZT4mE6m_p3.jpg"
+  ],
+  "adicionado_em": "2026-07-10"
+ },
+ {
+  "id": "DaOjlIUExHg",
+  "perfil": "redesupercop",
+  "titulo": "Viva o Clima de Férias (01 a 06/07)",
+  "banner": "Rede Supercop",
+  "segmento": "varejo",
+  "inicio": "2026-07-01",
+  "fim": "2026-07-06",
+  "carrossel": true,
+  "shortcode": "DaOjlIUExHg",
+  "caption": "Sua chance de economizar chegou! 🛒🎉\n\nSão ofertas imperdíveis, produtos de qualidade e preços especiais para você abastecer sua casa sem pesar no orçamento. 🫶\n\nAproveite!\n\n📅 Ofertas válidas de 01 a 06/07/2026. Sujeitas à disponibilidade de estoque.\n\n———\n#RedeSupercop #Ofertas #Supermercado",
+  "paginas": [
+   "DaOjlIUExHg_p1.jpg",
+   "DaOjlIUExHg_p2.jpg",
+   "DaOjlIUExHg_p3.jpg",
+   "DaOjlIUExHg_p4.jpg",
+   "DaOjlIUExHg_p5.jpg"
+  ],
+  "adicionado_em": "2026-07-10"
+ },
+ {
+  "id": "atacadao_23876233a5",
+  "perfil": "atacadao.com.br",
+  "titulo": "Hortifrúti",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-10",
+  "fim": "2026-07-13",
+  "carrossel": false,
+  "shortcode": "atacadao_23876233a5",
+  "caption": "Hortifrúti",
+  "paginas": [
+   "atacadao_23876233a5_p1.jpg"
+  ],
+  "adicionado_em": "2026-07-10",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_4e474d2e42",
+  "perfil": "atacadao.com.br",
+  "titulo": "Super Sexta",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-10",
+  "fim": "2026-07-10",
+  "carrossel": true,
+  "shortcode": "atacadao_4e474d2e42",
+  "caption": "Super Sexta",
+  "paginas": [
+   "atacadao_4e474d2e42_p1.jpg",
+   "atacadao_4e474d2e42_p2.jpg",
+   "atacadao_4e474d2e42_p3.jpg"
+  ],
+  "adicionado_em": "2026-07-10",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
  }
 ]

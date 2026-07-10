@@ -147,20 +147,28 @@
 - MESMO: «Whisky Johnnie Walker Red Label 750ml» == «Whisky Johnie Walker Red Label 750ml»
 - MESMO: «ABS Semp Livre AD 32un c/abas» == «Abs Sempre Livre AD 32un c/Abas»
 - MESMO: «Absorvente Sempre Livre Adapt Suave c/ Abas Leve8 Pague7» == «ABS Sempre Livre Adapt Suave c/Abas Leve8 Pague7»
+- MESMO: «Amaciante Concentrado Downy 500ml» == «Amaciante Concentrado Downy 500ml Frag.»
 - MESMO: «Aparelho de Barbear Gillette Prestobarba Ultra Grip c/2» == «Aparelho de Barbear Gillette Presto Ultra Grip c/2»
 - MESMO: «Batata Pré-Frita Mazio Congelada 2kg» == «Batata Pré-Frita Mazid Congelada 2kg»
 - DIFERENTES: «Batata Pré-frita McCain Congelada 2kg» != «Batata Pré-Frita Mazid Congelada 2kg»
+- MESMO: «Bebida Láctea Choconat 27x200ml» == «Bebida Láctea Choconat 200ml»
 - MESMO: «Carne Bovina Alcatra KG» == «Carne Bov Alcatra KG»
 - MESMO: «Carne Bovina Posta Gorda com Osso kg» == «Carne Bovina Posta Gorda c/ Osso KG»
+- MESMO: «Cerveja Amstel Ultra Lata 269ml» == «Cerveja Lager Amstel Ultra lata 269ml»
 - MESMO: «Coxão Mole Resfriado» == «Coxão Mole Resfriado KG»
 - DIFERENTES: «Desodorante Aerosol Nivea 150ml Fragrâncias» != «Desodorante Aerossol Dove 150ml Fragrancias»
 - DIFERENTES: «Desodorante Aerossol Mood 150ml (Fragrâncias)» != «Desodorante Aerossol Dove 150ml Fragrancias»
 - MESMO: «Farinha de Trigo Dona Maria Saco 25kg» == «Farinha de Trigo Dona Maria 25kg»
 - DIFERENTES: «Filé de Peito de Frango Sadia Congelado IQF 1kg» != «Filé de Peito de Frango Lar Congelado IQF 1kg»
+- MESMO: «Lã de Aço BOMBRIL 45g c/6» == «Lã de Aço Bombril 45g»
 - MESMO: «Linguiça Calabresa Sadia» == «Linguiça Calabresa Sadia KG»
+- DIFERENTES: «Linguiça Calabresa Sadia» != «Linguiça Calabresa Seara»
 - MESMO: «Linguiça de Frango/Churrasco Aurora kg» == «Linguiça de Frango ou Churrasco Aurora KG»
+- MESMO: «Macarrão Espaguete GOSTOSO 400g» == «Mac Espaguete Gostoso 400g»
+- MESMO: «Manteiga Itacolomy com Sal 500g» == «Manteiga Itacolomy c/ Sal pt 500g»
 - MESMO: «Manteiga Itacolomy c/ Sal pt 500g» == «Manteiga Itacolomy com Sal Pote 500g»
 - MESMO: «Margarina Deline Com sal Pote 500g» == «Margarina Deline com Sal 500g»
 - MESMO: «Panceta Suína com Pele Granel kg» == «Panceta Buína com Pele Granel KG»
 - MESMO: «Pão de Alho Fabricação Própria Tradicional pct 350g» == «Pão de Alho Padaria Fabricação Própria Tradicional pct 350g»
+- DIFERENTES: «Sabonete Even 85g Fragrâncias» != «Sabonete NIVEA 85g Fragrâncias»
 - MESMO: «Toalha Umedecida Personal Baby c/50» == «Toalha Umidecida Personal Baby c/50»

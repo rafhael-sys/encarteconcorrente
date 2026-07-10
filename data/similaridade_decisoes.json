@@ -1069,5 +1069,59 @@
   "veredito": "mesmo",
   "quando": "2026-07-10",
   "aplicado": true
+ },
+ "bebida lactea choconat 200ml || bebida lactea choconat 27x200ml": {
+  "a": "Bebida Láctea Choconat 27x200ml",
+  "b": "Bebida Láctea Choconat 200ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "manteiga itacolomy c/ sal pt 500g || manteiga itacolomy com sal 500g": {
+  "a": "Manteiga Itacolomy com Sal 500g",
+  "b": "Manteiga Itacolomy c/ Sal pt 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "linguica calabresa sadia || linguica calabresa seara": {
+  "a": "Linguiça Calabresa Sadia",
+  "b": "Linguiça Calabresa Seara",
+  "veredito": "diferente",
+  "quando": "2026-07-10"
+ },
+ "amaciante concentrado downy 500ml || amaciante concentrado downy 500ml frag.": {
+  "a": "Amaciante Concentrado Downy 500ml",
+  "b": "Amaciante Concentrado Downy 500ml Frag.",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "sabonete even 85g fragrancias || sabonete nivea 85g fragrancias": {
+  "a": "Sabonete Even 85g Fragrâncias",
+  "b": "Sabonete NIVEA 85g Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-07-10"
+ },
+ "la de aco bombril 45g || la de aco bombril 45g c/6": {
+  "a": "Lã de Aço BOMBRIL 45g c/6",
+  "b": "Lã de Aço Bombril 45g",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "mac espaguete gostoso 400g || macarrao espaguete gostoso 400g": {
+  "a": "Macarrão Espaguete GOSTOSO 400g",
+  "b": "Mac Espaguete Gostoso 400g",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "cerveja amstel ultra lata 269ml || cerveja lager amstel ultra lata 269ml": {
+  "a": "Cerveja Amstel Ultra Lata 269ml",
+  "b": "Cerveja Lager Amstel Ultra lata 269ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
  }
 }

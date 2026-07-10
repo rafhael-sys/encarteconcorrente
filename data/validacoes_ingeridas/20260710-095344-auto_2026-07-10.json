@@ -1,0 +1,12 @@
+{
+ "validacoes": [
+  {"a": "Bebida Láctea Choconat 27x200ml", "b": "Bebida Láctea Choconat 200ml", "veredito": "mesmo"},
+  {"a": "Manteiga Itacolomy com Sal 500g", "b": "Manteiga Itacolomy c/ Sal pt 500g", "veredito": "mesmo"},
+  {"a": "Linguiça Calabresa Sadia", "b": "Linguiça Calabresa Seara", "veredito": "diferente"},
+  {"a": "Amaciante Concentrado Downy 500ml", "b": "Amaciante Concentrado Downy 500ml Frag.", "veredito": "mesmo"},
+  {"a": "Sabonete Even 85g Fragrâncias", "b": "Sabonete NIVEA 85g Fragrâncias", "veredito": "diferente"},
+  {"a": "Lã de Aço BOMBRIL 45g c/6", "b": "Lã de Aço Bombril 45g", "veredito": "mesmo"},
+  {"a": "Macarrão Espaguete GOSTOSO 400g", "b": "Mac Espaguete Gostoso 400g", "veredito": "mesmo"},
+  {"a": "Cerveja Amstel Ultra Lata 269ml", "b": "Cerveja Lager Amstel Ultra lata 269ml", "veredito": "mesmo"}
+ ]
+}
