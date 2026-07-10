@@ -217,17 +217,18 @@
     max-width:min(560px,92vw);text-align:center;box-shadow:0 4px 16px rgba(0,0,0,.35);
   }
   .spot-tag b{font-weight:700;font-size:14px}
-  /* paginação no RODAPÉ do visor: seta flutuando sobre a imagem cobria
-     preço/produto (principalmente com zoom) — aqui embaixo nunca atrapalha */
-  .panel-f{display:flex;align-items:center;gap:12px;padding:10px 16px;border-top:1px solid var(--border)}
-  .pager{display:flex;align-items:center;gap:4px;flex:1}
-  .pager button{
-    width:40px;height:40px;border-radius:10px;font-size:21px;color:var(--text);
-    display:flex;align-items:center;justify-content:center;background:var(--surface-2);
+  /* setas de página DISCRETAS sobre a imagem (pedido do dono): translúcidas
+     para não cobrir preço/produto; ganham força só no toque/hover */
+  .nav-btn{
+    position:absolute;top:50%;transform:translateY(-50%);width:38px;height:38px;border-radius:50%;
+    background:rgba(0,0,0,.22);color:#fff;font-size:18px;opacity:.55;
+    display:flex;align-items:center;justify-content:center;transition:opacity .15s;
   }
-  .pager button:hover{background:var(--border)}
-  .pager button[disabled]{opacity:.4;background:var(--surface-2);cursor:default}
-  .pcount{font-size:13px;color:var(--text-2);font-variant-numeric:tabular-nums;white-space:nowrap;min-width:44px;text-align:center}
+  .nav-btn:hover,.nav-btn:active{opacity:.95;background:rgba(0,0,0,.45)}
+  .nav-btn.prev{left:8px}.nav-btn.next{right:8px}
+  .nav-btn[disabled]{opacity:.12;cursor:default}
+  .panel-f{display:flex;align-items:center;gap:12px;padding:12px 16px;border-top:1px solid var(--border)}
+  .pcount{flex:1;font-size:13px;color:var(--text-2);font-variant-numeric:tabular-nums;white-space:nowrap}
   .iglink{font-size:13px;font-weight:500;color:var(--text-2);text-decoration:none;white-space:nowrap}
   .iglink:hover{color:var(--text);text-decoration:underline}
 
@@ -429,13 +430,11 @@
         <img id="vImg" alt="Página do encarte">
         <div class="spot" id="spot" hidden></div>
       </div>
+      <button class="nav-btn prev" id="vPrev" aria-label="Página anterior">‹</button>
+      <button class="nav-btn next" id="vNext" aria-label="Próxima página">›</button>
     </div>
     <div class="panel-f">
-      <div class="pager">
-        <button id="vPrev" aria-label="Página anterior">‹</button>
-        <span class="pcount" id="vCount"></span>
-        <button id="vNext" aria-label="Próxima página">›</button>
-      </div>
+      <span class="pcount" id="vCount"></span>
       <button class="iglink" id="vPdf" type="button" title="Baixar este encarte em PDF">Baixar PDF ⤓</button>
       <a class="iglink" id="vLink" target="_blank" rel="noopener">Ver no Instagram ↗</a>
     </div>
