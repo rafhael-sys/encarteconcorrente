@@ -4,16 +4,19 @@ name: Encartes — coleta e publicação
 # IMPORTANTE: o agendamento (schedule) só funciona quando este arquivo está no
 # branch padrão (main). Para testar antes de fazer o merge, use "Run workflow"
 # (o gatilho workflow_dispatch abaixo) na aba Actions do GitHub.
+# ══════════════════════════════════════════════════════════════════════════
+# AGENDAMENTO DESATIVADO (2026-07-10): a rotina agora roda LOCAL (no Mac) e
+# publica no Surge (encartes-redemais.surge.sh), não mais na nuvem/Netlify —
+# para não estourar o limite gratuito do Netlify. Foram feitas 2 travas:
+#   1) o 'schedule' abaixo está comentado (o cron do GitHub não dispara);
+#   2) o job 'rotina' tem 'if: false' (mesmo que algo dispare, ele é pulado).
+# ⚠️ PAUSE também o gatilho externo no cron-job.org (ele bate via
+#    workflow_dispatch). Para reativar a nuvem: descomente o 'schedule',
+#    tire o 'if: false' e reative no cron-job.org.
+# ══════════════════════════════════════════════════════════════════════════
 on:
-  schedule:
-    # Horários locais de Natal/RN (UTC-3): ~07h12, ~13h12 e ~20h12 (3x/dia).
-    # Em UTC isso vira 10h12, 16h12 e 23h12. Rodamos aos :12 (e não em ponto)
-    # porque o agendador gratuito do GitHub atrasa/engole execuções no minuto
-    # cheio. Mesmo assim ele é irregular — por isso o disparo PRINCIPAL fica no
-    # cron-job.org (externo, aos :13, via workflow_dispatch), e este schedule é
-    # só a REDE DE SEGURANÇA. Se os dois dispararem, a rotina só faz o trabalho
-    # uma vez (a segunda execução vê que já foi feito e sai).
-    - cron: '12 10,16,23 * * *'
+  # schedule:
+  #   - cron: '12 10,16,23 * * *'
   workflow_dispatch: {}
 
 # nunca deixa duas execuções mexerem nos dados ao mesmo tempo
@@ -27,6 +30,7 @@ permissions:
 
 jobs:
   rotina:
+    if: false   # DESATIVADO — rotina roda local + Surge (ver banner no topo)
     runs-on: ubuntu-latest
     timeout-minutes: 45
     env:

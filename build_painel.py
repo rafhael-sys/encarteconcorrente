@@ -295,12 +295,12 @@ def _le(caminho):
         return open(os.path.expanduser(caminho), encoding='utf-8').read().strip()
     except OSError:
         return ''
-url_pub = _le(f'{DATA}/netlify_url')
+url_pub = _le(f'{DATA}/surge_url') or _le(f'{DATA}/netlify_url')
 senha_pub = _le('~/.config/painel_senha')
 html = html.replace('__PUB_URL__', _html.escape(url_pub) or 'ainda não publicado')
 html = html.replace('__PUB_SENHA__', _html.escape(senha_pub) or 'sem senha definida')
-# horário da versão que está no ar (gravado pelo publicar_painel.sh no deploy)
-pub_quando = _le(f'{DATA}/netlify_pub_em')
+# horário da versão que está no ar (gravado pelo publicar_surge.sh no deploy)
+pub_quando = _le(f'{DATA}/surge_pub_em') or _le(f'{DATA}/netlify_pub_em')
 if re.match(r'^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}$', pub_quando):
     pub_quando = f'{pub_quando[8:10]}/{pub_quando[5:7]} às {pub_quando[11:16]}'
 else:

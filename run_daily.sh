@@ -1,8 +1,8 @@
 #!/bin/zsh
-# Rotina diária dos encartes: roda 1x por dia a partir das 07:00.
+# Rotina diária dos encartes: roda 1x por dia, às 22h.
 # O launchd chama este script a cada 30 min; ele sai de imediato se já rodou
-# hoje ou se ainda não deu 7h — assim, se o Mac estava dormindo/desligado às 7h,
-# a atualização acontece na primeira meia hora depois que você abrir o Mac.
+# hoje ou se ainda não deu 22h — assim, se o Mac estava dormindo/desligado às
+# 22h, a atualização acontece na primeira meia hora depois que você abrir o Mac.
 # Em caso de falha, tenta no máximo 3x no dia (sem martelar o Instagram) e
 # avisa por notificação que falhou.
 
@@ -17,8 +17,11 @@ mkdir -p "$BASE/data"
 HOJE=$(date +%Y-%m-%d)
 HORA=$(( 10#$(date +%H) ))
 
-# janelas de atualização: todos os dias, de 3 em 3 horas a partir das 7h
-SLOTS=(7 10 13 16 19 22)
+# janela de atualização: 1x por dia, às 22h (coleta noturna). O launchd chama
+# a cada 30 min; antes das 22h o script sai na hora e, a partir das 22h, roda
+# uma única vez no dia. Se o Mac estiver desligado às 22h, roda na primeira
+# meia hora depois que ele ligar naquela noite.
+SLOTS=(22)
 SLOT=""
 for h in $SLOTS; do (( HORA >= h )) && SLOT=$h; done
 [[ -z "$SLOT" ]] && exit 0                                          # antes das 7h
@@ -105,13 +108,30 @@ Tarefas: leia data/fila_novos.json; para cada post decida se é ação de encart
   echo "$HOJE $SLOT" > "$STAMP"
   rm -f "$TRIES"
 
+  # sobe os dados atualizados para o repositório (histórico/backup na nuvem).
+  # Espelha o commit que a Action fazia; agora quem roda é o Mac, então o push
+  # sai daqui. Envio resistente: se alguém empurrou algo, faz rebase e re-tenta.
+  touch "$LOCK"
+  git add -A
+  if git diff --cached --quiet; then
+    echo "[git] nada mudou nos dados nesta janela"
+  else
+    git commit -m "dados: atualização local $(date '+%Y-%m-%d %H:%M')" >/dev/null
+    ok=0
+    for i in 1 2 3 4 5; do
+      if git pull --rebase --autostash origin main && git push; then ok=1; break; fi
+      echo "[git] envio recusado (tentativa $i) — sincronizando e re-tentando..."; sleep $((2 * i))
+    done
+    (( ok )) || echo "[aviso] não consegui enviar os dados ao git nesta janela"
+  fi
+
   # publicação diária: o launchd com.redemais.encartes.publicar sobe às 9h;
   # se o Mac estava desligado às 9h, a primeira janela concluída depois disso
   # publica no lugar (--diario garante no máximo 1 publicação por dia).
   # A checagem de data evita que uma janela que atravessou a meia-noite
   # carimbe o dia seguinte; ainda seguramos a trava, daí a herança.
   if (( SLOT >= 10 )) && [[ "$(date +%Y-%m-%d)" == "$HOJE" ]]; then
-    ENCARTES_LOCK_HERDADA=1 "$BASE/publicar_painel.sh" --diario || echo "[aviso] publicação no Netlify falhou nesta janela"
+    ENCARTES_LOCK_HERDADA=1 "$BASE/publicar_surge.sh" --diario || echo "[aviso] publicação no Surge falhou nesta janela"
   fi
   RESUMO=$(head -c 160 "$BASE/data/resumo_notificacao.txt" 2>/dev/null | tr -d '"\\' | tr '\n' ' ')
   [[ -z "$RESUMO" ]] && RESUMO="Encartes dos concorrentes atualizados."
