@@ -34936,5 +34936,241 @@
    "w": 33,
    "h": 16
   }
+ ],
+ "nosso_5b9ac364b4_p1": [
+  {
+   "n": "Bombom Garoto 250g",
+   "p": "10,58",
+   "u": "un",
+   "x": 2,
+   "y": 17,
+   "w": 16,
+   "h": 22
+  },
+  {
+   "n": "Flocão Vitamilho ou Nordestino 500g",
+   "p": "1,18",
+   "u": "un",
+   "x": 18,
+   "y": 17,
+   "w": 16,
+   "h": 22
+  },
+  {
+   "n": "Arroz Safra ou Seu Arroz Branco 1kg",
+   "p": "3,48",
+   "u": "un",
+   "x": 34,
+   "y": 17,
+   "w": 16,
+   "h": 22
+  },
+  {
+   "n": "Margarina Primor 1kg",
+   "p": "8,88",
+   "u": "un",
+   "x": 50,
+   "y": 17,
+   "w": 16,
+   "h": 22
+  },
+  {
+   "n": "Café Bangu 250g",
+   "p": "10,99",
+   "u": "un",
+   "x": 66,
+   "y": 17,
+   "w": 16,
+   "h": 22
+  },
+  {
+   "n": "Leite em Pó Betânia 750g",
+   "p": "24,45",
+   "u": "un",
+   "x": 82,
+   "y": 15,
+   "w": 17,
+   "h": 24
+  },
+  {
+   "n": "Carne Bovina Acém ou Paleta com Osso kg",
+   "p": "26,99",
+   "u": "kg",
+   "x": 3,
+   "y": 39,
+   "w": 26,
+   "h": 18
+  },
+  {
+   "n": "Carne Bovina Patinho kg",
+   "p": "37,98",
+   "u": "kg",
+   "x": 26,
+   "y": 39,
+   "w": 20,
+   "h": 18
+  },
+  {
+   "n": "Filé de Peito de Frango Rara kg",
+   "p": "14,89",
+   "u": "kg",
+   "x": 46,
+   "y": 39,
+   "w": 18,
+   "h": 18
+  },
+  {
+   "n": "Filé de Tilápia Bom Todo 500g Sem Pele",
+   "p": "25,99",
+   "u": "un",
+   "x": 62,
+   "y": 39,
+   "w": 22,
+   "h": 18
+  },
+  {
+   "n": "Queijo Muçarela FP kg",
+   "p": "39,68",
+   "u": "kg",
+   "x": 84,
+   "y": 39,
+   "w": 15,
+   "h": 18
+  },
+  {
+   "n": "Cerveja Brahma Chopp 350ml Lata",
+   "p": "3,18",
+   "u": "un",
+   "x": 4,
+   "y": 57,
+   "w": 16,
+   "h": 16
+  },
+  {
+   "n": "Cerveja Michelob Ultra 330ml Long Neck",
+   "p": "5,98",
+   "u": "un",
+   "x": 21,
+   "y": 57,
+   "w": 16,
+   "h": 16
+  },
+  {
+   "n": "Licor Ballena 750ml",
+   "p": "119,98",
+   "u": "un",
+   "x": 38,
+   "y": 57,
+   "w": 16,
+   "h": 16
+  },
+  {
+   "n": "Bebida Láctea Choconat 200ml",
+   "p": "0,95",
+   "u": "un",
+   "x": 55,
+   "y": 57,
+   "w": 15,
+   "h": 16
+  },
+  {
+   "n": "Refrigerante Coca-Cola 2L",
+   "p": "9,78",
+   "u": "un",
+   "x": 68,
+   "y": 57,
+   "w": 31,
+   "h": 16
+  },
+  {
+   "n": "Cebola Branca kg",
+   "p": "6,78",
+   "u": "kg",
+   "x": 4,
+   "y": 73,
+   "w": 16,
+   "h": 12
+  },
+  {
+   "n": "Alho Redinha 200g ou 180g",
+   "p": "5,58",
+   "u": "un",
+   "x": 21,
+   "y": 73,
+   "w": 16,
+   "h": 12
+  },
+  {
+   "n": "Tangerina Nacional kg",
+   "p": "6,98",
+   "u": "kg",
+   "x": 38,
+   "y": 73,
+   "w": 16,
+   "h": 12
+  },
+  {
+   "n": "Abacaxi UN ou Abacate kg",
+   "p": "4,58",
+   "u": "",
+   "x": 55,
+   "y": 73,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Ovos Brancos Grandes ou Extras Bandeja com 30",
+   "p": "15,58",
+   "u": "bandeja",
+   "x": 68,
+   "y": 73,
+   "w": 31,
+   "h": 12
+  },
+  {
+   "n": "Desodorante Aerosol Dove 150ml",
+   "p": "13,78",
+   "u": "un",
+   "x": 4,
+   "y": 85,
+   "w": 16,
+   "h": 14
+  },
+  {
+   "n": "Shampoo Palmolive 350ml",
+   "p": "7,98",
+   "u": "un",
+   "x": 21,
+   "y": 85,
+   "w": 16,
+   "h": 14
+  },
+  {
+   "n": "Lava-Roupas em Pó Ala 800g Sachê",
+   "p": "5,48",
+   "u": "un",
+   "x": 38,
+   "y": 85,
+   "w": 16,
+   "h": 14
+  },
+  {
+   "n": "Toalha Umedecida Mili 96un",
+   "p": "8,98",
+   "u": "un",
+   "x": 55,
+   "y": 85,
+   "w": 15,
+   "h": 14
+  },
+  {
+   "n": "Fralda MamyPoko Super Proteção Jumbo",
+   "p": "26,98",
+   "u": "un",
+   "x": 68,
+   "y": 85,
+   "w": 31,
+   "h": 14
+  }
  ]
 }

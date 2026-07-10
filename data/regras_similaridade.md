@@ -145,12 +145,22 @@
 - MESMO: «Uva Vitória sem Semente 500g» == «Uva Vitória Sem Sementes BDJ 500g»
 - MESMO: «Vinho Collina GF 750ml Sabores» == «Vinho Colina 750ml Sabores»
 - MESMO: «Whisky Johnnie Walker Red Label 750ml» == «Whisky Johnie Walker Red Label 750ml»
+- MESMO: «ABS Semp Livre AD 32un c/abas» == «Abs Sempre Livre AD 32un c/Abas»
 - MESMO: «Absorvente Sempre Livre Adapt Suave c/ Abas Leve8 Pague7» == «ABS Sempre Livre Adapt Suave c/Abas Leve8 Pague7»
 - MESMO: «Aparelho de Barbear Gillette Prestobarba Ultra Grip c/2» == «Aparelho de Barbear Gillette Presto Ultra Grip c/2»
 - MESMO: «Batata Pré-Frita Mazio Congelada 2kg» == «Batata Pré-Frita Mazid Congelada 2kg»
 - DIFERENTES: «Batata Pré-frita McCain Congelada 2kg» != «Batata Pré-Frita Mazid Congelada 2kg»
+- MESMO: «Carne Bovina Alcatra KG» == «Carne Bov Alcatra KG»
+- MESMO: «Carne Bovina Posta Gorda com Osso kg» == «Carne Bovina Posta Gorda c/ Osso KG»
+- MESMO: «Coxão Mole Resfriado» == «Coxão Mole Resfriado KG»
 - DIFERENTES: «Desodorante Aerosol Nivea 150ml Fragrâncias» != «Desodorante Aerossol Dove 150ml Fragrancias»
 - DIFERENTES: «Desodorante Aerossol Mood 150ml (Fragrâncias)» != «Desodorante Aerossol Dove 150ml Fragrancias»
+- MESMO: «Farinha de Trigo Dona Maria Saco 25kg» == «Farinha de Trigo Dona Maria 25kg»
 - DIFERENTES: «Filé de Peito de Frango Sadia Congelado IQF 1kg» != «Filé de Peito de Frango Lar Congelado IQF 1kg»
+- MESMO: «Linguiça Calabresa Sadia» == «Linguiça Calabresa Sadia KG»
+- MESMO: «Linguiça de Frango/Churrasco Aurora kg» == «Linguiça de Frango ou Churrasco Aurora KG»
 - MESMO: «Manteiga Itacolomy c/ Sal pt 500g» == «Manteiga Itacolomy com Sal Pote 500g»
+- MESMO: «Margarina Deline Com sal Pote 500g» == «Margarina Deline com Sal 500g»
+- MESMO: «Panceta Suína com Pele Granel kg» == «Panceta Buína com Pele Granel KG»
+- MESMO: «Pão de Alho Fabricação Própria Tradicional pct 350g» == «Pão de Alho Padaria Fabricação Própria Tradicional pct 350g»
 - MESMO: «Toalha Umedecida Personal Baby c/50» == «Toalha Umidecida Personal Baby c/50»

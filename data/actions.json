@@ -1623,5 +1623,23 @@
    "Dag4P7BA5hC_p1.jpg"
   ],
   "adicionado_em": "2026-07-10"
+ },
+ {
+  "id": "nosso_5b9ac364b4",
+  "perfil": "nossoatacarejo.com.br",
+  "titulo": "Nosso Final de Semana (10 a 12/07)",
+  "banner": "Nosso Atacarejo",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-10",
+  "fim": "2026-07-12",
+  "carrossel": false,
+  "shortcode": "nosso_5b9ac364b4",
+  "caption": "Nosso Final de Semana",
+  "paginas": [
+   "nosso_5b9ac364b4_p1.jpg"
+  ],
+  "adicionado_em": "2026-07-10",
+  "fonte": "web",
+  "link": "https://www.nossoatacarejo.com.br/encarte/nosso-final-de-semana-rn/5"
  }
 ]

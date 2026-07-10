@@ -1,0 +1,14 @@
+{
+ "validacoes": [
+  {"a": "Carne Bovina Posta Gorda com Osso kg", "b": "Carne Bovina Posta Gorda c/ Osso KG", "veredito": "mesmo"},
+  {"a": "Panceta Suína com Pele Granel kg", "b": "Panceta Buína com Pele Granel KG", "veredito": "mesmo"},
+  {"a": "ABS Semp Livre AD 32un c/abas", "b": "Abs Sempre Livre AD 32un c/Abas", "veredito": "mesmo"},
+  {"a": "Linguiça de Frango/Churrasco Aurora kg", "b": "Linguiça de Frango ou Churrasco Aurora KG", "veredito": "mesmo"},
+  {"a": "Linguiça Calabresa Sadia", "b": "Linguiça Calabresa Sadia KG", "veredito": "mesmo"},
+  {"a": "Coxão Mole Resfriado", "b": "Coxão Mole Resfriado KG", "veredito": "mesmo"},
+  {"a": "Carne Bovina Alcatra KG", "b": "Carne Bov Alcatra KG", "veredito": "mesmo"},
+  {"a": "Farinha de Trigo Dona Maria Saco 25kg", "b": "Farinha de Trigo Dona Maria 25kg", "veredito": "mesmo"},
+  {"a": "Pão de Alho Fabricação Própria Tradicional pct 350g", "b": "Pão de Alho Padaria Fabricação Própria Tradicional pct 350g", "veredito": "mesmo"},
+  {"a": "Margarina Deline Com sal Pote 500g", "b": "Margarina Deline com Sal 500g", "veredito": "mesmo"}
+ ]
+}

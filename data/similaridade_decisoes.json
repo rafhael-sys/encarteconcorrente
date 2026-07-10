@@ -999,5 +999,75 @@
   "b": "Desodorante Aerossol Dove 150ml Fragrancias",
   "veredito": "diferente",
   "quando": "2026-07-10"
+ },
+ "carne bovina posta gorda c/ osso kg || carne bovina posta gorda com osso kg": {
+  "a": "Carne Bovina Posta Gorda com Osso kg",
+  "b": "Carne Bovina Posta Gorda c/ Osso KG",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "panceta buina com pele granel kg || panceta suina com pele granel kg": {
+  "a": "Panceta Suína com Pele Granel kg",
+  "b": "Panceta Buína com Pele Granel KG",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "abs semp livre ad 32un c/abas || abs sempre livre ad 32un c/abas": {
+  "a": "ABS Semp Livre AD 32un c/abas",
+  "b": "Abs Sempre Livre AD 32un c/Abas",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "linguica de frango ou churrasco aurora kg || linguica de frango/churrasco aurora kg": {
+  "a": "Linguiça de Frango/Churrasco Aurora kg",
+  "b": "Linguiça de Frango ou Churrasco Aurora KG",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "linguica calabresa sadia || linguica calabresa sadia kg": {
+  "a": "Linguiça Calabresa Sadia",
+  "b": "Linguiça Calabresa Sadia KG",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "coxao mole resfriado || coxao mole resfriado kg": {
+  "a": "Coxão Mole Resfriado",
+  "b": "Coxão Mole Resfriado KG",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "carne bov alcatra kg || carne bovina alcatra kg": {
+  "a": "Carne Bovina Alcatra KG",
+  "b": "Carne Bov Alcatra KG",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "farinha de trigo dona maria 25kg || farinha de trigo dona maria saco 25kg": {
+  "a": "Farinha de Trigo Dona Maria Saco 25kg",
+  "b": "Farinha de Trigo Dona Maria 25kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "pao de alho fabricacao propria tradicional pct 350g || pao de alho padaria fabricacao propria tradicional pct 350g": {
+  "a": "Pão de Alho Fabricação Própria Tradicional pct 350g",
+  "b": "Pão de Alho Padaria Fabricação Própria Tradicional pct 350g",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "margarina deline com sal 500g || margarina deline com sal pote 500g": {
+  "a": "Margarina Deline Com sal Pote 500g",
+  "b": "Margarina Deline com Sal 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
  }
 }
