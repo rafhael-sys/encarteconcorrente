@@ -526,7 +526,10 @@
   "paginas": [
    "DabRmxqHxTB_p1.jpg",
    "DabRmxqHxTB_p2.jpg",
-   "DabRmxqHxTB_p3.jpg"
+   "DabRmxqHxTB_p3.jpg",
+   "DabRUA8jwaZ_p1.jpg",
+   "DabRUA8jwaZ_p2.jpg",
+   "DabRUA8jwaZ_p3.jpg"
   ],
   "adicionado_em": "2026-07-06"
  },
@@ -1121,24 +1124,6 @@
   "adicionado_em": "2026-07-08"
  },
  {
-  "id": "DabRUA8jwaZ",
-  "perfil": "queirozatacadaojoaocamara",
-  "titulo": "Copa de Ofertas (06 a 12/07)",
-  "banner": "Queiroz Atacadão João Câmara",
-  "segmento": "atacarejo",
-  "inicio": "2026-07-06",
-  "fim": "2026-07-12",
-  "carrossel": true,
-  "shortcode": "DabRUA8jwaZ",
-  "caption": "A Copa de Ofertas do Queiroz continua ⚽\n\nDe 06 a 12 de julho, tem ofertas pra você economizar de verdade 🔥",
-  "paginas": [
-   "DabRUA8jwaZ_p1.jpg",
-   "DabRUA8jwaZ_p2.jpg",
-   "DabRUA8jwaZ_p3.jpg"
-  ],
-  "adicionado_em": "2026-07-08"
- },
- {
   "id": "DaL_0i6FvJN",
   "perfil": "levamaisjc",
   "titulo": "Seleção de Ofertas (30/06 a 09/07)",
@@ -1219,22 +1204,7 @@
   "shortcode": "DainwtEoO6H",
   "caption": "A reta final da Copa chegou e essa é a sua chance de completar a coleção pagando menos ⚽ \n\nAproveite os descontos especiais nos álbuns e pacotes de figurinhas e, na compra de 3 álbuns Brochura ou 3 álbuns Capa Ouro, você paga apenas 2 🔥\n\n📅 Ofertas válidas até 31 de julho ou enquanto durarem os estoques.\n\nCorra para o Hiper Queiroz ou Queiroz Atacadão mais perto de você e garanta a sua coleção antes que acabe 🛒",
   "paginas": [
-   "DainwtEoO6H_p1.jpg"
-  ],
-  "adicionado_em": "2026-07-08"
- },
- {
-  "id": "DainoNFEfkA",
-  "perfil": "queirozatacadaojoaocamara",
-  "titulo": "Reta Final da Copa — Álbuns e Figurinhas Panini (até 31/07)",
-  "banner": "Queiroz Atacadão João Câmara",
-  "segmento": "atacarejo",
-  "inicio": "2026-07-08",
-  "fim": "2026-07-31",
-  "carrossel": false,
-  "shortcode": "DainoNFEfkA",
-  "caption": "A reta final da Copa chegou e essa é a sua chance de completar a coleção pagando menos ⚽ \n\nAproveite os descontos especiais nos álbuns e pacotes de figurinhas e, na compra de 3 álbuns Brochura ou 3 álbuns Capa Ouro, você paga apenas 2 🔥\n\n📅 Ofertas válidas até 31 de julho ou enquanto durarem os estoques.\n\nCorra para o Hiper Queiroz ou Queiroz Atacadão mais perto de você e garanta a sua coleção antes que acabe 🛒",
-  "paginas": [
+   "DainwtEoO6H_p1.jpg",
    "DainoNFEfkA_p1.jpg"
   ],
   "adicionado_em": "2026-07-08"
@@ -1253,22 +1223,7 @@
   "paginas": [
    "Dai5Aw-GzCL_p1.jpg",
    "Dai5Aw-GzCL_p2.jpg",
-   "Dai5Aw-GzCL_p3.jpg"
-  ],
-  "adicionado_em": "2026-07-09"
- },
- {
-  "id": "Dai4vkok2fJ",
-  "perfil": "queirozatacadaojoaocamara",
-  "titulo": "Ofertaço de Verdade (09 a 12/07)",
-  "banner": "Queiroz Atacadão João Câmara",
-  "segmento": "atacarejo",
-  "inicio": "2026-07-09",
-  "fim": "2026-07-12",
-  "carrossel": true,
-  "shortcode": "Dai4vkok2fJ",
-  "caption": "O encarte do Ofertaço de Verdade chegou com preços imperdíveis para você encher o carrinho e economizar 💥 \n\n📅 Ofertas válidas de 09 a 12 de julho.",
-  "paginas": [
+   "Dai5Aw-GzCL_p3.jpg",
    "Dai4vkok2fJ_p1.jpg",
    "Dai4vkok2fJ_p2.jpg",
    "Dai4vkok2fJ_p3.jpg"
