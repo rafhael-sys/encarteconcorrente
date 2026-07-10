@@ -940,5 +940,64 @@
   "veredito": "mesmo",
   "quando": "2026-07-09",
   "aplicado": true
+ },
+ "batata pre-frita mazid congelada 2kg || batata pre-frita mazio congelada 2kg": {
+  "a": "Batata Pré-Frita Mazio Congelada 2kg",
+  "b": "Batata Pré-Frita Mazid Congelada 2kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "toalha umedecida personal baby c/50 || toalha umidecida personal baby c/50": {
+  "a": "Toalha Umedecida Personal Baby c/50",
+  "b": "Toalha Umidecida Personal Baby c/50",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "aparelho de barbear gillette presto ultra grip c/2 || aparelho de barbear gillette prestobarba ultra grip c/2": {
+  "a": "Aparelho de Barbear Gillette Prestobarba Ultra Grip c/2",
+  "b": "Aparelho de Barbear Gillette Presto Ultra Grip c/2",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "manteiga itacolomy c/ sal pt 500g || manteiga itacolomy com sal pote 500g": {
+  "a": "Manteiga Itacolomy c/ Sal pt 500g",
+  "b": "Manteiga Itacolomy com Sal Pote 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "abs sempre livre adapt suave c/abas leve8 pague7 || absorvente sempre livre adapt suave c/ abas leve8 pague7": {
+  "a": "Absorvente Sempre Livre Adapt Suave c/ Abas Leve8 Pague7",
+  "b": "ABS Sempre Livre Adapt Suave c/Abas Leve8 Pague7",
+  "veredito": "mesmo",
+  "quando": "2026-07-10",
+  "aplicado": true
+ },
+ "file de peito de frango lar congelado iqf 1kg || file de peito de frango sadia congelado iqf 1kg": {
+  "a": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
+  "b": "Filé de Peito de Frango Lar Congelado IQF 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-10"
+ },
+ "batata pre-frita mazid congelada 2kg || batata pre-frita mccain congelada 2kg": {
+  "a": "Batata Pré-frita McCain Congelada 2kg",
+  "b": "Batata Pré-Frita Mazid Congelada 2kg",
+  "veredito": "diferente",
+  "quando": "2026-07-10"
+ },
+ "desodorante aerossol dove 150ml fragrancias || desodorante aerossol mood 150ml (fragrancias)": {
+  "a": "Desodorante Aerossol Mood 150ml (Fragrâncias)",
+  "b": "Desodorante Aerossol Dove 150ml Fragrancias",
+  "veredito": "diferente",
+  "quando": "2026-07-10"
+ },
+ "desodorante aerosol nivea 150ml fragrancias || desodorante aerossol dove 150ml fragrancias": {
+  "a": "Desodorante Aerosol Nivea 150ml Fragrâncias",
+  "b": "Desodorante Aerossol Dove 150ml Fragrancias",
+  "veredito": "diferente",
+  "quando": "2026-07-10"
  }
 }

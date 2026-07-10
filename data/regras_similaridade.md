@@ -145,3 +145,12 @@
 - MESMO: «Uva Vitória sem Semente 500g» == «Uva Vitória Sem Sementes BDJ 500g»
 - MESMO: «Vinho Collina GF 750ml Sabores» == «Vinho Colina 750ml Sabores»
 - MESMO: «Whisky Johnnie Walker Red Label 750ml» == «Whisky Johnie Walker Red Label 750ml»
+- MESMO: «Absorvente Sempre Livre Adapt Suave c/ Abas Leve8 Pague7» == «ABS Sempre Livre Adapt Suave c/Abas Leve8 Pague7»
+- MESMO: «Aparelho de Barbear Gillette Prestobarba Ultra Grip c/2» == «Aparelho de Barbear Gillette Presto Ultra Grip c/2»
+- MESMO: «Batata Pré-Frita Mazio Congelada 2kg» == «Batata Pré-Frita Mazid Congelada 2kg»
+- DIFERENTES: «Batata Pré-frita McCain Congelada 2kg» != «Batata Pré-Frita Mazid Congelada 2kg»
+- DIFERENTES: «Desodorante Aerosol Nivea 150ml Fragrâncias» != «Desodorante Aerossol Dove 150ml Fragrancias»
+- DIFERENTES: «Desodorante Aerossol Mood 150ml (Fragrâncias)» != «Desodorante Aerossol Dove 150ml Fragrancias»
+- DIFERENTES: «Filé de Peito de Frango Sadia Congelado IQF 1kg» != «Filé de Peito de Frango Lar Congelado IQF 1kg»
+- MESMO: «Manteiga Itacolomy c/ Sal pt 500g» == «Manteiga Itacolomy com Sal Pote 500g»
+- MESMO: «Toalha Umedecida Personal Baby c/50» == «Toalha Umidecida Personal Baby c/50»
