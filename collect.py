@@ -31,6 +31,17 @@ APP_ID = '936619743392459'
 PROXY = os.environ.get('IG_PROXY', '').strip()
 PROXY_ARGS = ['-x', PROXY] if PROXY else []
 
+
+def _proxy_funciona():
+    """Proxy quebrado zerou a coleta em 09/07/2026 (0/13 perfis): antes de
+    usar, testa o túnel uma vez; se não conectar, a coleta segue DIRETA."""
+    try:
+        r = sh(['curl', '-s', '--max-time', '25', '-x', PROXY,
+                'https://api.ipify.org'])
+        return r.returncode == 0 and bool(r.stdout.strip())
+    except (OSError, subprocess.SubprocessError):
+        return False
+
 # legenda que sugere ação de encarte/oferta com produto
 KEYWORDS = re.compile(
     r'encarte|oferta|ofertaço|promoç|válid[ao]s?\s|feirão|festival|fecha\s*m[êe]s|'
@@ -184,6 +195,11 @@ def processa_perfil(p, seen, fila, status, agora):
 
 
 def main():
+    global PROXY_ARGS
+    if PROXY and not _proxy_funciona():
+        print('[aviso] proxy do Instagram (IG_PROXY) não conectou — coleta segue com conexão direta',
+              file=sys.stderr)
+        PROXY_ARGS = []
     profiles = json.load(open(os.path.join(BASE, 'profiles.json')))
     seen_path = os.path.join(DATA, 'posts_vistos.json')
     fila_path = os.path.join(DATA, 'fila_novos.json')
