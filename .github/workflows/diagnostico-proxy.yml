@@ -1,0 +1,56 @@
+# TEMPORÁRIO — será removido depois do diagnóstico. Testa, no mesmo ambiente
+# da rotina, se o proxy residencial (segredo IG_PROXY) está funcionando e se o
+# Instagram responde pelo caminho direto e pelo proxy. Não imprime o segredo
+# (nem usuário, nem senha, nem endereço) — só tamanho, códigos e trechos de
+# resposta.
+name: TEMP diagnóstico do proxy do Instagram
+on:
+  push:
+    branches: [claude/add-competitors-instagram-site-v2g8dw]
+    paths: ['.github/workflows/diagnostico-proxy.yml']
+jobs:
+  diagnosticar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      IG_PROXY: ${{ secrets.IG_PROXY }}
+    steps:
+      - name: Testar caminhos direto e via proxy
+        run: |
+          UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36'
+          URL='https://i.instagram.com/api/v1/users/web_profile_info/?username=redemaisrn'
+          mascara() { sed -E 's/([0-9]+\.[0-9]+)\.[0-9]+\.[0-9]+/\1.x.x/g'; }
+
+          if [ -z "${IG_PROXY:-}" ]; then
+            echo "IG_PROXY: NAO configurado — a coleta usa conexão direta"
+          else
+            echo "IG_PROXY: configurado (${#IG_PROXY} caracteres)"
+          fi
+
+          echo "== IP de saída DIRETO:"
+          curl -s --max-time 20 https://api.ipify.org | mascara || echo "(falha, exit $?)"
+          echo
+
+          if [ -n "${IG_PROXY:-}" ]; then
+            echo "== IP de saída VIA PROXY:"
+            if ! curl -s --max-time 40 -x "$IG_PROXY" https://api.ipify.org | mascara; then
+              echo "(túnel do proxy FALHOU, exit $?)"
+            fi
+            echo
+          fi
+
+          echo "== Instagram DIRETO:"
+          rc=0
+          codigo=$(curl -sk --compressed -A "$UA" -H 'x-ig-app-id: 936619743392459' \
+                   --max-time 40 -o /tmp/direto.json -w '%{http_code}' "$URL") || rc=$?
+          echo "curl exit=$rc http=$codigo bytes=$(wc -c < /tmp/direto.json 2>/dev/null || echo 0)"
+          head -c 160 /tmp/direto.json 2>/dev/null | tr -d '\n' | mascara; echo
+
+          if [ -n "${IG_PROXY:-}" ]; then
+            echo "== Instagram VIA PROXY:"
+            rc=0
+            codigo=$(curl -sk --compressed -A "$UA" -H 'x-ig-app-id: 936619743392459' \
+                     --max-time 60 -x "$IG_PROXY" -o /tmp/proxy.json -w '%{http_code}' "$URL") || rc=$?
+            echo "curl exit=$rc http=$codigo bytes=$(wc -c < /tmp/proxy.json 2>/dev/null || echo 0)"
+            head -c 160 /tmp/proxy.json 2>/dev/null | tr -d '\n' | mascara; echo
+          fi
