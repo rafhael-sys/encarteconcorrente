@@ -1,0 +1,34 @@
+# TEMPORÁRIO — publica AGORA o painel com as melhorias já mescladas no main,
+# SEM rodar coleta nem análise (a coleta fica para a janela das 07h13, de
+# propósito, como teste da rotina). Será removido após a publicação.
+name: TEMP publicar só as melhorias do painel
+on:
+  push:
+    branches: [claude/add-competitors-instagram-site-v2g8dw]
+    paths: ['.github/workflows/publicar-melhorias.yml']
+
+concurrency:
+  group: encartes-rotina
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TZ: America/Fortaleza
+      NETLIFY_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
+      PAINEL_SENHA: ${{ secrets.PAINEL_SENHA }}
+    steps:
+      - name: Baixar o repositório (main)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements-cloud.txt
+      - name: Gerar o painel (dados atuais + visual novo)
+        run: python3 build_painel.py
+      - name: Publicar no Netlify
+        run: ENCARTES_LOCK_HERDADA=1 bash publicar_painel.sh
