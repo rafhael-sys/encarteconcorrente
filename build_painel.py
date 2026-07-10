@@ -162,7 +162,9 @@ TRADUCOES = [
     (r'^atacadao: (.*)', r'Coleta do site do Atacadão falhou (\1)'),
     (r'^assai (\S+): nenhuma página baixou.*', r'Encarte \1 do Assaí: nenhuma página baixou — fica para a próxima janela'),
     (r'^assai: (.*)', r'Coleta do site do Assaí falhou (\1)'),
-    (r'^coleta web .*falhou.*', 'Coleta dos sites (Assaí/Atacadão) falhou nesta janela'),
+    (r'^nosso (.+): nenhuma página baixou.*', r'Encarte "\1" do Nosso Atacarejo: nenhuma página baixou — fica para a próxima janela'),
+    (r'^nosso: (.*)', r'Coleta do site do Nosso Atacarejo falhou (\1)'),
+    (r'^coleta web .*falhou.*', 'Coleta dos sites (Assaí/Atacadão/Nosso) falhou nesta janela'),
     # Instagram
     (r'^(\S+): Expecting value.*', r'Instagram não respondeu para o perfil \1 (bloqueio passageiro de rede)'),
     (r"^(\S+): Command .*timed out.*", r'Instagram demorou demais para responder o perfil \1 (tempo esgotado)'),

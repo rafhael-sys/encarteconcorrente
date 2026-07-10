@@ -40,8 +40,8 @@ echo "=== $(date '+%Y-%m-%d %H:%M') rotina na nuvem iniciando ==="
 # 1) coleta do Instagram (perfis públicos). A collect.py já re-tenta internamente.
 python3 collect.py || echo "[aviso] coleta do Instagram falhou nesta execução (possível rate-limit)"
 
-# 2) coleta web (Assaí + Atacadão)
-python3 collect_web.py || echo "[aviso] coleta web (Assaí/Atacadão) falhou nesta execução"
+# 2) coleta web (Assaí + Atacadão + Nosso Atacarejo)
+python3 collect_web.py || echo "[aviso] coleta web (Assaí/Atacadão/Nosso) falhou nesta execução"
 
 # 3) ingere as validações de similaridade pendentes
 python3 aplica_validacoes.py || echo "[aviso] aplicação das validações de similaridade falhou"

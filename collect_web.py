@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Coleta de encartes de fontes WEB (fora do Instagram).
 
-Fonte ativa: Assaí Atacadista (loja Natal) — JSON nacional público com os ciclos
-de oferta e as páginas do encarte em JPEG (CloudFront). Validade vem do JSON.
-Documentação da descoberta: docs_assai_api.md. Atacadão documentado em
-docs_atacadao_api.md (pendente: encarte em PDF exige conversor de imagem).
+Fontes ativas: Assaí Atacadista (loja Natal), Atacadão (loja Natal-Sul) e
+Nosso Atacarejo (loja Assú/RN). Validade vem dos dados de cada site.
+Documentação das descobertas: docs_assai_api.md, docs_atacadao_api.md e
+docs_nosso_api.md.
 """
 import json
 import os
@@ -56,7 +56,7 @@ def br_date(s):
 
 def download(url, path, tentativas=4):
     """Baixa a imagem re-tentando alguns soluços passageiros do CDN (Assaí/
-    Atacadão) NA MESMA coleta, em vez de deixar para a próxima. True só se
+    Atacadão/Nosso) NA MESMA coleta, em vez de deixar para a próxima. True só se
     baixou uma imagem plausível; nunca deixa arquivo lixo para trás."""
     for t in range(1, tentativas + 1):
         try:
@@ -259,6 +259,145 @@ def coleta_atacadao(seen, fila):
     return novos
 
 
+NOSSO_LOJA = 5  # loja 5 = Assú/RN (1 = Pau dos Ferros, 2 = São Miguel)
+# qualquer página de encarte da loja traz o catálogo completo embutido; se um
+# slug sair do ar, os outros dois conhecidos servem de porta de entrada
+NOSSO_SLUGS = ('quarta-e-quinta-rn', 'nosso-final-de-semana-rn', 'encarte-do-mes-rn')
+NOSSO_LINK = f'https://www.nossoatacarejo.com.br/encarte/{NOSSO_SLUGS[0]}/{NOSSO_LOJA}'
+
+
+def _nosso_flyers(html):
+    """Extrai o array 'flyers' do payload Next.js (self.__next_f) embutido no
+    HTML da página do encarte — ver docs_nosso_api.md. [] se não achar."""
+    import re
+    pedacos = []
+    for m in re.finditer(r'self\.__next_f\.push\(\[1,("(?:[^"\\]|\\.)*")\]\)', html):
+        try:
+            pedacos.append(json.loads(m.group(1)))
+        except json.JSONDecodeError:
+            pass
+    fluxo = ''.join(pedacos)
+    i = fluxo.find('"flyers":[')
+    if i < 0:
+        return []
+    i += len('"flyers":')
+    # recorta o array respeitando aninhamento e strings
+    prof, em_str, esc = 0, False, False
+    for j in range(i, len(fluxo)):
+        c = fluxo[j]
+        if em_str:
+            if esc:
+                esc = False
+            elif c == '\\':
+                esc = True
+            elif c == '"':
+                em_str = False
+        elif c == '"':
+            em_str = True
+        elif c == '[':
+            prof += 1
+        elif c == ']':
+            prof -= 1
+            if prof == 0:
+                try:
+                    return json.loads(fluxo[i:j + 1])
+                except json.JSONDecodeError:
+                    return []
+    return []
+
+
+def png_para_jpg(src, dst):
+    """Converte a página PNG (formato do CDN do Nosso) para o JPG que todo o
+    resto do projeto espera. Pillow (nuvem); sips no macOS de reserva."""
+    try:
+        from PIL import Image
+        with Image.open(src) as im:
+            if im.mode not in ('RGB', 'L'):
+                im = im.convert('RGB')
+            im.save(dst, 'JPEG', quality=92, optimize=True, subsampling=0)
+        return True
+    except Exception:
+        try:
+            r = sh(['sips', '-s', 'format', 'jpeg', '-s', 'formatOptions', '92',
+                    src, '--out', dst])
+            return r.returncode == 0 and os.path.exists(dst)
+        except (OSError, subprocess.SubprocessError):
+            return False
+
+
+def coleta_nosso(seen, fila):
+    import hashlib
+    flyers = []
+    for slug in NOSSO_SLUGS:
+        url = f'https://www.nossoatacarejo.com.br/encarte/{slug}/{NOSSO_LOJA}'
+        for t in range(2):
+            try:
+                r = sh(['curl', '-sL', '--compressed', '-A', UA, url])
+                flyers = _nosso_flyers(r.stdout)
+            except subprocess.SubprocessError:
+                flyers = []
+            if flyers:
+                break
+            if t < 1:
+                time.sleep(10)
+        if flyers:
+            break
+    if not flyers:
+        # curl barrado: abre a página num Chrome real (plano B)
+        flyers = _nosso_flyers(html_via_navegador(NOSSO_LINK, '#main-content-flyer'))
+    if not flyers:
+        raise ValueError('catálogo de encartes não encontrado na página (curl e navegador)')
+    novos = 0
+    hoje = datetime.date.today().isoformat()
+    for f in flyers:
+        fid = str(f.get('id', '')).strip()
+        imgs = sorted(f.get('images') or [], key=lambda i: i.get('order') or 0)
+        if not fid or not imgs:
+            continue
+        ini = str(f.get('start_date', ''))[:10]
+        fim = str(f.get('end_date', ''))[:10]
+        # o id do flyer é fixo por campanha (só as imagens/datas trocam a cada
+        # ciclo), então a chave de "já visto" precisa incluir o período
+        chave = f'nosso:{fid}:{ini}:{fim}'
+        if chave in seen:
+            continue
+        if fim and fim < hoje:
+            seen.add(chave)  # ciclo já vencido, não interessa coletar
+            continue
+        nome = f.get('name') or 'Encarte Nosso Atacarejo'
+        aid = 'nosso_' + hashlib.md5(chave.encode()).hexdigest()[:10]
+        files = []
+        for j, img in enumerate(imgs):
+            url = img.get('image_url')
+            if not url:
+                continue
+            png = os.path.join(PAGES, f'{aid}_p{j+1}.png')
+            fn = f'{aid}_p{j+1}.jpg'
+            if download(url, png) and png_para_jpg(png, os.path.join(PAGES, fn)):
+                files.append(fn)
+            try:
+                os.remove(png)
+            except OSError:
+                pass
+            time.sleep(0.5)
+        if files:
+            slug = f.get('slug', '')
+            fila.append({
+                'shortcode': aid, 'perfil': 'nossoatacarejo.com.br', 'banner': 'Nosso Atacarejo',
+                'segmento': 'atacarejo', 'caption': nome,
+                'taken_at': 0, 'carrossel': len(files) > 1, 'paginas': files,
+                'coletado_em': hoje,
+                'fonte': 'web',
+                'link': f'https://www.nossoatacarejo.com.br/encarte/{slug}/{NOSSO_LOJA}' if slug else NOSSO_LINK,
+                'validade_confiavel': bool(ini and fim), 'inicio': ini, 'fim': fim,
+            })
+            novos += 1
+            seen.add(chave)
+        else:
+            print(f'[aviso] nosso {nome}: nenhuma página baixou, fica para a próxima', file=sys.stderr)
+    return novos
+
+
 def main():
     seen_path = os.path.join(DATA, 'posts_vistos.json')
     fila_path = os.path.join(DATA, 'fila_novos.json')
@@ -268,8 +407,10 @@ def main():
     status = load_json(status_path, {})
     agora = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
     total, falhas = 0, []
-    for nome, rotulo, fonte in [('assai', 'Assaí Atacadista', coleta_assai),
-                                ('atacadao', 'Atacadão', coleta_atacadao)]:
+    fontes_web = [('assai', 'Assaí Atacadista', coleta_assai),
+                  ('atacadao', 'Atacadão', coleta_atacadao),
+                  ('nosso', 'Nosso Atacarejo', coleta_nosso)]
+    for nome, rotulo, fonte in fontes_web:
         try:
             total += fonte(seen, fila)
             status[rotulo] = {'ultima_coleta_ok': agora, 'ultimo_erro': None}
@@ -283,7 +424,7 @@ def main():
     save_json(fila_path, fila)
     save_json(status_path, status)
     print(f'{total} ciclos de oferta web novos na fila')
-    if len(falhas) == 2:
+    if len(falhas) == len(fontes_web):
         sys.exit(1)  # só falha se TODAS as fontes web falharem
 
 
