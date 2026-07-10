@@ -33,9 +33,6 @@ jobs:
       TZ: America/Fortaleza
       NETLIFY_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
       PAINEL_SENHA: ${{ secrets.PAINEL_SENHA }}
-      # proxy residencial opcional para o Instagram (formato
-      # http://usuario:senha@host:porta) — sem o segredo, conexão direta
-      IG_PROXY: ${{ secrets.IG_PROXY }}
       CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
     steps:

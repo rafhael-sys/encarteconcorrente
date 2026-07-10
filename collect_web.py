@@ -58,22 +58,28 @@ def download(url, path, tentativas=4):
     """Baixa a imagem re-tentando alguns soluços passageiros do CDN (Assaí/
     Atacadão/Nosso) NA MESMA coleta, em vez de deixar para a próxima. True só se
     baixou uma imagem plausível; nunca deixa arquivo lixo para trás."""
+    motivo = '?'
     for t in range(1, tentativas + 1):
         try:
-            sh(['curl', '-sk', '--compressed', '-A', UA, '-o', path, url])
+            r = sh(['curl', '-sk', '--compressed', '-A', UA, '-o', path,
+                    '-w', '%{http_code}', url])
+            codigo = r.stdout.strip() or 'sem resposta'
             if os.path.getsize(path) < 1024:
-                raise ValueError
+                raise ValueError(f'http {codigo}, corpo pequeno demais')
             with open(path, 'rb') as f:
                 if f.read(20).lstrip().startswith(b'<'):
-                    raise ValueError
+                    raise ValueError(f'http {codigo}, corpo HTML (erro do CDN)')
             return True
-        except (OSError, ValueError, subprocess.SubprocessError):
+        except (OSError, ValueError, subprocess.SubprocessError) as e:
+            motivo = str(e) or e.__class__.__name__
             try:
                 os.remove(path)
             except OSError:
                 pass
             if t < tentativas:
                 time.sleep(min(8, 1.5 ** t) + random.uniform(0, 0.8))
+    # o motivo no log transforma "não baixou" num problema diagnosticável
+    print(f'[aviso] download falhou ({motivo}): {url[:90]}', file=sys.stderr)
     return False
 
 
