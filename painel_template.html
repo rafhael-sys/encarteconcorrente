@@ -102,7 +102,7 @@
 
   .card{
     text-align:left;border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;background:var(--bg);
-    transition:box-shadow .15s,transform .15s;display:flex;flex-direction:column;
+    transition:box-shadow .15s,transform .15s;display:flex;flex-direction:column;cursor:pointer;
   }
   .card:hover{box-shadow:0 6px 20px rgba(0,0,0,.09);transform:translateY(-1px)}
   .thumb{position:relative;aspect-ratio:4/4.2;background:var(--surface);overflow:hidden}
@@ -112,6 +112,14 @@
     position:absolute;right:8px;bottom:8px;background:rgba(13,13,13,.72);color:#fff;
     font-size:11.5px;font-weight:500;border-radius:999px;padding:3px 9px;
   }
+  /* botão de PDF no bloco: alvo grande e rótulo claro (uso fácil no celular) */
+  .thumb .pdfbtn{
+    position:absolute;right:8px;top:8px;background:rgba(13,13,13,.72);color:#fff;
+    font-size:11.5px;font-weight:600;border-radius:999px;padding:5px 11px;line-height:1;
+  }
+  .thumb .pdfbtn:hover{background:#0b6e55}
+  /* no celular o alvo de toque cresce (dedo não é seta de mouse) */
+  @media (hover:none){.thumb .pdfbtn{padding:10px 14px;font-size:12.5px}}
   .card-b{padding:12px 14px 13px;display:flex;flex-direction:column;gap:5px}
   .card-b .banner{font-size:11.5px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;color:var(--text-3)}
   .card-b .title{font-size:14.5px;font-weight:600;letter-spacing:-.01em}
@@ -389,7 +397,7 @@
     <div class="head-tools">
       <div class="search" id="searchBox">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.4-3.4"/></svg>
-        <input id="q" type="search" placeholder="Buscar produto… ex.: picanha, óleo, treloso" autocomplete="off">
+        <input id="q" type="search" placeholder="Buscar produto ou concorrente… ex.: picanha, nordestão" autocomplete="off">
         <kbd>/</kbd>
         <button class="clear" id="clearQ" aria-label="Limpar busca">✕</button>
       </div>
@@ -429,6 +437,7 @@
     <div class="panel-f">
       <div class="dots" id="vDots"></div>
       <span class="pcount" id="vCount"></span>
+      <button class="iglink" id="vPdf" type="button" title="Baixar este encarte em PDF">Baixar PDF ⤓</button>
       <a class="iglink" id="vLink" target="_blank" rel="noopener">Ver no Instagram ↗</a>
     </div>
   </div>
@@ -652,12 +661,16 @@ function render(){
 }
 
 function card(a){
-  const el = document.createElement('button'); el.className='card';
+  // div com papel de botão (e não <button>): o botão de PDF mora DENTRO do
+  // cartão, e botão dentro de botão é HTML inválido (clique vira loteria)
+  const el = document.createElement('div'); el.className='card';
+  el.setAttribute('role','button'); el.tabIndex = 0;
   const st = status(a);
   const nprod = a.pgs.reduce((s,p)=> s+(PRODUCTS[p]||[]).length, 0);
   const cover = a.pgs.find(p => IMG[p]);
   el.innerHTML = `
     <div class="thumb">${cover ? `<img src="${IMG[cover]}" alt="" loading="lazy">` : '<span class="thumb-off">imagem no Instagram ↗</span>'}
+      ${cover ? '<button class="pdfbtn" type="button" title="Baixar este encarte em PDF">PDF ⤓</button>' : ''}
       <span class="npag">${a.pgs.length} pág · ${nprod} itens</span></div>
     <div class="card-b">
       <span class="banner">${esc(a.banner)}</span>
@@ -666,7 +679,13 @@ function card(a){
     </div>`;
   // abre direto na primeira página que tem produto (pula capa/publicidade)
   const first = Math.max(0, a.pgs.findIndex(p => (PRODUCTS[p]||[]).length > 0));
-  el.addEventListener('click', () => openViewer(a, first, null));
+  el.addEventListener('click', e => {
+    if(e.target.closest('.pdfbtn')){ baixaPDF(a); return; }
+    openViewer(a, first, null);
+  });
+  el.addEventListener('keydown', e => {
+    if(e.key === 'Enter' || e.key === ' '){ e.preventDefault(); openViewer(a, first, null); }
+  });
   return el;
 }
 
@@ -681,9 +700,27 @@ function renderSearch(main, inTab){
   const hits = INDEX.filter(h => matches(h.key, query) && (isActive(h.a) || naJanela(h.a)));
   const inTabIds = new Set(inTab.map(a=>a.id));
   const shown = hits.filter(h => inTabIds.has(h.a.id));
-  const other = hits.length - shown.length;
+  // o MESMO campo também acha concorrente pelo nome: os encartes dele
+  // aparecem como cartões acima dos produtos
+  const bannerHits = inTab.filter(a => matches(norm(a.banner), query));
+  const bannerOther = ACTIONS.filter(a => !inTabIds.has(a.id) && naJanela(a)
+    && matches(norm(a.banner), query)).length;
+  const other = hits.length - shown.length + bannerOther;
 
   main.innerHTML = '';
+  if(bannerHits.length){
+    const t = document.createElement('div'); t.className = 'seg-title';
+    t.textContent = 'Encartes de ' + [...new Set(bannerHits.map(a => a.banner))].join(' · ');
+    main.appendChild(t);
+    const g = document.createElement('div'); g.className = 'grid';
+    bannerHits.forEach(a => g.appendChild(card(a)));
+    main.appendChild(g);
+    // achou o concorrente e nenhum produto: os cartões já respondem a busca
+    if(!shown.length && !other) return;
+    const sep = document.createElement('div'); sep.className = 'seg-title';
+    sep.textContent = 'Produtos';
+    main.appendChild(sep);
+  }
   const head = document.createElement('div'); head.className='rhead';
   head.innerHTML = `<b>${shown.length}</b> resultado${shown.length===1?'':'s'} para “<b>${esc(query)}</b>” em ${tab==='on'?'vigentes':'expirados'}`
     + (other>0 ? ` <button class="rhint" id="swTab">+${other} em ${tab==='on'?'expirados':'vigentes'} →</button>` : '');
@@ -928,6 +965,77 @@ function highlight(name){
   return out + esc(name.slice(prev));
 }
 
+/* ---------- download do encarte em PDF ----------
+   Montado NO NAVEGADOR na hora do clique, com as fotos que já estão no
+   painel: sem servidor, sem biblioteca, sem deixar o painel mais pesado.
+   JPEG entra no PDF do jeito que está (filtro DCTDecode) — juntar as páginas
+   é só escrever o esqueleto do arquivo, por isso é instantâneo. */
+function aviso(msg){
+  const av = document.createElement('div');
+  av.style.cssText = 'position:fixed;left:50%;bottom:70px;transform:translateX(-50%);z-index:90;background:#0d0d0d;color:#fff;font-size:13px;border-radius:12px;padding:9px 16px';
+  av.textContent = msg;
+  document.body.appendChild(av);
+  setTimeout(() => av.remove(), 2500);
+}
+function _b64bytes(dataUri){
+  const b = atob(dataUri.slice(dataUri.indexOf(',') + 1));
+  const u = new Uint8Array(b.length);
+  for(let i = 0; i < b.length; i++) u[i] = b.charCodeAt(i);
+  return u;
+}
+function _jpegDim(u){
+  // largura/altura/nº de cores direto do cabeçalho JPEG (marcadores SOF)
+  let i = 2;
+  while(i + 9 < u.length && u[i] === 0xFF){
+    const m = u[i + 1];
+    if(m >= 0xC0 && m <= 0xCF && m !== 0xC4 && m !== 0xC8 && m !== 0xCC)
+      return {h: (u[i+5] << 8) | u[i+6], w: (u[i+7] << 8) | u[i+8], gray: u[i+9] === 1};
+    i += 2 + ((u[i+2] << 8) | u[i+3]);
+  }
+  return null;
+}
+function encartePDF(a){
+  const jpgs = a.pgs.map(p => IMG[p]).filter(d => d && d.startsWith('data:image/jpeg'))
+    .map(_b64bytes).map(u => ({u, d: _jpegDim(u)})).filter(x => x.d);
+  if(!jpgs.length) return null;
+  const parts = []; let pos = 0; const offs = [];
+  const push = x => { const u = typeof x === 'string' ? new TextEncoder().encode(x) : x; parts.push(u); pos += u.length; };
+  const obj = (n, corpo) => { offs[n] = pos; push(`${n} 0 obj\n${corpo}\nendobj\n`); };
+  push('%PDF-1.4\n'); push(new Uint8Array([0x25, 0xE2, 0xE3, 0xCF, 0xD3, 0x0A]));
+  const nObj = 2 + jpgs.length * 3;
+  obj(1, '<</Type/Catalog/Pages 2 0 R>>');
+  obj(2, `<</Type/Pages/Count ${jpgs.length}/Kids[${jpgs.map((_, i) => `${3 + i*3} 0 R`).join(' ')}]>>`);
+  jpgs.forEach((x, i) => {
+    const n = 3 + i*3, {w, h, gray} = x.d;
+    obj(n, `<</Type/Page/Parent 2 0 R/MediaBox[0 0 ${w} ${h}]/Resources<</XObject<</I ${n+1} 0 R>>>>/Contents ${n+2} 0 R>>`);
+    offs[n+1] = pos;
+    push(`${n+1} 0 obj\n<</Type/XObject/Subtype/Image/Width ${w}/Height ${h}/ColorSpace/Device${gray ? 'Gray' : 'RGB'}/BitsPerComponent 8/Filter/DCTDecode/Length ${x.u.length}>>\nstream\n`);
+    push(x.u);
+    push('\nendstream\nendobj\n');
+    const ct = `q ${w} 0 0 ${h} 0 0 cm /I Do Q`;
+    obj(n+2, `<</Length ${ct.length}>>\nstream\n${ct}\nendstream`);
+  });
+  const xref = pos;
+  push(`xref\n0 ${nObj + 1}\n0000000000 65535 f \n`
+    + offs.slice(1).map(o => String(o).padStart(10, '0') + ' 00000 n \n').join('')
+    + `trailer\n<</Size ${nObj + 1}/Root 1 0 R>>\nstartxref\n${xref}\n%%EOF`);
+  return parts;
+}
+function baixaPDF(a){
+  const parts = encartePDF(a);
+  if(!parts){
+    aviso(window.__fotosCarregando ? 'As fotos ainda estão baixando — tente de novo em instantes'
+                                   : 'Este encarte não tem fotos no painel');
+    return;
+  }
+  const nome = `Encarte ${a.banner} ${fmt(a.ini).replace('/', '-')} a ${fmt(a.fim).replace('/', '-')}.pdf`;
+  const url = URL.createObjectURL(new Blob(parts, {type: 'application/pdf'}));
+  const l = document.createElement('a');
+  l.href = url; l.download = nome;
+  document.body.appendChild(l); l.click(); l.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 60000);
+}
+
 /* ---------- visor ---------- */
 let V = null; // {a, pg, prod}
 function openViewer(a, pg, prod){
@@ -1030,6 +1138,7 @@ $('tabAgr').addEventListener('click', ()=>{ tab='agr'; render(); });
 $('q').addEventListener('input', e=>{ query = e.target.value.trim(); rankShown=100; render(); });
 $('clearQ').addEventListener('click', ()=>{ query=''; $('q').value=''; render(); $('q').focus(); });
 $('vClose').addEventListener('click', closeViewer);
+$('vPdf').addEventListener('click', () => { if(V) baixaPDF(V.a); });
 $('overlay').addEventListener('click', e=>{ if(e.target===$('overlay')) closeViewer(); });
 $('vPrev').addEventListener('click', ()=>{ if(V.pg>0){ V.pg--; V.prod=null; drawPage(); } });
 $('vNext').addEventListener('click', ()=>{ if(V.pg<V.a.pgs.length-1){ V.pg++; V.prod=null; drawPage(); } });

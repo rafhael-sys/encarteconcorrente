@@ -22,6 +22,20 @@ Na prática, ao mexer neste projeto:
 
 Na dúvida entre duas opções, escolha a mais **enxuta**.
 
+## Princípio nº 2 — Rápido, sempre
+
+**O sistema não pode ficar lento.** Tudo é pensado para eficiência e
+velocidade, e para que uma pessoa do setor comercial — leiga, no celular,
+com pressa — use com muita facilidade.
+
+- **Painel:** carregamento leve (fotos fora do miolo, em segundo plano),
+  busca instantânea, cliques respondendo na hora. Botões com rótulo claro e
+  alvo grande.
+- **Recurso novo só entra se não pesar:** nada de servidor extra, biblioteca
+  externa ou processamento pesado no aparelho. O que puder ser feito no
+  navegador com o que já está na página, é assim que se faz.
+- **Na dúvida, meça antes de publicar** (peso do painel e tempo de resposta).
+
 ## Como a rotina roda (resumo)
 
 - Roda 100% na nuvem (GitHub Actions), 3x/dia (~07h/13h/20h de Natal), sem
