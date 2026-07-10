@@ -1,0 +1,54 @@
+{
+ "validacoes": [
+  {
+   "a": "Escova Dental Colgate Classic Clean Media Leve3Pague2",
+   "b": "Escova Dental Colgate Classic Clean Media Leve3 Pague2",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aveia Flocos / Flocos Finos Nestlé Leve170Pague150g",
+   "b": "Aveia Flocos/Flocos Finos Nestle Leve170 Pague150g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Íntimo Topz 200ml Leve2Pague1",
+   "b": "Sabonete Intimo Topz 200ml Leve2 Pague1",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Whisky Johnnie Walker Red Label 750ml",
+   "b": "Whisky Johnie Walker Red Label 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maionese Hellmann's Doy Pack 400g",
+   "b": "Maionese Hellmann's Doypack 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog Bom Todo kg",
+   "b": "Salsicha Hotdog Bom Todo kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Esponja Brilhus Leve4Pague3",
+   "b": "Esponja Brilhus Leve4 Pague3",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fígado Bovino Reserva Friboi Congelado Pedaço",
+   "b": "Fígado Bovino Reserva Fribol Congelado Pedaço",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Margarina Primor 500g",
+   "b": "Margarina Primo 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sorvete Ster Bom pt 2 litros ou Batata Palito EasyChef pct 2kg",
+   "b": "Sorvete Ster Bom 2 litros ou Batata Palito EasyChef pct 2kg",
+   "veredito": "mesmo"
+  }
+ ]
+}

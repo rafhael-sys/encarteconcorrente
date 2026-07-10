@@ -1482,5 +1482,45 @@
    "DaliHBHltSl_p4.jpg"
   ],
   "adicionado_em": "2026-07-09"
+ },
+ {
+  "id": "nosso_ea3c7382a4",
+  "perfil": "nossoatacarejo.com.br",
+  "titulo": "Nossa Quarta & Quinta",
+  "banner": "Nosso Atacarejo",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-08",
+  "fim": "2026-07-09",
+  "carrossel": false,
+  "shortcode": "nosso_ea3c7382a4",
+  "caption": "Nossa Quarta & Quinta",
+  "paginas": [
+   "nosso_ea3c7382a4_p1.jpg"
+  ],
+  "adicionado_em": "2026-07-09",
+  "fonte": "web",
+  "link": "https://www.nossoatacarejo.com.br/encarte/quarta-e-quinta-rn/5"
+ },
+ {
+  "id": "nosso_385e7db048",
+  "perfil": "nossoatacarejo.com.br",
+  "titulo": "Encarte do Mês",
+  "banner": "Nosso Atacarejo",
+  "segmento": "atacarejo",
+  "inicio": "2026-06-30",
+  "fim": "2026-07-13",
+  "carrossel": true,
+  "shortcode": "nosso_385e7db048",
+  "caption": "Encarte do Mês",
+  "paginas": [
+   "nosso_385e7db048_p1.jpg",
+   "nosso_385e7db048_p2.jpg",
+   "nosso_385e7db048_p3.jpg",
+   "nosso_385e7db048_p4.jpg",
+   "nosso_385e7db048_p5.jpg"
+  ],
+  "adicionado_em": "2026-07-09",
+  "fonte": "web",
+  "link": "https://www.nossoatacarejo.com.br/encarte/encarte-do-mes-rn/5"
  }
 ]
