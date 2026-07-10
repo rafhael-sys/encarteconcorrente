@@ -217,19 +217,17 @@
     max-width:min(560px,92vw);text-align:center;box-shadow:0 4px 16px rgba(0,0,0,.35);
   }
   .spot-tag b{font-weight:700;font-size:14px}
-  .nav-btn{
-    position:absolute;top:50%;transform:translateY(-50%);width:44px;height:44px;border-radius:50%;
-    background:rgba(255,255,255,.94);box-shadow:0 2px 10px rgba(0,0,0,.25);
-    display:flex;align-items:center;justify-content:center;font-size:19px;color:var(--text);
+  /* paginação no RODAPÉ do visor: seta flutuando sobre a imagem cobria
+     preço/produto (principalmente com zoom) — aqui embaixo nunca atrapalha */
+  .panel-f{display:flex;align-items:center;gap:12px;padding:10px 16px;border-top:1px solid var(--border)}
+  .pager{display:flex;align-items:center;gap:4px;flex:1}
+  .pager button{
+    width:40px;height:40px;border-radius:10px;font-size:21px;color:var(--text);
+    display:flex;align-items:center;justify-content:center;background:var(--surface-2);
   }
-  .nav-btn:hover{background:#fff}
-  .nav-btn.prev{left:10px}.nav-btn.next{right:10px}
-  .nav-btn[disabled]{opacity:.55;background:rgba(240,240,240,.9);color:var(--text-3);cursor:default}
-  .panel-f{display:flex;align-items:center;gap:12px;padding:12px 16px;border-top:1px solid var(--border)}
-  .dots{display:flex;gap:5px;flex:1;flex-wrap:wrap}
-  .dot{width:7px;height:7px;border-radius:50%;background:var(--border-strong);padding:0}
-  .dot[aria-current="true"]{background:var(--text)}
-  .pcount{font-size:12.5px;color:var(--text-3);font-variant-numeric:tabular-nums;white-space:nowrap}
+  .pager button:hover{background:var(--border)}
+  .pager button[disabled]{opacity:.4;background:var(--surface-2);cursor:default}
+  .pcount{font-size:13px;color:var(--text-2);font-variant-numeric:tabular-nums;white-space:nowrap;min-width:44px;text-align:center}
   .iglink{font-size:13px;font-weight:500;color:var(--text-2);text-decoration:none;white-space:nowrap}
   .iglink:hover{color:var(--text);text-decoration:underline}
 
@@ -431,12 +429,13 @@
         <img id="vImg" alt="Página do encarte">
         <div class="spot" id="spot" hidden></div>
       </div>
-      <button class="nav-btn prev" id="vPrev" aria-label="Página anterior">‹</button>
-      <button class="nav-btn next" id="vNext" aria-label="Próxima página">›</button>
     </div>
     <div class="panel-f">
-      <div class="dots" id="vDots"></div>
-      <span class="pcount" id="vCount"></span>
+      <div class="pager">
+        <button id="vPrev" aria-label="Página anterior">‹</button>
+        <span class="pcount" id="vCount"></span>
+        <button id="vNext" aria-label="Próxima página">›</button>
+      </div>
       <button class="iglink" id="vPdf" type="button" title="Baixar este encarte em PDF">Baixar PDF ⤓</button>
       <a class="iglink" id="vLink" target="_blank" rel="noopener">Ver no Instagram ↗</a>
     </div>
@@ -701,10 +700,15 @@ function renderSearch(main, inTab){
   const inTabIds = new Set(inTab.map(a=>a.id));
   const shown = hits.filter(h => inTabIds.has(h.a.id));
   // o MESMO campo também acha concorrente pelo nome: os encartes dele
-  // aparecem como cartões acima dos produtos
-  const bannerHits = inTab.filter(a => matches(norm(a.banner), query));
+  // aparecem como cartões acima dos produtos. Nome exato tem prioridade:
+  // "atacadão" mostra SÓ o Atacadão (não o Queiroz Atacadão); para ver o
+  // Queiroz basta digitar "queiroz".
+  const qNorm = toks(query).join(' ');
+  const exato = ACTIONS.some(a => norm(a.banner) === qNorm);
+  const casaBanner = a => exato ? norm(a.banner) === qNorm : matches(norm(a.banner), query);
+  const bannerHits = inTab.filter(casaBanner);
   const bannerOther = ACTIONS.filter(a => !inTabIds.has(a.id) && naJanela(a)
-    && matches(norm(a.banner), query)).length;
+    && casaBanner(a)).length;
   const other = hits.length - shown.length + bannerOther;
 
   main.innerHTML = '';
@@ -1071,13 +1075,6 @@ function drawPage(){
   $('vCount').textContent = `${pg+1} / ${a.pgs.length}`;
   $('vPrev').disabled = pg===0;
   $('vNext').disabled = pg===a.pgs.length-1;
-  const dots = $('vDots'); dots.innerHTML='';
-  a.pgs.forEach((_,i)=>{
-    const d = document.createElement('button'); d.className='dot';
-    d.setAttribute('aria-current', i===pg); d.setAttribute('aria-label',`Página ${i+1}`);
-    d.addEventListener('click',()=>{ V.pg=i; V.prod=null; drawPage(); });
-    dots.appendChild(d);
-  });
   const s = $('spot'), t = $('spotTag');
   if(prod){
     // faixa fixa na base da tela: preço primeiro (nunca cortado), nome depois
@@ -1093,13 +1090,7 @@ function drawPage(){
       const w = Math.min(100 - x, prod.w + 2*FX), h = Math.min(100 - y, prod.h + 2*FY);
       s.style.left = x+'%'; s.style.top = y+'%';
       s.style.width = w+'%'; s.style.height = h+'%';
-      // ABRE JÁ AMPLIADO em cima do produto: numa página lotada (celular,
-      // principalmente) a marcação sem zoom fica minúscula e ilegível.
-      // Um toque na imagem volta ao tamanho normal, como no zoom manual.
-      const wrap = $('zoomWrap'), stg = $('stage');
-      wrap.style.transformOrigin = `${x + w/2}% ${y + h/2}%`;
-      wrap.style.transform = 'scale(2.2)';
-      stg.classList.add('zoom');
+      // sem zoom automático (o dono prefere ver a página inteira com o halo);
       // páginas mais altas que a tela: rola até a marcação ficar visível
       requestAnimationFrame(() => { if(!s.hidden) s.scrollIntoView({block:'center'}); });
     } else {
