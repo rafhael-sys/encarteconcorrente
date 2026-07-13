@@ -2194,5 +2194,24 @@
   "adicionado_em": "2026-07-13",
   "fonte": "feed",
   "link": ""
+ },
+ {
+  "id": "assai_168019-572",
+  "perfil": "assai.com.br",
+  "titulo": "Leva o Assaí com Você — Vale Economia Topada",
+  "banner": "Assaí Atacadista",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-13",
+  "fim": "2026-07-16",
+  "carrossel": true,
+  "shortcode": "assai_168019-572",
+  "caption": "Preços válidos de 13/07/2026 até 16/07/2026",
+  "adicionado_em": "2026-07-13",
+  "fonte": "web",
+  "link": "https://www.assai.com.br/ofertas/rio-grande-do-norte/assai-natal",
+  "paginas": [
+   "assai_168019-572_p1.jpg",
+   "assai_168019-572_p2.jpg"
+  ]
  }
 ]

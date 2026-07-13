@@ -46681,5 +46681,432 @@
    "w": 86,
    "h": 35
   }
+ ],
+ "assai_168019-572_p1": [
+  {
+   "n": "Leite Longa Vida Integral, Desnatado ou Semidesnatado Piracanjuba TP 1L com Tampa",
+   "p": "6,49",
+   "u": "un",
+   "x": 2,
+   "y": 22,
+   "w": 15,
+   "h": 16
+  },
+  {
+   "n": "Leite Condensado Betânia TP 395g",
+   "p": "5,69",
+   "u": "un",
+   "x": 18,
+   "y": 22,
+   "w": 15,
+   "h": 16
+  },
+  {
+   "n": "Farinha de Trigo Tipo 1 Farina 1kg",
+   "p": "2,99",
+   "u": "un",
+   "x": 34,
+   "y": 22,
+   "w": 15,
+   "h": 16
+  },
+  {
+   "n": "Macarrão Spaghetti Bonsabor 400g",
+   "p": "1,89",
+   "u": "un",
+   "x": 50,
+   "y": 22,
+   "w": 15,
+   "h": 16
+  },
+  {
+   "n": "Café Clássico ou Extraforte Santa Clara à Vácuo ou Almofada 250g",
+   "p": "11,59",
+   "u": "un",
+   "x": 66,
+   "y": 22,
+   "w": 15,
+   "h": 16
+  },
+  {
+   "n": "Flocão de Milho Gostosin 400g",
+   "p": "0,99",
+   "u": "un",
+   "x": 82,
+   "y": 22,
+   "w": 15,
+   "h": 16
+  },
+  {
+   "n": "Biscoito Cream Cracker Estrela 350g",
+   "p": "3,99",
+   "u": "un",
+   "x": 2,
+   "y": 41,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Biscoito de Leite Maltado Coberto com Chocolate Piraquê Sabores 80g",
+   "p": "2,99",
+   "u": "un",
+   "x": 18,
+   "y": 41,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Cerveja Bohemia Lata 350ml",
+   "p": "2,79",
+   "u": "un",
+   "x": 34,
+   "y": 41,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Refrigerante Coca-Cola + Guaraná Kuat Pack 2x2L",
+   "p": "17,49",
+   "u": "pack",
+   "x": 50,
+   "y": 41,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Suco de Uva Integral OQ Garrafa 1,5L",
+   "p": "15,90",
+   "u": "un",
+   "x": 66,
+   "y": 41,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Vinho Português Calamares Tipos Garrafa 750ml",
+   "p": "44,90",
+   "u": "un",
+   "x": 82,
+   "y": 41,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Queijo Tipo Mussarela Sertão Jucurutu kg",
+   "p": "36,90",
+   "u": "kg (preço do quilo na peça)",
+   "x": 2,
+   "y": 56,
+   "w": 15,
+   "h": 14
+  },
+  {
+   "n": "Batata Congelada Prime Fries 1,5kg",
+   "p": "16,90",
+   "u": "un",
+   "x": 18,
+   "y": 56,
+   "w": 15,
+   "h": 14
+  },
+  {
+   "n": "Pizza ou Lasanha Sadia Sabores Caixeta 460/600g",
+   "p": "15,90",
+   "u": "un",
+   "x": 34,
+   "y": 56,
+   "w": 15,
+   "h": 14
+  },
+  {
+   "n": "Salsicha para Hot-Dog Congelada Bom Todo 3kg",
+   "p": "18,49",
+   "u": "un",
+   "x": 50,
+   "y": 56,
+   "w": 15,
+   "h": 14
+  },
+  {
+   "n": "Bebida Láctea Bat Gut Betânia Sabores Saco 900ml",
+   "p": "4,39",
+   "u": "un",
+   "x": 66,
+   "y": 56,
+   "w": 15,
+   "h": 14
+  },
+  {
+   "n": "Manteiga com Sal Betânia Pote 200g",
+   "p": "8,89",
+   "u": "un",
+   "x": 82,
+   "y": 56,
+   "w": 15,
+   "h": 14
+  },
+  {
+   "n": "Feijão Preto Camil 1kg",
+   "p": "5,79",
+   "u": "un",
+   "x": 2,
+   "y": 73,
+   "w": 15,
+   "h": 16
+  },
+  {
+   "n": "Arroz Parboilizado Tipo 1 Rampinelli 1kg",
+   "p": "3,19",
+   "u": "un",
+   "x": 18,
+   "y": 73,
+   "w": 15,
+   "h": 16
+  },
+  {
+   "n": "Açúcar Triturado Alegre 1kg",
+   "p": "2,95",
+   "u": "un",
+   "x": 34,
+   "y": 73,
+   "w": 15,
+   "h": 16
+  },
+  {
+   "n": "Costela Bovina Resfriada kg",
+   "p": "27,90",
+   "u": "kg",
+   "x": 50,
+   "y": 73,
+   "w": 15,
+   "h": 16
+  },
+  {
+   "n": "Filé de Peito de Frango Congelado Seara IQF ZIP 1kg",
+   "p": "17,99",
+   "u": "un",
+   "x": 66,
+   "y": 73,
+   "w": 15,
+   "h": 16
+  },
+  {
+   "n": "Coxa com Sobrecoxa de Frango Congelada Mauricéa Bandeja 1kg",
+   "p": "11,50",
+   "u": "un",
+   "x": 82,
+   "y": 73,
+   "w": 15,
+   "h": 16
+  }
+ ],
+ "assai_168019-572_p2": [
+  {
+   "n": "Iogurte Natural Betânia Sabores Pote 170g",
+   "p": "3,19",
+   "u": "un (no app Meu Assaí; de R$ 3,75)",
+   "x": 1,
+   "y": 28,
+   "w": 25,
+   "h": 11
+  },
+  {
+   "n": "Iogurte Betânia Kids Sabores 100g",
+   "p": "2,29",
+   "u": "un (no app Meu Assaí; de R$ 2,65)",
+   "x": 1,
+   "y": 42,
+   "w": 25,
+   "h": 11
+  },
+  {
+   "n": "Iogurte Sabor Morango ou Ameixa Betânia Pote 150g",
+   "p": "3,25",
+   "u": "un (no app Meu Assaí; de R$ 3,69)",
+   "x": 1,
+   "y": 56,
+   "w": 25,
+   "h": 11
+  },
+  {
+   "n": "Margarina com Sal Sabor Manteiga 70% Lipídios Puro Sabor Balde 15kg",
+   "p": "145,90",
+   "u": "un",
+   "x": 28,
+   "y": 6,
+   "w": 16,
+   "h": 12
+  },
+  {
+   "n": "Farinha de Trigo Suprema Saco 25kg",
+   "p": "83,90",
+   "u": "un",
+   "x": 46,
+   "y": 6,
+   "w": 16,
+   "h": 12
+  },
+  {
+   "n": "Catchup Tambaú PET 1,2kg",
+   "p": "9,90",
+   "u": "un",
+   "x": 63,
+   "y": 6,
+   "w": 16,
+   "h": 12
+  },
+  {
+   "n": "Milho-Verde Bonare Lata 1,7kg Drenado",
+   "p": "28,90",
+   "u": "un",
+   "x": 81,
+   "y": 6,
+   "w": 16,
+   "h": 12
+  },
+  {
+   "n": "Lava Roupas Líquido Urca Maxx Fragrâncias Galão 5L",
+   "p": "21,90",
+   "u": "un",
+   "x": 28,
+   "y": 20,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Amaciante Diluído Comfort Fragrâncias Galão 3L",
+   "p": "31,90",
+   "u": "un",
+   "x": 46,
+   "y": 20,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Água Sanitária Brilux Frasco Leve 1L e Pague 900ml",
+   "p": "2,59",
+   "u": "un",
+   "x": 63,
+   "y": 20,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Detergente Líquido Limpol Fragrâncias Frasco 500ml",
+   "p": "2,09",
+   "u": "un",
+   "x": 81,
+   "y": 20,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Papel Higiênico Folha Simples Sublime Leve 12 Pague 11 Unidades 30m",
+   "p": "9,49",
+   "u": "un",
+   "x": 28,
+   "y": 35,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Absorvente Gel Intimus Tipos 32 Unidades",
+   "p": "9,90",
+   "u": "un",
+   "x": 46,
+   "y": 35,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Lenços Umedecidos Piquitucho 48 Unidades",
+   "p": "4,29",
+   "u": "un",
+   "x": 63,
+   "y": 35,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Fralda Descartável Pants Proteção Acolchoada Huggies Tamanhos",
+   "p": "38,90",
+   "u": "un",
+   "x": 81,
+   "y": 35,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Kit Shampoo 800ml + Condicionador 800ml Blends Collection Inoar",
+   "p": "39,90",
+   "u": "un",
+   "x": 28,
+   "y": 50,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Sabonete Hidratação Intensa Karité Palmolive Naturals 340g",
+   "p": "6,95",
+   "u": "un",
+   "x": 46,
+   "y": 50,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Desodorante Aerosol Nivea Fragrâncias Frasco 200ml",
+   "p": "14,50",
+   "u": "un",
+   "x": 63,
+   "y": 50,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Creme Dental Colgate Total Tipos Caixeta 90g",
+   "p": "9,90",
+   "u": "un",
+   "x": 81,
+   "y": 50,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Jogo de Copos Dalia Kit 8x385ml",
+   "p": "34,90",
+   "u": "un",
+   "x": 28,
+   "y": 65,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Filme de PVC Guarufilme Rolo 28cmx15m",
+   "p": "3,29",
+   "u": "un",
+   "x": 46,
+   "y": 65,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Alimento para Cães Premium Vittamax 1kg",
+   "p": "13,90",
+   "u": "un",
+   "x": 63,
+   "y": 65,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Caixa Térmica Bel Fix Cores 12L",
+   "p": "42,90",
+   "u": "un",
+   "x": 81,
+   "y": 65,
+   "w": 16,
+   "h": 13
+  }
  ]
 }

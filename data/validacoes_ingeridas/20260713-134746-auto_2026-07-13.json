@@ -1,0 +1,49 @@
+{
+ "validacoes": [
+  {
+   "a": "Frango Bom Todo 1kg IQF Passarinho Temperado",
+   "b": "Frango Bom Todo 1kg IQF Passarinha Temperado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Mineral Petrópolis GF 500ml S/Gás",
+   "b": "Água Mineral Petrópolis GF 500ml C/Gás",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Peito ou Acém com Osso kg",
+   "b": "Carne Bovina Peito ou Acem c/Osso kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerosol Monange ou Bozzano 150ml (fragrâncias)",
+   "b": "Desodorante Aerosol Monange/Bozzano 150ml Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Desodorante Dove Original/Invisible Dry 2x50ml",
+   "b": "Kit Desodorante Dove Original ou Invisible Dry 2x50ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Capa de Filé Bovina Resfriada a Vácuo/Congelada kg",
+   "b": "Capa de Filé Bovina Resfriada a vácuo ou congelada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Corona Extra Lata 350ml Tradicional & Zero",
+   "b": "Cerveja Corona Extra Lata 350ml Tradicional ou Zero",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Vitaclan/Batclan Sabores 900g",
+   "b": "Bebida Láctea Vitaclan ou Batclan sabores 900g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Carne Suína Saudali Congelada",
+   "b": "Linguiça de Carne Suína Saudali congelada kg",
+   "veredito": "mesmo"
+  }
+ ]
+}

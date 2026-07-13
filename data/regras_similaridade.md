@@ -172,13 +172,22 @@
 - MESMO: «Pão de Alho Fabricação Própria Tradicional pct 350g» == «Pão de Alho Padaria Fabricação Própria Tradicional pct 350g»
 - DIFERENTES: «Sabonete Even 85g Fragrâncias» != «Sabonete NIVEA 85g Fragrâncias»
 - MESMO: «Toalha Umedecida Personal Baby c/50» == «Toalha Umidecida Personal Baby c/50»
+- DIFERENTES: «Água Mineral Petrópolis GF 500ml S/Gás» != «Água Mineral Petrópolis GF 500ml C/Gás»
+- MESMO: «Bebida Láctea Vitaclan/Batclan Sabores 900g» == «Bebida Láctea Vitaclan ou Batclan sabores 900g»
+- MESMO: «Capa de Filé Bovina Resfriada a Vácuo/Congelada kg» == «Capa de Filé Bovina Resfriada a vácuo ou congelada kg»
 - MESMO: «Carne Bovina Cha de Fora Resfriada kg» == «Carne Bovina Chã de Fora Resfriada»
+- MESMO: «Carne Bovina Peito ou Acém com Osso kg» == «Carne Bovina Peito ou Acem c/Osso kg»
 - MESMO: «Catchup Tambaú 830g Tradicional/Picante» == «Catchup Tambaú 830g (tradicional ou picante)»
+- MESMO: «Cerveja Corona Extra Lata 350ml Tradicional & Zero» == «Cerveja Corona Extra Lata 350ml Tradicional ou Zero»
 - MESMO: «Chocolate Barra Neugebauer 80g Sabores» == «Chocolate em Barra Neugebauer 80g (sabores)»
 - MESMO: «Coxa com Sobrecoxa de Frango c/ Dorsal JAGUÁ kg» == «Coxa com Sobrecoxa de Frango c/ Dorsal Jaguá»
 - DIFERENTES: «Desodorante Aerossol Dove 150ml Fragrancias» != «Desodorante Aerosol Above 150ml (fragrâncias)»
+- MESMO: «Desodorante Aerosol Monange ou Bozzano 150ml (fragrâncias)» == «Desodorante Aerosol Monange/Bozzano 150ml Fragrâncias»
 - MESMO: «Desodorante Aerossol Suave 200ml Fragrâncias» == «Desodorante Aerosol Suave 200ml (fragrâncias)»
 - DIFERENTES: «Filé de Peito de Frango Lar Bandeja 1kg» != «Filé de Peito de Frango Levo Bandeja 1Kg»
 - DIFERENTES: «Folha de Alumínio Wyda 30cm x 4m Rolo» != «Folha de Alumínio Wyda 30cm x 7,5m Rolo»
+- MESMO: «Frango Bom Todo 1kg IQF Passarinho Temperado» == «Frango Bom Todo 1kg IQF Passarinha Temperado»
+- MESMO: «Kit Desodorante Dove Original/Invisible Dry 2x50ml» == «Kit Desodorante Dove Original ou Invisible Dry 2x50ml»
+- MESMO: «Linguiça de Carne Suína Saudali Congelada» == «Linguiça de Carne Suína Saudali congelada kg»
 - MESMO: «Linguiça de Frango Bom Todo kg» == «Linguiça de Frango Bom Todo»
 - MESMO: «Salgadinho Pippos 75g Sabores» == «Salgadinho Pippo's 75g (sabores)»

@@ -1190,5 +1190,67 @@
   "b": "Filé de Peito de Frango Levo Bandeja 1Kg",
   "veredito": "diferente",
   "quando": "2026-07-13"
+ },
+ "frango bom todo 1kg iqf passarinha temperado || frango bom todo 1kg iqf passarinho temperado": {
+  "a": "Frango Bom Todo 1kg IQF Passarinho Temperado",
+  "b": "Frango Bom Todo 1kg IQF Passarinha Temperado",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "agua mineral petropolis gf 500ml c/gas || agua mineral petropolis gf 500ml s/gas": {
+  "a": "Água Mineral Petrópolis GF 500ml S/Gás",
+  "b": "Água Mineral Petrópolis GF 500ml C/Gás",
+  "veredito": "diferente",
+  "quando": "2026-07-13"
+ },
+ "carne bovina peito ou acem c/osso kg || carne bovina peito ou acem com osso kg": {
+  "a": "Carne Bovina Peito ou Acém com Osso kg",
+  "b": "Carne Bovina Peito ou Acem c/Osso kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "desodorante aerosol monange ou bozzano 150ml (fragrancias) || desodorante aerosol monange/bozzano 150ml fragrancias": {
+  "a": "Desodorante Aerosol Monange ou Bozzano 150ml (fragrâncias)",
+  "b": "Desodorante Aerosol Monange/Bozzano 150ml Fragrâncias",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "kit desodorante dove original ou invisible dry 2x50ml || kit desodorante dove original/invisible dry 2x50ml": {
+  "a": "Kit Desodorante Dove Original/Invisible Dry 2x50ml",
+  "b": "Kit Desodorante Dove Original ou Invisible Dry 2x50ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "capa de file bovina resfriada a vacuo ou congelada kg || capa de file bovina resfriada a vacuo/congelada kg": {
+  "a": "Capa de Filé Bovina Resfriada a Vácuo/Congelada kg",
+  "b": "Capa de Filé Bovina Resfriada a vácuo ou congelada kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "cerveja corona extra lata 350ml tradicional & zero || cerveja corona extra lata 350ml tradicional ou zero": {
+  "a": "Cerveja Corona Extra Lata 350ml Tradicional & Zero",
+  "b": "Cerveja Corona Extra Lata 350ml Tradicional ou Zero",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "bebida lactea vitaclan ou batclan sabores 900g || bebida lactea vitaclan/batclan sabores 900g": {
+  "a": "Bebida Láctea Vitaclan/Batclan Sabores 900g",
+  "b": "Bebida Láctea Vitaclan ou Batclan sabores 900g",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "linguica de carne suina saudali congelada || linguica de carne suina saudali congelada kg": {
+  "a": "Linguiça de Carne Suína Saudali Congelada",
+  "b": "Linguiça de Carne Suína Saudali congelada kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
  }
 }
