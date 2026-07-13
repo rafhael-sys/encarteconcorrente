@@ -65,8 +65,14 @@ def main():
     novos = 0
     com_story = 0
 
-    ordem = list(profiles)
-    random.shuffle(ordem)
+    # Perfis marcados "story": true no profiles.json (ofertas vêm do story, não
+    # do feed — ex.: Miramar) são coletados PRIMEIRO, garantindo o essencial antes
+    # de qualquer estrangulamento no meio da rodada. Dentro de cada grupo, ordem
+    # aleatória (menos cara de robô).
+    prio  = [p for p in profiles if p.get('story')]
+    resto = [p for p in profiles if not p.get('story')]
+    random.shuffle(prio); random.shuffle(resto)
+    ordem = prio + resto
     for p in ordem:
         user, fonte = p['username'], p.get('banner', p['username'])
         try:

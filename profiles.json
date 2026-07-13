@@ -44,7 +44,8 @@
  {
   "username": "miramarsupermercado",
   "banner": "Miramar Supermercado",
-  "segmento": "varejo"
+  "segmento": "varejo",
+  "story": true
  },
  {
   "username": "mirassolatacado",
