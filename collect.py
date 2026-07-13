@@ -78,12 +78,13 @@ def fetch_profile(username, tentativas=4):
     ultimo = None
     for t in range(1, tentativas + 1):
         try:
-            cmd = ['curl', '-sk', '--compressed', '-A', UA,
-                   '-H', f'x-ig-app-id: {APP_ID}']
-            if COOKIE:
-                cmd += ['-H', f'Cookie: {COOKIE}']
-            cmd.append(f'https://i.instagram.com/api/v1/users/web_profile_info/?username={username}')
-            r = sh(cmd)
+            # IMPORTANTE: o feed (web_profile_info) é buscado ANÔNIMO. Com o cookie
+            # logado o Instagram devolve o perfil mas com a timeline VAZIA (0 posts);
+            # anônimo devolve os 12 posts recentes. O cookie fica reservado para os
+            # STORIES (que exigem login) — a coleta de stories usa COOKIE à parte.
+            r = sh(['curl', '-sk', '--compressed', '-A', UA,
+                    '-H', f'x-ig-app-id: {APP_ID}',
+                    f'https://i.instagram.com/api/v1/users/web_profile_info/?username={username}'])
             if not r.stdout.strip():
                 # corpo vazio = bloqueio/estrangulamento do Instagram (a mensagem
                 # crua do json seria um "Expecting value" indecifrável no log)
