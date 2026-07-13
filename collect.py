@@ -24,6 +24,23 @@ UA = ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 '
       '(KHTML, like Gecko) Chrome/126.0 Safari/537.36')
 APP_ID = '936619743392459'
 
+# Cookie de sessão logada (opcional): a requisição AUTENTICADA tem limite muito
+# maior que a anônima — some quase sempre com o erro 'data'/rate-limit. Vem de
+# ~/.config/ig_cookie ou da variável IG_COOKIE. Aceita o cookie completo
+# ("sessionid=...; ds_user_id=...") ou só o valor do sessionid. Sem cookie,
+# segue anônimo (comportamento antigo).
+def _carrega_cookie():
+    c = (os.environ.get('IG_COOKIE') or '').strip()
+    if not c:
+        try:
+            c = open(os.path.expanduser('~/.config/ig_cookie'), encoding='utf-8').read().strip()
+        except OSError:
+            c = ''
+    if c and '=' not in c:            # colaram só o valor do sessionid
+        c = f'sessionid={c}'
+    return c
+COOKIE = _carrega_cookie()
+
 # legenda que sugere ação de encarte/oferta com produto
 KEYWORDS = re.compile(
     r'encarte|oferta|ofertaço|promoç|válid[ao]s?\s|feirão|festival|fecha\s*m[êe]s|'
@@ -61,9 +78,12 @@ def fetch_profile(username, tentativas=4):
     ultimo = None
     for t in range(1, tentativas + 1):
         try:
-            r = sh(['curl', '-sk', '--compressed', '-A', UA,
-                    '-H', f'x-ig-app-id: {APP_ID}',
-                    f'https://i.instagram.com/api/v1/users/web_profile_info/?username={username}'])
+            cmd = ['curl', '-sk', '--compressed', '-A', UA,
+                   '-H', f'x-ig-app-id: {APP_ID}']
+            if COOKIE:
+                cmd += ['-H', f'Cookie: {COOKIE}']
+            cmd.append(f'https://i.instagram.com/api/v1/users/web_profile_info/?username={username}')
+            r = sh(cmd)
             if not r.stdout.strip():
                 # corpo vazio = bloqueio/estrangulamento do Instagram (a mensagem
                 # crua do json seria um "Expecting value" indecifrável no log)
@@ -199,13 +219,14 @@ def main():
     RODADAS = 2
     for rodada in range(1, RODADAS + 1):
         falhados = []
+        random.shuffle(pendentes)  # ordem variada a cada rodada: menos cara de robô
         for p in pendentes:
             ok, n = processa_perfil(p, seen, fila, status, agora)
             novos += n
             ok_final[p['username']] = ok_final.get(p['username'], False) or ok
             if not ok:
                 falhados.append(p)
-            time.sleep(2 + random.uniform(0, 1.5))  # gentil com o Instagram
+            time.sleep(random.uniform(7, 14))  # ritmo moderado (~2-4 min p/ os 16 perfis)
         # persiste o progresso a cada rodada: uma interrupção não perde o que já veio
         save_json(seen_path, sorted(seen))
         save_json(fila_path, fila)
