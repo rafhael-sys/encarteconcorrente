@@ -1751,5 +1751,47 @@
   "adicionado_em": "2026-07-13",
   "fonte": "web",
   "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "DaoUj8YjXJP",
+  "perfil": "redemaisrn",
+  "titulo": "Copa RedeMAIS (11 a 20/07)",
+  "banner": "Rede Mais",
+  "segmento": "propria",
+  "inicio": "2026-07-11",
+  "fim": "2026-07-20",
+  "carrossel": true,
+  "shortcode": "DaoUj8YjXJP",
+  "caption": "🏆⚽ A Copa RedeMAIS entrou em campo cheia de ofertas e com preço campeão! 🛒🔥\n\nTem oferta de mercearia, frios, bebidas, limpeza e muito mais pra você economizar de verdade e fazer aquele carrinho completo sem levar cartão vermelho no orçamento! 😎💛❤️\n\n💥 Destaques imperdíveis esperando por você!\n📅 Ofertas válidas de 11/07 a 20/07/2026\n📍 Passe na sua RedeMAIS mais próxima e aproveite!\n\n⚽ Aqui o jogo é de economia!\n#RedeMAIS #CopaRedeMAIS #OfertaCampeã #Promoção #EconomiaDeVerdade",
+  "paginas": [
+   "DaoUj8YjXJP_p1.jpg",
+   "DaoUj8YjXJP_p2.jpg",
+   "DaoUj8YjXJP_p3.jpg",
+   "DaoUj8YjXJP_p4.jpg"
+  ],
+  "adicionado_em": "2026-07-13",
+  "fonte": "feed",
+  "link": ""
+ },
+ {
+  "id": "story_miramarsupermercado_20260713",
+  "perfil": "miramarsupermercado",
+  "titulo": "Ofertas Miramar — story (13 a 21/07)",
+  "banner": "Miramar Supermercado",
+  "segmento": "varejo",
+  "inicio": "2026-07-13",
+  "fim": "2026-07-21",
+  "carrossel": true,
+  "shortcode": "story_miramarsupermercado_20260713",
+  "caption": "",
+  "paginas": [
+   "story_miramarsupermercado_3940279086463711431.jpg",
+   "story_miramarsupermercado_3940328819063340780.jpg",
+   "story_miramarsupermercado_3940328910440493102.jpg",
+   "story_miramarsupermercado_3940328992573314087.jpg"
+  ],
+  "adicionado_em": "2026-07-13",
+  "fonte": "story",
+  "link": ""
  }
 ]
