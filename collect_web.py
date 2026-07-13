@@ -89,7 +89,11 @@ def coleta_assai(seen, fila):
     dados = None
     for t in range(3):
         try:
-            r = sh(['curl', '-sS', '-A', UA, ASSAI_JSON])
+            # O CDN do Assaí ALTERNA entre um nó atual e um nó VELHO (cache
+            # defasado, só com ofertas antigas já expiradas) — se cair no velho, a
+            # coleta não acha nada novo. Um parâmetro de cache-busting força o nó
+            # atual (testado: retorna as ofertas vigentes de forma consistente).
+            r = sh(['curl', '-sS', '-A', UA, f'{ASSAI_JSON}?_={int(time.time() * 1000)}'])
             d = json.loads(r.stdout)
             if not isinstance(d, dict):
                 # 200 com corpo válido mas não-objeto (ex.: '[]' num soluço do
