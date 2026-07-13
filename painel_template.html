@@ -1202,10 +1202,16 @@ window.__fotosCarregando = false;
     // 522 do Cloudflare) não pode truncar o download nem ser confundido com "fim
     // dos pedaços". Devolve a Response só quando ela é definitiva; null se falhou
     // de vez após as re-tentativas.
+    /* versão do conteúdo (hash injetado pelo gera_gate) para cache-busting: o CDN
+       da Cloudflare guarda os pedaços de deploys anteriores; sem o ?v=, quando o
+       nº de pedaços diminui, o pedaço extra velho é servido e corrompe o download. */
+    const FVER = '__FOTOSVER__';
+    const comVer = nome => nome + (FVER.indexOf('FOTOSVER') === -1 ? ('?v=' + FVER) : '');
     const baixaParte = async nome => {
+      const url = comVer(nome);
       for(let tent = 0; tent < 4; tent++){
         let r = null;
-        try{ r = await fetch(nome, {cache:'no-store'}); }catch(e){ r = null; }
+        try{ r = await fetch(url, {cache:'no-store'}); }catch(e){ r = null; }
         if(r && (r.ok || r.status === 404)) return r;
         await new Promise(res => setTimeout(res, 700 * (tent + 1)));
       }

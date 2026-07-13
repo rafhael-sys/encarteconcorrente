@@ -54,15 +54,21 @@ def main():
             input=dados, capture_output=True, check=True).stdout
         return b'ENC1' + salt + iv + corpo
 
+    # As fotos são quebradas em pedaços de 4 MB (imagens.enc.000, .001, …) porque
+    # o host estático tem limite POR-ARQUIVO (Cloudflare: 25 MB). O painel junta
+    # os pedaços antes de descriptografar.
+    # VERSÃO p/ cache-busting: o CDN da Cloudflare mantém em cache os pedaços de um
+    # deploy anterior; quando o nº de pedaços DIMINUI, o pedaço extra velho continua
+    # sendo servido e corrompe o download. Injetamos um hash do conteúdo cifrado no
+    # painel (__FOTOSVER__) e o loader busca cada pedaço com ?v=hash — cada deploy
+    # tem URLs únicas, então nunca pega pedaço velho do CDN.
+    enc_img = cifra(imagens)
+    ver = hashlib.sha256(enc_img).hexdigest()[:12]
+    html = html.replace(b'__FOTOSVER__', ver.encode())
+
     enc = cifra(html)
     open(os.path.join(outdir, 'painel.enc'), 'wb').write(enc)
 
-    # O host estático grátis (Surge) tem DOIS limites: total do deploy (~46 MB) e
-    # por-arquivo (um arquivo grande dá 410 e derruba o deploy todo). O
-    # build_painel.py já segura o total; aqui quebramos as fotos cifradas em
-    # pedaços de 4 MB (imagens.enc.000, .001, …) para nenhum arquivo estourar o
-    # limite por-arquivo. O painel junta os pedaços antes de descriptografar.
-    enc_img = cifra(imagens)
     MAX_PARTE = 4 * 1024 * 1024
     partes = [enc_img[i:i + MAX_PARTE] for i in range(0, len(enc_img), MAX_PARTE)] or [b'']
     for n, parte in enumerate(partes):
