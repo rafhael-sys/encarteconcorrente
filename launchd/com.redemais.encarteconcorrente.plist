@@ -7,17 +7,18 @@
   <key>ProgramArguments</key>
   <array>
     <string>/bin/zsh</string>
-    <string>/Users/teste/Documents/encarteconcorrente/run_daily.sh</string>
+    <string>/Users/teste/encarteconcorrente/run_daily.sh</string>
   </array>
   <key>WorkingDirectory</key>
-  <string>/Users/teste/Documents/encarteconcorrente</string>
+  <string>/Users/teste/encarteconcorrente</string>
   <!-- roda a cada 30 min; o run_daily.sh se auto-limita a 1x por dia às 22h.
-       Se o Mac estiver dormindo às 22h, o launchd dispara ao acordar. -->
+       Se o Mac estiver dormindo às 22h, o launchd dispara ao acordar.
+       Fora de ~/Documents (protegido por TCC) para o launchd poder ler. -->
   <key>StartInterval</key>
   <integer>1800</integer>
   <key>StandardOutPath</key>
-  <string>/Users/teste/Documents/encarteconcorrente/data/launchd.out.log</string>
+  <string>/Users/teste/encarteconcorrente/data/launchd.out.log</string>
   <key>StandardErrorPath</key>
-  <string>/Users/teste/Documents/encarteconcorrente/data/launchd.err.log</string>
+  <string>/Users/teste/encarteconcorrente/data/launchd.err.log</string>
 </dict>
 </plist>
