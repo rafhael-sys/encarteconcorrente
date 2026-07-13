@@ -1793,5 +1793,24 @@
   "adicionado_em": "2026-07-13",
   "fonte": "story",
   "link": ""
+ },
+ {
+  "id": "cortefacil_segunda_20260713",
+  "perfil": "cortefacil.atacarejo",
+  "titulo": "Segunda é Feira (13/07)",
+  "banner": "Corte Fácil Atacarejo",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-13",
+  "fim": "2026-07-13",
+  "carrossel": true,
+  "shortcode": "cortefacil_segunda_20260713",
+  "caption": "Segunda é dia de economia no Corte Fácil Atacarejo! Ofertas válidas 13/07.",
+  "paginas": [
+   "cortefacil_segunda_20260713_p1.jpg",
+   "cortefacil_segunda_20260713_p2.jpg"
+  ],
+  "adicionado_em": "2026-07-13",
+  "fonte": "manual",
+  "link": ""
  }
 ]

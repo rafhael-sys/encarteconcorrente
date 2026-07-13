@@ -39615,5 +39615,81 @@
    "w": 45,
    "h": 19
   }
+ ],
+ "cortefacil_segunda_20260713_p1": [
+  {
+   "n": "Aveia Yoki Flocos Finos 170g",
+   "p": "2,99",
+   "u": "un",
+   "x": 3,
+   "y": 13,
+   "w": 45,
+   "h": 40
+  },
+  {
+   "n": "Leite em Pó Integral Betânia 200g",
+   "p": "6,69",
+   "u": "un",
+   "x": 50,
+   "y": 13,
+   "w": 45,
+   "h": 40
+  },
+  {
+   "n": "Café Almofada Marata 250g",
+   "p": "11,89",
+   "u": "un",
+   "x": 3,
+   "y": 54,
+   "w": 45,
+   "h": 40
+  },
+  {
+   "n": "Bebida Láctea UHT Pirakids Chocolate 1L",
+   "p": "7,99",
+   "u": "un",
+   "x": 50,
+   "y": 54,
+   "w": 45,
+   "h": 40
+  }
+ ],
+ "cortefacil_segunda_20260713_p2": [
+  {
+   "n": "Requeijão Cremoso Sertão Jucurutu Tradicional 400g",
+   "p": "12,99",
+   "u": "un",
+   "x": 3,
+   "y": 13,
+   "w": 45,
+   "h": 40
+  },
+  {
+   "n": "Margarina Puro Sabor com Sal 500g",
+   "p": "4,99",
+   "u": "un",
+   "x": 50,
+   "y": 13,
+   "w": 45,
+   "h": 40
+  },
+  {
+   "n": "Lasanha Aurora Congelada 600g",
+   "p": "13,99",
+   "u": "un",
+   "x": 3,
+   "y": 54,
+   "w": 45,
+   "h": 40
+  },
+  {
+   "n": "Lanche de Frango Bom Todo",
+   "p": "12,49",
+   "u": "kg",
+   "x": 50,
+   "y": 54,
+   "w": 45,
+   "h": 40
+  }
  ]
 }

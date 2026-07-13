@@ -113,6 +113,11 @@ with tempfile.TemporaryDirectory() as tmp:
                     page_ids.append(pid)
                     continue
                 else:
+                    # vigente SEM arquivo de imagem (ex.: fonte manual/print, como
+                    # o Corte Fácil, cuja API o Instagram recusa): entra no índice
+                    # mesmo assim para os PREÇOS não sumirem da Incidência — só o
+                    # visor fica sem a foto do encarte.
+                    page_ids.append(pid)
                     continue
             if embutir:
                 # REGRA: vigentes na melhor nitidez que cabe no peso — o

@@ -8,7 +8,8 @@
 
 export PATH="$HOME/.local/bin:/opt/homebrew/bin:/usr/local/bin:$PATH"
 
-BASE="$HOME/encartes-concorrentes"
+# pasta do projeto = onde este script está (portável: launchd chama pelo caminho absoluto)
+BASE="$(cd "$(dirname "$0")" && pwd)"
 STAMP="$BASE/data/.ultima_execucao"
 TRIES="$BASE/data/.tentativas"
 LOG="$BASE/data/rotina.log"
@@ -73,6 +74,12 @@ falha() {
   /usr/bin/python3 collect.py || falha "coleta do Instagram"
 
   /usr/bin/python3 collect_web.py || echo "[aviso] coleta web (Assaí/Atacadão/Nosso) falhou nesta janela"
+
+  # stories (efêmeros, 24h) — exige cookie logado (~/.config/ig_cookie). Muitos
+  # mercados (ex.: Miramar) só anunciam oferta no story. Falha aqui não derruba a
+  # janela; sem cookie, o próprio collect_stories.py sai avisando.
+  touch "$LOCK"
+  /usr/bin/python3 collect_stories.py || echo "[aviso] coleta de stories falhou nesta janela"
 
   # aprendizado de similaridade: ingere validações feitas na aba do painel
   # (arquivo exportado para ~/Downloads) antes da análise, para valerem já
