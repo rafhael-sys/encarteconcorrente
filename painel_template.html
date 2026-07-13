@@ -1188,35 +1188,58 @@ window.__fotosCarregando = false;
     // por item) — então guardamos as fotos no depósito Cache API e fazemos a
     // pergunta "mudou?" (If-None-Match) na mão: não mudou -> usa o guardado
     // na hora; mudou -> baixa a versão nova e regrava o depósito.
-    let deposito = null, guardado = null;
+    // as fotos cifradas vêm em pedaços (imagens.enc.000, .001, …) porque o host
+    // estático grátis tem limite POR-ARQUIVO. Baixamos os pedaços em ordem até
+    // faltar um (404), juntamos os bytes e seguimos como antes. O depósito Cache
+    // API guarda o blob já remontado; o ETag do 1º pedaço diz se a versão mudou.
+    let deposito = null, guardado = null, etagGuardado = '';
     try{
       deposito = await caches.open('painel-fotos');
       guardado = await deposito.match('imagens.enc');
+      if(guardado) etagGuardado = guardado.headers.get('ETag') || '';
     }catch(e){}
-    const cab = {};
-    if(guardado && guardado.headers.get('ETag')) cab['If-None-Match'] = guardado.headers.get('ETag');
-    const resp = await fetch('imagens.enc', {cache:'no-store', headers: cab});
+    // baixa um pedaço com re-tentativa: um erro transitório do CDN (5xx, ex.: o
+    // 522 do Cloudflare) não pode truncar o download nem ser confundido com "fim
+    // dos pedaços". Devolve a Response só quando ela é definitiva; null se falhou
+    // de vez após as re-tentativas.
+    const baixaParte = async nome => {
+      for(let tent = 0; tent < 4; tent++){
+        let r = null;
+        try{ r = await fetch(nome, {cache:'no-store'}); }catch(e){ r = null; }
+        if(r && (r.ok || r.status === 404)) return r;
+        await new Promise(res => setTimeout(res, 700 * (tent + 1)));
+      }
+      return null;
+    };
+    // fim legítimo dos pedaços: 404 (Surge/Netlify) OU o host devolveu o
+    // index.html com 200 (o Cloudflare Pages responde o index para arquivo
+    // inexistente — o 404 nunca chega). Nunca paramos por 5xx transitório.
+    const ehFim = r => r.status === 404 || (r.headers.get('Content-Type') || '').indexOf('text/html') !== -1;
+    const r0 = await baixaParte('imagens.enc.000');
+    if(!r0 || ehFim(r0)) throw new Error('rede');
+    const etagAtual = r0.headers.get('ETag') || '';
     let blob;
-    if(resp.status === 304 && guardado){
+    if(guardado && etagGuardado && etagAtual && etagGuardado === etagAtual){
       chip.textContent = 'Abrindo as fotos guardadas…';
       blob = new Uint8Array(await guardado.arrayBuffer());
     } else {
-      if(!resp.ok) throw new Error('rede');
-      const total = +resp.headers.get('content-length') || 0;
-      const chunks = []; let got = 0;
-      const reader = resp.body.getReader();
+      const partes = [new Uint8Array(await r0.arrayBuffer())];
+      let got = partes[0].length, i = 1;
+      chip.textContent = `Baixando as fotos… ${Math.round(got/1048576)} MB`;
       while(true){
-        const {done, value} = await reader.read();
-        if(done) break;
-        chunks.push(value); got += value.length;
-        if(total) chip.textContent = `Baixando as fotos… ${Math.round(100*got/total)}%`;
+        const r = await baixaParte('imagens.enc.' + String(i).padStart(3, '0'));
+        if(!r) throw new Error('rede');        // falha persistente no meio — não trunca em silêncio
+        if(ehFim(r)) break;                    // acabaram os pedaços
+        partes.push(new Uint8Array(await r.arrayBuffer()));
+        got += partes[partes.length - 1].length; i++;
+        chip.textContent = `Baixando as fotos… ${Math.round(got/1048576)} MB`;
       }
       blob = new Uint8Array(got); let o = 0;
-      for(const c of chunks){ blob.set(c, o); o += c.length; }
+      for(const c of partes){ blob.set(c, o); o += c.length; }
       if(deposito){
         try{
           await deposito.put('imagens.enc', new Response(blob.slice().buffer,
-            {headers: {'ETag': resp.headers.get('ETag') || '', 'Content-Type': 'application/octet-stream'}}));
+            {headers: {'ETag': etagAtual, 'Content-Type': 'application/octet-stream'}}));
         }catch(e){}
       }
     }

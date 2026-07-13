@@ -131,7 +131,7 @@ Tarefas: leia data/fila_novos.json; para cada post decida se é ação de encart
   # A checagem de data evita que uma janela que atravessou a meia-noite
   # carimbe o dia seguinte; ainda seguramos a trava, daí a herança.
   if (( SLOT >= 10 )) && [[ "$(date +%Y-%m-%d)" == "$HOJE" ]]; then
-    ENCARTES_LOCK_HERDADA=1 "$BASE/publicar_surge.sh" --diario || echo "[aviso] publicação no Surge falhou nesta janela"
+    ENCARTES_LOCK_HERDADA=1 "$BASE/publicar_cfpages.sh" --diario || echo "[aviso] publicação no Cloudflare Pages falhou nesta janela"
   fi
   RESUMO=$(head -c 160 "$BASE/data/resumo_notificacao.txt" 2>/dev/null | tr -d '"\\' | tr '\n' ' ')
   [[ -z "$RESUMO" ]] && RESUMO="Encartes dos concorrentes atualizados."

@@ -56,13 +56,22 @@ def main():
 
     enc = cifra(html)
     open(os.path.join(outdir, 'painel.enc'), 'wb').write(enc)
+
+    # O host estático grátis (Surge) tem DOIS limites: total do deploy (~46 MB) e
+    # por-arquivo (um arquivo grande dá 410 e derruba o deploy todo). O
+    # build_painel.py já segura o total; aqui quebramos as fotos cifradas em
+    # pedaços de 4 MB (imagens.enc.000, .001, …) para nenhum arquivo estourar o
+    # limite por-arquivo. O painel junta os pedaços antes de descriptografar.
     enc_img = cifra(imagens)
-    open(os.path.join(outdir, 'imagens.enc'), 'wb').write(enc_img)
+    MAX_PARTE = 4 * 1024 * 1024
+    partes = [enc_img[i:i + MAX_PARTE] for i in range(0, len(enc_img), MAX_PARTE)] or [b'']
+    for n, parte in enumerate(partes):
+        open(os.path.join(outdir, f'imagens.enc.{n:03d}'), 'wb').write(parte)
 
     gate = GATE.replace('__ITER__', str(ITERACOES))
     open(os.path.join(outdir, 'index.html'), 'w', encoding='utf-8').write(gate)
-    print(f'[gate] ok — painel.enc {len(enc)/1e6:.1f} MB (miolo) '
-          f'+ imagens.enc {len(enc_img)/1e6:.1f} MB (fotos em segundo plano)')
+    print(f'[gate] ok — painel.enc {len(enc)/1e6:.1f} MB (miolo) + imagens '
+          f'{len(enc_img)/1e6:.1f} MB em {len(partes)} pedaço(s) de 4 MB (fotos)')
 
 
 GATE = '''<!doctype html>

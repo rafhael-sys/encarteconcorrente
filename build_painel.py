@@ -125,23 +125,19 @@ with tempfile.TemporaryDirectory() as tmp:
                 # ATENÇÃO: o teto de 1600px é casado com a largura de render
                 # do Atacadão em collect_web.py — mudar um exige mudar o outro.
                 vig = a['fim'] >= datetime.date.today().isoformat()
-                zw, q, sub = (1600, '85', 0) if vig else (640, '40', 2)
+                zw, q, sub = (1600, '76', 2) if vig else (640, '40', 2)
                 # dimensões via Pillow (nuvem/Linux) — cai para sips no macOS.
                 # sem dimensão legível -> não redimensiona, só recomprime (nunca derruba o build)
+                # RECOMPRIME sempre (inclusive vigentes): o painel inteiro precisa
+                # caber no limite de tamanho do host estático grátis (Surge ~48 MB
+                # total). q82 + subsampling 0 (sem borrão de cor) mantém os preços
+                # legíveis com peso bem menor que o JPEG cru do Instagram.
                 lado_max = _img_lado_max(src)
-                usou_original = False
-                if vig and 0 < lado_max <= zw:
-                    with open(src, 'rb') as f:
-                        raw = f.read()
-                    if raw[:2] == b'\xff\xd8':  # JPEG válido: embute sem recomprimir
-                        images[pid] = 'data:image/jpeg;base64,' + base64.b64encode(raw).decode()
-                        usou_original = True
-                if not usou_original:
-                    small = os.path.join(tmp, fname)
-                    if _recomprime(src, small, zw, q, sub, lado_max > zw):
-                        images[pid] = 'data:image/jpeg;base64,' + base64.b64encode(open(small, 'rb').read()).decode()
-                    else:
-                        print(f'[aviso] recompressão falhou em {fname}; página fica sem imagem embutida', file=sys.stderr)
+                small = os.path.join(tmp, fname)
+                if _recomprime(src, small, zw, q, sub, lado_max > zw):
+                    images[pid] = 'data:image/jpeg;base64,' + base64.b64encode(open(small, 'rb').read()).decode()
+                else:
+                    print(f'[aviso] recompressão falhou em {fname}; página fica sem imagem embutida', file=sys.stderr)
             page_ids.append(pid)
         if page_ids:
             data_actions.append({'id': a['id'], 'banner': a['banner'], 'perfil': a['perfil'],
@@ -295,12 +291,12 @@ def _le(caminho):
         return open(os.path.expanduser(caminho), encoding='utf-8').read().strip()
     except OSError:
         return ''
-url_pub = _le(f'{DATA}/surge_url') or _le(f'{DATA}/netlify_url')
+url_pub = _le(f'{DATA}/cfpages_url') or _le(f'{DATA}/surge_url') or _le(f'{DATA}/netlify_url')
 senha_pub = _le('~/.config/painel_senha')
 html = html.replace('__PUB_URL__', _html.escape(url_pub) or 'ainda não publicado')
 html = html.replace('__PUB_SENHA__', _html.escape(senha_pub) or 'sem senha definida')
-# horário da versão que está no ar (gravado pelo publicar_surge.sh no deploy)
-pub_quando = _le(f'{DATA}/surge_pub_em') or _le(f'{DATA}/netlify_pub_em')
+# horário da versão que está no ar (gravado pelo publicar_cfpages.sh no deploy)
+pub_quando = _le(f'{DATA}/cfpages_pub_em') or _le(f'{DATA}/surge_pub_em') or _le(f'{DATA}/netlify_pub_em')
 if re.match(r'^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}$', pub_quando):
     pub_quando = f'{pub_quando[8:10]}/{pub_quando[5:7]} às {pub_quando[11:16]}'
 else:
