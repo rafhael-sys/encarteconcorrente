@@ -172,3 +172,13 @@
 - MESMO: «Pão de Alho Fabricação Própria Tradicional pct 350g» == «Pão de Alho Padaria Fabricação Própria Tradicional pct 350g»
 - DIFERENTES: «Sabonete Even 85g Fragrâncias» != «Sabonete NIVEA 85g Fragrâncias»
 - MESMO: «Toalha Umedecida Personal Baby c/50» == «Toalha Umidecida Personal Baby c/50»
+- MESMO: «Carne Bovina Cha de Fora Resfriada kg» == «Carne Bovina Chã de Fora Resfriada»
+- MESMO: «Catchup Tambaú 830g Tradicional/Picante» == «Catchup Tambaú 830g (tradicional ou picante)»
+- MESMO: «Chocolate Barra Neugebauer 80g Sabores» == «Chocolate em Barra Neugebauer 80g (sabores)»
+- MESMO: «Coxa com Sobrecoxa de Frango c/ Dorsal JAGUÁ kg» == «Coxa com Sobrecoxa de Frango c/ Dorsal Jaguá»
+- DIFERENTES: «Desodorante Aerossol Dove 150ml Fragrancias» != «Desodorante Aerosol Above 150ml (fragrâncias)»
+- MESMO: «Desodorante Aerossol Suave 200ml Fragrâncias» == «Desodorante Aerosol Suave 200ml (fragrâncias)»
+- DIFERENTES: «Filé de Peito de Frango Lar Bandeja 1kg» != «Filé de Peito de Frango Levo Bandeja 1Kg»
+- DIFERENTES: «Folha de Alumínio Wyda 30cm x 4m Rolo» != «Folha de Alumínio Wyda 30cm x 7,5m Rolo»
+- MESMO: «Linguiça de Frango Bom Todo kg» == «Linguiça de Frango Bom Todo»
+- MESMO: «Salgadinho Pippos 75g Sabores» == «Salgadinho Pippo's 75g (sabores)»

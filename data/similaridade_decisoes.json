@@ -1123,5 +1123,72 @@
   "veredito": "mesmo",
   "quando": "2026-07-10",
   "aplicado": true
+ },
+ "desodorante aerosol suave 200ml (fragrancias) || desodorante aerossol suave 200ml fragrancias": {
+  "a": "Desodorante Aerossol Suave 200ml Fragrâncias",
+  "b": "Desodorante Aerosol Suave 200ml (fragrâncias)",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "salgadinho pippo's 75g (sabores) || salgadinho pippos 75g sabores": {
+  "a": "Salgadinho Pippos 75g Sabores",
+  "b": "Salgadinho Pippo's 75g (sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango c/ dorsal jagua || coxa com sobrecoxa de frango c/ dorsal jagua kg": {
+  "a": "Coxa com Sobrecoxa de Frango c/ Dorsal JAGUÁ kg",
+  "b": "Coxa com Sobrecoxa de Frango c/ Dorsal Jaguá",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "catchup tambau 830g (tradicional ou picante) || catchup tambau 830g tradicional/picante": {
+  "a": "Catchup Tambaú 830g Tradicional/Picante",
+  "b": "Catchup Tambaú 830g (tradicional ou picante)",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "chocolate barra neugebauer 80g sabores || chocolate em barra neugebauer 80g (sabores)": {
+  "a": "Chocolate Barra Neugebauer 80g Sabores",
+  "b": "Chocolate em Barra Neugebauer 80g (sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "carne bovina cha de fora resfriada || carne bovina cha de fora resfriada kg": {
+  "a": "Carne Bovina Cha de Fora Resfriada kg",
+  "b": "Carne Bovina Chã de Fora Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "desodorante aerosol above 150ml (fragrancias) || desodorante aerossol dove 150ml fragrancias": {
+  "a": "Desodorante Aerossol Dove 150ml Fragrancias",
+  "b": "Desodorante Aerosol Above 150ml (fragrâncias)",
+  "veredito": "diferente",
+  "quando": "2026-07-13"
+ },
+ "folha de aluminio wyda 30cm x 4m rolo || folha de aluminio wyda 30cm x 7,5m rolo": {
+  "a": "Folha de Alumínio Wyda 30cm x 4m Rolo",
+  "b": "Folha de Alumínio Wyda 30cm x 7,5m Rolo",
+  "veredito": "diferente",
+  "quando": "2026-07-13"
+ },
+ "linguica de frango bom todo || linguica de frango bom todo kg": {
+  "a": "Linguiça de Frango Bom Todo kg",
+  "b": "Linguiça de Frango Bom Todo",
+  "veredito": "mesmo",
+  "quando": "2026-07-13",
+  "aplicado": true
+ },
+ "file de peito de frango lar bandeja 1kg || file de peito de frango levo bandeja 1kg": {
+  "a": "Filé de Peito de Frango Lar Bandeja 1kg",
+  "b": "Filé de Peito de Frango Levo Bandeja 1Kg",
+  "veredito": "diferente",
+  "quando": "2026-07-13"
  }
 }

@@ -1,0 +1,54 @@
+{
+ "validacoes": [
+  {
+   "a": "Desodorante Aerossol Suave 200ml Fragrâncias",
+   "b": "Desodorante Aerosol Suave 200ml (fragrâncias)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salgadinho Pippos 75g Sabores",
+   "b": "Salgadinho Pippo's 75g (sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango c/ Dorsal JAGUÁ kg",
+   "b": "Coxa com Sobrecoxa de Frango c/ Dorsal Jaguá",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Catchup Tambaú 830g Tradicional/Picante",
+   "b": "Catchup Tambaú 830g (tradicional ou picante)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chocolate Barra Neugebauer 80g Sabores",
+   "b": "Chocolate em Barra Neugebauer 80g (sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Cha de Fora Resfriada kg",
+   "b": "Carne Bovina Chã de Fora Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerossol Dove 150ml Fragrancias",
+   "b": "Desodorante Aerosol Above 150ml (fragrâncias)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Folha de Alumínio Wyda 30cm x 4m Rolo",
+   "b": "Folha de Alumínio Wyda 30cm x 7,5m Rolo",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça de Frango Bom Todo kg",
+   "b": "Linguiça de Frango Bom Todo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Lar Bandeja 1kg",
+   "b": "Filé de Peito de Frango Levo Bandeja 1Kg",
+   "veredito": "diferente"
+  }
+ ]
+}
