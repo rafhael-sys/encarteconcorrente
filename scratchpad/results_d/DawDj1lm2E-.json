@@ -1,0 +1,44 @@
+{
+  "shortcode": "DawDj1lm2E-",
+  "perfil": "marvermelhoatacado",
+  "banner": "Mar Vermelho Atacado",
+  "segmento": "atacarejo",
+  "titulo": "Ofertas Mar Vermelho (14 a 15/07)",
+  "inicio": "2026-07-14",
+  "fim": "2026-07-15",
+  "decision": "keep",
+  "fonte": "feed",
+  "link": "",
+  "pages": {
+    "DawDj1lm2E-_p1": [
+      {"n": "Charque Dianteiro Caicó kg", "p": "39,90", "u": "kg", "x": 68, "y": 66, "w": 24, "h": 16}
+    ],
+    "DawDj1lm2E-_p2": [
+      {"n": "Camarão Inteiro Camanor Tamanho 50/60 Congelado kg", "p": "37,90", "u": "kg", "x": 71, "y": 68, "w": 24, "h": 16}
+    ],
+    "DawDj1lm2E-_p3": [
+      {"n": "Filé de Peixe Panga Pescados da Cruz Congelado 800g", "p": "24,98", "u": "un", "x": 68, "y": 67, "w": 24, "h": 16}
+    ],
+    "DawDj1lm2E-_p4": [
+      {"n": "Filé de Peito de Frango Sadia Congelado 1kg", "p": "19,49", "u": "un", "x": 68, "y": 67, "w": 24, "h": 16}
+    ],
+    "DawDj1lm2E-_p5": [
+      {"n": "Linguiça de Frango ou Mista Churrasco Aurora Congelada kg", "p": "16,79", "u": "kg", "x": 71, "y": 67, "w": 24, "h": 16}
+    ],
+    "DawDj1lm2E-_p6": [
+      {"n": "Filézinho de Frango Aurora 1kg", "p": "15,49", "u": "un", "x": 71, "y": 67, "w": 24, "h": 16}
+    ],
+    "DawDj1lm2E-_p7": [
+      {"n": "Lasanha Sadia Bolonhesa 600g", "p": "14,99", "u": "un", "x": 71, "y": 68, "w": 24, "h": 16}
+    ],
+    "DawDj1lm2E-_p8": [
+      {"n": "Coxas e Sobrecoxas Bom Todo Congeladas 1kg", "p": "10,99", "u": "un", "x": 71, "y": 68, "w": 24, "h": 16}
+    ],
+    "DawDj1lm2E-_p9": [
+      {"n": "Requeijão Clan Cremoso Tradicional ou Light 200g", "p": "6,79", "u": "un", "x": 74, "y": 66, "w": 22, "h": 16}
+    ],
+    "DawDj1lm2E-_p10": [
+      {"n": "Hambúrguer Chuletão Bovino e Frango 56g", "p": "0,68", "u": "un", "x": 74, "y": 66, "w": 22, "h": 16}
+    ]
+  }
+}

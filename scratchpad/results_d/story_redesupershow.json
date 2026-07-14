@@ -1,0 +1,51 @@
+{
+  "shortcode": "story_redesuper.show_20260713",
+  "perfil": "redesuper.show",
+  "banner": "Rede Super Show",
+  "segmento": "varejo",
+  "titulo": "Ofertas Rede Super Show — story",
+  "inicio": "2026-07-13",
+  "fim": "2026-07-15",
+  "decision": "keep",
+  "fonte": "story",
+  "link": "",
+  "pages": {
+    "story_redesuper.show_3940364284683980631": [
+      {"n": "Linguiça de Frango Bom Todo kg", "p": "13,99", "u": "kg", "x": 15, "y": 40, "w": 70, "h": 45}
+    ],
+    "story_redesuper.show_3940364329135320874": [
+      {"n": "Peito de Frango Bom Todo 1kg (Bandeja)", "p": "14,99", "u": "un", "x": 5, "y": 40, "w": 85, "h": 45}
+    ],
+    "story_redesuper.show_3940364391342318324": [
+      {"n": "Pão de Forma Bom de Massa 400g (Tradicional/Integral/Leite)", "p": "4,99", "u": "un", "x": 10, "y": 10, "w": 55, "h": 55}
+    ],
+    "story_redesuper.show_3940364451958361346": [
+      {"n": "Fralda Descartável Personal Baby Total Pants G 24un", "p": "27,99", "u": "un", "x": 5, "y": 5, "w": 90, "h": 80}
+    ],
+    "story_redesuper.show_3940364507376424943": [
+      {"n": "Margarina Claybom 1kg Com Sal", "p": "9,99", "u": "un", "x": 0, "y": 0, "w": 50, "h": 45},
+      {"n": "Papel Toalha Bianco C/2", "p": "4,99", "u": "un", "x": 50, "y": 0, "w": 50, "h": 45},
+      {"n": "Kit Hidra Salon Line Shampoo 300ml + Condicionador 300ml", "p": "15,99", "u": "un", "x": 0, "y": 50, "w": 50, "h": 50},
+      {"n": "Leite em Pó Bom Gosto Integral 200g", "p": "6,99", "u": "un", "x": 50, "y": 50, "w": 50, "h": 50}
+    ],
+    "story_redesuper.show_3940639017812294922": [
+      {"n": "Coxa com Sobrecoxa de Frango Com Dorsal kg", "p": "7,39", "u": "kg", "x": 10, "y": 74, "w": 20, "h": 12},
+      {"n": "Batata Pré-Frita EasyChef 2kg Congelada Tradicional", "p": "18,99", "u": "un", "x": 30, "y": 74, "w": 20, "h": 12},
+      {"n": "Linguiça Aurora Churrasco/Frango kg", "p": "16,99", "u": "kg", "x": 50, "y": 74, "w": 22, "h": 12},
+      {"n": "Frango a Passarinho Super Frango 1kg", "p": "10,99", "u": "un", "x": 74, "y": 74, "w": 20, "h": 12},
+      {"n": "Margarina Deline 500g Com Sal", "p": "4,99", "u": "un", "x": 8, "y": 88, "w": 18, "h": 10},
+      {"n": "Leite UHT Betânia 1L Integral/Desnatado", "p": "5,99", "u": "un", "x": 26, "y": 88, "w": 18, "h": 10},
+      {"n": "Óleo de Soja Liza 900ml", "p": "7,29", "u": "un", "x": 44, "y": 88, "w": 15, "h": 10},
+      {"n": "Massa Yara 400g Espaguete", "p": "1,89", "u": "un", "x": 59, "y": 88, "w": 17, "h": 10},
+      {"n": "Ovo Branco Grande Avine C/20 Bandeja", "p": "11,89", "u": "un", "x": 76, "y": 88, "w": 20, "h": 10},
+      {"n": "Creme de Leite Italac 200g", "p": "2,49", "u": "un", "x": 8, "y": 99, "w": 18, "h": 10},
+      {"n": "Café São Braz 250g Almofada/A Vácuo", "p": "12,99", "u": "un", "x": 26, "y": 99, "w": 18, "h": 10},
+      {"n": "Cerveja Itaipava Pilsen 350ml Lata", "p": "2,59", "u": "un", "x": 44, "y": 99, "w": 18, "h": 10},
+      {"n": "Pão de Forma Center Massas 400g Tradicional", "p": "4,99", "u": "un", "x": 62, "y": 99, "w": 20, "h": 10},
+      {"n": "Amaciante Urca 3L Brisa Azul", "p": "9,99", "u": "un", "x": 8, "y": 110, "w": 18, "h": 10},
+      {"n": "Lava Roupas Líquido Alice 3L", "p": "10,99", "u": "un", "x": 26, "y": 110, "w": 18, "h": 10},
+      {"n": "Fralda Descartável Cremer Shortinho", "p": "23,99", "u": "un", "x": 44, "y": 110, "w": 20, "h": 10},
+      {"n": "Papel Higiênico Felitá Care 20m C/12 Folha Dupla", "p": "10,99", "u": "un", "x": 64, "y": 110, "w": 20, "h": 10}
+    ]
+  }
+}

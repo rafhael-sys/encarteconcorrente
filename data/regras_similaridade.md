@@ -173,21 +173,31 @@
 - DIFERENTES: «Sabonete Even 85g Fragrâncias» != «Sabonete NIVEA 85g Fragrâncias»
 - MESMO: «Toalha Umedecida Personal Baby c/50» == «Toalha Umidecida Personal Baby c/50»
 - DIFERENTES: «Água Mineral Petrópolis GF 500ml S/Gás» != «Água Mineral Petrópolis GF 500ml C/Gás»
+- MESMO: «Batata Frita Easychef Congelado 2kg Tradicional» == «Batata Frita Easychef Cong 2kg Tradicional»
 - MESMO: «Bebida Láctea Vitaclan/Batclan Sabores 900g» == «Bebida Láctea Vitaclan ou Batclan sabores 900g»
+- MESMO: «Bebida Mista Isis Frutas Cítricas/Zero/Uva/Maçã 350ml» == «Bebida Mista Isis frutas cítricas, zero ou uva e maçã 350ml»
 - MESMO: «Capa de Filé Bovina Resfriada a Vácuo/Congelada kg» == «Capa de Filé Bovina Resfriada a vácuo ou congelada kg»
 - MESMO: «Carne Bovina Cha de Fora Resfriada kg» == «Carne Bovina Chã de Fora Resfriada»
 - MESMO: «Carne Bovina Peito ou Acém com Osso kg» == «Carne Bovina Peito ou Acem c/Osso kg»
 - MESMO: «Catchup Tambaú 830g Tradicional/Picante» == «Catchup Tambaú 830g (tradicional ou picante)»
 - MESMO: «Cerveja Corona Extra Lata 350ml Tradicional & Zero» == «Cerveja Corona Extra Lata 350ml Tradicional ou Zero»
 - MESMO: «Chocolate Barra Neugebauer 80g Sabores» == «Chocolate em Barra Neugebauer 80g (sabores)»
+- MESMO: «Coalhada Isis Integral/Desnatada 150g» == «Coalhada Isis Integral ou Desnatada 150g»
 - MESMO: «Coxa com Sobrecoxa de Frango c/ Dorsal JAGUÁ kg» == «Coxa com Sobrecoxa de Frango c/ Dorsal Jaguá»
+- MESMO: «Coxas e Sobrecoxas Canção Congeladas» == «Coxas e Sobrecoxas Canção congeladas kg»
 - DIFERENTES: «Desodorante Aerossol Dove 150ml Fragrancias» != «Desodorante Aerosol Above 150ml (fragrâncias)»
 - MESMO: «Desodorante Aerosol Monange ou Bozzano 150ml (fragrâncias)» == «Desodorante Aerosol Monange/Bozzano 150ml Fragrâncias»
 - MESMO: «Desodorante Aerossol Suave 200ml Fragrâncias» == «Desodorante Aerosol Suave 200ml (fragrâncias)»
+- MESMO: «Escova Dentalclean Macia Stich, Peppa Pig ou Bluey Unid» == «Escova Dentalclean Macia Stitch, Peppa Pig ou Bluey»
+- MESMO: «Esponja Brilhus Leve4Pague3» == «Esponja Brilhus Leve 4 Pague 3»
 - DIFERENTES: «Filé de Peito de Frango Lar Bandeja 1kg» != «Filé de Peito de Frango Levo Bandeja 1Kg»
 - DIFERENTES: «Folha de Alumínio Wyda 30cm x 4m Rolo» != «Folha de Alumínio Wyda 30cm x 7,5m Rolo»
 - MESMO: «Frango Bom Todo 1kg IQF Passarinho Temperado» == «Frango Bom Todo 1kg IQF Passarinha Temperado»
 - MESMO: «Kit Desodorante Dove Original/Invisible Dry 2x50ml» == «Kit Desodorante Dove Original ou Invisible Dry 2x50ml»
+- MESMO: «Leite Condensado Piracanjuba 395g» == «Leite Condensado Piracanjuba cx 395g»
 - MESMO: «Linguiça de Carne Suína Saudali Congelada» == «Linguiça de Carne Suína Saudali congelada kg»
+- MESMO: «Linguiça de Frango Avivar Congelada» == «Linguiça de Frango Avivar Congelada kg»
 - MESMO: «Linguiça de Frango Bom Todo kg» == «Linguiça de Frango Bom Todo»
+- MESMO: «Queijo do Reino Ilda Fracionado ou Lata KG» == «Queijo Reino Ilda Fracionado ou Lata kg»
 - MESMO: «Salgadinho Pippos 75g Sabores» == «Salgadinho Pippo's 75g (sabores)»
+- MESMO: «Tequila El Jimador Reposado/Blanco 750ml» == «Tequila El Jimador Reposado ou Blanco 750ml»
