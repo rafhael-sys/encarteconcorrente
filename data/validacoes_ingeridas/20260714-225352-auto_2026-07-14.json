@@ -1,0 +1,13 @@
+{
+ "validacoes": [
+  {"a": "Coxas com Sobrecoxas de Frango com Dorsal Kg", "b": "Coxa Com Sobrecoxa de Frango Com Dorsal kg", "veredito": "mesmo"},
+  {"a": "Linguiça Aurora Churrasco ou Frango kg", "b": "Linguiça Aurora Churrasco/Frango kg", "veredito": "mesmo"},
+  {"a": "Coxa e Sobrecoxa de Frango com Dorsal kg", "b": "Coxa Com Sobrecoxa de Frango Com Dorsal kg", "veredito": "mesmo"},
+  {"a": "Carne Bov Lombo Serrado KG", "b": "Carne Bovina Lombo Serrado kg", "veredito": "mesmo"},
+  {"a": "Linguiça de Frango Aurora kg", "b": "Linguiça de Frango Aurora", "veredito": "mesmo"},
+  {"a": "Carne Bov Chã de Fora KG", "b": "Carne Bovina Chã de Fora kg", "veredito": "mesmo"},
+  {"a": "Carne Bov Contra Filé KG", "b": "Carne Bovina Contra Filé kg", "veredito": "mesmo"},
+  {"a": "Carne Bov Coxão Mole KG", "b": "Carne Bovina Coxão Mole kg", "veredito": "mesmo"},
+  {"a": "Amido de Milho Maizena Leve 200g Pague 150g", "b": "Amido de Milho Maizena 200g Pague 150g", "veredito": "mesmo"}
+ ]
+}

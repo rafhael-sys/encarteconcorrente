@@ -201,3 +201,12 @@
 - MESMO: «Queijo do Reino Ilda Fracionado ou Lata KG» == «Queijo Reino Ilda Fracionado ou Lata kg»
 - MESMO: «Salgadinho Pippos 75g Sabores» == «Salgadinho Pippo's 75g (sabores)»
 - MESMO: «Tequila El Jimador Reposado/Blanco 750ml» == «Tequila El Jimador Reposado ou Blanco 750ml»
+- MESMO: «Amido de Milho Maizena Leve 200g Pague 150g» == «Amido de Milho Maizena 200g Pague 150g»
+- MESMO: «Carne Bov Chã de Fora KG» == «Carne Bovina Chã de Fora kg»
+- MESMO: «Carne Bov Contra Filé KG» == «Carne Bovina Contra Filé kg»
+- MESMO: «Carne Bov Coxão Mole KG» == «Carne Bovina Coxão Mole kg»
+- MESMO: «Carne Bov Lombo Serrado KG» == «Carne Bovina Lombo Serrado kg»
+- MESMO: «Coxa e Sobrecoxa de Frango com Dorsal kg» == «Coxa Com Sobrecoxa de Frango Com Dorsal kg»
+- MESMO: «Coxas com Sobrecoxas de Frango com Dorsal Kg» == «Coxa Com Sobrecoxa de Frango Com Dorsal kg»
+- MESMO: «Linguiça Aurora Churrasco ou Frango kg» == «Linguiça Aurora Churrasco/Frango kg»
+- MESMO: «Linguiça de Frango Aurora kg» == «Linguiça de Frango Aurora»

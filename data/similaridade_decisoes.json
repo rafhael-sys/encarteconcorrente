@@ -1322,5 +1322,68 @@
   "veredito": "mesmo",
   "quando": "2026-07-13",
   "aplicado": true
+ },
+ "coxa com sobrecoxa de frango com dorsal kg || coxas com sobrecoxas de frango com dorsal kg": {
+  "a": "Coxas com Sobrecoxas de Frango com Dorsal Kg",
+  "b": "Coxa Com Sobrecoxa de Frango Com Dorsal kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-14",
+  "aplicado": true
+ },
+ "linguica aurora churrasco ou frango kg || linguica aurora churrasco/frango kg": {
+  "a": "Linguiça Aurora Churrasco ou Frango kg",
+  "b": "Linguiça Aurora Churrasco/Frango kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-14",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango com dorsal kg || coxa e sobrecoxa de frango com dorsal kg": {
+  "a": "Coxa e Sobrecoxa de Frango com Dorsal kg",
+  "b": "Coxa Com Sobrecoxa de Frango Com Dorsal kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-14",
+  "aplicado": true
+ },
+ "carne bov lombo serrado kg || carne bovina lombo serrado kg": {
+  "a": "Carne Bov Lombo Serrado KG",
+  "b": "Carne Bovina Lombo Serrado kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-14",
+  "aplicado": true
+ },
+ "linguica de frango aurora || linguica de frango aurora kg": {
+  "a": "Linguiça de Frango Aurora kg",
+  "b": "Linguiça de Frango Aurora",
+  "veredito": "mesmo",
+  "quando": "2026-07-14",
+  "aplicado": true
+ },
+ "carne bov cha de fora kg || carne bovina cha de fora kg": {
+  "a": "Carne Bov Chã de Fora KG",
+  "b": "Carne Bovina Chã de Fora kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-14",
+  "aplicado": true
+ },
+ "carne bov contra file kg || carne bovina contra file kg": {
+  "a": "Carne Bov Contra Filé KG",
+  "b": "Carne Bovina Contra Filé kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-14",
+  "aplicado": true
+ },
+ "carne bov coxao mole kg || carne bovina coxao mole kg": {
+  "a": "Carne Bov Coxão Mole KG",
+  "b": "Carne Bovina Coxão Mole kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-14",
+  "aplicado": true
+ },
+ "amido de milho maizena 200g pague 150g || amido de milho maizena leve 200g pague 150g": {
+  "a": "Amido de Milho Maizena Leve 200g Pague 150g",
+  "b": "Amido de Milho Maizena 200g Pague 150g",
+  "veredito": "mesmo",
+  "quando": "2026-07-14",
+  "aplicado": true
  }
 }
