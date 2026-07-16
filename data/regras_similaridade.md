@@ -210,3 +210,13 @@
 - MESMO: «Coxas com Sobrecoxas de Frango com Dorsal Kg» == «Coxa Com Sobrecoxa de Frango Com Dorsal kg»
 - MESMO: «Linguiça Aurora Churrasco ou Frango kg» == «Linguiça Aurora Churrasco/Frango kg»
 - MESMO: «Linguiça de Frango Aurora kg» == «Linguiça de Frango Aurora»
+- MESMO: «Achocolatado em Pó Chocolatto 3 Corações Pacote 700g» == «Achocolatado em Pó Chocolatto 3 Corações Pacote com 700g»
+- MESMO: «Coxinha de Frango ou Carne de Sol, Enroladinho de Salsicha ou Quejada Formosa» == «Coxinha de Frango ou Carne de Sol, Enroladinho de Salsicha ou Queijada Formosa Unid»
+- MESMO: «Desodorizador Aerossol Bom Ar Várias Fragrâncias Tubo 360ml» == «Desodorizador Aerossol Bom Ar Várias Fragrâncias Tubo com 360ml»
+- MESMO: «Galinha Leve Qdelicia kg» == «Galinha Leve Q'Delicia Kg»
+- MESMO: «Iogurte Betânia Resfriado Morango/Salada de Frutas Garrafa 1,25kg» == «Iogurte Betânia Resfriado Morango/Salada de Frutas Garrafa com 1,25kg»
+- MESMO: «Lava-Roupas em Pó Ala 400g» == «Lava Roupa em Pó Ala 400g»
+- MESMO: «Lava Roupas Líquido Ala Cuidado do Coco/Lavanda Bombona 5L» == «Lava Roupas Líquido Ala Cuidado do Coco/Lavanda Bombona com 5L»
+- DIFERENTES: «Ovo Branco Grande PVC Bandeja com 30 unidades» != «Ovo Branco Grande PVC Bandeja com 20 Unidades»
+- MESMO: «Pão de Queijo Delícia Mineira Congelado Tradicional Pacote 300g» == «Pão de Queijo Delícia Mineira Congelado Tradicional Pacote com 300g»
+- MESMO: «Queijo Mussarela Girolando Resfriado» == «Queijo Mussarela Girolanda Resfriado»

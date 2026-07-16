@@ -1,0 +1,54 @@
+{
+ "validacoes": [
+  {
+   "a": "Lava-Roupas em Pó Ala 400g",
+   "b": "Lava Roupa em Pó Ala 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Galinha Leve Qdelicia kg",
+   "b": "Galinha Leve Q'Delicia Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Girolando Resfriado",
+   "b": "Queijo Mussarela Girolanda Resfriado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Iogurte Betânia Resfriado Morango/Salada de Frutas Garrafa 1,25kg",
+   "b": "Iogurte Betânia Resfriado Morango/Salada de Frutas Garrafa com 1,25kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pão de Queijo Delícia Mineira Congelado Tradicional Pacote 300g",
+   "b": "Pão de Queijo Delícia Mineira Congelado Tradicional Pacote com 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorizador Aerossol Bom Ar Várias Fragrâncias Tubo 360ml",
+   "b": "Desodorizador Aerossol Bom Ar Várias Fragrâncias Tubo com 360ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido Ala Cuidado do Coco/Lavanda Bombona 5L",
+   "b": "Lava Roupas Líquido Ala Cuidado do Coco/Lavanda Bombona com 5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó Chocolatto 3 Corações Pacote 700g",
+   "b": "Achocolatado em Pó Chocolatto 3 Corações Pacote com 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha de Frango ou Carne de Sol, Enroladinho de Salsicha ou Quejada Formosa",
+   "b": "Coxinha de Frango ou Carne de Sol, Enroladinho de Salsicha ou Queijada Formosa Unid",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Branco Grande PVC Bandeja com 30 unidades",
+   "b": "Ovo Branco Grande PVC Bandeja com 20 Unidades",
+   "veredito": "diferente"
+  }
+ ]
+}
