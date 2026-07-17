@@ -1454,5 +1454,68 @@
   "b": "Ovo Branco Grande PVC Bandeja com 20 Unidades",
   "veredito": "diferente",
   "quando": "2026-07-15"
+ },
+ "carne bov capa file resf kg a vacuo || carne bov capa file resf kg avacuo": {
+  "a": "Carne Bov Capa Filé Resf KG a Vácuo",
+  "b": "Carne Bov Capa Filé Resf Kg Avácuo",
+  "veredito": "mesmo",
+  "quando": "2026-07-16",
+  "aplicado": true
+ },
+ "bolacha taboleiro torrada pct 250g manteiga da terra || bolacha taboleiro torrada pct 250g manteiga terra": {
+  "a": "Bolacha Taboleiro Torrada PCT 250g Manteiga Terra",
+  "b": "Bolacha Taboleiro Torrada PCT 250g Manteiga da Terra",
+  "veredito": "mesmo",
+  "quando": "2026-07-16",
+  "aplicado": true
+ },
+ "creme dental 4 em 1 oral b 70g || creme dental 4em1 oral b 70g": {
+  "a": "Creme Dental 4 em 1 Oral B 70g",
+  "b": "Creme Dental 4em1 Oral B 70g",
+  "veredito": "mesmo",
+  "quando": "2026-07-16",
+  "aplicado": true
+ },
+ "aparelho de barbear bic flex 3 blister 4 unidades || aparelho de barbear bic flex 3 blister com 4 unidades": {
+  "a": "Aparelho de Barbear Bic Flex 3 Blíster 4 unidades",
+  "b": "Aparelho de Barbear Bic Flex 3 Blíster com 4 Unidades",
+  "veredito": "mesmo",
+  "quando": "2026-07-16",
+  "aplicado": true
+ },
+ "sabonete francis varias fragrancias unidade 80g || sabonete francis varias fragrancias unidade com 80g": {
+  "a": "Sabonete Francis Várias Fragrâncias Unidade 80g",
+  "b": "Sabonete Francis Várias Fragrâncias Unidade com 80g",
+  "veredito": "mesmo",
+  "quando": "2026-07-16",
+  "aplicado": true
+ },
+ "batata pre-frita masterboi congelada pacote 2kg || batata pre-frita masterboi congelada pacote com 2kg": {
+  "a": "Batata Pré-Frita Masterboi Congelada Pacote 2kg",
+  "b": "Batata Pré-Frita Masterboi Congelada Pacote com 2kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-16",
+  "aplicado": true
+ },
+ "margarina deline resfriada com sal pote 250g || margarina deline resfriada com sal pote com 250g": {
+  "a": "Margarina Deline Resfriada com Sal Pote 250g",
+  "b": "Margarina Deline Resfriada com Sal Pote com 250g",
+  "veredito": "mesmo",
+  "quando": "2026-07-16",
+  "aplicado": true
+ },
+ "agua mineral petropolis com gas pet 500ml || agua mineral petropolis com gas pet com 500ml": {
+  "a": "Água Mineral Petrópolis Com Gás PET 500ml",
+  "b": "Água Mineral Petrópolis com Gás Pet com 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-16",
+  "aplicado": true
+ },
+ "ovo branco grande pvc bandeja 20 unidades || ovo branco grande pvc bandeja com 20 unidades": {
+  "a": "Ovo Branco Grande PVC Bandeja 20 unidades",
+  "b": "Ovo Branco Grande PVC Bandeja com 20 Unidades",
+  "veredito": "mesmo",
+  "quando": "2026-07-16",
+  "aplicado": true
  }
 }

@@ -220,3 +220,12 @@
 - DIFERENTES: «Ovo Branco Grande PVC Bandeja com 30 unidades» != «Ovo Branco Grande PVC Bandeja com 20 Unidades»
 - MESMO: «Pão de Queijo Delícia Mineira Congelado Tradicional Pacote 300g» == «Pão de Queijo Delícia Mineira Congelado Tradicional Pacote com 300g»
 - MESMO: «Queijo Mussarela Girolando Resfriado» == «Queijo Mussarela Girolanda Resfriado»
+- MESMO: «Água Mineral Petrópolis Com Gás PET 500ml» == «Água Mineral Petrópolis com Gás Pet com 500ml»
+- MESMO: «Aparelho de Barbear Bic Flex 3 Blíster 4 unidades» == «Aparelho de Barbear Bic Flex 3 Blíster com 4 Unidades»
+- MESMO: «Batata Pré-Frita Masterboi Congelada Pacote 2kg» == «Batata Pré-Frita Masterboi Congelada Pacote com 2kg»
+- MESMO: «Bolacha Taboleiro Torrada PCT 250g Manteiga Terra» == «Bolacha Taboleiro Torrada PCT 250g Manteiga da Terra»
+- MESMO: «Carne Bov Capa Filé Resf KG a Vácuo» == «Carne Bov Capa Filé Resf Kg Avácuo»
+- MESMO: «Creme Dental 4 em 1 Oral B 70g» == «Creme Dental 4em1 Oral B 70g»
+- MESMO: «Margarina Deline Resfriada com Sal Pote 250g» == «Margarina Deline Resfriada com Sal Pote com 250g»
+- MESMO: «Ovo Branco Grande PVC Bandeja 20 unidades» == «Ovo Branco Grande PVC Bandeja com 20 Unidades»
+- MESMO: «Sabonete Francis Várias Fragrâncias Unidade 80g» == «Sabonete Francis Várias Fragrâncias Unidade com 80g»

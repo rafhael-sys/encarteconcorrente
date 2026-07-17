@@ -1,0 +1,11 @@
+{"validacoes": [
+ {"a": "Carne Bov Capa Filé Resf KG a Vácuo", "b": "Carne Bov Capa Filé Resf Kg Avácuo", "veredito": "mesmo"},
+ {"a": "Bolacha Taboleiro Torrada PCT 250g Manteiga Terra", "b": "Bolacha Taboleiro Torrada PCT 250g Manteiga da Terra", "veredito": "mesmo"},
+ {"a": "Creme Dental 4 em 1 Oral B 70g", "b": "Creme Dental 4em1 Oral B 70g", "veredito": "mesmo"},
+ {"a": "Aparelho de Barbear Bic Flex 3 Blíster 4 unidades", "b": "Aparelho de Barbear Bic Flex 3 Blíster com 4 Unidades", "veredito": "mesmo"},
+ {"a": "Sabonete Francis Várias Fragrâncias Unidade 80g", "b": "Sabonete Francis Várias Fragrâncias Unidade com 80g", "veredito": "mesmo"},
+ {"a": "Batata Pré-Frita Masterboi Congelada Pacote 2kg", "b": "Batata Pré-Frita Masterboi Congelada Pacote com 2kg", "veredito": "mesmo"},
+ {"a": "Margarina Deline Resfriada com Sal Pote 250g", "b": "Margarina Deline Resfriada com Sal Pote com 250g", "veredito": "mesmo"},
+ {"a": "Água Mineral Petrópolis Com Gás PET 500ml", "b": "Água Mineral Petrópolis com Gás Pet com 500ml", "veredito": "mesmo"},
+ {"a": "Ovo Branco Grande PVC Bandeja 20 unidades", "b": "Ovo Branco Grande PVC Bandeja com 20 Unidades", "veredito": "mesmo"}
+]}
