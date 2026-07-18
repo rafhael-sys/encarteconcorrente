@@ -229,3 +229,13 @@
 - MESMO: «Margarina Deline Resfriada com Sal Pote 250g» == «Margarina Deline Resfriada com Sal Pote com 250g»
 - MESMO: «Ovo Branco Grande PVC Bandeja 20 unidades» == «Ovo Branco Grande PVC Bandeja com 20 Unidades»
 - MESMO: «Sabonete Francis Várias Fragrâncias Unidade 80g» == «Sabonete Francis Várias Fragrâncias Unidade com 80g»
+- MESMO: «Bebida Mista TAMPICO 1L Frutas Cítricas/Uva» == «Bebida Mista Tampico 1l Frutas Cítricas»
+- MESMO: «Cerveja Império Ultra Lata 269ml Sem Glúten» == «Cerv Imperio Ultra Lata 269ml S/Gluten»
+- MESMO: «Ervilha e Milho Sófruta Dueto Lata 170g» == «Ervilha e Milho Sófruta Dueto Lata com 170g»
+- MESMO: «Ketchup Heinz Tradicional Pet com 567g» == «Ketchup Heinz Tradicional/Zero Pet com 567g»
+- MESMO: «Leite em Pó CCGL Integral 800g» == «Leite Pó CCGL Integral 800g»
+- MESMO: «Manteiga Itacolomy c/ Sal Pote 200g» == «Manteiga Itacolomy Com Sal PT 200g»
+- MESMO: «Refrigerante Coca-Cola Zero Açúcar Pet 2L» == «Refrigerante Coca-Cola sem Açúcar Pet 2L»
+- DIFERENTES: «Suco de Uva Integral OQ gfa 1,5 litro» != «Suco de Uva Integral OQ gfa 1 litro»
+- DIFERENTES: «Uva Verde Sem Semente Seleta Bandeja 500g» != «Uva Vermelha Sem Semente Seleta Bandeja 500g»
+- MESMO: «Uva Vitória Bandeja 500g» == «Uva Vitória BJ Bandeja 500g»

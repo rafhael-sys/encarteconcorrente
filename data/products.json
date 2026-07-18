@@ -78621,5 +78621,650 @@
    "w": 16.5,
    "h": 12.0
   }
+ ],
+ "assai_168193-572_p1": [
+  {
+   "n": "Filé de Peito de Frango Congelado Lar KG",
+   "p": "15,90",
+   "u": "kg",
+   "x": 3,
+   "y": 18,
+   "w": 17,
+   "h": 16.5
+  },
+  {
+   "n": "Coxas e Sobrecoxas de Frango com Porção Dorsal Congeladas Lar KG",
+   "p": "7,90",
+   "u": "kg",
+   "x": 22,
+   "y": 18,
+   "w": 17,
+   "h": 16.5
+  },
+  {
+   "n": "Batata Congelada Fininha para Air Fryer McCain Pacote 1,2kg",
+   "p": "25,90",
+   "u": "un",
+   "x": 41,
+   "y": 18,
+   "w": 17,
+   "h": 16.5
+  },
+  {
+   "n": "Pão de Alho Zinho Sabores (Exceto Catupiry) Pacote 300g",
+   "p": "15,99",
+   "u": "un",
+   "x": 60.5,
+   "y": 18,
+   "w": 17,
+   "h": 16.5
+  },
+  {
+   "n": "Queijo Tipo Coalho Clan KG",
+   "p": "39,90",
+   "u": "kg",
+   "x": 79.5,
+   "y": 18,
+   "w": 17,
+   "h": 16.5
+  },
+  {
+   "n": "Vinho Português Calamares Tipos Garrafa 750ml",
+   "p": "44,90",
+   "u": "un",
+   "x": 1,
+   "y": 36,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Vinho Frisante Suave Branco ou Rosé Tropical Garrafa 750ml",
+   "p": "19,90",
+   "u": "un",
+   "x": 16.5,
+   "y": 36,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Cachaça Caranguejo Lata 350ml",
+   "p": "2,99",
+   "u": "un",
+   "x": 32.5,
+   "y": 36,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Bebida Energética TNT Sabores Lata 473ml",
+   "p": "5,99",
+   "u": "un",
+   "x": 48.5,
+   "y": 36,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Refresco Dafruta Sabores TP 200ml",
+   "p": "1,19",
+   "u": "un",
+   "x": 64.5,
+   "y": 36,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Água Mineral Sem Gás É Leve PET 510ml",
+   "p": "0,79",
+   "u": "un",
+   "x": 80.5,
+   "y": 36,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Cerveja Extra Corona Lata 350ml",
+   "p": "5,49",
+   "u": "un",
+   "x": 1,
+   "y": 52,
+   "w": 15,
+   "h": 16.5
+  },
+  {
+   "n": "Cerveja Heineken Long Neck 330ml",
+   "p": "5,99",
+   "u": "un",
+   "x": 16.5,
+   "y": 52,
+   "w": 15,
+   "h": 16.5
+  },
+  {
+   "n": "Refrigerante Original Guaraná Antarctica PET 1L",
+   "p": "4,39",
+   "u": "un",
+   "x": 32.5,
+   "y": 52,
+   "w": 15,
+   "h": 16.5
+  },
+  {
+   "n": "Bebida Alcoólica Mista Slova Sabores Garrafa 965ml",
+   "p": "11,90",
+   "u": "un",
+   "x": 48.5,
+   "y": 52,
+   "w": 15,
+   "h": 16.5
+  },
+  {
+   "n": "Vodka Sueca Absolut Garrafa 1L",
+   "p": "94,90",
+   "u": "un",
+   "x": 64.5,
+   "y": 52,
+   "w": 15,
+   "h": 16.5
+  },
+  {
+   "n": "Whisky Escocês Finest Ballantine's Garrafa 750ml",
+   "p": "59,90",
+   "u": "un",
+   "x": 80.5,
+   "y": 52,
+   "w": 15,
+   "h": 16.5
+  },
+  {
+   "n": "Picanha Bovina Resfriada a Vácuo Masterboi KG",
+   "p": "59,90",
+   "u": "kg",
+   "x": 1,
+   "y": 72.5,
+   "w": 15,
+   "h": 23
+  },
+  {
+   "n": "Contrafilé Bovino Resfriado a Vácuo Masterboi KG",
+   "p": "53,90",
+   "u": "kg",
+   "x": 16.5,
+   "y": 72.5,
+   "w": 15,
+   "h": 23
+  },
+  {
+   "n": "Cupim Bovino Congelado a Vácuo Masterboi KG",
+   "p": "39,90",
+   "u": "kg",
+   "x": 32.5,
+   "y": 72.5,
+   "w": 15,
+   "h": 23
+  },
+  {
+   "n": "Espetinho Bovino Temperado Congelado Jundiaí Pacote 480g",
+   "p": "14,99",
+   "u": "un",
+   "x": 48.5,
+   "y": 72.5,
+   "w": 15,
+   "h": 23
+  },
+  {
+   "n": "Costela Janelinha Congelada a Vácuo Maturatta KG",
+   "p": "39,90",
+   "u": "kg",
+   "x": 64.5,
+   "y": 72.5,
+   "w": 15,
+   "h": 23
+  },
+  {
+   "n": "Barriga Suína Resfriada Reserva KG",
+   "p": "25,90",
+   "u": "kg",
+   "x": 80.5,
+   "y": 72.5,
+   "w": 15,
+   "h": 23
+  }
+ ],
+ "assai_168193-572_p2": [
+  {
+   "n": "Feijão Preto Camil Pacote 1kg",
+   "p": "5,79",
+   "u": "un",
+   "x": 5.5,
+   "y": 5,
+   "w": 16,
+   "h": 19
+  },
+  {
+   "n": "Açúcar Cristal ou Triturado Alegre Pacote 1kg",
+   "p": "2,89",
+   "u": "un",
+   "x": 21.5,
+   "y": 5,
+   "w": 16,
+   "h": 19
+  },
+  {
+   "n": "Macarrão Tipo Ninho Vitarella Pacote 400g",
+   "p": "3,79",
+   "u": "un",
+   "x": 41,
+   "y": 5,
+   "w": 16,
+   "h": 19
+  },
+  {
+   "n": "Extrato de Tomate Tambaú Sachê 300g",
+   "p": "3,19",
+   "u": "un",
+   "x": 60,
+   "y": 5,
+   "w": 16,
+   "h": 19
+  },
+  {
+   "n": "Biscoito Recheado Treloso Vitarella Pacote 37g",
+   "p": "0,69",
+   "u": "un",
+   "x": 78,
+   "y": 5,
+   "w": 16,
+   "h": 19
+  },
+  {
+   "n": "Sorvete Tradicional Nestlé Sabores Pote 1,5L",
+   "p": "19,90",
+   "u": "un",
+   "x": 1,
+   "y": 28,
+   "w": 15,
+   "h": 17.5
+  },
+  {
+   "n": "Pão de Forma Tradicional Massas Nordestinas Pacote 400g",
+   "p": "4,99",
+   "u": "un",
+   "x": 17,
+   "y": 28,
+   "w": 15,
+   "h": 17.5
+  },
+  {
+   "n": "Alface-Crespa Maço",
+   "p": "1,99",
+   "u": "un",
+   "x": 33,
+   "y": 28,
+   "w": 15,
+   "h": 17.5
+  },
+  {
+   "n": "Repolho-Verde KG",
+   "p": "5,49",
+   "u": "kg",
+   "x": 49,
+   "y": 28,
+   "w": 15,
+   "h": 17.5
+  },
+  {
+   "n": "Tomate-Rasteiro KG",
+   "p": "2,99",
+   "u": "kg",
+   "x": 65,
+   "y": 28,
+   "w": 15,
+   "h": 17.5
+  },
+  {
+   "n": "Cenoura KG",
+   "p": "6,99",
+   "u": "kg",
+   "x": 81,
+   "y": 28,
+   "w": 15,
+   "h": 17.5
+  },
+  {
+   "n": "Laranja-Pera Saco 3kg",
+   "p": "6,89",
+   "u": "un",
+   "x": 1,
+   "y": 50,
+   "w": 15,
+   "h": 14.5
+  },
+  {
+   "n": "Tangerina-Importada KG",
+   "p": "8,99",
+   "u": "kg",
+   "x": 17,
+   "y": 50,
+   "w": 15,
+   "h": 14.5
+  },
+  {
+   "n": "Maçã-Gala KG",
+   "p": "6,99",
+   "u": "kg",
+   "x": 33,
+   "y": 50,
+   "w": 15,
+   "h": 14.5
+  },
+  {
+   "n": "Uva Branca Sem Semente Bandeja 500g",
+   "p": "8,79",
+   "u": "un",
+   "x": 49,
+   "y": 50,
+   "w": 15,
+   "h": 14.5
+  },
+  {
+   "n": "Abacate KG",
+   "p": "3,89",
+   "u": "kg",
+   "x": 65,
+   "y": 50,
+   "w": 15,
+   "h": 14.5
+  },
+  {
+   "n": "Batata-Lavada KG",
+   "p": "5,79",
+   "u": "kg",
+   "x": 81,
+   "y": 50,
+   "w": 15,
+   "h": 14.5
+  },
+  {
+   "n": "Carvão Vegetal Jucurutu Saco 3kg",
+   "p": "14,90",
+   "u": "un",
+   "x": 3.5,
+   "y": 66.5,
+   "w": 16,
+   "h": 18.5
+  },
+  {
+   "n": "Filme de PVC Wyda Rolo 15mx28cm",
+   "p": "3,49",
+   "u": "un",
+   "x": 22,
+   "y": 66.5,
+   "w": 16,
+   "h": 18.5
+  },
+  {
+   "n": "Folha de Alumínio Wyda Rolo 30mx7,5m",
+   "p": "4,99",
+   "u": "un",
+   "x": 42.5,
+   "y": 66.5,
+   "w": 16,
+   "h": 18.5
+  },
+  {
+   "n": "Copo Americano Nadir Unidade 190ml",
+   "p": "1,29",
+   "u": "un",
+   "x": 60,
+   "y": 66.5,
+   "w": 16,
+   "h": 18.5
+  },
+  {
+   "n": "Mop com Balde Compacto Brilhus Unidade 10L",
+   "p": "69,90",
+   "u": "un",
+   "x": 78,
+   "y": 66.5,
+   "w": 16,
+   "h": 18.5
+  }
+ ],
+ "nosso_41dcea22a7_p1": [
+  {
+   "n": "Creme de Leite Natville 200g",
+   "p": "2,28",
+   "u": "un",
+   "x": 6.5,
+   "y": 17,
+   "w": 14,
+   "h": 21.5
+  },
+  {
+   "n": "Cream Cracker Fortaleza Tradicional 350g",
+   "p": "4,98",
+   "u": "un",
+   "x": 21,
+   "y": 17,
+   "w": 14,
+   "h": 21.5
+  },
+  {
+   "n": "Macarrão Aliança ou Yara 400g",
+   "p": "1,69",
+   "u": "un",
+   "x": 35,
+   "y": 17,
+   "w": 14,
+   "h": 21.5
+  },
+  {
+   "n": "Margarina Primor 1kg",
+   "p": "8,69",
+   "u": "un",
+   "x": 50,
+   "y": 17,
+   "w": 14,
+   "h": 21.5
+  },
+  {
+   "n": "Café São Braz 250g",
+   "p": "11,98",
+   "u": "un",
+   "x": 64.5,
+   "y": 17,
+   "w": 14,
+   "h": 21.5
+  },
+  {
+   "n": "Leite em Pó Camponesa 750g",
+   "p": "25,68",
+   "u": "un",
+   "x": 79,
+   "y": 17,
+   "w": 14,
+   "h": 21.5
+  },
+  {
+   "n": "Carne Bovina Acém ou Paleta com Osso KG",
+   "p": "26,98",
+   "u": "kg",
+   "x": 5,
+   "y": 40,
+   "w": 18,
+   "h": 17.5
+  },
+  {
+   "n": "Carne Bovina Patinho KG",
+   "p": "37,98",
+   "u": "kg",
+   "x": 24,
+   "y": 40,
+   "w": 18,
+   "h": 17.5
+  },
+  {
+   "n": "Bisteca Suína KG",
+   "p": "13,48",
+   "u": "kg",
+   "x": 43,
+   "y": 40,
+   "w": 18,
+   "h": 17.5
+  },
+  {
+   "n": "Coxa de Frango Bom Todo IQF Pacote 1kg",
+   "p": "12,99",
+   "u": "un",
+   "x": 62,
+   "y": 40,
+   "w": 18,
+   "h": 17.5
+  },
+  {
+   "n": "Queijo Muçarela Natville KG",
+   "p": "36,98",
+   "u": "kg",
+   "x": 79,
+   "y": 40,
+   "w": 18,
+   "h": 17.5
+  },
+  {
+   "n": "Cerveja Devassa 350ml",
+   "p": "2,68",
+   "u": "un",
+   "x": 5,
+   "y": 58.5,
+   "w": 18,
+   "h": 14
+  },
+  {
+   "n": "Cerveja Heineken Long Neck 330ml",
+   "p": "5,99",
+   "u": "un",
+   "x": 24,
+   "y": 58.5,
+   "w": 18,
+   "h": 14
+  },
+  {
+   "n": "Cachaça Ypióca 150 Anos 700ml",
+   "p": "52,98",
+   "u": "un",
+   "x": 43,
+   "y": 58.5,
+   "w": 18,
+   "h": 14
+  },
+  {
+   "n": "Whisky Red Label 1 Litro",
+   "p": "74,98",
+   "u": "un",
+   "x": 62,
+   "y": 58.5,
+   "w": 18,
+   "h": 14
+  },
+  {
+   "n": "Refrigerante Indaiá 2 Litros",
+   "p": "4,29",
+   "u": "un",
+   "x": 79,
+   "y": 58.5,
+   "w": 18,
+   "h": 14
+  },
+  {
+   "n": "Tomate Cajá ou Longa Vida KG",
+   "p": "2,98",
+   "u": "kg",
+   "x": 5,
+   "y": 73,
+   "w": 18,
+   "h": 12.5
+  },
+  {
+   "n": "Batata-Doce Roxa",
+   "p": "2,98",
+   "u": "un",
+   "x": 24,
+   "y": 73,
+   "w": 18,
+   "h": 12.5
+  },
+  {
+   "n": "Tangerina Nacional KG",
+   "p": "6,98",
+   "u": "kg",
+   "x": 43,
+   "y": 73,
+   "w": 18,
+   "h": 12.5
+  },
+  {
+   "n": "Morango 200g",
+   "p": "5,98",
+   "u": "un",
+   "x": 62,
+   "y": 73,
+   "w": 18,
+   "h": 12.5
+  },
+  {
+   "n": "Ovos Brancos Grandes ou Extras Bandeja com 30",
+   "p": "13,98",
+   "u": "un",
+   "x": 79,
+   "y": 73,
+   "w": 18,
+   "h": 12.5
+  },
+  {
+   "n": "Creme Dental Colgate Total 12 90g",
+   "p": "8,98",
+   "u": "un",
+   "x": 5,
+   "y": 86,
+   "w": 18,
+   "h": 12.5
+  },
+  {
+   "n": "Shampoo Clear Anticaspa 200ml",
+   "p": "14,98",
+   "u": "un",
+   "x": 24,
+   "y": 86,
+   "w": 18,
+   "h": 12.5
+  },
+  {
+   "n": "Lava-Roupas em Pó Ala Sachê 400g",
+   "p": "2,58",
+   "u": "un",
+   "x": 43,
+   "y": 86,
+   "w": 18,
+   "h": 12.5
+  },
+  {
+   "n": "Alvejante Vanish Sachê 500ml",
+   "p": "9,68",
+   "u": "un",
+   "x": 62,
+   "y": 86,
+   "w": 18,
+   "h": 12.5
+  },
+  {
+   "n": "Fralda Mili Love & Care Pants Jumbo",
+   "p": "29,98",
+   "u": "un",
+   "x": 79,
+   "y": 86,
+   "w": 18,
+   "h": 12.5
+  }
  ]
 }
