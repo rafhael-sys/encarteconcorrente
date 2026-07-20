@@ -8,6 +8,13 @@
 
 export PATH="$HOME/.local/bin:/opt/homebrew/bin:/usr/local/bin:$PATH"
 
+# Login FIXO do Claude: token de longa duração (claude setup-token) guardado em
+# ~/.config/claude_oauth_token. Usar este token evita a dependência do Keychain
+# do Mac — que não renova o login se a tela estiver travada às 22h e derrubou a
+# análise no fim de semana de 18-20/07/2026. O arquivo fica FORA do repositório.
+[[ -f "$HOME/.config/claude_oauth_token" ]] && \
+  export CLAUDE_CODE_OAUTH_TOKEN="$(cat "$HOME/.config/claude_oauth_token")"
+
 # pasta do projeto = onde este script está (portável: launchd chama pelo caminho absoluto)
 BASE="$(cd "$(dirname "$0")" && pwd)"
 STAMP="$BASE/data/.ultima_execucao"
