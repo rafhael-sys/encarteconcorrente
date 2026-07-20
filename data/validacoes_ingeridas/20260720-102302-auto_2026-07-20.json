@@ -1,0 +1,12 @@
+{"validacoes": [
+ {"a": "Chocolate em Pó Selecta 50% Cacau 1,010kg", "b": "Chocolate em Pó Selecta Namur 50% cacau 1,010kg", "veredito": "mesmo"},
+ {"a": "Desodorante Aerosol Nivea 150ml Fragrâncias", "b": "Desodorante Aerosol Above 150ml (fragrâncias)", "veredito": "diferente"},
+ {"a": "Amaciante de Roupas SONHO 1,5L Fragrâncias", "b": "Amaciante Roupas Sonho FR 1,5L Fragrâncias", "veredito": "mesmo"},
+ {"a": "Kit OX Shampoo + Condicionador Vários Tipos", "b": "Kit Seda Shampoo + Condicionador Vários Tipos", "veredito": "diferente"},
+ {"a": "Bebida Isotônica Gatorade GF 500ml Sabores", "b": "Bebida Isotônica Powerade GF 500ml Sabores", "veredito": "diferente"},
+ {"a": "Folha de Alumínio Wyda 30cm x 4m Rolo", "b": "Folha de Alumínio Wyda 30cm x 4m", "veredito": "mesmo"},
+ {"a": "Bebida Mista Beats Lata 269ml Sabores", "b": "Beb Mista Beats LT 269ml Sabores", "veredito": "mesmo"},
+ {"a": "Canela em Pó SADIO 35g", "b": "Canela Pó Sadio 35g", "veredito": "mesmo"},
+ {"a": "Queijo Parmesão La Paulina Peça/Pedaço", "b": "Queijo Parmesão La Paulina peça ou pedaço kg", "veredito": "mesmo"},
+ {"a": "Leite em Pó Ninho 575g", "b": "Leite Pó Ninho 575g", "veredito": "mesmo"}
+]}

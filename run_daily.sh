@@ -66,12 +66,15 @@ falha() {
   echo "=== $(date '+%Y-%m-%d %H:%M') iniciando (janela ${SLOT}h, tentativa $((T_N + 1))/3) ==="
   cd "$BASE" || falha "pasta do projeto não encontrada"
 
-  # a collect.py já re-tenta internamente (rodadas + backoff por perfil, só nos
-  # perfis que caíram); se ainda assim falhar TUDO, é queda real do Instagram —
-  # deixamos para o próximo tique (30 min) em vez de segurar a trava repetindo a
-  # coleta inteira, o que atrasaria a publicação do painel.
+  # Feed do Instagram: coletor PRINCIPAL usa o endpoint AUTENTICADO
+  # feed/user/{id} (com cookie) — contorna o bug intermitente do web_profile_info
+  # ('ig_business_category_subvertical ... You cannot use this schema'), que
+  # derrubou a coleta em 18-20/07/2026. Se ele falhar por completo (sem cookie ou
+  # rate-limit), cai no collect.py ANÔNIMO como reserva. A collect.py já re-tenta
+  # internamente; se ainda assim falhar TUDO, é queda real do Instagram e
+  # deixamos para o próximo tique (30 min) em vez de segurar a trava.
   touch "$LOCK"
-  /usr/bin/python3 collect.py || falha "coleta do Instagram"
+  /usr/bin/python3 collect_feed.py || /usr/bin/python3 collect.py || falha "coleta do Instagram"
 
   /usr/bin/python3 collect_web.py || echo "[aviso] coleta web (Assaí/Atacadão/Nosso) falhou nesta janela"
 

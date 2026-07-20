@@ -241,9 +241,19 @@
 - MESMO: «Uva Vitória Bandeja 500g» == «Uva Vitória BJ Bandeja 500g»
 - DIFERENTES: «Absorvente Mili Proteção Total Cobertura Suave com 32 Unidades (com abas)» != «Absorvente Mili Proteção Total Cobertura Suave com 8 Unidades (Com ou Sem Abas)»
 - MESMO: «Almôndega Bovina Chuletão Congelada 1kg» == «Almôndega Bovina Chuletão Cong 1kg»
+- MESMO: «Amaciante de Roupas SONHO 1,5L Fragrâncias» == «Amaciante Roupas Sonho FR 1,5L Fragrâncias»
+- MESMO: «Bebida Mista Beats Lata 269ml Sabores» == «Beb Mista Beats LT 269ml Sabores»
+- DIFERENTES: «Bebida Isotônica Gatorade GF 500ml Sabores» != «Bebida Isotônica Powerade GF 500ml Sabores»
+- MESMO: «Canela em Pó SADIO 35g» == «Canela Pó Sadio 35g»
 - MESMO: «Carne Bov Chambaril KG» == «Carne Bovina Chambaril kg»
 - MESMO: «Carne Bovina Patinho kg» == «Carne Bov Patinho Kg»
 - DIFERENTES: «Carne Bovina Paleta sem Osso Reserva Resfriada» != «Carne Bovina Acém sem Osso Reserva Resfriada»
+- MESMO: «Chocolate em Pó Selecta 50% Cacau 1,010kg» == «Chocolate em Pó Selecta Namur 50% cacau 1,010kg»
+- DIFERENTES: «Desodorante Aerosol Nivea 150ml Fragrâncias» != «Desodorante Aerosol Above 150ml (fragrâncias)»
 - MESMO: «Folha de Alumínio Pratsy 30cm x 4m Rolo» == «Folha de Alumínio Pratsy 30cm x 4m»
+- MESMO: «Folha de Alumínio Wyda 30cm x 4m Rolo» == «Folha de Alumínio Wyda 30cm x 4m»
+- DIFERENTES: «Kit OX Shampoo + Condicionador Vários Tipos» != «Kit Seda Shampoo + Condicionador Vários Tipos»
+- MESMO: «Leite em Pó Ninho 575g» == «Leite Pó Ninho 575g»
 - DIFERENTES: «Papel Higiênico Dama Folha Dupla 30m Pacote com 12 Rolos» != «Papel Higiênico Velud Folha dupla 30m Pacote com 12 rolos»
+- MESMO: «Queijo Parmesão La Paulina Peça/Pedaço» == «Queijo Parmesão La Paulina peça ou pedaço kg»
 - DIFERENTES: «Refresco Líquido D+ Vários Sabores TP com 1L» != «Refresco Líquido Dafruta Vários Sabores TP com 1L»

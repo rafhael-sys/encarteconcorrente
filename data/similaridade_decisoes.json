@@ -1637,5 +1637,72 @@
   "veredito": "mesmo",
   "quando": "2026-07-20",
   "aplicado": true
+ },
+ "chocolate em po selecta 50% cacau 1,010kg || chocolate em po selecta namur 50% cacau 1,010kg": {
+  "a": "Chocolate em Pó Selecta 50% Cacau 1,010kg",
+  "b": "Chocolate em Pó Selecta Namur 50% cacau 1,010kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-20",
+  "aplicado": true
+ },
+ "desodorante aerosol above 150ml (fragrancias) || desodorante aerosol nivea 150ml fragrancias": {
+  "a": "Desodorante Aerosol Nivea 150ml Fragrâncias",
+  "b": "Desodorante Aerosol Above 150ml (fragrâncias)",
+  "veredito": "diferente",
+  "quando": "2026-07-20"
+ },
+ "amaciante de roupas sonho 1,5l fragrancias || amaciante roupas sonho fr 1,5l fragrancias": {
+  "a": "Amaciante de Roupas SONHO 1,5L Fragrâncias",
+  "b": "Amaciante Roupas Sonho FR 1,5L Fragrâncias",
+  "veredito": "mesmo",
+  "quando": "2026-07-20",
+  "aplicado": true
+ },
+ "kit ox shampoo + condicionador varios tipos || kit seda shampoo + condicionador varios tipos": {
+  "a": "Kit OX Shampoo + Condicionador Vários Tipos",
+  "b": "Kit Seda Shampoo + Condicionador Vários Tipos",
+  "veredito": "diferente",
+  "quando": "2026-07-20"
+ },
+ "bebida isotonica gatorade gf 500ml sabores || bebida isotonica powerade gf 500ml sabores": {
+  "a": "Bebida Isotônica Gatorade GF 500ml Sabores",
+  "b": "Bebida Isotônica Powerade GF 500ml Sabores",
+  "veredito": "diferente",
+  "quando": "2026-07-20"
+ },
+ "folha de aluminio wyda 30cm x 4m || folha de aluminio wyda 30cm x 4m rolo": {
+  "a": "Folha de Alumínio Wyda 30cm x 4m Rolo",
+  "b": "Folha de Alumínio Wyda 30cm x 4m",
+  "veredito": "mesmo",
+  "quando": "2026-07-20",
+  "aplicado": true
+ },
+ "beb mista beats lt 269ml sabores || bebida mista beats lata 269ml sabores": {
+  "a": "Bebida Mista Beats Lata 269ml Sabores",
+  "b": "Beb Mista Beats LT 269ml Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-07-20",
+  "aplicado": true
+ },
+ "canela em po sadio 35g || canela po sadio 35g": {
+  "a": "Canela em Pó SADIO 35g",
+  "b": "Canela Pó Sadio 35g",
+  "veredito": "mesmo",
+  "quando": "2026-07-20",
+  "aplicado": true
+ },
+ "queijo parmesao la paulina peca ou pedaco kg || queijo parmesao la paulina peca/pedaco": {
+  "a": "Queijo Parmesão La Paulina Peça/Pedaço",
+  "b": "Queijo Parmesão La Paulina peça ou pedaço kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-20",
+  "aplicado": true
+ },
+ "leite em po ninho 575g || leite po ninho 575g": {
+  "a": "Leite em Pó Ninho 575g",
+  "b": "Leite Pó Ninho 575g",
+  "veredito": "mesmo",
+  "quando": "2026-07-20",
+  "aplicado": true
  }
 }
