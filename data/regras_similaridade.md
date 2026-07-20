@@ -239,3 +239,11 @@
 - DIFERENTES: «Suco de Uva Integral OQ gfa 1,5 litro» != «Suco de Uva Integral OQ gfa 1 litro»
 - DIFERENTES: «Uva Verde Sem Semente Seleta Bandeja 500g» != «Uva Vermelha Sem Semente Seleta Bandeja 500g»
 - MESMO: «Uva Vitória Bandeja 500g» == «Uva Vitória BJ Bandeja 500g»
+- DIFERENTES: «Absorvente Mili Proteção Total Cobertura Suave com 32 Unidades (com abas)» != «Absorvente Mili Proteção Total Cobertura Suave com 8 Unidades (Com ou Sem Abas)»
+- MESMO: «Almôndega Bovina Chuletão Congelada 1kg» == «Almôndega Bovina Chuletão Cong 1kg»
+- MESMO: «Carne Bov Chambaril KG» == «Carne Bovina Chambaril kg»
+- MESMO: «Carne Bovina Patinho kg» == «Carne Bov Patinho Kg»
+- DIFERENTES: «Carne Bovina Paleta sem Osso Reserva Resfriada» != «Carne Bovina Acém sem Osso Reserva Resfriada»
+- MESMO: «Folha de Alumínio Pratsy 30cm x 4m Rolo» == «Folha de Alumínio Pratsy 30cm x 4m»
+- DIFERENTES: «Papel Higiênico Dama Folha Dupla 30m Pacote com 12 Rolos» != «Papel Higiênico Velud Folha dupla 30m Pacote com 12 rolos»
+- DIFERENTES: «Refresco Líquido D+ Vários Sabores TP com 1L» != «Refresco Líquido Dafruta Vários Sabores TP com 1L»

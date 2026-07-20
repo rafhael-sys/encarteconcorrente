@@ -1585,5 +1585,57 @@
   "veredito": "mesmo",
   "quando": "2026-07-17",
   "aplicado": true
+ },
+ "papel higienico dama folha dupla 30m pacote com 12 rolos || papel higienico velud folha dupla 30m pacote com 12 rolos": {
+  "a": "Papel Higiênico Dama Folha Dupla 30m Pacote com 12 Rolos",
+  "b": "Papel Higiênico Velud Folha dupla 30m Pacote com 12 rolos",
+  "veredito": "diferente",
+  "quando": "2026-07-20"
+ },
+ "carne bov chambaril kg || carne bovina chambaril kg": {
+  "a": "Carne Bov Chambaril KG",
+  "b": "Carne Bovina Chambaril kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-20",
+  "aplicado": true
+ },
+ "refresco liquido d+ varios sabores tp com 1l || refresco liquido dafruta varios sabores tp com 1l": {
+  "a": "Refresco Líquido D+ Vários Sabores TP com 1L",
+  "b": "Refresco Líquido Dafruta Vários Sabores TP com 1L",
+  "veredito": "diferente",
+  "quando": "2026-07-20"
+ },
+ "carne bovina acem sem osso reserva resfriada || carne bovina paleta sem osso reserva resfriada": {
+  "a": "Carne Bovina Paleta sem Osso Reserva Resfriada",
+  "b": "Carne Bovina Acém sem Osso Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-07-20"
+ },
+ "almondega bovina chuletao cong 1kg || almondega bovina chuletao congelada 1kg": {
+  "a": "Almôndega Bovina Chuletão Congelada 1kg",
+  "b": "Almôndega Bovina Chuletão Cong 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-20",
+  "aplicado": true
+ },
+ "folha de aluminio pratsy 30cm x 4m || folha de aluminio pratsy 30cm x 4m rolo": {
+  "a": "Folha de Alumínio Pratsy 30cm x 4m Rolo",
+  "b": "Folha de Alumínio Pratsy 30cm x 4m",
+  "veredito": "mesmo",
+  "quando": "2026-07-20",
+  "aplicado": true
+ },
+ "absorvente mili protecao total cobertura suave com 32 unidades (com abas) || absorvente mili protecao total cobertura suave com 8 unidades (com ou sem abas)": {
+  "a": "Absorvente Mili Proteção Total Cobertura Suave com 32 Unidades (com abas)",
+  "b": "Absorvente Mili Proteção Total Cobertura Suave com 8 Unidades (Com ou Sem Abas)",
+  "veredito": "diferente",
+  "quando": "2026-07-20"
+ },
+ "carne bov patinho kg || carne bovina patinho kg": {
+  "a": "Carne Bovina Patinho kg",
+  "b": "Carne Bov Patinho Kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-20",
+  "aplicado": true
  }
 }

@@ -1,0 +1,44 @@
+{
+ "validacoes": [
+  {
+   "a": "Papel Higiênico Dama Folha Dupla 30m Pacote com 12 Rolos",
+   "b": "Papel Higiênico Velud Folha dupla 30m Pacote com 12 rolos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bov Chambaril KG",
+   "b": "Carne Bovina Chambaril kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refresco Líquido D+ Vários Sabores TP com 1L",
+   "b": "Refresco Líquido Dafruta Vários Sabores TP com 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Paleta sem Osso Reserva Resfriada",
+   "b": "Carne Bovina Acém sem Osso Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Almôndega Bovina Chuletão Congelada 1kg",
+   "b": "Almôndega Bovina Chuletão Cong 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Folha de Alumínio Pratsy 30cm x 4m Rolo",
+   "b": "Folha de Alumínio Pratsy 30cm x 4m",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Mili Proteção Total Cobertura Suave com 32 Unidades (com abas)",
+   "b": "Absorvente Mili Proteção Total Cobertura Suave com 8 Unidades (Com ou Sem Abas)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Patinho kg",
+   "b": "Carne Bov Patinho Kg",
+   "veredito": "mesmo"
+  }
+ ]
+}

@@ -4121,5 +4121,78 @@
   ],
   "fonte": "web",
   "link": "https://www.nossoatacarejo.com.br/encarte/nosso-final-de-semana-rn/5"
+ },
+ {
+  "id": "atacadao_da405257eb",
+  "perfil": "atacadao.com.br",
+  "titulo": "Boa do Dia — Só Sábado (18/07)",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-18",
+  "fim": "2026-07-18",
+  "carrossel": false,
+  "shortcode": "atacadao_da405257eb",
+  "caption": "Boa do Dia",
+  "adicionado_em": "2026-07-20",
+  "paginas": [
+   "atacadao_da405257eb_p1.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_5b992fbc15",
+  "perfil": "atacadao.com.br",
+  "titulo": "Boa do Dia — Só Domingo (19/07)",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-19",
+  "fim": "2026-07-19",
+  "carrossel": false,
+  "shortcode": "atacadao_5b992fbc15",
+  "caption": "Boa do Dia",
+  "adicionado_em": "2026-07-20",
+  "paginas": [
+   "atacadao_5b992fbc15_p1.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_e9147249de",
+  "perfil": "atacadao.com.br",
+  "titulo": "Boa do Dia — Só Segunda (20/07)",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-20",
+  "fim": "2026-07-20",
+  "carrossel": false,
+  "shortcode": "atacadao_e9147249de",
+  "caption": "Boa do Dia",
+  "adicionado_em": "2026-07-20",
+  "paginas": [
+   "atacadao_e9147249de_p1.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "assai_168328-572",
+  "perfil": "assai.com.br",
+  "titulo": "Giro da Economia (20 a 23/07)",
+  "banner": "Assaí Atacadista",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-20",
+  "fim": "2026-07-23",
+  "carrossel": true,
+  "shortcode": "assai_168328-572",
+  "caption": "Preços válidos de 20/07/2026 até 23/07/2026",
+  "adicionado_em": "2026-07-20",
+  "paginas": [
+   "assai_168328-572_p1.jpg",
+   "assai_168328-572_p2.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.assai.com.br/ofertas/rio-grande-do-norte/assai-natal"
  }
 ]
