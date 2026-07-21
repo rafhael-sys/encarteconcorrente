@@ -1,0 +1,54 @@
+{
+ "validacoes": [
+  {
+   "a": "Maionese Hellmann's Sachê 200g Tradicional",
+   "b": "Maionese Hellmanns Sachê 200g Tradicional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bolacha Massas Santo Antonio 250g Manteiga da Ter",
+   "b": "Bolacha Massas Santo Antônio 250g Manteiga da Terra",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Frita Easychef Congelado 2kg Tradicional",
+   "b": "Batata Frita Easychef Congelada 2kg Tradicional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante Concentrado Downy tp 1 litro",
+   "b": "Amaciante Concentrado Downy Tb 1 Litro",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Água&Sal 3 de Maio 300g",
+   "b": "Biscoito Aguassal 3 de Maio 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Beb Láctea Betânia 200ml Chocolate Kids",
+   "b": "Bebida Láctea Betânia 200ml Chocolate Kids",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bombons Neugebauer Amor Carioca cx 200g",
+   "b": "Bombom Neugebauer Amor Carioca Cx 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Flocão de Milho Nordestino Pacote 500g",
+   "b": "Flocão de Milho Nordestino Pct 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Paçoquinha Guimarães Rolha cx 1,3kg",
+   "b": "Paçokinha Guimarães Rolha Cx 1,3kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho Sassami de Frango Aurora Congelado Bandeja 1kg",
+   "b": "Filezinho Sassami de Frango Seara Congelado Bandeja 1kg",
+   "veredito": "diferente"
+  }
+ ]
+}
