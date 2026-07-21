@@ -100,7 +100,13 @@ with tempfile.TemporaryDirectory() as tmp:
                     os.replace(antigo, os.path.join(ARQUIVO, fname))
         page_ids = []
         for i, fname in enumerate(a['paginas']):
-            pid = f"{a['id']}_p{i+1}" if not fname.startswith(a['id']) else fname.replace('.jpg', '')
+            # o pid é a chave do produto em products.json, que é SEMPRE o nome do
+            # arquivo sem extensão (é assim que a análise grava). Usar {id}_p{i}
+            # quebrava os STORIES: a ação deles tem id por data
+            # (story_<perfil>_AAAAMMDD) mas as páginas têm nome por id da mídia
+            # (story_<perfil>_<media_id>.jpg) — o painel procurava a chave errada
+            # e mostrava "0 itens" mesmo com os produtos extraídos.
+            pid = fname.replace('.jpg', '')
             src = os.path.join(PAGES, fname)
             if not os.path.exists(src):
                 arquivada = os.path.join(ARQUIVO, fname)
