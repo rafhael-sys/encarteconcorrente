@@ -1,0 +1,244 @@
+{
+ "validacoes": [
+  {
+   "a": "Soda Preta Dunas Zero Lactose 300g",
+   "b": "Biscoito Soda Preta Dunas Zero Lactose 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Paloma Folha Dupla 4un 30m",
+   "b": "Papel Hig Paloma Folh Dupl 4un 30mt",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Bife de Patinho Reserva Resfriada Friboi Kg (na Bandeja)",
+   "b": "Carne Bovina Bife de Patinho Reserva Resfriada Friboi",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Mineral Ster Bom sem Gás 510ml",
+   "b": "Água Mineral Sterbom Sem gás Pet com 510ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pneu Dunlop Touring 175/65 R14",
+   "b": "Pneu Dunlop Touring 175/65 R14 Unidade",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ketchup Heinz Tradicional Pet com 567g",
+   "b": "Ketchup Heinz Tradicional 567g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ketchup Quero Tradicional Pet com 400g",
+   "b": "Ketchup Quero Tradicional 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chocolate Nestlé Kit Kat 41,5g Sabores",
+   "b": "Chocolate Kitkat 41,5g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Abs Intimus Gel C/ Ab L18 P14 Suave ou Seca",
+   "b": "Absorvente Intimus Gel c/ Abas L16 P14 Suave ou Seca",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Álbum Brochura Panini FIFA World Cup 2026",
+   "b": "Álbum Brochura Figurinhas Panini FIFA World Cup 2026",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Capsula 3C ou Santa Clara",
+   "b": "Café Cápsula 3 Corações ou Santa Clara",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante Concentrado Downy 500ml",
+   "b": "Amaciante Conc Downy 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Vitória sem Semente 500g",
+   "b": "Uva Vitória s Sementes Bdj 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Budweiser LN 330ml",
+   "b": "Cerveja Budweiser Long Neck 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Pré-Frita Mazid 2kg",
+   "b": "Batata Palito Pré-Frita Mazid 2kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Abs Sempre Livre Adapt c/8",
+   "b": "Absorvente Sempre Livre Adapt C/8",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Nescau 180ml",
+   "b": "Bebida Láctea UHT Nescau Cx 180ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Esponja Lã de Aço Bombril PCT 45g",
+   "b": "Esponja de Aço Bombril 45g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limão Taiti kg",
+   "b": "Limão Taiti",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Resfriado Mauricéa",
+   "b": "Filé de Peito de Frango Resfriado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Integral Instantâneo Ninho Nch 750g",
+   "b": "Leite Integral Inst Ninho Sch 750g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salg Doritos Nacho 32g",
+   "b": "Salgadinho Doritos Nacho 32g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha da asa Jaguá IQF 1kg",
+   "b": "Coxinha da Asa IQF 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refresco em Pó Frisco 18g Sabores",
+   "b": "Refresco em Pó Frisco Envelope 18g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém sem Osso Reserva Resfriada",
+   "b": "Carne Bovina Acém com Osso Reserva Resfriada Friboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Margarina Deline 500g",
+   "b": "Margarina Delícia 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Requeijão Cremoso Nestlé Tradicional/Light pt 200g",
+   "b": "Requeijão Cremoso Clan Tradicional/Light 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Mauricéa Congelada",
+   "b": "Coxa com Sobrecoxa de Frango Copacol Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Lar Congelado IQF 1kg",
+   "b": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva Melodia sem Sementes Cappellaro Cumbuca 500g",
+   "b": "Uva Vitória S/ Semente Cappellaro Cumbuca 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Canção Bandeja 1Kg",
+   "b": "Filé de Peito de Frango Congelado Natto Bandeja 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem Cocineiro 500ml",
+   "b": "Azeite De Oliva Extra Virgem Sacciali Vidro 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Tio João Parboilizado Tipo 1 Pacote com 1kg",
+   "b": "Arroz Pop Parboilizado Tipo 2 Pacote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cobertura Culinária Rekeminas Cheddar 1,2kg",
+   "b": "Cobertura Culinária R-Pizza Cheddar 1,2kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado CCGL Semidesnatado 395g",
+   "b": "Leite Condensado Natville Semidesnatado 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creme de Tratamento Origem 1kg",
+   "b": "Creme de Tratamento Novex 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne bovina coxão mole de sol kg",
+   "b": "Carne Bovina Coxão Mole kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Mimmo Folha Dupla 30m c/12",
+   "b": "Papel Higienico Noble Folha Dupla 20m c/12",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lasanha Sadia Bolonhesa 600g",
+   "b": "Lasanha Perdigão Bolonhesa 600g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Almôndegas Mista Chuletão 1Kg",
+   "b": "Almôndegas Bovina Chuletão 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Pré-Frita Mazid 2kg",
+   "b": "Batata Pré Frita Lar 2kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Dore Cola 2L",
+   "b": "Refrigerante Coca-Cola 2L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+   "b": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pernil Suíno Temperado Seara Congelado",
+   "b": "Lombo Suíno Temperado Seara Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca Clebom 1kg",
+   "b": "Feijão Carioca Catolé 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café Solúvel Nescafé Dolca Sachê 40g",
+   "b": "Café Solúvel Nescafé Original Sachê 40g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Steak de Frango Sadia 100g",
+   "b": "Steak de Frango Lar 100g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creme de Leite CCGL 200g",
+   "b": "Creme de Leite Gloria 200g",
+   "veredito": "diferente"
+  }
+ ]
+}

@@ -1,0 +1,494 @@
+{
+ "validacoes": [
+  {
+   "a": "Flocão de Milho Gostosin 400g",
+   "b": "Flocão de Milho Cuscuz Gostosin 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Torta Kit Kat Simples 700g",
+   "b": "Torta Kit Kat Simples 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Pringles 35g/37g",
+   "b": "Batata Pringles 35g | 37g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha de Frango ou Carne de Sol, Enroladinho de Salsicha ou Quejada Formosa",
+   "b": "Coxinha de Frango ou Carne de Sol, Enroladinho de Salsicha ou Queijada Formosa",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Rações Whiskas sachê 85g / Predigree sachê 100g",
+   "b": "Rações Whiskas Sachê 85g / Pedigree Sachê 100g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Shampo Anticaspa Clear Men 400ml",
+   "b": "Shampoo Anticaspa Clear Men 400ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Rampinelli Parbolizado 1kg",
+   "b": "Arroz Rampinelli Parboilizado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão Instantâneo Adria Não Frito 75g Sabores (Leve 4 Pague 3)",
+   "b": "Macarrão Instantâneo Adria N Frito 75g (Sabores) Leve 4 Pague 3",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Saborosas Doy Pack 500g",
+   "b": "Azeitona Saborosas Doypack 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Verde Rivoli SCH 150g Fatiada Ou Inteira",
+   "b": "Azeitona Verde Rivoli Sachê 150g Fatiada Ou Inteira",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Inseticida SBP Mult Uso Embalagem Economica 380ml",
+   "b": "Inseticida SBP Multiuso Embalagem Econômica 380ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Aurora Hotdog Kg",
+   "b": "Salsicha Aurora Hot Dog Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Intimus Gel c/ Abas L16 P14 Suave ou Seca",
+   "b": "Absorvente Intimus Gel c/ AB L16 P14 Suave ou Seca",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vassoura Condor V 35 Varre Fácil, V9 Varre Muito",
+   "b": "Vassoura Condor V35 Varre Fácil / V9 Varre Muito",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinhos Los Coches 750ml",
+   "b": "Vinho Los Coches 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pera d'Anjou Importada",
+   "b": "Pera Danjou Importada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sal Marino Vitão 1kg",
+   "b": "Sal Marinho Vitão 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Polpa Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo",
+   "b": "Polpa de Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinagre Álcool Leto 500ml ou Temp Caseiro Sadio 500ml",
+   "b": "Vinagre Álcool Leto 500ml ou Tempero Caseiro Sadio 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina com Osso Paleta Reserva Resfriada Friboi Kg",
+   "b": "Carne Bovina com Osso Paleta Reserva Resfriada Friboi",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Tambaú Verde 120g S/Caroço",
+   "b": "Azeitona Tambaú Verde 120g Sem Caroço",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa Bon Todo Bdj KG",
+   "b": "Coxa com Sobrecoxa Bom Todo BDJ kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Champignon Rivoli SCH 100g Inteiro",
+   "b": "Champignon Rivoli Sachê 100g Inteiro",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha Trigo Finna 1kg S/Fermento ou C/Fermento",
+   "b": "Farinha de Trigo Finna 1kg (s/ fermento ou c/ fermento)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Maria/Maizena Estrela Tradicional 307g",
+   "b": "Biscoito Maria ou Maizena Estrela Tradicional 307g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Verde Rivoli SC 180g Recheada Pimentão",
+   "b": "Azeitona Verde Rivoli Sachê 180g Recheada Pimentão",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Solúvel São Braz 40g Familia/Extra Forte",
+   "b": "Café Solúvel São Braz 40g Família ou Extra Forte",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mult Uso UAU M Uso 500ml Floral",
+   "b": "Multiuso UAU M Uso 500ml Floral",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Saco para Lixo Felitá Clean 15L/30L/50L/100L (Rolo)",
+   "b": "Saco P/Lixo Felitá Clean 15L/30L/50L/100L (Rolo)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Brilhante Bag 1,6kg Perf Poderoso",
+   "b": "Lava Roupas Brilhante Bag 1,6kg Perfume Poderoso",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Goma de Tapioca Dona Deta 800g",
+   "b": "Goma de Tapioca Dona Beta 800g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente em Pó Omo Bag 2,2kg Lavagem Perfeita",
+   "b": "Detergente Pó OMO Bag 2,2kg Lavagem Perfeita",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Caprice Neutro 20m Folha Dupla Leve 12 Pague 11",
+   "b": "Papel Higiênico Caprice Neutro Folha Dupla Leve 12 Pague 11",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito Frango Levo Alimentos BDJ 1kg",
+   "b": "Filé de Peito de Frango Levo Alimentos Bdj 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Verde VD Campo Belo 180g Recheada",
+   "b": "Azeitona Verde Vidro Campo Belo 180g Recheada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pao Forma Cadice 400g Int Sem Açúcar ou Pao Forma Cadice 400g S/Açúcar",
+   "b": "Pão Forma Cadice 400g Integral Sem Açúcar ou Pão Forma Cadice 400g S/Açúcar",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pepino Oderich LT 200g Suave",
+   "b": "Pepino Oderich Lata 200g Suave",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Preta VD Campo Belo 200g Inteira",
+   "b": "Azeitona Preta Vidro Campo Belo 200g Inteira",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona VD Campo Belo 200g Verde Inteira",
+   "b": "Azeitona Vidro Campo Belo 200g Verde Inteira",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó Toddy Original SC 1,02kg",
+   "b": "Achocolatado em Pó Toddy Original 1,02kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Toalhas Umedecidas Bebê Limpinho 140 unids",
+   "b": "Toalhas Umedecidas Bebê Limpinho 45 Unids",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mortadela Tony de Frango ou Sem Toucinho",
+   "b": "Mortadela Tony de Frango ou Sem Toucinho Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bolacha Jucurutu Manteiga do Sertão 250g",
+   "b": "Bolacha Jucurutu Manteiga do Sertão 20x250g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Pepsi / Guaraná Antarctica 1L",
+   "b": "Refrigerante Pepsi/Guaraná Antarctica 12x1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxinha Nossa Coxinha 300g Qjo Calabresa",
+   "b": "Coxinha Nossa Coxinha 300g Queijo Calabresa",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona VD Campo Belo 350g Verde Gordal",
+   "b": "Azeitona Vidro Campo Belo 350g Verde Gordal",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Congelada Mazid 2kg",
+   "b": "Batata Congelada Mazid 3x2kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha de Trigo Finna Tradicional 1kg",
+   "b": "Farinha de Trigo Finna Tradicional 10x1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Mussarela Unalac Peça ou Pedaço kg",
+   "b": "Queijo Mussarela Unalac Peça ou Pedaço",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Líquido Dragão Vários Tipos Frasco 500ml",
+   "b": "Detergente Líquido Dragão Vários tipos Frasco com 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Brancos Graciana Jumbo Queen Com 10",
+   "b": "Ovos Branco Graciana Jumbo Queen c/10",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisc Cookies Piraquê 80g Sabores Leve 4 Pague 3",
+   "b": "Biscoito Cookies Piraquê 80g Sabores Leve 4 Pague 3",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cogumelo Fatiado VD Campo Belo 100g",
+   "b": "Cogumelo Fatiado Vidro Campo Belo 100g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pimenta Biquinho VD Campo Belo 200g",
+   "b": "Pimenta Biquinho Vidro Campo Belo 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cogumelo Inteiro VD Campo Belo 100g",
+   "b": "Cogumelo Inteiro Vidro Campo Belo 100g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Inseticida Aero Raid 300ml GR 150ml",
+   "b": "Inseticida Aerosol Raid 300ml GR 150ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lombo Suíno Sem Osso Lar Congelado Kg",
+   "b": "Lombo Suíno Sem Osso Lar Congelado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz São Joaquim Agulhinha Tipo 1 Pacote 1kg",
+   "b": "Arroz São Joaquim Agulhinha Tipo 1 Pacote com 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Budweiser Long Neck 330ml",
+   "b": "Cerveja Budweiser Long Neck 24x330ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Salg da Rosa 80g Churrasco ou Pimenta ou Salgadinho Regionais 100g",
+   "b": "Salgadinho da Rosa 80g Churrasco ou Pimenta ou Salgadinho Regionais 100g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Iogurte Danone Resfriado 5x Zero Batido/5x Zero Morango Garrafa com 1,2kg",
+   "b": "Iogurte Danone Resfriado Zero Batido/Zero Morango Garrafa com 1,2kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chia em Grãos Sabor do Campo 120g",
+   "b": "Chia em Grãos Sabor do Campo SC 120g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Goma de Mandioca Delícia Potiguar Pacote com 1kg",
+   "b": "Goma de Mandioca Delícia Potiguar Pacote 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ling Toscana, Frango ou Pernil Aurora 700g",
+   "b": "Linguiça Toscana, Frango ou Pernil Aurora 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Leite Piracanjuba 200g",
+   "b": "Creme de Leite Piracanjuba TP 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante Sonho Lev 2L Pag 1,8L",
+   "b": "Amaciante Sonho Leve 2L Pague 1,8L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cr Hidratação Capilar Skala 1kg",
+   "b": "Creme Hidratação Capilar Skala 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aveia Germina Flocos Finos 500g",
+   "b": "Aveia Germina Flocos Finos SC 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite UHT Triângulo Integral 1L",
+   "b": "Leite UHT Triangulo Integral Cx 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Polpa Fruta Sterbom 400g Caju/Goiaba/Manga/Tamarindo",
+   "b": "Polpa Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sobrepaleta Suína Lar Congelada Kg",
+   "b": "Sobrepaleta Suína Lar Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Verde Saborosas SCH 80g C/Caroço",
+   "b": "Azeitona Verde Saborosas Sachê 80g Com Caroço",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Kicaldo Tipo 1 Pacote 1kg",
+   "b": "Feijão Carioca Kicaldo Tipo 1 Pacote com 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Mole Friboi",
+   "b": "Carne Bovina Coxão Mole (Friboi) Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Natville com Sal pt 500g",
+   "b": "Manteiga Natville com Sal 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Picles Cubo VD Campo Belo 200g",
+   "b": "Picles Cubo Vidro Campo Belo 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Rivoli Verde VD 360g",
+   "b": "Azeitona Rivoli Verde Vidro 360g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Itaipava Pilsen 350ml",
+   "b": "Cerveja Itaipava Pilsen LT 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Rivoli Verde VD 335g",
+   "b": "Azeitona Rivoli Verde Vidro 335g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Verde Rivoli SCH 200g C/Caroço",
+   "b": "Azeitona Verde Rivoli Sachê 200g Com Caroço",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Betania 395g",
+   "b": "Leite Condensado Betânia 27x395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Itaipava Pilsen 350ml",
+   "b": "Cerveja Itaipava Pilsen 12x350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limp Veja Antibac Doypack 400ml Lavanda",
+   "b": "Limpador Veja Antibac Doypack 400ml Lavanda",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Betania 395g",
+   "b": "Leite Condensado Betânia TP 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Pet 1L",
+   "b": "Refrigerante Guaraná Antarctica Pet com 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa com Dorsal Congelada kg",
+   "b": "Coxa c/ Sobrecoxa c/ Dorsal Congelada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cebolinha VD Campo Belo 200g",
+   "b": "Cebolinha Vidro Campo Belo 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpa Alumínio Marilux 500ml",
+   "b": "Limpa Alumínio Marilux PR 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Bohemia Puro Malte Lata com 350ml",
+   "b": "Cerveja Bohemia Puro Malte Lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Duro KG Peça",
+   "b": "Carne Bov Coxão Duro Kg Peça",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Sadio Verde C/Caroço SCH 80g",
+   "b": "Azeitona Sadio Verde Com Caroço Sachê 80g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Itambé com Sal 500g",
+   "b": "Manteiga Itambé Com Sal PT 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Jerked Beef Dianteiro Friboi Kg",
+   "b": "Jerked Beef Dianteiro Friboi",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango Super Frango kg",
+   "b": "Peito de Frango Super Frango",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Stella Artois LN 330ml",
+   "b": "Cerveja Stella Artois 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Misto Aurora 56g",
+   "b": "Hamburguer Misto Aurora 36x56g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Pó CCGL Integral 200g",
+   "b": "Leite em Pó CCGL Integral 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Aveia Áster 400g",
+   "b": "Farinha de Aveia Áster SC 400g",
+   "veredito": "mesmo"
+  }
+ ]
+}

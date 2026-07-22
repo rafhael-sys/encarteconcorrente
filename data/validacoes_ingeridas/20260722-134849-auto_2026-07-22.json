@@ -1,0 +1,479 @@
+{
+ "validacoes": [
+  {
+   "a": "Creme Culinário Mococa 200g",
+   "b": "Creme Culinário Mococa 27x200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Sh Pantene 300ml + Cond 150ml Bond Repair ou Kit Sh Pantene 400ml + Cond 175ml Restauração",
+   "b": "Kit Shampoo Pantene 300ml + Cond 150ml Bond Repair ou Kit Shampoo Pantene 400ml + Cond 175ml Restauração",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisc Pit Stop Marilan 91g/98g e 137g",
+   "b": "Biscoito Pit Stop Marilan 91g/98g e 137g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Patinho de Sol Kg",
+   "b": "Carne Bovina Patinho de Sol",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+   "b": "Filé de Peito de Frango Lar Congelado Bdj 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Peito Serrado",
+   "b": "Carne Bovina Peito Serrado Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cr Dental MPA Colgate 180g",
+   "b": "Creme Dental MPA Colgate 180g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Leite Italac 200g",
+   "b": "Creme de Leite Italac TP 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho Tom Passata Nor 680g",
+   "b": "Molho Tomate Passata NOR 680g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Lombo Serrado kg",
+   "b": "Carne Bovina Lombo Serrado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Lar 1Kg",
+   "b": "Linguiça de Frango Lar PC 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisc Bichinhos Weston 300g Sabores",
+   "b": "Biscoito Bichinhos Weston 300g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Saladeira Le Cordon Bleu 18cm 1 Peça",
+   "b": "Saladeira Le Cordon Bleu 23cm 1 Peça",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Iog Danone 160g c/Proteina Morango",
+   "b": "Iogurte Danone 160g C/Proteína Morango",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisc Tortinha Marilan 300g Sabores",
+   "b": "Biscoito Tortinha Marilan 300g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mix de Vegetais Congelado Tradine 1kg",
+   "b": "Mix Vegetais Congelados Tradine 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fraldas Descartáveis Cremer Shortinho",
+   "b": "Fralda Descartável Cremer Shortinho",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Club Social Sabores 144g",
+   "b": "Biscoito Club Social Sabores 141/144g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog Bom Todo kg",
+   "b": "Salsicha Hot-Dog Bom Todo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pepino VD Campo Belo 200g",
+   "b": "Pepino Vidro Campo Belo 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerossol Rexona 250ml L+P Fem Invisible",
+   "b": "Desodorante Aerosol Rexona 250ml L+P Feminino Invisible",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Presunto de Peru Perdigão Kg",
+   "b": "Presunto de Peru Perdigao",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pepino VD Campo Belo 300g",
+   "b": "Pepino Vidro Campo Belo 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pão de Queijo Pancristal Kg",
+   "b": "Pão de Queijo Pancristal",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Solúvel São Braz 40g Família ou Extra Forte",
+   "b": "Café Solúvel São Braz Sachê 40g Família ou Extra Forte",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Alcaparras Rivoli VD 60g",
+   "b": "Alcaparras Rivoli Vidro 60g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Sanitária Olimpo 1L",
+   "b": "Água Sanitária Olimpo 12x1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Caprice Folha Dupla 20m Leve 12 Pague 11 (neutro)",
+   "b": "Papel Higiênico Caprice Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxas com Sobrecoxas de Frango com Dorsal Kg",
+   "b": "Coxa com Sobrecoxa de Frango com Dorsal",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog Avivar kg",
+   "b": "Salsicha Hot-Dog Avivar",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fígado Bovino Congelado kg",
+   "b": "Figado Bovino (Congelado)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Mole",
+   "b": "Carne Bovina Coxão Mole kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava-roupas em Pó Sonho pct 1,6kg",
+   "b": "Lava-roupas em Pó Omo Pct 1,6kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Tira Manchas em Pó Vanish 400g",
+   "b": "Tira-manchas em Pó Vanish Pct 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Verde Rivoli VD 160g S/Caroço",
+   "b": "Azeitona Verde Rivoli Vidro 160g Sem Caroço",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé-mignon Suíno Seara Congelado",
+   "b": "Filé Mignon Suíno Lar Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café São Braz Extra Forte 250g",
+   "b": "Café T&M São Braz Extra Forte 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerv Amstel Ultra Lata 269ml s/Glúten",
+   "b": "Cerveja Amstel Ultra Lata 269ml Sem Glúten",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Shampoo Pantene 300ml + Cond 150ml Bond Repair ou Shampoo 400ml + Cond 175ml Restauração",
+   "b": "Kit Shampoo Pantene 300ml + Cond 150ml Bond Repair ou Kit Shampoo Pantene 400ml + Cond 175ml Restauração",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Original Ou Zero Açúcar 1L",
+   "b": "Refrigerante Guaraná Antarctica Original ou Zero 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "FR Cremer Jumbo Calça MD C/26",
+   "b": "Fralda Cremer Jumbo Calça MD c/26",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisc Club Social Sabores 144g",
+   "b": "Biscoito Club Social Sabores 144g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limp Cif Cremoso 450ml Branco",
+   "b": "Limpador Cif Cremoso 450ml Branco",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lã de Aço Q'Lustro Pacote 40g",
+   "b": "Lã de Aço Q'Lustro Pacote com 40g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fraldas Descartáveis Cremer Shortinho Jumbo",
+   "b": "Fraldas Descartáveis Cremer Shortinho Jumbo (XXG/G)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Hig Floral 20m 12R Neutro Folha Dupla",
+   "b": "Papel Higiênico Floral 20m 12R Neutro Folha Dupla",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Beb Mist Ice Lemon Pego 300ml",
+   "b": "Bebida Mista Ice Lemon Pego 300ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Choc Kinder Joy c/2 40g Super Mario",
+   "b": "Chocolate Kinder Joy c/2 40g Super Mario",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Lar Congelado IQF 1kg",
+   "b": "Filé de Peito de Frango Lar Congelado Bdj 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Margarina Deline 500g",
+   "b": "Margarina Deline 12x500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Galinha Matriz Somave KG",
+   "b": "Galinha Matriz Somave",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Devassa 350ml",
+   "b": "Cerveja Devassa 12x350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Iog Danone Zero 1200g Batido",
+   "b": "Iogurte Danone Zero 1200g Batido",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog RARA kg",
+   "b": "Salsicha Hot Dog Rara",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mini Tangerinas Pick & Nicky Cumbuca 500g",
+   "b": "Mini Tangerinas Pick & Nicky CB 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Rivoli 200g VD C/Pimentão",
+   "b": "Azeitona Rivoli 200g Vidro Com Pimentão",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peixe Bonito Pescados da Cruz em Posta Congelado Pc 1kg",
+   "b": "Peixe Bonito Pescados da Cruz em Posta Congelado PC 1KG",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas em Pó OMO 1,6kg",
+   "b": "Lava-roupas em Pó Omo Pct 1,6kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupa Liq Omo 750ml Ciclo Rap Ação Cuidado",
+   "b": "Lava Roupa Líquido OMO 750ml Ciclo Rápido Ação Cuidado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisc Krokitos Richester 80g",
+   "b": "Biscoito Krokitos Richester 80g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Galinha Pequena Q Delícia Congelada kg",
+   "b": "Galinha Pequena Q'Delícia Cong kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça para Churrasco ou de Frango Aurora kg",
+   "b": "Linguiça p/ Churrasco ou de Frango Aurora",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Patinho kg",
+   "b": "Carne Bovina Patinho",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Cream Cracker Capricche pct 301,5g",
+   "b": "Biscoito Cream Cracker Caprishow Pct 301,5g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão Ninho Estrela Semola 400g ou Macarrão Parafuso Estrela Semola 400g",
+   "b": "Macarrão Ninho Estrela Sêmola 400g ou Mac Parafuso Estrela Sêmola",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Suína Seara Congelada",
+   "b": "Costela Suína Lar Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mac Ninho Estrela Semola 400g ou Mac Parafuso Estrela Semola 400g",
+   "b": "Macarrão Ninho Estrela Semola 400g ou Macarrão Parafuso Estrela Semola 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Leite Italac 200g",
+   "b": "Creme de Leite UHT Italac 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango a Passar Natto 500g",
+   "b": "Frango a Passarinho Natto 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado Chocolatto 3 Corações 700g",
+   "b": "Achocolatado em Pó Chocolatto 3 Corações 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha da Asa Congelada Lar 700g Temperada",
+   "b": "Coxinha Asa Congelada Lar 700g Temperados",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Finna s/f 1kg",
+   "b": "Farinha de Trigo Finna 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó Chocolatto 3 Corações Pacote 700g",
+   "b": "Achocolatado em Pó Chocolatto 3 Corações 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Do Padeiro Saco 25kg",
+   "b": "Farinha de Trigo Do Padeiro 25kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Mamypoko Super Protc M34/G28/XG24/XXG21",
+   "b": "Fralda Mamypoko Super Protection M34/G28/XG24/XXG22",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Shampoo Baruel Baby 400ml Fragrâncias",
+   "b": "Sh Baruel Baby 400ml Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aparelho Bic Confort 3 Normal ou Sensível SM (Leve 4 Pague 3)",
+   "b": "Aparelho BIC Confort 3 Normal ou Sensível SM LV4PG3",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Capa de Filé Bovina kg",
+   "b": "Capa de Filé Bovina",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cereal Mat Nescau SH 120g",
+   "b": "Cereal Matinal Nescau SH 120g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Líq Lux RF 200ml",
+   "b": "Sabonete Líquido Lux RF 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango LAR 1kg",
+   "b": "Filezinho de Peito de Frango Lar 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Beb Proteica Italac S/Lac 15g 250ml Sabores",
+   "b": "Bebida Proteica Italac s/ Lactose 15g 250ml (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pacote com 7 Figurinhas FIFA World Cup 2026",
+   "b": "Pacote Com 7 Figurinhas Panini FIFA World Cup 2026",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Suína Temp Suínos Jucurutu KG",
+   "b": "Carne Suína Temp Suínos Jucururu",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango a Passarinho Bom Todo 1kg",
+   "b": "Frango a Passarinho Bomtodo 1kg Pct",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Mauricéa Congelada (preço por quilo no pacote)",
+   "b": "Coxa com Sobrecoxa de Frango Copacol Congelada Preço por quilo no pacote",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Amido de Milho Maizena LEV200 PG150G",
+   "b": "Amido de Milho Maizena Leve 200 Pague 150g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Asa de Frango Resfriada Mauricéa",
+   "b": "Coxa de Frango Resfriada Mauricéa",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Posta Gorda Bovina kg",
+   "b": "Posta Gorda Bovina",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bov Costela P.A KG",
+   "b": "Carne Bovina Costela P.A. kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maçã Nacional Gala kg",
+   "b": "Maçã Nacional Gala",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sab Nivea 250ml Íntimo Natural",
+   "b": "Sabonete Nivea 250ml Íntimo Natural",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Costela P.A. kg",
+   "b": "Carne Bovina Costela P.A",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Tangerina Nacional KG",
+   "b": "Tangerina Nacional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Esponja Condor MULTIUSO LEVE 12 PAGUE 10",
+   "b": "Esponja Condor Multiuso Leve 4 Pague 3",
+   "veredito": "diferente"
+  }
+ ]
+}

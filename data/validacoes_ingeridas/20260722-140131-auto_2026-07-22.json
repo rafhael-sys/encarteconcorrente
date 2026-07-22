@@ -1,0 +1,429 @@
+{
+ "validacoes": [
+  {
+   "a": "Mexerica Comum kg",
+   "b": "Mexerica Comum",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Cremoso IPANEMA 180g Tradicional",
+   "b": "Requeijão Cremoso Ipanema 180g (tradicional ou light)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Líquido Dove Baby Hidratação ou Relaxante 400ml",
+   "b": "Sabonete Líquido Dove Baby Hidratação Glicerinada ou Relaxante 400ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cachaça Caranguejo Lata 350ml",
+   "b": "Cachaça Caranguejo Prata 12x350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Recheado Supreme 80g Sabores",
+   "b": "Biscoito Recheado Piraquê Supreme 80g (sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Multiuso Veja 500ml Fragrancias",
+   "b": "Limpador Multiuso Becker 500ml (Fragrancias)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Levo Bandeja 1Kg",
+   "b": "Filé de Peito de Frango Canção Bandeja 1Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Limpador Perfumado UAU 500ml",
+   "b": "Limpador Perf UAU 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Super Frango Congelado BDJ 1kg",
+   "b": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Marg Primor 250g ou Marg Puro Sabor C/Sal 250g",
+   "b": "Margarina Primor 250g ou Margarina Puro Sabor c/ Sal 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Itacolomy Resfriada Com Sal Pote com 200g",
+   "b": "Manteiga Itacolomy Resfriada com Sal 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Friato Congelada",
+   "b": "Coxa com Sobrecoxa de Frango Copacol Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Paleta sem Osso Reserva Resfriada",
+   "b": "Carne Bovina Peito com Osso Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ap Barbear Bic 3 Acqua/Intensity/Pink c/2",
+   "b": "Aparelho de Barbear Bic 3 Acqua/Intensity/Pink C/2",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Líquido Guarani Vários tipos Frasco com 500ml",
+   "b": "Detergente Líquido Limpol Vários tipos Frasco com 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Preto Camil Tipo 1 1kg",
+   "b": "Feijão Preto Kicaldo Tipo 1 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Kit Hidra Salon Line Shampoo + Condicionador 300ml Fragrâncias",
+   "b": "Kit Salon Line Shampoo 300ml + Condicionador 300ml (fragrâncias)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salg Cheetos Bola 33/35/40g",
+   "b": "Salgadinho Cheetos Bola 33/35/40g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refresco em Pó Frisco 18g Sabores",
+   "b": "Refresco Frisco 18g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica 2,5L",
+   "b": "Refrigerante Guaraná Antarctica Pet com 2,5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Bovina P.A. kg",
+   "b": "Costela Bovina P.A",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coração de Frango Resfriado Mauricéa",
+   "b": "Coxa de Frango Resfriada Mauricéa",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café em Pó Santa Clara Clássico Almofada pct 250g",
+   "b": "Café em Pó Santa Clara Clássico pct 250g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Molho de Tomate Sadio Sachê 300g Tradicional",
+   "b": "Molho de Tomate Tambau Sache 300g Tradicional",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Molho de Tomate Fugini Sachê 300g Tradicional",
+   "b": "Molho de Tomate Sadio Sachê 300g Tradicional",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça de Frango Avivar kg Churrasco",
+   "b": "Ling Frango Avivar KG Churrasco",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maionese FUGINI Sachê 180g Tradicional",
+   "b": "Maionese Fugini Sachê 180g Trad",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Budweiser Sleek Lata 350ml",
+   "b": "Cerveja Budweiser Pilsen Lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Esponja Multiuso Tinindo Leve4 Pague3",
+   "b": "Esponja Multiuso Tininho LV4 PG3",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sh Inf Baruel Baby + Cond 210ml Sono Tranquilo",
+   "b": "Shampoo Infantil Baruel Baby + Cond 210ml Sono Tranquilo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Cream Cracker Vitarella Tradicional 350g",
+   "b": "Biscoito Cream Cracker Fortaleza Tradicional 350g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Frango a Passarinho Bom Todo Temperado pct 1kg",
+   "b": "Frango a Passarinho Bom Todo temperado congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Andorinha Extra Virgem 500ml",
+   "b": "Azeite de Oliva Andorinha Extra Virgem Vidro com 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Itacolomy Resfriada Com Sal Pote com 200g",
+   "b": "Manteiga Tirolez Resfriada Com sal Pote com 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca Clebom 1kg",
+   "b": "Feijão Carioca DuBom 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Alimento para Cães Champ Filhotes Frango 85g",
+   "b": "Alimento para Cães Champ Filhotes Frango Sachê com 85g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refri Pepsi Cola GF 1L",
+   "b": "Refri Pepsi Cola GF 1L Trad",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha Láctea Nestlé 600g",
+   "b": "Farinha Láctea Nestlé Sachê 600g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lombo Serrado KG",
+   "b": "Lombo Serrado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Inseticida Aero Raid 300ml GR 150ml",
+   "b": "Inseticida Aerossol Raid 300ml Grátis 150ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem Monini vd 500ml",
+   "b": "Azeite de Oliva Extra Virgem Gallo vd 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Atualle Folha Dupla 20m c/12",
+   "b": "Papel Higiênico Floral Folha Dupla 20m C/12",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Dama Folha Dupla 30m Pacote com 12 Rolos",
+   "b": "Papel Higiênico Personal Folha Dupla 20m Pacote com 12 rolos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha Láctea Italac 180g",
+   "b": "Farinha Láctea ITALAC Sachê 180g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa Sobrecoxa com Dorsal kg",
+   "b": "Coxa com Sobrecoxa c/Dorsal kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bov Bist Traseira KG",
+   "b": "Carne Bovina Bisteca Traseira kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Descartável Mili Love&Care Jumbo",
+   "b": "Fralda Descartável Mili Love & Care Jumbo (Tamanhos)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Tirolez Resfriada com Sal 200g",
+   "b": "Manteiga Tirolez Resfriada Com sal Pote com 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Diana Suave com Abas Pacote com 16 Unidades",
+   "b": "Absorvente Lady Suave com Abas Pacote com 32 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito Serrado KG",
+   "b": "Peito Serrado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó Powerlate Sachê 700g",
+   "b": "Achocolatado em Pó São Braz Powerlate Sachê 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Floral F/D 20m C/12",
+   "b": "Papel Higiênico Floral Folha Dupla 20m C/12",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café São Braz Família 250g",
+   "b": "Café Moído São Braz Família 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Nescau 180ml",
+   "b": "Bebida Láctea Nescau Activ 180ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cebola Branca kg",
+   "b": "Cebola Branca",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante de Roupas Concentrado MON BIJOU 500ml Fragrâncias",
+   "b": "Amaciante de Roupas Concentrado Comfort 500ml Fragrancias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Aerosol Rexona 150ml Fragrâncias",
+   "b": "Desodorante Aerossol Dove 150ml Fragrancias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Margarina Deline Resfriada com Sal 500g",
+   "b": "Margarina Deline Resfriada Com sal Pote com 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Meio da Asa de Frango BOM TODO 1kg Bandeja",
+   "b": "Coxinha da Asa de Frango Bom Todo 1kg (Bandeja)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Aerosol Rexona 150ml Fragrâncias",
+   "b": "Desodorante Aerosol Above 150ml (fragrâncias)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Cha de Fora Resfriada kg",
+   "b": "Carne Bovina Cha de Fora Resfriada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Polpa de Frutas Serido 400g (Abacaxi,Caju,Goiaba,Manga,Tamarindo)",
+   "b": "Polpa de Frutas Ster Bom 400g (Abacaxi, Caju, Goiaba, Manga ou Tamarindo)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Stella Artois Long Neck 330ml",
+   "b": "Cerveja Stella Artois LN 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó Chocky 200g",
+   "b": "Achocolatado em Pó Italac Chocky 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite UHT LeitBom Integral, Desnatado ou Semidesnatado cx 1 litro",
+   "b": "Leite UHT Piracanjuba Integral, Desnatado ou Semidesnatado Cx 1 Litro",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Maionese Quero Sachê 200g Tradicional",
+   "b": "Maionese Quero Sachê 200g Trad",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Amstel Ultra Lata 269ml",
+   "b": "Cerveja Lager Amstel Ultra Lta 269ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó Chocolatto Sachê 400g",
+   "b": "Achocolatado em Po Chocky Sache 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Isotônica Gatorade GF 500ml Sabores",
+   "b": "Beb Isot Gatorade GF 500ml Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Fraldinha Friboi Resfriada",
+   "b": "Carne Bovina Picanha Friboi Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Original/Zero Lata com 350ml",
+   "b": "Refrigerante Guaraná Antarctica Original ou Zero 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem PALERMO 500ml",
+   "b": "Azeite de Oliva Extra Virgem Gallo vd 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Floral Folha Dupla 20m C/12",
+   "b": "Papel Higienico Noble Folha Dupla 20m c/12",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Shampoo Clear Leve 400ml Pague 330ml Tipos",
+   "b": "Shampoo Clear Anticaspa Leve 400ml Pague 330ml Tipos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Caixa Térmica Mor 34L",
+   "b": "Caixa Térmica Termolar 34L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Absorvente Sempre Livre Suave com Abas Leve 16 Pague 14",
+   "b": "Absorvente Especial Sempre Livre Suave com Abas Pct Leve 16 Pague 14",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja SKOL Lata 350ml",
+   "b": "Cerveja Lokal Lata 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca Kume 1kg",
+   "b": "Feijão Carioca DuBom 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Óleo Odérich Sachê 170g",
+   "b": "Dueto Oderich Sachê 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango a Passarinho Bom Todo Congelado 1kg",
+   "b": "Frango a Passarinho Bom Todo temperado congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Choc Bis 100,8g Lacta",
+   "b": "Chocolate Bis 100,8g Lacta",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Itambé 395g",
+   "b": "Leite Condensado Damare 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado Italac 395g",
+   "b": "Leite Condensado Itambé 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Detergente Líquido Ypê Vários Tipos Frasco 500ml",
+   "b": "Detergente Líquido Limpol Vários tipos Frasco com 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Costela Suína Sadia (Congelada)",
+   "b": "Costela Suína Lar Congelada",
+   "veredito": "diferente"
+  }
+ ]
+}
