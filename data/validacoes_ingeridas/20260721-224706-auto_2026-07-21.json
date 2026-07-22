@@ -1,0 +1,54 @@
+{
+  "validacoes": [
+    {
+      "a": "Linguiça Tipo Calabresa Nutribas",
+      "b": "Linguica Tipo Calabresa Nutribras",
+      "veredito": "mesmo"
+    },
+    {
+      "a": "Filé de Peixe Merluza Pescados da Cruz congelado 800g",
+      "b": "File de Peixe Merluza Pescados da Cruz Congelado PC 800G",
+      "veredito": "mesmo"
+    },
+    {
+      "a": "Requeijão Cremoso Ipanema 180g (tradicional ou light)",
+      "b": "Requeijao Cremoso Ipanema 180g Tradicional/Light",
+      "veredito": "mesmo"
+    },
+    {
+      "a": "Absorvente Noturno Felitá Care C/ 8 (Com Abas)",
+      "b": "Absorvente Noturno Felita Care C/16 (Com Abas)",
+      "veredito": "diferente"
+    },
+    {
+      "a": "Coxas com Sobrecoxas de Frango com Dorsal Kg",
+      "b": "Coxas com Sobrecoxas de Frango com Dorsal",
+      "veredito": "mesmo"
+    },
+    {
+      "a": "Coxinhas das Asas de Frango Lar IQF 1Kg",
+      "b": "Coxinha da Asa de Frango Lar IQF 1kg",
+      "veredito": "mesmo"
+    },
+    {
+      "a": "Fralda Descartável Mili Love & Care Jumbo (Tamanhos)",
+      "b": "Fraldas Descartaveis Mili Love & Care Jumbo (Tamanhos)",
+      "veredito": "mesmo"
+    },
+    {
+      "a": "Leite Condensado Piracanjuba 395g",
+      "b": "Leite Condensado Piracanjuba Tp 395g",
+      "veredito": "mesmo"
+    },
+    {
+      "a": "Capa de Filé Bovina kg",
+      "b": "Capa de Filé Bovino kg",
+      "veredito": "mesmo"
+    },
+    {
+      "a": "Lava Roupas Liq Marilux 3L Fragrancias",
+      "b": "Lava Roupas Líquido Marilux 3L Fragrâncias",
+      "veredito": "mesmo"
+    }
+  ]
+}

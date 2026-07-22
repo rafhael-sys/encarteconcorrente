@@ -267,3 +267,13 @@
 - DIFERENTES: «Papel Higiênico Dama Folha Dupla 30m Pacote com 12 Rolos» != «Papel Higiênico Velud Folha dupla 30m Pacote com 12 rolos»
 - MESMO: «Queijo Parmesão La Paulina Peça/Pedaço» == «Queijo Parmesão La Paulina peça ou pedaço kg»
 - DIFERENTES: «Refresco Líquido D+ Vários Sabores TP com 1L» != «Refresco Líquido Dafruta Vários Sabores TP com 1L»
+- DIFERENTES: «Absorvente Noturno Felitá Care C/ 8 (Com Abas)» != «Absorvente Noturno Felita Care C/16 (Com Abas)»
+- MESMO: «Capa de Filé Bovina kg» == «Capa de Filé Bovino kg»
+- MESMO: «Coxas com Sobrecoxas de Frango com Dorsal Kg» == «Coxas com Sobrecoxas de Frango com Dorsal»
+- MESMO: «Coxinhas das Asas de Frango Lar IQF 1Kg» == «Coxinha da Asa de Frango Lar IQF 1kg»
+- MESMO: «Filé de Peixe Merluza Pescados da Cruz congelado 800g» == «File de Peixe Merluza Pescados da Cruz Congelado PC 800G»
+- MESMO: «Fralda Descartável Mili Love & Care Jumbo (Tamanhos)» == «Fraldas Descartaveis Mili Love & Care Jumbo (Tamanhos)»
+- MESMO: «Lava Roupas Liq Marilux 3L Fragrancias» == «Lava Roupas Líquido Marilux 3L Fragrâncias»
+- MESMO: «Leite Condensado Piracanjuba 395g» == «Leite Condensado Piracanjuba Tp 395g»
+- MESMO: «Linguiça Tipo Calabresa Nutribas» == «Linguica Tipo Calabresa Nutribras»
+- MESMO: «Requeijão Cremoso Ipanema 180g (tradicional ou light)» == «Requeijao Cremoso Ipanema 180g Tradicional/Light»

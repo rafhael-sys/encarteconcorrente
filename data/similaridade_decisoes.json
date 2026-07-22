@@ -1773,5 +1773,74 @@
   "b": "Filezinho Sassami de Frango Seara Congelado Bandeja 1kg",
   "veredito": "diferente",
   "quando": "2026-07-20"
+ },
+ "linguica tipo calabresa nutribas || linguica tipo calabresa nutribras": {
+  "a": "Linguiça Tipo Calabresa Nutribas",
+  "b": "Linguica Tipo Calabresa Nutribras",
+  "veredito": "mesmo",
+  "quando": "2026-07-21",
+  "aplicado": true
+ },
+ "file de peixe merluza pescados da cruz congelado 800g || file de peixe merluza pescados da cruz congelado pc 800g": {
+  "a": "Filé de Peixe Merluza Pescados da Cruz congelado 800g",
+  "b": "File de Peixe Merluza Pescados da Cruz Congelado PC 800G",
+  "veredito": "mesmo",
+  "quando": "2026-07-21",
+  "aplicado": true
+ },
+ "requeijao cremoso ipanema 180g (tradicional ou light) || requeijao cremoso ipanema 180g tradicional/light": {
+  "a": "Requeijão Cremoso Ipanema 180g (tradicional ou light)",
+  "b": "Requeijao Cremoso Ipanema 180g Tradicional/Light",
+  "veredito": "mesmo",
+  "quando": "2026-07-21",
+  "aplicado": true
+ },
+ "absorvente noturno felita care c/ 8 (com abas) || absorvente noturno felita care c/16 (com abas)": {
+  "a": "Absorvente Noturno Felitá Care C/ 8 (Com Abas)",
+  "b": "Absorvente Noturno Felita Care C/16 (Com Abas)",
+  "veredito": "diferente",
+  "quando": "2026-07-21"
+ },
+ "coxas com sobrecoxas de frango com dorsal || coxas com sobrecoxas de frango com dorsal kg": {
+  "a": "Coxas com Sobrecoxas de Frango com Dorsal Kg",
+  "b": "Coxas com Sobrecoxas de Frango com Dorsal",
+  "veredito": "mesmo",
+  "quando": "2026-07-21",
+  "aplicado": true
+ },
+ "coxinha da asa de frango lar iqf 1kg || coxinhas das asas de frango lar iqf 1kg": {
+  "a": "Coxinhas das Asas de Frango Lar IQF 1Kg",
+  "b": "Coxinha da Asa de Frango Lar IQF 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-21",
+  "aplicado": true
+ },
+ "fralda descartavel mili love & care jumbo (tamanhos) || fraldas descartaveis mili love & care jumbo (tamanhos)": {
+  "a": "Fralda Descartável Mili Love & Care Jumbo (Tamanhos)",
+  "b": "Fraldas Descartaveis Mili Love & Care Jumbo (Tamanhos)",
+  "veredito": "mesmo",
+  "quando": "2026-07-21",
+  "aplicado": true
+ },
+ "leite condensado piracanjuba 395g || leite condensado piracanjuba tp 395g": {
+  "a": "Leite Condensado Piracanjuba 395g",
+  "b": "Leite Condensado Piracanjuba Tp 395g",
+  "veredito": "mesmo",
+  "quando": "2026-07-21",
+  "aplicado": true
+ },
+ "capa de file bovina kg || capa de file bovino kg": {
+  "a": "Capa de Filé Bovina kg",
+  "b": "Capa de Filé Bovino kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-21",
+  "aplicado": true
+ },
+ "lava roupas liq marilux 3l fragrancias || lava roupas liquido marilux 3l fragrancias": {
+  "a": "Lava Roupas Liq Marilux 3L Fragrancias",
+  "b": "Lava Roupas Líquido Marilux 3L Fragrâncias",
+  "veredito": "mesmo",
+  "quando": "2026-07-21",
+  "aplicado": true
  }
 }
