@@ -22,7 +22,12 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(BASE, 'data')
 PAGES = os.path.join(DATA, 'pages')
 ARQUIVO = os.path.join(DATA, 'arquivo', 'pages')
-MAX_PARES = 10
+# pares avaliados visualmente por rodada. A lista sai ordenada da mais parecida
+# para a menos, então os casos óbvios (typo/espaço) são resolvidos primeiro.
+# Com 10/rodada a fila (~6 mil pares) levaria 600+ dias e a Incidência ficava
+# com o mesmo produto em grupos separados; 65 faz a parte útil convergir em
+# poucas semanas sem pesar demais a janela noturna.
+MAX_PARES = 65
 
 RUIDO = {'lata', 'lta', 'pct', 'pet', 'tb', 'gf', 'cada', 'un', 'sabores',
          'fragrancias', 'tipos', 'unidade', 'embalagem', 'congelada', 'congelado'}
@@ -69,7 +74,11 @@ def main():
         if not a.get('id') or not isinstance(a.get('paginas'), list):
             continue
         for i, fn in enumerate(a['paginas']):
-            pid = f"{a['id']}_p{i+1}" if not fn.startswith(a['id']) else fn.replace('.jpg', '')
+            # a chave da página é SEMPRE o nome do arquivo sem extensão (idem
+            # build_painel.py). Usar {id}_p{i} quebrava os STORIES (ação com id
+            # por data, arquivo com nome por id da mídia): a foto não era achada
+            # e o par nunca chegava à avaliação visual.
+            pid = fn.replace('.jpg', '')
             fname_de[pid] = fn
 
     def foto(c):
