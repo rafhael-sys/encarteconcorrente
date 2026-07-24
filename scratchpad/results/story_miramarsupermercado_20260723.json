@@ -1,0 +1,114 @@
+{
+  "shortcode": "story_miramarsupermercado_20260723",
+  "decision": "keep",
+  "inicio": "2026-07-22",
+  "fim": "2026-07-30",
+  "pages": {
+    "story_miramarsupermercado_3947487586708714410": [
+      {"n": "Óleo de Soja ABC 900ml", "p": "6,99", "u": "un", "x": 8, "y": 45, "w": 40, "h": 20},
+      {"n": "Carne Bovina Chã de Fora", "p": "37,99", "u": "kg", "x": 52, "y": 45, "w": 45, "h": 20},
+      {"n": "Queijo Mussarela Piracanjuba Peça ou Pedaço", "p": "39,99", "u": "kg", "x": 8, "y": 67, "w": 40, "h": 20},
+      {"n": "Leite UHT Betânia Integral ou Desnatado 1L", "p": "5,99", "u": "un", "x": 52, "y": 67, "w": 45, "h": 20}
+    ],
+    "story_miramarsupermercado_3947487786869270576": [
+      {"n": "Fralda Descartável Babysec Hiper Shortinho", "p": "59,99", "u": "pacote", "x": 5, "y": 30, "w": 45, "h": 35},
+      {"n": "Papel Higiênico Personal Folha Dupla Leve 12 Pague 11", "p": "12,99", "u": "pacote", "x": 52, "y": 28, "w": 45, "h": 35},
+      {"n": "Lava Roupas Líquido Marilux 3L", "p": "12,99", "u": "un", "x": 8, "y": 58, "w": 40, "h": 38},
+      {"n": "Amaciante Concentrado Comfort 500ml", "p": "9,49", "u": "un", "x": 52, "y": 58, "w": 45, "h": 38}
+    ],
+    "story_miramarsupermercado_3947487966117077539": [
+      {"n": "Carne Bovina Patinho", "p": "38,99", "u": "kg", "x": 3, "y": 22, "w": 30, "h": 15},
+      {"n": "Linguiça de Frango Bom Todo", "p": "14,99", "u": "kg", "x": 34, "y": 22, "w": 32, "h": 15},
+      {"n": "Filé de Peito de Frango Sadia 1kg", "p": "19,99", "u": "bandeja", "x": 68, "y": 22, "w": 30, "h": 15},
+      {"n": "Açúcar Dumel Triturado 1kg", "p": "3,29", "u": "un", "x": 3, "y": 40, "w": 30, "h": 18},
+      {"n": "Farinha de Trigo Finna Tradicional 1kg", "p": "3,99", "u": "un", "x": 34, "y": 40, "w": 32, "h": 18},
+      {"n": "Macarrão Bonsabor Spaghetti 400g", "p": "1,99", "u": "un", "x": 68, "y": 40, "w": 30, "h": 18},
+      {"n": "Arroz Parboilizado Fazenda 1kg", "p": "3,49", "u": "un", "x": 5, "y": 62, "w": 40, "h": 28},
+      {"n": "Café Melitta Pouch Almofada ou A Vácuo 250g", "p": "12,99", "u": "un", "x": 52, "y": 62, "w": 45, "h": 28}
+    ],
+    "story_miramarsupermercado_3947618969308575277": [
+      {"n": "Laranja Pera", "p": "1,99", "u": "kg", "x": 25, "y": 42, "w": 25, "h": 12}
+    ],
+    "story_miramarsupermercado_3947618973930068867": [
+      {"n": "Tangerina Importada", "p": "8,99", "u": "kg", "x": 8, "y": 62, "w": 30, "h": 22}
+    ],
+    "story_miramarsupermercado_3947618974774298291": [
+      {"n": "Mamão Formosa", "p": "4,49", "u": "kg", "x": 18, "y": 58, "w": 22, "h": 20},
+      {"n": "Banana Pacovan", "p": "3,99", "u": "kg", "x": 40, "y": 42, "w": 22, "h": 18}
+    ],
+    "story_miramarsupermercado_3947618977052156134": [
+      {"n": "Goiaba", "p": "4,99", "u": "kg", "x": 12, "y": 78, "w": 30, "h": 18}
+    ],
+    "story_miramarsupermercado_3947620181661722510": [
+      {"n": "Goiaba", "p": "4,99", "u": "kg", "x": 28, "y": 74, "w": 35, "h": 20}
+    ],
+    "story_miramarsupermercado_3947621505702137376": [
+      {"n": "Tangerina Importada", "p": "8,99", "u": "kg", "x": 12, "y": 60, "w": 28, "h": 22}
+    ],
+    "story_miramarsupermercado_3947622492614384136": [
+      {"n": "Cenoura", "p": "5,49", "u": "kg", "x": 78, "y": 42, "w": 20, "h": 15}
+    ],
+    "story_miramarsupermercado_3947623966617738314": [
+      {"n": "Macaxeira", "p": "2,49", "u": "kg", "x": 40, "y": 45, "w": 15, "h": 12}
+    ],
+    "story_miramarsupermercado_3947624439143389485": [
+      {"n": "Macaxeira", "p": "2,49", "u": "kg", "x": 46, "y": 30, "w": 25, "h": 18}
+    ],
+    "story_miramarsupermercado_3947956608831066945": [
+      {"n": "Cerveja Amstel Lager 350ml", "p": "3,29", "u": "un", "x": 3, "y": 25, "w": 30, "h": 15},
+      {"n": "Cerveja Devassa Puro Malte 350ml", "p": "2,89", "u": "un", "x": 34, "y": 25, "w": 30, "h": 15},
+      {"n": "Cerveja Heineken 330ml", "p": "6,69", "u": "un", "x": 66, "y": 25, "w": 30, "h": 15},
+      {"n": "Cerveja Brahma Chopp Zero 350ml", "p": "3,69", "u": "un", "x": 3, "y": 43, "w": 30, "h": 17},
+      {"n": "Cerveja Budweiser Multipack 12 unidades 350ml", "p": "42,96", "u": "un", "x": 40, "y": 43, "w": 40, "h": 17},
+      {"n": "Vinho Frisante Botticelli Branco ou Rosé 750ml", "p": "24,99", "u": "un", "x": 3, "y": 63, "w": 30, "h": 18},
+      {"n": "Vinho Chilano Sabores 750ml", "p": "22,99", "u": "un", "x": 34, "y": 63, "w": 30, "h": 18},
+      {"n": "Whisky Johnnie Walker Red Label 1L", "p": "78,90", "u": "un", "x": 66, "y": 63, "w": 30, "h": 18}
+    ],
+    "story_miramarsupermercado_3947956836489548722": [
+      {"n": "Queijo Mussarela Piracanjuba Peça ou Pedaço", "p": "39,99", "u": "kg", "x": 3, "y": 25, "w": 45, "h": 20},
+      {"n": "Batata Pré-Frita Congelada EasyChef Tradicional 2kg", "p": "19,99", "u": "un", "x": 50, "y": 25, "w": 45, "h": 20},
+      {"n": "Sorvete Ster Bom Sabores 2L", "p": "24,99", "u": "un", "x": 22, "y": 48, "w": 55, "h": 20},
+      {"n": "Pão de Queijo Bom Todo Tradicional Congelado 300g", "p": "11,99", "u": "un", "x": 3, "y": 70, "w": 45, "h": 20},
+      {"n": "Pão de Alho Bom Todo Congelado 400g", "p": "9,99", "u": "un", "x": 50, "y": 70, "w": 45, "h": 20}
+    ],
+    "story_miramarsupermercado_3947957018497125384": [
+      {"n": "Suco de Uva Integral Galiotto 1L", "p": "14,99", "u": "un", "x": 3, "y": 26, "w": 45, "h": 18},
+      {"n": "Isotônico Powerade Sabores 500ml", "p": "5,49", "u": "un", "x": 50, "y": 26, "w": 45, "h": 18},
+      {"n": "Refrigerante Pepsi Original, Zero ou Twist 2L", "p": "7,99", "u": "un", "x": 3, "y": 47, "w": 45, "h": 18},
+      {"n": "Refrigerante Guaraná Antarctica Tradicional ou Zero 1L", "p": "4,79", "u": "un", "x": 50, "y": 47, "w": 45, "h": 18},
+      {"n": "Suco Del Valle Frut Sabores 1,5L", "p": "6,49", "u": "un", "x": 22, "y": 68, "w": 55, "h": 20}
+    ],
+    "story_miramarsupermercado_3947957195899466618": [
+      {"n": "Carne Bovina Fraldinha", "p": "38,99", "u": "kg", "x": 3, "y": 24, "w": 45, "h": 20},
+      {"n": "Carne Bovina Chã de Fora", "p": "37,99", "u": "kg", "x": 50, "y": 24, "w": 45, "h": 20},
+      {"n": "Filé de Peito de Frango Sadia 1kg", "p": "19,99", "u": "bandeja", "x": 3, "y": 46, "w": 28, "h": 16},
+      {"n": "Lombo Suíno Sem Osso Lar Congelado", "p": "21,99", "u": "kg", "x": 32, "y": 46, "w": 33, "h": 16},
+      {"n": "Sobrepaleta Suína Lar", "p": "19,99", "u": "kg", "x": 66, "y": 46, "w": 32, "h": 16},
+      {"n": "Carne Bovina Patinho", "p": "38,99", "u": "kg", "x": 3, "y": 66, "w": 45, "h": 20},
+      {"n": "Linguiça de Frango ou Churrasco Aurora", "p": "17,99", "u": "kg", "x": 50, "y": 66, "w": 45, "h": 20}
+    ],
+    "story_miramarsupermercado_3947957378779457195": [
+      {"n": "Salgadinho Pippo's Sabores 75g", "p": "3,49", "u": "un", "x": 3, "y": 25, "w": 45, "h": 18},
+      {"n": "Amendoim Elma Chips Sem Pele 100g ou Japonês 145g", "p": "7,19", "u": "un", "x": 50, "y": 25, "w": 45, "h": 18},
+      {"n": "Bombons Sortidos Garoto 220g", "p": "11,99", "u": "un", "x": 3, "y": 46, "w": 45, "h": 18},
+      {"n": "Salgadinho Torcida Sabores 60g", "p": "2,79", "u": "un", "x": 50, "y": 46, "w": 45, "h": 18},
+      {"n": "Batata Frita Lay's Sabores 62g", "p": "8,49", "u": "un", "x": 3, "y": 68, "w": 45, "h": 18},
+      {"n": "Salgadinho Cheetos Sabores 33g, 35g ou 40g", "p": "2,99", "u": "un", "x": 50, "y": 68, "w": 45, "h": 18}
+    ],
+    "story_miramarsupermercado_3947957583302143480": [
+      {"n": "Lava Roupas em Pó Tixan Ypê Maciez ou Primavera 1,6kg", "p": "15,99", "u": "un", "x": 3, "y": 25, "w": 30, "h": 18},
+      {"n": "Água Sanitária Clorito 1L", "p": "2,19", "u": "un", "x": 34, "y": 25, "w": 30, "h": 18},
+      {"n": "Amaciante Concentrado Comfort Fragrâncias 500ml", "p": "9,49", "u": "un", "x": 66, "y": 25, "w": 30, "h": 18},
+      {"n": "Sabonete Líquido Nivea Refil Fragrâncias 200ml", "p": "7,99", "u": "un", "x": 22, "y": 46, "w": 55, "h": 18},
+      {"n": "Enxaguante Bucal Colgate Plax Fresh Mint 250ml", "p": "8,99", "u": "un", "x": 3, "y": 66, "w": 45, "h": 20},
+      {"n": "Creme Dental Sorriso Kolynos 90g", "p": "2,99", "u": "un", "x": 50, "y": 66, "w": 45, "h": 20}
+    ],
+    "story_miramarsupermercado_3947957814685100270": [
+      {"n": "Óleo de Soja ABC 900ml", "p": "6,99", "u": "un", "x": 3, "y": 25, "w": 45, "h": 18},
+      {"n": "Flocão de Milho São Braz 500g", "p": "1,39", "u": "un", "x": 50, "y": 25, "w": 45, "h": 18},
+      {"n": "Leite UHT Betânia Integral ou Desnatado 1L", "p": "5,99", "u": "un", "x": 22, "y": 46, "w": 55, "h": 18},
+      {"n": "Café Melitta Pouch Almofada ou A Vácuo 250g", "p": "12,99", "u": "un", "x": 3, "y": 66, "w": 45, "h": 20},
+      {"n": "Macarrão Bonsabor Spaghetti 400g", "p": "1,99", "u": "un", "x": 50, "y": 66, "w": 45, "h": 20}
+    ]
+  }
+}

@@ -847,3 +847,66 @@
 - MESMO: «Vodka Smirnoff GF 998ml Trad» == «Vodka Smirnoff Gfa 998ml»
 - DIFERENTES: «Whisky Johnnie Walker Blue Label» != «Whisky Johnnie Walker Gold Label»
 - MESMO: «Whisky White Horse 1L» == «Whisky White Horse gfa 1L»
+- MESMO: «Acém, Posta Gorda, Ossobuco e Peito Bovino Reserva com Osso» == «Posta Gorda, Ossobuco e Peito Bovino Reserva com Osso»
+- MESMO: «Amaciante Downy 450ml/500ml» == «Amaciante Conc Downy 450ml/500ml»
+- DIFERENTES: «Aranha Bovina a Vácuo Masterboi kg» != «Bananinha Bovina a Vácuo Masterboi kg»
+- MESMO: «Banana Prata/Pacovan kg» == «Banana Prata ou Pacovan kg»
+- MESMO: «Banana Prata ou Pacovan» == «Banana Prata ou Pacovan kg»
+- MESMO: «Barriga Suína Resfriada Reserva» == «Barriga Suína Resfriada Reserva kg»
+- DIFERENTES: «Batata Congelada Mazid 2kg» != «Batata Congelada Uai 2kg»
+- MESMO: «Bisc Piraquê Leite Maltado 80g Chocolate» == «Biscoito Piraquê Leite Maltado 80g Chocolate»
+- MESMO: «Biscoito Crackerlícia 3 de Maio 300g» == «Biscoito Crackelícia 3 de Maio 300g»
+- MESMO: «Bisteca Suina Seara» == «Bisteca Suína Seara kg»
+- MESMO: «Bom Bom Garoto Sortidos 220g» == «Bombom Garoto Sortido CX 220g»
+- MESMO: «Bombom Garoto Sortido Caixa 220g» == «Bombom Garoto Sortido CX 220g»
+- MESMO: «Café em Pó União Tradicional/Extraforte pct 250g» == «Café em Pó União Tradicional ou Extraforte pct 250g»
+- MESMO: «Café Solúvel Maratá SC 40g» == «Café Solúvel Maratá 40g»
+- MESMO: «Carne Bovina Acém com Osso kg» == «Carne Bovina Acém com Osso»
+- MESMO: «Carne Bovina Capa de Filé KG Congelado» == «Carne Bovina Capa Filé kg Congelada»
+- MESMO: «Carne bovina coxão mole de sol kg» == «Carne Bovina Coxão Mole de Sol»
+- MESMO: «Cerveja Eisenbahn 350ml Pilsen ou Unfilter» == «Cerv Eisenbahn 350ml Pilsen ou Unfilter»
+- MESMO: «Cerveja Michelob Ultra Long Neck 330ml» == «Cerveja Michelob Long Neck 330ml»
+- DIFERENTES: «Cerveja Puro Malte Petra Lata 350ml» != «Cerveja Puro Malte Império Lata 350ml»
+- MESMO: «Coração Bovino Congelado kg» == «Coração Bovino Congelado»
+- MESMO: «Costela Suína Saudali Tiras» == «Costela Suína Saudali kg Tiras»
+- MESMO: «Dueto Fugini 36x170g» == «Dueto Fugini 170g»
+- MESMO: «Espetinho de Contra Filé/Bife Ancho Congelado 300g Seridoense» == «Espetinho de Contra Filé/Bife Ancho Cong. 300g Seridoense»
+- MESMO: «Farofa de Israel 500g» == «Farofa de Israel SC 500g»
+- MESMO: «Fígado Bovino Congelado kg» == «Fígado Bovino Congelado»
+- MESMO: «Fralda Descartável Mili Love&Care Jumbo» == «Fraldas Descartáveis Mili Love & Care Jumbo»
+- MESMO: «Fralda Mamypoko Super Protc M34/G28/XG24/XXG21» == «Fralda Mamypoko Super Protec M34/G28/XG24/XXG22»
+- MESMO: «Frango a Passarinho LAR IQF 700g» == «Frango a Passarinho Lar 700g»
+- MESMO: «Frango Mauricéa Congelado» == «Frango Mauricéa Congelado kg»
+- MESMO: «Hambúrguer Artesanal Blend Congelado 120g Seridoense» == «Hambúrguer Artesanal Blend Cong. 120g Seridoense»
+- MESMO: «Hambúrguer de Fraldinha Congelado 120g Seridoense» == «Hambúrguer de Fraldinha Cong. 120g Seridoense»
+- MESMO: «Inhame Cara São Tomé» == «Inhame Cara São Tomé kg»
+- MESMO: «Lanche de Frango Bom Todo Peça, Pedaço ou Fatiado» == «Lanche de Frango Bom Todo Peça Pedaço ou Fatiado kg»
+- MESMO: «Lava Roupa Líquido Limpamil 3L» == «Lava Roupas Líq Limpamil 3L»
+- DIFERENTES: «Lava Roupas Líquido Tanlux 3L» != «Lava Roupas Líquido Marilux 3L»
+- MESMO: «Leite UHT Betânia Integral/Desnatado 1L» == «Leite UHT Betânia Integral ou Desnatado 1L»
+- DIFERENTES: «Linguiça Calabresa Sadia kg» != «Linguiça Calabresa Saudali kg»
+- MESMO: «Linguiça Calabresa Seara Pacote 2,5kg» == «Linguiça tipo Calabresa Seara pacote 2,5kg»
+- MESMO: «Mac Yara Espaguete PCT 400g Sêmola» == «Macarrão Yara Espaguete pct 400g Sêmola»
+- MESMO: «Margarina Puro Sabor com Sal 500g» == «Margarina Puro Sabor c/sal 500g»
+- MESMO: «Melão Espanhol Ou Melancia Baby» == «Melão Espanhol / Melancia Baby»
+- MESMO: «Milho para Pipoca São Braz 400g» == «Milho Pipoca São Braz 400g»
+- MESMO: «Molho de Tomate Pomarola Tradicional 200g» == «Molho de Tomate Pomarola Tradicional SC 200g»
+- MESMO: «Osso do Patinho Bovino Congelado Masterboi» == «Osso do Patinho Bovino Congelado Masterboi kg»
+- MESMO: «Ovo Caipira, Vermelho, Ômegas ou Branco Livre de Gaiola C/20 Avine» == «Ovo Caipira/Vermelho/Ômega ou Branco Livre de Gaiola c/20 Avine»
+- MESMO: «Ovo Caipira, Vermelho, Ômegas ou Branco Livre de Gaiola C/20 Avine» == «Ovo Caipira/Vermelho/Ômega3/Branco Livre Gaiola c/20 Avine»
+- MESMO: «Ovo Caipira/Vermelho/Ômega3/Branco Livre Gaiola c/20 Avine» == «Ovo Caipira/Vermelho/Ômega ou Branco Livre de Gaiola c/20 Avine»
+- MESMO: «Ovos Brancos Nordestão Tipo Grande ou Extra bd c/30» == «Ovos Brancos Nordestão Tipo Grande/Extra bd c/30»
+- MESMO: «Ovos Filadélfia Grande Branco com 30 Und» == «Ovos Filadélfia Grandes Brancos com 30 und»
+- MESMO: «Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11» == «Papel Higiênico Personal Vip Folha Dupla Leve 12 Pague 11»
+- MESMO: «Peixe Posta Tilápia Cruz Congelado 1kg» == «Peixe Posta Tilápia Cruz Congelada 1kg»
+- MESMO: «Pizza Moda da Casa Queiroz» == «Pizza Moda da Casa Queiroz kg»
+- MESMO: «Polpa Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo» == «Polpa de Fruta Sterbom 400g Caju/Goiaba/Manga/Tamarindo»
+- MESMO: «Queijo Coalho Isis (Tradicional)» == «Queijo Coalho Isis Tradicional kg»
+- MESMO: «Queijo Mussarela Itacoldy Fatiado 150g» == «Queijo Mussarela Itacolomy Fatiado 150g»
+- MESMO: «Queijo Mussarela Piracanjuba Peça ou Pedaço» == «Queijo Mussarela Piracanjuba peça/pedaço kg»
+- MESMO: «Salsicha Hot Dog Avivar kg» == «Salsicha Hot Dog Avivar»
+- MESMO: «Sobrecoxa Bom Todo Resfriada» == «Sobrecoxa Bom Todo kg Resfriada»
+- MESMO: «Tomate Cajá ou Longa Vida» == «Tomate Cajá ou Longa Vida kg»
+- MESMO: «Tomate-Rasteiro» == «Tomate Rasteiro kg»
+- MESMO: «Uva Vitória Marcelo Frzao Band 500g» == «Uva Vitória Marcelo Frazão 500g»
+- MESMO: «Uva Vitória sem Semente 500g» == «Uva Vitória s/semente 500g»

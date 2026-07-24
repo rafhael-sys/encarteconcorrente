@@ -5642,5 +5642,441 @@
   "b": "Coxa com Sobrecoxa de Frango Copacol Congelada",
   "veredito": "diferente",
   "quando": "2026-07-22"
+ },
+ "biscoito crackelicia 3 de maio 300g || biscoito crackerlicia 3 de maio 300g": {
+  "a": "Biscoito Crackerlícia 3 de Maio 300g",
+  "b": "Biscoito Crackelícia 3 de Maio 300g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "ovo caipira, vermelho, omegas ou branco livre de gaiola c/20 avine || ovo caipira/vermelho/omega ou branco livre de gaiola c/20 avine": {
+  "a": "Ovo Caipira, Vermelho, Ômegas ou Branco Livre de Gaiola C/20 Avine",
+  "b": "Ovo Caipira/Vermelho/Ômega ou Branco Livre de Gaiola c/20 Avine",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "ovos filadelfia grande branco com 30 und || ovos filadelfia grandes brancos com 30 und": {
+  "a": "Ovos Filadélfia Grande Branco com 30 Und",
+  "b": "Ovos Filadélfia Grandes Brancos com 30 und",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "peixe posta tilapia cruz congelada 1kg || peixe posta tilapia cruz congelado 1kg": {
+  "a": "Peixe Posta Tilápia Cruz Congelado 1kg",
+  "b": "Peixe Posta Tilápia Cruz Congelada 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "cafe em po uniao tradicional ou extraforte pct 250g || cafe em po uniao tradicional/extraforte pct 250g": {
+  "a": "Café em Pó União Tradicional/Extraforte pct 250g",
+  "b": "Café em Pó União Tradicional ou Extraforte pct 250g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "ovos brancos nordestao tipo grande ou extra bd c/30 || ovos brancos nordestao tipo grande/extra bd c/30": {
+  "a": "Ovos Brancos Nordestão Tipo Grande ou Extra bd c/30",
+  "b": "Ovos Brancos Nordestão Tipo Grande/Extra bd c/30",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "margarina puro sabor c/sal 500g || margarina puro sabor com sal 500g": {
+  "a": "Margarina Puro Sabor com Sal 500g",
+  "b": "Margarina Puro Sabor c/sal 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "fralda mamypoko super protc m34/g28/xg24/xxg21 || fralda mamypoko super protec m34/g28/xg24/xxg22": {
+  "a": "Fralda Mamypoko Super Protc M34/G28/XG24/XXG21",
+  "b": "Fralda Mamypoko Super Protec M34/G28/XG24/XXG22",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "osso do patinho bovino congelado masterboi || osso do patinho bovino congelado masterboi kg": {
+  "a": "Osso do Patinho Bovino Congelado Masterboi",
+  "b": "Osso do Patinho Bovino Congelado Masterboi kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "molho de tomate pomarola tradicional 200g || molho de tomate pomarola tradicional sc 200g": {
+  "a": "Molho de Tomate Pomarola Tradicional 200g",
+  "b": "Molho de Tomate Pomarola Tradicional SC 200g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "uva vitoria s/semente 500g || uva vitoria sem semente 500g": {
+  "a": "Uva Vitória sem Semente 500g",
+  "b": "Uva Vitória s/semente 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "leite uht betania integral ou desnatado 1l || leite uht betania integral/desnatado 1l": {
+  "a": "Leite UHT Betânia Integral/Desnatado 1L",
+  "b": "Leite UHT Betânia Integral ou Desnatado 1L",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "cerv eisenbahn 350ml pilsen ou unfilter || cerveja eisenbahn 350ml pilsen ou unfilter": {
+  "a": "Cerveja Eisenbahn 350ml Pilsen ou Unfilter",
+  "b": "Cerv Eisenbahn 350ml Pilsen ou Unfilter",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "queijo mussarela itacoldy fatiado 150g || queijo mussarela itacolomy fatiado 150g": {
+  "a": "Queijo Mussarela Itacoldy Fatiado 150g",
+  "b": "Queijo Mussarela Itacolomy Fatiado 150g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "lanche de frango bom todo peca pedaco ou fatiado kg || lanche de frango bom todo peca, pedaco ou fatiado": {
+  "a": "Lanche de Frango Bom Todo Peça, Pedaço ou Fatiado",
+  "b": "Lanche de Frango Bom Todo Peça Pedaço ou Fatiado kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "barriga suina resfriada reserva || barriga suina resfriada reserva kg": {
+  "a": "Barriga Suína Resfriada Reserva",
+  "b": "Barriga Suína Resfriada Reserva kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "queijo coalho isis (tradicional) || queijo coalho isis tradicional kg": {
+  "a": "Queijo Coalho Isis (Tradicional)",
+  "b": "Queijo Coalho Isis Tradicional kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "carne bovina coxao mole de sol || carne bovina coxao mole de sol kg": {
+  "a": "Carne bovina coxão mole de sol kg",
+  "b": "Carne Bovina Coxão Mole de Sol",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "bisc piraque leite maltado 80g chocolate || biscoito piraque leite maltado 80g chocolate": {
+  "a": "Bisc Piraquê Leite Maltado 80g Chocolate",
+  "b": "Biscoito Piraquê Leite Maltado 80g Chocolate",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "bombom garoto sortido caixa 220g || bombom garoto sortido cx 220g": {
+  "a": "Bombom Garoto Sortido Caixa 220g",
+  "b": "Bombom Garoto Sortido CX 220g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "fralda descartavel mili love&care jumbo || fraldas descartaveis mili love & care jumbo": {
+  "a": "Fralda Descartável Mili Love&Care Jumbo",
+  "b": "Fraldas Descartáveis Mili Love & Care Jumbo",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "sobrecoxa bom todo kg resfriada || sobrecoxa bom todo resfriada": {
+  "a": "Sobrecoxa Bom Todo Resfriada",
+  "b": "Sobrecoxa Bom Todo kg Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "espetinho de contra file/bife ancho cong. 300g seridoense || espetinho de contra file/bife ancho congelado 300g seridoense": {
+  "a": "Espetinho de Contra Filé/Bife Ancho Congelado 300g Seridoense",
+  "b": "Espetinho de Contra Filé/Bife Ancho Cong. 300g Seridoense",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "melao espanhol / melancia baby || melao espanhol ou melancia baby": {
+  "a": "Melão Espanhol Ou Melancia Baby",
+  "b": "Melão Espanhol / Melancia Baby",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "costela suina saudali kg tiras || costela suina saudali tiras": {
+  "a": "Costela Suína Saudali Tiras",
+  "b": "Costela Suína Saudali kg Tiras",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "acem, posta gorda, ossobuco e peito bovino reserva com osso || posta gorda, ossobuco e peito bovino reserva com osso": {
+  "a": "Acém, Posta Gorda, Ossobuco e Peito Bovino Reserva com Osso",
+  "b": "Posta Gorda, Ossobuco e Peito Bovino Reserva com Osso",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "carne bovina acem com osso || carne bovina acem com osso kg": {
+  "a": "Carne Bovina Acém com Osso kg",
+  "b": "Carne Bovina Acém com Osso",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "pizza moda da casa queiroz || pizza moda da casa queiroz kg": {
+  "a": "Pizza Moda da Casa Queiroz",
+  "b": "Pizza Moda da Casa Queiroz kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "tomate caja ou longa vida || tomate caja ou longa vida kg": {
+  "a": "Tomate Cajá ou Longa Vida",
+  "b": "Tomate Cajá ou Longa Vida kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "frango mauricea congelado || frango mauricea congelado kg": {
+  "a": "Frango Mauricéa Congelado",
+  "b": "Frango Mauricéa Congelado kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "ovo caipira/vermelho/omega ou branco livre de gaiola c/20 avine || ovo caipira/vermelho/omega3/branco livre gaiola c/20 avine": {
+  "a": "Ovo Caipira/Vermelho/Ômega3/Branco Livre Gaiola c/20 Avine",
+  "b": "Ovo Caipira/Vermelho/Ômega ou Branco Livre de Gaiola c/20 Avine",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "coracao bovino congelado || coracao bovino congelado kg": {
+  "a": "Coração Bovino Congelado kg",
+  "b": "Coração Bovino Congelado",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "hamburguer artesanal blend cong. 120g seridoense || hamburguer artesanal blend congelado 120g seridoense": {
+  "a": "Hambúrguer Artesanal Blend Congelado 120g Seridoense",
+  "b": "Hambúrguer Artesanal Blend Cong. 120g Seridoense",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "cafe soluvel marata 40g || cafe soluvel marata sc 40g": {
+  "a": "Café Solúvel Maratá SC 40g",
+  "b": "Café Solúvel Maratá 40g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "banana prata ou pacovan || banana prata ou pacovan kg": {
+  "a": "Banana Prata ou Pacovan",
+  "b": "Banana Prata ou Pacovan kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "banana prata ou pacovan kg || banana prata/pacovan kg": {
+  "a": "Banana Prata/Pacovan kg",
+  "b": "Banana Prata ou Pacovan kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "salsicha hot dog avivar || salsicha hot dog avivar kg": {
+  "a": "Salsicha Hot Dog Avivar kg",
+  "b": "Salsicha Hot Dog Avivar",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "figado bovino congelado || figado bovino congelado kg": {
+  "a": "Fígado Bovino Congelado kg",
+  "b": "Fígado Bovino Congelado",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "linguica calabresa seara pacote 2,5kg || linguica tipo calabresa seara pacote 2,5kg": {
+  "a": "Linguiça Calabresa Seara Pacote 2,5kg",
+  "b": "Linguiça tipo Calabresa Seara pacote 2,5kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "hamburguer de fraldinha cong. 120g seridoense || hamburguer de fraldinha congelado 120g seridoense": {
+  "a": "Hambúrguer de Fraldinha Congelado 120g Seridoense",
+  "b": "Hambúrguer de Fraldinha Cong. 120g Seridoense",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "farofa de israel 500g || farofa de israel sc 500g": {
+  "a": "Farofa de Israel 500g",
+  "b": "Farofa de Israel SC 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "frango a passarinho lar 700g || frango a passarinho lar iqf 700g": {
+  "a": "Frango a Passarinho LAR IQF 700g",
+  "b": "Frango a Passarinho Lar 700g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "carne bovina capa de file kg congelado || carne bovina capa file kg congelada": {
+  "a": "Carne Bovina Capa de Filé KG Congelado",
+  "b": "Carne Bovina Capa Filé kg Congelada",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "mac yara espaguete pct 400g semola || macarrao yara espaguete pct 400g semola": {
+  "a": "Mac Yara Espaguete PCT 400g Sêmola",
+  "b": "Macarrão Yara Espaguete pct 400g Sêmola",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "papel higienico personal folha dupla 20m leve 12 pague 11 || papel higienico personal vip folha dupla leve 12 pague 11": {
+  "a": "Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11",
+  "b": "Papel Higiênico Personal Vip Folha Dupla Leve 12 Pague 11",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "inhame cara sao tome || inhame cara sao tome kg": {
+  "a": "Inhame Cara São Tomé",
+  "b": "Inhame Cara São Tomé kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "aranha bovina a vacuo masterboi kg || bananinha bovina a vacuo masterboi kg": {
+  "a": "Aranha Bovina a Vácuo Masterboi kg",
+  "b": "Bananinha Bovina a Vácuo Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-07-23"
+ },
+ "queijo mussarela piracanjuba peca ou pedaco || queijo mussarela piracanjuba peca/pedaco kg": {
+  "a": "Queijo Mussarela Piracanjuba Peça ou Pedaço",
+  "b": "Queijo Mussarela Piracanjuba peça/pedaço kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "polpa de fruta sterbom 400g caju/goiaba/manga/tamarindo || polpa fruta sterbom 400g caju, goiaba, manga ou tamarindo": {
+  "a": "Polpa Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo",
+  "b": "Polpa de Fruta Sterbom 400g Caju/Goiaba/Manga/Tamarindo",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "linguica calabresa sadia kg || linguica calabresa saudali kg": {
+  "a": "Linguiça Calabresa Sadia kg",
+  "b": "Linguiça Calabresa Saudali kg",
+  "veredito": "diferente",
+  "quando": "2026-07-23"
+ },
+ "bisteca suina seara || bisteca suina seara kg": {
+  "a": "Bisteca Suina Seara",
+  "b": "Bisteca Suína Seara kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "batata congelada mazid 2kg || batata congelada uai 2kg": {
+  "a": "Batata Congelada Mazid 2kg",
+  "b": "Batata Congelada Uai 2kg",
+  "veredito": "diferente",
+  "quando": "2026-07-23"
+ },
+ "ovo caipira, vermelho, omegas ou branco livre de gaiola c/20 avine || ovo caipira/vermelho/omega3/branco livre gaiola c/20 avine": {
+  "a": "Ovo Caipira, Vermelho, Ômegas ou Branco Livre de Gaiola C/20 Avine",
+  "b": "Ovo Caipira/Vermelho/Ômega3/Branco Livre Gaiola c/20 Avine",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "dueto fugini 170g || dueto fugini 36x170g": {
+  "a": "Dueto Fugini 36x170g",
+  "b": "Dueto Fugini 170g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "cerveja puro malte imperio lata 350ml || cerveja puro malte petra lata 350ml": {
+  "a": "Cerveja Puro Malte Petra Lata 350ml",
+  "b": "Cerveja Puro Malte Império Lata 350ml",
+  "veredito": "diferente",
+  "quando": "2026-07-23"
+ },
+ "amaciante conc downy 450ml/500ml || amaciante downy 450ml/500ml": {
+  "a": "Amaciante Downy 450ml/500ml",
+  "b": "Amaciante Conc Downy 450ml/500ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "lava roupas liquido marilux 3l || lava roupas liquido tanlux 3l": {
+  "a": "Lava Roupas Líquido Tanlux 3L",
+  "b": "Lava Roupas Líquido Marilux 3L",
+  "veredito": "diferente",
+  "quando": "2026-07-23"
+ },
+ "cerveja michelob long neck 330ml || cerveja michelob ultra long neck 330ml": {
+  "a": "Cerveja Michelob Ultra Long Neck 330ml",
+  "b": "Cerveja Michelob Long Neck 330ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "milho para pipoca sao braz 400g || milho pipoca sao braz 400g": {
+  "a": "Milho para Pipoca São Braz 400g",
+  "b": "Milho Pipoca São Braz 400g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "bom bom garoto sortidos 220g || bombom garoto sortido cx 220g": {
+  "a": "Bom Bom Garoto Sortidos 220g",
+  "b": "Bombom Garoto Sortido CX 220g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "lava roupa liquido limpamil 3l || lava roupas liq limpamil 3l": {
+  "a": "Lava Roupa Líquido Limpamil 3L",
+  "b": "Lava Roupas Líq Limpamil 3L",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "uva vitoria marcelo frazao 500g || uva vitoria marcelo frzao band 500g": {
+  "a": "Uva Vitória Marcelo Frzao Band 500g",
+  "b": "Uva Vitória Marcelo Frazão 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
+ },
+ "tomate rasteiro kg || tomate-rasteiro": {
+  "a": "Tomate-Rasteiro",
+  "b": "Tomate Rasteiro kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-23",
+  "aplicado": true
  }
 }

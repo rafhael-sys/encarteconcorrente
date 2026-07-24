@@ -1,0 +1,319 @@
+{
+ "validacoes": [
+  {
+   "a": "Biscoito Crackerlícia 3 de Maio 300g",
+   "b": "Biscoito Crackelícia 3 de Maio 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Caipira, Vermelho, Ômegas ou Branco Livre de Gaiola C/20 Avine",
+   "b": "Ovo Caipira/Vermelho/Ômega ou Branco Livre de Gaiola c/20 Avine",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Filadélfia Grande Branco com 30 Und",
+   "b": "Ovos Filadélfia Grandes Brancos com 30 und",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peixe Posta Tilápia Cruz Congelado 1kg",
+   "b": "Peixe Posta Tilápia Cruz Congelada 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café em Pó União Tradicional/Extraforte pct 250g",
+   "b": "Café em Pó União Tradicional ou Extraforte pct 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Brancos Nordestão Tipo Grande ou Extra bd c/30",
+   "b": "Ovos Brancos Nordestão Tipo Grande/Extra bd c/30",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Margarina Puro Sabor com Sal 500g",
+   "b": "Margarina Puro Sabor c/sal 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Mamypoko Super Protc M34/G28/XG24/XXG21",
+   "b": "Fralda Mamypoko Super Protec M34/G28/XG24/XXG22",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Osso do Patinho Bovino Congelado Masterboi",
+   "b": "Osso do Patinho Bovino Congelado Masterboi kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Pomarola Tradicional 200g",
+   "b": "Molho de Tomate Pomarola Tradicional SC 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Vitória sem Semente 500g",
+   "b": "Uva Vitória s/semente 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite UHT Betânia Integral/Desnatado 1L",
+   "b": "Leite UHT Betânia Integral ou Desnatado 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Eisenbahn 350ml Pilsen ou Unfilter",
+   "b": "Cerv Eisenbahn 350ml Pilsen ou Unfilter",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Itacoldy Fatiado 150g",
+   "b": "Queijo Mussarela Itacolomy Fatiado 150g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lanche de Frango Bom Todo Peça, Pedaço ou Fatiado",
+   "b": "Lanche de Frango Bom Todo Peça Pedaço ou Fatiado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Barriga Suína Resfriada Reserva",
+   "b": "Barriga Suína Resfriada Reserva kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Coalho Isis (Tradicional)",
+   "b": "Queijo Coalho Isis Tradicional kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne bovina coxão mole de sol kg",
+   "b": "Carne Bovina Coxão Mole de Sol",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisc Piraquê Leite Maltado 80g Chocolate",
+   "b": "Biscoito Piraquê Leite Maltado 80g Chocolate",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bombom Garoto Sortido Caixa 220g",
+   "b": "Bombom Garoto Sortido CX 220g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Descartável Mili Love&Care Jumbo",
+   "b": "Fraldas Descartáveis Mili Love & Care Jumbo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sobrecoxa Bom Todo Resfriada",
+   "b": "Sobrecoxa Bom Todo kg Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Espetinho de Contra Filé/Bife Ancho Congelado 300g Seridoense",
+   "b": "Espetinho de Contra Filé/Bife Ancho Cong. 300g Seridoense",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Melão Espanhol Ou Melancia Baby",
+   "b": "Melão Espanhol / Melancia Baby",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Suína Saudali Tiras",
+   "b": "Costela Suína Saudali kg Tiras",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Acém, Posta Gorda, Ossobuco e Peito Bovino Reserva com Osso",
+   "b": "Posta Gorda, Ossobuco e Peito Bovino Reserva com Osso",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém com Osso kg",
+   "b": "Carne Bovina Acém com Osso",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pizza Moda da Casa Queiroz",
+   "b": "Pizza Moda da Casa Queiroz kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Tomate Cajá ou Longa Vida",
+   "b": "Tomate Cajá ou Longa Vida kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango Mauricéa Congelado",
+   "b": "Frango Mauricéa Congelado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Caipira/Vermelho/Ômega3/Branco Livre Gaiola c/20 Avine",
+   "b": "Ovo Caipira/Vermelho/Ômega ou Branco Livre de Gaiola c/20 Avine",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coração Bovino Congelado kg",
+   "b": "Coração Bovino Congelado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Artesanal Blend Congelado 120g Seridoense",
+   "b": "Hambúrguer Artesanal Blend Cong. 120g Seridoense",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Solúvel Maratá SC 40g",
+   "b": "Café Solúvel Maratá 40g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Banana Prata ou Pacovan",
+   "b": "Banana Prata ou Pacovan kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Banana Prata/Pacovan kg",
+   "b": "Banana Prata ou Pacovan kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog Avivar kg",
+   "b": "Salsicha Hot Dog Avivar",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fígado Bovino Congelado kg",
+   "b": "Fígado Bovino Congelado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Calabresa Seara Pacote 2,5kg",
+   "b": "Linguiça tipo Calabresa Seara pacote 2,5kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer de Fraldinha Congelado 120g Seridoense",
+   "b": "Hambúrguer de Fraldinha Cong. 120g Seridoense",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farofa de Israel 500g",
+   "b": "Farofa de Israel SC 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango a Passarinho LAR IQF 700g",
+   "b": "Frango a Passarinho Lar 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Capa de Filé KG Congelado",
+   "b": "Carne Bovina Capa Filé kg Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mac Yara Espaguete PCT 400g Sêmola",
+   "b": "Macarrão Yara Espaguete pct 400g Sêmola",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11",
+   "b": "Papel Higiênico Personal Vip Folha Dupla Leve 12 Pague 11",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Inhame Cara São Tomé",
+   "b": "Inhame Cara São Tomé kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aranha Bovina a Vácuo Masterboi kg",
+   "b": "Bananinha Bovina a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Mussarela Piracanjuba Peça ou Pedaço",
+   "b": "Queijo Mussarela Piracanjuba peça/pedaço kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Polpa Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo",
+   "b": "Polpa de Fruta Sterbom 400g Caju/Goiaba/Manga/Tamarindo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Calabresa Sadia kg",
+   "b": "Linguiça Calabresa Saudali kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bisteca Suina Seara",
+   "b": "Bisteca Suína Seara kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Congelada Mazid 2kg",
+   "b": "Batata Congelada Uai 2kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovo Caipira, Vermelho, Ômegas ou Branco Livre de Gaiola C/20 Avine",
+   "b": "Ovo Caipira/Vermelho/Ômega3/Branco Livre Gaiola c/20 Avine",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Dueto Fugini 36x170g",
+   "b": "Dueto Fugini 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Puro Malte Petra Lata 350ml",
+   "b": "Cerveja Puro Malte Império Lata 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Amaciante Downy 450ml/500ml",
+   "b": "Amaciante Conc Downy 450ml/500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido Tanlux 3L",
+   "b": "Lava Roupas Líquido Marilux 3L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Michelob Ultra Long Neck 330ml",
+   "b": "Cerveja Michelob Long Neck 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Milho para Pipoca São Braz 400g",
+   "b": "Milho Pipoca São Braz 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bom Bom Garoto Sortidos 220g",
+   "b": "Bombom Garoto Sortido CX 220g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupa Líquido Limpamil 3L",
+   "b": "Lava Roupas Líq Limpamil 3L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Vitória Marcelo Frzao Band 500g",
+   "b": "Uva Vitória Marcelo Frazão 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Tomate-Rasteiro",
+   "b": "Tomate Rasteiro kg",
+   "veredito": "mesmo"
+  }
+ ]
+}
