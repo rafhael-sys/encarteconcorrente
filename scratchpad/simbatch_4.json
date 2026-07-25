@@ -1,0 +1,327 @@
+[
+ {
+  "k": "feijao carioca kero 1kg || feijao carioca kume 1kg",
+  "a": "Feijão Carioca Kume 1kg",
+  "b": "Feijão Carioca Kero 1kg",
+  "foto_a": {
+   "imagem": "data/pages/Daba-Qylsw5_p1.jpg",
+   "nome_impresso": "Feijão Carioca Kume 1kg",
+   "regiao_pct": {
+    "x": 22.6,
+    "y": 85.0,
+    "w": 12.7,
+    "h": 13.0
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_168430-572_p1.jpg",
+   "nome_impresso": "Feijão Carioca Kero 1kg",
+   "regiao_pct": {
+    "x": 2,
+    "y": 62,
+    "w": 15,
+    "h": 9
+   }
+  }
+ },
+ {
+  "k": "goma para tapioca ouro fino 1kg || goma tapioca ouro fino 1kg",
+  "a": "Goma para Tapioca Ouro Fino 1kg",
+  "b": "GOMA TAPIOCA OURO FINO 1KG",
+  "foto_a": {
+   "imagem": "data/pages/DagmKtcDSao_p1.jpg",
+   "nome_impresso": "Goma para Tapioca Ouro Fino 1kg",
+   "regiao_pct": {
+    "x": 65.0,
+    "y": 34.5,
+    "w": 30.5,
+    "h": 18.8
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbJXel3AMFa_p2.jpg",
+   "nome_impresso": "GOMA TAPIOCA OURO FINO 1KG",
+   "regiao_pct": {
+    "x": 37,
+    "y": 26,
+    "w": 24,
+    "h": 16
+   }
+  }
+ },
+ {
+  "k": "ling. calabresa chuletao kg || linguica calabresa chuletao kg",
+  "a": "Ling. Calabresa Chuletão kg",
+  "b": "Linguiça Calabresa Chuletao kg",
+  "foto_a": {
+   "imagem": "data/pages/fav_reinaug_p1.jpg",
+   "nome_impresso": "Ling. Calabresa Chuletão kg",
+   "regiao_pct": {
+    "x": 66.5,
+    "y": 40,
+    "w": 14.5,
+    "h": 19
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbI9SqcgJyX_p3.jpg",
+   "nome_impresso": "Linguiça Calabresa Chuletao kg",
+   "regiao_pct": {
+    "x": 63,
+    "y": 76,
+    "w": 15,
+    "h": 11
+   }
+  }
+ },
+ {
+  "k": "coxas com sobrecoxas de frango bom todo bandeja 1kg || coxas com sobrecoxas de frango congelado bom todo bandeja 1kg",
+  "a": "Coxas com Sobrecoxas de Frango Congelado Bom Todo Bandeja 1Kg",
+  "b": "Coxas com Sobrecoxas de Frango Bom Todo Bandeja 1Kg",
+  "foto_a": {
+   "imagem": "data/pages/DaOjlIUExHg_p4.jpg",
+   "nome_impresso": "Coxas com Sobrecoxas de Frango Congelado Bom Todo Bandeja 1Kg",
+   "regiao_pct": {
+    "x": 31,
+    "y": 54,
+    "w": 22,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbJxN87mGF2_p4.jpg",
+   "nome_impresso": "Coxas com Sobrecoxas de Frango Bom Todo Bandeja 1Kg",
+   "regiao_pct": {
+    "x": 66,
+    "y": 64,
+    "w": 12,
+    "h": 5
+   }
+  }
+ },
+ {
+  "k": "creme de leite italac 10% gordura 200g || creme de leite leve italac 15% gordura 200g",
+  "a": "Creme de Leite Leve ITALAC 15% Gordura 200g",
+  "b": "Creme de Leite Italac 10% Gordura 200g",
+  "foto_a": {
+   "imagem": "data/pages/rm_copa_jun_p1.jpg",
+   "nome_impresso": "Creme de Leite Leve ITALAC 15% Gordura 200g",
+   "regiao_pct": {
+    "x": 7,
+    "y": 53,
+    "w": 12.5,
+    "h": 12.3
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbI9SqcgJyX_p2.jpg",
+   "nome_impresso": "Creme de Leite Italac 10% Gordura 200g",
+   "regiao_pct": {
+    "x": 25,
+    "y": 59,
+    "w": 15,
+    "h": 12
+   }
+  }
+ },
+ {
+  "k": "desodorante aerosol rexona 150ml fragrancias || desodorante aerossol nivea 150ml fragrancias",
+  "a": "Desodorante Aerosol Rexona 150ml Fragrâncias",
+  "b": "Desodorante Aerossol Nivea 150ml Fragrâncias",
+  "foto_a": {
+   "imagem": "data/pages/lm_selecao_p3.jpg",
+   "nome_impresso": "Desodorante Aerossol Rexona 150ml Fragrancias",
+   "regiao_pct": {
+    "x": 50.0,
+    "y": 38.5,
+    "w": 15.2,
+    "h": 15.0
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbI9SqcgJyX_p1.jpg",
+   "nome_impresso": "Desodorante Aerossol Nivea 150ml Fragrâncias",
+   "regiao_pct": {
+    "x": 60,
+    "y": 56,
+    "w": 14,
+    "h": 12
+   }
+  }
+ },
+ {
+  "k": "carne bovina coxao duro de sol kg || carne bovina coxao mole de sol kg",
+  "a": "Carne bovina coxão mole de sol kg",
+  "b": "Carne Bovina Coxão Duro de Sol Kg",
+  "foto_a": {
+   "imagem": "data/pages/DabRmxqHxTB_p2.jpg",
+   "nome_impresso": "Carne bovina coxão mole de sol kg",
+   "regiao_pct": {
+    "x": 28.1,
+    "y": 49.9,
+    "w": 9.0,
+    "h": 8.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbJxN87mGF2_p2.jpg",
+   "nome_impresso": "Carne Bovina Coxão Duro de Sol Kg",
+   "regiao_pct": {
+    "x": 42,
+    "y": 37,
+    "w": 18,
+    "h": 6
+   }
+  }
+ },
+ {
+  "k": "cachaca caranguejo prata 12x350ml || cachaca caranguejo prata lt 350ml",
+  "a": "Cachaça Caranguejo Prata 12x350ml",
+  "b": "Cachaça Caranguejo Prata LT 350ml",
+  "foto_a": {
+   "imagem": "data/pages/story_levamaisjc_3940405180808339745.jpg",
+   "nome_impresso": "Cachaça Caranguejo Prata 12x350ml",
+   "regiao_pct": {
+    "x": 78,
+    "y": 26,
+    "w": 18,
+    "h": 9
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbI9SqcgJyX_p3.jpg",
+   "nome_impresso": "Cachaça Caranguejo Prata LT 350ml",
+   "regiao_pct": {
+    "x": 44,
+    "y": 25,
+    "w": 15,
+    "h": 13
+   }
+  }
+ },
+ {
+  "k": "linguica calabresa lebon kg || linguica calabresa tony kg",
+  "a": "Linguiça Calabresa Lebon Kg",
+  "b": "Linguiça Calabresa Tony kg",
+  "foto_a": {
+   "imagem": "data/pages/DayvaLOHaco_p3.jpg",
+   "nome_impresso": "Linguiça Calabresa Lebon Kg",
+   "regiao_pct": {
+    "x": 44,
+    "y": 18,
+    "w": 15,
+    "h": 10
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbG8I7LlOCU_p2.jpg",
+   "nome_impresso": "Linguiça Calabresa Tony kg",
+   "regiao_pct": {
+    "x": 11,
+    "y": 93,
+    "w": 9,
+    "h": 6
+   }
+  }
+ },
+ {
+  "k": "file de peito de frango lar 1kg || file de peito de frango sadia 1kg",
+  "a": "Filé de Peito de Frango LAR 1kg",
+  "b": "Filé de Peito de Frango Sadia 1kg",
+  "foto_a": {
+   "imagem": "data/pages/story_miramarsupermercado_3940328819063340780.jpg",
+   "nome_impresso": "Filé de Peito de Frango LAR 1kg",
+   "regiao_pct": {
+    "x": 3,
+    "y": 54,
+    "w": 45,
+    "h": 40
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_miramarsupermercado_3946763187853408920.jpg",
+   "nome_impresso": "Filé de Peito de Frango Sadia 1kg",
+   "regiao_pct": {
+    "x": 83,
+    "y": 28,
+    "w": 28,
+    "h": 16
+   }
+  }
+ },
+ {
+  "k": "sardinha cabo verde 125g || sardinha oleo cabo verde 125g",
+  "a": "Sardinha Cabo Verde 125g",
+  "b": "Sardinha Óleo Cabo Verde 125g",
+  "foto_a": {
+   "imagem": "data/pages/Dal8u9zjMyI_p2.jpg",
+   "nome_impresso": "Sardinha Cabo Verde 125g",
+   "regiao_pct": {
+    "x": 24,
+    "y": 40,
+    "w": 17,
+    "h": 12
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbHVClGIOF5_p2.jpg",
+   "nome_impresso": "Sardinha Óleo Cabo Verde 125g",
+   "regiao_pct": {
+    "x": 89,
+    "y": 34,
+    "w": 12,
+    "h": 9
+   }
+  }
+ },
+ {
+  "k": "peito de frango mauricea congelado || peito de frango real congelado",
+  "a": "Peito de Frango Mauricéa Congelado",
+  "b": "Peito de Frango Real congelado",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_5edc3f0df8_p2.jpg",
+   "nome_impresso": "Peito de Frango Mauricéa Congelado",
+   "regiao_pct": {
+    "x": 3,
+    "y": 15,
+    "w": 30,
+    "h": 12
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbJzQS-G14k_p1.jpg",
+   "nome_impresso": "Peito de Frango Real congelado",
+   "regiao_pct": {
+    "x": 58,
+    "y": 47,
+    "w": 14,
+    "h": 9
+   }
+  }
+ },
+ {
+  "k": "arroz parboilizado fazenda tipo 1 1kg || arroz parboilizado laguna tipo 1 1kg",
+  "a": "Arroz Parboilizado Fazenda Tipo 1 1kg",
+  "b": "Arroz Parboilizado Laguna Tipo 1 1kg",
+  "foto_a": {
+   "imagem": "data/pages/mv_julho_p1.jpg",
+   "nome_impresso": "Arroz Parboilizado Fazenda Tipo 1 1kg",
+   "regiao_pct": {
+    "x": 1.9,
+    "y": 57.9,
+    "w": 22.8,
+    "h": 19.0
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbJzQS-G14k_p1.jpg",
+   "nome_impresso": "Arroz Parboilizado Laguna Tipo 1 1kg",
+   "regiao_pct": {
+    "x": 83,
+    "y": 48,
+    "w": 15,
+    "h": 9
+   }
+  }
+ }
+]

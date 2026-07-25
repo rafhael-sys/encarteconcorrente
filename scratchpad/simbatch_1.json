@@ -1,0 +1,327 @@
+[
+ {
+  "k": "carne bovina coxao mole resfriado || carne bovina coxao mole resfriado kg",
+  "a": "Carne Bovina Coxão Mole Resfriado Kg",
+  "b": "CARNE BOVINA COXÃO MOLE RESFRIADO",
+  "foto_a": {
+   "imagem": "data/pages/DaluZT4mE6m_p2.jpg",
+   "nome_impresso": "Carne Bovina Coxão Mole Resfriado Kg",
+   "regiao_pct": {
+    "x": 8,
+    "y": 67,
+    "w": 26,
+    "h": 23
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbJsBwDgVZy_p2.jpg",
+   "nome_impresso": "CARNE BOVINA COXÃO MOLE RESFRIADO",
+   "regiao_pct": {
+    "x": 40,
+    "y": 6,
+    "w": 35,
+    "h": 30
+   }
+  }
+ },
+ {
+  "k": "iogurte isis 150g natural/laranja, cenoura e mel || iogurte isis 150g natural/laranja, ceura & mel",
+  "a": "Iogurte Isis 150g Natural/Laranja, Cenoura e Mel",
+  "b": "Iogurte Isis 150g Natural/Laranja, Ceura & Mel",
+  "foto_a": {
+   "imagem": "data/pages/lm_selecao_p2.jpg",
+   "nome_impresso": "Iogurte Isis Natural Integral/Laranja, Cenoura e Mel 150G",
+   "regiao_pct": {
+    "x": 21.5,
+    "y": 28.3,
+    "w": 19.0,
+    "h": 12.2
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbI9SqcgJyX_p3.jpg",
+   "nome_impresso": "Iogurte Isis 150g Natural/Laranja, Ceura & Mel",
+   "regiao_pct": {
+    "x": 44,
+    "y": 89,
+    "w": 15,
+    "h": 10
+   }
+  }
+ },
+ {
+  "k": "file de peito de frango sadia congelado 1kg || file de peito de frango sadia congelado bdj 1kg",
+  "a": "Filé de Peito de Frango Sadia Congelado 1kg",
+  "b": "Filé de Peito de Frango Sadia congelado BDJ 1kg",
+  "foto_a": {
+   "imagem": "data/pages/DawDj1lm2E-_p4.jpg",
+   "nome_impresso": "Filé de Peito de Frango Sadia Congelado 1kg",
+   "regiao_pct": {
+    "x": 68,
+    "y": 67,
+    "w": 24,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbJzQS-G14k_p3.jpg",
+   "nome_impresso": "Filé de Peito de Frango Sadia congelado BDJ 1kg",
+   "regiao_pct": {
+    "x": 92,
+    "y": 34,
+    "w": 8,
+    "h": 6
+   }
+  }
+ },
+ {
+  "k": "agua mineral ster bom sem gas 510ml || agua mineral sterbom s/gas 510ml",
+  "a": "Água Mineral Ster Bom sem Gás 510ml",
+  "b": "Água Mineral Sterbom s/Gás 510ml",
+  "foto_a": {
+   "imagem": "data/pages/Dad02bqBwn8_p1.jpg",
+   "nome_impresso": "Água Mineral Ster Bom sem Gás 510ml",
+   "regiao_pct": {
+    "x": 23,
+    "y": 54,
+    "w": 17,
+    "h": 13
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbI9SqcgJyX_p1.jpg",
+   "nome_impresso": "Água Mineral Sterbom s/Gás 510ml",
+   "regiao_pct": {
+    "x": 84,
+    "y": 87,
+    "w": 13,
+    "h": 9
+   }
+  }
+ },
+ {
+  "k": "achocolatado em po chocolatto 200g || achocolatado po chocolatto 200g",
+  "a": "Achocolatado Pó Chocolatto 200g",
+  "b": "Achocolatado em Pó Chocolatto 200g",
+  "foto_a": {
+   "imagem": "data/pages/Dai-VTgHzTC_p2.jpg",
+   "nome_impresso": "Achocolatado Pó Chocolatto 200g",
+   "regiao_pct": {
+    "x": 40,
+    "y": 50,
+    "w": 19,
+    "h": 15
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbI9SqcgJyX_p2.jpg",
+   "nome_impresso": "Achocolatado em Pó Chocolatto 200g",
+   "regiao_pct": {
+    "x": 6,
+    "y": 59,
+    "w": 15,
+    "h": 12
+   }
+  }
+ },
+ {
+  "k": "fralda descartavel babysec hiper shortinho || fraldas descartaveis babysec hiper shortinho",
+  "a": "Fraldas Descartáveis Babysec Hiper Shortinho",
+  "b": "Fralda Descartável Babysec Hiper Shortinho",
+  "foto_a": {
+   "imagem": "data/pages/story_miramarsupermercado_3946763031229216505.jpg",
+   "nome_impresso": "Fraldas Descartáveis Babysec Hiper Shortinho",
+   "regiao_pct": {
+    "x": 27,
+    "y": 33,
+    "w": 40,
+    "h": 25
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_miramarsupermercado_3947487786869270576.jpg",
+   "nome_impresso": "Fralda Descartável Babysec Hiper Shortinho",
+   "regiao_pct": {
+    "x": 5,
+    "y": 30,
+    "w": 45,
+    "h": 35
+   }
+  }
+ },
+ {
+  "k": "carne bovina coxao duro de sol || carne bovina coxao duro de sol kg",
+  "a": "Carne Bovina Coxão Duro de Sol",
+  "b": "Carne Bovina Coxão Duro de Sol Kg",
+  "foto_a": {
+   "imagem": "data/pages/Da1GFa3E1b6_p1.jpg",
+   "nome_impresso": "Carne Bovina Coxão Duro de Sol",
+   "regiao_pct": {
+    "x": 37,
+    "y": 32,
+    "w": 26,
+    "h": 18
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbJxN87mGF2_p2.jpg",
+   "nome_impresso": "Carne Bovina Coxão Duro de Sol Kg",
+   "regiao_pct": {
+    "x": 42,
+    "y": 37,
+    "w": 18,
+    "h": 6
+   }
+  }
+ },
+ {
+  "k": "farinha lactea nestle sache 600g || farinha lactea nestle sc 600g",
+  "a": "Farinha Láctea Nestlé Sachê 600g",
+  "b": "Farinha Lactea Nestle SC 600g",
+  "foto_a": {
+   "imagem": "data/pages/DbE_K9DDHaM_p2.jpg",
+   "nome_impresso": "Farinha Láctea Nestlé Sachê 600g",
+   "regiao_pct": {
+    "x": 40,
+    "y": 71,
+    "w": 14,
+    "h": 8
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbI9SqcgJyX_p2.jpg",
+   "nome_impresso": "Farinha Lactea Nestle SC 600g",
+   "regiao_pct": {
+    "x": 25,
+    "y": 43,
+    "w": 15,
+    "h": 12
+   }
+  }
+ },
+ {
+  "k": "file de peito de frango sadia congelado bdj 1kg || filezinho de peito de frango sadia congelado bdj 1kg",
+  "a": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+  "b": "Filé de Peito de Frango Sadia congelado BDJ 1kg",
+  "foto_a": {
+   "imagem": "data/pages/DaWTmSpm3kn_p5.jpg",
+   "nome_impresso": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+   "regiao_pct": {
+    "x": 6,
+    "y": 28,
+    "w": 91,
+    "h": 55
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbJzQS-G14k_p3.jpg",
+   "nome_impresso": "Filé de Peito de Frango Sadia congelado BDJ 1kg",
+   "regiao_pct": {
+    "x": 92,
+    "y": 34,
+    "w": 8,
+    "h": 6
+   }
+  }
+ },
+ {
+  "k": "bebida lactea clan sabores bandeja 540g || bebida lactea clan sabores bdj 540g",
+  "a": "Bebida Láctea Clan Sabores Bandeja 540g",
+  "b": "Bebida Láctea Clan sabores BDJ 540g",
+  "foto_a": {
+   "imagem": "data/pages/mv_julho_p3.jpg",
+   "nome_impresso": "Bebida Láctea Clan Sabores BDJ 540g",
+   "regiao_pct": {
+    "x": 1.5,
+    "y": 60.5,
+    "w": 19.0,
+    "h": 19.0
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbJzQS-G14k_p3.jpg",
+   "nome_impresso": "Bebida Láctea Clan sabores BDJ 540g",
+   "regiao_pct": {
+    "x": 14,
+    "y": 74,
+    "w": 10,
+    "h": 6
+   }
+  }
+ },
+ {
+  "k": "farinha lactea nestle 600g || farinha lactea nestle sc 600g",
+  "a": "Farinha Láctea Nestlé 600g",
+  "b": "Farinha Lactea Nestle SC 600g",
+  "foto_a": {
+   "imagem": "data/pages/DalUVkKleuL_p2.jpg",
+   "nome_impresso": "Farinha Láctea Nestlé 600g",
+   "regiao_pct": {
+    "x": 2.3,
+    "y": 42.6,
+    "w": 17.7,
+    "h": 11.6
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbI9SqcgJyX_p2.jpg",
+   "nome_impresso": "Farinha Lactea Nestle SC 600g",
+   "regiao_pct": {
+    "x": 25,
+    "y": 43,
+    "w": 15,
+    "h": 12
+   }
+  }
+ },
+ {
+  "k": "desodorante aerossol dove 150ml fragrancias || desodorante aerossol nivea 150ml fragrancias",
+  "a": "Desodorante Aerossol Dove 150ml Fragrancias",
+  "b": "Desodorante Aerossol Nivea 150ml Fragrâncias",
+  "foto_a": {
+   "imagem": "data/pages/DaliHBHltSl_p4.jpg",
+   "nome_impresso": "Desodorante Aerossol Dove 150ml Fragrancias",
+   "regiao_pct": {
+    "x": 42,
+    "y": 42,
+    "w": 18,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbI9SqcgJyX_p1.jpg",
+   "nome_impresso": "Desodorante Aerossol Nivea 150ml Fragrâncias",
+   "regiao_pct": {
+    "x": 60,
+    "y": 56,
+    "w": 14,
+    "h": 12
+   }
+  }
+ },
+ {
+  "k": "capa de file bovina resfriada a vacuo ou congelada || capa de file bovina resfriada a vacuo/congelada kg",
+  "a": "Capa de Filé Bovina Resfriada a Vácuo/Congelada kg",
+  "b": "Capa de Filé Bovina resfriada a vácuo ou congelada",
+  "foto_a": {
+   "imagem": "data/pages/mv_julho_p2.jpg",
+   "nome_impresso": "Capa de Filé Bovina Resfriada a Vácuo ou Congelada KG",
+   "regiao_pct": {
+    "x": 74.8,
+    "y": 1.0,
+    "w": 24.0,
+    "h": 19.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbJzQS-G14k_p2.jpg",
+   "nome_impresso": "Capa de Filé Bovina resfriada a vácuo ou congelada",
+   "regiao_pct": {
+    "x": 45,
+    "y": 38,
+    "w": 12,
+    "h": 6
+   }
+  }
+ }
+]

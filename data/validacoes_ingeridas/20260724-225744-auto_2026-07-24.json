@@ -1,0 +1,304 @@
+{
+ "validacoes": [
+  {
+   "a": "Desodorante Aerosol Nivea 150ml Fragrâncias",
+   "b": "Desodorante Aerossol Nivea 150ml Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Suco Dell Valle KAPO 200ml Sabores",
+   "b": "Suco Del Valle Kapo 200ml Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Frita Lays Sabores 62g",
+   "b": "Batata Frita Lay's Sabores 62g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Branco Grande Avine C/20 Bandeja",
+   "b": "Ovo Branco Grande Avine C/30 (Bandeja)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Whisky Old Parr 1L",
+   "b": "Whisk Old Parr 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado Super Frango KG",
+   "b": "Filé de Peito de Frango Congelado Super Frango",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Natville Semidesnatado 395g",
+   "b": "Leite Condensado Natville Semidesnatado TP 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxão Mole Bovino Resfriado peça ou pedaço kg",
+   "b": "Coxão Mole Bovino resfriado peça ou pedaço",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11",
+   "b": "Papel Higiênico Personal Folha Dupla Leve 12 Pague 11",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Floral Folha Dupla com 12 Und 20 Metros",
+   "b": "PAPEL HIGIÊNICO FLORAL F/ DUPLA COM 12 UND 20 METROS",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Heineken Lata 350ml",
+   "b": "Cerveja Heineken LT 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Parmesão La Paulina Peça/Pedaço",
+   "b": "Queijo Parmesão La Paulina peça ou pedaço",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chocolate Snickers 42g/45g Sabores",
+   "b": "Chocolate Snickers 42g ou 45g (sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Mole Resfriado Kg",
+   "b": "CARNE BOVINA COXÃO MOLE RESFRIADO",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "iogurte isis 150g natural/laranja, cenoura e mel",
+   "b": "iogurte isis 150g natural/laranja, ceura &amp; mel",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Sadia Congelado 1kg",
+   "b": "Filé de Peito de Frango Sadia congelado BDJ 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Mineral Ster Bom sem Gás 510ml",
+   "b": "Água Mineral Sterbom s/Gás 510ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado Pó Chocolatto 200g",
+   "b": "Achocolatado em Pó Chocolatto 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fraldas Descartáveis Babysec Hiper Shortinho",
+   "b": "Fralda Descartável Babysec Hiper Shortinho",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Duro de Sol",
+   "b": "Carne Bovina Coxão Duro de Sol Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha Láctea Nestlé Sachê 600g",
+   "b": "Farinha Lactea Nestle SC 600g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+   "b": "Filé de Peito de Frango Sadia congelado BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Láctea Clan Sabores Bandeja 540g",
+   "b": "Bebida Láctea Clan sabores BDJ 540g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha Láctea Nestlé 600g",
+   "b": "Farinha Lactea Nestle SC 600g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerossol Dove 150ml Fragrancias",
+   "b": "Desodorante Aerossol Nivea 150ml Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Capa de Filé Bovina Resfriada a Vácuo/Congelada kg",
+   "b": "Capa de Filé Bovina resfriada a vácuo ou congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Ponta de Agulha kg",
+   "b": "Costela Ponta de Agulha",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit 1 Coca-Cola + 1 Fanta Laranja 2L",
+   "b": "Kit Coca-Cola + Fanta Laranja 2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
+   "b": "Filé de Peito de Frango Sadia congelado BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite em Pó Ninho SC 750g",
+   "b": "LEITE EM PO NINHO 750G",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Lar Congelado Bdj 1kg",
+   "b": "Filé de Peito de Frango Sadia congelado BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sobrepaleta Suína LAR Kg",
+   "b": "Sobrepaleta Suína Lar",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ling Frango Aurora Kg",
+   "b": "Ling de Frango Aurora kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Devassa 350ml",
+   "b": "Cerveja Devassa LT 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha da Asa de Frango LAR Resfriada kg",
+   "b": "Coxinha da Asa de Frango Jaguá Resfriada kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+   "b": "Filé de Peito de Frango Sadia congelado BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bombom Sortido Garoto 220g",
+   "b": "Bombons Sortidos Garoto 220g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Multiuso Veja 500ml Fragrancias",
+   "b": "Limpador Multiuso Urca 500ml Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça de Frango Aurora kg",
+   "b": "Ling de Frango Aurora kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Perfumado URCA 1L Fragrâncias",
+   "b": "Limpador Perfumado Veja 1L Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Suco de Uva Integral OQ gfa 1,5L",
+   "b": "Suco de Uva Integral OQ VD 1,5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Lar 700g",
+   "b": "Ling de Frango Lar 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerosol Above 150ml (fragrâncias)",
+   "b": "Desodorante Aerossol Nivea 150ml Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Sadia Congelado pct ou bd 1kg",
+   "b": "Filé de Peito de Frango Sadia congelado BDJ 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Almôndegas Mista Chuletão 1Kg",
+   "b": "Almondega Mista Chuletao Pct 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cachaça Extrema Prata/Ouro 500ml",
+   "b": "Cachaça Extrema Prata 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Wafer Vitarella 80g Sabores",
+   "b": "Biscoito Wafer Estrela 80g (sabores)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca Kume 1kg",
+   "b": "Feijão Carioca Duzé 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça Aurora Churrasco ou Frango kg",
+   "b": "Linguiça Aurora (Churrasco/Frango)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Kume 1kg",
+   "b": "Feijão Carioca Kero 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Goma para Tapioca Ouro Fino 1kg",
+   "b": "GOMA TAPIOCA OURO FINO 1KG",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ling. Calabresa Chuletão kg",
+   "b": "Linguiça Calabresa Chuletao kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxas com Sobrecoxas de Frango Congelado Bom Todo Bandeja 1Kg",
+   "b": "Coxas com Sobrecoxas de Frango Bom Todo Bandeja 1Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerosol Rexona 150ml Fragrâncias",
+   "b": "Desodorante Aerossol Nivea 150ml Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne bovina coxão mole de sol kg",
+   "b": "Carne Bovina Coxão Duro de Sol Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça Calabresa Lebon Kg",
+   "b": "Linguiça Calabresa Tony kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango LAR 1kg",
+   "b": "Filé de Peito de Frango Sadia 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sardinha Cabo Verde 125g",
+   "b": "Sardinha Óleo Cabo Verde 125g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango Mauricéa Congelado",
+   "b": "Peito de Frango Real congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Parboilizado Fazenda Tipo 1 1kg",
+   "b": "Arroz Parboilizado Laguna Tipo 1 1kg",
+   "veredito": "diferente"
+  }
+ ]
+}
