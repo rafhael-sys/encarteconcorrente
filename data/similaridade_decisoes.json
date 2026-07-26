@@ -6479,5 +6479,393 @@
   "b": "Arroz Parboilizado Laguna Tipo 1 1kg",
   "veredito": "diferente",
   "quando": "2026-07-24"
+ },
+ "mingau cremogema tradicional leve180g pague 130g || mingau cremogema tradicional leve180g pague130g": {
+  "a": "Mingau Cremogema Tradicional Leve180g Pague130g",
+  "b": "Mingau Cremogema Tradicional Leve180g Pague 130g",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "massa fresca rap 10 || massa fresca rap10": {
+  "a": "Massa Fresca Rap10",
+  "b": "Massa Fresca Rap 10",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "filezinho sassami lar envelopado kg || filezinho sassomi lar envelopado kg": {
+  "a": "Filezinho Sassomi Lar Envelopado kg",
+  "b": "Filezinho Sassami Lar Envelopado kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "coxas e sobrecoxas de frango congeladas friato kg || coxas e sobrecoxas de frango congelado friato kg": {
+  "a": "Coxas e Sobrecoxas de Frango Congeladas Friato KG",
+  "b": "Coxas e Sobrecoxas de Frango Congelado Friato kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "contrafile bovino resfriado a vacuo masterboi || contrafile bovino resfriado a vacuo masterboi kg": {
+  "a": "Contrafilé Bovino Resfriado a Vácuo Masterboi",
+  "b": "Contrafilé Bovino Resfriado a Vácuo Masterboi kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "cupim bovino congelado a vacuo masterboi || cupim bovino congelado a vacuo masterboi kg": {
+  "a": "Cupim Bovino Congelado a Vácuo Masterboi",
+  "b": "Cupim Bovino Congelado a Vácuo Masterboi kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "sorvete kibon cremosissimo sabores 1,5l || sorvete kibon cremosissimo sabores pt 1,5l": {
+  "a": "Sorvete Kibon Cremosíssimo sabores 1,5L",
+  "b": "Sorvete Kibon Cremosíssimo Sabores PT 1,5L",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "presunto de peru seara peca ou fatiado || presunto de peru seara peca ou fatiado kg": {
+  "a": "Presunto de Peru Seara peça ou fatiado kg",
+  "b": "Presunto de Peru Seara Peça ou Fatiado",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "morango peterfrut congelado 1,02kg || morango peterfrut congelado pc 1,02kg": {
+  "a": "Morango Peterfrut Congelado 1,02kg",
+  "b": "Morango Peterfrut Congelado PC 1,02kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "iogurte isis 150g natural/laranja, cenoura e mel || iogurte isis 150g natural/laranja, ceura & mel": {
+  "a": "Iogurte Isis 150g Natural/Laranja, Cenoura e Mel",
+  "b": "Iogurte Isis 150g Natural/Laranja, Ceura & Mel",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "carne bovina coxao duro friboi porcionada resfriada || carne bovina coxao mole friboi porcionada resfriada": {
+  "a": "Carne Bovina Coxão Mole Friboi Porcionada Resfriada",
+  "b": "Carne Bovina Coxão Duro Friboi Porcionada Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "filezinho de peito de frango perdigao congelado bdj 1kg || filezinho de peito de frango sadia congelado bdj 1kg": {
+  "a": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+  "b": "Filezinho de Peito de Frango Perdigão Congelado BDJ 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "camarao inteiro tamanho 50/60 camanor congelado kg || camarao inteiro tamanho 60/70 camanor congelado": {
+  "a": "Camarão Inteiro Tamanho 50/60 Camanor Congelado KG",
+  "b": "Camarão Inteiro Tamanho 60/70 Camanor Congelado",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "macarrao tipo ninho estrela pacote 400g || macarrao tipo ninho vitarella pacote 400g": {
+  "a": "Macarrão Tipo Ninho Vitarella Pacote 400g",
+  "b": "Macarrão Tipo Ninho Estrela pacote 400g",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "bebida energetica bally sabores lata 473ml || bebida energetica baly sabores 473ml": {
+  "a": "Bebida Energética Baly Sabores 473ml",
+  "b": "Bebida Energética Bally Sabores lata 473ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "carvao vegetal jucurutu pct 5kg || carvao vegetal jucurutu saco 5kg": {
+  "a": "Carvão Vegetal Jucurutu pct 5kg",
+  "b": "Carvão Vegetal Jucurutu saco 5kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "whisky johnnie walker blue label || whisky johnnie walker red label": {
+  "a": "Whisky Johnnie Walker Blue Label",
+  "b": "Whisky Johnnie Walker Red Label",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "whisky johnnie walker gold label || whisky johnnie walker red label": {
+  "a": "Whisky Johnnie Walker Gold Label",
+  "b": "Whisky Johnnie Walker Red Label",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "maracuja tropical || maracuja tropical kg": {
+  "a": "Maracujá Tropical kg",
+  "b": "Maracujá Tropical",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "absorvente noturno always || absorvente noturno lady": {
+  "a": "Absorvente Noturno Lady",
+  "b": "Absorvente Noturno Always",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "carne bovina lagarto friboi porcionada resfriada || carne bovina patinho friboi porcionada resfriada": {
+  "a": "Carne Bovina Lagarto Friboi Porcionada Resfriada",
+  "b": "Carne Bovina Patinho Friboi Porcionada Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "file de peito de frango congelado friato kg || file de peito de frango congelado lar kg": {
+  "a": "Filé de Peito de Frango Congelado Lar KG",
+  "b": "Filé de Peito de Frango Congelado Friato kg",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "iog isis 900g sabores || iogurte isis 900g sabores": {
+  "a": "Iogurte Isis 900g Sabores",
+  "b": "Iog Isis 900g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "coxas e sobrecoxas de frango guibon com dorsal cong. || coxas e sobrecoxas de frango guibon dorsal congelado": {
+  "a": "Coxas e Sobrecoxas de Frango Guibon Dorsal Congelado",
+  "b": "COXAS E SOBRECOXAS DE FRANGO GUIBON COM DORSAL CONG.",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "peito de frango friato congelado || peito de frango real congelado": {
+  "a": "Peito de Frango Real congelado",
+  "b": "Peito de Frango Friato Congelado",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "cerveja malzbeer brahma gf 355ml || cerveja malzebier brahma 355ml": {
+  "a": "Cerveja Malzbeer Brahma GF 355ml",
+  "b": "Cerveja Malzebier Brahma 355ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "limpador multiuso becker 500ml (fragrancias) || limpador multiuso urca 500ml fragrancias": {
+  "a": "Limpador Multiuso Becker 500ml (Fragrancias)",
+  "b": "Limpador Multiuso Urca 500ml Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "bebida energetica bally sabores lata 473ml || bebida energetica tnt sabores lata 473ml": {
+  "a": "Bebida Energética TNT Sabores Lata 473ml",
+  "b": "Bebida Energética Bally Sabores lata 473ml",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "cerveja bohemia lata 350ml || cerveja brahma lata 350ml": {
+  "a": "Cerveja Bohemia Lata 350ml",
+  "b": "Cerveja Brahma Lata 350ml",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "catchup tambau 100% nordestino tradicional ou picante pet 830g || catchup tambau 100% nordestino tradicional pet 830g": {
+  "a": "Catchup Tambaú 100% Nordestino Tradicional ou Picante Pet 830g",
+  "b": "Catchup Tambaú 100% Nordestino Tradicional PET 830g",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "peito de frango kg || peito de frango lar kg": {
+  "a": "Peito de Frango Lar kg",
+  "b": "Peito de Frango Kg",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "empanado de frango lar 100g || empanado de frango steak lar 100g": {
+  "a": "Empanado de Frango Lar 100g",
+  "b": "Empanado de Frango Steak Lar 100g",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "coracao de frango resfriado || coracao de frango resfriado natto": {
+  "a": "Coração de Frango Resfriado",
+  "b": "Coração de Frango Resfriado Natto",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "lava-roupas liquido ola tb 1 litro || lava-roupas liquido omo tb 3 litros": {
+  "a": "Lava-roupas Líquido Ola Tb 1 Litro",
+  "b": "Lava-roupas Líquido Omo tb 3 litros",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "flocao de milho nordestino 500g || flocao de milho nordestino pacote 500g": {
+  "a": "Flocão de Milho Nordestino Pacote 500g",
+  "b": "Flocão de Milho Nordestino 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "mortadela mista friato kg || mortadela mista natto kg": {
+  "a": "Mortadela Mista Natto Kg",
+  "b": "MORTADELA MISTA FRIATO KG",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "mocoto bovino serrado cong. || mocoto bovino serrado congelado": {
+  "a": "Mocotó Bovino Serrado Congelado",
+  "b": "Mocotó Bovino Serrado Cong.",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "limpador perfumado uau fr 1l fragrancias || limpador perfumado veja 1l fragrancias": {
+  "a": "Limpador Perfumado UAU FR 1L Fragrâncias",
+  "b": "Limpador Perfumado Veja 1L Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "figado de frango lar iqf 700g || figado de frango lar pct 700g": {
+  "a": "Figado de Frango Lar IQF 700g",
+  "b": "Fígado de Frango Lar Pct 700g",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "mamao formosa || mamao formosa kg": {
+  "a": "Mamão Formosa",
+  "b": "Mamão Formosa kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "batata lavada || batata lavada kg": {
+  "a": "Batata Lavada",
+  "b": "Batata Lavada kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "ricota cremosa regina 200g || ricota cremosa regina light 200g": {
+  "a": "Ricota Cremosa Regina 200g",
+  "b": "Ricota Cremosa Regina Light 200g",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "cafe santa clara almofada pct 250g extraforte || cafe sao braz almofada pct 250g extraforte": {
+  "a": "Café Santa Clara Almofada Pct 250g Extraforte",
+  "b": "CAFÉ SÃO BRAZ ALMOFADA PCT 250G EXTRAFORTE",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "melao amarelo || melao amarelo kg": {
+  "a": "Melão Amarelo",
+  "b": "Melão Amarelo kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "batata frita ruffles 33g (sabores) || batata ruffles 33g sabores": {
+  "a": "Batata Ruffles 33g Sabores",
+  "b": "Batata Frita Ruffles 33g (sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "fralda personal baby jumbo || fralda personal baby pants jumbo": {
+  "a": "Fralda Personal Baby Jumbo",
+  "b": "Fralda Personal Baby Pants Jumbo",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "lasanha congelada seara sabores caixeta 600g || lasanha congelada seara sabores pacote 600g": {
+  "a": "Lasanha Congelada Seara Sabores Caixeta 600g",
+  "b": "Lasanha Congelada Seara Sabores pacote 600g",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "queijo minas padrao regina || queijo minas padrao regina light": {
+  "a": "Queijo Minas Padrao Regina Light",
+  "b": "Queijo Minas Padrao Regina",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "repolho verde kg || repolho-verde": {
+  "a": "Repolho-Verde",
+  "b": "Repolho Verde kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "salsicha hot dog perdigao resfriada || salsicha hot dog sadia resfriada": {
+  "a": "Salsicha Hot Dog Perdigão Resfriada",
+  "b": "Salsicha Hot Dog Sadia Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "papel higienico noble f/d 20m c/12 || papel higienico noble folha dupla 20m c/12": {
+  "a": "Papel Higienico Noble Folha Dupla 20m c/12",
+  "b": "Papel Higiênico Noble F/D 20m c/12",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "frango a passarinho temp bom todo 1kg || frango passarinho temp iqf bon todo 1kg": {
+  "a": "Frango Passarinho Temp IQF Bon Todo 1kg",
+  "b": "Frango a Passarinho Temp Bom Todo 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "queijo mussarela carinho resfriado || queijo mussarela carinho resfriado fatiado": {
+  "a": "Queijo Mussarela Carinho Resfriado",
+  "b": "Queijo Mussarela Carinho Resfriado Fatiado",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "feijao carioca dubom 1kg || feijao carioca duze 1kg": {
+  "a": "Feijão Carioca DuBom 1kg",
+  "b": "Feijão Carioca Duzé 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "sobrecoxas de frango bom todo cong. bdj 1kg || sobrecoxas de frango bom todo congelado bandeja 1kg": {
+  "a": "Sobrecoxas de Frango Bom Todo Congelado Bandeja 1kg",
+  "b": "Sobrecoxas de Frango Bom Todo Cong. BDJ 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "cerveja brahma chopp lata 350ml || cerveja brahma lata 350ml": {
+  "a": "Cerveja Brahma Chopp Lata 350ml",
+  "b": "Cerveja Brahma Lata 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "file de peito de frango sadia 1kg || file de peito de frango sadia bandeja 1kg": {
+  "a": "Filé de Peito de Frango Sadia Bandeja 1kg",
+  "b": "Filé de Peito de Frango Sadia 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
+ },
+ "file de peito de frango congelado friato kg || file de peito de frango congelado super frango kg": {
+  "a": "Filé de Peito de Frango Congelado Super Frango KG",
+  "b": "Filé de Peito de Frango Congelado Friato kg",
+  "veredito": "diferente",
+  "quando": "2026-07-25"
+ },
+ "pera d'anjou || pera d'anjou kg": {
+  "a": "Pera D'anjou",
+  "b": "Pera D'Anjou kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-25",
+  "aplicado": true
  }
 }

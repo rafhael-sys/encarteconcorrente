@@ -970,3 +970,62 @@
 - MESMO: «Suco de Uva Integral OQ gfa 1,5L» == «Suco de Uva Integral OQ VD 1,5L»
 - MESMO: «Suco Dell Valle KAPO 200ml Sabores» == «Suco Del Valle Kapo 200ml Sabores»
 - MESMO: «Whisky Old Parr 1L» == «Whisk Old Parr 1L»
+- DIFERENTES: «Absorvente Noturno Lady» != «Absorvente Noturno Always»
+- MESMO: «Batata Ruffles 33g Sabores» == «Batata Frita Ruffles 33g (sabores)»
+- MESMO: «Batata Lavada» == «Batata Lavada kg»
+- MESMO: «Bebida Energética Baly Sabores 473ml» == «Bebida Energética Bally Sabores lata 473ml»
+- DIFERENTES: «Bebida Energética TNT Sabores Lata 473ml» != «Bebida Energética Bally Sabores lata 473ml»
+- DIFERENTES: «Café Santa Clara Almofada Pct 250g Extraforte» != «CAFÉ SÃO BRAZ ALMOFADA PCT 250G EXTRAFORTE»
+- DIFERENTES: «Camarão Inteiro Tamanho 50/60 Camanor Congelado KG» != «Camarão Inteiro Tamanho 60/70 Camanor Congelado»
+- DIFERENTES: «Carne Bovina Coxão Mole Friboi Porcionada Resfriada» != «Carne Bovina Coxão Duro Friboi Porcionada Resfriada»
+- DIFERENTES: «Carne Bovina Lagarto Friboi Porcionada Resfriada» != «Carne Bovina Patinho Friboi Porcionada Resfriada»
+- MESMO: «Carvão Vegetal Jucurutu pct 5kg» == «Carvão Vegetal Jucurutu saco 5kg»
+- MESMO: «Catchup Tambaú 100% Nordestino Tradicional ou Picante Pet 830g» == «Catchup Tambaú 100% Nordestino Tradicional PET 830g»
+- DIFERENTES: «Cerveja Bohemia Lata 350ml» != «Cerveja Brahma Lata 350ml»
+- MESMO: «Cerveja Brahma Chopp Lata 350ml» == «Cerveja Brahma Lata 350ml»
+- MESMO: «Cerveja Malzbeer Brahma GF 355ml» == «Cerveja Malzebier Brahma 355ml»
+- MESMO: «Contrafilé Bovino Resfriado a Vácuo Masterboi» == «Contrafilé Bovino Resfriado a Vácuo Masterboi kg»
+- DIFERENTES: «Coração de Frango Resfriado» != «Coração de Frango Resfriado Natto»
+- MESMO: «Coxas e Sobrecoxas de Frango Congeladas Friato KG» == «Coxas e Sobrecoxas de Frango Congelado Friato kg»
+- MESMO: «Coxas e Sobrecoxas de Frango Guibon Dorsal Congelado» == «COXAS E SOBRECOXAS DE FRANGO GUIBON COM DORSAL CONG.»
+- MESMO: «Cupim Bovino Congelado a Vácuo Masterboi» == «Cupim Bovino Congelado a Vácuo Masterboi kg»
+- MESMO: «Empanado de Frango Lar 100g» == «Empanado de Frango Steak Lar 100g»
+- DIFERENTES: «Feijão Carioca DuBom 1kg» != «Feijão Carioca Duzé 1kg»
+- MESMO: «Figado de Frango Lar IQF 700g» == «Fígado de Frango Lar Pct 700g»
+- DIFERENTES: «Filé de Peito de Frango Congelado Lar KG» != «Filé de Peito de Frango Congelado Friato kg»
+- DIFERENTES: «Filé de Peito de Frango Congelado Super Frango KG» != «Filé de Peito de Frango Congelado Friato kg»
+- MESMO: «Filé de Peito de Frango Sadia Bandeja 1kg» == «Filé de Peito de Frango Sadia 1kg»
+- DIFERENTES: «Filezinho de Peito de Frango Sadia Congelado BDJ 1kg» != «Filezinho de Peito de Frango Perdigão Congelado BDJ 1kg»
+- MESMO: «Filezinho Sassomi Lar Envelopado kg» == «Filezinho Sassami Lar Envelopado kg»
+- MESMO: «Flocão de Milho Nordestino Pacote 500g» == «Flocão de Milho Nordestino 500g»
+- MESMO: «Fralda Personal Baby Jumbo» == «Fralda Personal Baby Pants Jumbo»
+- MESMO: «Frango Passarinho Temp IQF Bon Todo 1kg» == «Frango a Passarinho Temp Bom Todo 1kg»
+- MESMO: «Iogurte Isis 900g Sabores» == «Iog Isis 900g Sabores»
+- MESMO: «Iogurte Isis 150g Natural/Laranja, Cenoura e Mel» == «Iogurte Isis 150g Natural/Laranja, Ceura & Mel»
+- MESMO: «Lasanha Congelada Seara Sabores Caixeta 600g» == «Lasanha Congelada Seara Sabores pacote 600g»
+- DIFERENTES: «Lava-roupas Líquido Ola Tb 1 Litro» != «Lava-roupas Líquido Omo tb 3 litros»
+- DIFERENTES: «Limpador Multiuso Becker 500ml (Fragrancias)» != «Limpador Multiuso Urca 500ml Fragrâncias»
+- DIFERENTES: «Limpador Perfumado UAU FR 1L Fragrâncias» != «Limpador Perfumado Veja 1L Fragrâncias»
+- DIFERENTES: «Macarrão Tipo Ninho Vitarella Pacote 400g» != «Macarrão Tipo Ninho Estrela pacote 400g»
+- MESMO: «Mamão Formosa» == «Mamão Formosa kg»
+- MESMO: «Maracujá Tropical kg» == «Maracujá Tropical»
+- MESMO: «Massa Fresca Rap10» == «Massa Fresca Rap 10»
+- MESMO: «Melão Amarelo» == «Melão Amarelo kg»
+- MESMO: «Mingau Cremogema Tradicional Leve180g Pague130g» == «Mingau Cremogema Tradicional Leve180g Pague 130g»
+- MESMO: «Mocotó Bovino Serrado Congelado» == «Mocotó Bovino Serrado Cong.»
+- MESMO: «Morango Peterfrut Congelado 1,02kg» == «Morango Peterfrut Congelado PC 1,02kg»
+- DIFERENTES: «Mortadela Mista Natto Kg» != «MORTADELA MISTA FRIATO KG»
+- MESMO: «Papel Higienico Noble Folha Dupla 20m c/12» == «Papel Higiênico Noble F/D 20m c/12»
+- DIFERENTES: «Peito de Frango Real congelado» != «Peito de Frango Friato Congelado»
+- DIFERENTES: «Peito de Frango Lar kg» != «Peito de Frango Kg»
+- MESMO: «Pera D'anjou» == «Pera D'Anjou kg»
+- MESMO: «Presunto de Peru Seara peça ou fatiado kg» == «Presunto de Peru Seara Peça ou Fatiado»
+- DIFERENTES: «Queijo Minas Padrao Regina Light» != «Queijo Minas Padrao Regina»
+- DIFERENTES: «Queijo Mussarela Carinho Resfriado» != «Queijo Mussarela Carinho Resfriado Fatiado»
+- MESMO: «Repolho-Verde» == «Repolho Verde kg»
+- DIFERENTES: «Ricota Cremosa Regina 200g» != «Ricota Cremosa Regina Light 200g»
+- DIFERENTES: «Salsicha Hot Dog Perdigão Resfriada» != «Salsicha Hot Dog Sadia Resfriada»
+- MESMO: «Sobrecoxas de Frango Bom Todo Congelado Bandeja 1kg» == «Sobrecoxas de Frango Bom Todo Cong. BDJ 1kg»
+- MESMO: «Sorvete Kibon Cremosíssimo sabores 1,5L» == «Sorvete Kibon Cremosíssimo Sabores PT 1,5L»
+- DIFERENTES: «Whisky Johnnie Walker Blue Label» != «Whisky Johnnie Walker Red Label»
+- DIFERENTES: «Whisky Johnnie Walker Gold Label» != «Whisky Johnnie Walker Red Label»

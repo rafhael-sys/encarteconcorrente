@@ -1,0 +1,299 @@
+{
+ "validacoes": [
+  {
+   "a": "Mingau Cremogema Tradicional Leve180g Pague130g",
+   "b": "Mingau Cremogema Tradicional Leve180g Pague 130g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Massa Fresca Rap10",
+   "b": "Massa Fresca Rap 10",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho Sassomi Lar Envelopado kg",
+   "b": "Filezinho Sassami Lar Envelopado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxas e Sobrecoxas de Frango Congeladas Friato KG",
+   "b": "Coxas e Sobrecoxas de Frango Congelado Friato kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Contrafilé Bovino Resfriado a Vácuo Masterboi",
+   "b": "Contrafilé Bovino Resfriado a Vácuo Masterboi kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cupim Bovino Congelado a Vácuo Masterboi",
+   "b": "Cupim Bovino Congelado a Vácuo Masterboi kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sorvete Kibon Cremosíssimo sabores 1,5L",
+   "b": "Sorvete Kibon Cremosíssimo Sabores PT 1,5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Presunto de Peru Seara peça ou fatiado kg",
+   "b": "Presunto de Peru Seara Peça ou Fatiado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Morango Peterfrut Congelado 1,02kg",
+   "b": "Morango Peterfrut Congelado PC 1,02kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Iogurte Isis 150g Natural/Laranja, Cenoura e Mel",
+   "b": "Iogurte Isis 150g Natural/Laranja, Ceura & Mel",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Mole Friboi Porcionada Resfriada",
+   "b": "Carne Bovina Coxão Duro Friboi Porcionada Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+   "b": "Filezinho de Peito de Frango Perdigão Congelado BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Camarão Inteiro Tamanho 50/60 Camanor Congelado KG",
+   "b": "Camarão Inteiro Tamanho 60/70 Camanor Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Macarrão Tipo Ninho Vitarella Pacote 400g",
+   "b": "Macarrão Tipo Ninho Estrela pacote 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Energética Baly Sabores 473ml",
+   "b": "Bebida Energética Bally Sabores lata 473ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carvão Vegetal Jucurutu pct 5kg",
+   "b": "Carvão Vegetal Jucurutu saco 5kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Whisky Johnnie Walker Blue Label",
+   "b": "Whisky Johnnie Walker Red Label",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Whisky Johnnie Walker Gold Label",
+   "b": "Whisky Johnnie Walker Red Label",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Maracujá Tropical kg",
+   "b": "Maracujá Tropical",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Noturno Lady",
+   "b": "Absorvente Noturno Always",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Lagarto Friboi Porcionada Resfriada",
+   "b": "Carne Bovina Patinho Friboi Porcionada Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado Lar KG",
+   "b": "Filé de Peito de Frango Congelado Friato kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Iogurte Isis 900g Sabores",
+   "b": "Iog Isis 900g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxas e Sobrecoxas de Frango Guibon Dorsal Congelado",
+   "b": "COXAS E SOBRECOXAS DE FRANGO GUIBON COM DORSAL CONG.",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango Real congelado",
+   "b": "Peito de Frango Friato Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Malzbeer Brahma GF 355ml",
+   "b": "Cerveja Malzebier Brahma 355ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Multiuso Becker 500ml (Fragrancias)",
+   "b": "Limpador Multiuso Urca 500ml Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Energética TNT Sabores Lata 473ml",
+   "b": "Bebida Energética Bally Sabores lata 473ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Bohemia Lata 350ml",
+   "b": "Cerveja Brahma Lata 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Catchup Tambaú 100% Nordestino Tradicional ou Picante Pet 830g",
+   "b": "Catchup Tambaú 100% Nordestino Tradicional PET 830g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango Lar kg",
+   "b": "Peito de Frango Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Empanado de Frango Lar 100g",
+   "b": "Empanado de Frango Steak Lar 100g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coração de Frango Resfriado",
+   "b": "Coração de Frango Resfriado Natto",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava-roupas Líquido Ola Tb 1 Litro",
+   "b": "Lava-roupas Líquido Omo tb 3 litros",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Flocão de Milho Nordestino Pacote 500g",
+   "b": "Flocão de Milho Nordestino 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mortadela Mista Natto Kg",
+   "b": "MORTADELA MISTA FRIATO KG",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mocotó Bovino Serrado Congelado",
+   "b": "Mocotó Bovino Serrado Cong.",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Perfumado UAU FR 1L Fragrâncias",
+   "b": "Limpador Perfumado Veja 1L Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Figado de Frango Lar IQF 700g",
+   "b": "Fígado de Frango Lar Pct 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mamão Formosa",
+   "b": "Mamão Formosa kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Lavada",
+   "b": "Batata Lavada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ricota Cremosa Regina 200g",
+   "b": "Ricota Cremosa Regina Light 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café Santa Clara Almofada Pct 250g Extraforte",
+   "b": "CAFÉ SÃO BRAZ ALMOFADA PCT 250G EXTRAFORTE",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Melão Amarelo",
+   "b": "Melão Amarelo kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Ruffles 33g Sabores",
+   "b": "Batata Frita Ruffles 33g (sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Personal Baby Jumbo",
+   "b": "Fralda Personal Baby Pants Jumbo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lasanha Congelada Seara Sabores Caixeta 600g",
+   "b": "Lasanha Congelada Seara Sabores pacote 600g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Minas Padrao Regina Light",
+   "b": "Queijo Minas Padrao Regina",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Repolho-Verde",
+   "b": "Repolho Verde kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog Perdigão Resfriada",
+   "b": "Salsicha Hot Dog Sadia Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higienico Noble Folha Dupla 20m c/12",
+   "b": "Papel Higiênico Noble F/D 20m c/12",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango Passarinho Temp IQF Bon Todo 1kg",
+   "b": "Frango a Passarinho Temp Bom Todo 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Carinho Resfriado",
+   "b": "Queijo Mussarela Carinho Resfriado Fatiado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca DuBom 1kg",
+   "b": "Feijão Carioca Duzé 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sobrecoxas de Frango Bom Todo Congelado Bandeja 1kg",
+   "b": "Sobrecoxas de Frango Bom Todo Cong. BDJ 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Brahma Chopp Lata 350ml",
+   "b": "Cerveja Brahma Lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Sadia Bandeja 1kg",
+   "b": "Filé de Peito de Frango Sadia 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado Super Frango KG",
+   "b": "Filé de Peito de Frango Congelado Friato kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pera D'anjou",
+   "b": "Pera D'Anjou kg",
+   "veredito": "mesmo"
+  }
+ ]
+}
