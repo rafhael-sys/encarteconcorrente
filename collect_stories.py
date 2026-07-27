@@ -17,7 +17,10 @@ Uso:
                               em paralelo com a coleta de feed
 """
 import json, os, sys, time, random, datetime
-import collect  # reusa: fetch_profile (anônimo, p/ pegar o user_id), download, helpers, UA/APP_ID/COOKIE
+import collect  # reusa: download, helpers, UA/APP_ID/COOKIE
+import collect_feed  # get_user_id: cache ig_user_ids.json + raspagem do HTML (contorna o bug do web_profile_info)
+
+UIDS_PATH = os.path.join(collect.DATA, 'ig_user_ids.json')
 
 BASE, DATA, PAGES = collect.BASE, collect.DATA, collect.PAGES
 UA, APP_ID, COOKIE = collect.UA, collect.APP_ID, collect.COOKIE
@@ -60,6 +63,7 @@ def main():
     seen   = set(collect.load_json(os.path.join(DATA, 'posts_vistos.json'), []))
     fila   = collect.load_json(os.path.join(DATA, 'fila_novos.json'), [])
     status = collect.load_json(os.path.join(DATA, 'coleta_status.json'), {})
+    uid_cache = collect.load_json(UIDS_PATH, {})  # username -> user_id (compartilhado com collect_feed)
     hoje  = datetime.date.today().isoformat()
     agora = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
     novos = 0
@@ -76,7 +80,11 @@ def main():
     for p in ordem:
         user, fonte = p['username'], p.get('banner', p['username'])
         try:
-            uid = collect.fetch_profile(user)['id']   # anônimo, só p/ o id
+            # user_id pelo cache/HTML (contorna o bug do web_profile_info que
+            # derrubava os stories, ex.: Queiroz). O cache é o mesmo do collect_feed.
+            uid = collect_feed.get_user_id(user, uid_cache)
+            if not uid:
+                raise ValueError('user_id não encontrado (cache nem HTML)')
             d = fetch_story(uid)
         except Exception as e:
             print(f'[erro] story {user}: {e}', file=sys.stderr)
@@ -130,6 +138,7 @@ def main():
         collect.save_json(os.path.join(DATA, 'posts_vistos.json'), sorted(seen))
         collect.save_json(os.path.join(DATA, 'fila_novos.json'), fila)
         collect.save_json(os.path.join(DATA, 'coleta_status.json'), status)
+        collect.save_json(UIDS_PATH, uid_cache)  # persiste user_id novos raspados do HTML
 
     modo = 'DRY (nada gravado)' if dry else 'gravado'
     print(f'\n{novos} frame(s) de story novos ({com_story} perfis com story) — {modo}')
