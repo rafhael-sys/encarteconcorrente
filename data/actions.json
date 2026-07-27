@@ -6171,5 +6171,86 @@
   "adicionado_em": "2026-07-26",
   "fonte": "web",
   "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "DbRvPfPm8_s",
+  "perfil": "marvermelhoatacado",
+  "titulo": "Festival de Doces e Biscoitos Mar Vermelho (27 a 31/07)",
+  "banner": "Mar Vermelho Atacado",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-27",
+  "fim": "2026-07-31",
+  "carrossel": false,
+  "shortcode": "DbRvPfPm8_s",
+  "caption": "É biscoito e doces que você quer? 🍪✨ Então corre para o Festival de Doces e Biscoitos no Mar Vermelho e aproveite uma seleção deliciosa com preços que cabem no bolso. \n\n✅ Ofertas válidas de 27 a 31/07 ou enquanto durarem os estoques.\n\n#DelíciasDoMarVermelho #FestivalDeDoceseBiscoitos #EconomiaEQualidade",
+  "paginas": [
+   "DbRvPfPm8_s_p1.jpg"
+  ],
+  "adicionado_em": "2026-07-27",
+  "fonte": "feed",
+  "link": ""
+ },
+ {
+  "id": "DbStPdYG-Nd",
+  "perfil": "marvermelhoatacado",
+  "titulo": "Grandes Ofertas MarZap Mar Vermelho (24 a 30/07)",
+  "banner": "Mar Vermelho Atacado",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-24",
+  "fim": "2026-07-30",
+  "carrossel": true,
+  "shortcode": "DbStPdYG-Nd",
+  "caption": "As contas chegam, mas o preço baixo também. Passe no Mar Vermelho e aproveite ofertas que ajudam seu orçamento a respirar 💚\n\n✅ Ofertas válidas de 24/07 a 30/07 ou enquanto durarem os estoques.\n\n#marvermelhoatacado #economia #ofertas #preçobaixo #marzap",
+  "paginas": [
+   "DbStPdYG-Nd_p1.jpg",
+   "DbStPdYG-Nd_p2.jpg",
+   "DbStPdYG-Nd_p3.jpg",
+   "DbStPdYG-Nd_p4.jpg",
+   "DbStPdYG-Nd_p5.jpg",
+   "DbStPdYG-Nd_p6.jpg"
+  ],
+  "adicionado_em": "2026-07-27",
+  "fonte": "feed",
+  "link": ""
+ },
+ {
+  "id": "DbSvNbFFtpo",
+  "perfil": "cortefacil.atacarejo",
+  "titulo": "Segunda é Feira Corte Fácil (27/07)",
+  "banner": "Corte Fácil Atacarejo",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-27",
+  "fim": "2026-07-27",
+  "carrossel": true,
+  "shortcode": "DbSvNbFFtpo",
+  "caption": "Semana boa começa com economia! Aproveite as ofertas desta segunda-feira e garanta os melhores produtos pagando menos. 😉\n\nVem pro Corte Fácil Atacarejo! \n\n📆 Ofertas válidas somente no dia 27 de JULHO.",
+  "paginas": [
+   "DbSvNbFFtpo_p1.jpg",
+   "DbSvNbFFtpo_p2.jpg"
+  ],
+  "adicionado_em": "2026-07-27",
+  "fonte": "feed",
+  "link": ""
+ },
+ {
+  "id": "assai_168587-572",
+  "perfil": "assai.com.br",
+  "titulo": "Giro da Economia Assaí (27 a 30/07)",
+  "banner": "Assaí Atacadista",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-27",
+  "fim": "2026-07-30",
+  "carrossel": true,
+  "shortcode": "assai_168587-572",
+  "caption": "Preços válidos de 27/07/2026 até 30/07/2026",
+  "paginas": [
+   "assai_168587-572_p1.jpg",
+   "assai_168587-572_p2.jpg",
+   "assai_168587-572_p3.jpg",
+   "assai_168587-572_p4.jpg"
+  ],
+  "adicionado_em": "2026-07-27",
+  "fonte": "web",
+  "link": "https://www.assai.com.br/ofertas/rio-grande-do-norte/assai-natal"
  }
 ]

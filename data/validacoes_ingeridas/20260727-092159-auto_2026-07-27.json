@@ -1,0 +1,264 @@
+{
+ "validacoes": [
+  {
+   "a": "Acém, Posta Gorda, Ossobuco e Peito Bovino Reserva com Osso",
+   "b": "Acém, Posta Gorda, Ossobuco e Peito Bovino Reserva com Osso kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango 36x56g",
+   "b": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango caixeta 36x56g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fígado Bovino Reserva Friboi Congelado Pedaço",
+   "b": "Fígado Bovino Reserva Friboi Congelado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho Sassami de Frango Sadia Congelado pct ou bd 1kg",
+   "b": "Filezinho Sassami de Frango Sadia Congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho Sassami de Frango Sadia bd 1kg",
+   "b": "Filezinho Sassami de Frango Sadia Congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerv Petra Ultra 275ml LN S/Gluten",
+   "b": "Cerveja Petra Ultra 275ml Long Neck S/Glúten",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Girolanda Resfriado Fatiado",
+   "b": "Queijo Mussarela Girolanda Fatiado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Santa Clara Extraforte Almofada ou a Vácuo 250g",
+   "b": "Cafe Santa Clara 250g (Extraforte - Almofada/A Vacuo)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cachaça Samanaú Prata Garrafa 500ml",
+   "b": "Cachaça Samanaú Prata 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog Friato Congelada 5kg",
+   "b": "Salsicha Hot Dog Friato Congelada Pacote com 5kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Hig Fofex c/12",
+   "b": "Papel Higiênico Fofex C/12",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Chambaril Dianteiro Reserva Resfriada (Friboi Reserva)",
+   "b": "Carne Bovina Chambaril Dianteiro Reserva Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete em Barra Nivea 85g (Fragrâncias)",
+   "b": "Sabonete NIVEA 85g Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Pepsi / Guaraná Antarctica 1L",
+   "b": "Refrigerante Pepsi/Guaraná Antarctica 1L Tradicional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salgadinho Pippo's São Braz Sabores 60g",
+   "b": "Salgadinho Pippo's Sabores 60g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Wafer Marilan 70g (Sabores)",
+   "b": "Bisc Wafer Rech Marilan 70g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Flocão de Milho NOVOMILHO 500g",
+   "b": "Flocão de Milho Novomilho São Braz 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Finna sem Fermento 1kg",
+   "b": "Farinha de Trigo Finna s/f 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Tony Congelado Carne Bovina/Frango Caixeta 36x56g",
+   "b": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango caixeta 36x56g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Zero pack c/12x 350ml",
+   "b": "Refrigerante Guaraná Antarctica Pack c/12 lata 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Lata 350ml",
+   "b": "Refrigerante Guaraná Antarctica Pack c/12 lata 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Molho de Tomate Predilecta Tradicional 300g",
+   "b": "Molho de Tomate Predilecta Tradicional sem açúcar 300g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filezinho Sassami de Frango Seara Congelado Bandeja 1kg",
+   "b": "Filezinho Sassami de Frango Sadia Congelado 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Steak de Frango Sadia 100g",
+   "b": "Steak de Frango Perdigão 100g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sabonete Líquido Harrop Várias Fragrâncias Frasco com 1L",
+   "b": "Sabonete Líquido Clean Level Várias Fragrâncias Frasco com 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Álbum de Figurinhas Copa 2026 Brochura Panini",
+   "b": "Álbum de Figurinhas Copa 2026 Capa Dourada Panini",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Recheado Bono / Nesgresco 90g Sabores",
+   "b": "Biscoito Recheado Oreo 90g sabores",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Meio da Asa de Frango BOM TODO 1kg Bandeja",
+   "b": "Peito de Frango Bom Todo 1kg (Bandeja)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Wafer Parati Minueto Sabores 73g",
+   "b": "Biscoito Wafer Minueto Sabores 36x73g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Pet 1L",
+   "b": "Refrigerante Pepsi / Guaraná Antarctica 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite UHT Parmalat Integral ou Desnatado 1L",
+   "b": "Leite UHT Betânia Integral ou Desnatado 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Asa de Frango Resfriada Natto",
+   "b": "Coração de Frango Resfriado Natto",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Fraldinha Masterboi",
+   "b": "Carne Bovina Picanha Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite UHT Natville Integral ou Desnatado 1L",
+   "b": "Leite UHT Betânia Integral ou Desnatado 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Parboilizado Pop pct 1kg",
+   "b": "Arroz Parboilizado Camil Pct 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxinhas das Asas de Frango Sadia Congeladas Pct 1kg",
+   "b": "Coxinhas das Asas de Frango Lar Congelada IQF 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Margarina Primor com Sal 500g",
+   "b": "Margarina Puro Sabor com Sal 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca DuZé Tipo 1 1kg",
+   "b": "Feijão Carioca Catolé Tipo 1 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lanche de Frango Aurora Peça, Pedaço ou Fatiado kg",
+   "b": "Lanche de Frango Bom Todo Peça Pedaço ou Fatiado kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Aerosol Rexona 89g Fragrâncias",
+   "b": "Desodorante Aerosol DOVE 87/89g Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Brahma Chopp Lata 350ml",
+   "b": "Cerveja Brahma Chopp Zero 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Mussarela Milk Vida Peça ou Pedaço kg",
+   "b": "Queijo Mussarela Unalac Peça ou Pedaço kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Pilsen Lokal Lata 350ml",
+   "b": "Cerveja Pilsen Corona lta 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite em Pó Integral Mimo 200g",
+   "b": "Leite em Pó Integral Itambé 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Picanha kg",
+   "b": "Carne Bovina Patinho kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca Duzé 1kg",
+   "b": "Feijão Carioca Kero 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Capa de Filé Masterboi",
+   "b": "Carne Bovina Contra Filé Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Óleo de Soja Soya 900ml",
+   "b": "Óleo Soja Soya 20x900ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite De Oliva Extra Virgem Sacciali Vidro 500ml",
+   "b": "Azeite de Oliva Extra Virgem Gallo vd 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Óleo de Soja Soya 900ml",
+   "b": "Óleo de Soja Liza 900ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Iogurte Natural Isis 170g Sabores",
+   "b": "Iogurte Natural Betânia 170g Sabores",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Atualle Folha Dupla 20m c/12",
+   "b": "Papel Higiênico Felitá Care Folha Dupla 20m C/12",
+   "veredito": "diferente"
+  }
+ ]
+}

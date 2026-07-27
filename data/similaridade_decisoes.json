@@ -7238,5 +7238,335 @@
   "b": "Lava Louça Alice 500ml Fragrâncias",
   "veredito": "diferente",
   "quando": "2026-07-26"
+ },
+ "acem, posta gorda, ossobuco e peito bovino reserva com osso || acem, posta gorda, ossobuco e peito bovino reserva com osso kg": {
+  "a": "Acém, Posta Gorda, Ossobuco e Peito Bovino Reserva com Osso",
+  "b": "Acém, Posta Gorda, Ossobuco e Peito Bovino Reserva com Osso kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "hamburguer jundiai congelado carne bovina/frango 36x56g || hamburguer jundiai congelado carne bovina/frango caixeta 36x56g": {
+  "a": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango 36x56g",
+  "b": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango caixeta 36x56g",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "figado bovino reserva friboi congelado kg || figado bovino reserva friboi congelado pedaco": {
+  "a": "Fígado Bovino Reserva Friboi Congelado Pedaço",
+  "b": "Fígado Bovino Reserva Friboi Congelado kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "filezinho sassami de frango sadia congelado 1kg || filezinho sassami de frango sadia congelado pct ou bd 1kg": {
+  "a": "Filezinho Sassami de Frango Sadia Congelado pct ou bd 1kg",
+  "b": "Filezinho Sassami de Frango Sadia Congelado 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "filezinho sassami de frango sadia bd 1kg || filezinho sassami de frango sadia congelado 1kg": {
+  "a": "Filezinho Sassami de Frango Sadia bd 1kg",
+  "b": "Filezinho Sassami de Frango Sadia Congelado 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "cerv petra ultra 275ml ln s/gluten || cerveja petra ultra 275ml long neck s/gluten": {
+  "a": "Cerv Petra Ultra 275ml LN S/Gluten",
+  "b": "Cerveja Petra Ultra 275ml Long Neck S/Glúten",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "queijo mussarela girolanda fatiado || queijo mussarela girolanda resfriado fatiado": {
+  "a": "Queijo Mussarela Girolanda Resfriado Fatiado",
+  "b": "Queijo Mussarela Girolanda Fatiado",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "cafe santa clara 250g (extraforte - almofada/a vacuo) || cafe santa clara extraforte almofada ou a vacuo 250g": {
+  "a": "Café Santa Clara Extraforte Almofada ou a Vácuo 250g",
+  "b": "Cafe Santa Clara 250g (Extraforte - Almofada/A Vacuo)",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "cachaca samanau prata 500ml || cachaca samanau prata garrafa 500ml": {
+  "a": "Cachaça Samanaú Prata Garrafa 500ml",
+  "b": "Cachaça Samanaú Prata 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "salsicha hot dog friato congelada 5kg || salsicha hot dog friato congelada pacote com 5kg": {
+  "a": "Salsicha Hot Dog Friato Congelada 5kg",
+  "b": "Salsicha Hot Dog Friato Congelada Pacote com 5kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "papel hig fofex c/12 || papel higienico fofex c/12": {
+  "a": "Papel Hig Fofex c/12",
+  "b": "Papel Higiênico Fofex C/12",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "carne bovina chambaril dianteiro reserva resfriada || carne bovina chambaril dianteiro reserva resfriada (friboi reserva)": {
+  "a": "Carne Bovina Chambaril Dianteiro Reserva Resfriada (Friboi Reserva)",
+  "b": "Carne Bovina Chambaril Dianteiro Reserva Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "sabonete em barra nivea 85g (fragrancias) || sabonete nivea 85g fragrancias": {
+  "a": "Sabonete em Barra Nivea 85g (Fragrâncias)",
+  "b": "Sabonete NIVEA 85g Fragrâncias",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "refrigerante pepsi / guarana antarctica 1l || refrigerante pepsi/guarana antarctica 1l tradicional": {
+  "a": "Refrigerante Pepsi / Guaraná Antarctica 1L",
+  "b": "Refrigerante Pepsi/Guaraná Antarctica 1L Tradicional",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "salgadinho pippo's sabores 60g || salgadinho pippo's sao braz sabores 60g": {
+  "a": "Salgadinho Pippo's São Braz Sabores 60g",
+  "b": "Salgadinho Pippo's Sabores 60g",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "bisc wafer rech marilan 70g sabores || biscoito wafer marilan 70g (sabores)": {
+  "a": "Biscoito Wafer Marilan 70g (Sabores)",
+  "b": "Bisc Wafer Rech Marilan 70g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "flocao de milho novomilho 500g || flocao de milho novomilho sao braz 500g": {
+  "a": "Flocão de Milho NOVOMILHO 500g",
+  "b": "Flocão de Milho Novomilho São Braz 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "farinha de trigo finna s/f 1kg || farinha de trigo finna sem fermento 1kg": {
+  "a": "Farinha de Trigo Finna sem Fermento 1kg",
+  "b": "Farinha de Trigo Finna s/f 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "hamburguer jundiai congelado carne bovina/frango caixeta 36x56g || hamburguer tony congelado carne bovina/frango caixeta 36x56g": {
+  "a": "Hambúrguer Tony Congelado Carne Bovina/Frango Caixeta 36x56g",
+  "b": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango caixeta 36x56g",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "refrigerante guarana antarctica pack c/12 lata 350ml || refrigerante guarana antarctica zero pack c/12x 350ml": {
+  "a": "Refrigerante Guaraná Antarctica Zero pack c/12x 350ml",
+  "b": "Refrigerante Guaraná Antarctica Pack c/12 lata 350ml",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "refrigerante guarana antarctica lata 350ml || refrigerante guarana antarctica pack c/12 lata 350ml": {
+  "a": "Refrigerante Guaraná Antarctica Lata 350ml",
+  "b": "Refrigerante Guaraná Antarctica Pack c/12 lata 350ml",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "molho de tomate predilecta tradicional 300g || molho de tomate predilecta tradicional sem acucar 300g": {
+  "a": "Molho de Tomate Predilecta Tradicional 300g",
+  "b": "Molho de Tomate Predilecta Tradicional sem açúcar 300g",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "filezinho sassami de frango sadia congelado 1kg || filezinho sassami de frango seara congelado bandeja 1kg": {
+  "a": "Filezinho Sassami de Frango Seara Congelado Bandeja 1kg",
+  "b": "Filezinho Sassami de Frango Sadia Congelado 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "steak de frango perdigao 100g || steak de frango sadia 100g": {
+  "a": "Steak de Frango Sadia 100g",
+  "b": "Steak de Frango Perdigão 100g",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "sabonete liquido clean level varias fragrancias frasco com 1l || sabonete liquido harrop varias fragrancias frasco com 1l": {
+  "a": "Sabonete Líquido Harrop Várias Fragrâncias Frasco com 1L",
+  "b": "Sabonete Líquido Clean Level Várias Fragrâncias Frasco com 1L",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "album de figurinhas copa 2026 brochura panini || album de figurinhas copa 2026 capa dourada panini": {
+  "a": "Álbum de Figurinhas Copa 2026 Brochura Panini",
+  "b": "Álbum de Figurinhas Copa 2026 Capa Dourada Panini",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "biscoito recheado bono / nesgresco 90g sabores || biscoito recheado oreo 90g sabores": {
+  "a": "Biscoito Recheado Bono / Nesgresco 90g Sabores",
+  "b": "Biscoito Recheado Oreo 90g sabores",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "meio da asa de frango bom todo 1kg bandeja || peito de frango bom todo 1kg (bandeja)": {
+  "a": "Meio da Asa de Frango BOM TODO 1kg Bandeja",
+  "b": "Peito de Frango Bom Todo 1kg (Bandeja)",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "biscoito wafer minueto sabores 36x73g || biscoito wafer parati minueto sabores 73g": {
+  "a": "Biscoito Wafer Parati Minueto Sabores 73g",
+  "b": "Biscoito Wafer Minueto Sabores 36x73g",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "refrigerante guarana antarctica pet 1l || refrigerante pepsi / guarana antarctica 1l": {
+  "a": "Refrigerante Guaraná Antarctica Pet 1L",
+  "b": "Refrigerante Pepsi / Guaraná Antarctica 1L",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "leite uht betania integral ou desnatado 1l || leite uht parmalat integral ou desnatado 1l": {
+  "a": "Leite UHT Parmalat Integral ou Desnatado 1L",
+  "b": "Leite UHT Betânia Integral ou Desnatado 1L",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "asa de frango resfriada natto || coracao de frango resfriado natto": {
+  "a": "Asa de Frango Resfriada Natto",
+  "b": "Coração de Frango Resfriado Natto",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "carne bovina fraldinha masterboi || carne bovina picanha masterboi": {
+  "a": "Carne Bovina Fraldinha Masterboi",
+  "b": "Carne Bovina Picanha Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "leite uht betania integral ou desnatado 1l || leite uht natville integral ou desnatado 1l": {
+  "a": "Leite UHT Natville Integral ou Desnatado 1L",
+  "b": "Leite UHT Betânia Integral ou Desnatado 1L",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "arroz parboilizado camil pct 1kg || arroz parboilizado pop pct 1kg": {
+  "a": "Arroz Parboilizado Pop pct 1kg",
+  "b": "Arroz Parboilizado Camil Pct 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "coxinhas das asas de frango lar congelada iqf 1kg || coxinhas das asas de frango sadia congeladas pct 1kg": {
+  "a": "Coxinhas das Asas de Frango Sadia Congeladas Pct 1kg",
+  "b": "Coxinhas das Asas de Frango Lar Congelada IQF 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "margarina primor com sal 500g || margarina puro sabor com sal 500g": {
+  "a": "Margarina Primor com Sal 500g",
+  "b": "Margarina Puro Sabor com Sal 500g",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "feijao carioca catole tipo 1 1kg || feijao carioca duze tipo 1 1kg": {
+  "a": "Feijão Carioca DuZé Tipo 1 1kg",
+  "b": "Feijão Carioca Catolé Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "lanche de frango aurora peca, pedaco ou fatiado kg || lanche de frango bom todo peca pedaco ou fatiado kg": {
+  "a": "Lanche de Frango Aurora Peça, Pedaço ou Fatiado kg",
+  "b": "Lanche de Frango Bom Todo Peça Pedaço ou Fatiado kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "desodorante aerosol dove 87/89g fragrancias || desodorante aerosol rexona 89g fragrancias": {
+  "a": "Desodorante Aerosol Rexona 89g Fragrâncias",
+  "b": "Desodorante Aerosol DOVE 87/89g Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "cerveja brahma chopp lata 350ml || cerveja brahma chopp zero 350ml": {
+  "a": "Cerveja Brahma Chopp Lata 350ml",
+  "b": "Cerveja Brahma Chopp Zero 350ml",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "queijo mussarela milk vida peca ou pedaco kg || queijo mussarela unalac peca ou pedaco kg": {
+  "a": "Queijo Mussarela Milk Vida Peça ou Pedaço kg",
+  "b": "Queijo Mussarela Unalac Peça ou Pedaço kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "cerveja pilsen corona lta 350ml || cerveja pilsen lokal lata 350ml": {
+  "a": "Cerveja Pilsen Lokal Lata 350ml",
+  "b": "Cerveja Pilsen Corona lta 350ml",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "leite em po integral itambe 200g || leite em po integral mimo 200g": {
+  "a": "Leite em Pó Integral Mimo 200g",
+  "b": "Leite em Pó Integral Itambé 200g",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "carne bovina patinho kg || carne bovina picanha kg": {
+  "a": "Carne Bovina Picanha kg",
+  "b": "Carne Bovina Patinho kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "feijao carioca duze 1kg || feijao carioca kero 1kg": {
+  "a": "Feijão Carioca Duzé 1kg",
+  "b": "Feijão Carioca Kero 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "carne bovina capa de file masterboi || carne bovina contra file masterboi": {
+  "a": "Carne Bovina Capa de Filé Masterboi",
+  "b": "Carne Bovina Contra Filé Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "oleo de soja soya 900ml || oleo soja soya 20x900ml": {
+  "a": "Óleo de Soja Soya 900ml",
+  "b": "Óleo Soja Soya 20x900ml",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "azeite de oliva extra virgem gallo vd 500ml || azeite de oliva extra virgem sacciali vidro 500ml": {
+  "a": "Azeite De Oliva Extra Virgem Sacciali Vidro 500ml",
+  "b": "Azeite de Oliva Extra Virgem Gallo vd 500ml",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "oleo de soja liza 900ml || oleo de soja soya 900ml": {
+  "a": "Óleo de Soja Soya 900ml",
+  "b": "Óleo de Soja Liza 900ml",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "iogurte natural betania 170g sabores || iogurte natural isis 170g sabores": {
+  "a": "Iogurte Natural Isis 170g Sabores",
+  "b": "Iogurte Natural Betânia 170g Sabores",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "papel higienico atualle folha dupla 20m c/12 || papel higienico felita care folha dupla 20m c/12": {
+  "a": "Papel Higiênico Atualle Folha Dupla 20m c/12",
+  "b": "Papel Higiênico Felitá Care Folha Dupla 20m C/12",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
  }
 }
