@@ -107900,5 +107900,463 @@
    "w": 22,
    "h": 13
   }
+ ],
+ "atacadao_4b91658057_p1": [
+  {
+   "n": "Laranja-pera kg",
+   "p": "1,85",
+   "u": "kg",
+   "x": 30,
+   "y": 28,
+   "w": 22,
+   "h": 9
+  },
+  {
+   "n": "Banana Pacovan kg",
+   "p": "3,79",
+   "u": "kg",
+   "x": 78,
+   "y": 28,
+   "w": 18,
+   "h": 9
+  },
+  {
+   "n": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango caixeta 36x56g",
+   "p": "19,90",
+   "u": "un",
+   "x": 33,
+   "y": 48,
+   "w": 22,
+   "h": 8
+  },
+  {
+   "n": "Steak de Frango Perdigão Congelado 100g",
+   "p": "1,39",
+   "u": "un",
+   "x": 80,
+   "y": 49,
+   "w": 16,
+   "h": 8
+  },
+  {
+   "n": "Feijão Carioca Kicaldo Tipo 1 1kg",
+   "p": "8,69",
+   "u": "un",
+   "x": 20,
+   "y": 70,
+   "w": 16,
+   "h": 8
+  },
+  {
+   "n": "Vinagre de Álcool Sadio 500ml",
+   "p": "0,89",
+   "u": "un",
+   "x": 52,
+   "y": 71,
+   "w": 14,
+   "h": 8
+  },
+  {
+   "n": "Lava Roupas Líquido Omo 5L",
+   "p": "42,90",
+   "u": "un",
+   "x": 85,
+   "y": 68,
+   "w": 14,
+   "h": 8
+  }
+ ],
+ "atacadao_612b2a718e_p1": [
+  {
+   "n": "Achocolatado em Pó Apti 300g",
+   "p": "3,99",
+   "u": "un",
+   "x": 42,
+   "y": 30,
+   "w": 18,
+   "h": 8
+  },
+  {
+   "n": "Achocolatado em Pó Apti Power 1kg",
+   "p": "15,49",
+   "u": "un",
+   "x": 85,
+   "y": 30,
+   "w": 14,
+   "h": 8
+  },
+  {
+   "n": "Amido de Milho Apti 500g",
+   "p": "5,69",
+   "u": "un",
+   "x": 42,
+   "y": 46,
+   "w": 16,
+   "h": 8
+  },
+  {
+   "n": "Aveia Apti Flocos/Flocos Finos 150g",
+   "p": "2,69",
+   "u": "un",
+   "x": 85,
+   "y": 46,
+   "w": 14,
+   "h": 8
+  },
+  {
+   "n": "Caldo Apti Galinha/Carne 1,05kg",
+   "p": "9,99",
+   "u": "un",
+   "x": 42,
+   "y": 62,
+   "w": 16,
+   "h": 8
+  },
+  {
+   "n": "Chocolate em Pó Apti 50% Cacau 200g",
+   "p": "17,50",
+   "u": "un",
+   "x": 85,
+   "y": 62,
+   "w": 14,
+   "h": 8
+  },
+  {
+   "n": "Gelatina em Pó Apti 20g",
+   "p": "1,19",
+   "u": "un",
+   "x": 42,
+   "y": 80,
+   "w": 16,
+   "h": 8
+  },
+  {
+   "n": "Mistura para Bolo Apti 400g",
+   "p": "3,79",
+   "u": "un",
+   "x": 85,
+   "y": 80,
+   "w": 14,
+   "h": 8
+  }
+ ],
+ "DbRTlSPAZvy_p1": [
+  {
+   "n": "Molho de Tomate Predilecta Tradicional sem açúcar 300g",
+   "p": "1,39",
+   "u": "un",
+   "x": 10,
+   "y": 38,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Massa Sêmola Estrela Parafuso 400g",
+   "p": "3,29",
+   "u": "un",
+   "x": 32,
+   "y": 38,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Biscoito Wafer KitKat Nestlé 41,5g",
+   "p": "3,99",
+   "u": "un",
+   "x": 52,
+   "y": 38,
+   "w": 15,
+   "h": 15
+  },
+  {
+   "n": "Coxas e Sobrecoxas de Frango Aurora Congeladas kg",
+   "p": "7,99",
+   "u": "kg",
+   "x": 70,
+   "y": 38,
+   "w": 14,
+   "h": 15
+  },
+  {
+   "n": "Margarina Cremosa Deline Sadia com Sal 500g",
+   "p": "4,99",
+   "u": "un",
+   "x": 88,
+   "y": 38,
+   "w": 12,
+   "h": 15
+  },
+  {
+   "n": "Filezinho Sassami de Frango Sadia Congelado 1kg",
+   "p": "18,49",
+   "u": "un",
+   "x": 13,
+   "y": 58,
+   "w": 18,
+   "h": 10
+  },
+  {
+   "n": "Capa de Filé Bovina Friboi Resfriada kg",
+   "p": "33,99",
+   "u": "kg",
+   "x": 33,
+   "y": 58,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Acém, Posta Gorda, Ossobuco e Peito Bovino Reserva com Osso kg",
+   "p": "31,89",
+   "u": "kg",
+   "x": 52,
+   "y": 58,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Kit 01 Coca-Cola + 01 Guaraná Kuat 2 litros",
+   "p": "17,79",
+   "u": "un",
+   "x": 70,
+   "y": 55,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Cerveja Pilsen Lokal lata 350ml",
+   "p": "2,29",
+   "u": "un",
+   "x": 88,
+   "y": 55,
+   "w": 12,
+   "h": 12
+  },
+  {
+   "n": "Granola São Braz 250g",
+   "p": "9,99",
+   "u": "un",
+   "x": 10,
+   "y": 72,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Bebida Láctea Nescau Nestlé Pack Leve 9 Pague 8 180ml",
+   "p": "15,99",
+   "u": "un",
+   "x": 30,
+   "y": 72,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Bebida Láctea Bat Gut Betânia 900g",
+   "p": "4,49",
+   "u": "un",
+   "x": 50,
+   "y": 72,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Hambúrguer Misto Perdigão 56g",
+   "p": "1,18",
+   "u": "un",
+   "x": 68,
+   "y": 72,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Lasanha Aurora 600g",
+   "p": "12,99",
+   "u": "un",
+   "x": 88,
+   "y": 72,
+   "w": 12,
+   "h": 10
+  },
+  {
+   "n": "Suco de Uva Integral Campo Largo 1,35 litro",
+   "p": "12,99",
+   "u": "un",
+   "x": 10,
+   "y": 88,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Refrigerante Guaraná Antarctica Pack c/12 lata 350ml",
+   "p": "27,48",
+   "u": "un",
+   "x": 30,
+   "y": 88,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Fígado Bovino Reserva Friboi Congelado kg",
+   "p": "17,99",
+   "u": "kg",
+   "x": 50,
+   "y": 88,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Cerveja Pilsen Itaipava lata 350ml",
+   "p": "2,59",
+   "u": "un",
+   "x": 68,
+   "y": 88,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Vinho Marques Del Sur 750ml",
+   "p": "19,99",
+   "u": "un",
+   "x": 88,
+   "y": 88,
+   "w": 12,
+   "h": 10
+  }
+ ],
+ "DbRTlSPAZvy_p2": [
+  {
+   "n": "Whisky White Horse 1 litro",
+   "p": "74,90",
+   "u": "un",
+   "x": 20,
+   "y": 22,
+   "w": 16,
+   "h": 12
+  },
+  {
+   "n": "Whisky Johnnie Walker Red Label 1 litro",
+   "p": "77,90",
+   "u": "un",
+   "x": 50,
+   "y": 22,
+   "w": 16,
+   "h": 12
+  },
+  {
+   "n": "Whisky Old Parr 12 Anos 1 litro",
+   "p": "129,00",
+   "u": "un",
+   "x": 82,
+   "y": 22,
+   "w": 15,
+   "h": 12
+  },
+  {
+   "n": "Creme Dental Colgate Tripla Ação 90g",
+   "p": "5,49",
+   "u": "un",
+   "x": 20,
+   "y": 37,
+   "w": 16,
+   "h": 10
+  },
+  {
+   "n": "Desodorante Aerosol Above 150ml",
+   "p": "6,99",
+   "u": "un",
+   "x": 50,
+   "y": 37,
+   "w": 16,
+   "h": 10
+  },
+  {
+   "n": "Kit Pantene Shampoo 300ml + Condicionador 150ml",
+   "p": "26,90",
+   "u": "un",
+   "x": 82,
+   "y": 37,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Lava-louças Ypê 500ml",
+   "p": "1,99",
+   "u": "un",
+   "x": 20,
+   "y": 51,
+   "w": 16,
+   "h": 10
+  },
+  {
+   "n": "Água Sanitária Dragão 1 litro",
+   "p": "1,99",
+   "u": "un",
+   "x": 50,
+   "y": 51,
+   "w": 16,
+   "h": 10
+  },
+  {
+   "n": "Amaciante Concentrado Downy 500ml",
+   "p": "9,49",
+   "u": "un",
+   "x": 82,
+   "y": 51,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Lava-roupas em Pó Sonho 1,6kg",
+   "p": "9,99",
+   "u": "un",
+   "x": 15,
+   "y": 64,
+   "w": 14,
+   "h": 10
+  },
+  {
+   "n": "Lava-roupas Líquido Absoluto! 3 litros",
+   "p": "11,99",
+   "u": "un",
+   "x": 38,
+   "y": 64,
+   "w": 14,
+   "h": 10
+  },
+  {
+   "n": "Papel Higiênico Neutro Max Pure Folha Dupla 30m Leve 12 Pague 11",
+   "p": "14,99",
+   "u": "un",
+   "x": 62,
+   "y": 64,
+   "w": 14,
+   "h": 10
+  },
+  {
+   "n": "Fraldas Descartáveis Pampers SuperSequinha",
+   "p": "59,99",
+   "u": "un",
+   "x": 88,
+   "y": 64,
+   "w": 12,
+   "h": 10
+  },
+  {
+   "n": "Alimento Úmido para Cães Pedigree 100g / Gatos Whiskas 85g",
+   "p": "2,49",
+   "u": "un",
+   "x": 15,
+   "y": 78,
+   "w": 14,
+   "h": 10
+  },
+  {
+   "n": "Alimento para Cães Bonzo Adulto 15kg",
+   "p": "119,90",
+   "u": "un",
+   "x": 38,
+   "y": 78,
+   "w": 14,
+   "h": 10
+  }
  ]
 }

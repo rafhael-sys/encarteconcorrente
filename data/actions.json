@@ -6116,5 +6116,60 @@
    "DbO2Np8m9UU_p9.jpg",
    "DbO2Np8m9UU_p10.jpg"
   ]
+ },
+ {
+  "id": "DbRTlSPAZvy",
+  "perfil": "superfacilatacado",
+  "titulo": "Super Semana da Economia SuperFácil RN (27 a 29/07)",
+  "banner": "SuperFácil Atacado",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-27",
+  "fim": "2026-07-29",
+  "carrossel": true,
+  "shortcode": "DbRTlSPAZvy",
+  "caption": "A Super Semana da economia está com tudo para você encerrar o mês com carrinho cheio! Venha aproveitar as ofertas do SuperFácil! Ofertas válidas de 27 a 29 de julho de 2026. Lojas SuperFácil RN (exceto Mossoró)",
+  "paginas": [
+   "DbRTlSPAZvy_p1.jpg",
+   "DbRTlSPAZvy_p2.jpg"
+  ],
+  "adicionado_em": "2026-07-26",
+  "fonte": "ig",
+  "link": ""
+ },
+ {
+  "id": "atacadao_4b91658057",
+  "perfil": "atacadao.com.br",
+  "titulo": "Boa do Dia — Só Segunda (27/07)",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-27",
+  "fim": "2026-07-27",
+  "carrossel": false,
+  "shortcode": "atacadao_4b91658057",
+  "caption": "Boa do Dia",
+  "paginas": [
+   "atacadao_4b91658057_p1.jpg"
+  ],
+  "adicionado_em": "2026-07-26",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_612b2a718e",
+  "perfil": "atacadao.com.br",
+  "titulo": "Super Ofertas Apti (27 a 31/07)",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-07-27",
+  "fim": "2026-07-31",
+  "carrossel": false,
+  "shortcode": "atacadao_612b2a718e",
+  "caption": "Super Ofertas",
+  "paginas": [
+   "atacadao_612b2a718e_p1.jpg"
+  ],
+  "adicionado_em": "2026-07-26",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
  }
 ]
