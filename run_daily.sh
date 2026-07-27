@@ -25,11 +25,13 @@ mkdir -p "$BASE/data"
 HOJE=$(date +%Y-%m-%d)
 HORA=$(( 10#$(date +%H) ))
 
-# janela de atualização: 1x por dia, às 22h (coleta noturna). O launchd chama
-# a cada 30 min; antes das 22h o script sai na hora e, a partir das 22h, roda
-# uma única vez no dia. Se o Mac estiver desligado às 22h, roda na primeira
-# meia hora depois que ele ligar naquela noite.
-SLOTS=(22)
+# janelas de atualização: 2x por dia, às 7h (manhã) e 22h (noite). O launchd
+# chama a cada 30 min; o script roda uma única vez por janela. A partir das 7h
+# roda a janela da manhã; a partir das 22h, a da noite. Se o Mac estiver
+# desligado na hora, roda na primeira meia hora depois que ele ligar. A coleta
+# da manhã NÃO refaz o que a da noite já pegou — o posts_vistos.json marca os
+# posts vistos, então só entra o que é novo (mesmo dedup para post e encarte).
+SLOTS=(7 22)
 SLOT=""
 for h in $SLOTS; do (( HORA >= h )) && SLOT=$h; done
 [[ -z "$SLOT" ]] && exit 0                                          # antes das 7h
@@ -149,13 +151,14 @@ Tarefas: leia data/fila_novos.json; para cada post decida se é ação de encart
     (( ok )) || echo "[aviso] não consegui enviar os dados ao git nesta janela"
   fi
 
-  # publicação diária: o launchd com.redemais.encartes.publicar sobe às 9h;
-  # se o Mac estava desligado às 9h, a primeira janela concluída depois disso
-  # publica no lugar (--diario garante no máximo 1 publicação por dia).
-  # A checagem de data evita que uma janela que atravessou a meia-noite
-  # carimbe o dia seguinte; ainda seguramos a trava, daí a herança.
-  if (( SLOT >= 10 )) && [[ "$(date +%Y-%m-%d)" == "$HOJE" ]]; then
-    ENCARTES_LOCK_HERDADA=1 "$BASE/publicar_cfpages.sh" --diario || echo "[aviso] publicação no Cloudflare Pages falhou nesta janela"
+  # publicação: cada janela (manhã e noite) publica a sua própria coleta, para o
+  # painel ficar fresco logo após cada rodada. SEM --diario de propósito: o cap
+  # de 1x/dia impediria a janela da noite de publicar depois que a da manhã já
+  # publicou. Publicar 2x/dia no Cloudflare Pages é tranquilo (sem limite grátis
+  # como o do Netlify antigo). A checagem de data evita que uma janela que
+  # atravessou a meia-noite publique sob o dia errado.
+  if [[ "$(date +%Y-%m-%d)" == "$HOJE" ]]; then
+    ENCARTES_LOCK_HERDADA=1 "$BASE/publicar_cfpages.sh" || echo "[aviso] publicação no Cloudflare Pages falhou nesta janela"
   fi
   RESUMO=$(head -c 160 "$BASE/data/resumo_notificacao.txt" 2>/dev/null | tr -d '"\\' | tr '\n' ' ')
   [[ -z "$RESUMO" ]] && RESUMO="Encartes dos concorrentes atualizados."
