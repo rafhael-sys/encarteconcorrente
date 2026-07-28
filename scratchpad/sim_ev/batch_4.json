@@ -1,0 +1,236 @@
+[
+ {
+  "k": "file de peito de frango congelado kg || file de peito de frango friato congelado",
+  "a": "Filé de Peito de Frango Congelado kg",
+  "b": "Filé de Peito de Frango Friato Congelado",
+  "foto_a": {
+   "imagem": "data/pages/qz_ofertaco_p2.jpg",
+   "nome_impresso": "Filé de Peito de Frango Congelado",
+   "regiao_pct": {
+    "x": 18.8,
+    "y": 70,
+    "w": 10.2,
+    "h": 9.6
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_f55407ece3_p1.jpg",
+   "nome_impresso": "Filé de Peito de Frango Friato Congelado (preço por quilo no pacote)",
+   "regiao_pct": {
+    "x": 34.5,
+    "y": 22.5,
+    "w": 30.5,
+    "h": 13.0
+   }
+  },
+  "r": 0.868
+ },
+ {
+  "k": "feijao preto urbano 1kg || feijao preto urbano tipo 1 1kg",
+  "a": "Feijão Preto Urbano Tipo 1 1kg",
+  "b": "Feijão Preto Urbano 1kg",
+  "foto_a": {
+   "imagem": "data/pages/rm_copa_jun_p1.jpg",
+   "nome_impresso": "Feijão Preto URBANO Tipo 1 1kg",
+   "regiao_pct": {
+    "x": 7.5,
+    "y": 66.6,
+    "w": 12,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DaL_0i6FvJN_p3.jpg",
+   "nome_impresso": "Feijão Preto Urbano 1kg",
+   "regiao_pct": {
+    "x": 23.5,
+    "y": 2.8,
+    "w": 18.3,
+    "h": 11.8
+   }
+  },
+  "r": 0.868
+ },
+ {
+  "k": "ovos brancos grandes enavis bdj 30un || ovos brancos grandes/extras bandeja 30un",
+  "a": "Ovos Brancos Grandes Enavis BDJ 30un",
+  "b": "Ovos Brancos Grandes/Extras bandeja 30un",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/lm_hortifruti_p1.jpg",
+   "nome_impresso": "Ovos Brancos Grandes Enavis BDJ 30un",
+   "regiao_pct": {
+    "x": 71.5,
+    "y": 39,
+    "w": 27.5,
+    "h": 20
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/nosso_d50bd1f762_p1.jpg",
+   "nome_impresso": "Ovos Brancos Grandes/Extras bandeja 30un",
+   "regiao_pct": {
+    "x": 72,
+    "y": 54,
+    "w": 18,
+    "h": 8
+   }
+  },
+  "r": 0.868
+ },
+ {
+  "k": "linguica calabresa sadia || linguica calabresa saudali kg",
+  "a": "Linguiça Calabresa Sadia",
+  "b": "Linguiça Calabresa Saudali kg",
+  "foto_a": {
+   "imagem": "data/pages/mv_julho_p3.jpg",
+   "nome_impresso": "Linguiça Calabresa Sadia",
+   "regiao_pct": {
+    "x": 60.0,
+    "y": 40.5,
+    "w": 19.5,
+    "h": 19.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/nosso_d50bd1f762_p1.jpg",
+   "nome_impresso": "Linguiça Calabresa Saudali kg",
+   "regiao_pct": {
+    "x": 68,
+    "y": 38,
+    "w": 18,
+    "h": 10
+   }
+  },
+  "r": 0.868
+ },
+ {
+  "k": "carne bovina coxao mole reserva resfriada || carne bovina rabo reserva resfriada",
+  "a": "Carne Bovina Rabo Reserva Resfriada",
+  "b": "Carne Bovina Coxão Mole Reserva Resfriada",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_cb8d108830_p1.jpg",
+   "nome_impresso": "Carne Bovina Rabo Reserva Resfriada",
+   "regiao_pct": {
+    "x": 34,
+    "y": 54,
+    "w": 29,
+    "h": 19
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_cb8d108830_p1.jpg",
+   "nome_impresso": "Carne Bovina Coxão Mole Reserva Resfriada",
+   "regiao_pct": {
+    "x": 34,
+    "y": 75,
+    "w": 29,
+    "h": 19
+   }
+  },
+  "r": 0.868
+ },
+ {
+  "k": "pao de forma favorito tradicional 400g || pao de forma visconti tradicional 400g",
+  "a": "Pão de Forma Favorito Tradicional 400g",
+  "b": "Pão de Forma Visconti Tradicional 400g",
+  "foto_a": {
+   "imagem": "data/pages/Dag1cX2DH80_p3.jpg",
+   "nome_impresso": "Pão de Forma Favorito Tradicional 400g",
+   "regiao_pct": {
+    "x": 52.7,
+    "y": 77.9,
+    "w": 11.9,
+    "h": 9.4
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dagn6LTDv1h_p1.jpg",
+   "nome_impresso": "Pão de Forma Visconti Tradicional 400g",
+   "regiao_pct": {
+    "x": 19.4,
+    "y": 72.6,
+    "w": 17.2,
+    "h": 12.7
+   }
+  },
+  "r": 0.868
+ },
+ {
+  "k": "cerveja corona ln 330ml || cerveja corona long neck 330ml",
+  "a": "Cerveja Corona LN 330ml",
+  "b": "Cerveja Corona Long Neck 330ml",
+  "foto_a": {
+   "imagem": "data/pages/DbI9SqcgJyX_p3.jpg",
+   "nome_impresso": "Cerveja Corona LN 330ml",
+   "regiao_pct": {
+    "x": 44,
+    "y": 9,
+    "w": 15,
+    "h": 13
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/nosso_2e4ea67427_p1.jpg",
+   "nome_impresso": "Cerveja Corona Long Neck 330ml",
+   "regiao_pct": {
+    "x": 24,
+    "y": 63,
+    "w": 16,
+    "h": 11
+   }
+  },
+  "r": 0.868
+ },
+ {
+  "k": "arroz kika parboilizado tipo 1 pacote 1kg || arroz tio joao parboilizado tipo 1 pacote com 1kg",
+  "a": "Arroz Kika Parboilizado Tipo 1 Pacote 1kg",
+  "b": "Arroz Tio João Parboilizado Tipo 1 Pacote com 1kg",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_5b4604ae3d_p1.jpg",
+   "nome_impresso": "Arroz Kika Parboilizado Tipo 1 Pacote 1kg",
+   "regiao_pct": {
+    "x": 59.3,
+    "y": 19.4,
+    "w": 16.2,
+    "h": 12.2
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_4e474d2e42_p2.jpg",
+   "nome_impresso": "Arroz Tio João Parboilizado Tipo 1 Pacote com 1kg",
+   "regiao_pct": {
+    "x": 27,
+    "y": 18,
+    "w": 21,
+    "h": 17
+   }
+  },
+  "r": 0.867
+ },
+ {
+  "k": "queijo ralado parmesao president 50g || queijo ralado parmesao president pacote com 50g",
+  "a": "Queijo Ralado Parmesão Président Pacote com 50g",
+  "b": "Queijo Ralado Parmesão Président 50g",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_7e7ddc79ac_p2.jpg",
+   "nome_impresso": "Queijo Ralado Parmesão Président Pacote com 50g",
+   "regiao_pct": {
+    "x": 27.5,
+    "y": 21.5,
+    "w": 22,
+    "h": 17.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_3caae4f9fa_p6.jpg",
+   "nome_impresso": "Queijo Ralado Parmesão Président 50g",
+   "regiao_pct": {
+    "x": 66,
+    "y": 63,
+    "w": 29,
+    "h": 15
+   }
+  },
+  "r": 0.867
+ }
+]

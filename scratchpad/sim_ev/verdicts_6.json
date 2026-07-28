@@ -1,0 +1,11 @@
+{"verdicts": [
+  {"k": "linguica de frango sadia ou linguica suina para churrasco aurora || linguica de frango sadia ou para churrasco aurora", "a": "Linguiça de Frango Sadia ou para Churrasco Aurora", "b": "Linguiça de Frango Sadia ou Linguiça Suína para Churrasco Aurora", "veredito": "mesmo"},
+  {"k": "coxa com sobrecoxa c/dorsal kg || coxa e sobrecoxa sem dorsal kg", "a": "Coxa com Sobrecoxa c/Dorsal kg", "b": "Coxa e Sobrecoxa sem Dorsal kg", "veredito": "diferente"},
+  {"k": "feijao carioca dubom tipo 1 1kg || feijao preto dubom tipo 1 1kg", "a": "Feijão Carioca Dubom Tipo 1 1kg", "b": "Feijão Preto DuBom Tipo 1 1kg", "veredito": "diferente"},
+  {"k": "creme dental sorriso tripla limpeza 12x70g || creme dental sorriso tripla limpeza completa 70g", "a": "Creme Dental Sorriso Tripla Limpeza Completa 70g", "b": "Creme Dental Sorriso Tripla Limpeza 12x70g", "veredito": "diferente"},
+  {"k": "queijo gouda fracionado regina || queijo prato fracionado regina", "a": "Queijo Prato Fracionado Regina", "b": "Queijo Gouda Fracionado Regina", "veredito": "diferente"},
+  {"k": "extrato de tomate bonare 1,7kg || extrato de tomate tambau 1,7kg", "a": "Extrato de Tomate Bonare 1,7kg", "b": "Extrato de Tomate Tambaú 1,7kg", "veredito": "diferente"},
+  {"k": "feijao carioca meu biju pct 1kg || feijao preto meu biju pct 1kg", "a": "Feijão Preto Meu Biju pct 1kg", "b": "Feijão Carioca Meu Biju pct 1kg", "veredito": "diferente"},
+  {"k": "rosquinha mabel 300g sabores || rosquinha vitarella 300g sabores", "a": "Rosquinha VITARELLA 300g Sabores", "b": "Rosquinha Mabel 300g Sabores", "veredito": "diferente"},
+  {"k": "uva verde seleta 500g bandeja || uva vitoria seleta 500g bandeja", "a": "Uva Vitória Seleta 500g Bandeja", "b": "Uva Verde Seleta 500g Bandeja", "veredito": "diferente"}
+]}

@@ -1,0 +1,57 @@
+{
+  "decision": "keep",
+  "shortcode": "DbUEf7Djik8",
+  "inicio": "2026-07-28",
+  "fim": "2026-07-28",
+  "titulo": "Terça da Carne (28/07)",
+  "nota": "Datas impressas em todas as páginas: 'Ofertas válidas no dia 28/07/2026'. Perfil Rede Supercop (RN).",
+  "pages": {
+    "DbUEf7Djik8_p1": [
+      {"n":"Pernil Suíno Kg","p":"14,49","u":"kg","x":6,"y":47,"w":29,"h":10},
+      {"n":"Carne de Charque P.A. Bello Charque Kg","p":"44,99","u":"kg","x":39,"y":47,"w":29,"h":10},
+      {"n":"Músculo Bovino Kg","p":"29,99","u":"kg","x":68,"y":47,"w":29,"h":10},
+      {"n":"Costela Bovina P.A. Kg","p":"21,99","u":"kg","x":4,"y":58,"w":31,"h":13},
+      {"n":"Fígado Bovino Congelado Kg (peça ou pedaço)","p":"14,79","u":"kg","x":35,"y":58,"w":31,"h":13},
+      {"n":"Carne Bovina Chã de Fora Resfriado Kg","p":"36,99","u":"kg","x":67,"y":58,"w":31,"h":13},
+      {"n":"Carne Bovina Lombo Paulista Kg","p":"35,99","u":"kg","x":4,"y":78,"w":23,"h":14},
+      {"n":"Carne Bovina Patinho de Sol Kg","p":"38,99","u":"kg","x":29,"y":78,"w":23,"h":14},
+      {"n":"Carne Bovina Lombo Serrado Kg","p":"26,99","u":"kg","x":53,"y":78,"w":23,"h":14},
+      {"n":"Carne Bovina Posta Gorda Kg","p":"27,99","u":"kg","x":76,"y":78,"w":22,"h":14}
+    ],
+    "DbUEf7Djik8_p2": [
+      {"n":"Bacon em Manta Kg","p":"24,99","u":"kg","x":5,"y":51,"w":29,"h":11},
+      {"n":"Presunto Cozido Excelência Kg","p":"22,99","u":"kg","x":35,"y":50,"w":30,"h":12},
+      {"n":"Coxinhas das Asas de Frango Temperadas Lar IQF 700g","p":"9,99","u":"cada","x":64,"y":50,"w":33,"h":12},
+      {"n":"Linguiça Calabresa Excelência Black 400g","p":"10,99","u":"cada","x":4,"y":64,"w":30,"h":14},
+      {"n":"Tirinhas de Frango Empanadas Lar IQF 700g","p":"11,99","u":"cada","x":34,"y":63,"w":32,"h":15},
+      {"n":"Mortadela Tony Kg (aves ou mista)","p":"9,49","u":"kg","x":64,"y":63,"w":33,"h":15},
+      {"n":"Hambúrguer Misto Chuletão 56g","p":"0,79","u":"cada","x":8,"y":82,"w":30,"h":12},
+      {"n":"Fígado de Frango Lar IQF 700g","p":"5,99","u":"cada","x":45,"y":80,"w":42,"h":14}
+    ],
+    "DbUEf7Djik8_p3": [
+      {"n":"Batata Palito Pré-Frita Mazid 2Kg","p":"21,99","u":"cada","x":5,"y":50,"w":29,"h":14},
+      {"n":"Brócolis Congelado Lar 300g","p":"5,99","u":"cada","x":34,"y":52,"w":30,"h":12},
+      {"n":"Frango a Passarinho Lar Temperado IQF 700g","p":"8,99","u":"cada","x":64,"y":50,"w":33,"h":13},
+      {"n":"Salsicha Hot-Dog Avivar Kg","p":"5,99","u":"kg","x":5,"y":72,"w":28,"h":13},
+      {"n":"Filé de Tilápia Lar 700g","p":"36,99","u":"cada","x":34,"y":68,"w":32,"h":16},
+      {"n":"Filé de Peito de Frango Levo Bandeja 1Kg","p":"16,99","u":"cada","x":64,"y":70,"w":33,"h":15}
+    ],
+    "DbUEf7Djik8_p4": [
+      {"n":"Arroz Parboilizado Kika 1Kg","p":"3,29","u":"cada","x":5,"y":48,"w":29,"h":12},
+      {"n":"Massas Cortadas Galo Tricolor 500g (parafuso ou pena)","p":"4,99","u":"cada","x":34,"y":48,"w":31,"h":12},
+      {"n":"Farinha de Trigo Dona Maria sem Fermento 1Kg","p":"3,69","u":"cada","x":65,"y":48,"w":31,"h":12},
+      {"n":"Sardinha Coqueiro em Óleo 125g","p":"5,79","u":"cada","x":13,"y":60,"w":32,"h":12},
+      {"n":"Creme Culinário Mococa 200g","p":"1,89","u":"cada","x":56,"y":60,"w":32,"h":12},
+      {"n":"Leite de Coco Tambaú 200ml","p":"4,29","u":"cada","x":16,"y":77,"w":30,"h":13},
+      {"n":"Ervilhas Fugini Sachê 170g","p":"2,99","u":"cada","x":55,"y":77,"w":33,"h":13}
+    ],
+    "DbUEf7Djik8_p5": [
+      {"n":"Energético Infinity Drink 1L","p":"9,49","u":"cada","x":5,"y":50,"w":28,"h":13},
+      {"n":"Refrigerante Indaiá Refri 250ml (sabores)","p":"1,49","u":"cada","x":34,"y":50,"w":30,"h":13},
+      {"n":"Vinho Tinto Suave Randon 750ml","p":"14,99","u":"cada","x":65,"y":50,"w":31,"h":13},
+      {"n":"Sabão em Barra Invicto Neutro 5x180g","p":"9,49","u":"cada","x":5,"y":73,"w":28,"h":15},
+      {"n":"Água Sanitária Dragão 2L","p":"4,49","u":"cada","x":34,"y":72,"w":30,"h":16},
+      {"n":"Papel Higiênico Pimpo Folha Simples 4x30m (fragrâncias)","p":"2,49","u":"cada","x":64,"y":72,"w":33,"h":16}
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "decision": "keep",
+  "shortcode": "story_cortefacil.atacarejo_20260727",
+  "inicio": "2026-07-23",
+  "fim": "2026-07-28",
+  "titulo": "Segunda é Feira + Festival dos Queijos e Vinhos (27/07)",
+  "nota": "Períodos variados impressos: Festival dos Queijos 23 a 28/07 (predominante, usado no início/fim); Segunda é Feira válida SÓ no dia 27/07; Festival de Vinhos 17 a 31/07. Vários frames single-product repetem produtos das grades (Creme de Ricota, Queijo Parmesão, Queijo Prato Cobocó, Café Blend 53, Leite em Pó LeitBom, Batata Mazid, Vinho Chilano) — mantidos por página conforme instrução. Frames ignorados sem preço: selfie funcionária, repost 'bom dia', bolo coração, poll 'queridinhas', vitrine de prontos (só etiquetas de balança borradas), vídeo receita escondidinho.",
+  "pages": {
+    "story_cortefacil.atacarejo_3950416856998034383": [
+      {"n":"Ricota Cremosa Regina 200g","p":"4,49","u":"un","x":10,"y":37,"w":42,"h":12},
+      {"n":"Ricota Cremosa Regina Light 200g","p":"4,49","u":"un","x":52,"y":37,"w":45,"h":12},
+      {"n":"Queijo Brie Regina 115g","p":"6,99","u":"un","x":10,"y":51,"w":42,"h":13},
+      {"n":"Queijo Minas Padrão Regina Light (fracionado)","p":"39,99","u":"kg","x":52,"y":51,"w":45,"h":13},
+      {"n":"Queijo Minas Padrão Regina (fracionado)","p":"39,99","u":"kg","x":10,"y":64,"w":42,"h":13},
+      {"n":"Queijo Parmesão Regina","p":"49,99","u":"kg","x":52,"y":64,"w":45,"h":13},
+      {"n":"Queijo Prato Cobocó Regina","p":"49,99","u":"kg","x":10,"y":78,"w":42,"h":13},
+      {"n":"Queijo Prato Fracionado Regina","p":"59,99","u":"kg","x":52,"y":78,"w":45,"h":13}
+    ],
+    "story_cortefacil.atacarejo_3950417047134266993": [
+      {"n":"Queijo Gorgonzola Regina Azul","p":"59,99","u":"kg","x":10,"y":38,"w":42,"h":13},
+      {"n":"Queijo Gouda Fracionado Regina","p":"69,99","u":"kg","x":50,"y":38,"w":45,"h":13},
+      {"n":"Queijo Edam Regina","p":"69,99","u":"kg","x":10,"y":51,"w":42,"h":13},
+      {"n":"Queijo Estepe/Reino Fracionado Regina","p":"69,99","u":"kg","x":50,"y":51,"w":45,"h":13}
+    ],
+    "story_cortefacil.atacarejo_3950427766116112279": [
+      {"n":"Flocão de Milho Gratícia Pct 500g","p":"1,39","u":"un","x":10,"y":42,"w":40,"h":13},
+      {"n":"Leite UHT Integral Elegê 1 Litro","p":"5,99","u":"un","x":52,"y":42,"w":44,"h":13},
+      {"n":"Leite em Pó Integral LeitBom Pct 700g","p":"27,99","u":"un","x":10,"y":58,"w":40,"h":14},
+      {"n":"Café em Pó Blend 53 Almofada 250g (Tipos)","p":"11,69","u":"un","x":52,"y":58,"w":44,"h":14}
+    ],
+    "story_cortefacil.atacarejo_3950427797976145787": [
+      {"n":"Manteiga D'Nata com Sal Pote 500g","p":"17,99","u":"un","x":10,"y":42,"w":40,"h":13},
+      {"n":"Empanados de Frango Sadia Steak Congelado 100g","p":"1,89","u":"un","x":52,"y":42,"w":44,"h":13},
+      {"n":"Macarrão Parafuso Estrela Pct 400g","p":"3,49","u":"un","x":10,"y":58,"w":40,"h":14},
+      {"n":"Batata Mazid Pré-Frita Congelada Corte Tradicional Pct 2kg","p":"19,99","u":"un","x":52,"y":58,"w":44,"h":14}
+    ],
+    "story_cortefacil.atacarejo_3950447097098878978": [
+      {"n":"Vinho San Telmo 750ml (Tipos)","p":"29,99","u":"un","x":9,"y":40,"w":30,"h":12},
+      {"n":"Vinho Master Fan Club 750ml (Tipos)","p":"25,99","u":"un","x":38,"y":40,"w":30,"h":12},
+      {"n":"Vinho Tinto Gran Bodega Malbec 750ml","p":"21,99","u":"un","x":66,"y":40,"w":30,"h":12},
+      {"n":"Vinho Chilano 750ml (Tipos)","p":"24,99","u":"un","x":9,"y":52,"w":30,"h":12},
+      {"n":"Vinho Tantehue 750ml (Tipos)","p":"29,99","u":"un","x":38,"y":52,"w":30,"h":12},
+      {"n":"Vinho Yellow Tail 750ml (Tipos)","p":"54,99","u":"un","x":66,"y":52,"w":30,"h":12}
+    ],
+    "story_cortefacil.atacarejo_3950475600938335423": [
+      {"n":"Queijo Minas Padrão Regina (fracionado)","p":"39,99","u":"kg","x":10,"y":18,"w":80,"h":42},
+      {"n":"Queijo Gorgonzola Regina","p":"59,99","u":"kg","x":10,"y":62,"w":42,"h":35},
+      {"n":"Queijo do Reino Regina (fracionado)","p":"69,99","u":"kg","x":50,"y":62,"w":42,"h":35}
+    ],
+    "story_cortefacil.atacarejo_3950477582260465717": [
+      {"n":"Vinho Chilano Carménère 750ml","p":"24,99","u":"un","x":8,"y":15,"w":84,"h":72}
+    ],
+    "story_cortefacil.atacarejo_3950477739907430558": [
+      {"n":"Ricota Cremosa Regina 200g Light/Tradicional","p":"4,49","u":"un","x":15,"y":30,"w":70,"h":55}
+    ],
+    "story_cortefacil.atacarejo_3950493570972417309": [
+      {"n":"Café em Pó Blend 53 Tradicional 250g","p":"11,69","u":"un","x":8,"y":25,"w":84,"h":60}
+    ],
+    "story_cortefacil.atacarejo_3950504130946373705": [
+      {"n":"Leite em Pó Integral LeitBom 700g","p":"27,99","u":"un","x":8,"y":25,"w":84,"h":60}
+    ],
+    "story_cortefacil.atacarejo_3950524746277816720": [
+      {"n":"Queijo Parmesão Regina","p":"49,99","u":"kg","x":8,"y":30,"w":84,"h":55}
+    ],
+    "story_cortefacil.atacarejo_3950635770301561468": [
+      {"n":"Creme de Ricota Regina 200g","p":"4,49","u":"un","x":8,"y":30,"w":84,"h":55}
+    ],
+    "story_cortefacil.atacarejo_3950688650541477411": [
+      {"n":"Batata Mazid Fries Batatas Palito Pré-Fritas Congeladas 2kg","p":"19,99","u":"un","x":8,"y":30,"w":84,"h":55}
+    ],
+    "story_cortefacil.atacarejo_3950712883074066136": [
+      {"n":"Queijo Prato Cobocó Regina","p":"49,99","u":"kg","x":8,"y":30,"w":84,"h":55}
+    ]
+  }
+}

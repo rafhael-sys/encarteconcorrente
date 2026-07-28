@@ -1,0 +1,236 @@
+[
+ {
+  "k": "linguica de frango sadia ou linguica suina para churrasco aurora || linguica de frango sadia ou para churrasco aurora",
+  "a": "Linguiça de Frango Sadia ou para Churrasco Aurora",
+  "b": "Linguiça de Frango Sadia ou Linguiça Suína para Churrasco Aurora",
+  "foto_a": {
+   "imagem": "data/pages/DaTjUhZmPIF_p1.jpg",
+   "nome_impresso": "Linguiça de Frango Sadia ou para Churrasco Aurora",
+   "regiao_pct": {
+    "x": 59.5,
+    "y": 30.4,
+    "w": 18.3,
+    "h": 15.4
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Da0-2oJgT0o_p2.jpg",
+   "nome_impresso": "Linguiça de Frango Sadia ou Linguiça Suína para Churrasco Aurora",
+   "regiao_pct": {
+    "x": 43,
+    "y": 40,
+    "w": 17,
+    "h": 13
+   }
+  },
+  "r": 0.867
+ },
+ {
+  "k": "coxa com sobrecoxa c/dorsal kg || coxa e sobrecoxa sem dorsal kg",
+  "a": "Coxa com Sobrecoxa c/Dorsal kg",
+  "b": "Coxa e Sobrecoxa sem Dorsal kg",
+  "foto_a": {
+   "imagem": "data/pages/DatZqHLDwzo_p2.jpg",
+   "nome_impresso": "Coxa com Sobrecoxa c/Dorsal kg",
+   "regiao_pct": {
+    "x": 30,
+    "y": 84,
+    "w": 11,
+    "h": 6
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbG8I7LlOCU_p2.jpg",
+   "nome_impresso": "Coxa e Sobrecoxa sem Dorsal kg",
+   "regiao_pct": {
+    "x": 21,
+    "y": 72,
+    "w": 9,
+    "h": 6
+   }
+  },
+  "r": 0.867
+ },
+ {
+  "k": "feijao carioca dubom tipo 1 1kg || feijao preto dubom tipo 1 1kg",
+  "a": "Feijão Carioca Dubom Tipo 1 1kg",
+  "b": "Feijão Preto DuBom Tipo 1 1kg",
+  "foto_a": {
+   "imagem": "data/pages/lm_copa_p1.jpg",
+   "nome_impresso": "Feijão Carioca Dubom 1kg",
+   "regiao_pct": {
+    "x": 50.3,
+    "y": 33.8,
+    "w": 22.5,
+    "h": 16.9
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DaoUj8YjXJP_p2.jpg",
+   "nome_impresso": "Feijão Preto DuBom Tipo 1 1kg",
+   "regiao_pct": {
+    "x": 3,
+    "y": 13,
+    "w": 22,
+    "h": 15
+   }
+  },
+  "r": 0.867
+ },
+ {
+  "k": "creme dental sorriso tripla limpeza 12x70g || creme dental sorriso tripla limpeza completa 70g",
+  "a": "Creme Dental Sorriso Tripla Limpeza Completa 70g",
+  "b": "Creme Dental Sorriso Tripla Limpeza 12x70g",
+  "foto_a": {
+   "imagem": "data/pages/lm_selecao_p3.jpg",
+   "nome_impresso": "Creme Dental Sorriso Tripla Limpeza Completa 70g",
+   "regiao_pct": {
+    "x": 18.8,
+    "y": 24.0,
+    "w": 15.4,
+    "h": 11.3
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_levamaisjc_3940405180808339745.jpg",
+   "nome_impresso": "Creme Dental Sorriso Tripla Limpeza 12x70g",
+   "regiao_pct": {
+    "x": 56,
+    "y": 50,
+    "w": 20,
+    "h": 9
+   }
+  },
+  "r": 0.867
+ },
+ {
+  "k": "queijo gouda fracionado regina || queijo prato fracionado regina",
+  "a": "Queijo Prato Fracionado Regina",
+  "b": "Queijo Gouda Fracionado Regina",
+  "foto_a": {
+   "imagem": "data/pages/DbI789bGtmG_p2.jpg",
+   "nome_impresso": "Queijo Prato Fracionado Regina",
+   "regiao_pct": {
+    "x": 78,
+    "y": 42,
+    "w": 16,
+    "h": 8
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbI789bGtmG_p2.jpg",
+   "nome_impresso": "Queijo Gouda Fracionado Regina",
+   "regiao_pct": {
+    "x": 78,
+    "y": 62,
+    "w": 16,
+    "h": 8
+   }
+  },
+  "r": 0.867
+ },
+ {
+  "k": "extrato de tomate bonare 1,7kg || extrato de tomate tambau 1,7kg",
+  "a": "Extrato de Tomate Bonare 1,7kg",
+  "b": "Extrato de Tomate Tambaú 1,7kg",
+  "foto_a": {
+   "imagem": "data/pages/Dad0eT1hOow_p1.jpg",
+   "nome_impresso": "Extrato de Tomate Bonare 1,7kg",
+   "regiao_pct": {
+    "x": 5,
+    "y": 82,
+    "w": 15,
+    "h": 13
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_queirozatacadaojoaocamara_3939643684665072782.jpg",
+   "nome_impresso": "Extrato de Tomate Tambaú 1,7kg",
+   "regiao_pct": {
+    "x": 75,
+    "y": 39,
+    "w": 19,
+    "h": 12
+   }
+  },
+  "r": 0.867
+ },
+ {
+  "k": "feijao carioca meu biju pct 1kg || feijao preto meu biju pct 1kg",
+  "a": "Feijão Preto Meu Biju pct 1kg",
+  "b": "Feijão Carioca Meu Biju pct 1kg",
+  "foto_a": {
+   "imagem": "data/pages/DaTjUhZmPIF_p2.jpg",
+   "nome_impresso": "Feijão Preto Meu Biju pct 1kg",
+   "regiao_pct": {
+    "x": 26.1,
+    "y": 11.1,
+    "w": 16.7,
+    "h": 13.4
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbGFly3Ffn7_p2.jpg",
+   "nome_impresso": "Feijão Carioca Meu Biju pct 1kg",
+   "regiao_pct": {
+    "x": 70,
+    "y": 20,
+    "w": 12,
+    "h": 9
+   }
+  },
+  "r": 0.867
+ },
+ {
+  "k": "rosquinha mabel 300g sabores || rosquinha vitarella 300g sabores",
+  "a": "Rosquinha VITARELLA 300g Sabores",
+  "b": "Rosquinha Mabel 300g Sabores",
+  "foto_a": {
+   "imagem": "data/pages/rm_copa_p2.jpg",
+   "nome_impresso": "Rosquinha VITARELLA 300g Sabores",
+   "regiao_pct": {
+    "x": 56.9,
+    "y": 76.2,
+    "w": 18.8,
+    "h": 7.6
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbCEgdfj_vF_p3.jpg",
+   "nome_impresso": "Rosquinha Mabel 300g Sabores",
+   "regiao_pct": {
+    "x": 28,
+    "y": 72,
+    "w": 22,
+    "h": 12
+   }
+  },
+  "r": 0.867
+ },
+ {
+  "k": "uva verde seleta 500g bandeja || uva vitoria seleta 500g bandeja",
+  "a": "Uva Vitória Seleta 500g Bandeja",
+  "b": "Uva Verde Seleta 500g Bandeja",
+  "foto_a": {
+   "imagem": "data/pages/Dayg5UqD4eu_p1.jpg",
+   "nome_impresso": "Uva Vitória Seleta 500g Bandeja",
+   "regiao_pct": {
+    "x": 2,
+    "y": 47,
+    "w": 24,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dayg5UqD4eu_p1.jpg",
+   "nome_impresso": "Uva Verde Seleta 500g Bandeja",
+   "regiao_pct": {
+    "x": 26,
+    "y": 79,
+    "w": 23,
+    "h": 16
+   }
+  },
+  "r": 0.867
+ }
+]

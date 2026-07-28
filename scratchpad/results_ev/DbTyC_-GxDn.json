@@ -1,0 +1,40 @@
+{
+  "decision": "keep",
+  "shortcode": "DbTyC_-GxDn",
+  "inicio": "2026-07-25",
+  "fim": "2026-07-27",
+  "titulo": "MarZap Mar Vermelho — Ofertas de sábado a segunda (25 a 27/07)",
+  "nota": "Carrossel MarZap do Mar Vermelho Atacado (Natal/RN, tel. 84). 1 produto por página, 10 páginas. Datas não impressas em números: arte diz 'Ofertas de sábado a segunda' => 25/07 (sáb) a 27/07 (seg). Selos 'EXCETO CEASA' (p2, p6) e 'EXCLUSIVO BR-NATAL' (p1) apenas anotados. Posições aproximadas (página de 1 produto).",
+  "pages": {
+    "DbTyC_-GxDn_p1": [
+      {"n": "Presunto de Peru Seara (peça ou fatiado) kg", "p": "27,99", "u": "kg (peça)", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTyC_-GxDn_p2": [
+      {"n": "Queijo Mussarela Sertão Jucurutu Fatiado 500g", "p": "21,90", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTyC_-GxDn_p3": [
+      {"n": "Costela Bovina Congelada kg", "p": "19,98", "u": "kg", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTyC_-GxDn_p4": [
+      {"n": "Filezinho de Peito de Frango Perdigão Congelado 1kg", "p": "17,99", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTyC_-GxDn_p5": [
+      {"n": "Almôndega Chuletão Bovina Congelada 1kg", "p": "17,49", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTyC_-GxDn_p6": [
+      {"n": "Camarão Inteiro Camanor Tamanho 60/70 Congelado kg", "p": "35,98", "u": "kg", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTyC_-GxDn_p7": [
+      {"n": "Galinha Grande Somave Congelada kg", "p": "7,59", "u": "kg", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTyC_-GxDn_p8": [
+      {"n": "Aguardente 51 Mel 740ml", "p": "23,99", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTyC_-GxDn_p9": [
+      {"n": "Aguardente 51 Ouro 965ml", "p": "12,99", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTyC_-GxDn_p10": [
+      {"n": "51 Ice Long Neck Sabores 275ml", "p": "4,89", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ]
+  }
+}

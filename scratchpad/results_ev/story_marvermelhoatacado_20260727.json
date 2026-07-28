@@ -1,0 +1,137 @@
+{
+  "decision": "keep",
+  "shortcode": "story_marvermelhoatacado_20260727",
+  "inicio": "2026-07-24",
+  "fim": "2026-07-30",
+  "titulo": "MarZap - Ofertas da Semana (24 a 30/07)",
+  "nota": "Story longo com janelas de validade diferentes por frame: encartes principais (grades) e MarZap avulsos valem 24-30/07 (predominante, usado no inicio/fim); Festival de Molhos & Sabores vale 23-27/07; Downy/Oral-B/Always/Old Spice 27-31/07; frames Ofertas Especiais (terca/quarta) 28-29/07. Todas as lojas sao do RN (BR-Natal, Parnamirim, Zona Norte, Ceasa) => keep. Alguns produtos avulsos repetem itens das grades (Arroz Laguna, Acucar Alegre, Pippo's, Eisenbahn, Rexona). Frames sem preco ignorados: 3950478238833958739 (compre-e-ganhe Toque Final), 3950555242111414939 (vagas de emprego), 3950674831475187442 (food truck Nissin), 3950803375542188356 (teaser Ofertas Especiais).",
+  "pages": {
+    "story_marvermelhoatacado_3950388645212142484": [
+      {"n":"Coxão Mole Bovino Resfriado Peça ou Pedaço","p":"35,88","u":"kg","x":2,"y":24,"w":22,"h":18},
+      {"n":"Coxas e Sobrecoxas de Frango Guibon ou Jaguá Congeladas com Dorsal","p":"6,99","u":"kg","x":25,"y":24,"w":20,"h":18},
+      {"n":"Peito de Frango Real Congelado","p":"8,99","u":"kg","x":46,"y":24,"w":22,"h":18},
+      {"n":"Arroz Parboilizado Laguna Tipo 1 1kg","p":"2,99","u":"cada","x":76,"y":24,"w":22,"h":18},
+      {"n":"Leite Integral Natville UHT TP 1L","p":"5,89","u":"cada","x":2,"y":38,"w":24,"h":13},
+      {"n":"Feijão Carioca DuBom Tipo 1 1kg","p":"6,99","u":"cada","x":26,"y":38,"w":24,"h":13},
+      {"n":"Macarrão Espaguete Estrela Gostoso 400g","p":"1,99","u":"cada","x":50,"y":38,"w":24,"h":13},
+      {"n":"Flocão de Milho Fortemilho 400g","p":"0,98","u":"cada","x":76,"y":38,"w":23,"h":13},
+      {"n":"Café Moído São Braz Família SC 250g","p":"11,99","u":"cada","x":2,"y":51,"w":24,"h":12},
+      {"n":"Açúcar Alegre Triturado 1kg","p":"2,59","u":"cada","x":26,"y":51,"w":24,"h":12},
+      {"n":"Leite Condensado Natville Semidesnatado TP 395g","p":"5,49","u":"cada","x":50,"y":51,"w":24,"h":12},
+      {"n":"Margarina Primor com Sal 500g","p":"4,99","u":"cada","x":76,"y":51,"w":23,"h":12},
+      {"n":"Farinha de Trigo Finna Tradicional 1kg","p":"3,65","u":"cada","x":2,"y":63,"w":24,"h":12},
+      {"n":"Biscoito Cream Cracker Caprishow 301,5g","p":"3,49","u":"cada","x":26,"y":63,"w":24,"h":12},
+      {"n":"Molho de Tomate Fugini Tradicional SC 300g","p":"0,99","u":"cada","x":50,"y":63,"w":24,"h":12},
+      {"n":"Linguiça de Frango Aurora Congelada","p":"13,98","u":"kg","x":76,"y":63,"w":23,"h":12},
+      {"n":"Fígado de Frango Perdigão Congelado SC 1kg","p":"5,49","u":"cada","x":2,"y":75,"w":24,"h":13},
+      {"n":"Capa de Filé Bovina Resfriada a Vácuo ou Congelada","p":"29,98","u":"kg","x":26,"y":75,"w":24,"h":13},
+      {"n":"Detergente Líquido para Roupas OMO Lavagem Perfeita 1,8L","p":"19,98","u":"cada","x":50,"y":75,"w":24,"h":13},
+      {"n":"Amaciante Concentrado para Roupas Downy Fragrâncias 500ml","p":"9,98","u":"cada","x":76,"y":75,"w":23,"h":13}
+    ],
+    "story_marvermelhoatacado_3950388903036017881": [
+      {"n":"Catchup Tambaú 100% Nordestino Tradicional PET 830g","p":"6,49","u":"cada","x":1,"y":7,"w":19,"h":10},
+      {"n":"Batata Palha Boa Tradicional 800g","p":"18,99","u":"cada","x":20,"y":7,"w":19,"h":10},
+      {"n":"Maionese Quero SC 1,020kg","p":"10,99","u":"cada","x":40,"y":7,"w":19,"h":10},
+      {"n":"Mostarda Dusul PET 3,2kg","p":"16,99","u":"cada","x":60,"y":7,"w":19,"h":10},
+      {"n":"Farinha Láctea Nestlé SC 160g","p":"4,59","u":"cada","x":80,"y":7,"w":19,"h":10},
+      {"n":"Salgadinho Pippo's São Braz Sabores 30g","p":"1,49","u":"cada","x":1,"y":18,"w":19,"h":10},
+      {"n":"Doce de Leite Clan 380g","p":"8,49","u":"cada","x":20,"y":18,"w":19,"h":10},
+      {"n":"Achocolatado em Pó 3 Corações Chocolatto SC 700g","p":"13,99","u":"cada","x":40,"y":18,"w":19,"h":10},
+      {"n":"Energético Infinity PET 269ml","p":"3,39","u":"cada","x":60,"y":18,"w":19,"h":10},
+      {"n":"Refrigerante Guaraná Antarctica PET 2L","p":"7,99","u":"cada","x":80,"y":18,"w":19,"h":10},
+      {"n":"Kit Coca-Cola + Fanta Laranja 2L","p":"18,69","u":"cada","x":1,"y":29,"w":19,"h":10},
+      {"n":"Suco de Uva Integral OQ VD 1,5L","p":"16,89","u":"cada","x":20,"y":29,"w":19,"h":10},
+      {"n":"Água Mineral Petrópolis com Gás PET 500ml","p":"1,19","u":"cada","x":40,"y":29,"w":19,"h":10},
+      {"n":"Cachaça Ypióca Mestre Prata 965ml","p":"15,89","u":"cada","x":60,"y":29,"w":19,"h":10},
+      {"n":"Vodka Destilada Smirnoff 998ml","p":"35,99","u":"cada","x":80,"y":29,"w":19,"h":10},
+      {"n":"Campari Bitter 998ml","p":"59,98","u":"cada","x":1,"y":39,"w":19,"h":10},
+      {"n":"Cerveja Eisenbahn Pilsen Lata 350ml","p":"3,49","u":"cada","x":20,"y":39,"w":19,"h":10},
+      {"n":"Cerveja Amstel Ultra Lata 269ml","p":"3,55","u":"cada","x":40,"y":39,"w":19,"h":10},
+      {"n":"Sobrecoxas Bom Todo Congeladas BDJ 1kg","p":"11,98","u":"cada","x":60,"y":39,"w":19,"h":10},
+      {"n":"Filé de Peito de Frango Sadia Congelado BDJ 1kg","p":"19,49","u":"cada","x":80,"y":39,"w":19,"h":10},
+      {"n":"Frango a Passarinho Super Frango Congelado 1kg","p":"10,49","u":"cada","x":1,"y":49,"w":19,"h":10},
+      {"n":"Linguiça Calabresa Sadia","p":"26,48","u":"kg","x":20,"y":49,"w":19,"h":10},
+      {"n":"Requeijão Cremoso Betânia Tradicional 200g","p":"6,79","u":"cada","x":40,"y":49,"w":19,"h":10},
+      {"n":"Queijo Parmesão La Paulina Peça ou Pedaço","p":"42,90","u":"kg","x":60,"y":49,"w":19,"h":10},
+      {"n":"Manteiga Itambé com Sal PT 500g","p":"20,49","u":"cada","x":80,"y":49,"w":19,"h":10},
+      {"n":"Bebida Láctea Clan Sabores BDJ 540g","p":"4,49","u":"cada","x":1,"y":59,"w":19,"h":10},
+      {"n":"Batata Pré-frita McCain Clássicas 2kg","p":"27,98","u":"cada","x":20,"y":59,"w":19,"h":10},
+      {"n":"Detergente em Pó Brilhante 5X Brilho Ativo Fragrâncias 1,6kg","p":"14,99","u":"cada","x":40,"y":59,"w":19,"h":10},
+      {"n":"Sabão em Barra Minuano Neutro 5x160g","p":"9,98","u":"cada","x":60,"y":59,"w":19,"h":10},
+      {"n":"Detergente Líquido Invicto Fragrâncias 500ml","p":"1,89","u":"cada","x":80,"y":59,"w":19,"h":10},
+      {"n":"Creme Dental Oral-B Sabores 70g","p":"3,19","u":"cada","x":1,"y":70,"w":19,"h":11},
+      {"n":"Desodorante Aerossol Dove Men ou Women Fragrâncias 200ml","p":"16,90","u":"cada","x":20,"y":70,"w":19,"h":11},
+      {"n":"Sabonete Rexona Antibacterial Fragrâncias 84g","p":"2,19","u":"cada","x":40,"y":70,"w":19,"h":11},
+      {"n":"Papel Higiênico Floral Neutro Folha Dupla 20m 12 Unidades","p":"10,49","u":"cada","x":60,"y":70,"w":19,"h":11},
+      {"n":"Água Sanitária Dragão 2L","p":"3,79","u":"cada","x":80,"y":70,"w":19,"h":11}
+    ],
+    "story_marvermelhoatacado_3950418842422604997": [
+      {"n":"Arroz Parboilizado Laguna Tipo 1 1kg","p":"2,99","u":"cada","x":8,"y":35,"w":84,"h":45}
+    ],
+    "story_marvermelhoatacado_3950419102351968339": [
+      {"n":"Frango a Passarinho Super Frango Congelado 1kg","p":"10,49","u":"cada","x":8,"y":38,"w":84,"h":40}
+    ],
+    "story_marvermelhoatacado_3950419341066613854": [
+      {"n":"Açúcar Alegre Triturado 1kg","p":"2,59","u":"cada","x":8,"y":38,"w":84,"h":42}
+    ],
+    "story_marvermelhoatacado_3950419590829002691": [
+      {"n":"Salgadinho Pippo's São Braz Sabores 30g","p":"1,49","u":"cada","x":8,"y":38,"w":84,"h":42}
+    ],
+    "story_marvermelhoatacado_3950419826154643331": [
+      {"n":"Cerveja Eisenbahn Pilsen Lata 350ml","p":"3,49","u":"cada","x":8,"y":38,"w":84,"h":42}
+    ],
+    "story_marvermelhoatacado_3950420075162105313": [
+      {"n":"Sabonete Rexona Antibacterial Fragrâncias 84g","p":"2,19","u":"cada","x":8,"y":40,"w":84,"h":40}
+    ],
+    "story_marvermelhoatacado_3950493336080212464": [
+      {"n":"Molho Madeira Tambaú SC 300g","p":"2,79","u":"cada","x":2,"y":39,"w":31,"h":13},
+      {"n":"Extrato de Tomate Elefante TP 275g","p":"4,99","u":"cada","x":34,"y":39,"w":31,"h":13},
+      {"n":"Extrato de Tomate Elefante Sabores PT 300g","p":"6,99","u":"cada","x":67,"y":39,"w":31,"h":13},
+      {"n":"Passata de Tomate Pomarola Chef SC 300g","p":"4,29","u":"cada","x":2,"y":54,"w":31,"h":13},
+      {"n":"Molho de Tomate Pomarola Tradicional SC 200g","p":"1,99","u":"cada","x":34,"y":54,"w":31,"h":13},
+      {"n":"Molho de Tomate Pomarola Chef Tradicional VD 420g","p":"13,99","u":"cada","x":67,"y":54,"w":31,"h":13},
+      {"n":"Molho Pesto Pomarola Chef VD 190g","p":"19,98","u":"cada","x":2,"y":69,"w":31,"h":13},
+      {"n":"Molho de Salada Liza Sabores 234ml","p":"8,99","u":"cada","x":34,"y":69,"w":31,"h":13},
+      {"n":"Maionese Liza SC 400g","p":"4,99","u":"cada","x":67,"y":69,"w":31,"h":13}
+    ],
+    "story_marvermelhoatacado_3950740459791051661": [
+      {"n":"Amaciante Concentrado Downy 1L","p":"17,99","u":"cada","x":8,"y":38,"w":84,"h":50}
+    ],
+    "story_marvermelhoatacado_3950740718629890447": [
+      {"n":"Creme Dental Oral-B 4 em 1 e Extra Branco 180g","p":"6,49","u":"cada","x":8,"y":50,"w":84,"h":40}
+    ],
+    "story_marvermelhoatacado_3950740985991598780": [
+      {"n":"Absorvente Always Noturno Ultra Suave ou Seca Fluxo Intenso com Abas 32 unidades","p":"23,99","u":"pct","x":8,"y":48,"w":84,"h":45}
+    ],
+    "story_marvermelhoatacado_3950741240820747072": [
+      {"n":"Desodorante Old Spice Spray Antitranspirante 250ml","p":"16,99","u":"cada","x":8,"y":40,"w":84,"h":50}
+    ],
+    "story_marvermelhoatacado_3950811428119599354": [
+      {"n":"Charque Dianteiro Caicó","p":"38,99","u":"kg","x":8,"y":30,"w":84,"h":45}
+    ],
+    "story_marvermelhoatacado_3950811704222238735": [
+      {"n":"Queijo Parmesão Galbani Cilindro 180g","p":"23,99","u":"cada","x":8,"y":32,"w":84,"h":42}
+    ],
+    "story_marvermelhoatacado_3950811963144751404": [
+      {"n":"Linguiça Calabresa Chuletão 2,5kg","p":"16,79","u":"kg","x":8,"y":28,"w":84,"h":45}
+    ],
+    "story_marvermelhoatacado_3950812228426116439": [
+      {"n":"Filézinho de Frango Aurora PC 1kg","p":"15,99","u":"cada","x":8,"y":30,"w":84,"h":42}
+    ],
+    "story_marvermelhoatacado_3950812479841085724": [
+      {"n":"Peito de Frango Bom Todo Congelado BDJ 1kg","p":"15,39","u":"cada","x":8,"y":30,"w":84,"h":42}
+    ],
+    "story_marvermelhoatacado_3950812753838199733": [
+      {"n":"Manteiga Itacolomy com Sal PT 200g","p":"11,98","u":"cada","x":8,"y":32,"w":84,"h":42}
+    ],
+    "story_marvermelhoatacado_3950812985632190320": [
+      {"n":"Coxas e Sobrecoxas Bom Todo Congeladas BDJ 1kg","p":"10,99","u":"cada","x":8,"y":30,"w":84,"h":42}
+    ],
+    "story_marvermelhoatacado_3950813235629522243": [
+      {"n":"Mortadela de Frango Friato Peça ou Pedaço","p":"6,99","u":"kg","x":8,"y":30,"w":84,"h":45}
+    ],
+    "story_marvermelhoatacado_3950813497664457697": [
+      {"n":"Mistura de Requeijão Natural da Vaca Tradicional 200g","p":"4,69","u":"cada","x":8,"y":32,"w":84,"h":42}
+    ]
+  }
+}

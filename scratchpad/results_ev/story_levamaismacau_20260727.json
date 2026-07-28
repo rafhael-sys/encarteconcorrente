@@ -1,0 +1,37 @@
+{
+  "decision": "keep",
+  "shortcode": "story_levamaismacau_20260727",
+  "inicio": "2026-07-27",
+  "fim": "2026-08-01",
+  "titulo": "Ofertas Leva Mais Atacarejo (27/07 a 01/08)",
+  "nota": "Frames varejo (1 produto por frame) extraidos. Frames de televendas B2B (teaser TELEMAIS, grades 'O SEU TELEVENDAS' com caixa fechada/minimo, e contatos de consultor) ignorados conforme instrucao. Validade 27/07 a 01/08/2026 impressa nos frames de televendas do mesmo story; aplicada aos varejos (sem data impressa propria).",
+  "pages": {
+    "story_levamaismacau_3950488903207121717": [
+      {"n": "Acucar Triturado Alegre 1kg", "p": "2,69", "u": "un", "x": 10, "y": 25, "w": 80, "h": 60}
+    ],
+    "story_levamaismacau_3950488942323353804": [
+      {"n": "Flocao de Milho Dona Clara Premium 500g", "p": "1,39", "u": "un", "x": 10, "y": 25, "w": 80, "h": 60}
+    ],
+    "story_levamaismacau_3950488967170241223": [
+      {"n": "Leite em Po Integral Nestle Ninho Sache 750g", "p": "31,98", "u": "un", "x": 10, "y": 25, "w": 80, "h": 60}
+    ],
+    "story_levamaismacau_3950489009255892976": [
+      {"n": "Coxa com Sobrecoxa com Dorsal LAR Congelada", "p": "7,49", "u": "kg", "x": 10, "y": 25, "w": 80, "h": 60}
+    ],
+    "story_levamaismacau_3950489048246306567": [
+      {"n": "Farinha de Trigo Finna Tradicional 1kg", "p": "3,69", "u": "un", "x": 10, "y": 25, "w": 80, "h": 60}
+    ],
+    "story_levamaismacau_3950489086733122558": [
+      {"n": "Leite UHT Integral Natville 1L", "p": "5,49", "u": "un", "x": 10, "y": 25, "w": 80, "h": 60}
+    ],
+    "story_levamaismacau_3950489114726047700": [
+      {"n": "Leite Condensado CCGL Semidesnatado 395g", "p": "5,69", "u": "un", "x": 10, "y": 25, "w": 80, "h": 60}
+    ],
+    "story_levamaismacau_3950489142676780908": [
+      {"n": "Ervilha e Milho / Milho Fugini 170g", "p": "2,99", "u": "un", "x": 10, "y": 25, "w": 80, "h": 60}
+    ],
+    "story_levamaismacau_3950489179880184011": [
+      {"n": "Margarina Deline Cremosa com Sal 500g", "p": "4,79", "u": "un", "x": 10, "y": 25, "w": 80, "h": 60}
+    ]
+  }
+}

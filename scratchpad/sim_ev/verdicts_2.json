@@ -1,0 +1,11 @@
+{"verdicts": [
+  {"k": "file de peito de frango lar congelado bdj 1kg || file de peito de frango sadia congelado iqf 1kg", "a": "Filé de Peito de Frango Sadia Congelado IQF 1kg", "b": "Filé de Peito de Frango Lar Congelado Bdj 1kg", "veredito": "diferente"},
+  {"k": "aranha bovina a vacuo masterboi kg || coracao bovino a vacuo masterboi kg", "a": "Aranha Bovina a Vácuo Masterboi kg", "b": "Coração Bovino a Vácuo Masterboi kg", "veredito": "diferente"},
+  {"k": "arroz parboilizado fazenda 1kg || arroz parboilizado fazenda fardo 10x1kg", "a": "Arroz Parboilizado Fazenda 1kg", "b": "Arroz Parboilizado Fazenda Fardo 10x1kg", "veredito": "diferente"},
+  {"k": "suco de uva casa da serra 1,5l || suco de uva casa da serra 1,5l integral", "a": "Suco de Uva Casa da Serra 1,5L Integral", "b": "Suco de Uva Casa da Serra 1,5L", "veredito": "mesmo"},
+  {"k": "carne bovina peito com osso reserva resfriada || carne bovina ponta de peito sem osso reserva resfriada", "a": "Carne Bovina Peito com Osso Reserva Resfriada", "b": "Carne Bovina Ponta de Peito sem Osso Reserva Resfriada", "veredito": "diferente"},
+  {"k": "file de peito de frango lar congelado bdj 1kg || file de peito de frango super frango congelado bdj 1kg", "a": "Filé de Peito de Frango Super Frango Congelado BDJ 1kg", "b": "Filé de Peito de Frango Lar Congelado Bdj 1kg", "veredito": "diferente"},
+  {"k": "farinha de trigo dona maria tradicional 1kg || farinha de trigo dona maria tradicional sem fermento 1kg", "a": "Farinha de Trigo Dona Maria Tradicional sem Fermento 1Kg", "b": "Farinha de Trigo Dona Maria Tradicional 1kg", "veredito": "mesmo"},
+  {"k": "carne bovina coxao duro friboi porcionada resfriada || carne bovina patinho friboi porcionada resfriada", "a": "Carne Bovina Coxão Duro Friboi Porcionada Resfriada", "b": "Carne Bovina Patinho Friboi Porcionada Resfriada", "veredito": "diferente"},
+  {"k": "arroz parboilizado fazenda fardo 10x1kg || arroz parboilizado fazenda tipo 1 1kg", "a": "Arroz Parboilizado Fazenda Tipo 1 1kg", "b": "Arroz Parboilizado Fazenda Fardo 10x1kg", "veredito": "diferente"}
+]}

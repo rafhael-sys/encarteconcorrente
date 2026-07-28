@@ -7568,5 +7568,384 @@
   "b": "Papel Higiênico Felitá Care Folha Dupla 20m C/12",
   "veredito": "diferente",
   "quando": "2026-07-27"
+ },
+ "desodorante aerosol nivea fragrancias frasco 200ml || desodorante aerossol nivea fragrancias frasco 200ml": {
+  "a": "Desodorante Aerosol Nivea Fragrâncias Frasco 200ml",
+  "b": "Desodorante Aerossol Nivea Fragrâncias Frasco 200ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "hamburguer de carne de frango e suina tradicional congelado rezende 36x56g || hamburguer de carne de frango e suina tradicional congelado rezende caixeta 36x56g": {
+  "a": "Hambúrguer de Carne de Frango e Suína Tradicional Congelado Rezende Caixeta 36x56g",
+  "b": "Hambúrguer de Carne de Frango e Suína Tradicional Congelado Rezende 36x56g",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "maionese hellmann's sache 200g || maionese hellmann's sh 200g": {
+  "a": "Maionese Hellmann's SH 200g",
+  "b": "Maionese Hellmann's Sachê 200g",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "file de peito de frango congelado seara bandeja 1kg || file de peito de frango congelado super frango bandeja 1kg": {
+  "a": "Filé de Peito de Frango Congelado Seara Bandeja 1kg",
+  "b": "Filé de Peito de Frango Congelado Super Frango Bandeja 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "inseticida aerossol raid tipos 420ml || inseticida aerossol raid tipos frasco 420ml": {
+  "a": "Inseticida Aerossol Raid Tipos 420ml",
+  "b": "Inseticida Aerossol Raid Tipos Frasco 420ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "esponja de aco bombril pacote 45g || esponja la de aco bombril pct 45g": {
+  "a": "Esponja Lã de Aço Bombril PCT 45g",
+  "b": "Esponja de Aço Bombril Pacote 45g",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "lava roupas liquido urca maxx fragrancias galao 5l || lava-roupas liquido omo fragrancias galao 5l": {
+  "a": "Lava Roupas Líquido Urca Maxx Fragrâncias Galão 5L",
+  "b": "Lava-Roupas Líquido OMO Fragrâncias Galão 5L",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "file de peito de frango congelado natto bandeja 1kg || file de peito de frango congelado super frango bandeja 1kg": {
+  "a": "Filé de Peito de Frango Congelado Natto Bandeja 1kg",
+  "b": "Filé de Peito de Frango Congelado Super Frango Bandeja 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "fraldinha bovina resfriada a vacuo masterboi || picanha bovina resfriada a vacuo masterboi kg": {
+  "a": "Picanha Bovina Resfriada a Vácuo Masterboi KG",
+  "b": "Fraldinha Bovina Resfriada a Vácuo Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "pizza congelada perdigao sabores caixeta 460g || pizza congelada rezende sabores caixeta 460g": {
+  "a": "Pizza Congelada Perdigão Sabores caixeta 460g",
+  "b": "Pizza Congelada Rezende Sabores Caixeta 460g",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "desodorante aerossol dove varias fragrancias frasco com 200ml || desodorante aerossol nivea fragrancias frasco 200ml": {
+  "a": "Desodorante Aerossol Dove Várias fragrâncias Frasco com 200ml",
+  "b": "Desodorante Aerossol Nivea Fragrâncias Frasco 200ml",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "queijo tipo mussarela italac || queijo tipo mussarela italac fatiado": {
+  "a": "Queijo Tipo Mussarela Italac fatiado",
+  "b": "Queijo Tipo Mussarela Italac",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "bebida lactea clan sabores bandeja 540g || bebida lactea polpa betania sabores bandeja 540g": {
+  "a": "Bebida Láctea Clan Sabores Bandeja 540g",
+  "b": "Bebida Láctea Polpa Betânia Sabores Bandeja 540g",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "azeitonas verdes com carocos la preferida vidro 500g peso drenado || azeitonas verdes com carocos vale fertil vidro 500g drenado": {
+  "a": "Azeitonas Verdes com Caroços La Preferida vidro 500g peso drenado",
+  "b": "Azeitonas Verdes com Caroços Vale Fértil Vidro 500g Drenado",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "papel higienico floral f/d 20m c/12 || papel higienico noble f/d 20m c/12": {
+  "a": "Papel Higiênico Floral F/D 20m C/12",
+  "b": "Papel Higiênico Noble F/D 20m c/12",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "limpador multiuso veja original frasco com 500ml || limpador multiuso veja original pack 4x500ml": {
+  "a": "Limpador Multiuso Veja Original Frasco com 500ml",
+  "b": "Limpador Multiuso Veja Original Pack 4x500ml",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "desodorante aerosol rexona tb 200ml || desodorante aerosol suave tb 200ml": {
+  "a": "Desodorante Aerosol Rexona tb 200ml",
+  "b": "Desodorante Aerosol Suave Tb 200ml",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "file de peito de frango lar congelado bdj 1kg || file de peito de frango sadia congelado iqf 1kg": {
+  "a": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
+  "b": "Filé de Peito de Frango Lar Congelado Bdj 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "aranha bovina a vacuo masterboi kg || coracao bovino a vacuo masterboi kg": {
+  "a": "Aranha Bovina a Vácuo Masterboi kg",
+  "b": "Coração Bovino a Vácuo Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "arroz parboilizado fazenda 1kg || arroz parboilizado fazenda fardo 10x1kg": {
+  "a": "Arroz Parboilizado Fazenda 1kg",
+  "b": "Arroz Parboilizado Fazenda Fardo 10x1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "suco de uva casa da serra 1,5l || suco de uva casa da serra 1,5l integral": {
+  "a": "Suco de Uva Casa da Serra 1,5L Integral",
+  "b": "Suco de Uva Casa da Serra 1,5L",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "carne bovina peito com osso reserva resfriada || carne bovina ponta de peito sem osso reserva resfriada": {
+  "a": "Carne Bovina Peito com Osso Reserva Resfriada",
+  "b": "Carne Bovina Ponta de Peito sem Osso Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "file de peito de frango lar congelado bdj 1kg || file de peito de frango super frango congelado bdj 1kg": {
+  "a": "Filé de Peito de Frango Super Frango Congelado BDJ 1kg",
+  "b": "Filé de Peito de Frango Lar Congelado Bdj 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "farinha de trigo dona maria tradicional 1kg || farinha de trigo dona maria tradicional sem fermento 1kg": {
+  "a": "Farinha de Trigo Dona Maria Tradicional sem Fermento 1Kg",
+  "b": "Farinha de Trigo Dona Maria Tradicional 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "carne bovina coxao duro friboi porcionada resfriada || carne bovina patinho friboi porcionada resfriada": {
+  "a": "Carne Bovina Coxão Duro Friboi Porcionada Resfriada",
+  "b": "Carne Bovina Patinho Friboi Porcionada Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "arroz parboilizado fazenda fardo 10x1kg || arroz parboilizado fazenda tipo 1 1kg": {
+  "a": "Arroz Parboilizado Fazenda Tipo 1 1kg",
+  "b": "Arroz Parboilizado Fazenda Fardo 10x1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "presunto de peru perdigao kg || presunto de peru sadia kg": {
+  "a": "Presunto de Peru Sadia kg",
+  "b": "Presunto de Peru Perdigão Kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "lasanha aurora 600g sabores || lasanha sadia 600g sabores": {
+  "a": "Lasanha Aurora 600g Sabores",
+  "b": "Lasanha Sadia 600g Sabores",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "achocolatado liquido nescau 180ml || achocolatado liquido nescau prontinho 180ml": {
+  "a": "Achocolatado Líquido Nescau 180ml",
+  "b": "Achocolatado Líquido Nescau Prontinho 180ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "milho verde bandeja 5 unidades || milho verde bdj 5 unids": {
+  "a": "Milho Verde BDJ 5 Unids",
+  "b": "Milho Verde Bandeja 5 Unidades",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "feijao carioca duze 1kg || feijao carioca duze tipo 1 1kg": {
+  "a": "Feijão Carioca DuZé Tipo 1 1kg",
+  "b": "Feijão Carioca Duzé 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "pepino pouch campo belo 300g || pepino vd campo belo 300g": {
+  "a": "Pepino VD Campo Belo 300g",
+  "b": "Pepino Pouch Campo Belo 300g",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "detergente liquido dragao varios tipos frasco 500ml || detergente liquido limpol varios tipos frasco com 500ml": {
+  "a": "Detergente Líquido Dragão Vários Tipos Frasco 500ml",
+  "b": "Detergente Líquido Limpol Vários tipos Frasco com 500ml",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "file de peito de frango congelado kg || file de peito de frango friato congelado": {
+  "a": "Filé de Peito de Frango Congelado kg",
+  "b": "Filé de Peito de Frango Friato Congelado",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "feijao preto urbano 1kg || feijao preto urbano tipo 1 1kg": {
+  "a": "Feijão Preto Urbano Tipo 1 1kg",
+  "b": "Feijão Preto Urbano 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "linguica calabresa sadia || linguica calabresa saudali kg": {
+  "a": "Linguiça Calabresa Sadia",
+  "b": "Linguiça Calabresa Saudali kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "carne bovina coxao mole reserva resfriada || carne bovina rabo reserva resfriada": {
+  "a": "Carne Bovina Rabo Reserva Resfriada",
+  "b": "Carne Bovina Coxão Mole Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "pao de forma favorito tradicional 400g || pao de forma visconti tradicional 400g": {
+  "a": "Pão de Forma Favorito Tradicional 400g",
+  "b": "Pão de Forma Visconti Tradicional 400g",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "cerveja corona ln 330ml || cerveja corona long neck 330ml": {
+  "a": "Cerveja Corona LN 330ml",
+  "b": "Cerveja Corona Long Neck 330ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "arroz kika parboilizado tipo 1 pacote 1kg || arroz tio joao parboilizado tipo 1 pacote com 1kg": {
+  "a": "Arroz Kika Parboilizado Tipo 1 Pacote 1kg",
+  "b": "Arroz Tio João Parboilizado Tipo 1 Pacote com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "queijo ralado parmesao president 50g || queijo ralado parmesao president pacote com 50g": {
+  "a": "Queijo Ralado Parmesão Président Pacote com 50g",
+  "b": "Queijo Ralado Parmesão Président 50g",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "bisc leite maltado piraque 132g trad || biscoito leite maltado piraque 132g tradicional": {
+  "a": "Bisc Leite Maltado Piraquê 132g Trad",
+  "b": "Biscoito Leite Maltado Piraquê 132g Tradicional",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "peixe em posta atum congelado cruz || peixe posta atum cong cruz": {
+  "a": "Peixe em Posta Atum Congelado Cruz",
+  "b": "Peixe Posta Atum Cong Cruz",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "desod monange aerosol 150ml || desodorante honange aerosol 150ml": {
+  "a": "Desod Monange Aerosol 150ml",
+  "b": "Desodorante Honange Aerosol 150ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "feijao preto dubom tipo 1 1kg || feijao preto kicaldo tipo 1 1kg": {
+  "a": "Feijão Preto Kicaldo Tipo 1 1kg",
+  "b": "Feijão Preto DuBom Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "macarrao espaguete bonsabor 400g || macarrao espaguete yara 400g": {
+  "a": "Macarrão Espaguete Bonsabor 400g",
+  "b": "Macarrão Espaguete Yara 400g",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "papel higienico max pure f/d 30m leve 12 pague 11 || papel higienico max pure neutro folha dupla 30m leve 12 pague 11": {
+  "a": "Papel Higiênico Max Pure Neutro Folha Dupla 30m Leve 12 Pague 11",
+  "b": "Papel Higiênico Max Pure F/D 30m Leve 12 Pague 11",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "azeite de oliva extra virgem fioz 500ml || azeite de oliva extra virgem monini vd 500ml": {
+  "a": "Azeite de Oliva Extra Virgem Fioz 500ml",
+  "b": "Azeite de Oliva Extra Virgem Monini vd 500ml",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "lava roupas em po omo 1,6kg || lava-roupas em po sonho pct 1,6kg": {
+  "a": "Lava Roupas em Pó OMO 1,6kg",
+  "b": "Lava-roupas em Pó Sonho pct 1,6kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "linguica de frango sadia ou linguica suina para churrasco aurora || linguica de frango sadia ou para churrasco aurora": {
+  "a": "Linguiça de Frango Sadia ou para Churrasco Aurora",
+  "b": "Linguiça de Frango Sadia ou Linguiça Suína para Churrasco Aurora",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa c/dorsal kg || coxa e sobrecoxa sem dorsal kg": {
+  "a": "Coxa com Sobrecoxa c/Dorsal kg",
+  "b": "Coxa e Sobrecoxa sem Dorsal kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "feijao carioca dubom tipo 1 1kg || feijao preto dubom tipo 1 1kg": {
+  "a": "Feijão Carioca Dubom Tipo 1 1kg",
+  "b": "Feijão Preto DuBom Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "creme dental sorriso tripla limpeza 12x70g || creme dental sorriso tripla limpeza completa 70g": {
+  "a": "Creme Dental Sorriso Tripla Limpeza Completa 70g",
+  "b": "Creme Dental Sorriso Tripla Limpeza 12x70g",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "queijo gouda fracionado regina || queijo prato fracionado regina": {
+  "a": "Queijo Prato Fracionado Regina",
+  "b": "Queijo Gouda Fracionado Regina",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "extrato de tomate bonare 1,7kg || extrato de tomate tambau 1,7kg": {
+  "a": "Extrato de Tomate Bonare 1,7kg",
+  "b": "Extrato de Tomate Tambaú 1,7kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "feijao carioca meu biju pct 1kg || feijao preto meu biju pct 1kg": {
+  "a": "Feijão Preto Meu Biju pct 1kg",
+  "b": "Feijão Carioca Meu Biju pct 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "rosquinha mabel 300g sabores || rosquinha vitarella 300g sabores": {
+  "a": "Rosquinha VITARELLA 300g Sabores",
+  "b": "Rosquinha Mabel 300g Sabores",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "uva verde seleta 500g bandeja || uva vitoria seleta 500g bandeja": {
+  "a": "Uva Vitória Seleta 500g Bandeja",
+  "b": "Uva Verde Seleta 500g Bandeja",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
+ },
+ "batata pre-frita easychef congelada 2kg || batata pre-frita easychef congelada tradicional 2kg": {
+  "a": "Batata Pré-frita EasyChef Congelada Tradicional 2kg",
+  "b": "Batata Pré-frita Easychef Congelada 2kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-27",
+  "aplicado": true
+ },
+ "absorvente lady suave com abas pacote com 32 unidades || absorvente sempre livre adapt suave com abas pacote com 32 unidades": {
+  "a": "Absorvente Sempre Livre Adapt Suave com abas Pacote com 32 unidades",
+  "b": "Absorvente Lady Suave com Abas Pacote com 32 unidades",
+  "veredito": "diferente",
+  "quando": "2026-07-27"
  }
 }

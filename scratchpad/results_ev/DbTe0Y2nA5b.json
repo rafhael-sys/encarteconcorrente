@@ -1,0 +1,28 @@
+{
+  "decision": "keep",
+  "shortcode": "DbTe0Y2nA5b",
+  "inicio": "2026-07-22",
+  "fim": "2026-07-28",
+  "titulo": "Ofertas de gôndola Favorito (22 a 28/07)",
+  "nota": "Fotos de gôndola do Varejo Ponta Negra/Ayrton Senna, 1 produto por página, cartaz 'de X por apenas Y' (usei o 'por'). Todos os cartazes dizem 'Oferta Válida até: N/A', então usei 22/07 a 28/07 conforme instrução do prompt.",
+  "pages": {
+    "DbTe0Y2nA5b_p1": [
+      {"n": "Biscoito Recheado Treloso Vitarella 120g", "p": "1,99", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTe0Y2nA5b_p2": [
+      {"n": "Farinha Láctea Nestlé A Original Sachê 600g", "p": "20,99", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTe0Y2nA5b_p3": [
+      {"n": "Leite Condensado Semidesnatado Italac 395g", "p": "5,39", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTe0Y2nA5b_p4": [
+      {"n": "Creme de Leite Italac 200g", "p": "2,59", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTe0Y2nA5b_p5": [
+      {"n": "Bombom Nestlé Especialidades 220g", "p": "14,99", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTe0Y2nA5b_p6": [
+      {"n": "Batata Chips Chiruca Original 110g", "p": "7,99", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ]
+  }
+}

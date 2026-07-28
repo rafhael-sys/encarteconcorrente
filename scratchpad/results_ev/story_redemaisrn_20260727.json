@@ -1,0 +1,13 @@
+{
+  "decision": "keep",
+  "shortcode": "story_redemaisrn_20260727",
+  "inicio": "2026-07-24",
+  "fim": "2026-07-27",
+  "titulo": "Rasga Preço RedeMAIS (24 a 27/07)",
+  "nota": "9 frames sem preco (fundos degrade amarelo/vermelho, apenas teaser) foram ignorados. Datas impressas na propria arte: 'Ofertas validas de 24/07 a 27/07/2026'.",
+  "pages": {
+    "story_redemaisrn_3950406557943016580": [
+      {"n": "Cerveja Amstel Lager Puro Malte Lata 350ml", "p": "3,29", "u": "cada", "x": 18, "y": 40, "w": 70, "h": 45}
+    ]
+  }
+}

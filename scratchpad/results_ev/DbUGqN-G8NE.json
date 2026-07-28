@@ -1,0 +1,40 @@
+{
+  "decision": "keep",
+  "shortcode": "DbUGqN-G8NE",
+  "inicio": "2026-07-28",
+  "fim": "2026-07-29",
+  "titulo": "Ofertas Especiais MarZap (28-29/07)",
+  "nota": "Carrossel MarZap, 1 produto por página (10 páginas, 10 produtos). Datas nao impressas nas artes; periodo 28/07 a 29/07 vem da legenda/prompt. Perfil Mar Vermelho Atacado (RN).",
+  "pages": {
+    "DbUGqN-G8NE_p1": [
+      {"n":"Charque Dianteiro Caicó","p":"38,99","u":"kg","x":8,"y":25,"w":84,"h":58}
+    ],
+    "DbUGqN-G8NE_p2": [
+      {"n":"Queijo Parmesão Galbani Cilindro 180g","p":"23,99","u":"cada","x":8,"y":25,"w":84,"h":58}
+    ],
+    "DbUGqN-G8NE_p3": [
+      {"n":"Linguiça Calabresa Chuletão","p":"16,79","u":"kg","x":8,"y":25,"w":84,"h":58}
+    ],
+    "DbUGqN-G8NE_p4": [
+      {"n":"Filézinho de Frango Aurora Pacote 1kg","p":"15,99","u":"cada","x":8,"y":25,"w":84,"h":58}
+    ],
+    "DbUGqN-G8NE_p5": [
+      {"n":"Peito de Frango Bom Todo Congelado Bandeja 1kg","p":"15,39","u":"cada","x":8,"y":25,"w":84,"h":58}
+    ],
+    "DbUGqN-G8NE_p6": [
+      {"n":"Manteiga Itacolomy Comum com Sal Pote 200g","p":"11,98","u":"cada","x":8,"y":25,"w":84,"h":58}
+    ],
+    "DbUGqN-G8NE_p7": [
+      {"n":"Coxas e Sobrecoxas Bom Todo Congeladas Bandeja 1kg","p":"10,99","u":"cada","x":8,"y":25,"w":84,"h":58}
+    ],
+    "DbUGqN-G8NE_p8": [
+      {"n":"Mortadela de Frango Friato Peça ou Pedaço","p":"6,99","u":"kg","x":8,"y":25,"w":84,"h":58}
+    ],
+    "DbUGqN-G8NE_p9": [
+      {"n":"Mistura de Requeijão Natural da Vaca Tradicional 200g","p":"4,69","u":"cada","x":8,"y":25,"w":84,"h":58}
+    ],
+    "DbUGqN-G8NE_p10": [
+      {"n":"Hambúrguer Rezende Ave e Suíno 56g","p":"0,99","u":"cada","x":8,"y":25,"w":84,"h":58}
+    ]
+  }
+}

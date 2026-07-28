@@ -1,0 +1,13 @@
+{
+  "decision": "keep",
+  "shortcode": "story_queirozatacadaojoaocamara_20260727",
+  "inicio": "2026-07-27",
+  "fim": "2026-08-02",
+  "titulo": "Dia Q (teaser encarte)",
+  "nota": "Story teaser do 'Dia Q'. Frame ...458670207810: pessoa segurando o encarte impresso na frente da loja, sem preço legivel (ignorado). Frame ...716703773843: display de maca com etiqueta 9,99. Nenhuma data impressa nos frames (so 'DIA Q' e 'ofertas que estarao no nosso encarte'); usei janela padrao 27/07-02/08.",
+  "pages": {
+    "story_queirozatacadaojoaocamara_3950752716703773843": [
+      {"n": "Maçã", "p": "9,99", "u": "kg", "x": 5, "y": 5, "w": 90, "h": 85}
+    ]
+  }
+}

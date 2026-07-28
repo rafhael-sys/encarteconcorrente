@@ -1,0 +1,25 @@
+{
+  "decision": "keep",
+  "shortcode": "DbTnIQMnaSt",
+  "inicio": "2026-07-22",
+  "fim": "2026-07-28",
+  "titulo": "Ofertas de gôndola Favorito (22/07 a 28/07)",
+  "nota": "Fotos de gôndola (Parnamirim/Macaíba), 1 produto por página. Cartazes dizem 'Oferta Válida até: N/A', então usei o período padrão 2026-07-22 a 2026-07-28 informado no prompt. Preço 'por apenas' usado em p.",
+  "pages": {
+    "DbTnIQMnaSt_p1": [
+      {"n": "Lava Roupas em Pó Ala Erva Doce e Bicarbonato 400g", "p": "3,19", "u": "cada", "x": 4, "y": 26, "w": 60, "h": 65}
+    ],
+    "DbTnIQMnaSt_p2": [
+      {"n": "Lava Roupas Líquido Becker Vulcan 2,7L", "p": "10,99", "u": "cada", "x": 0, "y": 30, "w": 52, "h": 55}
+    ],
+    "DbTnIQMnaSt_p3": [
+      {"n": "Água Sanitária Clorito 1L", "p": "1,89", "u": "cada", "x": 2, "y": 33, "w": 48, "h": 55}
+    ],
+    "DbTnIQMnaSt_p4": [
+      {"n": "Papel Higiênico Floral Folha Dupla Neutro 20m 12 Rolos", "p": "10,99", "u": "cada", "x": 53, "y": 24, "w": 44, "h": 52}
+    ],
+    "DbTnIQMnaSt_p5": [
+      {"n": "Desodorante Aerossol Nivea Men Dry Impact 150ml", "p": "11,99", "u": "cada", "x": 13, "y": 26, "w": 42, "h": 42}
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "decision": "keep",
+  "shortcode": "story_redesuper.show_20260727",
+  "inicio": "2026-07-27",
+  "fim": "2026-08-02",
+  "titulo": "Super Show — ofertas de segunda (27/07) + novo encarte (28/07 a 02/08)",
+  "nota": "Story com validades mistas. Frames 2 a 6 sao ofertas individuais 'somente nessa segunda, 27/07' (inicio=fim=2026-07-27). Frame 1 (3950509519057631670) e foto do encarte antigo 'ULTIMO DIA', valido 21 a 27/07 (ultimo dia hoje). Frame 8 (3950802831912322604) e o encarte NOVO, valido de 28/07 a 02/08/2026. Janela do post fixada em 27/07 a 02/08 para cobrir tudo. NAO extraidos: frame 3950799724290750429 (adesivo de pergunta/quiz, sem preco), frame 3950803190690029488 (print de post da comunidade 'FDS Show' valido 24-25/07, ja expirado) e frame 3950803608182679618 (frame de video da moto, sem preco).",
+  "pages": {
+    "story_redesuper.show_3950509519057631670": [
+      {"n":"Linguica de Frango Bom Todo","p":"13,99","u":"kg","x":16,"y":49,"w":14,"h":9},
+      {"n":"Frango a Passarinho Bom Todo 1kg (IQF - Temperado)","p":"11,99","u":"un","x":33,"y":49,"w":16,"h":9},
+      {"n":"Bisteca Suina Seara","p":"14,99","u":"kg","x":52,"y":51,"w":14,"h":9},
+      {"n":"Leite em Po Betania 750g (Integral/Instantaneo)","p":"26,99","u":"un","x":70,"y":53,"w":14,"h":9},
+      {"n":"Salsicha Hot-Dog Bom Todo","p":"6,99","u":"kg","x":16,"y":58,"w":14,"h":9},
+      {"n":"Margarina Deline 500g (Com Sal)","p":"4,99","u":"un","x":38,"y":59,"w":14,"h":8},
+      {"n":"Queijo Coalho Isis (Tradicional)","p":"38,99","u":"kg","x":60,"y":60,"w":15,"h":9},
+      {"n":"Cafe Santa Clara 250g (Extraforte - Almofada/A Vacuo)","p":"11,99","u":"un","x":12,"y":66,"w":15,"h":9},
+      {"n":"Flocao de Milho Dona Clara 500g","p":"1,39","u":"un","x":37,"y":66,"w":14,"h":9},
+      {"n":"Farinha de Trigo Finna 1kg (Tradicional)","p":"3,99","u":"un","x":58,"y":67,"w":15,"h":9},
+      {"n":"Coca-Cola Zero Acucar 2,5L","p":"10,99","u":"un","x":9,"y":73,"w":15,"h":9},
+      {"n":"Lava Roupas Liquido Absoluto 3L (Fragrancias)","p":"12,99","u":"un","x":29,"y":74,"w":16,"h":8},
+      {"n":"Fraldas Descartaveis Mili Love & Care Jumbo (Tamanhos)","p":"25,99","u":"un","x":47,"y":75,"w":17,"h":9}
+    ],
+    "story_redesuper.show_3950509593690905009": [
+      {"n":"Frango a Passarinho Bom Todo 1kg (IQF - Temperado)","p":"11,99","u":"un","x":8,"y":20,"w":84,"h":65}
+    ],
+    "story_redesuper.show_3950509697648166402": [
+      {"n":"Leite em Po Betania 750g (Integral/Instantaneo)","p":"26,99","u":"un","x":8,"y":14,"w":84,"h":72}
+    ],
+    "story_redesuper.show_3950509738738403013": [
+      {"n":"Cafe Santa Clara 250g (Extraforte - Almofada/A Vacuo)","p":"11,99","u":"un","x":8,"y":20,"w":84,"h":65}
+    ],
+    "story_redesuper.show_3950509795898325079": [
+      {"n":"Fraldas Descartaveis Mili Love & Care Jumbo (Tamanhos)","p":"25,99","u":"un","x":28,"y":32,"w":45,"h":18},
+      {"n":"Hastes Flexiveis Mili Love & Care C/75","p":"3,99","u":"un","x":28,"y":80,"w":48,"h":18}
+    ],
+    "story_redesuper.show_3950510011351511412": [
+      {"n":"Margarina Deline 500g (Com Sal)","p":"4,99","u":"un","x":11,"y":36,"w":36,"h":13},
+      {"n":"Flocao de Milho Dona Clara 500g","p":"1,39","u":"un","x":67,"y":36,"w":27,"h":13},
+      {"n":"Lava Roupas Liquido Absoluto 3L (Fragrancias)","p":"12,99","u":"un","x":3,"y":83,"w":40,"h":14},
+      {"n":"Papel Higienico Atualle 20m C/12 (Folha Dupla)","p":"12,99","u":"un","x":57,"y":83,"w":39,"h":14}
+    ],
+    "story_redesuper.show_3950802831912322604": [
+      {"n":"Filezinho de Frango Sassami Aurora 1Kg (Bandeja)","p":"17,99","u":"un","x":10,"y":41,"w":21,"h":9},
+      {"n":"Peito de Frango (Envelopado)","p":"9,99","u":"kg","x":33,"y":41,"w":17,"h":9},
+      {"n":"Cafe Santa Clara 250g (Classico - Almofada/A Vacuo)","p":"12,99","u":"un","x":52,"y":41,"w":19,"h":9},
+      {"n":"Bisteca Suina","p":"14,99","u":"kg","x":76,"y":41,"w":17,"h":9},
+      {"n":"Linguica Aurora (Churrasco/Frango)","p":"16,99","u":"kg","x":13,"y":55,"w":23,"h":9},
+      {"n":"Feijao Precioso 1kg (Carioca)","p":"7,99","u":"un","x":39,"y":55,"w":23,"h":9},
+      {"n":"Salsicha Hot-Dog Bom Todo","p":"6,99","u":"kg","x":64,"y":55,"w":23,"h":9},
+      {"n":"Molho de Tomate Sadio 300g (Sache - Tradicional/Pizza/Manjericao)","p":"1,39","u":"un","x":13,"y":68,"w":22,"h":9},
+      {"n":"Leite em Po Italac 200g (Sache - Integral)","p":"6,99","u":"un","x":31,"y":68,"w":23,"h":9},
+      {"n":"Creme Culinario Triangulo Mineiro 200g","p":"1,79","u":"un","x":52,"y":68,"w":22,"h":9},
+      {"n":"Refresco em Po Frisco 18g (Sabores)","p":"0,89","u":"un","x":72,"y":68,"w":22,"h":9},
+      {"n":"Lava Roupas Liquido Versatil Becker 3L","p":"16,99","u":"un","x":13,"y":80,"w":22,"h":9},
+      {"n":"Papel Higienico Personal Vip 20m C/12 (Folha Dupla - Neutro)","p":"11,99","u":"un","x":37,"y":80,"w":23,"h":9},
+      {"n":"Fraldas Descartaveis Mili Love & Care Pants (Tamanhos - Shortinho)","p":"29,99","u":"un","x":62,"y":80,"w":28,"h":9}
+    ]
+  }
+}

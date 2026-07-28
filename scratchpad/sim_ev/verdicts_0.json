@@ -1,0 +1,11 @@
+{"verdicts": [
+  {"k": "desodorante aerosol nivea fragrancias frasco 200ml || desodorante aerossol nivea fragrancias frasco 200ml", "a": "Desodorante Aerosol Nivea Fragrâncias Frasco 200ml", "b": "Desodorante Aerossol Nivea Fragrâncias Frasco 200ml", "veredito": "mesmo"},
+  {"k": "iogurte natural betania sabores copo 170g || iogurte natural betania sabores pote 170g", "a": "Iogurte Natural Betânia Sabores Pote 170g", "b": "Iogurte Natural Betânia Sabores Copo 170g", "veredito": "incerto"},
+  {"k": "hamburguer de carne de frango e suina tradicional congelado rezende 36x56g || hamburguer de carne de frango e suina tradicional congelado rezende caixeta 36x56g", "a": "Hambúrguer de Carne de Frango e Suína Tradicional Congelado Rezende Caixeta 36x56g", "b": "Hambúrguer de Carne de Frango e Suína Tradicional Congelado Rezende 36x56g", "veredito": "mesmo"},
+  {"k": "maionese hellmann's sache 200g || maionese hellmann's sh 200g", "a": "Maionese Hellmann's SH 200g", "b": "Maionese Hellmann's Sachê 200g", "veredito": "mesmo"},
+  {"k": "file de peito de frango congelado seara bandeja 1kg || file de peito de frango congelado super frango bandeja 1kg", "a": "Filé de Peito de Frango Congelado Seara Bandeja 1kg", "b": "Filé de Peito de Frango Congelado Super Frango Bandeja 1kg", "veredito": "diferente"},
+  {"k": "inseticida aerossol raid tipos 420ml || inseticida aerossol raid tipos frasco 420ml", "a": "Inseticida Aerossol Raid Tipos 420ml", "b": "Inseticida Aerossol Raid Tipos Frasco 420ml", "veredito": "mesmo"},
+  {"k": "esponja de aco bombril pacote 45g || esponja la de aco bombril pct 45g", "a": "Esponja Lã de Aço Bombril PCT 45g", "b": "Esponja de Aço Bombril Pacote 45g", "veredito": "mesmo"},
+  {"k": "lava roupas liquido urca maxx fragrancias galao 5l || lava-roupas liquido omo fragrancias galao 5l", "a": "Lava Roupas Líquido Urca Maxx Fragrâncias Galão 5L", "b": "Lava-Roupas Líquido OMO Fragrâncias Galão 5L", "veredito": "diferente"},
+  {"k": "file de peito de frango congelado natto bandeja 1kg || file de peito de frango congelado super frango bandeja 1kg", "a": "Filé de Peito de Frango Congelado Natto Bandeja 1kg", "b": "Filé de Peito de Frango Congelado Super Frango Bandeja 1kg", "veredito": "diferente"}
+]}

@@ -1,0 +1,11 @@
+{"verdicts": [
+  {"k": "bisc leite maltado piraque 132g trad || biscoito leite maltado piraque 132g tradicional", "a": "Bisc Leite Maltado Piraquê 132g Trad", "b": "Biscoito Leite Maltado Piraquê 132g Tradicional", "veredito": "mesmo"},
+  {"k": "peixe em posta atum congelado cruz || peixe posta atum cong cruz", "a": "Peixe em Posta Atum Congelado Cruz", "b": "Peixe Posta Atum Cong Cruz", "veredito": "mesmo"},
+  {"k": "desod monange aerosol 150ml || desodorante honange aerosol 150ml", "a": "Desod Monange Aerosol 150ml", "b": "Desodorante Honange Aerosol 150ml", "veredito": "mesmo"},
+  {"k": "feijao preto dubom tipo 1 1kg || feijao preto kicaldo tipo 1 1kg", "a": "Feijão Preto Kicaldo Tipo 1 1kg", "b": "Feijão Preto DuBom Tipo 1 1kg", "veredito": "diferente"},
+  {"k": "absorvente mili conforto total com 8 unidades || absorvente mili protecao total com 8 unidades", "a": "Absorvente Mili Conforto Total com 8 Unidades", "b": "Absorvente Mili Proteção Total com 8 Unidades", "veredito": "incerto"},
+  {"k": "macarrao espaguete bonsabor 400g || macarrao espaguete yara 400g", "a": "Macarrão Espaguete Bonsabor 400g", "b": "Macarrão Espaguete Yara 400g", "veredito": "diferente"},
+  {"k": "papel higienico max pure f/d 30m leve 12 pague 11 || papel higienico max pure neutro folha dupla 30m leve 12 pague 11", "a": "Papel Higiênico Max Pure Neutro Folha Dupla 30m Leve 12 Pague 11", "b": "Papel Higiênico Max Pure F/D 30m Leve 12 Pague 11", "veredito": "mesmo"},
+  {"k": "azeite de oliva extra virgem fioz 500ml || azeite de oliva extra virgem monini vd 500ml", "a": "Azeite de Oliva Extra Virgem Fioz 500ml", "b": "Azeite de Oliva Extra Virgem Monini vd 500ml", "veredito": "diferente"},
+  {"k": "lava roupas em po omo 1,6kg || lava-roupas em po sonho pct 1,6kg", "a": "Lava Roupas em Pó OMO 1,6kg", "b": "Lava-roupas em Pó Sonho pct 1,6kg", "veredito": "diferente"}
+]}

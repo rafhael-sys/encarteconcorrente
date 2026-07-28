@@ -1,0 +1,14 @@
+{
+  "decision": "keep",
+  "shortcode": "story_supernordestaonatal_20260727",
+  "inicio": "2026-07-27",
+  "fim": "2026-07-27",
+  "titulo": "Oferta do dia Nordestão (27/07)",
+  "nota": "Story do Super Nordestão. Maioria dos frames é receita/lifestyle (Massas Monte Cristo), teasers sem preço (Oferta Surpresa 60%, Cashback, Coca+Sprite leve mais pague menos, biscoitos Vieira, selos) e não têm produto+preço. Único frame com preços legíveis é o dos ovos (app Nordestão pra Você), com 'Válida até 27/07' impresso => inicio=fim=2026-07-27. Frame 3950616833988270620 mostra o mesmo preço num celular, porém ilegível e marcado supernordestaomossoro; não incluído.",
+  "pages": {
+    "story_supernordestaonatal_3950584047860121020": [
+      {"n":"Ovos Branco Nordestão Extra C/30","p":"8,19","u":"un","x":8,"y":29,"w":40,"h":57},
+      {"n":"Ovos Branco Nordestão Grande C/30","p":"8,19","u":"un","x":52,"y":29,"w":40,"h":57}
+    ]
+  }
+}

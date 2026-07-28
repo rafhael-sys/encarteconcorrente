@@ -1,0 +1,102 @@
+{
+  "decision": "keep",
+  "shortcode": "DbUCMpODx1k",
+  "inicio": "2026-07-28",
+  "fim": "2026-07-29",
+  "titulo": "Dia Q (28 e 29/07)",
+  "nota": "Datas impressas: 'DIAS 28 E 29 DE JULHO DE 2026'. Loja impressa: Queiroz Atacadão Cidade Satelite (bairro de Natal/RN) - dentro do RN, mantido. p1 e o cabecalho e teaser (Dia Q / 'novo encarte no link da bio'), sem precos legiveis. Os 5 itens do rodape de p2 (Natville, Arroz Rampinelli, Bombom Garoto, Molho Sadio, Cream Cracker Marilan) usam o preco do APP Clube Queira Mais (promocional/menor); ha tambem preco 'no app' maior.",
+  "pages": {
+    "DbUCMpODx1k_p1": [],
+    "DbUCMpODx1k_p2": [
+      {"n":"Picanha Bovina kg Fatiada","p":"39,48","u":"kg","x":11,"y":37,"w":13,"h":7},
+      {"n":"Carne Bovina Coxao Mole kg","p":"35,98","u":"kg","x":25,"y":37,"w":13,"h":7},
+      {"n":"Carne Bovina Capa de File Resfriada kg a Vacuo","p":"31,48","u":"kg","x":39,"y":37,"w":13,"h":7},
+      {"n":"Carne Bovina Peito ou Acem com Osso kg","p":"27,78","u":"kg","x":53,"y":37,"w":13,"h":7},
+      {"n":"Costela Bovina Janela ou Minga Congelada kg","p":"23,98","u":"kg","x":67,"y":37,"w":13,"h":7},
+      {"n":"Pernil Suino Congelado kg","p":"13,98","u":"kg","x":81,"y":37,"w":13,"h":7},
+
+      {"n":"Coxa com Sobrecoxa ou Dorsal de Frango kg","p":"6,99","u":"kg","x":10,"y":43,"w":13,"h":5},
+      {"n":"Peito de Frango Congelado kg","p":"9,28","u":"kg","x":10,"y":49,"w":13,"h":5},
+      {"n":"File de Peito de Frango Congelado kg","p":"14,48","u":"kg","x":10,"y":55,"w":13,"h":5},
+      {"n":"Galinha Somave Congelada kg Grande","p":"6,99","u":"kg","x":10,"y":61,"w":13,"h":5},
+      {"n":"Linguica de Frango Avivar kg Churrasco","p":"9,98","u":"kg","x":10,"y":67,"w":13,"h":5},
+
+      {"n":"Linguica de Frango ou Churrasco Aurora kg","p":"16,98","u":"kg","x":24,"y":43,"w":15,"h":6},
+      {"n":"File de Peito de Frango Levo Alimentos BDJ 1kg","p":"17,48","u":"un","x":24,"y":50,"w":15,"h":6},
+      {"n":"Coxinha da Asa de Frango Sadia Pct 1kg","p":"15,28","u":"un","x":24,"y":57,"w":15,"h":6},
+      {"n":"Peito de Frango Bom Todo 1kg Congelado BDJ","p":"14,98","u":"un","x":24,"y":64,"w":15,"h":6},
+
+      {"n":"Frango a Passarinho Bom Todo 1kg IQF Temperado","p":"11,68","u":"un","x":41,"y":43,"w":15,"h":6},
+      {"n":"Batata Palito Bom Todo Pre Frita 1kg Temperada","p":"11,48","u":"un","x":41,"y":50,"w":15,"h":6},
+      {"n":"Polpa de Fruta Ster Bom 1kg Caju/Goiaba/Manga/Tamarindo","p":"9,58","u":"un","x":41,"y":57,"w":15,"h":6},
+      {"n":"Batata Frita Easychef Congelada 2kg Tradicional","p":"18,98","u":"un","x":41,"y":64,"w":15,"h":6},
+
+      {"n":"Salsicha Hot Dog Bom Todo kg","p":"6,89","u":"kg","x":58,"y":43,"w":15,"h":6},
+      {"n":"Bebida Lactea Clan Sabores 900g","p":"4,48","u":"un","x":58,"y":50,"w":15,"h":6},
+      {"n":"Manteiga Jucurutu Primeira Qualidade 500g","p":"22,98","u":"un","x":58,"y":57,"w":15,"h":6},
+      {"n":"Requeijao Clan Light ou Tradicional 400g","p":"11,98","u":"un","x":58,"y":64,"w":15,"h":6},
+
+      {"n":"Presunto de Peru Perdigao ou Sadia kg","p":"27,98","u":"kg","x":79,"y":43,"w":17,"h":5},
+      {"n":"Margarina Primor 500g","p":"4,49","u":"un","x":79,"y":49,"w":17,"h":5},
+      {"n":"Margarina Deline 3kg","p":"24,89","u":"un","x":79,"y":55,"w":17,"h":5},
+      {"n":"Queijo Reino Tirolez Lata kg","p":"74,98","u":"kg","x":79,"y":61,"w":17,"h":5},
+      {"n":"Queijo Mussarela Unalac Peca ou Pedaco kg","p":"34,98","u":"kg","x":79,"y":67,"w":17,"h":5},
+
+      {"n":"Cerveja Imperio Lager GF 355ml","p":"3,98","u":"un","x":13,"y":78,"w":12,"h":5},
+      {"n":"Cerveja Heineken Puro Malte Lata 350ml","p":"4,78","u":"un","x":26,"y":78,"w":12,"h":5},
+      {"n":"Refrigerante Guarana Antarctica 1L Tradicional","p":"4,18","u":"un","x":39,"y":78,"w":12,"h":5},
+      {"n":"Whisky Chivas Regal GF 1L 12 Anos","p":"109,90","u":"un","x":52,"y":78,"w":12,"h":5},
+      {"n":"Suco de Uva Integral Casa da Serra 1,5L","p":"14,48","u":"un","x":64,"y":78,"w":11,"h":5},
+      {"n":"Agua Mineral Ster Bom 510ml S/Gas","p":"0,75","u":"un","x":75,"y":78,"w":10,"h":5},
+
+      {"n":"Maca Nacional kg","p":"7,48","u":"kg","x":87,"y":73,"w":11,"h":6},
+      {"n":"Cenoura kg","p":"4,38","u":"kg","x":87,"y":79,"w":11,"h":6},
+      {"n":"Goma de Mandioca Caico 1kg","p":"3,98","u":"un","x":87,"y":85,"w":11,"h":6},
+
+      {"n":"Leite Condensado Natville Semidesnatado 395g (app Queira Mais)","p":"5,08","u":"un","x":14,"y":88,"w":9,"h":6},
+      {"n":"Arroz Rampinelli Parboilizado 1kg (app Queira Mais)","p":"2,98","u":"un","x":24,"y":88,"w":9,"h":6},
+      {"n":"Caixa de Bombom Garoto 220g (app Queira Mais)","p":"10,98","u":"un","x":34,"y":88,"w":9,"h":6},
+      {"n":"Molho de Tomate Sadio Sch 300g Tradicional (app Queira Mais)","p":"1,18","u":"un","x":44,"y":88,"w":9,"h":6},
+      {"n":"Biscoito Cream Cracker Marilan Pct 350g Especial (app Queira Mais)","p":"3,98","u":"un","x":54,"y":88,"w":9,"h":6},
+
+      {"n":"Bolacha Jucurutu Pct 250g Manteiga do Sertao","p":"5,38","u":"un","x":64,"y":87,"w":11,"h":7},
+      {"n":"Pao de Forma Bom Massa Tradicional, Integral ou de Leite 400g","p":"4,98","u":"un","x":76,"y":87,"w":11,"h":7},
+      {"n":"Ovos Grandes Brancos C/30 Und Sao Jose","p":"12,88","u":"un","x":87,"y":87,"w":11,"h":7}
+    ],
+    "DbUCMpODx1k_p3": [
+      {"n":"Amido de Milho Maizena Lv200 Pg150g","p":"3,48","u":"un","x":10,"y":34,"w":15,"h":8},
+      {"n":"Farinha Lactea Italac Sache 180g","p":"5,48","u":"un","x":27,"y":34,"w":15,"h":8},
+      {"n":"Biscoito Maizena Estrela Pct 307g Tradicional","p":"4,78","u":"un","x":44,"y":34,"w":15,"h":8},
+      {"n":"Biscoito Salgado Club Social 141/144g Sabores","p":"4,68","u":"un","x":61,"y":34,"w":15,"h":8},
+      {"n":"Cafe Santa Clara Extra Forte 250g","p":"11,78","u":"un","x":79,"y":34,"w":17,"h":8},
+
+      {"n":"Dueto Predilecta Pouch 170g","p":"3,18","u":"un","x":10,"y":44,"w":15,"h":8},
+      {"n":"Bebida Lactea Betania 200ml Chocolate Kids","p":"1,38","u":"un","x":27,"y":44,"w":15,"h":8},
+      {"n":"Achocolatado em Po 3 Coracoes Sache 700g Chocolatto","p":"13,98","u":"un","x":44,"y":44,"w":15,"h":8},
+      {"n":"Creme de Avela Nutella Pt 140g","p":"11,48","u":"un","x":61,"y":44,"w":15,"h":8},
+      {"n":"Acucar Olho D'Agua Triturado 1kg","p":"2,78","u":"un","x":79,"y":44,"w":17,"h":8},
+
+      {"n":"Azeitona Sadio com Caroco Pouch 120g","p":"4,48","u":"un","x":10,"y":54,"w":15,"h":8},
+      {"n":"Vinagre de Alcool Folha Verde 500ml","p":"1,18","u":"un","x":27,"y":54,"w":15,"h":8},
+      {"n":"Catchup Sadio 830g Tradicional","p":"6,48","u":"un","x":44,"y":54,"w":15,"h":8},
+      {"n":"Maionese Hellmann's Sache 200g","p":"4,48","u":"un","x":61,"y":54,"w":15,"h":8},
+      {"n":"Feijao de Corda Precioso 1kg","p":"4,98","u":"un","x":79,"y":54,"w":17,"h":8},
+
+      {"n":"Agua Sanitaria Dragao GF 1L","p":"1,95","u":"un","x":8,"y":67,"w":12,"h":12},
+      {"n":"Lava Roupas em Po Concentrado Tixan Ype 1,3kg Fragrancias","p":"13,48","u":"un","x":20,"y":67,"w":12,"h":12},
+      {"n":"Amaciante Concentrado Downy 500ml Fragrancias","p":"8,99","u":"un","x":33,"y":67,"w":12,"h":12},
+      {"n":"Sabao em Barra Ype C/5un 160g Fragrancias (Exceto Coco)","p":"9,99","u":"un","x":46,"y":67,"w":12,"h":12},
+      {"n":"Detergente Limpol Squeeze 500ml Fragrancias","p":"1,99","u":"un","x":59,"y":67,"w":11,"h":12},
+      {"n":"Areia Sanitaria Edukat 4kg Tradicional","p":"5,29","u":"un","x":71,"y":67,"w":12,"h":12},
+      {"n":"Racao para Caes Pedigree 900g Sabores","p":"15,39","u":"un","x":84,"y":67,"w":13,"h":12},
+
+      {"n":"Lenco Umedecido Piquitucho Pct 60un","p":"5,68","u":"un","x":8,"y":82,"w":12,"h":12},
+      {"n":"Fralda Descartavel Personal Baby Jumbo","p":"25,98","u":"un","x":20,"y":82,"w":12,"h":12},
+      {"n":"Shampoo Elseve 400ml Fragrancias","p":"29,98","u":"un","x":33,"y":82,"w":12,"h":12},
+      {"n":"Condicionador Elseve 400ml Fragrancias","p":"32,98","u":"un","x":46,"y":82,"w":12,"h":12},
+      {"n":"Desodorante Antitranspirante Aerosol Suave 200ml","p":"7,78","u":"un","x":59,"y":82,"w":11,"h":12},
+      {"n":"Racao Umida p/ Caes Pedigree Sch 100g ou Racao Umida p/ Gatos Whiskas 85g Sabores","p":"2,39","u":"un","x":71,"y":82,"w":12,"h":12},
+      {"n":"Racao para Gatos Whiskas 900g Sabores","p":"16,59","u":"un","x":84,"y":82,"w":13,"h":12}
+    ]
+  }
+}

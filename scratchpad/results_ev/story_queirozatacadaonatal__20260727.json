@@ -1,0 +1,89 @@
+{
+  "decision": "keep",
+  "shortcode": "story_queirozatacadaonatal__20260727",
+  "inicio": "2026-07-27",
+  "fim": "2026-07-27",
+  "titulo": "Queiroz Atacadão - Ofertas da semana (27/07)",
+  "nota": "Story longo (28 frames) do dia 27/07. Frames 1 (abertura 'Bom dia') e 28 (institucional 'Festival de Vinhos' 31/07) sem preço, ignorados. Etiquetas impressas misturam validades: a maioria diz 'valida ate 27/07/2026' (predominante) e algumas '03/08/2026' (Sanduiche Hot Hit, File Suino Frimesa, Frango a Passarinho); placas escritas a mao (OFERTA) nao trazem data. Usado periodo predominante 27/07. Frame 3950536920882550823 tem 2 produtos (Costela e File suino).",
+  "pages": {
+    "story_queirozatacadaonatal__3950532676917937336": [
+      {"n":"Cafe Soluvel Santa Clara Extraforte Granulado (Leve 40g Pague 36g)","p":"4,98","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950532906614971846": [
+      {"n":"Bolacha Manteiga da Terra Santo Antonio 250g","p":"4,98","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950532999644696138": [
+      {"n":"Cafe em Po Sao Braz Almofada Extraforte 250g","p":"13,49","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950533274321245756": [
+      {"n":"Macarrao Instantaneo Nissin Cup Noodles 68g (sabores)","p":"5,19","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950533410887573951": [
+      {"n":"Leite Condensado Italac Semidesnatado 395g","p":"5,99","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950533984911713692": [
+      {"n":"Achocolatado em Po 3 Coracoes Chocolatto Sache 700g","p":"13,98","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950535231182159543": [
+      {"n":"Pernil Suino Congelado","p":"13,48","u":"kg","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950535328531881487": [
+      {"n":"Peito ou Acem Bovino com Osso","p":"27,48","u":"kg","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950535405514029051": [
+      {"n":"Carne de Sol Coxao Duro","p":"42,90","u":"kg","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950535719306796237": [
+      {"n":"Sanduiche Hot Hit Seara X-Bacon 145g","p":"6,86","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950535908126055817": [
+      {"n":"Hamburguer Bovino Friboi 56g","p":"1,68","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950536285688886797": [
+      {"n":"Batata Frita EasyChef Congelada Tradicional 2kg","p":"17,98","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950536631400132147": [
+      {"n":"Macaxeira Descascada Bom Todo Congelada 1kg","p":"8,98","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950536821007873686": [
+      {"n":"Coracao Bovino","p":"11,98","u":"kg","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950536920882550823": [
+      {"n":"Costela Suina Frimesa Congelada","p":"28,90","u":"kg","x":38,"y":26,"w":58,"h":22},
+      {"n":"File Suino Frimesa Congelado","p":"32,36","u":"kg","x":2,"y":52,"w":68,"h":30}
+    ],
+    "story_queirozatacadaonatal__3950537094786743652": [
+      {"n":"File de Peito de Frango Sadia Bandeja 1kg","p":"18,98","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950537200651142979": [
+      {"n":"Coxa e Sobrecoxa Seara Sem Osso Bandeja 1kg","p":"19,99","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950537409334446907": [
+      {"n":"Frango a Passarinho Seara 1kg (zip)","p":"13,06","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950537474480287597": [
+      {"n":"Galinha Somave Congelada","p":"7,28","u":"kg","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950537567275268742": [
+      {"n":"Frango Bom Todo com Miudos Congelado","p":"9,48","u":"kg","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950538098114573763": [
+      {"n":"Peito de Frango Congelado","p":"9,98","u":"kg","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950538328457515630": [
+      {"n":"Leite UHT Natville Integral 1L","p":"6,49","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950538604660730844": [
+      {"n":"Bolacha Manteiga do Sertao Jucurutu 250g","p":"5,48","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950538840254911987": [
+      {"n":"Feijao Carioca Clebom 1kg","p":"8,98","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950538971284875071": [
+      {"n":"Arroz Urbano Parboilizado Tipo 1 1kg","p":"3,78","u":"un","x":8,"y":25,"w":84,"h":55}
+    ],
+    "story_queirozatacadaonatal__3950539117598972005": [
+      {"n":"Acucar Ecocucar Triturado Extra Fino 1kg","p":"2,98","u":"un","x":8,"y":25,"w":84,"h":55}
+    ]
+  }
+}

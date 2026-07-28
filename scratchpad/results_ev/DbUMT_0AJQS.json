@@ -1,0 +1,27 @@
+{
+  "decision": "keep",
+  "shortcode": "DbUMT_0AJQS",
+  "inicio": "2026-07-28",
+  "fim": "2026-07-28",
+  "titulo": "Terça da Carne (28/07)",
+  "nota": "Data impressa na arte: 'OFERTAS VÁLIDAS SOMENTE EM 28/07/2026'. Flyer de 1 página, grade 5x3 (15 produtos, carnes/frios).",
+  "pages": {
+    "DbUMT_0AJQS_p1": [
+      {"n": "Carne Bovina Alcatra kg", "p": "39,98", "u": "kg", "x": 5, "y": 42, "w": 18, "h": 20},
+      {"n": "Carne Bovina Bisteca Traseira kg", "p": "32,98", "u": "kg", "x": 24, "y": 42, "w": 18, "h": 20},
+      {"n": "Carne Bovina Lombo Serrado kg", "p": "24,98", "u": "kg", "x": 43, "y": 42, "w": 18, "h": 20},
+      {"n": "Carne Bovina Coxão Mole kg", "p": "36,98", "u": "kg", "x": 62, "y": 42, "w": 18, "h": 20},
+      {"n": "Carne Bovina Chã de Fora kg", "p": "34,98", "u": "kg", "x": 80, "y": 42, "w": 18, "h": 20},
+      {"n": "Carne Bovina Chambaril kg", "p": "25,98", "u": "kg", "x": 5, "y": 63, "w": 18, "h": 19},
+      {"n": "Carne Bovina Costela Ponta de Agulha kg", "p": "23,98", "u": "kg", "x": 24, "y": 63, "w": 18, "h": 19},
+      {"n": "Carne Bovina Posta Gorda kg", "p": "25,98", "u": "kg", "x": 43, "y": 63, "w": 18, "h": 19},
+      {"n": "Bisteca Suína kg", "p": "13,98", "u": "kg", "x": 62, "y": 63, "w": 18, "h": 19},
+      {"n": "Charque Goiano kg", "p": "39,98", "u": "kg", "x": 80, "y": 63, "w": 18, "h": 19},
+      {"n": "Linguiça de Frango Aurora kg", "p": "15,98", "u": "kg", "x": 5, "y": 82, "w": 18, "h": 15},
+      {"n": "Linguiça de Frango Lar 700g", "p": "8,98", "u": "pct", "x": 24, "y": 82, "w": 18, "h": 15},
+      {"n": "Salsicha Hot Dog Avivar kg", "p": "5,98", "u": "kg", "x": 43, "y": 82, "w": 18, "h": 15},
+      {"n": "Empanado de Frango Lar 100g", "p": "1,19", "u": "un", "x": 62, "y": 82, "w": 18, "h": 15},
+      {"n": "Carne Moída Camará 500g", "p": "6,49", "u": "un", "x": 80, "y": 82, "w": 18, "h": 15}
+    ]
+  }
+}

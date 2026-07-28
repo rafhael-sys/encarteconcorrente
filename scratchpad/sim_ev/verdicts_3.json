@@ -1,0 +1,11 @@
+{"verdicts": [
+  {"k": "presunto de peru perdigao kg || presunto de peru sadia kg", "a": "Presunto de Peru Sadia kg", "b": "Presunto de Peru Perdigão Kg", "veredito": "diferente"},
+  {"k": "pasta de amendoim dr. peanut 600g || pasta de amendoim dr. peanut chocotine 600g", "a": "Pasta de Amendoim Dr. Peanut 600g", "b": "Pasta de Amendoim Dr. Peanut Chocotine 600g", "veredito": "incerto"},
+  {"k": "lasanha aurora 600g sabores || lasanha sadia 600g sabores", "a": "Lasanha Aurora 600g Sabores", "b": "Lasanha Sadia 600g Sabores", "veredito": "diferente"},
+  {"k": "achocolatado liquido nescau 180ml || achocolatado liquido nescau prontinho 180ml", "a": "Achocolatado Líquido Nescau 180ml", "b": "Achocolatado Líquido Nescau Prontinho 180ml", "veredito": "mesmo"},
+  {"k": "milho verde bandeja 5 unidades || milho verde bdj 5 unids", "a": "Milho Verde BDJ 5 Unids", "b": "Milho Verde Bandeja 5 Unidades", "veredito": "mesmo"},
+  {"k": "bebida mista smirnoff ice long neck 275ml || bebida mista smirnoff ice red 275ml", "a": "Bebida Mista Smirnoff Ice Long Neck 275ml", "b": "Bebida Mista Smirnoff Ice Red 275ml", "veredito": "incerto"},
+  {"k": "feijao carioca duze 1kg || feijao carioca duze tipo 1 1kg", "a": "Feijão Carioca DuZé Tipo 1 1kg", "b": "Feijão Carioca Duzé 1kg", "veredito": "mesmo"},
+  {"k": "pepino pouch campo belo 300g || pepino vd campo belo 300g", "a": "Pepino VD Campo Belo 300g", "b": "Pepino Pouch Campo Belo 300g", "veredito": "diferente"},
+  {"k": "detergente liquido dragao varios tipos frasco 500ml || detergente liquido limpol varios tipos frasco com 500ml", "a": "Detergente Líquido Dragão Vários Tipos Frasco 500ml", "b": "Detergente Líquido Limpol Vários tipos Frasco com 500ml", "veredito": "diferente"}
+]}

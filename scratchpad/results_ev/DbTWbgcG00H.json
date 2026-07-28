@@ -1,0 +1,28 @@
+{
+  "decision": "keep",
+  "shortcode": "DbTWbgcG00H",
+  "inicio": "2026-07-24",
+  "fim": "2026-07-30",
+  "titulo": "MarZap Mar Vermelho (24/07 a 30/07)",
+  "nota": "Carrossel MarZap, 1 produto por pagina. Sem periodo impresso nas artes; usei 24/07 a 30/07 informado na legenda/prompt.",
+  "pages": {
+    "DbTWbgcG00H_p1": [
+      {"n": "Frango a Passarinho Super Frango Congelado 1kg", "p": "10,49", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTWbgcG00H_p2": [
+      {"n": "Arroz Parboilizado Laguna Tipo 1 1kg", "p": "2,99", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTWbgcG00H_p3": [
+      {"n": "Salgadinho Pippo's Sao Braz Sabores 30g", "p": "1,49", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTWbgcG00H_p4": [
+      {"n": "Acucar Alegre Triturado 1kg", "p": "2,59", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTWbgcG00H_p5": [
+      {"n": "Sabonete Rexona Antibacterial Fragrancias 84g", "p": "2,19", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ],
+    "DbTWbgcG00H_p6": [
+      {"n": "Cerveja Eisenbahn Pilsen Lata 350ml", "p": "3,49", "u": "cada", "x": 8, "y": 25, "w": 84, "h": 55}
+    ]
+  }
+}

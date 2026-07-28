@@ -1,0 +1,37 @@
+{
+  "decision": "keep",
+  "shortcode": "story_levamaisjc_20260727",
+  "inicio": "2026-07-27",
+  "fim": "2026-08-01",
+  "titulo": "Ofertas Leva Mais Atacarejo (27/07 a 01/08)",
+  "nota": "Perfil levamaisjc (Leva Mais Atacarejo, João Câmara/RN) — mantido. 9 frames de story avulsos com 1 produto/preço cada (varejo). Datas: os frames de produto não trazem validade impressa; usei o período impresso no proprio story (faixa 'Ofertas válidas somente no período de 27/07 à 01/08/2026'). Ignorados 4 frames sem produto/preço de varejo: 3950508194504125479 (teaser 'Atenção Comerciante Potiguar / peça pelo Telemais'), 3950508227714761814 e 3950508252285074076 (grades de TELEVENDAS B2B — preços por caixa/fardo com mínimos, 'preços exclusivos do televendas'), 3950508280193868388 (institucional — consultores/horários). Posições aproximadas (frame de 1 produto).",
+  "pages": {
+    "story_levamaisjc_3950488324416854028": [
+      {"n":"Açúcar Alegre Triturado 1kg","p":"2,69","u":"un","x":8,"y":25,"w":84,"h":58}
+    ],
+    "story_levamaisjc_3950488360949199191": [
+      {"n":"Flocão de Milho Dona Clara Premium 500g","p":"1,39","u":"un","x":8,"y":25,"w":84,"h":58}
+    ],
+    "story_levamaisjc_3950488395627866577": [
+      {"n":"Leite em Pó Ninho Integral Sachê 750g","p":"31,98","u":"un","x":8,"y":25,"w":84,"h":58}
+    ],
+    "story_levamaisjc_3950488423335423076": [
+      {"n":"Coxa com Sobrecoxa com Dorsal Lar Congelada","p":"7,49","u":"kg","x":8,"y":25,"w":84,"h":58}
+    ],
+    "story_levamaisjc_3950488463013373360": [
+      {"n":"Farinha de Trigo Finna Tradicional 1kg","p":"3,69","u":"un","x":8,"y":25,"w":84,"h":58}
+    ],
+    "story_levamaisjc_3950488498262357515": [
+      {"n":"Leite UHT Integral Natville 1L","p":"5,49","u":"un","x":8,"y":25,"w":84,"h":58}
+    ],
+    "story_levamaisjc_3950488536229207522": [
+      {"n":"Leite Condensado Semidesnatado CCGL 395g","p":"5,69","u":"un","x":8,"y":25,"w":84,"h":58}
+    ],
+    "story_levamaisjc_3950488570765052410": [
+      {"n":"Dueto (Ervilha e Milho) / Milho Verde Fugini Sachê 170g","p":"2,99","u":"un","x":8,"y":25,"w":84,"h":58}
+    ],
+    "story_levamaisjc_3950488595159109779": [
+      {"n":"Margarina Deline Cremosa com Sal 500g","p":"4,79","u":"un","x":8,"y":25,"w":84,"h":58}
+    ]
+  }
+}

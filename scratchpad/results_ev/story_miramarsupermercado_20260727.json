@@ -1,0 +1,42 @@
+{
+  "decision": "keep",
+  "shortcode": "story_miramarsupermercado_20260727",
+  "inicio": "2026-07-28",
+  "fim": "2026-07-28",
+  "titulo": "Terça da Carne (28/07)",
+  "nota": "Todos os frames trazem a faixa impressa 'OFERTAS VÁLIDAS PARA 28/07/2026'. Vários itens marcados como 'Oferta Exclusiva no App'.",
+  "pages": {
+    "story_miramarsupermercado_3950816028817386347": [
+      {"n":"Carne Bovina Lombo Serrado","p":"25,99","u":"kg","x":6,"y":25,"w":45,"h":20},
+      {"n":"Carne Bovina Posta Gorda","p":"27,99","u":"kg","x":52,"y":25,"w":45,"h":20},
+      {"n":"Carne Bovina Chã de Fora de Sol","p":"38,99","u":"kg","x":6,"y":47,"w":45,"h":21},
+      {"n":"Carne Bovina Patinho","p":"38,99","u":"kg","x":52,"y":47,"w":45,"h":21},
+      {"n":"Carne Bovina Patinho de Sol","p":"39,99","u":"kg","x":6,"y":69,"w":45,"h":20},
+      {"n":"Picanha Fatiada Bordon","p":"39,99","u":"kg","x":52,"y":69,"w":45,"h":20}
+    ],
+    "story_miramarsupermercado_3950816141811962773": [
+      {"n":"Salsicha Hot Dog Rara","p":"6,49","u":"kg","x":6,"y":25,"w":45,"h":20},
+      {"n":"Linguiça de Frango Bom Todo","p":"14,99","u":"kg","x":52,"y":25,"w":45,"h":20},
+      {"n":"Empanado de Frango Lar 100g","p":"1,29","u":"cada","x":6,"y":47,"w":45,"h":20},
+      {"n":"Coxa com Sobrecoxa de Frango com Dorsal","p":"7,99","u":"kg","x":52,"y":47,"w":45,"h":21},
+      {"n":"Coxinha da Asa Seara IQF 1kg","p":"16,99","u":"pct","x":6,"y":68,"w":45,"h":21},
+      {"n":"Filezinho de Peito de Frango Perdigão 1kg","p":"16,99","u":"bandeja","x":52,"y":68,"w":45,"h":21}
+    ],
+    "story_miramarsupermercado_3950816235395242543": [
+      {"n":"Sobrepaleta Suína Lar Congelada","p":"19,99","u":"kg","x":6,"y":25,"w":45,"h":21},
+      {"n":"Lombo Suíno Sem Osso Lar Congelado","p":"21,99","u":"kg","x":52,"y":25,"w":45,"h":21},
+      {"n":"Matambrito Suíno Lar Congelado","p":"22,99","u":"kg","x":6,"y":47,"w":45,"h":21},
+      {"n":"Filé Mignon Suíno Lar Congelado","p":"24,99","u":"kg","x":52,"y":47,"w":45,"h":21},
+      {"n":"Costela Suína em Tiras Lar Congelada","p":"26,99","u":"kg","x":6,"y":69,"w":45,"h":20},
+      {"n":"Linguiça Suína para Churrasco Aurora","p":"16,99","u":"kg","x":52,"y":69,"w":45,"h":20}
+    ],
+    "story_miramarsupermercado_3950816322779365918": [
+      {"n":"Hambúrguer Misto Itaberaba 56g","p":"0,79","u":"cada","x":6,"y":25,"w":45,"h":20},
+      {"n":"Mortadela Mista Fluminense","p":"11,99","u":"kg","x":52,"y":25,"w":45,"h":20},
+      {"n":"Queijo Mussarela Unalac Peça ou Pedaço","p":"39,99","u":"kg","x":6,"y":47,"w":45,"h":21},
+      {"n":"Batata Pré-Frita EasyChef Corte Fino Congelada 2kg","p":"22,99","u":"pct","x":52,"y":47,"w":45,"h":21},
+      {"n":"Manteiga Ipanema com Sal 500g","p":"17,99","u":"cada","x":6,"y":69,"w":45,"h":20},
+      {"n":"Margarina Puro Sabor com Sal 500g","p":"4,99","u":"cada","x":52,"y":69,"w":45,"h":20}
+    ]
+  }
+}

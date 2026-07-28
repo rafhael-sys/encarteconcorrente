@@ -1,0 +1,59 @@
+{
+  "decision": "keep",
+  "shortcode": "story_superfacilvaledosol_20260727",
+  "inicio": "2026-07-22",
+  "fim": "2026-07-28",
+  "titulo": "Ofertas SuperFácil Vale do Sol (semana 22-28/07)",
+  "nota": "RN (loja SuperFácil Vale do Sol, Parnamirim/RN; selos 'RN INSPECIONADO' nos requeijoes e marca Nordestao confirmam RN). Nenhum frame indica Joao Pessoa/PB. Validade impressa vista apenas no frame do Kapo (PERIODO DE OFERTA: 22/07/2026 ATE 28/07/2026); demais tags de promocao sem data - usei esse periodo impresso para toda a janela. Frames 3950666828121931876 (arte Coca/Sprite, sem preco) e 3950717432498343440 (selfie) sem produto+preco, nao incluidos.",
+  "pages": {
+    "story_superfacilvaledosol_3950717564585374458": [
+      {"n":"Ovos Brancos Graciana Jumbo Queen com 10 unidades","p":"4,99","u":"cada","x":8,"y":3,"w":84,"h":42}
+    ],
+    "story_superfacilvaledosol_3950717721007889929": [
+      {"n":"Flocao de Milho Fortemilho Pacote 400g","p":"1,09","u":"cada","x":16,"y":13,"w":68,"h":42}
+    ],
+    "story_superfacilvaledosol_3950718291727073956": [
+      {"n":"Molho de Tomate Predilecta Tradicional Pacote 300g","p":"1,39","u":"cada","x":24,"y":8,"w":66,"h":45}
+    ],
+    "story_superfacilvaledosol_3950718383607344282": [
+      {"n":"Macarrao Parafuso Estrela Pacote 400g","p":"3,29","u":"cada","x":33,"y":6,"w":58,"h":45}
+    ],
+    "story_superfacilvaledosol_3950718737036108519": [
+      {"n":"Jogo de Copos Vestcasa Cocktail 350ml com 3","p":"15,00","u":"cada","x":18,"y":22,"w":66,"h":42}
+    ],
+    "story_superfacilvaledosol_3950718801485837620": [
+      {"n":"Jogo de Copos Vestcasa Porto Fino Short com 6","p":"25,90","u":"cada","x":12,"y":48,"w":80,"h":40}
+    ],
+    "story_superfacilvaledosol_3950718851532392497": [
+      {"n":"Kit Coca-Cola 2L + Guarana Kuat 2L","p":"17,79","u":"cada","x":28,"y":63,"w":42,"h":33}
+    ],
+    "story_superfacilvaledosol_3950719220496540984": [
+      {"n":"Achocolatado em Po 3 Coracoes Chocolatto Pacote 700g","p":"14,99","u":"cada","x":16,"y":68,"w":72,"h":28}
+    ],
+    "story_superfacilvaledosol_3950719229204296949": [
+      {"n":"Suco Del Valle Kapo Morango Caixa 200ml","p":"2,29","u":"un","x":16,"y":78,"w":68,"h":20}
+    ],
+    "story_superfacilvaledosol_3950719429918463896": [
+      {"n":"Cerveja Lokal Bier Lata 350ml","p":"2,19","u":"cada","x":10,"y":6,"w":78,"h":48}
+    ],
+    "story_superfacilvaledosol_3950719597296083881": [
+      {"n":"Refrigerante Guarana Antarctica Zero Lata 350ml (pack com 12)","p":"17,88","u":"cada (pack 12)","x":22,"y":13,"w":40,"h":22}
+    ],
+    "story_superfacilvaledosol_3950719726916838793": [
+      {"n":"Agua Sanitaria Dragao 1L","p":"1,99","u":"cada","x":30,"y":73,"w":42,"h":25}
+    ],
+    "story_superfacilvaledosol_3950719764187691524": [
+      {"n":"Requeijao Cremoso Clan Tradicional Pote 200g","p":"6,99","u":"cada","x":0,"y":50,"w":30,"h":25},
+      {"n":"Requeijao Cremoso Clan Light Pote 200g","p":"6,99","u":"cada","x":70,"y":50,"w":30,"h":25}
+    ],
+    "story_superfacilvaledosol_3950719816029320328": [
+      {"n":"Pao de Forma Nordestao Tradicional 350g","p":"5,89","u":"cada","x":28,"y":8,"w":66,"h":45}
+    ],
+    "story_superfacilvaledosol_3950719910636126888": [
+      {"n":"Acem com Osso Bovino Reserva","p":"28,49","u":"kg","x":10,"y":19,"w":82,"h":36},
+      {"n":"Patinho Bovino Friboi Pedaco","p":"41,79","u":"kg","x":52,"y":58,"w":22,"h":12},
+      {"n":"Coxao Mole Bovino Friboi Resfriado Pedaco","p":"35,89","u":"kg","x":0,"y":82,"w":48,"h":18},
+      {"n":"Cha de Fora Bovino Friboi Pedaco Resfriado","p":"39,79","u":"kg","x":50,"y":82,"w":50,"h":18}
+    ]
+  }
+}
