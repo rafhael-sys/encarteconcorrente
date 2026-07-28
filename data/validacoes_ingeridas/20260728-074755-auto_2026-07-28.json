@@ -1,0 +1,324 @@
+{
+ "validacoes": [
+  {
+   "a": "Polpa de Fruta NORDESTE FRUIT 400g (Abacaxi/Cajú/Goiaba/Manga/Tamarindo)",
+   "b": "Polpa de Frutas Nordeste Fruit 400g (Abacaxi/Caju/Goiaba/Manga/Tamarindo)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amido de Milho Maizena LEV200 PG150G",
+   "b": "Amido de Milho Maizena Lv200 Pg150g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Agua Mineral Ster Bom 510ml S/Gas",
+   "b": "Água Mineral Sterbom 510ml S/Gás",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupa Líquido Limpamil 3L",
+   "b": "Lava Roupas Líquido Limpamil 3L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ração Pedigree 100g R Peq Frg Molho ou Ração Whiskas Sh 85g Ad Molho Frango",
+   "b": "Racao Pedigree 100g R Peq Frango Molho ou Racao Whiskas SH 85g Ad Molho Frango",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre c/ Abas 16 Unidades",
+   "b": "Absorvente Sempre Livre com Abas 16 Unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa e Sobrecoxa Seara S/Osso Bandeja 1kg",
+   "b": "Coxa e Sobrecoxa Seara Sem Osso Bandeja 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Solúvel Nescafé 40g 10% Grátis (Extraforte/Forte/Suave)",
+   "b": "Cafe Soluvel Nescafe 40g 10% Gratis Extraforte, Forte e Suave",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Branco Nordestão Extra Com 30",
+   "b": "Ovos Branco Nordestão Extra C/30",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Mineral Sterbom 510ml sem gás",
+   "b": "Água Mineral Sterbom 510ml S/Gás",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Brilhante Bag 1,6kg Cuid Coco Total",
+   "b": "Lava Roupas Brilhante Bag 1,6kg Cuidado Coco Total",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Presunto Cozido s/ Capa Lebon",
+   "b": "Presunto Cozido sem Capa Lebon",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fígado de Frango Perdigão congelado 1kg",
+   "b": "Fígado de Frango Perdigão Congelado SC 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Fugini Tradicional 300g",
+   "b": "Molho de Tomate Fugini Tradicional SC 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Costela Ponta de Agulha kg",
+   "b": "Carne Bovina Costela Ponta de Agulha",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chocolate Barra Delamilk 65g Sabores",
+   "b": "Chocolate em Barra Delamilk 65g (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho Tomate Bonare 300g Tradicional",
+   "b": "Molho de Tomate Bonare 300g Tradicional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxas e Sobrecoxas Bom Todo Congeladas Bandeja 1kg",
+   "b": "Coxas e Sobrecoxas Bom Todo Congeladas BDJ 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Jerked Beef Goiano Ponta de Agulha kg",
+   "b": "Jerked Beef Goiano (Ponta de Agulha)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito Bovino c/ Osso kg",
+   "b": "Peito Bovino com Osso kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxas e Sobrecoxas Bom Todo Congeladas 1kg",
+   "b": "Coxas e Sobrecoxas Bom Todo Congeladas BDJ 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Mineral Sterbom 510ml sem gás",
+   "b": "Agua Mineral Ster Bom 510ml S/Gas",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Suína Frimesa Congelada kg",
+   "b": "Costela Suina Frimesa Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Frango Aurora 1kg",
+   "b": "Filézinho de Frango Aurora PC 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hidrat Nivea Loção 200ml Beleza Radiante",
+   "b": "Hidratante Nivea Locao 200ml Beleza Radiante",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite UHT Integral Natville CX 1L",
+   "b": "Leite UHT Integral Natville 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Beb Vegetal Tal da Castanha 1L",
+   "b": "Bebida Vegetal Tal da Castanha 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Sadio Sch 300g Tradicional (app Queira Mais)",
+   "b": "Molho de Tomate Sadio sch 300g Tradicional (App Clube Queira Mais)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Bisteca Traseira kg",
+   "b": "Carne Bovina Bisteca Traseira",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisc Coberto Bis Lacta 100,8g Sabores",
+   "b": "Biscoito Coberto Bis Lacta 100,8g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Jucurutu 500g Fat Interfolhad",
+   "b": "Queijo Mussarela Jucurutu 500g Fatiado Interfolhado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Toalhas Umedecidas Mili Love & Care C/48",
+   "b": "Toalhas Umedecidas Mili Love & Care C/96",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creme de Avelã Nutella 140g",
+   "b": "Creme de Avela Nutella Pt 140g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Calabresa Chuletao kg",
+   "b": "Linguiça Calabresa Chuletão",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Lombo Paulista",
+   "b": "Carne Bovina Lombo Paulista Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão Instantâneo Nissin Lámen 85g Galinha Caipira",
+   "b": "Macarrão Instantâneo Nissin Lámen 85g Galinha Caipira / Carne",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha Láctea Nestlé 160g",
+   "b": "Farinha Láctea Nestlé SC 160g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Parmesão Cilind Davaca 175g",
+   "b": "Queijo Parmesao Cilindrico Davaca 175g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Óleo Amêndoas Above 100ml",
+   "b": "Oleo de Amendoas Above 100ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aero Dove 89g",
+   "b": "Desodorante Aerosol Dove 89g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado Pó Chocolatto Sachê 200g Refil",
+   "b": "Achocolatado em Pó Chocolatto sch 200g Refil",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maionese Quero Sachê 1,020kg",
+   "b": "Maionese Quero SC 1,020kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete p/ Mãos Harrop 1L",
+   "b": "Sabonete para Maos Harrop 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango Congelado kg",
+   "b": "Peito de Frango Congelado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Rampinelli Parboilizado 1kg (app Queira Mais)",
+   "b": "Arroz Rampinelli Parboilizado 1kg (App Clube Queira Mais)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Tilápia Lar PC 700g",
+   "b": "Filé de Tilápia Lar 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Óleo Girassol Soya 900ml",
+   "b": "Oleo de Girassol Soya 900ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Posta Gorda Kg",
+   "b": "Carne Bovina Posta Gorda",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bov Posta Gorda kg",
+   "b": "Carne Bovina Posta Gorda Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne de Sol Coxão Duro kg",
+   "b": "Carne de Sol Coxao Duro",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Charque Dianteiro Caicó kg",
+   "b": "Charque Dianteiro Caicó",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisc Club Social 106g/141g/144g",
+   "b": "Biscoito Club Social 106g/141g/144g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Guardanapo de Papel MILI 21x22cm c/50",
+   "b": "Guardanapos de Papel Mili 21cm x 22cm C/50",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pernil Suíno Congelado kg",
+   "b": "Pernil Suino Congelado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Chambaril kg",
+   "b": "Carne Bovina Chambaril",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Polpa Nossa Fruta 1kg Goiaba/Manga/Tamarindo",
+   "b": "Polpa Nossa Fruta 1kg Goiaba ou Manga ou Tamarindo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Aurora",
+   "b": "Linguiça Frango Aurora",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Caixa de Bombom Garoto 220g (app Queira Mais)",
+   "b": "Caixa de Bombom Garoto 220g (App Clube Queira Mais)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Choc Lacta Favoritos 131,5g Sortido",
+   "b": "Chocolate Lacta Favoritos 131,5g Sortido",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango Bom Todo c/ Miúdos Congelado kg",
+   "b": "Frango Bom Todo com Miudos Congelado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Alcatra KG",
+   "b": "Carne Bovina Alcatra",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ling Calabresa Jucurutu KG",
+   "b": "Linguica Calabresa Jucurutu kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bolacha Torrada Taboleiro 250g 100% Mant Terra",
+   "b": "Bolacha Torrada Taboleiro 250g 100% Manteiga da Terra",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha da Asa Lar IQF 1kg",
+   "b": "Coxinha da Asa Seara IQF 1kg",
+   "veredito": "diferente"
+  }
+ ]
+}

@@ -7947,5 +7947,451 @@
   "b": "Absorvente Lady Suave com Abas Pacote com 32 unidades",
   "veredito": "diferente",
   "quando": "2026-07-27"
+ },
+ "polpa de fruta nordeste fruit 400g (abacaxi/caju/goiaba/manga/tamarindo) || polpa de frutas nordeste fruit 400g (abacaxi/caju/goiaba/manga/tamarindo)": {
+  "a": "Polpa de Fruta NORDESTE FRUIT 400g (Abacaxi/Cajú/Goiaba/Manga/Tamarindo)",
+  "b": "Polpa de Frutas Nordeste Fruit 400g (Abacaxi/Caju/Goiaba/Manga/Tamarindo)",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "amido de milho maizena lev200 pg150g || amido de milho maizena lv200 pg150g": {
+  "a": "Amido de Milho Maizena LEV200 PG150G",
+  "b": "Amido de Milho Maizena Lv200 Pg150g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "agua mineral ster bom 510ml s/gas || agua mineral sterbom 510ml s/gas": {
+  "a": "Agua Mineral Ster Bom 510ml S/Gas",
+  "b": "Água Mineral Sterbom 510ml S/Gás",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "lava roupa liquido limpamil 3l || lava roupas liquido limpamil 3l": {
+  "a": "Lava Roupa Líquido Limpamil 3L",
+  "b": "Lava Roupas Líquido Limpamil 3L",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "racao pedigree 100g r peq frango molho ou racao whiskas sh 85g ad molho frango || racao pedigree 100g r peq frg molho ou racao whiskas sh 85g ad molho frango": {
+  "a": "Ração Pedigree 100g R Peq Frg Molho ou Ração Whiskas Sh 85g Ad Molho Frango",
+  "b": "Racao Pedigree 100g R Peq Frango Molho ou Racao Whiskas SH 85g Ad Molho Frango",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "absorvente sempre livre c/ abas 16 unidades || absorvente sempre livre com abas 16 unidades": {
+  "a": "Absorvente Sempre Livre c/ Abas 16 Unidades",
+  "b": "Absorvente Sempre Livre com Abas 16 Unidades",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "coxa e sobrecoxa seara s/osso bandeja 1kg || coxa e sobrecoxa seara sem osso bandeja 1kg": {
+  "a": "Coxa e Sobrecoxa Seara S/Osso Bandeja 1kg",
+  "b": "Coxa e Sobrecoxa Seara Sem Osso Bandeja 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "cafe soluvel nescafe 40g 10% gratis (extraforte/forte/suave) || cafe soluvel nescafe 40g 10% gratis extraforte, forte e suave": {
+  "a": "Café Solúvel Nescafé 40g 10% Grátis (Extraforte/Forte/Suave)",
+  "b": "Cafe Soluvel Nescafe 40g 10% Gratis Extraforte, Forte e Suave",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "ovos branco nordestao extra c/30 || ovos branco nordestao extra com 30": {
+  "a": "Ovos Branco Nordestão Extra Com 30",
+  "b": "Ovos Branco Nordestão Extra C/30",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "agua mineral sterbom 510ml s/gas || agua mineral sterbom 510ml sem gas": {
+  "a": "Água Mineral Sterbom 510ml sem gás",
+  "b": "Água Mineral Sterbom 510ml S/Gás",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "lava roupas brilhante bag 1,6kg cuid coco total || lava roupas brilhante bag 1,6kg cuidado coco total": {
+  "a": "Lava Roupas Brilhante Bag 1,6kg Cuid Coco Total",
+  "b": "Lava Roupas Brilhante Bag 1,6kg Cuidado Coco Total",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "presunto cozido s/ capa lebon || presunto cozido sem capa lebon": {
+  "a": "Presunto Cozido s/ Capa Lebon",
+  "b": "Presunto Cozido sem Capa Lebon",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "figado de frango perdigao congelado 1kg || figado de frango perdigao congelado sc 1kg": {
+  "a": "Fígado de Frango Perdigão congelado 1kg",
+  "b": "Fígado de Frango Perdigão Congelado SC 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "molho de tomate fugini tradicional 300g || molho de tomate fugini tradicional sc 300g": {
+  "a": "Molho de Tomate Fugini Tradicional 300g",
+  "b": "Molho de Tomate Fugini Tradicional SC 300g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne bovina costela ponta de agulha || carne bovina costela ponta de agulha kg": {
+  "a": "Carne Bovina Costela Ponta de Agulha kg",
+  "b": "Carne Bovina Costela Ponta de Agulha",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "chocolate barra delamilk 65g sabores || chocolate em barra delamilk 65g (sabores)": {
+  "a": "Chocolate Barra Delamilk 65g Sabores",
+  "b": "Chocolate em Barra Delamilk 65g (Sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "molho de tomate bonare 300g tradicional || molho tomate bonare 300g tradicional": {
+  "a": "Molho Tomate Bonare 300g Tradicional",
+  "b": "Molho de Tomate Bonare 300g Tradicional",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "coxas e sobrecoxas bom todo congeladas bandeja 1kg || coxas e sobrecoxas bom todo congeladas bdj 1kg": {
+  "a": "Coxas e Sobrecoxas Bom Todo Congeladas Bandeja 1kg",
+  "b": "Coxas e Sobrecoxas Bom Todo Congeladas BDJ 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "jerked beef goiano (ponta de agulha) || jerked beef goiano ponta de agulha kg": {
+  "a": "Jerked Beef Goiano Ponta de Agulha kg",
+  "b": "Jerked Beef Goiano (Ponta de Agulha)",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "peito bovino c/ osso kg || peito bovino com osso kg": {
+  "a": "Peito Bovino c/ Osso kg",
+  "b": "Peito Bovino com Osso kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "coxas e sobrecoxas bom todo congeladas 1kg || coxas e sobrecoxas bom todo congeladas bdj 1kg": {
+  "a": "Coxas e Sobrecoxas Bom Todo Congeladas 1kg",
+  "b": "Coxas e Sobrecoxas Bom Todo Congeladas BDJ 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "agua mineral ster bom 510ml s/gas || agua mineral sterbom 510ml sem gas": {
+  "a": "Água Mineral Sterbom 510ml sem gás",
+  "b": "Agua Mineral Ster Bom 510ml S/Gas",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "costela suina frimesa congelada || costela suina frimesa congelada kg": {
+  "a": "Costela Suína Frimesa Congelada kg",
+  "b": "Costela Suina Frimesa Congelada",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "filezinho de frango aurora 1kg || filezinho de frango aurora pc 1kg": {
+  "a": "Filezinho de Frango Aurora 1kg",
+  "b": "Filézinho de Frango Aurora PC 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "hidrat nivea locao 200ml beleza radiante || hidratante nivea locao 200ml beleza radiante": {
+  "a": "Hidrat Nivea Loção 200ml Beleza Radiante",
+  "b": "Hidratante Nivea Locao 200ml Beleza Radiante",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "leite uht integral natville 1l || leite uht integral natville cx 1l": {
+  "a": "Leite UHT Integral Natville CX 1L",
+  "b": "Leite UHT Integral Natville 1L",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "beb vegetal tal da castanha 1l || bebida vegetal tal da castanha 1l": {
+  "a": "Beb Vegetal Tal da Castanha 1L",
+  "b": "Bebida Vegetal Tal da Castanha 1L",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "molho de tomate sadio sch 300g tradicional (app clube queira mais) || molho de tomate sadio sch 300g tradicional (app queira mais)": {
+  "a": "Molho de Tomate Sadio Sch 300g Tradicional (app Queira Mais)",
+  "b": "Molho de Tomate Sadio sch 300g Tradicional (App Clube Queira Mais)",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne bovina bisteca traseira || carne bovina bisteca traseira kg": {
+  "a": "Carne Bovina Bisteca Traseira kg",
+  "b": "Carne Bovina Bisteca Traseira",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "bisc coberto bis lacta 100,8g sabores || biscoito coberto bis lacta 100,8g sabores": {
+  "a": "Bisc Coberto Bis Lacta 100,8g Sabores",
+  "b": "Biscoito Coberto Bis Lacta 100,8g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "queijo mussarela jucurutu 500g fat interfolhad || queijo mussarela jucurutu 500g fatiado interfolhado": {
+  "a": "Queijo Mussarela Jucurutu 500g Fat Interfolhad",
+  "b": "Queijo Mussarela Jucurutu 500g Fatiado Interfolhado",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "toalhas umedecidas mili love & care c/48 || toalhas umedecidas mili love & care c/96": {
+  "a": "Toalhas Umedecidas Mili Love & Care C/48",
+  "b": "Toalhas Umedecidas Mili Love & Care C/96",
+  "veredito": "diferente",
+  "quando": "2026-07-28"
+ },
+ "creme de avela nutella 140g || creme de avela nutella pt 140g": {
+  "a": "Creme de Avelã Nutella 140g",
+  "b": "Creme de Avela Nutella Pt 140g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "linguica calabresa chuletao || linguica calabresa chuletao kg": {
+  "a": "Linguiça Calabresa Chuletao kg",
+  "b": "Linguiça Calabresa Chuletão",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne bovina lombo paulista || carne bovina lombo paulista kg": {
+  "a": "Carne Bovina Lombo Paulista",
+  "b": "Carne Bovina Lombo Paulista Kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "macarrao instantaneo nissin lamen 85g galinha caipira || macarrao instantaneo nissin lamen 85g galinha caipira / carne": {
+  "a": "Macarrão Instantâneo Nissin Lámen 85g Galinha Caipira",
+  "b": "Macarrão Instantâneo Nissin Lámen 85g Galinha Caipira / Carne",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "farinha lactea nestle 160g || farinha lactea nestle sc 160g": {
+  "a": "Farinha Láctea Nestlé 160g",
+  "b": "Farinha Láctea Nestlé SC 160g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "queijo parmesao cilind davaca 175g || queijo parmesao cilindrico davaca 175g": {
+  "a": "Queijo Parmesão Cilind Davaca 175g",
+  "b": "Queijo Parmesao Cilindrico Davaca 175g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "oleo amendoas above 100ml || oleo de amendoas above 100ml": {
+  "a": "Óleo Amêndoas Above 100ml",
+  "b": "Oleo de Amendoas Above 100ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "desodorante aero dove 89g || desodorante aerosol dove 89g": {
+  "a": "Desodorante Aero Dove 89g",
+  "b": "Desodorante Aerosol Dove 89g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "achocolatado em po chocolatto sch 200g refil || achocolatado po chocolatto sache 200g refil": {
+  "a": "Achocolatado Pó Chocolatto Sachê 200g Refil",
+  "b": "Achocolatado em Pó Chocolatto sch 200g Refil",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "maionese quero sache 1,020kg || maionese quero sc 1,020kg": {
+  "a": "Maionese Quero Sachê 1,020kg",
+  "b": "Maionese Quero SC 1,020kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "sabonete p/ maos harrop 1l || sabonete para maos harrop 1l": {
+  "a": "Sabonete p/ Mãos Harrop 1L",
+  "b": "Sabonete para Maos Harrop 1L",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "peito de frango congelado || peito de frango congelado kg": {
+  "a": "Peito de Frango Congelado kg",
+  "b": "Peito de Frango Congelado",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "arroz rampinelli parboilizado 1kg (app clube queira mais) || arroz rampinelli parboilizado 1kg (app queira mais)": {
+  "a": "Arroz Rampinelli Parboilizado 1kg (app Queira Mais)",
+  "b": "Arroz Rampinelli Parboilizado 1kg (App Clube Queira Mais)",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "file de tilapia lar 700g || file de tilapia lar pc 700g": {
+  "a": "Filé de Tilápia Lar PC 700g",
+  "b": "Filé de Tilápia Lar 700g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "oleo de girassol soya 900ml || oleo girassol soya 900ml": {
+  "a": "Óleo Girassol Soya 900ml",
+  "b": "Oleo de Girassol Soya 900ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne bovina posta gorda || carne bovina posta gorda kg": {
+  "a": "Carne Bovina Posta Gorda Kg",
+  "b": "Carne Bovina Posta Gorda",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne bov posta gorda kg || carne bovina posta gorda kg": {
+  "a": "Carne Bov Posta Gorda kg",
+  "b": "Carne Bovina Posta Gorda Kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne de sol coxao duro || carne de sol coxao duro kg": {
+  "a": "Carne de Sol Coxão Duro kg",
+  "b": "Carne de Sol Coxao Duro",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "charque dianteiro caico || charque dianteiro caico kg": {
+  "a": "Charque Dianteiro Caicó kg",
+  "b": "Charque Dianteiro Caicó",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "bisc club social 106g/141g/144g || biscoito club social 106g/141g/144g": {
+  "a": "Bisc Club Social 106g/141g/144g",
+  "b": "Biscoito Club Social 106g/141g/144g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "guardanapo de papel mili 21x22cm c/50 || guardanapos de papel mili 21cm x 22cm c/50": {
+  "a": "Guardanapo de Papel MILI 21x22cm c/50",
+  "b": "Guardanapos de Papel Mili 21cm x 22cm C/50",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "pernil suino congelado || pernil suino congelado kg": {
+  "a": "Pernil Suíno Congelado kg",
+  "b": "Pernil Suino Congelado",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne bovina chambaril || carne bovina chambaril kg": {
+  "a": "Carne Bovina Chambaril kg",
+  "b": "Carne Bovina Chambaril",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "polpa nossa fruta 1kg goiaba ou manga ou tamarindo || polpa nossa fruta 1kg goiaba/manga/tamarindo": {
+  "a": "Polpa Nossa Fruta 1kg Goiaba/Manga/Tamarindo",
+  "b": "Polpa Nossa Fruta 1kg Goiaba ou Manga ou Tamarindo",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "linguica de frango aurora || linguica frango aurora": {
+  "a": "Linguiça de Frango Aurora",
+  "b": "Linguiça Frango Aurora",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "caixa de bombom garoto 220g (app clube queira mais) || caixa de bombom garoto 220g (app queira mais)": {
+  "a": "Caixa de Bombom Garoto 220g (app Queira Mais)",
+  "b": "Caixa de Bombom Garoto 220g (App Clube Queira Mais)",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "choc lacta favoritos 131,5g sortido || chocolate lacta favoritos 131,5g sortido": {
+  "a": "Choc Lacta Favoritos 131,5g Sortido",
+  "b": "Chocolate Lacta Favoritos 131,5g Sortido",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "frango bom todo c/ miudos congelado kg || frango bom todo com miudos congelado": {
+  "a": "Frango Bom Todo c/ Miúdos Congelado kg",
+  "b": "Frango Bom Todo com Miudos Congelado",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne bovina alcatra || carne bovina alcatra kg": {
+  "a": "Carne Bovina Alcatra KG",
+  "b": "Carne Bovina Alcatra",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "ling calabresa jucurutu kg || linguica calabresa jucurutu kg": {
+  "a": "Ling Calabresa Jucurutu KG",
+  "b": "Linguica Calabresa Jucurutu kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "bolacha torrada taboleiro 250g 100% mant terra || bolacha torrada taboleiro 250g 100% manteiga da terra": {
+  "a": "Bolacha Torrada Taboleiro 250g 100% Mant Terra",
+  "b": "Bolacha Torrada Taboleiro 250g 100% Manteiga da Terra",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "coxinha da asa lar iqf 1kg || coxinha da asa seara iqf 1kg": {
+  "a": "Coxinha da Asa Lar IQF 1kg",
+  "b": "Coxinha da Asa Seara IQF 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-28"
  }
 }

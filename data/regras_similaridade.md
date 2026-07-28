@@ -1198,3 +1198,67 @@
 - DIFERENTES: «Steak de Frango Sadia 100g» != «Steak de Frango Perdigão 100g»
 - MESMO: «Suco de Uva Casa da Serra 1,5L Integral» == «Suco de Uva Casa da Serra 1,5L»
 - DIFERENTES: «Uva Vitória Seleta 500g Bandeja» != «Uva Verde Seleta 500g Bandeja»
+- MESMO: «Absorvente Sempre Livre c/ Abas 16 Unidades» == «Absorvente Sempre Livre com Abas 16 Unidades»
+- MESMO: «Achocolatado Pó Chocolatto Sachê 200g Refil» == «Achocolatado em Pó Chocolatto sch 200g Refil»
+- MESMO: «Agua Mineral Ster Bom 510ml S/Gas» == «Água Mineral Sterbom 510ml S/Gás»
+- MESMO: «Água Mineral Sterbom 510ml sem gás» == «Agua Mineral Ster Bom 510ml S/Gas»
+- MESMO: «Água Mineral Sterbom 510ml sem gás» == «Água Mineral Sterbom 510ml S/Gás»
+- MESMO: «Amido de Milho Maizena LEV200 PG150G» == «Amido de Milho Maizena Lv200 Pg150g»
+- MESMO: «Arroz Rampinelli Parboilizado 1kg (app Queira Mais)» == «Arroz Rampinelli Parboilizado 1kg (App Clube Queira Mais)»
+- MESMO: «Beb Vegetal Tal da Castanha 1L» == «Bebida Vegetal Tal da Castanha 1L»
+- MESMO: «Bisc Club Social 106g/141g/144g» == «Biscoito Club Social 106g/141g/144g»
+- MESMO: «Bisc Coberto Bis Lacta 100,8g Sabores» == «Biscoito Coberto Bis Lacta 100,8g Sabores»
+- MESMO: «Bolacha Torrada Taboleiro 250g 100% Mant Terra» == «Bolacha Torrada Taboleiro 250g 100% Manteiga da Terra»
+- MESMO: «Café Solúvel Nescafé 40g 10% Grátis (Extraforte/Forte/Suave)» == «Cafe Soluvel Nescafe 40g 10% Gratis Extraforte, Forte e Suave»
+- MESMO: «Caixa de Bombom Garoto 220g (app Queira Mais)» == «Caixa de Bombom Garoto 220g (App Clube Queira Mais)»
+- MESMO: «Carne Bov Posta Gorda kg» == «Carne Bovina Posta Gorda Kg»
+- MESMO: «Carne Bovina Alcatra KG» == «Carne Bovina Alcatra»
+- MESMO: «Carne Bovina Bisteca Traseira kg» == «Carne Bovina Bisteca Traseira»
+- MESMO: «Carne Bovina Chambaril kg» == «Carne Bovina Chambaril»
+- MESMO: «Carne Bovina Costela Ponta de Agulha kg» == «Carne Bovina Costela Ponta de Agulha»
+- MESMO: «Carne Bovina Lombo Paulista» == «Carne Bovina Lombo Paulista Kg»
+- MESMO: «Carne Bovina Posta Gorda Kg» == «Carne Bovina Posta Gorda»
+- MESMO: «Carne de Sol Coxão Duro kg» == «Carne de Sol Coxao Duro»
+- MESMO: «Charque Dianteiro Caicó kg» == «Charque Dianteiro Caicó»
+- MESMO: «Choc Lacta Favoritos 131,5g Sortido» == «Chocolate Lacta Favoritos 131,5g Sortido»
+- MESMO: «Chocolate Barra Delamilk 65g Sabores» == «Chocolate em Barra Delamilk 65g (Sabores)»
+- MESMO: «Costela Suína Frimesa Congelada kg» == «Costela Suina Frimesa Congelada»
+- MESMO: «Coxa e Sobrecoxa Seara S/Osso Bandeja 1kg» == «Coxa e Sobrecoxa Seara Sem Osso Bandeja 1kg»
+- MESMO: «Coxas e Sobrecoxas Bom Todo Congeladas 1kg» == «Coxas e Sobrecoxas Bom Todo Congeladas BDJ 1kg»
+- MESMO: «Coxas e Sobrecoxas Bom Todo Congeladas Bandeja 1kg» == «Coxas e Sobrecoxas Bom Todo Congeladas BDJ 1kg»
+- DIFERENTES: «Coxinha da Asa Lar IQF 1kg» != «Coxinha da Asa Seara IQF 1kg»
+- MESMO: «Creme de Avelã Nutella 140g» == «Creme de Avela Nutella Pt 140g»
+- MESMO: «Desodorante Aero Dove 89g» == «Desodorante Aerosol Dove 89g»
+- MESMO: «Farinha Láctea Nestlé 160g» == «Farinha Láctea Nestlé SC 160g»
+- MESMO: «Fígado de Frango Perdigão congelado 1kg» == «Fígado de Frango Perdigão Congelado SC 1kg»
+- MESMO: «Filé de Tilápia Lar PC 700g» == «Filé de Tilápia Lar 700g»
+- MESMO: «Filezinho de Frango Aurora 1kg» == «Filézinho de Frango Aurora PC 1kg»
+- MESMO: «Frango Bom Todo c/ Miúdos Congelado kg» == «Frango Bom Todo com Miudos Congelado»
+- MESMO: «Guardanapo de Papel MILI 21x22cm c/50» == «Guardanapos de Papel Mili 21cm x 22cm C/50»
+- MESMO: «Hidrat Nivea Loção 200ml Beleza Radiante» == «Hidratante Nivea Locao 200ml Beleza Radiante»
+- MESMO: «Jerked Beef Goiano Ponta de Agulha kg» == «Jerked Beef Goiano (Ponta de Agulha)»
+- MESMO: «Lava Roupa Líquido Limpamil 3L» == «Lava Roupas Líquido Limpamil 3L»
+- MESMO: «Lava Roupas Brilhante Bag 1,6kg Cuid Coco Total» == «Lava Roupas Brilhante Bag 1,6kg Cuidado Coco Total»
+- MESMO: «Leite UHT Integral Natville CX 1L» == «Leite UHT Integral Natville 1L»
+- MESMO: «Ling Calabresa Jucurutu KG» == «Linguica Calabresa Jucurutu kg»
+- MESMO: «Linguiça Calabresa Chuletao kg» == «Linguiça Calabresa Chuletão»
+- MESMO: «Linguiça de Frango Aurora» == «Linguiça Frango Aurora»
+- MESMO: «Macarrão Instantâneo Nissin Lámen 85g Galinha Caipira» == «Macarrão Instantâneo Nissin Lámen 85g Galinha Caipira / Carne»
+- MESMO: «Maionese Quero Sachê 1,020kg» == «Maionese Quero SC 1,020kg»
+- MESMO: «Molho Tomate Bonare 300g Tradicional» == «Molho de Tomate Bonare 300g Tradicional»
+- MESMO: «Molho de Tomate Fugini Tradicional 300g» == «Molho de Tomate Fugini Tradicional SC 300g»
+- MESMO: «Molho de Tomate Sadio Sch 300g Tradicional (app Queira Mais)» == «Molho de Tomate Sadio sch 300g Tradicional (App Clube Queira Mais)»
+- MESMO: «Óleo Amêndoas Above 100ml» == «Oleo de Amendoas Above 100ml»
+- MESMO: «Óleo Girassol Soya 900ml» == «Oleo de Girassol Soya 900ml»
+- MESMO: «Ovos Branco Nordestão Extra Com 30» == «Ovos Branco Nordestão Extra C/30»
+- MESMO: «Peito Bovino c/ Osso kg» == «Peito Bovino com Osso kg»
+- MESMO: «Peito de Frango Congelado kg» == «Peito de Frango Congelado»
+- MESMO: «Pernil Suíno Congelado kg» == «Pernil Suino Congelado»
+- MESMO: «Polpa de Fruta NORDESTE FRUIT 400g (Abacaxi/Cajú/Goiaba/Manga/Tamarindo)» == «Polpa de Frutas Nordeste Fruit 400g (Abacaxi/Caju/Goiaba/Manga/Tamarindo)»
+- MESMO: «Polpa Nossa Fruta 1kg Goiaba/Manga/Tamarindo» == «Polpa Nossa Fruta 1kg Goiaba ou Manga ou Tamarindo»
+- MESMO: «Presunto Cozido s/ Capa Lebon» == «Presunto Cozido sem Capa Lebon»
+- MESMO: «Queijo Mussarela Jucurutu 500g Fat Interfolhad» == «Queijo Mussarela Jucurutu 500g Fatiado Interfolhado»
+- MESMO: «Queijo Parmesão Cilind Davaca 175g» == «Queijo Parmesao Cilindrico Davaca 175g»
+- MESMO: «Ração Pedigree 100g R Peq Frg Molho ou Ração Whiskas Sh 85g Ad Molho Frango» == «Racao Pedigree 100g R Peq Frango Molho ou Racao Whiskas SH 85g Ad Molho Frango»
+- MESMO: «Sabonete p/ Mãos Harrop 1L» == «Sabonete para Maos Harrop 1L»
+- DIFERENTES: «Toalhas Umedecidas Mili Love & Care C/48» != «Toalhas Umedecidas Mili Love & Care C/96»
