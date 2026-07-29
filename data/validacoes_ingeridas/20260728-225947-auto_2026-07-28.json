@@ -1,0 +1,319 @@
+{
+ "validacoes": [
+  {
+   "a": "Inseticida Aerossol Raid Multi Insetos Eucalipto Base Água Frasco com 420ml",
+   "b": "Inseticida Aerossol Raid Multi Insetos Eucalipto/Base Água Frasco 420ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Saco para Lixo Embalixo Super econômico 15L/30L Rolo com 100/50 unidades",
+   "b": "Saco para Lixo Embalixo Super Econômico 15L/30L Rolo 100/50 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Enxaguante Bucal Colgate Plax Fresh Mint Frasco com 500ml",
+   "b": "Enxaguante Bucal Colgate Plax Fresh Mint Frasco 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Guardanapo de Papel Malu 21cmx23cm Pacote com 50 unidades",
+   "b": "Guardanapo de Papel Malu 21cmx23cm Pacote 50 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Margarina Claybom Resfriada com Sal Pote com 250g",
+   "b": "Margarina Claybom Resfriada com Sal Pote 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Casa Rodrigues Tinto Suave Garrafa com 1L",
+   "b": "Vinho Casa Rodrigues Tinto Suave Garrafa 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bombom Neugebauer Amor Carioca Caixeta com 200g",
+   "b": "Bombom Neugebauer Amor Carioca Caixeta 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém sem Osso Reserva Resfriada",
+   "b": "Carne Bovina Acém com Osso Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Adoçada Guarafit Açaí e Guaraná 290ml",
+   "b": "Bebida Adoçada Guarafit Açaí e Guaraná Copo 290ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Palha Gratícia Pacote com 400g",
+   "b": "Batata Palha Gratícia Pacote 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cachaça Caranguejo Garrafa com 980ml",
+   "b": "Cachaça Caranguejo Garrafa 980ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Amstel Sleek Lata com 350ml",
+   "b": "Cerveja Amstel Sleek Lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Pepsi Cola Pet com 1L",
+   "b": "Refrigerante Pepsi Cola PET 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém com Osso Reserva Resfriada Friboi",
+   "b": "Carne Bovina Acém com Osso Reserva Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Minas Padrão Regina Light (fracionado)",
+   "b": "Queijo Minas Padrão Regina (fracionado)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sab Cloy Beauty 80g Milka Care",
+   "b": "Sabonete Cloy Beauty 80g Milka Care",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Cremoso Clan Tradicional/Light 200g",
+   "b": "Requeijao Cremoso Clan Tradicional Pote 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Peito com Osso Reserva Resfriada",
+   "b": "Carne Bovina Acém com Osso Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Polpa Ster Bom 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo",
+   "b": "Polpa Ster Bom 1kg Caju / Goiaba / Manga / Tamarindo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mac Parafuso Galo 400g Comum",
+   "b": "Macarrao Parafuso Galo 400g Comum",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Indaiá 250ml (sabores)",
+   "b": "Refrigerante Indaiá Refri 250ml (sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite em Pó Ninho Integral Pct 750g",
+   "b": "Leite em Pó Ninho Integral Sachê 750g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Torrado e Moído Santa Clara Extra Forte 250g",
+   "b": "Cafe Torrado e Moido Santa Clara Extra Forte 250g Almofada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite em Po Italac 200g Integral",
+   "b": "Leite em Po Italac 200g (Sache - Integral)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Brocolis Congelado Lar 300g",
+   "b": "Brocolis Congelado Aurora 300g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha Láctea Nutrimental 180g",
+   "b": "Farinha Lactea Nutrimental 180g (Sache)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aveia Yoki Flocos Finos Caixeta 170g",
+   "b": "Aveia Yoki Flocos Finos/Flocos Caixeta 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Polpa de Fruta Ster Bom 1kg Caju/Goiaba/Manga/Tamarindo",
+   "b": "Polpa Ster Bom 1kg Caju / Goiaba / Manga / Tamarindo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Tratamento Elseve 300g Fragrâncias (exceto a Colag Lifter)",
+   "b": "Creme para Tratamento Elseve 300g (Fragrancias, exceto Collagen Lifter)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Morango Cong Easychef 1kg",
+   "b": "Morango Congelado Easychef 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Brócolis Cong Aurora 300g",
+   "b": "Brocolis Congelado Aurora 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Solúvel Santa Clara Extra Forte Leve 40g Pague 36g",
+   "b": "Cafe Soluvel Santa Clara Extraforte Granulado (Leve 40g Pague 36g)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Choc Barra Lacta 80g/90g",
+   "b": "Chocolate Barra Lacta 80g/90g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Gorgonzola Regina Azul",
+   "b": "Queijo Gorgonzola Regina",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sobrecoxa de Frango Resfriada",
+   "b": "Coxa de Frango Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Coca-Cola + Guaraná Kuat Pack 2x2L",
+   "b": "Refrigerante Coca-Cola e Kuat Pack 2x2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Cupim Porcionada Friboi Resfriada",
+   "b": "Carne Bovina Paleta Porcionada Friboi Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Charque Goiano kg",
+   "b": "Charque Goiano",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Amstel Lager Lata 350ml",
+   "b": "Cerveja Amstel Sleek Lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cream Cheese Catupiry Resfriado 1,2kg",
+   "b": "Cream Cheese Catupiry Resfriado Bisnaga 1,2kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bombons Neugebauer Amor Carioca cx 200g",
+   "b": "Bombom Neugebauer Amor Carioca Caixeta 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Suína Bisteca Fatiada Congelada Reserva",
+   "b": "Carne Suína Bisteca Fatiada Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina com Osso Paleta Reserva Resfriada Friboi Kg",
+   "b": "Carne Bovina com Osso Paleta Reserva Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Capa de Filé Porcionada Friboi Resfriada",
+   "b": "Carne Bovina Paleta Porcionada Friboi Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Milho para Pipoca São Braz 400g",
+   "b": "Milho de Pipoca Sao Braz 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango Passarinho Seara 1kg",
+   "b": "Frango a Passarinho Seara 1kg (zip)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fígado Bovino Reserva Resfriado Friboi",
+   "b": "Fígado Bovino Reserva Resfriado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Brancos Graciana Jumbo Queen Com 10",
+   "b": "Ovos Brancos Graciana Jumbo Queen com 10 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisteca Suína kg",
+   "b": "Bisteca Suina",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Proc Peça ou Ped Caicó",
+   "b": "Queijo Mussarela Processado Peça ou Pedaço Caicó",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Polpa Fruta Seridó 1kg Uva/Cajá/Acerola",
+   "b": "Polpa de Fruta Serido 1kg Uva ou Caja ou Acerola",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Itacolomy c/ Sal Pote 200g",
+   "b": "Manteiga Itacolomy Comum com Sal Pote 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Itacolomy Com Sal PT 200g",
+   "b": "Manteiga Itacolomy Comum com Sal Pote 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Margarina Deline Resfriada com Sal 500g",
+   "b": "Margarina Deline Cremosa com Sal 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Baden Baden 600ml Cristal ou Gold Ale ou Cerveja Blue Moon 350ml",
+   "b": "Cerveja Baden Baden 600ml Cristal ou Gold Ale ou Cerveja Blue Moon 350ml (40% na 2a unidade)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Asa de Frango Resfriada",
+   "b": "Coxa de Frango Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxinha da asa Jaguá IQF 1kg",
+   "b": "Coxinha da Asa Seara IQF 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sab Liq Protex Pro Serum 250ml Ácd Hialuronico",
+   "b": "Sabonete Liquido Protex Pro Serum 250ml Acido Hialuronico",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Amstel Lata 350ml",
+   "b": "Cerveja Amstel Sleek Lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salg Doritos 60g Dinamita",
+   "b": "Salgadinho Doritos 60g Dinamita",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerosol Nivea Men 150ml For Men Dry Imp ou Nivea 150ml Derma Restaura",
+   "b": "Desodorante Aerosol Nivea Men 150ml ou Nivea 150ml Derma Restaura",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Budweiser 330ml (Long Neck - Tradicional/Zero)",
+   "b": "Cerveja Heineken 330ml (Long Neck - Tradicional/Zero)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Dueto Predilecta Sachê 170g",
+   "b": "Dueto Predilecta Pouch 170g",
+   "veredito": "mesmo"
+  }
+ ]
+}

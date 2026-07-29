@@ -8393,5 +8393,436 @@
   "b": "Coxinha da Asa Seara IQF 1kg",
   "veredito": "diferente",
   "quando": "2026-07-28"
+ },
+ "inseticida aerossol raid multi insetos eucalipto base agua frasco com 420ml || inseticida aerossol raid multi insetos eucalipto/base agua frasco 420ml": {
+  "a": "Inseticida Aerossol Raid Multi Insetos Eucalipto Base Água Frasco com 420ml",
+  "b": "Inseticida Aerossol Raid Multi Insetos Eucalipto/Base Água Frasco 420ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "saco para lixo embalixo super economico 15l/30l rolo 100/50 unidades || saco para lixo embalixo super economico 15l/30l rolo com 100/50 unidades": {
+  "a": "Saco para Lixo Embalixo Super econômico 15L/30L Rolo com 100/50 unidades",
+  "b": "Saco para Lixo Embalixo Super Econômico 15L/30L Rolo 100/50 unidades",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "enxaguante bucal colgate plax fresh mint frasco 500ml || enxaguante bucal colgate plax fresh mint frasco com 500ml": {
+  "a": "Enxaguante Bucal Colgate Plax Fresh Mint Frasco com 500ml",
+  "b": "Enxaguante Bucal Colgate Plax Fresh Mint Frasco 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "guardanapo de papel malu 21cmx23cm pacote 50 unidades || guardanapo de papel malu 21cmx23cm pacote com 50 unidades": {
+  "a": "Guardanapo de Papel Malu 21cmx23cm Pacote com 50 unidades",
+  "b": "Guardanapo de Papel Malu 21cmx23cm Pacote 50 unidades",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "margarina claybom resfriada com sal pote 250g || margarina claybom resfriada com sal pote com 250g": {
+  "a": "Margarina Claybom Resfriada com Sal Pote com 250g",
+  "b": "Margarina Claybom Resfriada com Sal Pote 250g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "vinho casa rodrigues tinto suave garrafa 1l || vinho casa rodrigues tinto suave garrafa com 1l": {
+  "a": "Vinho Casa Rodrigues Tinto Suave Garrafa com 1L",
+  "b": "Vinho Casa Rodrigues Tinto Suave Garrafa 1L",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "bombom neugebauer amor carioca caixeta 200g || bombom neugebauer amor carioca caixeta com 200g": {
+  "a": "Bombom Neugebauer Amor Carioca Caixeta com 200g",
+  "b": "Bombom Neugebauer Amor Carioca Caixeta 200g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne bovina acem com osso reserva resfriada || carne bovina acem sem osso reserva resfriada": {
+  "a": "Carne Bovina Acém sem Osso Reserva Resfriada",
+  "b": "Carne Bovina Acém com Osso Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-07-28"
+ },
+ "bebida adocada guarafit acai e guarana 290ml || bebida adocada guarafit acai e guarana copo 290ml": {
+  "a": "Bebida Adoçada Guarafit Açaí e Guaraná 290ml",
+  "b": "Bebida Adoçada Guarafit Açaí e Guaraná Copo 290ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "batata palha graticia pacote 400g || batata palha graticia pacote com 400g": {
+  "a": "Batata Palha Gratícia Pacote com 400g",
+  "b": "Batata Palha Gratícia Pacote 400g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "cachaca caranguejo garrafa 980ml || cachaca caranguejo garrafa com 980ml": {
+  "a": "Cachaça Caranguejo Garrafa com 980ml",
+  "b": "Cachaça Caranguejo Garrafa 980ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "cerveja amstel sleek lata 350ml || cerveja amstel sleek lata com 350ml": {
+  "a": "Cerveja Amstel Sleek Lata com 350ml",
+  "b": "Cerveja Amstel Sleek Lata 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "refrigerante pepsi cola pet 1l || refrigerante pepsi cola pet com 1l": {
+  "a": "Refrigerante Pepsi Cola Pet com 1L",
+  "b": "Refrigerante Pepsi Cola PET 1L",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne bovina acem com osso reserva resfriada || carne bovina acem com osso reserva resfriada friboi": {
+  "a": "Carne Bovina Acém com Osso Reserva Resfriada Friboi",
+  "b": "Carne Bovina Acém com Osso Reserva Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "queijo minas padrao regina (fracionado) || queijo minas padrao regina light (fracionado)": {
+  "a": "Queijo Minas Padrão Regina Light (fracionado)",
+  "b": "Queijo Minas Padrão Regina (fracionado)",
+  "veredito": "diferente",
+  "quando": "2026-07-28"
+ },
+ "sab cloy beauty 80g milka care || sabonete cloy beauty 80g milka care": {
+  "a": "Sab Cloy Beauty 80g Milka Care",
+  "b": "Sabonete Cloy Beauty 80g Milka Care",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "requeijao cremoso clan tradicional pote 200g || requeijao cremoso clan tradicional/light 200g": {
+  "a": "Requeijão Cremoso Clan Tradicional/Light 200g",
+  "b": "Requeijao Cremoso Clan Tradicional Pote 200g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne bovina acem com osso reserva resfriada || carne bovina peito com osso reserva resfriada": {
+  "a": "Carne Bovina Peito com Osso Reserva Resfriada",
+  "b": "Carne Bovina Acém com Osso Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-07-28"
+ },
+ "polpa ster bom 1kg abacaxi/caju/goiaba/manga/tamarindo || polpa ster bom 1kg caju / goiaba / manga / tamarindo": {
+  "a": "Polpa Ster Bom 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo",
+  "b": "Polpa Ster Bom 1kg Caju / Goiaba / Manga / Tamarindo",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "mac parafuso galo 400g comum || macarrao parafuso galo 400g comum": {
+  "a": "Mac Parafuso Galo 400g Comum",
+  "b": "Macarrao Parafuso Galo 400g Comum",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "refrigerante indaia 250ml (sabores) || refrigerante indaia refri 250ml (sabores)": {
+  "a": "Refrigerante Indaiá 250ml (sabores)",
+  "b": "Refrigerante Indaiá Refri 250ml (sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "leite em po ninho integral pct 750g || leite em po ninho integral sache 750g": {
+  "a": "Leite em Pó Ninho Integral Pct 750g",
+  "b": "Leite em Pó Ninho Integral Sachê 750g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "cafe torrado e moido santa clara extra forte 250g || cafe torrado e moido santa clara extra forte 250g almofada": {
+  "a": "Café Torrado e Moído Santa Clara Extra Forte 250g",
+  "b": "Cafe Torrado e Moido Santa Clara Extra Forte 250g Almofada",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "leite em po italac 200g (sache - integral) || leite em po italac 200g integral": {
+  "a": "Leite em Po Italac 200g Integral",
+  "b": "Leite em Po Italac 200g (Sache - Integral)",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "brocolis congelado aurora 300g || brocolis congelado lar 300g": {
+  "a": "Brocolis Congelado Lar 300g",
+  "b": "Brocolis Congelado Aurora 300g",
+  "veredito": "diferente",
+  "quando": "2026-07-28"
+ },
+ "farinha lactea nutrimental 180g || farinha lactea nutrimental 180g (sache)": {
+  "a": "Farinha Láctea Nutrimental 180g",
+  "b": "Farinha Lactea Nutrimental 180g (Sache)",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "aveia yoki flocos finos caixeta 170g || aveia yoki flocos finos/flocos caixeta 170g": {
+  "a": "Aveia Yoki Flocos Finos Caixeta 170g",
+  "b": "Aveia Yoki Flocos Finos/Flocos Caixeta 170g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "polpa de fruta ster bom 1kg caju/goiaba/manga/tamarindo || polpa ster bom 1kg caju / goiaba / manga / tamarindo": {
+  "a": "Polpa de Fruta Ster Bom 1kg Caju/Goiaba/Manga/Tamarindo",
+  "b": "Polpa Ster Bom 1kg Caju / Goiaba / Manga / Tamarindo",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "creme de tratamento elseve 300g fragrancias (exceto a colag lifter) || creme para tratamento elseve 300g (fragrancias, exceto collagen lifter)": {
+  "a": "Creme de Tratamento Elseve 300g Fragrâncias (exceto a Colag Lifter)",
+  "b": "Creme para Tratamento Elseve 300g (Fragrancias, exceto Collagen Lifter)",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "morango cong easychef 1kg || morango congelado easychef 1kg": {
+  "a": "Morango Cong Easychef 1kg",
+  "b": "Morango Congelado Easychef 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "brocolis cong aurora 300g || brocolis congelado aurora 300g": {
+  "a": "Brócolis Cong Aurora 300g",
+  "b": "Brocolis Congelado Aurora 300g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "cafe soluvel santa clara extra forte leve 40g pague 36g || cafe soluvel santa clara extraforte granulado (leve 40g pague 36g)": {
+  "a": "Café Solúvel Santa Clara Extra Forte Leve 40g Pague 36g",
+  "b": "Cafe Soluvel Santa Clara Extraforte Granulado (Leve 40g Pague 36g)",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "choc barra lacta 80g/90g || chocolate barra lacta 80g/90g": {
+  "a": "Choc Barra Lacta 80g/90g",
+  "b": "Chocolate Barra Lacta 80g/90g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "queijo gorgonzola regina || queijo gorgonzola regina azul": {
+  "a": "Queijo Gorgonzola Regina Azul",
+  "b": "Queijo Gorgonzola Regina",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "coxa de frango resfriada || sobrecoxa de frango resfriada": {
+  "a": "Sobrecoxa de Frango Resfriada",
+  "b": "Coxa de Frango Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-07-28"
+ },
+ "refrigerante coca-cola + guarana kuat pack 2x2l || refrigerante coca-cola e kuat pack 2x2l": {
+  "a": "Refrigerante Coca-Cola + Guaraná Kuat Pack 2x2L",
+  "b": "Refrigerante Coca-Cola e Kuat Pack 2x2L",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne bovina cupim porcionada friboi resfriada || carne bovina paleta porcionada friboi resfriada": {
+  "a": "Carne Bovina Cupim Porcionada Friboi Resfriada",
+  "b": "Carne Bovina Paleta Porcionada Friboi Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-07-28"
+ },
+ "charque goiano || charque goiano kg": {
+  "a": "Charque Goiano kg",
+  "b": "Charque Goiano",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "cerveja amstel lager lata 350ml || cerveja amstel sleek lata 350ml": {
+  "a": "Cerveja Amstel Lager Lata 350ml",
+  "b": "Cerveja Amstel Sleek Lata 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "cream cheese catupiry resfriado 1,2kg || cream cheese catupiry resfriado bisnaga 1,2kg": {
+  "a": "Cream Cheese Catupiry Resfriado 1,2kg",
+  "b": "Cream Cheese Catupiry Resfriado Bisnaga 1,2kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "bombom neugebauer amor carioca caixeta 200g || bombons neugebauer amor carioca cx 200g": {
+  "a": "Bombons Neugebauer Amor Carioca cx 200g",
+  "b": "Bombom Neugebauer Amor Carioca Caixeta 200g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne suina bisteca fatiada congelada || carne suina bisteca fatiada congelada reserva": {
+  "a": "Carne Suína Bisteca Fatiada Congelada Reserva",
+  "b": "Carne Suína Bisteca Fatiada Congelada",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne bovina com osso paleta reserva resfriada || carne bovina com osso paleta reserva resfriada friboi kg": {
+  "a": "Carne Bovina com Osso Paleta Reserva Resfriada Friboi Kg",
+  "b": "Carne Bovina com Osso Paleta Reserva Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "carne bovina capa de file porcionada friboi resfriada || carne bovina paleta porcionada friboi resfriada": {
+  "a": "Carne Bovina Capa de Filé Porcionada Friboi Resfriada",
+  "b": "Carne Bovina Paleta Porcionada Friboi Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-07-28"
+ },
+ "milho de pipoca sao braz 400g || milho para pipoca sao braz 400g": {
+  "a": "Milho para Pipoca São Braz 400g",
+  "b": "Milho de Pipoca Sao Braz 400g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "frango a passarinho seara 1kg (zip) || frango passarinho seara 1kg": {
+  "a": "Frango Passarinho Seara 1kg",
+  "b": "Frango a Passarinho Seara 1kg (zip)",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "figado bovino reserva resfriado || figado bovino reserva resfriado friboi": {
+  "a": "Fígado Bovino Reserva Resfriado Friboi",
+  "b": "Fígado Bovino Reserva Resfriado",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "ovos brancos graciana jumbo queen com 10 || ovos brancos graciana jumbo queen com 10 unidades": {
+  "a": "Ovos Brancos Graciana Jumbo Queen Com 10",
+  "b": "Ovos Brancos Graciana Jumbo Queen com 10 unidades",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "bisteca suina || bisteca suina kg": {
+  "a": "Bisteca Suína kg",
+  "b": "Bisteca Suina",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "queijo mussarela proc peca ou ped caico || queijo mussarela processado peca ou pedaco caico": {
+  "a": "Queijo Mussarela Proc Peça ou Ped Caicó",
+  "b": "Queijo Mussarela Processado Peça ou Pedaço Caicó",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "polpa de fruta serido 1kg uva ou caja ou acerola || polpa fruta serido 1kg uva/caja/acerola": {
+  "a": "Polpa Fruta Seridó 1kg Uva/Cajá/Acerola",
+  "b": "Polpa de Fruta Serido 1kg Uva ou Caja ou Acerola",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "manteiga itacolomy c/ sal pote 200g || manteiga itacolomy comum com sal pote 200g": {
+  "a": "Manteiga Itacolomy c/ Sal Pote 200g",
+  "b": "Manteiga Itacolomy Comum com Sal Pote 200g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "manteiga itacolomy com sal pt 200g || manteiga itacolomy comum com sal pote 200g": {
+  "a": "Manteiga Itacolomy Com Sal PT 200g",
+  "b": "Manteiga Itacolomy Comum com Sal Pote 200g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "margarina deline cremosa com sal 500g || margarina deline resfriada com sal 500g": {
+  "a": "Margarina Deline Resfriada com Sal 500g",
+  "b": "Margarina Deline Cremosa com Sal 500g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "cerveja baden baden 600ml cristal ou gold ale ou cerveja blue moon 350ml || cerveja baden baden 600ml cristal ou gold ale ou cerveja blue moon 350ml (40% na 2a unidade)": {
+  "a": "Cerveja Baden Baden 600ml Cristal ou Gold Ale ou Cerveja Blue Moon 350ml",
+  "b": "Cerveja Baden Baden 600ml Cristal ou Gold Ale ou Cerveja Blue Moon 350ml (40% na 2a unidade)",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "asa de frango resfriada || coxa de frango resfriada": {
+  "a": "Asa de Frango Resfriada",
+  "b": "Coxa de Frango Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-07-28"
+ },
+ "coxinha da asa jagua iqf 1kg || coxinha da asa seara iqf 1kg": {
+  "a": "Coxinha da asa Jaguá IQF 1kg",
+  "b": "Coxinha da Asa Seara IQF 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-28"
+ },
+ "sab liq protex pro serum 250ml acd hialuronico || sabonete liquido protex pro serum 250ml acido hialuronico": {
+  "a": "Sab Liq Protex Pro Serum 250ml Ácd Hialuronico",
+  "b": "Sabonete Liquido Protex Pro Serum 250ml Acido Hialuronico",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "cerveja amstel lata 350ml || cerveja amstel sleek lata 350ml": {
+  "a": "Cerveja Amstel Lata 350ml",
+  "b": "Cerveja Amstel Sleek Lata 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "salg doritos 60g dinamita || salgadinho doritos 60g dinamita": {
+  "a": "Salg Doritos 60g Dinamita",
+  "b": "Salgadinho Doritos 60g Dinamita",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "desodorante aerosol nivea men 150ml for men dry imp ou nivea 150ml derma restaura || desodorante aerosol nivea men 150ml ou nivea 150ml derma restaura": {
+  "a": "Desodorante Aerosol Nivea Men 150ml For Men Dry Imp ou Nivea 150ml Derma Restaura",
+  "b": "Desodorante Aerosol Nivea Men 150ml ou Nivea 150ml Derma Restaura",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
+ },
+ "cerveja budweiser 330ml (long neck - tradicional/zero) || cerveja heineken 330ml (long neck - tradicional/zero)": {
+  "a": "Cerveja Budweiser 330ml (Long Neck - Tradicional/Zero)",
+  "b": "Cerveja Heineken 330ml (Long Neck - Tradicional/Zero)",
+  "veredito": "diferente",
+  "quando": "2026-07-28"
+ },
+ "dueto predilecta pouch 170g || dueto predilecta sache 170g": {
+  "a": "Dueto Predilecta Sachê 170g",
+  "b": "Dueto Predilecta Pouch 170g",
+  "veredito": "mesmo",
+  "quando": "2026-07-28",
+  "aplicado": true
  }
 }
