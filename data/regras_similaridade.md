@@ -1325,3 +1325,61 @@
 - MESMO: «Salg Doritos 60g Dinamita» == «Salgadinho Doritos 60g Dinamita»
 - DIFERENTES: «Toalhas Umedecidas Mili Love & Care C/48» != «Toalhas Umedecidas Mili Love & Care C/96»
 - MESMO: «Vinho Casa Rodrigues Tinto Suave Garrafa com 1L» == «Vinho Casa Rodrigues Tinto Suave Garrafa 1L»
+- MESMO: «Apar Barb Gillett Venus L4P3 Simply Tavel Simply» == «Aparelho de Barbear Gillette Venus L4P3 Simply Travel Simply»
+- MESMO: «ARROZ PARBOILIZADO TIO MANOEL 1KG» == «Arroz Parboilizado Tio Manoel Tipo 1 1kg»
+- MESMO: «Arroz Parboilizado Urbano Tipo 1 1kg» == «Arroz Parboilizado Urbano pct 1kg»
+- MESMO: «Auroggets de Frango Aurora 275g Sabores» == «Aurogets De Frango Aurora 275g Sabores»
+- MESMO: «Beb Proteica Italac S/Lac 15g 250ml Sabores» == «Bebida Proteica Italac Sem Lactose 15g 250ml Sabores»
+- DIFERENTES: «Biscoito Cream Cracker Cipan 20x300g» != «Biscoito Cream Cracker Lícia 300g»
+- MESMO: «Bisteca Suína Coopavel» == «Bisteca Suína Coopavel kg»
+- MESMO: «Café Solúvel Nescafé 40g 10% Grátis (Extraforte/Forte/Suave)» == «Café Solúvel Nescafé 40g 10% Grátis (Extraforte, Forte e Suave)»
+- MESMO: «Carne Bovina Chã de Fora Resfriado Kg» == «Carne Bovina Chã de Fora Resfriada kg»
+- MESMO: «Cerveja Itaipava Lata 350ml Cx/12» == «Cerveja Itaipava Lata 350ml Caixa com 12»
+- DIFERENTES: «Cerveja Itaipava Lata 350ml» != «Cerveja Itaipava Lata 350ml Cx/12»
+- MESMO: «Chicle Mentos P Fresh 56g» == «Chiclete Mentos Pure Fresh 56g»
+- MESMO: «Chocolate Barra Hersheys Dark 85g 60% Tradicional ou Cafe» == «Chocolate Barra Hershey's Dark 85g 60% Tradicional Ou Café»
+- MESMO: «Coxa com Sobrecoxa c/Dorsal kg» == «Coxa com Sobrecoxa com Dorsal»
+- MESMO: «Coxao Mole Bovino Friboi Resfriado Pedaco» == «Coxão Mole Bovino Friboi Resfriado Peça»
+- MESMO: «Creme de Avelã Nutella 140g» == «Creme de Avelã Nutella Pote 140g»
+- MESMO: «Croissant Nutri 400g Frango ou Folhado Nutri 400g Calabresa ou Queijada Nutri 400g» == «Croissant Nutri 400g Frango, Folhado Calabresa ou Queijada Nutri 400g»
+- MESMO: «Desodorante Roll on NIVEA 50ml Tipos» == «Desodorante Rollon Nívea 50ml»
+- DIFERENTES: «Detergente Líquido Invicto 500ml (fragrâncias)» != «Detergente Líquido Alice 500ml Fragrâncias»
+- MESMO: «Esponja Brilhus Multiuso L4/P3» == «Esponja Brilhus Multiuso L4p3»
+- MESMO: «Essencia Concentrada Ambientador Coala 120ml Fragrancias» == «Essência Concentrada Ambiente Coala 120ml Fragrâncias»
+- DIFERENTES: «Filé de Peito de Frango Aurora congelado BDJ 1kg» != «Filé de Peito de Frango Sadia Congelado Bandeja 1kg»
+- DIFERENTES: «Filé de Peito de Frango Lar Congelado Bdj 1kg» != «Filé de Peito de Frango Sadia Congelado Bandeja 1kg»
+- MESMO: «Filé de Peito de Frango Sadia Bandeja 1kg» == «Filé de Peito de Frango Sadia Congelado Bandeja 1kg»
+- MESMO: «Filé de Peito de Frango Sadia Congelado 1kg» == «Filé de Peito de Frango Sadia Congelado Bandeja 1kg»
+- MESMO: «Filé de Peito de Frango Sadia Congelado 1kg» == «Filé de Peito de Frango Sadia Congelado pct ou bd 1kg»
+- DIFERENTES: «Filezinho de Peito de Frango Sadia Congelado BDJ 1kg» != «Filé de Peito de Frango Sadia Congelado Bandeja 1kg»
+- MESMO: «Fralda Descartavel Pampers Pants Mega M c/30» == «Fralda Descartável Pampers Pants Mega M Com 30»
+- MESMO: «Frango a Passarinho Bomtodo 1kg Pct» == «Frango a Passarinho Bom Todo 1kg Pct»
+- DIFERENTES: «Frango a Passarinho Lar IQF 1kg» != «Frango a Passarinho Jaguá IQF 1kg»
+- MESMO: «Kit Shampoo + Condicionador Pantene» == «Kit Shampoo mais Condicionador Pantene»
+- MESMO: «Leite Condensado Damare Semidesnatado cx 395g» == «Leite Condensado Damare Semidesnatado 395g»
+- DIFERENTES: «Leite Condensado Itambé Semidesnatado 395g» != «Leite Condensado Damare Semidesnatado 395g»
+- MESMO: «Linguiça p/ Churrasco Aurora KG» == «Linguiça Pj Churrasco Aurora»
+- MESMO: «Linguiça Toscana Excelência Kg» == «Linguiça Toscana Excelência»
+- MESMO: «Massa Italiana Grano Duro Antico Molino Spaghetti 500g» == «Massa Italiana Grano Duro Antico Molino 500g»
+- MESMO: «Mistura para Bolo FINNA 400g Sabores» == «Mistura para Bolo Finna 400g Sabores Variados»
+- MESMO: «Mortadela Frango Tony» == «Mortadela de Frango Tony»
+- MESMO: «Ovos Brancos Holanda Bdj C/30» == «Ovos Brancos Holanda Bandeja com 30»
+- DIFERENTES: «Pão de Forma Center Massas ou Cadice Integral 400g» != «Pão de Forma Center Massas ou Cadice Leite 400g»
+- DIFERENTES: «Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11» != «Papel Higiênico Caprice Folha Dupla 20m Leve 12 Pague 11»
+- MESMO: «Papel Higienico Floral 12 Rolos Neutro Folha Dupla» == «Papel Higiênico Floral 20m 12r Neutro Folha Dupla»
+- MESMO: «Papel Higiênico Folha Dupla Fofex c/12» == «Papel Higiênico Folha Dupla Fofex com 12»
+- MESMO: «Papel Higiênico Rose C/16» == «Papel Higiênico Rose com 16»
+- DIFERENTES: «Peito de Frango FRIALL kg» != «Peito de Frango Real kg»
+- DIFERENTES: «Peito de Frango Lar kg» != «Peito de Frango Real kg»
+- MESMO: «Peito de Frango Kg» == «Peito de Frango»
+- MESMO: «Petit Suisse Betakids Morango 360g» == «Petit Suisse Betânia Kids Morango 360g»
+- MESMO: «Picanha Bov Valencio Fatiada kg» == «Picanha Bovina Valencio Fatiada Kg»
+- MESMO: «Polpa de Frutas Ster Bom 400g (abacaxi, caju, goiaba, manga ou tamarindo)» == «Polpa de Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo»
+- MESMO: «Purificador de Ar Glade 360ml 20% Desc» == «Purificador De Ar Glade 360ml 20% Desconto»
+- MESMO: «Queijo Mussarela Domilac» == «Queijo Mussarela Dumlac»
+- MESMO: «Refrigerante Guaraná Antarctica Pet 1L» == «Refrigerante Guaraná Antártica 1L»
+- MESMO: «Requeijão Davaca Trad e Light 200g» == «Requeijão Davaca Tradicional e Light 200g»
+- MESMO: «Salg Pippos São Braz 75g Sabores» == «Salgadinho Pippos São Braz 75g Sabores»
+- MESMO: «Uva Verde Cappelado Kids CB 250g» == «Uva Verde Cappellaro Kids cb 250g»
+- MESMO: «Uva Vitória Frazão BDJ 500g» == «Uva Vitória Frazão Bandeja 500g»
+- MESMO: «Xicara Cha Alleanza c/ Pires» == «Xícara de Chá Alleanza c/Pires»
