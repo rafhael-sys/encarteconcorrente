@@ -1,0 +1,44 @@
+{
+ "id": "DbZDJeumHPP",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-30", "fim": "2026-08-02"},
+ "paginas": {
+   "DbZDJeumHPP_p1": [
+     {"n":"Café em Pó Santa Clara Clássico pct 250g","p":"12,49","u":"cada","x":2,"y":34,"w":18,"h":12},
+     {"n":"Leite em Pó Ninho Integral ou Instantâneo pct 750g","p":"32,99","u":"cada","x":21,"y":34,"w":18,"h":12},
+     {"n":"Leite Condensado Moça lata 395g","p":"7,99","u":"cada","x":40,"y":34,"w":18,"h":12},
+     {"n":"Queijo Parmesão Cilindro Faixa Azul pct 195g","p":"25,90","u":"cada","x":59,"y":34,"w":18,"h":12},
+     {"n":"Queijo Mussarela Importado Tregar Fatiado","p":"36,99","u":"kg","x":79,"y":34,"w":19,"h":12},
+     {"n":"Linguiça de Frango Sadia ou para Churrasco Aurora","p":"18,99","u":"kg","x":2,"y":47,"w":18,"h":12},
+     {"n":"Filezinho Sassami de Frango Sadia Congelado pct ou bdj 1kg","p":"19,90","u":"cada","x":21,"y":47,"w":18,"h":12},
+     {"n":"Bisteca Suína Reserva Seara Congelada","p":"16,99","u":"kg","x":40,"y":47,"w":18,"h":12},
+     {"n":"Chã de Dentro Bovina Resfriada Pedaço","p":"39,98","u":"cada","x":59,"y":47,"w":18,"h":12},
+     {"n":"Cerveja Spaten Lata 350ml","p":"3,99","u":"cada","x":79,"y":47,"w":19,"h":12},
+     {"n":"Azeite de Oliva Virgem Extra Gallo Clássico 500ml","p":"29,99","u":"cada","x":2,"y":61,"w":22,"h":12},
+     {"n":"Bombons Sortidos Garoto cx 220g","p":"12,99","u":"cada","x":26,"y":61,"w":22,"h":12},
+     {"n":"Sobrecoxas de Frango Sadia Congeladas IQF pct ou bdj 1kg","p":"13,49","u":"cada","x":50,"y":61,"w":22,"h":12},
+     {"n":"Peito de Frango Bom Todo Cortes Congelados bdj 1kg","p":"18,90","u":"cada","x":74,"y":61,"w":24,"h":12},
+     {"n":"Cerveja Heineken Long Neck 330ml","p":"5,99","u":"cada","x":2,"y":76,"w":22,"h":12}
+   ],
+   "DbZDJeumHPP_p2": [
+     {"n":"Flocão de Milho Vitamilho pct 500g","p":"1,29","u":"cada","x":2,"y":15,"w":30,"h":11},
+     {"n":"Arroz Parbolizado Urbano pct 1kg","p":"3,89","u":"cada","x":35,"y":15,"w":28,"h":11},
+     {"n":"Feijão Carioca Precioso pct 1kg","p":"7,98","u":"cada","x":66,"y":15,"w":32,"h":11},
+     {"n":"Bebida Láctea UHT Toddynho cx 200ml","p":"1,99","u":"cada","x":2,"y":27,"w":30,"h":11},
+     {"n":"Biscoito Wafer KitKat Nestlé pct 41,6g","p":"3,99","u":"cada","x":35,"y":27,"w":28,"h":11},
+     {"n":"Manteiga Betânia com Sal pct 500g","p":"23,90","u":"cada","x":66,"y":27,"w":32,"h":11},
+     {"n":"Linguiça Calabresa Perdigão e Sadia","p":"29,98","u":"kg","x":2,"y":40,"w":22,"h":12},
+     {"n":"Refrigerante Coca-Cola Sem Açúcar 2L","p":"9,99","u":"cada","x":26,"y":40,"w":22,"h":12},
+     {"n":"Bebida Energética Red Bull lata 250ml","p":"8,19","u":"cada","x":50,"y":40,"w":22,"h":12},
+     {"n":"Suco de Uva Integral OQ garrafa 1L","p":"14,99","u":"cada","x":74,"y":40,"w":24,"h":12},
+     {"n":"Cerveja Lager Amstel lata 350ml","p":"3,39","u":"cada","x":2,"y":54,"w":22,"h":13},
+     {"n":"Whisky Old Parr 12 Anos garrafa 1L","p":"139,00","u":"cada","x":26,"y":54,"w":22,"h":13},
+     {"n":"Lava-Louças Limpol 500ml","p":"1,99","u":"cada","x":50,"y":54,"w":22,"h":13},
+     {"n":"Amaciante Concentrado Downy 3L","p":"18,99","u":"cada","x":74,"y":54,"w":24,"h":13},
+     {"n":"Lava-Roupas Líquido Omo 3L","p":"29,99","u":"cada","x":2,"y":68,"w":22,"h":13},
+     {"n":"Papel Higiênico Neve Folha Dupla 30 Metros Leve 12 Pague 12","p":"23,98","u":"cada","x":26,"y":68,"w":22,"h":13},
+     {"n":"Fralda Descartável Turma da Mônica Baby Shortinho","p":"26,99","u":"cada","x":50,"y":68,"w":22,"h":13},
+     {"n":"Carvão Vegetal Jucurutu pct 5kg","p":"24,90","u":"cada","x":74,"y":68,"w":24,"h":13}
+   ]
+ }
+}

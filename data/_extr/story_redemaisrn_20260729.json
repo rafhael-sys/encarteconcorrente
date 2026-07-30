@@ -1,0 +1,22 @@
+{
+ "id": "story_redemaisrn_20260729",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": null, "fim": null},
+ "paginas": {
+   "story_redemaisrn_3951992320203215955": [
+     {"n":"Café União Tradicional ou Extra Forte 250g Pouch", "p":"9,98", "u":"cada", "x":4, "y":19, "w":93, "h":44}
+   ],
+   "story_redemaisrn_3951993301116741336": [
+     {"n":"Macarrão Espaguete Bonsabor 400g", "p":"1,79", "u":"cada", "x":16, "y":21, "w":78, "h":45}
+   ],
+   "story_redemaisrn_3951993909299176593": [
+     {"n":"Açúcar Triturado Alegre 1kg", "p":"2,69", "u":"cada", "x":0, "y":13, "w":97, "h":52}
+   ],
+   "story_redemaisrn_3951995129472657069": [
+     {"n":"Água Sanitária Dragão 1L", "p":"1,89", "u":"cada", "x":31, "y":25, "w":40, "h":45}
+   ],
+   "story_redemaisrn_3951995799319851724": [
+     {"n":"Papel Higiênico Floral Folha Dupla 20m c/12", "p":"9,98", "u":"cada", "x":18, "y":27, "w":67, "h":33}
+   ]
+ }
+}

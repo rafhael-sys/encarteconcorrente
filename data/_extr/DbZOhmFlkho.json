@@ -1,0 +1,39 @@
+{
+ "id": "DbZOhmFlkho",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-30", "fim": "2026-08-02"},
+ "paginas": {
+   "DbZOhmFlkho_p1": [
+     {"n":"Arroz Parbolizado Tio Manoel 1kg","p":"2,99","u":"un","x":2,"y":33,"w":21,"h":21},
+     {"n":"Flocão de Milho Flokão 400g","p":"0,85","u":"un","x":27,"y":33,"w":21,"h":21},
+     {"n":"Feijão Preto DuBom 1kg","p":"5,69","u":"un","x":52,"y":33,"w":21,"h":21},
+     {"n":"Óleo de Soja Liza 900ml","p":"6,99","u":"un","x":76,"y":33,"w":21,"h":21},
+     {"n":"Leite em Pó Integral CCGL 800g","p":"23,98","u":"un","x":2,"y":56,"w":21,"h":21},
+     {"n":"Ovo Branco Grande Enavis Bandeja c/30","p":"12,98","u":"bdj","x":27,"y":56,"w":21,"h":21},
+     {"n":"Peito de Frango Real Congelado kg","p":"8,99","u":"kg","x":52,"y":56,"w":21,"h":21},
+     {"n":"Bisteca de Pernil Suíno Congelado kg","p":"11,98","u":"kg","x":76,"y":56,"w":21,"h":21},
+     {"n":"Salsicha Hot Dog Congelada Rara kg","p":"4,99","u":"kg","x":2,"y":79,"w":21,"h":20},
+     {"n":"Costela Ponta de Agulha kg","p":"20,98","u":"kg","x":27,"y":79,"w":21,"h":20},
+     {"n":"Papel Higiênico Sublime Folha Simples 30m","p":"8,99","u":"leve 12 pague 11","x":52,"y":79,"w":21,"h":20},
+     {"n":"Sabão em Pó Lava Roupas Ala 400g Fragrâncias","p":"2,59","u":"un","x":76,"y":79,"w":21,"h":20}
+   ],
+   "DbZOhmFlkho_p2": [
+     {"n":"Açúcar Triturado Alegre 1kg","p":"2,59","u":"un","x":2,"y":0,"w":21,"h":22},
+     {"n":"Macarrão Espaguete Bonsabor 400g","p":"1,79","u":"un","x":27,"y":0,"w":21,"h":22},
+     {"n":"Biscoito Cream Cracker Estrela 340g","p":"3,79","u":"un","x":52,"y":0,"w":21,"h":22},
+     {"n":"Biscoito Recheado Treloso 120g Sabores","p":"1,49","u":"un","x":76,"y":0,"w":21,"h":22},
+     {"n":"Creme de Leite Leve Damare 200g","p":"1,98","u":"un","x":2,"y":23,"w":21,"h":22},
+     {"n":"Goma de Tapioca Delícia Potiguar 1kg","p":"3,98","u":"un","x":27,"y":23,"w":21,"h":22},
+     {"n":"Leite Condensado Betania 395g","p":"4,98","u":"un","x":52,"y":23,"w":21,"h":22},
+     {"n":"Salgadinhos Pippo's 75g","p":"3,29","u":"leve 4 pague 3","x":76,"y":23,"w":21,"h":22},
+     {"n":"Bombom Barion Tubetes 168g","p":"7,49","u":"un","x":2,"y":46,"w":21,"h":22},
+     {"n":"Refrigerante Pepsi/Guaraná Antarctica 1L","p":"4,39","u":"un","x":27,"y":46,"w":21,"h":22},
+     {"n":"Cerveja Budweiser Long Neck 330ml","p":"4,99","u":"un","x":52,"y":46,"w":21,"h":22},
+     {"n":"Frango a Passarinho Jaguá IQF 1kg","p":"9,98","u":"un","x":76,"y":46,"w":21,"h":22},
+     {"n":"Mortadela de Frango Friato kg","p":"5,98","u":"kg","x":2,"y":69,"w":21,"h":21},
+     {"n":"Carne Bovina Resfriada Coxão Mole kg","p":"37,98","u":"kg","x":27,"y":69,"w":21,"h":21},
+     {"n":"Fralda Personal Baby Pants Jumbo","p":"26,98","u":"un","x":52,"y":69,"w":21,"h":21},
+     {"n":"Desodorante Aerosol Rexona 150ml Fragrâncias","p":"13,49","u":"un","x":76,"y":69,"w":21,"h":21}
+   ]
+ }
+}

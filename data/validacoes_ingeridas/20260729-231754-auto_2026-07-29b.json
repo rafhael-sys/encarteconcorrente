@@ -1,0 +1,69 @@
+{
+ "validacoes": [
+  {
+   "a": "Fralda Descartável Bag Pants Proteção Acolchoada Huggies Pacote/Tamanhos",
+   "b": "Fralda Descartável Pants Proteção Acolchoada Huggies Pacote/Tamanhos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça Calabresa Saudali kg",
+   "b": "Linguiça Calabresa Saudali",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém ou Paleta com Osso kg",
+   "b": "Carne Bovina Acém ou Paleta c/ osso",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fraldas Descartáveis Babysec Hiper Shortinho",
+   "b": "Fraldas Descartáveis Babysec Hiper Shortinho (Tamanhos)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Rose",
+   "b": "Papel Higiênico Rose C/16",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Resfriado Natto",
+   "b": "Filé de Peito de Frango Resfriado Bom Todo",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Hidratante Corporal Paixão 200ml (Fragrâncias)",
+   "b": "Hidratante Paixão 200ml Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Descartável Babysec Ultra Shortinho Tamanhos",
+   "b": "Fraldas Descartáveis Babysec Hiper Shortinho (Tamanhos)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filezinho de Peito de Frango Lar 1kg",
+   "b": "Filezinho de Peito de Frango Perdigão 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Crackerlícia 3 de Maio 300g",
+   "b": "Biscoito Crackelícia 3 em 1 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Doce kg",
+   "b": "Batata Doce",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Dona Maria Tradicional sem Fermento 1Kg",
+   "b": "Farinha de Trigo Dona Maria sem Fermento 1Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Açaí Ster Bom Mix Congelado Tradicional Pote com 1L",
+   "b": "Açaí Ster Bom Congelado Mix Tradicional Pote 1L",
+   "veredito": "mesmo"
+  }
+ ]
+}

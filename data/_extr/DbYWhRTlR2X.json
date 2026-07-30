@@ -1,0 +1,22 @@
+{
+ "id": "DbYWhRTlR2X",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-29", "fim": "2026-07-30"},
+ "paginas": {
+   "DbYWhRTlR2X_p1": [
+     {"n":"Brócolis 300g", "p":"6,99", "u":"cada", "x":26, "y":11, "w":57, "h":49}
+   ],
+   "DbYWhRTlR2X_p2": [
+     {"n":"Tomate Mel Trebeschi 180g", "p":"3,99", "u":"cada", "x":21, "y":8, "w":49, "h":48}
+   ],
+   "DbYWhRTlR2X_p3": [
+     {"n":"Mamão Papaya Premium kg", "p":"5,99", "u":"kg", "x":37, "y":8, "w":39, "h":43}
+   ],
+   "DbYWhRTlR2X_p4": [
+     {"n":"Cenoura kg", "p":"5,99", "u":"kg", "x":30, "y":54, "w":35, "h":35}
+   ],
+   "DbYWhRTlR2X_p5": [
+     {"n":"Abacate kg", "p":"3,89", "u":"kg", "x":23, "y":22, "w":45, "h":32}
+   ]
+ }
+}

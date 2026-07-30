@@ -1,0 +1,35 @@
+{
+ "id": "DbZdrvom9TF",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-30", "fim": "2026-07-31"},
+ "paginas": {
+   "DbZdrvom9TF_p1": [
+     {"n":"Arroz Parboilizado Tio Manoel Tipo 1 1kg","p":"2,89","u":"cada","x":2,"y":40,"w":23,"h":18},
+     {"n":"Azeite de Oliva Gomes da Costa Extra Virgem 500ml","p":"19,98","u":"cada","x":27,"y":40,"w":23,"h":18},
+     {"n":"Café Moído Puro 250g","p":"9,98","u":"cada","x":52,"y":40,"w":23,"h":18},
+     {"n":"Leite Integral Parmalat UHT 1L","p":"5,79","u":"cada","x":77,"y":40,"w":21,"h":18},
+     {"n":"Leite em Pó Nestlé Ninho Integral 750g","p":"28,99","u":"cada","x":2,"y":59,"w":23,"h":18},
+     {"n":"Margarina Puro Sabor com Sal 500g","p":"3,99","u":"cada","x":27,"y":59,"w":23,"h":18},
+     {"n":"Óleo de Soja Liza 900ml","p":"6,79","u":"cada","x":52,"y":59,"w":23,"h":18},
+     {"n":"Salsicha Hot Dog Rara","p":"4,98","u":"kg","x":77,"y":59,"w":21,"h":18},
+     {"n":"Queijo Mussarela Unalac Peça ou Pedaço","p":"33,90","u":"kg","x":2,"y":78,"w":23,"h":18},
+     {"n":"Filé de Peito de Frango Super Frango Congelado 1kg","p":"14,99","u":"cada","x":27,"y":78,"w":23,"h":18},
+     {"n":"Batata Pré-Frita Mazid Congelada 2kg","p":"16,98","u":"cada","x":52,"y":78,"w":23,"h":18},
+     {"n":"Linguiça de Frango Avivar Congelada","p":"9,49","u":"kg","x":77,"y":78,"w":21,"h":18}
+   ],
+   "DbZdrvom9TF_p2": [
+     {"n":"Cerveja Amstel Ultra Lata 269ml","p":"3,39","u":"cada","x":2,"y":22,"w":23,"h":20},
+     {"n":"Hambúrguer Chuletão Bovino e Frango 56g","p":"0,59","u":"cada","x":27,"y":22,"w":23,"h":20},
+     {"n":"Filé de Tilápia Aurora 800g","p":"34,99","u":"cada","x":52,"y":22,"w":23,"h":20},
+     {"n":"Manteiga D'Nata com Sal 500g","p":"14,90","u":"cada","x":77,"y":22,"w":21,"h":20},
+     {"n":"Coxas de Frango Sadia Congeladas IQF 1kg","p":"10,49","u":"cada","x":2,"y":43,"w":23,"h":20},
+     {"n":"Detergente Líquido Tanlux 500ml","p":"0,99","u":"cada","x":27,"y":43,"w":23,"h":20},
+     {"n":"Limpador Veja Gold Multi 4 Unids 500ml","p":"15,96","u":"cada","x":52,"y":43,"w":23,"h":20},
+     {"n":"Sabão em Barra Absoluto Glicerinado 5x160g","p":"4,99","u":"cada","x":77,"y":43,"w":21,"h":20},
+     {"n":"Papel Higiênico Fofex Folha Dupla 20m 12 Unids","p":"8,99","u":"cada","x":2,"y":64,"w":23,"h":20},
+     {"n":"Água Sanitária Dragão 1L","p":"1,89","u":"cada","x":27,"y":64,"w":23,"h":20},
+     {"n":"Amaciante Concentrado para Roupas Comfort 1,5L","p":"19,98","u":"cada","x":52,"y":64,"w":23,"h":20},
+     {"n":"Detergente em Pó Ala 5 em 1 400g","p":"2,39","u":"cada","x":77,"y":64,"w":21,"h":20}
+   ]
+ }
+}

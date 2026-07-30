@@ -1,0 +1,45 @@
+{
+ "id": "DbZEmcnkcKw",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-30", "fim": "2026-08-02"},
+ "paginas": {
+  "DbZEmcnkcKw_p1": [
+   {"n":"Arroz Parboilizado Kika pct 1kg", "p":"3,29", "u":"cada", "x":0, "y":32, "w":20, "h":18},
+   {"n":"Leite em Pó Ninho Integral ou Instantâneo pct 750g", "p":"32,99", "u":"cada", "x":20, "y":32, "w":20, "h":18},
+   {"n":"Café em Pó Santa Clara Clássico pct 250g", "p":"12,49", "u":"cada", "x":40, "y":32, "w":20, "h":18},
+   {"n":"Leite Condensado Betânia Semidesnatado cx 395g", "p":"5,69", "u":"cada", "x":60, "y":32, "w":20, "h":18},
+   {"n":"Linguiça de Frango Sadia ou para Churrasco Aurora", "p":"17,98", "u":"kg", "x":80, "y":32, "w":20, "h":18},
+   {"n":"Filé de Peito de Frango Ave Nova Congelado", "p":"15,99", "u":"kg", "x":0, "y":50, "w":20, "h":13},
+   {"n":"Bisteca Suína Reserva Seara Congelada", "p":"15,99", "u":"kg", "x":20, "y":50, "w":20, "h":13},
+   {"n":"Chã de Dentro Bovina Resfriada Pedaço", "p":"35,89", "u":"kg", "x":40, "y":50, "w":20, "h":13},
+   {"n":"Cerveja Heineken Lata 350ml", "p":"4,99", "u":"cada", "x":60, "y":50, "w":20, "h":13},
+   {"n":"Energético Red Bull Lata 250ml", "p":"7,99", "u":"cada", "x":80, "y":50, "w":20, "h":13},
+   {"n":"Flocão de Milho Vitamilho pct 500g", "p":"1,25", "u":"cada", "x":0, "y":64, "w":20, "h":18},
+   {"n":"Feijão Carioca Duzé pct 1kg", "p":"7,29", "u":"cada", "x":20, "y":64, "w":20, "h":18},
+   {"n":"Azeite Especial Extra Virgem La Española vd 500ml", "p":"24,99", "u":"cada", "x":40, "y":64, "w":20, "h":18},
+   {"n":"Creme de Leite Italac cx 200g", "p":"2,59", "u":"cada", "x":60, "y":64, "w":20, "h":18},
+   {"n":"Manteiga Betânia ou Natville com Sal pt 500g", "p":"19,90", "u":"cada", "x":80, "y":64, "w":20, "h":18},
+   {"n":"Margarina Cremosa Primor com Sal pt 500g", "p":"4,79", "u":"cada", "x":0, "y":82, "w":20, "h":18},
+   {"n":"Refrigerante Guaraná Antarctica pack c/2 tb 1 litro", "p":"8,99", "u":"pack c/2", "x":20, "y":82, "w":20, "h":18},
+   {"n":"Cerveja Devassa Puro Malte Lata 350ml", "p":"2,89", "u":"cada", "x":40, "y":82, "w":20, "h":18},
+   {"n":"Cerveja Spaten Lata 350ml", "p":"3,89", "u":"cada", "x":60, "y":82, "w":20, "h":18},
+   {"n":"Papel Higiênico Neutro Floral Folha Simples 30m ou Folha Dupla 20m pct c/12", "p":"9,99", "u":"cada", "x":80, "y":82, "w":20, "h":18}
+  ],
+  "DbZEmcnkcKw_p2": [
+   {"n":"Molho de Tomate Sadio Tradicional pct 300g", "p":"1,39", "u":"cada", "x":2, "y":13, "w":46, "h":12},
+   {"n":"Massa Sêmola Estrela Parafuso pct 400g", "p":"3,19", "u":"cada", "x":52, "y":13, "w":46, "h":12},
+   {"n":"Biscoito Cream Cracker Estrela pct 350g", "p":"3,99", "u":"cada", "x":1, "y":27, "w":31, "h":13},
+   {"n":"Biscoito Wafer Vitarella pct 80g", "p":"1,69", "u":"cada", "x":34, "y":27, "w":31, "h":13},
+   {"n":"Steak de Frango Empanado Perdigão pct 100g", "p":"1,68", "u":"cada", "x":67, "y":27, "w":31, "h":13},
+   {"n":"Bebida Mista Tampico Frutas Cítricas tb 1,5 litro", "p":"5,69", "u":"cada", "x":1, "y":41, "w":31, "h":13},
+   {"n":"Vinho Tinto Country Wine Seco ou Suave gfa 750ml", "p":"8,99", "u":"cada", "x":34, "y":41, "w":31, "h":13},
+   {"n":"Creme Dental Sorriso Edição Kolynos tb 90g", "p":"2,59", "u":"cada", "x":67, "y":41, "w":31, "h":13},
+   {"n":"Água Sanitária Dragão tb 1 litro", "p":"1,95", "u":"cada", "x":1, "y":56, "w":31, "h":13},
+   {"n":"Lava-roupas em Pó Ala pct 400g", "p":"2,39", "u":"cada", "x":34, "y":56, "w":31, "h":13},
+   {"n":"Sabão em Barra Glicerinado Guarani pct 5x180g", "p":"6,99", "u":"cada", "x":67, "y":56, "w":31, "h":13},
+   {"n":"Lava-roupas Líquido + eKonomico Becker tb 3 litros", "p":"8,99", "u":"cada", "x":1, "y":71, "w":31, "h":13},
+   {"n":"Absorvente Especial Sempre Livre Suave com Abas pct c/16", "p":"6,90", "u":"leve 16 pague 14", "x":34, "y":71, "w":31, "h":13},
+   {"n":"Carvão Vegetal Jucurutu pct 5kg", "p":"22,99", "u":"cada", "x":67, "y":71, "w":31, "h":13}
+  ]
+ }
+}

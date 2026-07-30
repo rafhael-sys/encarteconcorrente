@@ -1,0 +1,22 @@
+{
+ "id": "DbYj6vunJbL",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-29", "fim": "2026-07-30"},
+ "paginas": {
+   "DbYj6vunJbL_p1": [
+     {"n":"Tomate Mel Trebeschi 180g", "p":"3,99", "u":"cada", "x":25, "y":20, "w":45, "h":45}
+   ],
+   "DbYj6vunJbL_p2": [
+     {"n":"Pera Argentina Danju kg", "p":"11,79", "u":"kg", "x":24, "y":60, "w":40, "h":32}
+   ],
+   "DbYj6vunJbL_p3": [
+     {"n":"Maçã Royal kg", "p":"7,99", "u":"kg", "x":33, "y":65, "w":37, "h":32}
+   ],
+   "DbYj6vunJbL_p4": [
+     {"n":"Pimentão Palermo Trebeschi 300g", "p":"5,99", "u":"cada", "x":27, "y":15, "w":44, "h":47}
+   ],
+   "DbYj6vunJbL_p5": [
+     {"n":"Melancia Baby kg", "p":"3,99", "u":"kg", "x":33, "y":60, "w":45, "h":35}
+   ]
+ }
+}

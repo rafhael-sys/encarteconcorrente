@@ -1,0 +1,15 @@
+{
+ "id": "story_cortefacil.atacarejo_20260729",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-17", "fim": "2026-07-31"},
+ "paginas": {
+   "story_cortefacil.atacarejo_3951896608656690292": [
+     {"n":"Vinho San Telmo 750ml Tipos","p":"29,99","u":"un","x":9,"y":31,"w":24,"h":15},
+     {"n":"Vinho Master Fan Club 750ml Tipos","p":"25,99","u":"un","x":36,"y":31,"w":24,"h":15},
+     {"n":"Vinho Tinto Gran Bodega Malbec 750ml","p":"21,99","u":"un","x":62,"y":31,"w":24,"h":15},
+     {"n":"Vinho Chilano 750ml Tipos","p":"24,99","u":"un","x":9,"y":47,"w":24,"h":15},
+     {"n":"Vinho Tantehue 750ml Tipos","p":"29,99","u":"un","x":36,"y":47,"w":24,"h":15},
+     {"n":"Vinho Yellow Tail 750ml Tipos","p":"54,99","u":"un","x":62,"y":47,"w":24,"h":15}
+   ]
+ }
+}

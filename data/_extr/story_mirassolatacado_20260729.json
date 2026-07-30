@@ -1,0 +1,59 @@
+{
+ "id": "story_mirassolatacado_20260729",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-28", "fim": "2026-08-10"},
+ "paginas": {
+  "story_mirassolatacado_3952084848390179340": [
+   {"n":"Filé de Peito de Frango Bom Todo Congelado 1kg","p":"18,99","u":"bandeja","x":0,"y":18,"w":25,"h":16},
+   {"n":"Coxa com Sobrecoxa de Frango Congelada kg","p":"8,19","u":"kg","x":25,"y":18,"w":25,"h":16},
+   {"n":"Batata Pré-frita EasyChef Congelada 2kg","p":"18,99","u":"cada","x":50,"y":18,"w":25,"h":16},
+   {"n":"Galinha Matriz Somave kg","p":"7,99","u":"kg","x":75,"y":18,"w":25,"h":16},
+   {"n":"Salsicha Hot Dog Rara 2,5kg","p":"14,98","u":"pacote","x":0,"y":36,"w":25,"h":16},
+   {"n":"Flocão de Milho Nordestino 500g","p":"1,39","u":"cada","x":25,"y":36,"w":25,"h":16},
+   {"n":"Açúcar Triturado Dumel 1kg","p":"3,29","u":"cada","x":50,"y":36,"w":25,"h":16},
+   {"n":"Arroz Parboilizado Fazenda 1kg","p":"3,49","u":"cada","x":75,"y":36,"w":25,"h":16},
+   {"n":"Óleo de Soja Soya 900ml","p":"7,49","u":"cada","x":0,"y":54,"w":25,"h":16},
+   {"n":"Macarrão Spaghetti Bonsabor 400g","p":"1,99","u":"cada","x":25,"y":54,"w":25,"h":16},
+   {"n":"Leite UHT Betânia Integral ou Desnatado 1L","p":"5,99","u":"cada","x":50,"y":54,"w":25,"h":16},
+   {"n":"Farinha de Trigo Finna Tradicional 1kg","p":"3,99","u":"cada","x":75,"y":54,"w":25,"h":16},
+   {"n":"Creme Culinário Damare 200g","p":"1,79","u":"cada","x":5,"y":72,"w":28,"h":16},
+   {"n":"Biscoito Recheado Renata Divertix 112g","p":"1,49","u":"cada","x":35,"y":72,"w":28,"h":16},
+   {"n":"Biscoito Água e Sal 3 de Maio 300g","p":"3,49","u":"cada","x":65,"y":72,"w":28,"h":16}
+  ],
+  "story_mirassolatacado_3952084964404641021": [
+   {"n":"Papel Higiênico Atualle Neutro Folha Dupla 12 Rolos 20m","p":"11,99","u":"pacote","x":0,"y":18,"w":48,"h":30},
+   {"n":"Fraldas Descartáveis Cremer Shortinho/Jumbo","p":"24,99","u":"pacote","x":52,"y":18,"w":46,"h":30},
+   {"n":"Detergente Líquido Tanlux 500ml","p":"1,39","u":"cada","x":0,"y":50,"w":48,"h":22},
+   {"n":"Lava Roupas Líquido Tanlux Ação Total 3L","p":"12,99","u":"cada","x":0,"y":76,"w":45,"h":20},
+   {"n":"Água Sanitária Dragão 1L","p":"2,09","u":"cada","x":48,"y":76,"w":48,"h":20}
+  ],
+  "story_mirassolatacado_3952085062769447507": [
+   {"n":"Café Santa Clara Extraforte Almofada ou A Vácuo 250g","p":"12,99","u":"cada","x":0,"y":18,"w":48,"h":30},
+   {"n":"Biscoito Cream Cracker Marilan Especial 350g","p":"3,99","u":"cada","x":52,"y":18,"w":46,"h":30},
+   {"n":"Leite Condensado Damare Semidesnatado 395g","p":"5,49","u":"cada","x":0,"y":50,"w":48,"h":22},
+   {"n":"Bombons Sortidos Garoto 220g","p":"11,99","u":"caixa","x":0,"y":76,"w":45,"h":20},
+   {"n":"Bebida Láctea UHT Quatá Kids Chocolate 180ml","p":"0,99","u":"cada","x":48,"y":76,"w":48,"h":20}
+  ],
+  "story_mirassolatacado_3952090857016798611": [
+   {"n":"Morango Congelado EasyChef 1,1kg","p":"15,99","u":"cada","x":0,"y":27,"w":48,"h":22},
+   {"n":"Coxa com Sobrecoxa de Frango com Dorsal kg","p":"6,99","u":"kg","x":52,"y":27,"w":46,"h":22},
+   {"n":"Ovo Branco Grande Enavis 30 Unidades","p":"12,98","u":"bandeja","x":15,"y":53,"w":60,"h":20},
+   {"n":"Margarina Primor com Sal 3kg","p":"25,99","u":"cada","x":0,"y":76,"w":48,"h":20},
+   {"n":"Margarina Puro Sabor com Sal 500g","p":"4,99","u":"cada","x":52,"y":76,"w":46,"h":20}
+  ],
+  "story_mirassolatacado_3952090926550004705": [
+   {"n":"Maçã Nacional kg","p":"4,99","u":"kg","x":0,"y":27,"w":48,"h":22},
+   {"n":"Laranja-Pera kg","p":"1,69","u":"kg","x":52,"y":27,"w":46,"h":22},
+   {"n":"Melão Japonês kg","p":"3,99","u":"kg","x":15,"y":53,"w":60,"h":20},
+   {"n":"Banana Prata ou Pacovan kg","p":"3,99","u":"kg","x":0,"y":76,"w":48,"h":20},
+   {"n":"Maracujá kg","p":"6,99","u":"kg","x":52,"y":76,"w":46,"h":20}
+  ],
+  "story_mirassolatacado_3952091007827229150": [
+   {"n":"Batata Inglesa kg","p":"3,99","u":"kg","x":0,"y":27,"w":48,"h":22},
+   {"n":"Tomate kg","p":"2,29","u":"kg","x":52,"y":27,"w":46,"h":22},
+   {"n":"Cenoura kg","p":"5,79","u":"kg","x":15,"y":53,"w":60,"h":20},
+   {"n":"Cebola Branca kg","p":"4,99","u":"kg","x":0,"y":76,"w":48,"h":20},
+   {"n":"Macaxeira kg","p":"2,39","u":"kg","x":52,"y":76,"w":46,"h":20}
+  ]
+ }
+}

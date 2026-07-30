@@ -1,0 +1,13 @@
+{
+ "id": "story_supernordestaonatal_20260729",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-15", "fim": "2026-07-31"},
+ "paginas": {
+   "story_supernordestaonatal_3951968366070868636": [
+     {"n":"Vinho Tinto Cabriz Português 750ml", "p":"39,90", "u":"un", "x":8, "y":0, "w":65, "h":95}
+   ],
+   "story_supernordestaonatal_3951989795034819225": [
+     {"n":"Bebida Isotônica Jungle Endurance Plant Power 500ml", "p":"7,99", "u":"un", "x":22, "y":9, "w":75, "h":56}
+   ]
+ }
+}

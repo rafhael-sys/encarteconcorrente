@@ -1,0 +1,43 @@
+{
+ "id": "story_queirozatacadaojoaocamara_20260729",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-29", "fim": "2026-07-31"},
+ "paginas": {
+   "story_queirozatacadaojoaocamara_3952156484922769272": [
+    {"n":"Ração Dog Chow 100g, 85g ou 80g","p":"2,40","u":"leve 5 pague 4","x":6,"y":42,"w":42,"h":48},
+    {"n":"Ração Friskies Megamix Molho Cremoso 100g, 85g ou 80g","p":"2,40","u":"leve 5 pague 4","x":51,"y":42,"w":42,"h":48}
+   ],
+   "story_queirozatacadaojoaocamara_3952187494041053075": [
+    {"n":"Peito de Frango Congelado kg","p":"8,98","u":"kg","x":18,"y":48,"w":64,"h":38}
+   ],
+   "story_queirozatacadaojoaocamara_3952187603638382596": [
+    {"n":"Carne Bovina Coxão Duro kg","p":"34,90","u":"kg","x":18,"y":48,"w":64,"h":38}
+   ],
+   "story_queirozatacadaojoaocamara_3952187651990180742": [
+    {"n":"Carne Bovina Patinho kg","p":"36,90","u":"kg","x":18,"y":48,"w":64,"h":38}
+   ],
+   "story_queirozatacadaojoaocamara_3952201115111572640": [
+    {"n":"Açúcar Magro Light 400g","p":"11,98","u":"un","x":2,"y":33,"w":17,"h":13},
+    {"n":"Adoçante Líquido Magro Diet 100ml","p":"5,48","u":"un","x":21,"y":33,"w":17,"h":13},
+    {"n":"Adoçante Líquido Magro Stevia 65ml","p":"7,89","u":"un","x":40,"y":33,"w":17,"h":13},
+    {"n":"Aveia em Flocos Finos Vitalin 200g","p":"9,68","u":"un","x":59,"y":33,"w":17,"h":13},
+    {"n":"Biscoito Caseirinho Vitalin Sem Glúten 100g Sabores","p":"6,68","u":"un","x":78,"y":33,"w":18,"h":13},
+    {"n":"Alfajor Sem Lactose Bendu Proteína 40g","p":"11,98","u":"un","x":2,"y":47,"w":17,"h":13},
+    {"n":"Biscoito Cookies Biosoft 100g Sabores","p":"6,38","u":"un","x":21,"y":47,"w":17,"h":13},
+    {"n":"Biscoito Cookies com Whey Vitalin 40g Sabores","p":"6,98","u":"un","x":40,"y":47,"w":17,"h":13},
+    {"n":"Biscoito Wafer Lowcucar Diet 115g Sabores","p":"10,98","u":"un","x":59,"y":47,"w":17,"h":13},
+    {"n":"Biscoito Wafer Proteína Bendu 40g Sabores","p":"12,48","u":"un","x":78,"y":47,"w":18,"h":13},
+    {"n":"Cacau em Pó Vitao 100g","p":"10,98","u":"un","x":2,"y":61,"w":15,"h":15},
+    {"n":"Chia em Grãos Sabor do Campo 120g","p":"6,98","u":"un","x":18,"y":61,"w":15,"h":15},
+    {"n":"Farelo de Aveia Vitalin com Whey 160g","p":"12,98","u":"un","x":34,"y":61,"w":15,"h":15},
+    {"n":"Farinha de Trigo Integral Vitao 500g","p":"7,98","u":"un","x":50,"y":61,"w":15,"h":15},
+    {"n":"Flocão São Ouro Milho 500g","p":"3,48","u":"un","x":66,"y":61,"w":15,"h":15},
+    {"n":"Gelatina Lowcucar Sem Sabor 12g","p":"3,68","u":"un","x":82,"y":61,"w":15,"h":15},
+    {"n":"Geleia Queensberry Pimenta Forte 320g","p":"22,98","u":"un","x":2,"y":78,"w":17,"h":14},
+    {"n":"Granola Biosoft 35 Ingredientes Integral com Castanhas 230g","p":"10,98","u":"un","x":21,"y":78,"w":17,"h":14},
+    {"n":"Granola Biosoft Diet Multicereais 230g","p":"10,98","u":"un","x":40,"y":78,"w":17,"h":14},
+    {"n":"Granola Biosoft Integral Tradicional ou Light 230g","p":"9,48","u":"un","x":59,"y":78,"w":17,"h":14},
+    {"n":"Psyllium Vitalin 100g","p":"23,48","u":"un","x":78,"y":78,"w":18,"h":14}
+   ]
+ }
+}

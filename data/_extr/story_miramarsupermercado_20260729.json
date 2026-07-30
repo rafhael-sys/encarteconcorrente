@@ -1,0 +1,39 @@
+{
+ "id": "story_miramarsupermercado_20260729",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-30", "fim": "2026-07-30"},
+ "paginas": {
+  "story_miramarsupermercado_3952277727126286525": [
+   {"n":"Batata Inglesa kg","p":"3,99","u":"kg","x":3,"y":26,"w":44,"h":21},
+   {"n":"Tomate kg","p":"2,29","u":"kg","x":52,"y":26,"w":44,"h":21},
+   {"n":"Cebola Branca kg","p":"4,99","u":"kg","x":3,"y":49,"w":44,"h":21},
+   {"n":"Macaxeira kg","p":"2,49","u":"kg","x":52,"y":49,"w":44,"h":21},
+   {"n":"Beterraba kg","p":"2,99","u":"kg","x":3,"y":72,"w":44,"h":15},
+   {"n":"Cenoura kg","p":"5,99","u":"kg","x":52,"y":72,"w":44,"h":15}
+  ],
+  "story_miramarsupermercado_3952277833057619306": [
+   {"n":"Maçã Nacional kg","p":"4,99","u":"kg","x":3,"y":26,"w":44,"h":21},
+   {"n":"Banana Prata ou Pacovan kg","p":"3,99","u":"kg","x":52,"y":26,"w":44,"h":21},
+   {"n":"Mamão Formosa Redinha kg","p":"4,49","u":"kg","x":3,"y":49,"w":44,"h":21},
+   {"n":"Pera D'Anjou kg","p":"10,99","u":"kg","x":52,"y":49,"w":44,"h":21},
+   {"n":"Abacate kg","p":"3,99","u":"kg","x":3,"y":72,"w":44,"h":15},
+   {"n":"Goiaba kg","p":"3,99","u":"kg","x":52,"y":72,"w":44,"h":15}
+  ],
+  "story_miramarsupermercado_3952277934702343361": [
+   {"n":"Laranja-Pera kg","p":"1,69","u":"kg","x":3,"y":26,"w":44,"h":21},
+   {"n":"Melancia kg","p":"2,99","u":"kg","x":52,"y":26,"w":44,"h":21},
+   {"n":"Melão Japonês kg","p":"3,99","u":"kg","x":3,"y":49,"w":44,"h":21},
+   {"n":"Tangerina Importada kg","p":"7,99","u":"kg","x":52,"y":49,"w":44,"h":21},
+   {"n":"Kiwi kg","p":"19,99","u":"kg","x":3,"y":72,"w":44,"h":15},
+   {"n":"Maracujá kg","p":"6,99","u":"kg","x":52,"y":72,"w":44,"h":15}
+  ],
+  "story_miramarsupermercado_3952278030231826743": [
+   {"n":"Alho a Granel kg","p":"21,99","u":"kg","x":3,"y":26,"w":44,"h":21},
+   {"n":"Ovos Brancos com 30 Unidades","p":"12,98","u":"bandeja","x":52,"y":26,"w":44,"h":21},
+   {"n":"Morango Congelado EasyChef 1,1kg","p":"15,99","u":"pacote","x":3,"y":49,"w":44,"h":21},
+   {"n":"Maçã Bag Rasip Sunny ou Kids 850g","p":"7,99","u":"pacote","x":52,"y":49,"w":44,"h":21},
+   {"n":"Alho Congelado EasyChef 1,1kg","p":"19,99","u":"pacote","x":3,"y":72,"w":44,"h":15},
+   {"n":"Goma de Tapioca Compadre Zé 1kg","p":"4,49","u":"pacote","x":52,"y":72,"w":44,"h":15}
+  ]
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "id": "DbZP9aVm_MX",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-30", "fim": "2026-07-31"},
+ "paginas": {
+  "DbZP9aVm_MX_p1": [
+   {"n":"Alface Crespa, Coentro ou Couve Manteiga Unid","p":"1,29","u":"cada","x":1,"y":31,"w":24,"h":19},
+   {"n":"Abobrinha, Pepino ou Berinjela","p":"3,79","u":"kg","x":26,"y":31,"w":24,"h":19},
+   {"n":"Batata Doce Roxa","p":"3,49","u":"kg","x":51,"y":31,"w":24,"h":19},
+   {"n":"Batatinha","p":"4,19","u":"kg","x":76,"y":31,"w":23,"h":19},
+   {"n":"Beterraba","p":"3,89","u":"kg","x":1,"y":51,"w":24,"h":19},
+   {"n":"Cará","p":"4,89","u":"kg","x":26,"y":51,"w":24,"h":19},
+   {"n":"Cebola Branca","p":"4,98","u":"kg","x":51,"y":51,"w":24,"h":19},
+   {"n":"Cenoura","p":"4,98","u":"kg","x":76,"y":51,"w":23,"h":19},
+   {"n":"Chuchu","p":"3,29","u":"kg","x":1,"y":71,"w":24,"h":19},
+   {"n":"Jerimum Leite","p":"1,99","u":"kg","x":26,"y":71,"w":24,"h":19},
+   {"n":"Macaxeira","p":"1,99","u":"kg","x":51,"y":71,"w":24,"h":19},
+   {"n":"Pimentão Verde","p":"4,99","u":"kg","x":76,"y":71,"w":23,"h":19}
+  ],
+  "DbZP9aVm_MX_p2": [
+   {"n":"Repolho Branco","p":"3,99","u":"kg","x":1,"y":1,"w":24,"h":17},
+   {"n":"Tomate","p":"2,78","u":"kg","x":26,"y":1,"w":24,"h":17},
+   {"n":"Abacate","p":"3,59","u":"kg","x":51,"y":1,"w":24,"h":17},
+   {"n":"Abacaxi","p":"3,49","u":"cada","x":76,"y":1,"w":23,"h":17},
+   {"n":"Banana Prata ou Pacovan","p":"3,89","u":"kg","x":1,"y":19,"w":24,"h":17},
+   {"n":"Goiaba","p":"3,99","u":"kg","x":26,"y":19,"w":24,"h":17},
+   {"n":"Kiwi ou Ameixa Fresca","p":"23,98","u":"kg","x":51,"y":19,"w":24,"h":17},
+   {"n":"Laranja Pera","p":"1,85","u":"kg","x":76,"y":19,"w":23,"h":17},
+   {"n":"Laranja Murcote","p":"3,99","u":"kg","x":1,"y":37,"w":24,"h":17},
+   {"n":"Limão Taiti","p":"2,98","u":"kg","x":26,"y":37,"w":24,"h":17},
+   {"n":"Maçã Vermelha Nacional","p":"5,69","u":"kg","x":51,"y":37,"w":24,"h":17},
+   {"n":"Mamão Formosa","p":"3,49","u":"kg","x":76,"y":37,"w":23,"h":17},
+   {"n":"Maracujá","p":"6,89","u":"kg","x":1,"y":55,"w":24,"h":17},
+   {"n":"Melão Espanhol ou Melancia Baby","p":"2,79","u":"kg","x":26,"y":55,"w":24,"h":17},
+   {"n":"Melão Japonês","p":"3,49","u":"kg","x":51,"y":55,"w":24,"h":17},
+   {"n":"Milho Verde bdj 5 unids","p":"6,49","u":"cada","x":76,"y":55,"w":23,"h":17},
+   {"n":"Pera Importada ou Limão Siciliano","p":"11,98","u":"kg","x":1,"y":73,"w":24,"h":17},
+   {"n":"Ovo Branco Tipo Grande bdj 30 unids","p":"12,99","u":"cada","x":26,"y":73,"w":24,"h":17},
+   {"n":"Goma de Mandioca Dona Deta 800g","p":"3,69","u":"cada","x":51,"y":73,"w":24,"h":17},
+   {"n":"Uva Vitória sem sementes bdj 500g","p":"4,49","u":"cada","x":76,"y":73,"w":23,"h":17}
+  ]
+ }
+}

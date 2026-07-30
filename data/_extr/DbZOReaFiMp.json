@@ -1,0 +1,41 @@
+{
+ "id": "DbZOReaFiMp",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-30", "fim": "2026-07-30"},
+ "paginas": {
+  "DbZOReaFiMp_p1": [
+   {"n":"Alho a Granel 100g","p":"1,99","u":"100g","x":8,"y":48,"w":25,"h":10},
+   {"n":"Banana Prata ou Banana Pacovan kg","p":"4,49","u":"kg","x":37,"y":48,"w":27,"h":10},
+   {"n":"Batata Doce kg","p":"4,99","u":"kg","x":70,"y":48,"w":25,"h":10},
+   {"n":"Cebola Branca kg","p":"3,99","u":"kg","x":8,"y":73,"w":25,"h":10},
+   {"n":"Chuchu kg","p":"3,29","u":"kg","x":37,"y":73,"w":25,"h":10},
+   {"n":"Goiaba kg","p":"4,49","u":"kg","x":70,"y":73,"w":25,"h":10},
+   {"n":"Abacate kg","p":"4,49","u":"kg","x":6,"y":91,"w":25,"h":8},
+   {"n":"Batata Inglesa kg","p":"3,99","u":"kg","x":35,"y":91,"w":27,"h":8},
+   {"n":"Cenoura kg","p":"5,99","u":"kg","x":68,"y":91,"w":27,"h":8}
+  ],
+  "DbZOReaFiMp_p2": [
+   {"n":"Goma de Mandioca 1kg","p":"4,99","u":"cada","x":8,"y":48,"w":25,"h":10},
+   {"n":"Inhame Cará kg","p":"4,99","u":"kg","x":37,"y":48,"w":27,"h":10},
+   {"n":"Laranja kg","p":"1,99","u":"kg","x":70,"y":48,"w":25,"h":10},
+   {"n":"Tangerina kg","p":"3,99","u":"kg","x":8,"y":73,"w":25,"h":10},
+   {"n":"Limão Tahiti kg","p":"2,99","u":"kg","x":37,"y":73,"w":25,"h":10},
+   {"n":"Maracujá kg","p":"6,99","u":"kg","x":70,"y":73,"w":25,"h":10},
+   {"n":"Mamão Formosa kg","p":"3,99","u":"kg","x":6,"y":91,"w":25,"h":8},
+   {"n":"Melão Espanhol ou Japonês kg","p":"3,99","u":"kg","x":35,"y":91,"w":27,"h":8},
+   {"n":"Jerimum de Leite kg","p":"2,49","u":"kg","x":68,"y":91,"w":27,"h":8}
+  ],
+  "DbZOReaFiMp_p3": [
+   {"n":"Tomate kg","p":"2,79","u":"kg","x":8,"y":48,"w":25,"h":10},
+   {"n":"Maçã Nacional kg","p":"5,99","u":"kg","x":37,"y":48,"w":25,"h":10},
+   {"n":"Ovos Brancos Bandeja com 30 Unidades","p":"13,99","u":"cada","x":66,"y":44,"w":30,"h":14},
+   {"n":"Uva Vitória Green Dreams Turma da Mônica 250g","p":"6,99","u":"cada","x":3,"y":70,"w":30,"h":12},
+   {"n":"Uva Vitória sem Semente Turma da Mônica Bandeja 250g","p":"4,99","u":"cada","x":35,"y":70,"w":30,"h":12},
+   {"n":"Uva Verde sem Semente Seleção Mimo Bandeja 400g","p":"11,99","u":"cada","x":67,"y":70,"w":29,"h":12},
+   {"n":"Uva Preta sem Semente Seleta Bandeja 500g","p":"5,99","u":"cada","x":2,"y":89,"w":22,"h":9},
+   {"n":"Uva Verde sem Semente Seleta Bandeja 500g","p":"9,99","u":"cada","x":26,"y":89,"w":22,"h":9},
+   {"n":"Uva Vermelha sem Semente Seleta Bandeja 500g","p":"8,49","u":"cada","x":50,"y":89,"w":22,"h":9},
+   {"n":"Uva Vitória sem Semente Seleção Mimo Bandeja 400g","p":"8,99","u":"cada","x":74,"y":89,"w":22,"h":9}
+  ]
+ }
+}

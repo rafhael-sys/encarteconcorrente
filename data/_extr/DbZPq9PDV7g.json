@@ -1,0 +1,63 @@
+{
+ "id": "DbZPq9PDV7g",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-30", "fim": "2026-08-02"},
+ "paginas": {
+  "DbZPq9PDV7g_p2": [
+   {"n":"Linguiça de Frango Lar Congelada Grossa 1kg","p":"11,99","u":"un","x":10,"y":5,"w":38,"h":32},
+   {"n":"Filé de Peito de Frango Envelopado Lar Congelado","p":"14,49","u":"kg","x":5,"y":35,"w":30,"h":32},
+   {"n":"Carne Bovina Coxão Mole Resfriado","p":"36,99","u":"kg","x":36,"y":18,"w":34,"h":38},
+   {"n":"Café Santa Clara Almofada Extraforte 250g","p":"11,99","u":"un","x":68,"y":5,"w":28,"h":36},
+   {"n":"Carne Bovina Picanha Fatiada Seridoense","p":"39,99","u":"kg","x":8,"y":68,"w":36,"h":26},
+   {"n":"Coxas e Sobrecoxas de Frango Guibon com Dorsal Congelado","p":"6,99","u":"kg","x":52,"y":68,"w":36,"h":26}
+  ],
+  "DbZPq9PDV7g_p3": [
+   {"n":"Frango a Passarinho Temperado Lar Congelado 700g","p":"8,99","u":"un","x":8,"y":5,"w":42,"h":28},
+   {"n":"Linguiça Tipo Calabresa Perdigão","p":"25,99","u":"kg","x":55,"y":5,"w":42,"h":28},
+   {"n":"Mortadela de Frango Friato","p":"6,99","u":"kg","x":8,"y":35,"w":42,"h":28},
+   {"n":"Manteiga D'Nata com Sal Pote 500g","p":"16,99","u":"un","x":55,"y":35,"w":42,"h":28},
+   {"n":"Sorvete Ster Bom Dueto 1L (exceto Ligth/Levíssimo)","p":"11,49","u":"un","x":8,"y":65,"w":42,"h":28},
+   {"n":"Leite em Pó Instantâneo Integral Betânia Sachê 750g","p":"24,99","u":"un","x":55,"y":65,"w":42,"h":28}
+  ],
+  "DbZPq9PDV7g_p4": [
+   {"n":"Mistura Láctea UHT Meu Bom 395g","p":"2,99","u":"un","x":8,"y":5,"w":42,"h":28},
+   {"n":"Leite UHT Integral LeitBom 1L","p":"5,79","u":"un","x":55,"y":5,"w":42,"h":28},
+   {"n":"Creme de Leite UHT LeitBom 200g","p":"2,39","u":"un","x":8,"y":35,"w":42,"h":28},
+   {"n":"Bebida Láctea UHT Natville Choconat 200ml","p":"0,99","u":"un","x":55,"y":35,"w":42,"h":28},
+   {"n":"Laranja Pera","p":"1,99","u":"kg","x":8,"y":68,"w":42,"h":28},
+   {"n":"Ovos Brancos Grandes Granja Almeida Bandeja com 30 unidades","p":"13,49","u":"un","x":55,"y":68,"w":42,"h":28}
+  ],
+  "DbZPq9PDV7g_p5": [
+   {"n":"Refrigerante Guaraná Antarctica Pet 2L (Tradicional/Zero)","p":"7,89","u":"un","x":8,"y":5,"w":42,"h":28},
+   {"n":"Cerveja Puro Malte Amstel Lata 350ml","p":"3,29","u":"un","x":55,"y":5,"w":42,"h":28},
+   {"n":"Feijão Preto Urbano Tipo 1 Pacote 1kg","p":"6,99","u":"un","x":8,"y":35,"w":42,"h":28},
+   {"n":"Macarrão Espaguete Imperador Pacote 400g","p":"2,39","u":"un","x":55,"y":35,"w":42,"h":28},
+   {"n":"Arroz Branco Beleza Tipo 2 Pacote 1kg","p":"3,19","u":"un","x":8,"y":65,"w":42,"h":28},
+   {"n":"Flocão de Milho Fortemilho Pacote 400g","p":"0,99","u":"un","x":55,"y":65,"w":42,"h":28}
+  ],
+  "DbZPq9PDV7g_p6": [
+   {"n":"Farinha de Trigo Finna Sem Fermento Pacote 1kg","p":"3,89","u":"un","x":8,"y":5,"w":42,"h":28},
+   {"n":"Café Solúvel Santa Clara Sachê 40g (Clássico/Extraforte)","p":"4,89","u":"un","x":55,"y":5,"w":42,"h":28},
+   {"n":"Café em Cápsulas Santa Clara/3 Corações com 10 unidades","p":"18,99","u":"un","x":8,"y":35,"w":42,"h":28},
+   {"n":"Mistura de Legumes Dueto Fugini Sachê 170g","p":"2,19","u":"un","x":55,"y":35,"w":42,"h":28},
+   {"n":"Achocolatado em Pó Chocolatto Caramelo Sachê 560g","p":"12,99","u":"un","x":8,"y":65,"w":42,"h":28},
+   {"n":"Queijo Mussarela Fatiado Tregar","p":"38,99","u":"kg","x":55,"y":65,"w":42,"h":28}
+  ],
+  "DbZPq9PDV7g_p7": [
+   {"n":"Iogurte Clan Natural Leite e Fermento 150g","p":"3,39","u":"un","x":8,"y":5,"w":42,"h":28},
+   {"n":"Bebida Láctea Clan Sachê 900g (Sabores)","p":"4,99","u":"un","x":55,"y":5,"w":42,"h":28},
+   {"n":"Requeijão Cremoso Clan 200g (Tradicional/Light)","p":"6,99","u":"un","x":8,"y":35,"w":42,"h":28},
+   {"n":"Queijo Coalho Clan Tradicional","p":"39,99","u":"kg","x":55,"y":35,"w":42,"h":28},
+   {"n":"Kit Refrigerante Coca-Cola Pet 2L + Fanta Laranja Pet 2L","p":"18,69","u":"un","x":8,"y":68,"w":28,"h":28},
+   {"n":"Refrigerante Fanta/Sprite Lata 350ml (Tradicional/Zero, Sabores)","p":"3,09","u":"un","x":38,"y":68,"w":28,"h":28},
+   {"n":"Cerveja Itaipava Pilsen Lata 350ml","p":"2,49","u":"un","x":68,"y":68,"w":28,"h":28}
+  ],
+  "DbZPq9PDV7g_p8": [
+   {"n":"Lava Roupas Líquido Tanlux Blue Original 3L","p":"12,99","u":"un","x":8,"y":5,"w":42,"h":28},
+   {"n":"Detergente em Pó Ala Sachê 400g (Fragrâncias)","p":"2,49","u":"un","x":55,"y":5,"w":42,"h":28},
+   {"n":"Água Sanitária Clorito 1L","p":"1,99","u":"un","x":8,"y":35,"w":42,"h":28},
+   {"n":"Fralda Descartável Mamypoko Jumbo (M/XG/XXG)","p":"29,99","u":"pacote","x":55,"y":35,"w":42,"h":28},
+   {"n":"Papel Higiênico Deluxe Folha Dupla Leve 12 Pague 11 (20m)","p":"12,99","u":"pacote","x":8,"y":65,"w":42,"h":28}
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+{"resultados": [
+ {"k": "queijo tipo mussarela sertao jucurutu || queijo tipo mussarela sertao jucurutu kg", "veredito": "mesmo"},
+ {"k": "aranha bovina congelada a vacuo masterboi || bananinha bovina congelada a vacuo masterboi", "veredito": "diferente"},
+ {"k": "linguica calabresa sadia || linguica calabresa saudali", "veredito": "diferente"},
+ {"k": "morango bdj 200g || morango cb 200g", "veredito": "incerto"},
+ {"k": "morango bandeja 200g || morango bdj 200g", "veredito": "mesmo"},
+ {"k": "azeitona verde rivoli fatiada ou sem caroco sache 150g || azeitona verde rivoli sem caroco sache 150g", "veredito": "mesmo"},
+ {"k": "carne bovina posta gorda c/ osso kg || carne bovina posta gorda kg", "veredito": "diferente"},
+ {"k": "file de peito de frango ave nova congelado || file de peito de frango envelopado congelado", "veredito": "diferente"},
+ {"k": "enxaguante bucal colgate l750ml p500ml plax fresh mint || enxaguante bucal colgate plax 750ml paga 500ml fresh mint", "veredito": "mesmo"},
+ {"k": "sabonete liquido becker 1l || sabonete liquido becker 1l flores", "veredito": "incerto"},
+ {"k": "file de peito de frango resfriado || file de peito de frango resfriado bom todo", "veredito": "diferente"},
+ {"k": "papel higienico felita care folha dupla 20m c/12 || papel higienico floral folha dupla 20m c/12", "veredito": "diferente"},
+ {"k": "manteiga ipanema com sal 500g || manteiga itambe com sal 500g", "veredito": "diferente"}
+]}

@@ -1,0 +1,31 @@
+{
+ "id": "DbZIzTBDz1j",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-30", "fim": "2026-07-31"},
+ "paginas": {
+   "DbZIzTBDz1j_p1": [
+     {"n":"Carne Bovina Coxão Mole Resfriado","p":"36,99","u":"kg","x":5,"y":40,"w":30,"h":25},
+     {"n":"Carne Bovina Patinho de Sol","p":"36,99","u":"kg","x":37,"y":40,"w":28,"h":25},
+     {"n":"Carne Bovina Capa de Contra Filé Congelada","p":"34,99","u":"kg","x":68,"y":40,"w":28,"h":25},
+     {"n":"Carne Bovina Picanha Fatiada Seridoense","p":"39,99","u":"kg","x":5,"y":68,"w":30,"h":25},
+     {"n":"Carne Bovina Cordão do Contra Filé","p":"29,99","u":"kg","x":37,"y":68,"w":28,"h":25},
+     {"n":"Carne Bovina Paleta com Osso","p":"29,99","u":"kg","x":68,"y":68,"w":28,"h":25}
+   ],
+   "DbZIzTBDz1j_p2": [
+     {"n":"Carne Bovina Acém com Osso","p":"27,99","u":"kg","x":5,"y":40,"w":30,"h":25},
+     {"n":"Carne Bovina Costela do Peito","p":"26,99","u":"kg","x":37,"y":40,"w":28,"h":25},
+     {"n":"Carne Bovina Costela P.A","p":"25,99","u":"kg","x":68,"y":40,"w":28,"h":25},
+     {"n":"Espetinho de Contra Filé/Bife Ancho Congelado Seridoense 300g","p":"19,99","u":"un","x":5,"y":68,"w":30,"h":25},
+     {"n":"Hambúrguer Artesanal Blend Congelado Seridoense 120g","p":"5,99","u":"un","x":37,"y":68,"w":28,"h":25},
+     {"n":"Hambúrguer Fraldinha Congelado Seridoense 120g","p":"7,99","u":"un","x":68,"y":68,"w":28,"h":25}
+   ],
+   "DbZIzTBDz1j_p3": [
+     {"n":"Mocotó Bovino Serrado Congelado","p":"13,99","u":"kg","x":5,"y":40,"w":30,"h":25},
+     {"n":"Fígado Bovino Congelado","p":"15,99","u":"kg","x":37,"y":40,"w":28,"h":25},
+     {"n":"Coração Bovino Congelado","p":"14,99","u":"kg","x":68,"y":40,"w":28,"h":25},
+     {"n":"Cerveja Puro Malte Império Lager Long Neck 275ml","p":"4,49","u":"un","x":5,"y":68,"w":30,"h":25},
+     {"n":"Cerveja Devassa Tropical Lata 350ml","p":"2,79","u":"un","x":37,"y":68,"w":28,"h":25},
+     {"n":"Whisky Black & White 1 Litro","p":"64,99","u":"un","x":68,"y":68,"w":28,"h":25}
+   ]
+ }
+}

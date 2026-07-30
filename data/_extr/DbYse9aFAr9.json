@@ -1,0 +1,40 @@
+{
+ "id": "DbYse9aFAr9",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-29", "fim": "2026-08-01"},
+ "paginas": {
+  "DbYse9aFAr9_p2": [
+   {"n":"Ovos Brancos Grandes Almeida Bandeja c/30 Unidades","p":"12,99","u":"cliente cadastrado","x":25,"y":1,"w":57,"h":32}
+  ],
+  "DbYse9aFAr9_p3": [
+   {"n":"Leite em Pó Bom Gosto 700g Integral","p":"19,99","u":"cliente cadastrado","x":39,"y":41,"w":59,"h":55}
+  ],
+  "DbYse9aFAr9_p4": [
+   {"n":"Massa Yara 400g Espaguete","p":"1,79","u":"cliente cadastrado","x":31,"y":24,"w":68,"h":73}
+  ],
+  "DbYse9aFAr9_p5": [
+   {"n":"Filé de Peito de Frango Congelado (Envelopado) kg","p":"13,99","u":"kg","x":35,"y":1,"w":64,"h":70}
+  ],
+  "DbYse9aFAr9_p6": [
+   {"n":"Batata Pré-Frita Prime Fries 2kg Congelada (Tradicional)","p":"16,99","u":"cliente cadastrado","x":0,"y":0,"w":68,"h":35}
+  ],
+  "DbYse9aFAr9_p7": [
+   {"n":"Arroz Tio Manoel 1kg (Parboilizado/Branco)","p":"2,99","u":"cliente cadastrado","x":24,"y":59,"w":68,"h":41}
+  ],
+  "DbYse9aFAr9_p8": [
+   {"n":"Fralda Turma da Mônica Short Jumbo (Tamanhos)","p":"23,99","u":"cliente cadastrado","x":24,"y":59,"w":67,"h":41}
+  ],
+  "DbYse9aFAr9_p9": [
+   {"n":"Óleo de Soja Liza 900ml","p":"6,99","u":"cliente cadastrado","x":21,"y":62,"w":76,"h":37}
+  ],
+  "DbYse9aFAr9_p10": [
+   {"n":"Açúcar Alegre 1kg (Triturado/Cristal)","p":"2,69","u":"cliente cadastrado","x":28,"y":58,"w":72,"h":42}
+  ],
+  "DbYse9aFAr9_p11": [
+   {"n":"Coxa com Sobrecoxa de Frango (com Dorsal) kg","p":"6,99","u":"kg","x":37,"y":15,"w":61,"h":55}
+  ],
+  "DbYse9aFAr9_p12": [
+   {"n":"Lava Roupas Líquido Tanlux 3L (Comfort Blue)","p":"9,99","u":"cliente cadastrado","x":13,"y":58,"w":87,"h":42}
+  ]
+ }
+}

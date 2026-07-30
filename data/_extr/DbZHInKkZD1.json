@@ -1,0 +1,46 @@
+{
+ "id": "DbZHInKkZD1",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-30", "fim": "2026-08-02"},
+ "paginas": {
+  "DbZHInKkZD1_p1": [
+   {"n":"Farinha de Milho Flocada Flokão pct 400g","p":"0,89","u":"cada","x":0,"y":25,"w":20,"h":21},
+   {"n":"Macarrão Bonsabor Spaghetti pct 400g","p":"1,99","u":"cada","x":20,"y":25,"w":20,"h":21},
+   {"n":"Café em Pó Família São Braz Almofada ou a Vácuo pct 250g","p":"11,98","u":"cada","x":40,"y":25,"w":20,"h":21},
+   {"n":"Leite Condensado Moça Semidesnatado cx 395g","p":"7,99","u":"cada","x":60,"y":25,"w":20,"h":21},
+   {"n":"Linguiça de Frango Sadia ou para Churrasco Aurora kg","p":"18,99","u":"kg","x":80,"y":25,"w":20,"h":21},
+   {"n":"Sobrecoxas de Frango Sadia Congeladas IQF pct ou bd 1kg","p":"13,99","u":"cada","x":0,"y":46,"w":20,"h":20},
+   {"n":"Bisteca Suína Reserva Seara Congelada kg","p":"15,99","u":"kg","x":20,"y":46,"w":20,"h":20},
+   {"n":"Chã de Dentro Bovina Resfriada Pedaço kg","p":"39,98","u":"kg","x":40,"y":46,"w":20,"h":20},
+   {"n":"Cerveja Budweiser Long Neck 330ml","p":"4,99","u":"cada","x":60,"y":46,"w":20,"h":20},
+   {"n":"Bebida Energética Red Bull lta 250ml","p":"7,99","u":"cada","x":80,"y":46,"w":20,"h":20},
+   {"n":"Arroz Parboilizado Pop pct 1kg","p":"3,29","u":"cada","x":0,"y":66,"w":20,"h":17},
+   {"n":"Feijão Carioca Kumê pct 1kg","p":"7,29","u":"cada","x":20,"y":66,"w":20,"h":17},
+   {"n":"Azeite Especial Extra Virgem La Española vd 500ml","p":"24,99","u":"cada","x":40,"y":66,"w":20,"h":17},
+   {"n":"Bebida Láctea UHT Toddynho cx 200ml","p":"1,99","u":"cada","x":60,"y":66,"w":20,"h":17},
+   {"n":"Manteiga Itacolomy com Sal pt 500g","p":"19,90","u":"cada","x":80,"y":66,"w":20,"h":17},
+   {"n":"Steak de Frango Empanado Perdigão pct 100g","p":"1,68","u":"cada","x":0,"y":83,"w":20,"h":17},
+   {"n":"Filé de Peito de Frango Ave Nova Congelado kg","p":"16,99","u":"kg","x":20,"y":83,"w":20,"h":17},
+   {"n":"Camarão Inteiro Camar 80/100 Congelado kg","p":"36,90","u":"kg","x":40,"y":83,"w":20,"h":17},
+   {"n":"Cerveja Stella Artois Pure Gold Long Neck 330ml","p":"5,99","u":"cada","x":60,"y":83,"w":20,"h":17},
+   {"n":"Papel Higiênico Floral Folha Simples 30 Metros pct Leve 12 Pague 11","p":"9,98","u":"leve 12 pague 11","x":80,"y":83,"w":20,"h":17}
+  ],
+  "DbZHInKkZD1_p2": [
+   {"n":"Molho de Tomate Sadio Tradicional pct 300g","p":"1,39","u":"cada","x":0,"y":12,"w":33,"h":13},
+   {"n":"Biscoito Cream Cracker Vitarella Tostadinha pct 350g","p":"4,49","u":"cada","x":33,"y":12,"w":34,"h":13},
+   {"n":"Granola São Braz pct 250g","p":"9,99","u":"cada","x":67,"y":12,"w":33,"h":13},
+   {"n":"Creme de Leite Betânia cx 200g","p":"2,79","u":"cada","x":0,"y":25,"w":33,"h":13},
+   {"n":"Margarina Cremosa Primor com Sal pt 1kg","p":"8,99","u":"cada","x":33,"y":25,"w":34,"h":13},
+   {"n":"Refrigerante Coca-Cola Original ou Zero tb 2,5 litros","p":"10,79","u":"cada","x":67,"y":25,"w":33,"h":13},
+   {"n":"Bebida Mista Tampico Frutas Cítricas tb 1,5 litro","p":"5,69","u":"cada","x":0,"y":38,"w":33,"h":13},
+   {"n":"Vinho Tinto Country Wine Seco ou Suave gfa 750ml","p":"8,99","u":"cada","x":33,"y":38,"w":34,"h":13},
+   {"n":"Creme Dental Sorriso Edição Kolynos tb 90g","p":"2,69","u":"cada","x":67,"y":38,"w":33,"h":13},
+   {"n":"Lava-roupas em Pó Bem-te-vi pct 400g","p":"2,39","u":"cada","x":0,"y":52,"w":33,"h":13},
+   {"n":"Amaciante Bem-Te-Vi tb 1,8 litro","p":"5,99","u":"cada","x":33,"y":52,"w":34,"h":13},
+   {"n":"Lava-roupas Líquido Nordestão Ativ Lavanda tb 3 litros","p":"12,99","u":"cada","x":67,"y":52,"w":33,"h":13},
+   {"n":"Água Sanitária Dragão tb 1 litro","p":"1,99","u":"cada","x":0,"y":65,"w":33,"h":13},
+   {"n":"Absorvente Especial Sempre Livre Suave com Abas pct Leve 16 Pague 14","p":"6,90","u":"leve 16 pague 14","x":33,"y":65,"w":34,"h":13},
+   {"n":"Carvão Vegetal Jucurutu pct 5kg","p":"24,90","u":"cada","x":67,"y":65,"w":33,"h":13}
+  ]
+ }
+}

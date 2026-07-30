@@ -9218,5 +9218,388 @@
   "veredito": "mesmo",
   "quando": "2026-07-29",
   "aplicado": true
+ },
+ "file de peito bom todo 1kg bandeja || file de peito bomtodo 1kg bandeja": {
+  "a": "Filé de Peito Bom Todo 1kg Bandeja",
+  "b": "Filé de Peito Bomtodo 1kg Bandeja",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "coxao duro bovino resfriado || coxao duro bovino resfriado kg": {
+  "a": "Coxão Duro Bovino Resfriado kg",
+  "b": "Coxão Duro Bovino Resfriado",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "desodorante aerosol nivea fragrancias frasco 200ml || desodorante aerossol dove fragrancias frasco 200ml": {
+  "a": "Desodorante Aerosol Nivea Fragrâncias Frasco 200ml",
+  "b": "Desodorante Aerossol Dove Fragrâncias Frasco 200ml",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "cafe tradicional ou extraforte 3 coracoes pacote almofada ou a vacuo 250g || cafe tradicional ou extraforte pilao pacote almofada ou a vacuo 250g": {
+  "a": "Café Tradicional ou Extraforte 3 Corações Pacote Almofada ou a Vácuo 250g",
+  "b": "Café Tradicional ou Extraforte Pilão Pacote Almofada ou a Vácuo 250g",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "refrigerante guarana antarctica pet 1l || refrigerante original guarana antarctica pet 1l": {
+  "a": "Refrigerante Guaraná Antarctica Pet 1L",
+  "b": "Refrigerante Original Guaraná Antarctica PET 1L",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "banana prata || banana prata kg": {
+  "a": "Banana Prata Kg",
+  "b": "Banana Prata",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "lava roupas em po omo lavagem perfeita pacote com 1,6kg || lava-roupas em po lavagem perfeita omo pacote 1,6kg": {
+  "a": "Lava Roupas em Pó Omo Lavagem Perfeita Pacote com 1,6kg",
+  "b": "Lava-Roupas em Pó Lavagem Perfeita Omo Pacote 1,6kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "bucho bovino reserva resfriado || mocoto bovino reserva resfriado": {
+  "a": "Mocotó Bovino Reserva Resfriado",
+  "b": "Bucho Bovino Reserva Resfriado",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "sabonete albany 85g || sabonete albany frag 85g": {
+  "a": "Sabonete Albany 85g",
+  "b": "Sabonete Albany Frag 85g",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "azeite extra virgem allegro 500ml || azeite extra virgem gallo por 500ml": {
+  "a": "Azeite Extra Virgem Gallo Por 500ml",
+  "b": "Azeite Extra Virgem Allegro 500ml",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "salg cheetos 55/60/78g || salgadinho cheetos 55/60/78g": {
+  "a": "Salg Cheetos 55/60/78g",
+  "b": "Salgadinho Cheetos 55/60/78g",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "steak de frango lar 100g || steak de frango nobre 100g": {
+  "a": "Steak de Frango Lar 100g",
+  "b": "Steak de Frango Nobre 100g",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "file de peito de frango bom todo 1kg || file de peito de frango bom todo congelado 1kg": {
+  "a": "Filé de Peito de Frango Bom Todo 1kg",
+  "b": "Filé de Peito de Frango Bom Todo Congelado 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "costela janelinha congelada a vacuo maturatta || costela janelinha congelada a vacuo maturatta kg": {
+  "a": "Costela Janelinha Congelada a Vácuo Maturatta KG",
+  "b": "Costela Janelinha Congelada a Vácuo Maturatta",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "file de tilapia riviera 800g || file tilapia riviera 800g": {
+  "a": "Filé de Tilápia Riviera 800g",
+  "b": "Filé Tilápia Riviera 800g",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "maracuja azedo kg || maracuja-azedo": {
+  "a": "Maracujá Azedo kg",
+  "b": "Maracujá-Azedo",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "creme de leite bendito 200g || creme de leite betania 200g": {
+  "a": "Creme de Leite Bendito 200g",
+  "b": "Creme de Leite Betânia 200g",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "cha de fora (resfriado) || cha de fora resfriada kg": {
+  "a": "Chã de Fora (Resfriado)",
+  "b": "Cha De Fora Resfriada Kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "peito de frango com osso congelado copacol || peito de frango com osso congelado kg": {
+  "a": "Peito de Frango com Osso Congelado kg",
+  "b": "Peito de Frango com Osso Congelado Copacol",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "panceta suina a granel lar kg || panceta suina granel kg": {
+  "a": "Panceta Suína Granel Kg",
+  "b": "Panceta Suína a Granel Lar Kg",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "lava roupas liquido omo fragrancias 750ml || lava roupas liquido omo frasco 750ml": {
+  "a": "Lava Roupas Líquido OMO Fragrâncias 750ml",
+  "b": "Lava Roupas Líquido Omo Frasco 750ml",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "lagarto bovino resfriado masterboi || patinho bovino resfriado masterboi": {
+  "a": "Patinho Bovino Resfriado Masterboi",
+  "b": "Lagarto Bovino Resfriado Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "linguica calabresa saudali || linguica calabresa seara": {
+  "a": "Linguiça Calabresa Seara",
+  "b": "Linguiça Calabresa Saudali",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "kit sh pantene 400ml + cond 175ml restauracao ou kit sh pantene 300ml + cond 150ml queratina || kit shampoo pantene 400ml + condicionador 175ml restauracao ou kit sh 300ml + cond 150ml queratina": {
+  "a": "Kit Sh Pantene 400ml + Cond 175ml Restauração ou Kit Sh Pantene 300ml + Cond 150ml Queratina",
+  "b": "Kit Shampoo Pantene 400ml + Condicionador 175ml Restauracao ou Kit Sh 300ml + Cond 150ml Queratina",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "peito de frango kg || peito de frango real kg": {
+  "a": "Peito de Frango Kg",
+  "b": "Peito de Frango Real kg",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "queijo tipo mussarela sertao jucurutu || queijo tipo mussarela sertao jucurutu kg": {
+  "a": "Queijo Tipo Mussarela Sertão Jucurutu kg",
+  "b": "Queijo tipo Mussarela Sertão Jucurutu",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "aranha bovina congelada a vacuo masterboi || bananinha bovina congelada a vacuo masterboi": {
+  "a": "Bananinha Bovina Congelada a Vácuo Masterboi",
+  "b": "Aranha Bovina Congelada a Vácuo Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "linguica calabresa sadia || linguica calabresa saudali": {
+  "a": "Linguiça Calabresa Sadia",
+  "b": "Linguiça Calabresa Saudali",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "morango bandeja 200g || morango bdj 200g": {
+  "a": "Morango Bandeja 200g",
+  "b": "Morango BDJ 200g",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "azeitona verde rivoli fatiada ou sem caroco sache 150g || azeitona verde rivoli sem caroco sache 150g": {
+  "a": "Azeitona Verde Rivoli Fatiada ou Sem Caroço Sachê 150g",
+  "b": "Azeitona Verde Rivoli Sem Caroço Sachê 150g",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "carne bovina posta gorda c/ osso kg || carne bovina posta gorda kg": {
+  "a": "Carne Bovina Posta Gorda c/ Osso kg",
+  "b": "Carne Bovina Posta Gorda Kg",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "file de peito de frango ave nova congelado || file de peito de frango envelopado congelado": {
+  "a": "Filé de Peito de Frango Ave Nova Congelado",
+  "b": "Filé de Peito de Frango Envelopado Congelado",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "enxaguante bucal colgate l750ml p500ml plax fresh mint || enxaguante bucal colgate plax 750ml paga 500ml fresh mint": {
+  "a": "Enxaguante Bucal Colgate L750ml P500ml Plax Fresh Mint",
+  "b": "Enxaguante Bucal Colgate Plax 750ml Paga 500ml Fresh Mint",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "file de peito de frango resfriado || file de peito de frango resfriado bom todo": {
+  "a": "Filé de Peito de Frango Resfriado",
+  "b": "Filé de Peito de Frango Resfriado Bom Todo",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "papel higienico felita care folha dupla 20m c/12 || papel higienico floral folha dupla 20m c/12": {
+  "a": "Papel Higiênico Felitá Care Folha Dupla 20m C/12",
+  "b": "Papel Higiênico Floral Folha Dupla 20m c/12",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "manteiga ipanema com sal 500g || manteiga itambe com sal 500g": {
+  "a": "Manteiga Itambé com Sal 500g",
+  "b": "Manteiga Ipanema com Sal 500g",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "suco de uva integral oq garrafa 1,5l || suco de uva integral oq gfa 1,5l": {
+  "a": "Suco de Uva Integral OQ gfa 1,5L",
+  "b": "Suco de Uva Integral OQ Garrafa 1,5L",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "cebola nacional || cebola nacional kg": {
+  "a": "Cebola Nacional kg",
+  "b": "Cebola Nacional",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "carne cha de fora resfriada kg || cha de fora resfriada kg": {
+  "a": "Carne Cha de Fora Resfriada kg",
+  "b": "Cha De Fora Resfriada Kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "creme dental colgate tripla acao menta original 90g || creme dental colgate tripla acao menta original/hortela tubo 90g": {
+  "a": "Creme Dental Colgate Tripla Ação Menta Original 90g",
+  "b": "Creme Dental Colgate Tripla Ação Menta Original/Hortelã Tubo 90g",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "hamburguer texas burger congelado seara caixeta com 36x56g || hamburguer texas burger seara congelado misto caixeta com 36x56g": {
+  "a": "Hambúrguer Texas Burger Seara Congelado Misto Caixeta com 36x56g",
+  "b": "Hambúrguer Texas Burger Congelado Seara Caixeta com 36x56g",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "cha de fora resf kg || cha de fora resfriada kg": {
+  "a": "Chã de Fora Resf kg",
+  "b": "Cha De Fora Resfriada Kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "lava roupas becker vulcan 2,7l || lava roupas liquido becker vulcan 2,7l": {
+  "a": "Lava Roupas Becker Vulcan 2,7L",
+  "b": "Lava Roupas Líquido Becker Vulcan 2,7L",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "peito de frango bom todo 1kg congelado bdj || peito frango bom todo 1kg cong bd": {
+  "a": "Peito Frango Bom Todo 1kg Cong BD",
+  "b": "Peito de Frango Bom Todo 1kg Congelado BDJ",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "azeite de oliva extra virgem sacciali vidro 500ml || azeite de oliva extravirgem andorinha vidro 500ml": {
+  "a": "Azeite De Oliva Extra Virgem Sacciali Vidro 500ml",
+  "b": "Azeite de Oliva Extravirgem Andorinha Vidro 500ml",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "fralda descartavel bag pants protecao acolchoada huggies pacote/tamanhos || fralda descartavel pants protecao acolchoada huggies pacote/tamanhos": {
+  "a": "Fralda Descartável Bag Pants Proteção Acolchoada Huggies Pacote/Tamanhos",
+  "b": "Fralda Descartável Pants Proteção Acolchoada Huggies Pacote/Tamanhos",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "linguica calabresa saudali || linguica calabresa saudali kg": {
+  "a": "Linguiça Calabresa Saudali kg",
+  "b": "Linguiça Calabresa Saudali",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "carne bovina acem ou paleta c/ osso || carne bovina acem ou paleta com osso kg": {
+  "a": "Carne Bovina Acém ou Paleta com Osso kg",
+  "b": "Carne Bovina Acém ou Paleta c/ osso",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "fraldas descartaveis babysec hiper shortinho || fraldas descartaveis babysec hiper shortinho (tamanhos)": {
+  "a": "Fraldas Descartáveis Babysec Hiper Shortinho",
+  "b": "Fraldas Descartáveis Babysec Hiper Shortinho (Tamanhos)",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "papel higienico rose || papel higienico rose c/16": {
+  "a": "Papel Higiênico Rose",
+  "b": "Papel Higiênico Rose C/16",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "file de peito de frango resfriado bom todo || file de peito de frango resfriado natto": {
+  "a": "Filé de Peito de Frango Resfriado Natto",
+  "b": "Filé de Peito de Frango Resfriado Bom Todo",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "hidratante corporal paixao 200ml (fragrancias) || hidratante paixao 200ml fragrancias": {
+  "a": "Hidratante Corporal Paixão 200ml (Fragrâncias)",
+  "b": "Hidratante Paixão 200ml Fragrâncias",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "fralda descartavel babysec ultra shortinho tamanhos || fraldas descartaveis babysec hiper shortinho (tamanhos)": {
+  "a": "Fralda Descartável Babysec Ultra Shortinho Tamanhos",
+  "b": "Fraldas Descartáveis Babysec Hiper Shortinho (Tamanhos)",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "filezinho de peito de frango lar 1kg || filezinho de peito de frango perdigao 1kg": {
+  "a": "Filezinho de Peito de Frango Lar 1kg",
+  "b": "Filezinho de Peito de Frango Perdigão 1kg",
+  "veredito": "diferente",
+  "quando": "2026-07-29"
+ },
+ "biscoito crackelicia 3 em 1 300g || biscoito crackerlicia 3 de maio 300g": {
+  "a": "Biscoito Crackerlícia 3 de Maio 300g",
+  "b": "Biscoito Crackelícia 3 em 1 300g",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "batata doce || batata doce kg": {
+  "a": "Batata Doce kg",
+  "b": "Batata Doce",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "farinha de trigo dona maria sem fermento 1kg || farinha de trigo dona maria tradicional sem fermento 1kg": {
+  "a": "Farinha de Trigo Dona Maria Tradicional sem Fermento 1Kg",
+  "b": "Farinha de Trigo Dona Maria sem Fermento 1Kg",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
+ },
+ "acai ster bom congelado mix tradicional pote 1l || acai ster bom mix congelado tradicional pote com 1l": {
+  "a": "Açaí Ster Bom Mix Congelado Tradicional Pote com 1L",
+  "b": "Açaí Ster Bom Congelado Mix Tradicional Pote 1L",
+  "veredito": "mesmo",
+  "quando": "2026-07-29",
+  "aplicado": true
  }
 }

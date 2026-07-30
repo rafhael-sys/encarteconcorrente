@@ -1,0 +1,35 @@
+{
+ "id": "story_redesupercop_20260729",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-30", "fim": "2026-07-30"},
+ "paginas": {
+   "story_redesupercop_3952253106403039133": [
+     {"n":"Banana Prata ou Banana Pacovan kg","p":"4,49","u":"kg","x":5,"y":19,"w":85,"h":33},
+     {"n":"Abacate kg","p":"4,49","u":"kg","x":20,"y":54,"w":65,"h":38}
+   ],
+   "story_redesupercop_3952253137986162380": [
+     {"n":"Batata Doce kg","p":"4,99","u":"kg","x":15,"y":19,"w":65,"h":31},
+     {"n":"Batata Inglesa kg","p":"3,99","u":"kg","x":8,"y":54,"w":85,"h":40}
+   ],
+   "story_redesupercop_3952253165274272400": [
+     {"n":"Cenoura kg","p":"5,99","u":"kg","x":2,"y":19,"w":91,"h":37},
+     {"n":"Cebola Branca kg","p":"3,99","u":"kg","x":23,"y":59,"w":60,"h":35}
+   ],
+   "story_redesupercop_3952253190633090797": [
+     {"n":"Tangerina kg","p":"3,99","u":"kg","x":21,"y":21,"w":59,"h":33},
+     {"n":"Maracujá kg","p":"6,99","u":"kg","x":21,"y":57,"w":68,"h":37}
+   ],
+   "story_redesupercop_3952253218382577134": [
+     {"n":"Laranja kg","p":"1,99","u":"kg","x":17,"y":21,"w":68,"h":33},
+     {"n":"Limão Tahiti kg","p":"2,99","u":"kg","x":23,"y":57,"w":60,"h":38}
+   ],
+   "story_redesupercop_3952253248422158534": [
+     {"n":"Uva Preta sem Semente Seleta Bandeja 500g","p":"5,99","u":"cada","x":27,"y":18,"w":47,"h":36},
+     {"n":"Uva Verde sem Semente Seleta Bandeja 500g","p":"9,99","u":"cada","x":26,"y":56,"w":67,"h":39}
+   ],
+   "story_redesupercop_3952253276180100311": [
+     {"n":"Uva Vermelha sem Semente Seleta Bandeja 500g","p":"8,49","u":"cada","x":24,"y":19,"w":49,"h":38},
+     {"n":"Uva Vitória sem Semente Seleção Mimo Bandeja 400g","p":"8,99","u":"cada","x":27,"y":57,"w":47,"h":40}
+   ]
+ }
+}

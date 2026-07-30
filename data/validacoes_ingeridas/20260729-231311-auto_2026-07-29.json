@@ -1,0 +1,229 @@
+{
+ "validacoes": [
+  {
+   "a": "Filé de Peito Bom Todo 1kg Bandeja",
+   "b": "Filé de Peito Bomtodo 1kg Bandeja",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxão Duro Bovino Resfriado kg",
+   "b": "Coxão Duro Bovino Resfriado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerosol Nivea Fragrâncias Frasco 200ml",
+   "b": "Desodorante Aerossol Dove Fragrâncias Frasco 200ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café Tradicional ou Extraforte 3 Corações Pacote Almofada ou a Vácuo 250g",
+   "b": "Café Tradicional ou Extraforte Pilão Pacote Almofada ou a Vácuo 250g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Pet 1L",
+   "b": "Refrigerante Original Guaraná Antarctica PET 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Banana Prata Kg",
+   "b": "Banana Prata",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas em Pó Omo Lavagem Perfeita Pacote com 1,6kg",
+   "b": "Lava-Roupas em Pó Lavagem Perfeita Omo Pacote 1,6kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mocotó Bovino Reserva Resfriado",
+   "b": "Bucho Bovino Reserva Resfriado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sabonete Albany 85g",
+   "b": "Sabonete Albany Frag 85g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite Extra Virgem Gallo Por 500ml",
+   "b": "Azeite Extra Virgem Allegro 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Salg Cheetos 55/60/78g",
+   "b": "Salgadinho Cheetos 55/60/78g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Steak de Frango Lar 100g",
+   "b": "Steak de Frango Nobre 100g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Bom Todo 1kg",
+   "b": "Filé de Peito de Frango Bom Todo Congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Janelinha Congelada a Vácuo Maturatta KG",
+   "b": "Costela Janelinha Congelada a Vácuo Maturatta",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Tilápia Riviera 800g",
+   "b": "Filé Tilápia Riviera 800g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maracujá Azedo kg",
+   "b": "Maracujá-Azedo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Leite Bendito 200g",
+   "b": "Creme de Leite Betânia 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Chã de Fora (Resfriado)",
+   "b": "Cha De Fora Resfriada Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango com Osso Congelado kg",
+   "b": "Peito de Frango com Osso Congelado Copacol",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Panceta Suína Granel Kg",
+   "b": "Panceta Suína a Granel Lar Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas Líquido OMO Fragrâncias 750ml",
+   "b": "Lava Roupas Líquido Omo Frasco 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Patinho Bovino Resfriado Masterboi",
+   "b": "Lagarto Bovino Resfriado Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça Calabresa Seara",
+   "b": "Linguiça Calabresa Saudali",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Kit Sh Pantene 400ml + Cond 175ml Restauração ou Kit Sh Pantene 300ml + Cond 150ml Queratina",
+   "b": "Kit Shampoo Pantene 400ml + Condicionador 175ml Restauracao ou Kit Sh 300ml + Cond 150ml Queratina",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango Kg",
+   "b": "Peito de Frango Real kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Tipo Mussarela Sertão Jucurutu kg",
+   "b": "Queijo tipo Mussarela Sertão Jucurutu",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bananinha Bovina Congelada a Vácuo Masterboi",
+   "b": "Aranha Bovina Congelada a Vácuo Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça Calabresa Sadia",
+   "b": "Linguiça Calabresa Saudali",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Morango Bandeja 200g",
+   "b": "Morango BDJ 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Verde Rivoli Fatiada ou Sem Caroço Sachê 150g",
+   "b": "Azeitona Verde Rivoli Sem Caroço Sachê 150g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Posta Gorda c/ Osso kg",
+   "b": "Carne Bovina Posta Gorda Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Ave Nova Congelado",
+   "b": "Filé de Peito de Frango Envelopado Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Enxaguante Bucal Colgate L750ml P500ml Plax Fresh Mint",
+   "b": "Enxaguante Bucal Colgate Plax 750ml Paga 500ml Fresh Mint",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Resfriado",
+   "b": "Filé de Peito de Frango Resfriado Bom Todo",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Felitá Care Folha Dupla 20m C/12",
+   "b": "Papel Higiênico Floral Folha Dupla 20m c/12",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Manteiga Itambé com Sal 500g",
+   "b": "Manteiga Ipanema com Sal 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Suco de Uva Integral OQ gfa 1,5L",
+   "b": "Suco de Uva Integral OQ Garrafa 1,5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cebola Nacional kg",
+   "b": "Cebola Nacional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Cha de Fora Resfriada kg",
+   "b": "Cha De Fora Resfriada Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme Dental Colgate Tripla Ação Menta Original 90g",
+   "b": "Creme Dental Colgate Tripla Ação Menta Original/Hortelã Tubo 90g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Texas Burger Seara Congelado Misto Caixeta com 36x56g",
+   "b": "Hambúrguer Texas Burger Congelado Seara Caixeta com 36x56g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chã de Fora Resf kg",
+   "b": "Cha De Fora Resfriada Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Becker Vulcan 2,7L",
+   "b": "Lava Roupas Líquido Becker Vulcan 2,7L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito Frango Bom Todo 1kg Cong BD",
+   "b": "Peito de Frango Bom Todo 1kg Congelado BDJ",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite De Oliva Extra Virgem Sacciali Vidro 500ml",
+   "b": "Azeite de Oliva Extravirgem Andorinha Vidro 500ml",
+   "veredito": "diferente"
+  }
+ ]
+}

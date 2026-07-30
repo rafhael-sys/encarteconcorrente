@@ -1,0 +1,15 @@
+{"resultados": [
+ {"k": "lava roupas liquido omo refil com 900ml || lava-roupas liquido omo refil pct 900ml", "veredito": "incerto"},
+ {"k": "suco de uva integral oq garrafa 1,5l || suco de uva integral oq gfa 1,5l", "veredito": "mesmo"},
+ {"k": "cebola nacional || cebola nacional kg", "veredito": "mesmo"},
+ {"k": "desodorante aerossol dove fragrancias frasco 200ml || desodorante aerossol dove varias fragrancias frasco com 200ml", "veredito": "incerto"},
+ {"k": "carne cha de fora resfriada kg || cha de fora resfriada kg", "veredito": "mesmo"},
+ {"k": "creme dental colgate tripla acao menta original 90g || creme dental colgate tripla acao menta original/hortela tubo 90g", "veredito": "mesmo"},
+ {"k": "hamburguer texas burger congelado seara caixeta com 36x56g || hamburguer texas burger seara congelado misto caixeta com 36x56g", "veredito": "mesmo"},
+ {"k": "cha de fora resf kg || cha de fora resfriada kg", "veredito": "mesmo"},
+ {"k": "lava roupas becker vulcan 2,7l || lava roupas liquido becker vulcan 2,7l", "veredito": "mesmo"},
+ {"k": "capa de file bovino resfriada a vacuo || capa de file bovino resfriada a vacuo masterboi", "veredito": "incerto"},
+ {"k": "peito de frango bom todo 1kg congelado bdj || peito frango bom todo 1kg cong bd", "veredito": "mesmo"},
+ {"k": "azeite de oliva extra virgem sacciali vidro 500ml || azeite de oliva extravirgem andorinha vidro 500ml", "veredito": "diferente"},
+ {"k": "coxa sobrecoxa lar kg com dorsal || coxa/sobrecoxa com dorsal", "veredito": "incerto"}
+]}

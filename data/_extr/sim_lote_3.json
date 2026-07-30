@@ -1,0 +1,327 @@
+[
+ {
+  "k": "queijo tipo mussarela sertao jucurutu || queijo tipo mussarela sertao jucurutu kg",
+  "a": "Queijo Tipo Mussarela Sertão Jucurutu kg",
+  "b": "Queijo tipo Mussarela Sertão Jucurutu",
+  "foto_a": {
+   "imagem": "data/pages/assai_168019-572_p1.jpg",
+   "nome_impresso": "Queijo Tipo Mussarela Sertão Jucurutu kg",
+   "regiao_pct": {
+    "x": 2,
+    "y": 56,
+    "w": 15,
+    "h": 14
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_168663-572_p2.jpg",
+   "nome_impresso": "Queijo tipo Mussarela Sertão Jucurutu",
+   "regiao_pct": {
+    "x": 13,
+    "y": 13,
+    "w": 15,
+    "h": 18
+   }
+  }
+ },
+ {
+  "k": "aranha bovina congelada a vacuo masterboi || bananinha bovina congelada a vacuo masterboi",
+  "a": "Bananinha Bovina Congelada a Vácuo Masterboi",
+  "b": "Aranha Bovina Congelada a Vácuo Masterboi",
+  "foto_a": {
+   "imagem": "data/pages/assai_168093-572_p2.jpg",
+   "nome_impresso": "Bananinha Bovina Congelada a Vácuo Masterboi",
+   "regiao_pct": {
+    "x": 77.0,
+    "y": 47.5,
+    "w": 20.0,
+    "h": 18.0
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_168666-572_p2.jpg",
+   "nome_impresso": "Aranha Bovina Congelada a Vácuo Masterboi",
+   "regiao_pct": {
+    "x": 30,
+    "y": 43,
+    "w": 16,
+    "h": 18
+   }
+  }
+ },
+ {
+  "k": "linguica calabresa sadia || linguica calabresa saudali",
+  "a": "Linguiça Calabresa Sadia",
+  "b": "Linguiça Calabresa Saudali",
+  "foto_a": {
+   "imagem": "data/pages/mv_julho_p3.jpg",
+   "nome_impresso": "Linguiça Calabresa Sadia",
+   "regiao_pct": {
+    "x": 60.0,
+    "y": 40.5,
+    "w": 19.5,
+    "h": 19.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/nosso_922f839791_p1.jpg",
+   "nome_impresso": "Linguiça Calabresa Saudali",
+   "regiao_pct": {
+    "x": 61,
+    "y": 35,
+    "w": 17,
+    "h": 9
+   }
+  }
+ },
+ {
+  "k": "morango bdj 200g || morango cb 200g",
+  "a": "Morango cb 200g",
+  "b": "Morango BDJ 200g",
+  "foto_a": {
+   "imagem": "data/pages/DbWdKPkGD7-_p1.jpg",
+   "nome_impresso": "Morango cb 200g",
+   "regiao_pct": {
+    "x": 79,
+    "y": 62,
+    "w": 17,
+    "h": 14
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_cortefacil.atacarejo_3951806577309056297.jpg",
+   "nome_impresso": "Morango BDJ 200g",
+   "regiao_pct": {
+    "x": 10,
+    "y": 70,
+    "w": 42,
+    "h": 18
+   }
+  }
+ },
+ {
+  "k": "morango bandeja 200g || morango bdj 200g",
+  "a": "Morango Bandeja 200g",
+  "b": "Morango BDJ 200g",
+  "foto_a": {
+   "imagem": "data/pages/DbWoWs1mg-4_p3.jpg",
+   "nome_impresso": "Morango Bandeja 200g",
+   "regiao_pct": {
+    "x": 10,
+    "y": 58,
+    "w": 40,
+    "h": 22
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_cortefacil.atacarejo_3951806577309056297.jpg",
+   "nome_impresso": "Morango BDJ 200g",
+   "regiao_pct": {
+    "x": 10,
+    "y": 70,
+    "w": 42,
+    "h": 18
+   }
+  }
+ },
+ {
+  "k": "azeitona verde rivoli fatiada ou sem caroco sache 150g || azeitona verde rivoli sem caroco sache 150g",
+  "a": "Azeitona Verde Rivoli Fatiada ou Sem Caroço Sachê 150g",
+  "b": "Azeitona Verde Rivoli Sem Caroço Sachê 150g",
+  "foto_a": {
+   "imagem": "data/pages/DbW5Ilgmzex_p7.jpg",
+   "nome_impresso": "Azeitona Verde Rivoli Fatiada ou Sem Caroço Sachê 150g",
+   "regiao_pct": {
+    "x": 17,
+    "y": 30,
+    "w": 58,
+    "h": 52
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_queirozatacadaonatal__3951240746560256967.jpg",
+   "nome_impresso": "Azeitona Verde Rivoli Sem Caroço Sachê 150g",
+   "regiao_pct": {
+    "x": 8,
+    "y": 48,
+    "w": 82,
+    "h": 40
+   }
+  }
+ },
+ {
+  "k": "carne bovina posta gorda c/ osso kg || carne bovina posta gorda kg",
+  "a": "Carne Bovina Posta Gorda c/ Osso kg",
+  "b": "Carne Bovina Posta Gorda Kg",
+  "foto_a": {
+   "imagem": "data/pages/Da6cHv5DVXR_p1.jpg",
+   "nome_impresso": "Carne Bovina Posta Gorda c/ Osso kg",
+   "regiao_pct": {
+    "x": 50,
+    "y": 36,
+    "w": 23,
+    "h": 17
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbUEf7Djik8_p1.jpg",
+   "nome_impresso": "Carne Bovina Posta Gorda Kg",
+   "regiao_pct": {
+    "x": 76,
+    "y": 78,
+    "w": 22,
+    "h": 14
+   }
+  }
+ },
+ {
+  "k": "file de peito de frango ave nova congelado || file de peito de frango envelopado congelado",
+  "a": "Filé de Peito de Frango Ave Nova Congelado",
+  "b": "Filé de Peito de Frango Envelopado Congelado",
+  "foto_a": {
+   "imagem": "data/pages/Da0xXaTmI0D_p2.jpg",
+   "nome_impresso": "Filé de Peito de Frango Ave Nova Congelado",
+   "regiao_pct": {
+    "x": 52,
+    "y": 54,
+    "w": 22,
+    "h": 19
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_favoritosuper_3951237573750542309.jpg",
+   "nome_impresso": "Filé de Peito de Frango Envelopado Congelado",
+   "regiao_pct": {
+    "x": 27,
+    "y": 8,
+    "w": 68,
+    "h": 52
+   }
+  }
+ },
+ {
+  "k": "enxaguante bucal colgate l750ml p500ml plax fresh mint || enxaguante bucal colgate plax 750ml paga 500ml fresh mint",
+  "a": "Enxaguante Bucal Colgate L750ml P500ml Plax Fresh Mint",
+  "b": "Enxaguante Bucal Colgate Plax 750ml Paga 500ml Fresh Mint",
+  "foto_a": {
+   "imagem": "data/pages/DbE_K9DDHaM_p4.jpg",
+   "nome_impresso": "Enxaguante Bucal Colgate L750ml P500ml Plax Fresh Mint",
+   "regiao_pct": {
+    "x": 45,
+    "y": 24,
+    "w": 15,
+    "h": 8
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_favoritosuper_3951174384912053950.jpg",
+   "nome_impresso": "Enxaguante Bucal Colgate Plax 750ml Paga 500ml Fresh Mint",
+   "regiao_pct": {
+    "x": 21,
+    "y": 25,
+    "w": 18,
+    "h": 7
+   }
+  }
+ },
+ {
+  "k": "sabonete liquido becker 1l || sabonete liquido becker 1l flores",
+  "a": "Sabonete Líquido Becker 1L",
+  "b": "Sabonete Liquido Becker 1L Flores",
+  "foto_a": {
+   "imagem": "data/pages/Daba-Qylsw5_p1.jpg",
+   "nome_impresso": "Sabonete Líquido Becker 1L",
+   "regiao_pct": {
+    "x": 79.3,
+    "y": 85.0,
+    "w": 12.8,
+    "h": 13.0
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_favoritosuper_3950456036951627545.jpg",
+   "nome_impresso": "Sabonete Liquido Becker 1L Flores",
+   "regiao_pct": {
+    "x": 68,
+    "y": 54,
+    "w": 13,
+    "h": 8
+   }
+  }
+ },
+ {
+  "k": "file de peito de frango resfriado || file de peito de frango resfriado bom todo",
+  "a": "Filé de Peito de Frango Resfriado",
+  "b": "Filé de Peito de Frango Resfriado Bom Todo",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_cb8d108830_p1.jpg",
+   "nome_impresso": "Filé de Peito de Frango Resfriado",
+   "regiao_pct": {
+    "x": 3,
+    "y": 34,
+    "w": 29,
+    "h": 19
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_168666-572_p2.jpg",
+   "nome_impresso": "Filé de Peito de Frango Resfriado Bom Todo",
+   "regiao_pct": {
+    "x": 84,
+    "y": 84,
+    "w": 16,
+    "h": 16
+   }
+  }
+ },
+ {
+  "k": "papel higienico felita care folha dupla 20m c/12 || papel higienico floral folha dupla 20m c/12",
+  "a": "Papel Higiênico Felitá Care Folha Dupla 20m C/12",
+  "b": "Papel Higiênico Floral Folha Dupla 20m c/12",
+  "foto_a": {
+   "imagem": "data/pages/Dav8JLDj6UF_p1.jpg",
+   "nome_impresso": "Papel Higiênico Felitá Care Folha Dupla 20m C/12",
+   "regiao_pct": {
+    "x": 73,
+    "y": 80,
+    "w": 22,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbWq3ekgbFT_p1.jpg",
+   "nome_impresso": "Papel Higiênico Floral Folha Dupla 20m c/12",
+   "regiao_pct": {
+    "x": 80,
+    "y": 88,
+    "w": 18,
+    "h": 12
+   }
+  }
+ },
+ {
+  "k": "manteiga ipanema com sal 500g || manteiga itambe com sal 500g",
+  "a": "Manteiga Itambé com Sal 500g",
+  "b": "Manteiga Ipanema com Sal 500g",
+  "foto_a": {
+   "imagem": "data/pages/DaeB9vmm3nS_p2.jpg",
+   "nome_impresso": "Manteiga Itambé com Sal 500g",
+   "regiao_pct": {
+    "x": 4,
+    "y": 25,
+    "w": 92,
+    "h": 62
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_miramarsupermercado_3950816322779365918.jpg",
+   "nome_impresso": "Manteiga Ipanema com Sal 500g",
+   "regiao_pct": {
+    "x": 6,
+    "y": 69,
+    "w": 45,
+    "h": 20
+   }
+  }
+ }
+]

@@ -1,0 +1,49 @@
+{
+ "id": "DbYbtIgFhdW",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-29", "fim": "2026-07-30"},
+ "paginas": {
+  "DbYbtIgFhdW_p1": [
+   {"n":"Filé de Peito de Frango Jaguá Congelado", "p":"13,98", "u":"kg", "x":13, "y":29, "w":75, "h":58}
+  ],
+  "DbYbtIgFhdW_p2": [
+   {"n":"Linguiça Calabresa Sadia", "p":"19,98", "u":"kg", "x":15, "y":30, "w":72, "h":56}
+  ],
+  "DbYbtIgFhdW_p3": [
+   {"n":"Óleo de Soja ABC 900ml", "p":"6,79", "u":"un", "x":15, "y":30, "w":72, "h":56}
+  ],
+  "DbYbtIgFhdW_p4": [
+   {"n":"Arroz Branco São Joaquim 1kg", "p":"3,98", "u":"un", "x":15, "y":30, "w":72, "h":56}
+  ],
+  "DbYbtIgFhdW_p5": [
+   {"n":"Feijão Preto Clebom 1kg", "p":"5,98", "u":"un", "x":12, "y":30, "w":75, "h":56}
+  ],
+  "DbYbtIgFhdW_p6": [
+   {"n":"Leite Betânia Integral UHT 1L", "p":"5,49", "u":"un", "x":18, "y":30, "w":68, "h":56}
+  ],
+  "DbYbtIgFhdW_p7": [
+   {"n":"Leite Condensado Italac Semidesnatado 395g", "p":"5,49", "u":"un", "x":18, "y":30, "w":68, "h":54}
+  ],
+  "DbYbtIgFhdW_p8": [
+   {"n":"Cerveja Devassa Puro Malte Lata 350ml Caixa c/12", "p":"30,60", "u":"cx/12", "x":18, "y":33, "w":68, "h":52}
+  ],
+  "DbYbtIgFhdW_p9": [
+   {"n":"Conhaque Dreher 900ml", "p":"17,69", "u":"un", "x":22, "y":30, "w":62, "h":56}
+  ],
+  "DbYbtIgFhdW_p10": [
+   {"n":"Ventilador Cadence Turbo 40cm", "p":"129,90", "u":"un", "x":10, "y":34, "w":80, "h":52}
+  ],
+  "DbYbtIgFhdW_p11": [
+   {"n":"Cafeteira Três Corações", "p":"299,90", "u":"un", "x":15, "y":30, "w":70, "h":58}
+  ],
+  "DbYbtIgFhdW_p12": [
+   {"n":"Sabão em Pó Sonho Multiação 400g", "p":"2,39", "u":"un", "x":18, "y":34, "w":65, "h":52}
+  ],
+  "DbYbtIgFhdW_p13": [
+   {"n":"Amaciante de Roupas Comfort Concentrado 500ml", "p":"7,99", "u":"un", "x":20, "y":34, "w":65, "h":52}
+  ],
+  "DbYbtIgFhdW_p14": [
+   {"n":"Papel Higiênico Fofex Folha Dupla c/12", "p":"8,98", "u":"pacote", "x":10, "y":30, "w":80, "h":56}
+  ]
+ }
+}

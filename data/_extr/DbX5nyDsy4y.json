@@ -1,0 +1,22 @@
+{
+ "id": "DbX5nyDsy4y",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-29", "fim": "2026-07-31"},
+ "paginas": {
+  "DbX5nyDsy4y_p1": [
+   {"n":"Abacaxi Unidade","p":"3,98","u":"un","x":2,"y":39,"w":21,"h":18},
+   {"n":"Batata Inglesa kg","p":"3,79","u":"kg","x":27,"y":39,"w":21,"h":18},
+   {"n":"Brócolis Reis Fruit 300g","p":"5,99","u":"bandeja","x":52,"y":39,"w":21,"h":18},
+   {"n":"Laranja Pêra kg","p":"1,59","u":"kg","x":77,"y":39,"w":21,"h":18},
+   {"n":"Abacate kg","p":"3,69","u":"kg","x":2,"y":57,"w":21,"h":18},
+   {"n":"Banana Pacovan kg","p":"3,69","u":"kg","x":27,"y":57,"w":21,"h":18},
+   {"n":"Banana Prata kg","p":"3,69","u":"kg","x":52,"y":57,"w":21,"h":18},
+   {"n":"Cebola Branca kg","p":"4,49","u":"kg","x":77,"y":57,"w":21,"h":18},
+   {"n":"Cenoura kg","p":"4,89","u":"kg","x":1,"y":76,"w":18,"h":21},
+   {"n":"Goiaba kg","p":"3,98","u":"kg","x":21,"y":76,"w":18,"h":21},
+   {"n":"Pêra kg","p":"11,98","u":"kg","x":41,"y":76,"w":18,"h":21},
+   {"n":"Tomate Extra kg","p":"2,79","u":"kg","x":61,"y":76,"w":18,"h":21},
+   {"n":"Sacola Retornável","p":"5,89","u":"un","x":81,"y":76,"w":18,"h":21}
+  ]
+ }
+}

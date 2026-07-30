@@ -1,0 +1,58 @@
+{
+ "id": "DbY0w1mFW_g",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-29", "fim": "2026-08-01"},
+ "paginas": {
+  "DbY0w1mFW_g_p1": [
+   {"n":"Ovos Brancos Grandes Almeida Bandeja C/30 Unidades","p":"12,99","u":"cliente cadastrado","x":5,"y":2,"w":90,"h":55}
+  ],
+  "DbY0w1mFW_g_p2": [
+   {"n":"Fralda Turma da Mônica Baby Short Jumbo (Tamanhos)","p":"23,99","u":"cliente cadastrado","x":25,"y":58,"w":55,"h":38}
+  ],
+  "DbY0w1mFW_g_p3": [
+   {"n":"Leite em Pó Integral Bom Gosto 700g","p":"19,99","u":"cliente cadastrado","x":25,"y":60,"w":55,"h":35}
+  ],
+  "DbY0w1mFW_g_p4": [
+   {"n":"Lava Roupas Líquido Tanlux Ação Total Comfort Blue 3L","p":"9,99","u":"cliente cadastrado","x":15,"y":58,"w":70,"h":38}
+  ],
+  "DbY0w1mFW_g_p5": [
+   {"n":"Óleo de Soja Liza 900ml","p":"6,99","u":"cliente cadastrado","x":10,"y":58,"w":80,"h":38}
+  ],
+  "DbY0w1mFW_g_p6": [
+   {"n":"Pão de Forma Visconti Tradicional 400g","p":"5,49","u":"cliente cadastrado","x":30,"y":73,"w":60,"h":25}
+  ],
+  "DbY0w1mFW_g_p7": [
+   {"n":"Coxa com Sobrecoxa de Frango com Dorsal kg","p":"6,99","u":"kg","x":5,"y":5,"w":55,"h":45}
+  ],
+  "DbY0w1mFW_g_p8": [
+   {"n":"Filé de Peito de Frango Congelado Envelopado kg","p":"13,99","u":"kg","x":35,"y":2,"w":55,"h":45}
+  ],
+  "DbY0w1mFW_g_p9": [
+   {"n":"Batata Pré-Frita Prime Fries Tradicional Congelada 2kg","p":"16,99","u":"cliente cadastrado","x":15,"y":66,"w":70,"h":30}
+  ],
+  "DbY0w1mFW_g_p10": [
+   {"n":"Sorvete Ster Bom Dueto 1L (Sabores)","p":"12,49","u":"cliente cadastrado","x":8,"y":60,"w":88,"h":38}
+  ],
+  "DbY0w1mFW_g_p11": [
+   {"n":"Filezinho de Frango Sassami Aurora Bandeja 1kg","p":"17,99","u":"cliente cadastrado","x":15,"y":53,"w":65,"h":32}
+  ],
+  "DbY0w1mFW_g_p12": [
+   {"n":"Bisteca Suína kg","p":"14,99","u":"kg","x":10,"y":56,"w":80,"h":40}
+  ],
+  "DbY0w1mFW_g_p13": [
+   {"n":"Arroz Tio Manoel Parboilizado 1kg","p":"2,99","u":"cliente cadastrado","x":5,"y":66,"w":65,"h":30}
+  ],
+  "DbY0w1mFW_g_p14": [
+   {"n":"Feijão Preto DuBom 1kg","p":"5,99","u":"cliente cadastrado","x":25,"y":66,"w":75,"h":30}
+  ],
+  "DbY0w1mFW_g_p15": [
+   {"n":"Goma de Tapioca Dona Deta 800g","p":"3,39","u":"cliente cadastrado","x":15,"y":46,"w":70,"h":30}
+  ],
+  "DbY0w1mFW_g_p16": [
+   {"n":"Café Santa Clara Extraforte 250g (Almofada a Vácuo)","p":"11,99","u":"cliente cadastrado","x":5,"y":56,"w":85,"h":38}
+  ],
+  "DbY0w1mFW_g_p17": [
+   {"n":"Biscoito Cream Cracker Marilan Premium 300g","p":"3,79","u":"cliente cadastrado","x":35,"y":66,"w":60,"h":30}
+  ]
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "id": "story_redesuper.show_20260729",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-29", "fim": "2026-08-01"},
+ "paginas": {
+  "story_redesuper.show_3952022943310628597": [
+   {"n":"Leite em Pó Bom Gosto 700g (Integral)","p":"19,99","u":"cada","x":2,"y":24,"w":18,"h":16},
+   {"n":"Batata Pré-Frita Prime Fries 2kg (Congelada - Tradicional)","p":"16,99","u":"cada","x":20,"y":24,"w":18,"h":16},
+   {"n":"Filé de Peito de Frango (Congelado - Envelopado)","p":"13,99","u":"kg","x":39,"y":24,"w":19,"h":16},
+   {"n":"Ovo Branco Grande Granja Almeida C/30 (Bandeja)","p":"12,99","u":"cada","x":59,"y":24,"w":19,"h":16},
+   {"n":"Carne Bovina Chã de Fora (Resfriada)","p":"34,99","u":"kg","x":80,"y":24,"w":19,"h":16},
+   {"n":"Açúcar Alegre 1kg (Triturado/Cristal)","p":"2,69","u":"cada","x":2,"y":44,"w":30,"h":11},
+   {"n":"Massa Yara 400g (Espaguete)","p":"1,79","u":"cada","x":35,"y":44,"w":30,"h":11},
+   {"n":"Margarina Deline 500g (Com Sal)","p":"3,99","u":"cada","x":68,"y":44,"w":30,"h":11},
+   {"n":"Coxa com Sobrecoxa de Frango (Com Dorsal)","p":"6,99","u":"kg","x":2,"y":57,"w":30,"h":11},
+   {"n":"Óleo de Soja Liza 900ml","p":"6,99","u":"cada","x":35,"y":57,"w":30,"h":11},
+   {"n":"Arroz Tio Manoel 1kg (Parboilizado/Branco)","p":"2,99","u":"cada","x":68,"y":57,"w":30,"h":11},
+   {"n":"Lava Roupas Líquido Tanlux 3L (Comfort Blue)","p":"9,99","u":"cada","x":10,"y":69,"w":38,"h":11},
+   {"n":"Fraldas Descartáveis Turma da Mônica Short Jumbo (Tamanhos)","p":"23,99","u":"cada","x":52,"y":69,"w":38,"h":11}
+  ],
+  "story_redesuper.show_3952022945340674799": [
+   {"n":"Filezinho de Frango Sassami Aurora 1Kg (Bandeja)","p":"17,99","u":"cada","x":2,"y":23,"w":30,"h":17},
+   {"n":"Linguiça Aurora (Churrasco/Frango)","p":"16,99","u":"kg","x":34,"y":23,"w":30,"h":17},
+   {"n":"Salsicha Hot-Dog Bom Todo","p":"6,99","u":"kg","x":66,"y":23,"w":32,"h":17},
+   {"n":"Peito de Frango (Envelopado)","p":"9,99","u":"kg","x":2,"y":42,"w":30,"h":15},
+   {"n":"Bisteca Suína","p":"14,99","u":"kg","x":34,"y":42,"w":30,"h":15},
+   {"n":"Costela Suína Sadia","p":"19,99","u":"kg","x":66,"y":42,"w":32,"h":15},
+   {"n":"Café Santa Clara 250g (Extraforte - Almofada/A Vácuo)","p":"11,99","u":"cada","x":2,"y":58,"w":30,"h":15},
+   {"n":"Feijão Precioso 1kg (Carioca)","p":"7,99","u":"cada","x":34,"y":58,"w":30,"h":15},
+   {"n":"Feijão DuBom 1kg (Preto)","p":"5,99","u":"cada","x":66,"y":58,"w":32,"h":15}
+  ],
+  "story_redesuper.show_3952022944124250713": [
+   {"n":"Goma para Tapioca Dona Deta 800g","p":"3,39","u":"cada","x":2,"y":20,"w":30,"h":15},
+   {"n":"Molho de Tomate Sadio 300g (Sachê - Tradicional/Pizza/Manjericão)","p":"1,39","u":"cada","x":34,"y":20,"w":30,"h":15},
+   {"n":"Biscoito Cream Cracker Marilan 300g (Premium)","p":"3,79","u":"cada","x":66,"y":20,"w":32,"h":15},
+   {"n":"Pão de Forma Visconti 400g (Tradicional)","p":"5,49","u":"cada","x":5,"y":38,"w":40,"h":13},
+   {"n":"Sorvete Dueto Ster Bom 1L (Sabores)","p":"12,49","u":"cada","x":52,"y":38,"w":40,"h":13},
+   {"n":"Desodorante Aerossol Dove 150ml (Fragrâncias)","p":"14,99","u":"cada","x":5,"y":53,"w":40,"h":13},
+   {"n":"Água Sanitária Dragão 1L","p":"1,89","u":"cada","x":52,"y":53,"w":40,"h":13}
+  ],
+  "story_redesuper.show_3952114187576483216": [
+   {"n":"Lasanha Aurora 600g (Congelada - Sabores)","p":"13,99","u":"cada","x":5,"y":35,"w":90,"h":55}
+  ],
+  "story_redesuper.show_3952181518978190637": [
+   {"n":"Batata Pré-Frita Prime Fries 2kg (Congelada - Tradicional)","p":"16,99","u":"cada","x":15,"y":38,"w":70,"h":30}
+  ],
+  "story_redesuper.show_3952181571163778271": [
+   {"n":"Ovo Branco Grande Granja Almeida C/30 (Bandeja)","p":"12,99","u":"cada","x":10,"y":5,"w":80,"h":25}
+  ],
+  "story_redesuper.show_3952181609810048263": [
+   {"n":"Leite em Pó Bom Gosto 700g (Integral)","p":"19,99","u":"cada","x":15,"y":68,"w":70,"h":25}
+  ],
+  "story_redesuper.show_3952181761177192666": [
+   {"n":"Óleo de Soja Liza 900ml","p":"6,99","u":"cada","x":2,"y":30,"w":45,"h":16},
+   {"n":"Goma para Tapioca Dona Deta 800g","p":"3,39","u":"cada","x":52,"y":24,"w":45,"h":16},
+   {"n":"Feijão DuBom 1kg (Preto)","p":"5,99","u":"cada","x":2,"y":78,"w":45,"h":16},
+   {"n":"Café Santa Clara 250g (Extraforte - Almofada/A Vácuo)","p":"11,99","u":"cada","x":52,"y":75,"w":45,"h":16}
+  ],
+  "story_redesuper.show_3952181853524320601": [
+   {"n":"Fraldas Descartáveis Turma da Mônica Short Jumbo (Tamanhos)","p":"23,99","u":"cada","x":10,"y":68,"w":75,"h":25}
+  ],
+  "story_redesuper.show_3952181925023366359": [
+   {"n":"Bisteca Suína","p":"14,99","u":"kg","x":2,"y":35,"w":45,"h":15},
+   {"n":"Arroz Tio Manoel 1kg (Parboilizado/Branco)","p":"2,99","u":"cada","x":52,"y":48,"w":45,"h":15},
+   {"n":"Filezinho de Frango Sassami Aurora 1Kg (Bandeja)","p":"17,99","u":"cada","x":2,"y":82,"w":45,"h":15},
+   {"n":"Sorvete Dueto Ster Bom 1L (Sabores)","p":"12,49","u":"cada","x":52,"y":82,"w":45,"h":15}
+  ],
+  "story_redesuper.show_3952198364774138302": [
+   {"n":"Fraldas Descartáveis Turma da Mônica Short Jumbo (Tamanhos)","p":"23,99","u":"cada","x":2,"y":23,"w":45,"h":19},
+   {"n":"Lava Roupas Líquido Tanlux 3L (Comfort Blue)","p":"9,99","u":"cada","x":52,"y":23,"w":45,"h":19},
+   {"n":"Filezinho de Frango Sassami Aurora 1Kg (Bandeja)","p":"17,99","u":"cada","x":2,"y":44,"w":45,"h":19},
+   {"n":"Linguiça Aurora (Churrasco/Frango)","p":"16,99","u":"kg","x":52,"y":44,"w":45,"h":19},
+   {"n":"Salsicha Hot-Dog Bom Todo","p":"6,99","u":"kg","x":2,"y":65,"w":45,"h":19},
+   {"n":"Bisteca Suína","p":"14,99","u":"kg","x":52,"y":65,"w":45,"h":19}
+  ],
+  "story_redesuper.show_3952203861624597939": [
+   {"n":"Ovo Branco Grande Granja Almeida C/30 (Bandeja)","p":"12,99","u":"cada","x":15,"y":25,"w":60,"h":15}
+  ]
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "story_atacarejo_santoantonio.ofc_20260729",
+ "classificacao": "encarte",
+ "periodo_impresso": {"inicio": "2026-07-29", "fim": "2026-07-30"},
+ "paginas": {
+   "story_atacarejo_santoantonio.ofc_3951881111256209650": [
+     {"n":"Abacate kg","p":"3,98","u":"kg","x":10,"y":36,"w":19,"h":12},
+     {"n":"Maçã Nacional kg","p":"7,49","u":"kg","x":30,"y":36,"w":19,"h":12},
+     {"n":"Uva Vitória Sem Sementes","p":"4,98","u":"bandeja","x":49,"y":36,"w":19,"h":12},
+     {"n":"Tangerina Importada kg","p":"8,49","u":"kg","x":68,"y":36,"w":18,"h":12},
+     {"n":"Abacaxi kg","p":"3,98","u":"kg","x":10,"y":48,"w":19,"h":12},
+     {"n":"Laranja Pêra kg","p":"1,49","u":"kg","x":30,"y":48,"w":19,"h":12},
+     {"n":"Banana Prata ou Pacovan kg","p":"3,98","u":"kg","x":49,"y":48,"w":19,"h":12},
+     {"n":"Morango Bandeja 200g","p":"5,98","u":"bandeja","x":68,"y":48,"w":18,"h":12},
+     {"n":"Tomate kg","p":"2,00","u":"kg","x":10,"y":60,"w":19,"h":12},
+     {"n":"Cebola Branca kg","p":"3,75","u":"kg","x":30,"y":60,"w":19,"h":12},
+     {"n":"Cenoura kg","p":"4,25","u":"kg","x":49,"y":60,"w":19,"h":12},
+     {"n":"Batata Inglesa kg","p":"3,20","u":"kg","x":68,"y":60,"w":18,"h":12}
+   ],
+   "story_atacarejo_santoantonio.ofc_3952030651414222946": [
+     {"n":"Filé de Peito de Frango Sem Osso Jaguá pacote kg","p":"13,98","u":"kg","x":8,"y":48,"w":85,"h":42}
+   ]
+ }
+}
