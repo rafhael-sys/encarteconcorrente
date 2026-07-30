@@ -1441,3 +1441,68 @@
 - MESMO: «Uva Verde Cappelado Kids CB 250g» == «Uva Verde Cappellaro Kids cb 250g»
 - MESMO: «Uva Vitória Frazão BDJ 500g» == «Uva Vitória Frazão Bandeja 500g»
 - MESMO: «Xicara Cha Alleanza c/ Pires» == «Xícara de Chá Alleanza c/Pires»
+- MESMO: «Abobrinha, Pepino ou Berinjela» == «Abobrinha, Pepino ou Berinjela kg»
+- MESMO: «Absorvente Sempre Livre Adapt 8 Abas c/8 Suave» == «Absorvente Sempre Livre Adapt sem Abas c/8 Suave»
+- MESMO: «Absorvente Sempre Livre Adapt c/8 Suave» == «Absorvente Sempre Livre Adapt com 8 Suave»
+- MESMO: «Água Mineral Sterbom Garrafa 510ml S/Gas» == «Água Mineral Sterbom GF 510ml S/Gás»
+- MESMO: «Alho Leal Sabor Pasta Tudo Triturados S/Sal 200g» == «Alho Leal Sabor Pasta ou Triturados s/Sal 200g»
+- MESMO: «Aparelho de Barbear Bic Comfort 3 Normal» == «Aparelho de Barbear Bic Confort 3 Normal»
+- MESMO: «ARROZ PARBOILIZADO TIO MANOEL 1KG» == «Arroz Parbolizado Tio Manoel 1kg»
+- MESMO: «Batata Pré-frita Easy Chef Congelada 2kg» == «Batata Pré-frita EasyChef Congelada 2kg»
+- MESMO: «Batata Pringles 104g/105g/109g» == «Batata Pringles 104g, 105g ou 109g»
+- MESMO: «Biscoito Cookies Vitarella SH 80g Sabores» == «Biscoito Cookies Vitarella 8h 80g (Sabores)»
+- MESMO: «Bisteca Pernil Suíno Congelado KG» == «Bisteca de Pernil Suíno Congelado kg»
+- MESMO: «Bombons Sortidos Garoto 220g» == «Bombons Sortidos Garoto cx 220g»
+- MESMO: «Café União Tradicional/Extra Forte 250g Pouch» == «Café União Tradicional ou Extra Forte 250g Pouch»
+- MESMO: «Capa Contra Filé Valencio Kg» == «Capa de Contra Filé Valencio kg»
+- MESMO: «Carne Bovina Coxão Duro» == «Carne Bovina Coxão Duro kg»
+- MESMO: «Cereal Matinal Nestlé Nescau Ball SCH 120g» == «Cereal Matinal Nestlé Nescau Ball Sachê 120g»
+- MESMO: «Cereal Matinal Sucrilhos 240g/200g» == «Cereal Matinal Sucrilhos 240g ou 200g»
+- MESMO: «Cerv Amstel Ultra Lata 269ml s/Glúten» == «Cerveja Amstel Ultra Lata 269ml s/Glúten»
+- MESMO: «Chips Batata Doce da Rosa 70g ou Chips Macaxeira da Rosa 70g» == «Chips de Batata Doce da Rosa 70g ou Chips de Macaxeira da Rosa 70g»
+- MESMO: «Chocolate Barra Choco Fun 80g» == «Chocolate em Barra Choco Fun 80g»
+- MESMO: «Condicionador Johnsons Baby 200ml» == «Condicionador Johnson's Baby 200ml»
+- MESMO: «Contra Filé Bovino Resfriado» == «Contra Filé Bovino Resfriado kg»
+- MESMO: «Coxa com Sobrecoxa de Frango com Dorsal» == «Coxa com Sobrecoxa de Frango com Dorsal kg»
+- DIFERENTES: «Coxas de Frango Sadia Congeladas IQF pct ou bd 1kg» != «Sobrecoxas de Frango Sadia Congeladas IQF pct ou bdj 1kg»
+- MESMO: «Coxas e Sobrecoxas de Frango Guibon Dorsal Congelado» == «Coxas e Sobrecoxas de Frango Guibon com Dorsal Congelado»
+- MESMO: «Creme de Leite Italac 200g» == «Creme de Leite Italac cx 200g»
+- MESMO: «CREME DE LEITE UHT LEITBOM TP 200G» == «Creme de Leite UHT LeitBom 200g»
+- MESMO: «Creme Dental Oral-B 4 em 1 e Extra Branco 180g» == «Creme Dental Oral-B 4 em 1 ou Extra Branco 180g»
+- MESMO: «Desodorante Antitranspirante Aerosol Suave 200ml» == «Desodorante Anti Transpirante Aerosol Suave 200ml L+P-»
+- MESMO: «Empanado Aurora Peito Frango 100g» == «Empanado Aurora Peito de Frango 100g»
+- MESMO: «Faqueiro Riviera Brinox 24pcs» == «Faqueiro Riviera Brinox 24 peças»
+- MESMO: «Filé de Peito Bom Todo 1kg Bandeja» == «Filé de Peito Bom Todo 1kg BDJ»
+- MESMO: «Filé de Peito de Frango Envelopado Congelado» == «Filé de Peito de Frango Envelopado Lar Congelado»
+- MESMO: «Filé de Peito de Frango Super Frango Congelado BDJ 1kg» == «Filé de Peito de Frango Super Frango Congelado 1kg»
+- MESMO: «Filé Peixe Tilápia Aurora 800g Congelado» == «Filé de Peixe Tilápia Aurora 800g Congelada»
+- MESMO: «File de Tilapia Aurora PC 800G» == «Filé de Tilápia Aurora 800g»
+- MESMO: «Filezinho Sassami de Frango Sadia Congelado pct ou bd 1kg» == «Filezinho Sassami de Frango Sadia Congelado pct ou bdj 1kg»
+- MESMO: «Fralda Turma da Mônica Baby Short Jumbo (Tamanhos)» == «Fralda Turma da Mônica Short Jumbo (Tamanhos)»
+- MESMO: «Frango a Passarinho Bomtodo 1kg Pct» == «Frango a Passarinho Bom Todo 1kg Pacote»
+- MESMO: «Frango Padaria Favorito» == «Frango Padaria Favorito kg»
+- MESMO: «Garrafa Squeeze Liv ou 700ml» == «Garrafa Squeeze Liv 700ml»
+- MESMO: «Goma De Mandioca Dona Deta Sc 800g» == «Goma de Mandioca Dona Deta 800g»
+- MESMO: «Inseticida Aerosol Raid 420ml Leve+ Pague-» == «Inseticida Aerosol Raid 420ml Lev+ Pag-»
+- MESMO: «Iogurte Danone 160g c/Proteína Morango» == «Iogurte Danone 160g com Proteína Morango»
+- MESMO: «Iogurte Integral CLAN com Geleia de Morango 130g» == «Iogurte Integral Clan Geleia de Morango 130g»
+- MESMO: «Lavanda Johnsons Baby Infantil 200ml» == «Lavanda Johnson's Baby Infantil 200ml»
+- MESMO: «Linguiça Calabresa Perdigão» == «Linguiça Calabresa Perdigão kg»
+- MESMO: «Maionese Hellmann's SH 200g» == «Maionese Hellmann's 200g»
+- MESMO: «Maionese Hellmanns 200g» == «Maionese Hellmann's 200g»
+- MESMO: «Meio da Asa Bom Todo Resfriado KG» == «Meio da Asa Bom Todo Resfriada kg»
+- MESMO: «Mortadela de Frango Friato KG» == «Mortadela de Frango Friato»
+- MESMO: «Odorizador Gota Galde 120ml Toque Maciez» == «Odorizador Gota Galde 120ml Toque de Maciez»
+- MESMO: «Ovo Branco Grande Enaves Bandeja c/30» == «Ovo Branco Grande Enavis Bandeja c/30»
+- MESMO: «Ovo Branco Tipo Grande bdj 30 unids» == «Ovo Branco Tipo Grande bdj com 30 unids»
+- MESMO: «Papel Higiênico Neve Folha Dupla 30 Metros Pct Leve 12 Pague 11» == «Papel Higiênico Neve Folha Dupla 30 Metros Leve 12 Pague 12»
+- MESMO: «Peito de Frango Real congelado» == «Peito de Frango Real Congelado kg»
+- MESMO: «Polpa Nordeste Fruit 1kg Goiaba, Caju ou Manga» == «Polpa Nordeste Fruit 1kg Goiaba/Caju/Manga»
+- MESMO: «Presunto de Peru Perdigao ou Sadia kg» == «Presunto de Peru Perdigão/Sadia kg»
+- MESMO: «Queijo Coalho Clan Tradicional kg» == «Queijo Coalho Clan Tradicional»
+- MESMO: «Sabonete Líquido Infantil Johnsons Baby 200ml» == «Sabonete Líquido Infantil Johnson's Baby 200ml»
+- MESMO: «Salgadinho Pippo's 75g» == «Salgadinhos Pippo's 75g»
+- MESMO: «Salgadinhos Pippos 75g» == «Salgadinhos Pippo's 75g»
+- MESMO: «Sobrecoxa Congelada Bom Todo 1kg Bandeja» == «Sobrecoxa Congelada Bom Todo 1kg BDJ»
+- MESMO: «Sobrecoxas de Frango Sadia Congeladas IQF pct ou bd 1kg» == «Sobrecoxas de Frango Sadia Congeladas IQF pct ou bdj 1kg»
+- MESMO: «Vinho Tinto Country Wine Seco ou Suave 750ml» == «Vinho Tinto Country Wine Seco ou Suave gfa 750ml»
