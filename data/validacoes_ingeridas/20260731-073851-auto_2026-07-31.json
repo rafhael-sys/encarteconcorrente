@@ -1,0 +1,314 @@
+{
+ "validacoes": [
+  {
+   "a": "Fralda Descartável Ultra Babysec Pacote/Tamanhos",
+   "b": "Fralda Descartável Ultra Baby Sec Pacote/Tamanhos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Texas Burger Seara Congelado Misto Caixeta com 36x56g",
+   "b": "Hambúrguer Texas Burger Seara Congelado Misto Caixeta 36x56g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Piracanjuba Peça ou Pedaço",
+   "b": "Queijo Mussarela Piracanjuba Peça ou Pedaço Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Personal Vip Folha Dupla Leve 12 Pague 11",
+   "b": "Papel Higiênico Personal Folha Dupla Leve 12 Pague 11",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó Chocolatto Caramelo Sachê 560g",
+   "b": "Achocolatado em Pó Chocolatto com Caramelo Sachê 560g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Quero Tradicional Pouch com 240g",
+   "b": "Molho de Tomate Quero Tradicional Pouch 240g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Fraldinha Congelado Seridoense 120g",
+   "b": "Hambúrguer Fraldinha Cong. Seridoense 120g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Lar Congelada kg",
+   "b": "Linguiça de Frango Avivar Congelada kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mamao Papaya Premium",
+   "b": "Mamão Papaya Premium kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Chã de Fora Resfriado Kg",
+   "b": "Carne Bovina Chã de Fora (Resfriada)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Whisky Black & White Gfa 1 Litro",
+   "b": "Whisky Black & White 1 Litro",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa e Sobrecoxa sem Dorsal kg",
+   "b": "Coxa Sobrecoxa s/Dorsal kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho Sassami Lar BDJ 1kg",
+   "b": "Filezinho Sassami Lar 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho Sassami Lar IQF 1kg",
+   "b": "Filezinho Sassami Lar 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado UHT Betânia Semidesnatado 395g",
+   "b": "Leite Condensado Betânia Semidesnatado cx 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha da Asa Seara IQF 1kg",
+   "b": "Coxinha da Asa Seara 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Chileno Pictor 750ml Cabernet Sauvignon Tto SC",
+   "b": "Vinho Chi Pictor 750ml Cabernet Sauvignon Tinto Seco",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerossol Monange Fragrâncias Frasco 150ml",
+   "b": "Desodorante Aerossol Above Fragrâncias Frasco 150ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Puro Malte Império Lager LN 275ml",
+   "b": "Cerveja Puro Malte Império Lager Long Neck 275ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salgado Coxinha de Frango DoTrigo + Suco",
+   "b": "Salgado Coxinha Frango Dotrigo+ Suco un",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Goma para Tapioca Delícia Potiguar 1kg",
+   "b": "Goma de Tapioca Delícia Potiguar 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Calabresa Perdigão ou Sadia kg",
+   "b": "Linguiça Calabresa Perdigão e Sadia",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga D'Nata com Sal Pote 500g",
+   "b": "Manteiga D'Nata com Sal 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Michelob Ultra Lata Sleek 350ml",
+   "b": "Cerveja Michelob Ultra Lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Floral Neutro Folha Dupla 12 Rolos 20m",
+   "b": "Papel Higiênico Atualle Neutro Folha Dupla 12 Rolos 20m",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovos Brancos Grandes Almeida Bandeja C/30 Unidades",
+   "b": "Ovos Brancos Grandes Granja Almeida Bandeja com 30 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Vitória Sem Semente Seleção Mimo Bandeja 400g",
+   "b": "Uva Verde sem Semente Seleção Mimo Bandeja 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava-Louças Limpol Fragrâncias Frasco 500ml",
+   "b": "Lava-Louças Ypê Fragrâncias Frasco 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Xicara Cha Alleanza c/ Pires",
+   "b": "Xícara de Chá Alleanza com Pires",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Jerimum de Leite Kg",
+   "b": "Jerimum Leite kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salg Pippos São Braz 75g Sabores",
+   "b": "Salgadinho Pippos São Braz 75g (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Doce Roxa",
+   "b": "Batata Doce Roxa kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Organizador de Ovos ou Clear Fresh 18u NT",
+   "b": "Organizador de Ovos ou Clear Fresh 18 Unidades NT",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica 2L (Tradicional)",
+   "b": "Refrigerante Guaraná Antarctica Pet 2L (Tradicional/Zero)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Caprice Folha Dupla 20m Leve 12 Pague 11",
+   "b": "Papel Higiênico Noble Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mop Jeitosa 8 Litros",
+   "b": "Mop Jeitosa Fit 8 litros",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Laranja Murcote",
+   "b": "Laranja Murcote kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fraldas Descartáveis Babysec Hiper Shortinho",
+   "b": "Fraldas Descartáveis Babysec Hiper Shortinho Tamanhos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Iogurte Nestlé Zero Sabores 1,15kg",
+   "b": "Iogurte Nestlé Triplo Zero Sabores 1,15kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerossol Monange Várias Fragrâncias Frasco com 150ml",
+   "b": "Desodorante Aerossol Monange Fragrâncias Frasco 150ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Solúvel Santa Clara 40g Clássico ou Extra Forte",
+   "b": "Café Solúvel Santa Clara Sachê 40g (Clássico/Extraforte)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Brancos Grandes Granja Regina bandeja 30 unidades",
+   "b": "Ovos Brancos Grandes Granja Almeida Bandeja com 30 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pera Importada",
+   "b": "Pera Importada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Repolho Branco",
+   "b": "Repolho Branco kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica tb 1 litro",
+   "b": "Refrigerante Guaraná Antarctica pack c/2 tb 1 litro",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Melão Espanhol",
+   "b": "Melão Espanhol kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido Alice 3L Fragrâncias",
+   "b": "Lava Roupas Líquido Guarani 3L Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Piraquê Leite Maltado ou Chocolate 80g",
+   "b": "Biscoito Piraque Leite Maltado 80g Chocolate",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Nescau 180ml Zero Lactose",
+   "b": "Bebida Láctea Nescau 180ml Zero Lactose",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11",
+   "b": "Papel Higiênico Noble Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado Damare Semidesnatado cx 395g",
+   "b": "Leite Condensado Betânia Semidesnatado cx 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Psyllium Vitao 100g",
+   "b": "Psyllium Vitalin 100g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva Vitória BD s/ sementes",
+   "b": "Uva Vitória Sem Sementes",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Noble Folha Dupla 20m L12P11",
+   "b": "Papel Higiênico Noble Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Melancia Baby",
+   "b": "Melancia Baby kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Cream Cracker Marilan 300g",
+   "b": "Biscoito Cream Cracker Marilan 300g (Premium)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Jerimum Leite",
+   "b": "Jerimum Leite kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Brancos Grandes Granja Almeida Bandeja com 30 unidades",
+   "b": "Ovos Branco Grande Granja Almeida BDJ com 30 und",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado Lar KG",
+   "b": "Filé de Peito de Frango Congelado Envelopado kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Detergente Limpol Squeeze 500ml Fragrancias",
+   "b": "Detergente Limpol 500ml Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango a Passarinho Temperado Lar Congelado 700g",
+   "b": "Frango a Passarinho Temperado Lar Cong. PCT 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Tipo Muçarela Unalac (preço do quilo na peça)",
+   "b": "Queijo Tipo Mussarela Natville (preço do quilo na peça)",
+   "veredito": "diferente"
+  }
+ ]
+}

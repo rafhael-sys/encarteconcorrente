@@ -1,0 +1,226 @@
+{
+ "Dba67tADpbJ": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-30",
+  "fim": "2026-08-01",
+  "titulo": "Fecha Mês Rede Super Show (30/07 a 01/08)"
+ },
+ "Dbagkxhxw6R": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-30",
+  "fim": "2026-08-02",
+  "titulo": "Economizar Bom Todo Corte Fácil (30/07 a 02/08)"
+ },
+ "DbahJB8yHLb": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-29",
+  "fim": "2026-07-31",
+  "titulo": "Hortifruti Leva Mais Macau (29/07 a 31/07)"
+ },
+ "DbahOogswAe": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-29",
+  "fim": "2026-07-31",
+  "titulo": "Hortifruti Leva Mais João Câmara (29/07 a 31/07)"
+ },
+ "Dbb00bzH3Vq": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-31",
+  "fim": "2026-08-06",
+  "titulo": "Mês dos Pais Mar Vermelho Atacado (31/07 a 06/08)"
+ },
+ "Dbb3aL-jRRt": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-31",
+  "fim": "2026-08-09",
+  "titulo": "Festival dos Queijos Regina Corte Fácil (31/07 a 09/08)"
+ },
+ "Dbb5nh2kdGg": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-31",
+  "fim": "2026-08-01",
+  "titulo": "Sextou com Sabadão Favorito (31/07 a 01/08)"
+ },
+ "Dbbe4Dosb3O": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-31",
+  "fim": "2026-08-02",
+  "titulo": "Ofertas de Açougue Leva Mais João Câmara (31/07 a 02/08)"
+ },
+ "DbbexqESaHq": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-31",
+  "fim": "2026-08-02",
+  "titulo": "Ofertas de Açougue Leva Mais Macau (31/07 a 02/08)"
+ },
+ "DbbunaNIBbT": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-31",
+  "fim": "2026-07-31",
+  "titulo": "Fecha Mês Atacarejo Santo Antônio (31/07)"
+ },
+ "Dbc0FBPCRMw": {
+  "verdict": "discard",
+  "discard_reason": "oferta surpresa sem preço legível",
+  "inicio": "2026-07-31",
+  "fim": "2026-07-31",
+  "titulo": "Oferta Surpresa do Dia Nordestão (31/07)"
+ },
+ "assai_49255-564": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-31",
+  "fim": "2026-07-31",
+  "titulo": "Assaí Atacadista - Fim de Semana Carrinho Cheio"
+ },
+ "atacadao_0a46e4b82c": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-31",
+  "fim": "2026-07-31",
+  "titulo": "Atacadão - Super Fim de Mês (31/07)"
+ },
+ "atacadao_6c6c2c8aa4": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-30",
+  "fim": "2026-07-30",
+  "titulo": "Atacadão - Boa do Dia Açougue/Padaria/Frios (30/07)"
+ },
+ "nosso_92f715a5f7": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-30",
+  "fim": "2026-08-12",
+  "titulo": "Nosso Atacarejo - Encarte do Mês (30/07 a 12/08)"
+ },
+ "story_atacarejo_santoantonio.ofc_20260730": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-29",
+  "fim": "2026-07-31",
+  "titulo": "Atacarejo Santo Antônio - Rasga Preço/Fecha Mês (29 a 31/07)"
+ },
+ "story_cortefacil.atacarejo_20260731": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-30",
+  "fim": "2026-08-02",
+  "titulo": "Aniversário Corte Fácil e Feirão das Carnes (30/07 a 02/08)"
+ },
+ "story_favoritosuper_20260730": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-29",
+  "fim": "2026-08-04",
+  "titulo": "Favoritaço Favorito (29/07 a 04/08)"
+ },
+ "story_levamaisjc_20260730": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-29",
+  "fim": "2026-08-02",
+  "titulo": "Leva Mais Atacarejo João Câmara — Fecha Mês (29/07 a 02/08)"
+ },
+ "story_levamaismacau_20260730": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-29",
+  "fim": "2026-08-02",
+  "titulo": "Leva Mais Atacarejo Macau — Fecha Mês (29/07 a 02/08)"
+ },
+ "story_marvermelhoatacado_20260731": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-30",
+  "fim": "2026-07-31",
+  "titulo": "Dias Imperdíveis Mar Vermelho (30 a 31/07)"
+ },
+ "story_miramarsupermercado_20260731": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-31",
+  "fim": "2026-08-02",
+  "titulo": "Mira no Fecha Mês Miramar (31/07 a 02/08)"
+ },
+ "story_mirassolatacado_20260731": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-30",
+  "fim": "2026-08-01",
+  "titulo": "Virada de Mês Mirassol (30/07 a 01/08)"
+ },
+ "story_queirozatacadaojoaocamara_20260730": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-30",
+  "fim": "2026-08-02",
+  "titulo": "Operação Fecha Mês Queiroz Atacadão (30/07 a 02/08)"
+ },
+ "story_queirozatacadaonatal__20260730": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-30",
+  "fim": "2026-08-02",
+  "titulo": "Operação Fecha Mês Queiroz Atacadão (30/07 a 02/08)"
+ },
+ "story_redemaisrn_20260731": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-29",
+  "fim": "2026-07-31",
+  "titulo": "Aniversário RedeMAIS Dia D+ (29/07 a 31/07)"
+ },
+ "story_redesuper.show_20260730": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-29",
+  "fim": "2026-08-01",
+  "titulo": "Fecha Mês Rede Super Show (29/07 a 01/08)"
+ },
+ "story_redesupercop_20260730": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": "2026-07-29",
+  "fim": "2026-07-31",
+  "titulo": "Fecha Mês Supercop (29 a 31/07)"
+ },
+ "story_superfacilatacado_20260730": {
+  "verdict": "discard",
+  "discard_reason": "publicidade sem preço",
+  "inicio": null,
+  "fim": null,
+  "titulo": "SuperFácil Atacado"
+ },
+ "story_superfacilvaledosol_20260730": {
+  "verdict": "discard",
+  "discard_reason": "publicidade sem preço",
+  "inicio": null,
+  "fim": null,
+  "titulo": "SuperFácil Vale do Sol"
+ },
+ "story_supernordestaonatal_20260730": {
+  "verdict": "process",
+  "discard_reason": "",
+  "inicio": null,
+  "fim": "2026-07-30",
+  "titulo": "Promoções Nordestão Pra Você (até 30/07)"
+ },
+ "story_supernordestaonatal_20260731": {
+  "verdict": "discard",
+  "discard_reason": "oferta surpresa sem preço legível",
+  "inicio": "2026-07-31",
+  "fim": "2026-07-31",
+  "titulo": "Oferta Surpresa do Dia Nordestão (31/07)"
+ }
+}
