@@ -1,0 +1,329 @@
+{
+ "validacoes": [
+  {
+   "a": "Croissant Nutri 400g Frango ou Folhado Nutri 400g Calabresa ou Queijada Nutri 400g",
+   "b": "Croissant Nutri 400g Frango ou Folhado Nutri 400g Calabresa ou Quejada Nutri 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Rechado Clubinho Quadrado 130g (chocolate ou morango)",
+   "b": "Biscoito Recheado Clubinho Quadrado 130g (chocolate ou morango)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé Peito Bom Todo 1kg IQF ou Bandeja",
+   "b": "File Peito Bomtodo 1kg IQF ou Bandeja",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Achocolatada Italakinho 200ml",
+   "b": "Bebida Achocolatada Italkinho 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Parboilizado Fazenda 1kg",
+   "b": "Arroz Parbolizado Fazenda 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Iogurtes Nestle Pouch 100g",
+   "b": "Iogurte Nestlé Pouch 100g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Cookies com Whey Vitalin 40g Sabores",
+   "b": "Biscoito Cookies c/ Whey Vitalin 40g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salgadinho Pippo's 60g",
+   "b": "Salgadinho Pippos 60g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém ou Paleta com Osso kg",
+   "b": "Carne Bovina Acém ou paleta c/ Osso kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farelo de Aveia Vitalin com Whey 160g",
+   "b": "Farelo de Aveia Vitalin c/ Whey 160g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Gomes da Costa Extra Virgem 500ml",
+   "b": "Azeite de Oliva Gomes da Costa Extra Virgem VD 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lasanha Perdigão Bolonhesa 600g",
+   "b": "Lasanha Perdigão à Bolonhesa 600g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa c/Dorsal kg",
+   "b": "Coxa com Sobrecoxa com Dorsal kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mistura para Bolo Finna 400g (Sabores Variados)",
+   "b": "Mistura p/ Bolo Finna 400g (Sabores Variados)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Precioso 1kg",
+   "b": "Feijão Carioca Preciosa 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Congelada Kg",
+   "b": "Coxa com Sobrecoxa de Frango Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Camarão Descascado Pescados da Cruz Tam 61/80 400g",
+   "b": "Camarão Descascado Pescados da Cruz Tamanho 61/80 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Organizador de Ovos ou Clear Fresh 18u NT",
+   "b": "Organizador Ovos ou Clear Fresh 18u NT",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Bisteca do Contra Filé",
+   "b": "Carne Bovina Bisteca do Contra Filé kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinhas das Asas de Frango Lar Temperadas IQF 700g",
+   "b": "Coxinhas das Asas de Frango Lar Temperadas 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog RARA kg",
+   "b": "Salsicha Hot Dog Rara RG",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Domilac Pç ou Pdç",
+   "b": "Queijo Mussarela Domilac Pç ou Pdç Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerv Petra Ultra 275ml LN S/Gluten",
+   "b": "Cerveja Petra Ultra 275ml LN s/glúten",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Galinha Leve Qdelicia kg",
+   "b": "Galinha Leve Qoelicia Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite em Pó Itambé Zero Lactose 300g",
+   "b": "Leite Po Itambe Zero Lactose 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Ouro Bom Fatiado",
+   "b": "Queijo Mussarela Ouro Bom Fatiado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Lar Congelada kg",
+   "b": "Linguiça de Frango Lar Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Gelatina Lowcucar Sem Sabor 12g",
+   "b": "Gelatina Lowçucar Sem Sabor Cx 12g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa Dorsal Jaguá",
+   "b": "Coxa com Sobrecoxa Dorsal Jaguá Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fígado Bovino Friboi Congelado",
+   "b": "Fígado Bovino FRIBOI Congelado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Atualle Folha Dupla 20m c/12",
+   "b": "Papel Higiênico Atualle Folha Dupla C/12",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça p/ Churrasco Aurora KG",
+   "b": "Linguiça para Churrasco Aurora kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça para Churrasco Aurora",
+   "b": "Linguiça para Churrasco Aurora kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Bovina P.A. kg",
+   "b": "Costela Bovina PA kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sardinha em Óleo Cabo Verde 125g",
+   "b": "Sardinha Óleo Cabo Verde 125g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite UHT ITALAC 1L Integral/Desnatado",
+   "b": "Leite UHT ITALAC 1L Integral/Semidesnatado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Frango a Passarinho Lar Temperado IQF 700g",
+   "b": "Frango a Passarinho Lar Temperado 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Wafer Proteína Bendu 40g Sabores",
+   "b": "Biscoito Wafer Prot Bendu 40g (sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Granola Biosoft 35 Ingredientes Integral com Castanhas 230g",
+   "b": "Granola Biosoft 35 Ingredientes e Integral Castanhas 230g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Palácio do Douro 500ml Extra Virgem",
+   "b": "Azeite Oliva Palácio do Douro 500ml Ext Virgem",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Avelã Nutella pt 140g",
+   "b": "Creme Avela Nutella Pt 140g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante de Roupa Downy 500ml",
+   "b": "Amaciante Roupa Downy 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém com Osso kg",
+   "b": "Carne Bov Acem com Osso kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aveia em Flocos Finos Vitalin 200g",
+   "b": "Aveia em Flocos Finos Vitalin Pch 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chã de Dentro Bovina Resfriada Pedaço",
+   "b": "Chã de Dentro Bovina Resfriada (peça)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog Chuletão",
+   "b": "Salsicha Hot-Dog Chuletão Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mortadela de Frango Tony",
+   "b": "Mortadela de Frango Tony kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Bovina Congelada kg",
+   "b": "Costela Bovina Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa e Sobrecoxa de Frango Lar com Dorsal",
+   "b": "Coxa/Sobrecoxa de Frango Lar com Dorsal kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito Bom Todo 1kg Bandeja",
+   "b": "File Peito Bomtodo 1kg Bandeja",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog Rara",
+   "b": "Salsicha Hot Dog Rara RG",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Tratamento Elseve 300g Colágeno Lifter",
+   "b": "Creme Tratamento Elseve 300g Colag Lifter",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho Grelhado Natto 700g Temperado",
+   "b": "Filezinho Grelhado Natto 700g Temp",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Músculo",
+   "b": "Carne Bovina Músculo Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Shampoo mais Condicionador OX Frag",
+   "b": "Kit Shampoo + Condicionador OX Frag",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Toscana Aurora 700g ou Linguiça Pernil Aurora 700g ou Linguiça Frango Aurora 700g",
+   "b": "Ling Toscana Aurora 700g ou Ling Pernil Aurora 700g ou Ling Frango Aurora 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite em Pó Bom Gosto 700g",
+   "b": "Leite em Pó Bom Gosto Int 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lavanda Johnsons Baby Infantil 200ml",
+   "b": "Lavanda Johnsons Baby Inf 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Avivar Congelada",
+   "b": "Linguiça de Frango Lar Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça de Frango Aurora congelada",
+   "b": "Linguiça de Frango Lar Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite em Pó Bom Gosto Integral 700g",
+   "b": "Leite em Pó Bom Gosto Int 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito Rara",
+   "b": "Filé de Peito Rara Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho Sassami de Frango Aurora Congelado Bandeja 1kg",
+   "b": "Filezinho de Frango Aurora Congelado bandeja 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Adapt Suave c/ Abas Leve8 Pague7",
+   "b": "Absorvente SEMPRE LIVRE Adapt Suave com Abas Leve + Pague c/16",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bombons Neugebauer Amor Carioca cx 200g",
+   "b": "Bombom Neugebauer Amor Carioca 200g",
+   "veredito": "mesmo"
+  }
+ ]
+}

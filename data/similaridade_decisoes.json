@@ -10916,5 +10916,456 @@
   "veredito": "mesmo",
   "quando": "2026-07-31",
   "aplicado": true
+ },
+ "croissant nutri 400g frango ou folhado nutri 400g calabresa ou queijada nutri 400g || croissant nutri 400g frango ou folhado nutri 400g calabresa ou quejada nutri 400g": {
+  "a": "Croissant Nutri 400g Frango ou Folhado Nutri 400g Calabresa ou Queijada Nutri 400g",
+  "b": "Croissant Nutri 400g Frango ou Folhado Nutri 400g Calabresa ou Quejada Nutri 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "biscoito rechado clubinho quadrado 130g (chocolate ou morango) || biscoito recheado clubinho quadrado 130g (chocolate ou morango)": {
+  "a": "Biscoito Rechado Clubinho Quadrado 130g (chocolate ou morango)",
+  "b": "Biscoito Recheado Clubinho Quadrado 130g (chocolate ou morango)",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "file peito bom todo 1kg iqf ou bandeja || file peito bomtodo 1kg iqf ou bandeja": {
+  "a": "Filé Peito Bom Todo 1kg IQF ou Bandeja",
+  "b": "File Peito Bomtodo 1kg IQF ou Bandeja",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "bebida achocolatada italakinho 200ml || bebida achocolatada italkinho 200ml": {
+  "a": "Bebida Achocolatada Italakinho 200ml",
+  "b": "Bebida Achocolatada Italkinho 200ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "arroz parboilizado fazenda 1kg || arroz parbolizado fazenda 1kg": {
+  "a": "Arroz Parboilizado Fazenda 1kg",
+  "b": "Arroz Parbolizado Fazenda 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "iogurte nestle pouch 100g || iogurtes nestle pouch 100g": {
+  "a": "Iogurtes Nestle Pouch 100g",
+  "b": "Iogurte Nestlé Pouch 100g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "biscoito cookies c/ whey vitalin 40g sabores || biscoito cookies com whey vitalin 40g sabores": {
+  "a": "Biscoito Cookies com Whey Vitalin 40g Sabores",
+  "b": "Biscoito Cookies c/ Whey Vitalin 40g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "salgadinho pippo's 60g || salgadinho pippos 60g": {
+  "a": "Salgadinho Pippo's 60g",
+  "b": "Salgadinho Pippos 60g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "carne bovina acem ou paleta c/ osso kg || carne bovina acem ou paleta com osso kg": {
+  "a": "Carne Bovina Acém ou Paleta com Osso kg",
+  "b": "Carne Bovina Acém ou paleta c/ Osso kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "farelo de aveia vitalin c/ whey 160g || farelo de aveia vitalin com whey 160g": {
+  "a": "Farelo de Aveia Vitalin com Whey 160g",
+  "b": "Farelo de Aveia Vitalin c/ Whey 160g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "azeite de oliva gomes da costa extra virgem 500ml || azeite de oliva gomes da costa extra virgem vd 500ml": {
+  "a": "Azeite de Oliva Gomes da Costa Extra Virgem 500ml",
+  "b": "Azeite de Oliva Gomes da Costa Extra Virgem VD 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "lasanha perdigao a bolonhesa 600g || lasanha perdigao bolonhesa 600g": {
+  "a": "Lasanha Perdigão Bolonhesa 600g",
+  "b": "Lasanha Perdigão à Bolonhesa 600g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa c/dorsal kg || coxa com sobrecoxa com dorsal kg": {
+  "a": "Coxa com Sobrecoxa c/Dorsal kg",
+  "b": "Coxa com Sobrecoxa com Dorsal kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "mistura p/ bolo finna 400g (sabores variados) || mistura para bolo finna 400g (sabores variados)": {
+  "a": "Mistura para Bolo Finna 400g (Sabores Variados)",
+  "b": "Mistura p/ Bolo Finna 400g (Sabores Variados)",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "feijao carioca preciosa 1kg || feijao carioca precioso 1kg": {
+  "a": "Feijão Carioca Precioso 1kg",
+  "b": "Feijão Carioca Preciosa 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango congelada || coxa com sobrecoxa de frango congelada kg": {
+  "a": "Coxa com Sobrecoxa de Frango Congelada Kg",
+  "b": "Coxa com Sobrecoxa de Frango Congelada",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "camarao descascado pescados da cruz tam 61/80 400g || camarao descascado pescados da cruz tamanho 61/80 400g": {
+  "a": "Camarão Descascado Pescados da Cruz Tam 61/80 400g",
+  "b": "Camarão Descascado Pescados da Cruz Tamanho 61/80 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "organizador de ovos ou clear fresh 18u nt || organizador ovos ou clear fresh 18u nt": {
+  "a": "Organizador de Ovos ou Clear Fresh 18u NT",
+  "b": "Organizador Ovos ou Clear Fresh 18u NT",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "carne bovina bisteca do contra file || carne bovina bisteca do contra file kg": {
+  "a": "Carne Bovina Bisteca do Contra Filé",
+  "b": "Carne Bovina Bisteca do Contra Filé kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "coxinhas das asas de frango lar temperadas 700g || coxinhas das asas de frango lar temperadas iqf 700g": {
+  "a": "Coxinhas das Asas de Frango Lar Temperadas IQF 700g",
+  "b": "Coxinhas das Asas de Frango Lar Temperadas 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "salsicha hot dog rara kg || salsicha hot dog rara rg": {
+  "a": "Salsicha Hot Dog RARA kg",
+  "b": "Salsicha Hot Dog Rara RG",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "queijo mussarela domilac pc ou pdc || queijo mussarela domilac pc ou pdc kg": {
+  "a": "Queijo Mussarela Domilac Pç ou Pdç",
+  "b": "Queijo Mussarela Domilac Pç ou Pdç Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "cerv petra ultra 275ml ln s/gluten || cerveja petra ultra 275ml ln s/gluten": {
+  "a": "Cerv Petra Ultra 275ml LN S/Gluten",
+  "b": "Cerveja Petra Ultra 275ml LN s/glúten",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "galinha leve qdelicia kg || galinha leve qoelicia kg": {
+  "a": "Galinha Leve Qdelicia kg",
+  "b": "Galinha Leve Qoelicia Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "leite em po itambe zero lactose 300g || leite po itambe zero lactose 300g": {
+  "a": "Leite em Pó Itambé Zero Lactose 300g",
+  "b": "Leite Po Itambe Zero Lactose 300g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "queijo mussarela ouro bom fatiado || queijo mussarela ouro bom fatiado kg": {
+  "a": "Queijo Mussarela Ouro Bom Fatiado",
+  "b": "Queijo Mussarela Ouro Bom Fatiado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "linguica de frango lar congelada || linguica de frango lar congelada kg": {
+  "a": "Linguiça de Frango Lar Congelada kg",
+  "b": "Linguiça de Frango Lar Congelada",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "gelatina lowcucar sem sabor 12g || gelatina lowcucar sem sabor cx 12g": {
+  "a": "Gelatina Lowcucar Sem Sabor 12g",
+  "b": "Gelatina Lowçucar Sem Sabor Cx 12g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa dorsal jagua || coxa com sobrecoxa dorsal jagua kg": {
+  "a": "Coxa com Sobrecoxa Dorsal Jaguá",
+  "b": "Coxa com Sobrecoxa Dorsal Jaguá Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "figado bovino friboi congelado || figado bovino friboi congelado kg": {
+  "a": "Fígado Bovino Friboi Congelado",
+  "b": "Fígado Bovino FRIBOI Congelado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "papel higienico atualle folha dupla 20m c/12 || papel higienico atualle folha dupla c/12": {
+  "a": "Papel Higiênico Atualle Folha Dupla 20m c/12",
+  "b": "Papel Higiênico Atualle Folha Dupla C/12",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "linguica p/ churrasco aurora kg || linguica para churrasco aurora kg": {
+  "a": "Linguiça p/ Churrasco Aurora KG",
+  "b": "Linguiça para Churrasco Aurora kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "linguica para churrasco aurora || linguica para churrasco aurora kg": {
+  "a": "Linguiça para Churrasco Aurora",
+  "b": "Linguiça para Churrasco Aurora kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "costela bovina p.a. kg || costela bovina pa kg": {
+  "a": "Costela Bovina P.A. kg",
+  "b": "Costela Bovina PA kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "sardinha em oleo cabo verde 125g || sardinha oleo cabo verde 125g": {
+  "a": "Sardinha em Óleo Cabo Verde 125g",
+  "b": "Sardinha Óleo Cabo Verde 125g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "leite uht italac 1l integral/desnatado || leite uht italac 1l integral/semidesnatado": {
+  "a": "Leite UHT ITALAC 1L Integral/Desnatado",
+  "b": "Leite UHT ITALAC 1L Integral/Semidesnatado",
+  "veredito": "diferente",
+  "quando": "2026-08-01"
+ },
+ "frango a passarinho lar temperado 700g || frango a passarinho lar temperado iqf 700g": {
+  "a": "Frango a Passarinho Lar Temperado IQF 700g",
+  "b": "Frango a Passarinho Lar Temperado 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "biscoito wafer prot bendu 40g (sabores) || biscoito wafer proteina bendu 40g sabores": {
+  "a": "Biscoito Wafer Proteína Bendu 40g Sabores",
+  "b": "Biscoito Wafer Prot Bendu 40g (sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "granola biosoft 35 ingredientes e integral castanhas 230g || granola biosoft 35 ingredientes integral com castanhas 230g": {
+  "a": "Granola Biosoft 35 Ingredientes Integral com Castanhas 230g",
+  "b": "Granola Biosoft 35 Ingredientes e Integral Castanhas 230g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "azeite de oliva palacio do douro 500ml extra virgem || azeite oliva palacio do douro 500ml ext virgem": {
+  "a": "Azeite de Oliva Palácio do Douro 500ml Extra Virgem",
+  "b": "Azeite Oliva Palácio do Douro 500ml Ext Virgem",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "creme avela nutella pt 140g || creme de avela nutella pt 140g": {
+  "a": "Creme de Avelã Nutella pt 140g",
+  "b": "Creme Avela Nutella Pt 140g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "amaciante de roupa downy 500ml || amaciante roupa downy 500ml": {
+  "a": "Amaciante de Roupa Downy 500ml",
+  "b": "Amaciante Roupa Downy 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "carne bov acem com osso kg || carne bovina acem com osso kg": {
+  "a": "Carne Bovina Acém com Osso kg",
+  "b": "Carne Bov Acem com Osso kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "aveia em flocos finos vitalin 200g || aveia em flocos finos vitalin pch 200g": {
+  "a": "Aveia em Flocos Finos Vitalin 200g",
+  "b": "Aveia em Flocos Finos Vitalin Pch 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "cha de dentro bovina resfriada (peca) || cha de dentro bovina resfriada pedaco": {
+  "a": "Chã de Dentro Bovina Resfriada Pedaço",
+  "b": "Chã de Dentro Bovina Resfriada (peça)",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "salsicha hot dog chuletao || salsicha hot-dog chuletao kg": {
+  "a": "Salsicha Hot Dog Chuletão",
+  "b": "Salsicha Hot-Dog Chuletão Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "mortadela de frango tony || mortadela de frango tony kg": {
+  "a": "Mortadela de Frango Tony",
+  "b": "Mortadela de Frango Tony kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "costela bovina congelada || costela bovina congelada kg": {
+  "a": "Costela Bovina Congelada kg",
+  "b": "Costela Bovina Congelada",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "coxa e sobrecoxa de frango lar com dorsal || coxa/sobrecoxa de frango lar com dorsal kg": {
+  "a": "Coxa e Sobrecoxa de Frango Lar com Dorsal",
+  "b": "Coxa/Sobrecoxa de Frango Lar com Dorsal kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "file de peito bom todo 1kg bandeja || file peito bomtodo 1kg bandeja": {
+  "a": "Filé de Peito Bom Todo 1kg Bandeja",
+  "b": "File Peito Bomtodo 1kg Bandeja",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "salsicha hot dog rara || salsicha hot dog rara rg": {
+  "a": "Salsicha Hot Dog Rara",
+  "b": "Salsicha Hot Dog Rara RG",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "creme de tratamento elseve 300g colageno lifter || creme tratamento elseve 300g colag lifter": {
+  "a": "Creme de Tratamento Elseve 300g Colágeno Lifter",
+  "b": "Creme Tratamento Elseve 300g Colag Lifter",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "filezinho grelhado natto 700g temp || filezinho grelhado natto 700g temperado": {
+  "a": "Filezinho Grelhado Natto 700g Temperado",
+  "b": "Filezinho Grelhado Natto 700g Temp",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "carne bovina musculo || carne bovina musculo kg": {
+  "a": "Carne Bovina Músculo",
+  "b": "Carne Bovina Músculo Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "kit shampoo + condicionador ox frag || kit shampoo mais condicionador ox frag": {
+  "a": "Kit Shampoo mais Condicionador OX Frag",
+  "b": "Kit Shampoo + Condicionador OX Frag",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "ling toscana aurora 700g ou ling pernil aurora 700g ou ling frango aurora 700g || linguica toscana aurora 700g ou linguica pernil aurora 700g ou linguica frango aurora 700g": {
+  "a": "Linguiça Toscana Aurora 700g ou Linguiça Pernil Aurora 700g ou Linguiça Frango Aurora 700g",
+  "b": "Ling Toscana Aurora 700g ou Ling Pernil Aurora 700g ou Ling Frango Aurora 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "leite em po bom gosto 700g || leite em po bom gosto int 700g": {
+  "a": "Leite em Pó Bom Gosto 700g",
+  "b": "Leite em Pó Bom Gosto Int 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "lavanda johnsons baby inf 200ml || lavanda johnsons baby infantil 200ml": {
+  "a": "Lavanda Johnsons Baby Infantil 200ml",
+  "b": "Lavanda Johnsons Baby Inf 200ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "linguica de frango avivar congelada || linguica de frango lar congelada": {
+  "a": "Linguiça de Frango Avivar Congelada",
+  "b": "Linguiça de Frango Lar Congelada",
+  "veredito": "diferente",
+  "quando": "2026-08-01"
+ },
+ "linguica de frango aurora congelada || linguica de frango lar congelada": {
+  "a": "Linguiça de Frango Aurora congelada",
+  "b": "Linguiça de Frango Lar Congelada",
+  "veredito": "diferente",
+  "quando": "2026-08-01"
+ },
+ "leite em po bom gosto int 700g || leite em po bom gosto integral 700g": {
+  "a": "Leite em Pó Bom Gosto Integral 700g",
+  "b": "Leite em Pó Bom Gosto Int 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "file de peito rara || file de peito rara kg": {
+  "a": "Filé de Peito Rara",
+  "b": "Filé de Peito Rara Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "filezinho de frango aurora congelado bandeja 1kg || filezinho sassami de frango aurora congelado bandeja 1kg": {
+  "a": "Filezinho Sassami de Frango Aurora Congelado Bandeja 1kg",
+  "b": "Filezinho de Frango Aurora Congelado bandeja 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
+ },
+ "absorvente sempre livre adapt suave c/ abas leve8 pague7 || absorvente sempre livre adapt suave com abas leve + pague c/16": {
+  "a": "Absorvente Sempre Livre Adapt Suave c/ Abas Leve8 Pague7",
+  "b": "Absorvente SEMPRE LIVRE Adapt Suave com Abas Leve + Pague c/16",
+  "veredito": "diferente",
+  "quando": "2026-08-01"
+ },
+ "bombom neugebauer amor carioca 200g || bombons neugebauer amor carioca cx 200g": {
+  "a": "Bombons Neugebauer Amor Carioca cx 200g",
+  "b": "Bombom Neugebauer Amor Carioca 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-01",
+  "aplicado": true
  }
 }
