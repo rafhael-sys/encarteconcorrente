@@ -1,0 +1,294 @@
+{
+ "validacoes": [
+  {
+   "a": "Carne Bovina Chã de Dentro Resfriada kg",
+   "b": "Carne Bovina Chã de Dentro Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Tradicional ou para Pizza Julieta Sachê 2kg",
+   "b": "Molho de Tomate Tradicional ou Pizza Julieta Sachê 2kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango à Passarinho Bom Todo Congelado BDJ 1kg",
+   "b": "Frango a Passarinho Bom Todo Congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Brancos Grandes/Extras bandeja 30un",
+   "b": "Ovos Brancos Grandes ou Extra Bandeja 30un",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Leite Natville TP 200g",
+   "b": "Creme de Leite Natville 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Girolanda Kg",
+   "b": "Queijo Mussarela Girolanda",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Turma da Mônica Shortinho Jumbo",
+   "b": "Fralda Turma da Mônica Short Jumbo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha para Hot-Dog Congelada Bom Todo 3kg",
+   "b": "Salsicha Hot Dog Congelada Bom Todo 3kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Solúvel Santa Clara 40g Clássico ou Extra Forte",
+   "b": "Café Solúvel Santa Clara Sachê 40g Clássico ou Extraforte",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Extravirgem Andorinha Vidro 500ml",
+   "b": "Azeite de Oliva Extravirgem Andorinha 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Suco de Uva Integral OQ gfa 1,5L",
+   "b": "Suco de Uva Integral OQ 1,5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Brancos Grandes Granja Regina Bandeja 30un",
+   "b": "Ovos Brancos Grandes Granja Almeida Bandeja 30un",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Folha de Alumínio Wyda Rolo 30cmx4m",
+   "b": "Folha de Alumínio Wyda 30cmx4m",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga com Sal Tirolez Pote 500g",
+   "b": "Manteiga com Sal Tirolez 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Brancos Grandes Almeida Bandeja 30un",
+   "b": "Ovos Brancos Grandes Granja Almeida Bandeja 30un",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bombom Garoto 220g",
+   "b": "Bombons Garoto 220g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha da Asa de Frango Lar IQF 1kg",
+   "b": "Coxinha da Asa de Frango JAGUÁ IQF 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Odorizador Gota Galde 120ml Toque Maciez",
+   "b": "Odoriz Gota Galde 120ml Toq Maciez",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Pré-Frita Congelada Easychef 2kg",
+   "b": "Batata Palito Pré-Frita Congelada EasyChef 2kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Suína Temperada Bom Todo Grill Congelada",
+   "b": "Panceta Suína Temperada Bom Todo Grill Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Vinho Nacional Quinta do Morgado Tipos Garrafa 750ml",
+   "b": "Vinho Nacional Quinta do Morgado Tipos 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado Envelopado kg",
+   "b": "Filé de Peito de Frango Levo Congelado Envelopado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Descartável Pants Protect&Sec Personal Baby Tamanhos",
+   "b": "Fralda Descartável Pants Protect&Sec Personal Baby",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Santa Clara Extra Forte 250g",
+   "b": "Café Moído Santa Clara Extra Forte 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Mole Resfriado Kg",
+   "b": "Carne Bovina Coxão Duro Resfriado Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Aveia em Flocos Regulares ou Finos Yoki Caixeta 170g",
+   "b": "Aveia em Flocos Regulares ou Finos Yoki 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Sadia ou para Churrasco Aurora",
+   "b": "Linguiça de Frango Sadia ou Linguiça para Churrasco Aurora",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerosol Nivea Fragrâncias Frasco 200ml",
+   "b": "Desodorante Aerossol Nivea Fragrâncias 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido Ekonomico 3L",
+   "b": "Lava Roupa Liq Ekonomico 3L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Milho Verde ou Dueto Fugini Sachê 170g",
+   "b": "Milho Verde ou Dueto Fugini 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chocolate Lacta Favoritos Caixa 250,6g",
+   "b": "Chocolate Lacta Favoritos 250,6g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sobrecoxas Sadia Congeladas BDJ 1kg",
+   "b": "Sobrecoxas Sadia Congeladas IQF 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Pet 1L",
+   "b": "Refrig Guarana Antarctica Pet 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Original/Zero Pet com 2L",
+   "b": "Refrigerante Guaraná Antarctica Original Pet 2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Estepe/Reino Fracionado Regina",
+   "b": "Queijo Estepe Fracionado Regina",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha Da Asa Jaguá Congelada 1kg",
+   "b": "Coxinha da Asa Seara Congelada 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lenço Umedecido Piquitucho PCT 60UN",
+   "b": "Lenços Umedecidos Piquitucho 60un",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Cremoso Tirolez Resfriado 1,5kg",
+   "b": "Requeijão Cremoso Tirolez Resfriado Bisnaga 1,5kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Adapt Suave com abas Pacote com 32 unidades",
+   "b": "Absorvente Sempre Livre Adapt Suave com Abas 32 Unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lanche Faroeste Burger 145g Sabores",
+   "b": "Lanche Faroeste Burger Aurora 145g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Jucurutu Primeira Qualidade 500g",
+   "b": "Manteiga Jucurutu P Qualidade 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Atualle Folha Dupla 12x20m (neutro)",
+   "b": "Papel Higiênico Floral Folha Dupla 12X20m (neutro)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filezinho de Frango Sassami Aurora 1kg (Bandeja)",
+   "b": "Filezinho de Frango Sassami Aurora 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Budweiser Long Neck 330ml",
+   "b": "Cerveja Budweiser Pilsen Long Neck 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Friato Congelado",
+   "b": "Filé de Peito de Frango Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovo Branco Grande Granja Almeida Bandeja com 30",
+   "b": "Ovos Branco Grande Granja Almeida Bandeja com 30 Unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado Lar KG",
+   "b": "Filé de Peito de Frango Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Milho para Pipoca Pula-Pula 400g",
+   "b": "Milho de Pipoca Pula-Pula 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Suco de Uva Integral OQ Vidro 1,5L",
+   "b": "Suco de Uva Integral OQ 1,5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Patinho Bovino kg",
+   "b": "Patinho Bovino",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costelinha Suína Temperada Bom Todo Congelada",
+   "b": "Costela Suína Temperada Bom Todo Grill Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas +Ekonomico 3L",
+   "b": "Lava Roupa Liq Ekonomico 3L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Açúcar Cristal Ecoçúcar 1kg",
+   "b": "Açúcar Trit Ecoçúcar 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pizza Congelada Perdigão Sabores caixeta 460g",
+   "b": "Pizza Congelada Perdigão Sabores 460g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Unalac Peça ou Pedaço kg",
+   "b": "Queijo Mussarela Domblá peça ou pedaço kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Absorvente Sempre Livre Adapt c/8 Suave",
+   "b": "Abs Sempre Livre Adapt c/8 Suave",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Jerked Beef Ponta de Agulha Friboi",
+   "b": "Jerked Beef Ponta de Agulha Resfriado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerossol Nivea Fragrâncias 200ml",
+   "b": "Desodorante Aerossol Rexona Fragrâncias 2x200ml",
+   "veredito": "diferente"
+  }
+ ]
+}
