@@ -170028,5 +170028,71 @@
    "w": 84,
    "h": 28
   }
+ ],
+ "DbiDJGXm1xc_p1": [
+  {
+   "n": "Capa de Filé Bovino Resfriada a Vácuo",
+   "p": "28,99",
+   "u": "kg",
+   "x": 18,
+   "y": 33,
+   "w": 52,
+   "h": 42
+  }
+ ],
+ "DbiDJGXm1xc_p2": [
+  {
+   "n": "Queijo de Coalho Sertão Jucurutu Peça ou Mini",
+   "p": "38,99",
+   "u": "kg",
+   "x": 15,
+   "y": 35,
+   "w": 62,
+   "h": 40
+  }
+ ],
+ "DbiDJGXm1xc_p3": [
+  {
+   "n": "Azeite de Oliva Andorinha Extra Virgem 500ml",
+   "p": "25,99",
+   "u": "cada",
+   "x": 33,
+   "y": 28,
+   "w": 38,
+   "h": 52
+  }
+ ],
+ "DbiDJGXm1xc_p4": [
+  {
+   "n": "Café Moído Santa Clara Extra Forte 250g",
+   "p": "11,99",
+   "u": "cada",
+   "x": 13,
+   "y": 32,
+   "w": 62,
+   "h": 45
+  }
+ ],
+ "DbiDJGXm1xc_p5": [
+  {
+   "n": "Cerveja Budweiser Lata 350ml",
+   "p": "3,59",
+   "u": "cada",
+   "x": 24,
+   "y": 30,
+   "w": 45,
+   "h": 52
+  }
+ ],
+ "DbiDJGXm1xc_p6": [
+  {
+   "n": "Papel Toalha Malu Folha Dupla 50fls 2un",
+   "p": "3,99",
+   "u": "cada",
+   "x": 14,
+   "y": 33,
+   "w": 58,
+   "h": 45
+  }
  ]
 }

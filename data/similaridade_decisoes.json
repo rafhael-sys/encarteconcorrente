@@ -11760,5 +11760,383 @@
   "b": "Desodorante Aerossol Rexona Fragrâncias 2x200ml",
   "veredito": "diferente",
   "quando": "2026-08-01"
+ },
+ "shampoo anti caspa clear men l400 p330ml fragrancias || shampoo anti caspa clear men l400 pg330ml fragrancias": {
+  "a": "Shampoo Anti Caspa Clear Men L400 P330ml Fragrâncias",
+  "b": "SHAMPOO ANTI CASPA CLEAR MEN L400 PG330ML FRAGRANCIAS",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "ovo branco grande granja almeida c/ 30 (bandeja) || ovos brancos grande granja almeida c/30 (bandeja)": {
+  "a": "Ovo Branco Grande Granja Almeida c/ 30 (Bandeja)",
+  "b": "Ovos Brancos Grande Granja Almeida C/30 (Bandeja)",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "coxa c/sobrecoxa de frango (com dorsal) || coxa com sobrecoxa de frango com dorsal": {
+  "a": "Coxa com Sobrecoxa de Frango com Dorsal",
+  "b": "Coxa c/Sobrecoxa de Frango (Com Dorsal)",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "abs semp livre adapt s/abas c/8 suave || abs sempre livre adapt s/abas c/8 suave": {
+  "a": "Abs Sempre Livre Adapt s/Abas c/8 Suave",
+  "b": "ABS SEMP LIVRE ADAPT S/ABAS C/8 SUAVE",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "arroz branco sao joaquim tipo 1 1kg || arroz branco sao joaquim tipo 2 1kg": {
+  "a": "Arroz Branco São Joaquim Tipo 2 1kg",
+  "b": "Arroz Branco São Joaquim Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
+ },
+ "hamburguer jundiai congelado carne bovina/frango caixeta 36x56g || hamburguer jundiai congelado carne bovina/frango caixeta com 36x56g": {
+  "a": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango Caixeta 36x56g",
+  "b": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango Caixeta com 36x56g",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "lava roupas em po brilhante limpeza total pacote 2,4kg || lava roupas em po brilhante limpeza total pacote com 2,4kg": {
+  "a": "Lava Roupas em Pó Brilhante Limpeza Total Pacote 2,4kg",
+  "b": "Lava Roupas em Pó Brilhante Limpeza Total Pacote com 2,4kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "linguica de frango e churrasco aurora kg || linguica de frango ou churrasco aurora kg": {
+  "a": "Linguiça de Frango ou Churrasco Aurora KG",
+  "b": "Linguiça de Frango e Churrasco Aurora kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "pizza perdigao congelada varios sabores caixeta 460g || pizza perdigao congelada varios sabores caixeta com 460g": {
+  "a": "Pizza Perdigão Congelada Vários Sabores Caixeta com 460g",
+  "b": "Pizza Perdigão Congelada Vários sabores Caixeta 460g",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "refrigerante coca-cola original/sem acucar pet 1l || refrigerante coca-cola original/sem acucar pet com 1l": {
+  "a": "Refrigerante Coca-Cola Original/Sem Açúcar Pet 1L",
+  "b": "Refrigerante Coca-Cola Original/Sem açúcar Pet com 1L",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "frango a passarinho copacol congelado pacote 800g || frango a passarinho copacol congelado pacote com 800g": {
+  "a": "Frango à Passarinho Copacol Congelado Pacote 800g",
+  "b": "Frango à Passarinho Copacol Congelado Pacote com 800g",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "vinho portugues jose piteira tinto garrafa 750ml || vinho portugues jose piteira tinto garrafa com 750ml": {
+  "a": "Vinho Português José Piteira Tinto Garrafa 750ml",
+  "b": "Vinho Português José Piteira Tinto Garrafa com 750ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "file de salmao fresco g kg || file de salmao fresco kg": {
+  "a": "Filé de Salmão Fresco Kg",
+  "b": "Filé de Salmão Fresco G kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "steak de frango perdigao congelado unidade 100g || steak de frango perdigao congelado unidade com 100g": {
+  "a": "Steak de Frango Perdigão Congelado Unidade 100g",
+  "b": "Steak de Frango Perdigão Congelado Unidade com 100g",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "limpador multiuso veja original pack 4x500ml || limpador multiuso veja original pack com 4x500ml": {
+  "a": "Limpador Multiuso Veja Original Pack 4x500ml",
+  "b": "Limpador Multiuso Veja Original Pack com 4x500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "salsicha hot dog natto resfriada pacote 3kg || salsicha hot dog natto resfriada pacote com 3kg": {
+  "a": "Salsicha Hot Dog Natto Resfriada Pacote 3kg",
+  "b": "Salsicha Hot Dog Natto Resfriada Pacote com 3kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "vinho tinto esp honoro vera 750ml tempranillo || vinho tinto honoro vera 750ml tempranillo": {
+  "a": "Vinho Tinto Honoro Vera 750ml Tempranillo",
+  "b": "VINHO TINTO ESP HONORO VERA 750ML TEMPRANILLO",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "queijo mussarela ouro bom kg peca || queijo mussarela ouro bom peca": {
+  "a": "Queijo Mussarela Ouro Bom Peça",
+  "b": "Queijo Mussarela Ouro Bom kg Peça",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "kit dove shampoo + condicionador varios tipos || kit ox shampoo + condicionador varios tipos": {
+  "a": "Kit OX Shampoo + Condicionador Vários Tipos",
+  "b": "Kit Dove Shampoo + Condicionador Vários tipos",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
+ },
+ "carne bovina patinho resfriado || carne bovina patinho resfriado kg": {
+  "a": "Carne Bovina Patinho Resfriado Kg",
+  "b": "Carne Bovina Patinho Resfriado",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "batata chips yokitos natural pacote 180g || batata chips yokitos natural pacote com 180g": {
+  "a": "Batata Chips Yokitos Natural Pacote 180g",
+  "b": "Batata Chips Yokitos Natural Pacote com 180g",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "carne bov patinho resfriado kg || carne bovina patinho resfriado kg": {
+  "a": "Carne Bovina Patinho Resfriado Kg",
+  "b": "Carne Bov Patinho Resfriado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "detergente liquido dragao frasco 500ml || detergente liquido dragao frasco com 500ml": {
+  "a": "Detergente Líquido Dragão Frasco 500ml",
+  "b": "Detergente Líquido Dragão Frasco com 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "requeijao tirolez resfriado tradicional 400g || requeijao tirolez resfriado tradicional pote 400g": {
+  "a": "Requeijão Tirolez Resfriado Tradicional 400g",
+  "b": "Requeijão Tirolez Resfriado Tradicional Pote 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "vh port casal garcia fruit gf 750ml maracuja ou morango || vinho port casal garcia fruit 750ml maracuja ou morango": {
+  "a": "Vinho Port Casal Garcia Fruit 750ml Maracujá ou Morango",
+  "b": "VH PORT CASAL GARCIA FRUIT GF 750ML MARACUJA OU MORANGO",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "lingua bovina congelada || lingua bovina congelada kg": {
+  "a": "Língua Bovina Congelada",
+  "b": "Língua Bovina Congelada KG",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "cafe almof. santa clara 250g extraforte || cafe almofada santa clara 250g extra forte": {
+  "a": "Café Almofada Santa Clara 250g Extra Forte",
+  "b": "CAFÉ ALMOF. SANTA CLARA 250G EXTRAFORTE",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "coxa c/sobrecoxa de frango (com dorsal) || coxa com sobrecoxa de frango com dorsal kg": {
+  "a": "Coxa com Sobrecoxa de Frango com Dorsal kg",
+  "b": "Coxa c/Sobrecoxa de Frango (Com Dorsal)",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "cerveja itaipava lata 350ml || cerveja itaipava lata com 350ml": {
+  "a": "Cerveja Itaipava Lata 350ml",
+  "b": "Cerveja Itaipava Lata com 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "carne bovina cha de fora resfriada || carne bovina cha de fora resfriado kg": {
+  "a": "Carne Bovina Chã de Fora Resfriado Kg",
+  "b": "Carne Bovina Chã de Fora Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "kit dove shampoo + condicionador varios tipos || kit seda shampoo + condicionador varios tipos": {
+  "a": "Kit Seda Shampoo + Condicionador Vários Tipos",
+  "b": "Kit Dove Shampoo + Condicionador Vários tipos",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
+ },
+ "cerveja itaipava lata com 350ml || cerveja itaipava zero lata com 350ml": {
+  "a": "Cerveja Itaipava Zero Lata com 350ml",
+  "b": "Cerveja Itaipava Lata com 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
+ },
+ "file de peito de frango aurora congelado bandeja com 1kg || file de peito de frango aurora congelado bdj 1kg": {
+  "a": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "espumante salton zero alc gf 750ml rose || espumante salton zero alcool 750ml rose": {
+  "a": "Espumante Salton Zero Álcool 750ml Rosé",
+  "b": "ESPUMANTE SALTON ZERO ALC GF 750ML ROSE",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "cerv lager budweiser lt 350ml || cerveja lager budweiser lata 350ml": {
+  "a": "Cerveja Lager Budweiser Lata 350ml",
+  "b": "CERV LAGER BUDWEISER LT 350ML",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "kit dove shampoo + condicionador varios tipos || kit niely shampoo+condicionador varios tipos": {
+  "a": "Kit Niely Shampoo+Condicionador Vários tipos",
+  "b": "Kit Dove Shampoo + Condicionador Vários tipos",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
+ },
+ "mortadela tony de frango ou sem toucinho || mortadela tony frango/sem toucinho": {
+  "a": "Mortadela Tony de Frango ou Sem Toucinho",
+  "b": "Mortadela Tony Frango/sem Toucinho",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "ling de frango lar 1kg || linguica de frango lar 1kg": {
+  "a": "Linguiça de Frango Lar 1Kg",
+  "b": "LING DE FRANGO LAR 1KG",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "limpador multiuso veja original frasco com 500ml || limpador multiuso veja original pack com 4x500ml": {
+  "a": "Limpador Multiuso Veja Original Frasco com 500ml",
+  "b": "Limpador Multiuso Veja Original Pack com 4x500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
+ },
+ "toalha umedecida piquitucho pack com 4x60 unidades || toalha umedecida piquitucho pacote 60 unidades": {
+  "a": "Toalha Umedecida Piquitucho Pacote 60 unidades",
+  "b": "Toalha Umedecida Piquitucho Pack com 4x60 unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
+ },
+ "coxa c/sobrecoxa de frango (com dorsal) || coxas com sobrecoxas de frango com dorsal kg": {
+  "a": "Coxas com Sobrecoxas de Frango com Dorsal Kg",
+  "b": "Coxa c/Sobrecoxa de Frango (Com Dorsal)",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "cerv pils corona gf 330ml || cerveja pilsen corona gf 330ml": {
+  "a": "Cerveja Pilsen Corona GF 330ml",
+  "b": "CERV PILS CORONA GF 330ML",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "hamburguer jundiai congelado carne bovina/frango 36x56g || hamburguer jundiai congelado carne bovina/frango caixeta com 36x56g": {
+  "a": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango 36x56g",
+  "b": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango Caixeta com 36x56g",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "carne bov patinho resfriado kg || carne bovina patinho resfriado": {
+  "a": "Carne Bovina Patinho Resfriado",
+  "b": "Carne Bov Patinho Resfriado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "queijo prato fracionado regina || queijo reino fracionado regina": {
+  "a": "Queijo Prato Fracionado Regina",
+  "b": "Queijo Reino Fracionado Regina",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
+ },
+ "vh quinta mor gf 750ml sabores || vinho quinta mor 750ml sabores": {
+  "a": "Vinho Quinta Mor 750ml Sabores",
+  "b": "VH QUINTA MOR GF 750ML SABORES",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "ancho suino temperado bom todo congelado || lombo suino temperado bom todo congelado": {
+  "a": "Lombo Suíno Temperado Bom Todo Congelado",
+  "b": "Ancho Suíno Temperado Bom Todo Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
+ },
+ "cerveja heineken lata 350ml || cerveja lager heineken lata 350ml": {
+  "a": "Cerveja Heineken Lata 350ml",
+  "b": "Cerveja Lager Heineken Lata 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "farinha de trigo boa sorte com fermento pacote com 1kg || farinha de trigo dona benta com fermento pacote com 1kg": {
+  "a": "Farinha de Trigo Dona Benta Com Fermento Pacote com 1kg",
+  "b": "Farinha de Trigo Boa sorte Com Fermento Pacote com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
+ },
+ "mistura lactea cond. mococa 395g || mistura lactea condensada mococa 395g": {
+  "a": "Mistura Láctea Condensada Mococa 395g",
+  "b": "Mistura Láctea Cond. Mococa 395g",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "racao friskies 100g, 85g ou 80g || racao purina friskies 100g, 85g ou 80g": {
+  "a": "Ração Purina Friskies 100g, 85g ou 80g",
+  "b": "Ração Friskies 100g, 85g ou 80g",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "hamburguer jundiai congelado carne bovina/frango caixeta com 36x56g || hamburguer tony congelado carne bovina/frango caixeta 36x56g": {
+  "a": "Hambúrguer Tony Congelado Carne Bovina/Frango Caixeta 36x56g",
+  "b": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango Caixeta com 36x56g",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
+ },
+ "carne bovina bisteca de acem reserva resfriada || carne bovina bisteca de contrafile reserva resfriada": {
+  "a": "Carne Bovina Bisteca de Acém Reserva Resfriada",
+  "b": "Carne Bovina Bisteca de Contrafilé Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
+ },
+ "bebida lactea polpa betania resfriada bandeja 540g || bebida lactea polpa betania sabores bandeja 540g": {
+  "a": "Bebida Láctea Polpa Betânia Sabores Bandeja 540g",
+  "b": "Bebida Láctea Polpa Betânia Resfriada Bandeja 540g",
+  "veredito": "mesmo",
+  "quando": "2026-08-02",
+  "aplicado": true
+ },
+ "maminha bovina resfriada a vacuo masterboi || picanha bovina resfriada a vacuo masterboi kg": {
+  "a": "Picanha Bovina Resfriada a Vácuo Masterboi KG",
+  "b": "Maminha Bovina Resfriada a Vácuo Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
+ },
+ "papel higienico atualle folha dupla 12un 20m || papel higienico deluxe folha dupla 12un 20m": {
+  "a": "Papel Higiênico Atualle Folha Dupla 12un 20m",
+  "b": "Papel Higiênico Deluxe Folha Dupla 12un 20m",
+  "veredito": "diferente",
+  "quando": "2026-08-02"
  }
 }

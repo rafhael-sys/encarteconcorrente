@@ -1,0 +1,284 @@
+{
+ "validacoes": [
+  {
+   "a": "Shampoo Anti Caspa Clear Men L400 P330ml Fragrâncias",
+   "b": "SHAMPOO ANTI CASPA CLEAR MEN L400 PG330ML FRAGRANCIAS",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Branco Grande Granja Almeida c/ 30 (Bandeja)",
+   "b": "Ovos Brancos Grande Granja Almeida C/30 (Bandeja)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango com Dorsal",
+   "b": "Coxa c/Sobrecoxa de Frango (Com Dorsal)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Abs Sempre Livre Adapt s/Abas c/8 Suave",
+   "b": "ABS SEMP LIVRE ADAPT S/ABAS C/8 SUAVE",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Branco São Joaquim Tipo 2 1kg",
+   "b": "Arroz Branco São Joaquim Tipo 1 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango Caixeta 36x56g",
+   "b": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango Caixeta com 36x56g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas em Pó Brilhante Limpeza Total Pacote 2,4kg",
+   "b": "Lava Roupas em Pó Brilhante Limpeza Total Pacote com 2,4kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango ou Churrasco Aurora KG",
+   "b": "Linguiça de Frango e Churrasco Aurora kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pizza Perdigão Congelada Vários Sabores Caixeta com 460g",
+   "b": "Pizza Perdigão Congelada Vários sabores Caixeta 460g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Coca-Cola Original/Sem Açúcar Pet 1L",
+   "b": "Refrigerante Coca-Cola Original/Sem açúcar Pet com 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango à Passarinho Copacol Congelado Pacote 800g",
+   "b": "Frango à Passarinho Copacol Congelado Pacote com 800g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Português José Piteira Tinto Garrafa 750ml",
+   "b": "Vinho Português José Piteira Tinto Garrafa com 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Salmão Fresco Kg",
+   "b": "Filé de Salmão Fresco G kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Steak de Frango Perdigão Congelado Unidade 100g",
+   "b": "Steak de Frango Perdigão Congelado Unidade com 100g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Multiuso Veja Original Pack 4x500ml",
+   "b": "Limpador Multiuso Veja Original Pack com 4x500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog Natto Resfriada Pacote 3kg",
+   "b": "Salsicha Hot Dog Natto Resfriada Pacote com 3kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Tinto Honoro Vera 750ml Tempranillo",
+   "b": "VINHO TINTO ESP HONORO VERA 750ML TEMPRANILLO",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Ouro Bom Peça",
+   "b": "Queijo Mussarela Ouro Bom kg Peça",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit OX Shampoo + Condicionador Vários Tipos",
+   "b": "Kit Dove Shampoo + Condicionador Vários tipos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Patinho Resfriado Kg",
+   "b": "Carne Bovina Patinho Resfriado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Chips Yokitos Natural Pacote 180g",
+   "b": "Batata Chips Yokitos Natural Pacote com 180g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Patinho Resfriado Kg",
+   "b": "Carne Bov Patinho Resfriado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Líquido Dragão Frasco 500ml",
+   "b": "Detergente Líquido Dragão Frasco com 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Tirolez Resfriado Tradicional 400g",
+   "b": "Requeijão Tirolez Resfriado Tradicional Pote 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Port Casal Garcia Fruit 750ml Maracujá ou Morango",
+   "b": "VH PORT CASAL GARCIA FRUIT GF 750ML MARACUJA OU MORANGO",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Língua Bovina Congelada",
+   "b": "Língua Bovina Congelada KG",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Almofada Santa Clara 250g Extra Forte",
+   "b": "CAFÉ ALMOF. SANTA CLARA 250G EXTRAFORTE",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango com Dorsal kg",
+   "b": "Coxa c/Sobrecoxa de Frango (Com Dorsal)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Itaipava Lata 350ml",
+   "b": "Cerveja Itaipava Lata com 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Chã de Fora Resfriado Kg",
+   "b": "Carne Bovina Chã de Fora Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Seda Shampoo + Condicionador Vários Tipos",
+   "b": "Kit Dove Shampoo + Condicionador Vários tipos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Itaipava Zero Lata com 350ml",
+   "b": "Cerveja Itaipava Lata com 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+   "b": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Espumante Salton Zero Álcool 750ml Rosé",
+   "b": "ESPUMANTE SALTON ZERO ALC GF 750ML ROSE",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Lager Budweiser Lata 350ml",
+   "b": "CERV LAGER BUDWEISER LT 350ML",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Niely Shampoo+Condicionador Vários tipos",
+   "b": "Kit Dove Shampoo + Condicionador Vários tipos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mortadela Tony de Frango ou Sem Toucinho",
+   "b": "Mortadela Tony Frango/sem Toucinho",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Lar 1Kg",
+   "b": "LING DE FRANGO LAR 1KG",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Multiuso Veja Original Frasco com 500ml",
+   "b": "Limpador Multiuso Veja Original Pack com 4x500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Toalha Umedecida Piquitucho Pacote 60 unidades",
+   "b": "Toalha Umedecida Piquitucho Pack com 4x60 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxas com Sobrecoxas de Frango com Dorsal Kg",
+   "b": "Coxa c/Sobrecoxa de Frango (Com Dorsal)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Pilsen Corona GF 330ml",
+   "b": "CERV PILS CORONA GF 330ML",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango 36x56g",
+   "b": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango Caixeta com 36x56g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Patinho Resfriado",
+   "b": "Carne Bov Patinho Resfriado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Prato Fracionado Regina",
+   "b": "Queijo Reino Fracionado Regina",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Vinho Quinta Mor 750ml Sabores",
+   "b": "VH QUINTA MOR GF 750ML SABORES",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lombo Suíno Temperado Bom Todo Congelado",
+   "b": "Ancho Suíno Temperado Bom Todo Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Heineken Lata 350ml",
+   "b": "Cerveja Lager Heineken Lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Dona Benta Com Fermento Pacote com 1kg",
+   "b": "Farinha de Trigo Boa sorte Com Fermento Pacote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mistura Láctea Condensada Mococa 395g",
+   "b": "Mistura Láctea Cond. Mococa 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ração Purina Friskies 100g, 85g ou 80g",
+   "b": "Ração Friskies 100g, 85g ou 80g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Tony Congelado Carne Bovina/Frango Caixeta 36x56g",
+   "b": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango Caixeta com 36x56g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Bisteca de Acém Reserva Resfriada",
+   "b": "Carne Bovina Bisteca de Contrafilé Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Láctea Polpa Betânia Sabores Bandeja 540g",
+   "b": "Bebida Láctea Polpa Betânia Resfriada Bandeja 540g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Picanha Bovina Resfriada a Vácuo Masterboi KG",
+   "b": "Maminha Bovina Resfriada a Vácuo Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Atualle Folha Dupla 12un 20m",
+   "b": "Papel Higiênico Deluxe Folha Dupla 12un 20m",
+   "veredito": "diferente"
+  }
+ ]
+}
