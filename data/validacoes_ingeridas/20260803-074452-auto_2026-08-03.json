@@ -1,0 +1,259 @@
+{
+ "validacoes": [
+  {
+   "a": "Achocolatado em Po 3 Coracoes Sache 700g Chocolatto",
+   "b": "Achocolatado em Pó 3 Corações Sachê 700g Chocolato",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Toalha Folha Dupla Leve Mais c/02",
+   "b": "Papel Toalha Folha Dupla Leve Mais c/2",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Saco para Lixo Felitá Clean 15L/30L/50L/100L (Rolo)",
+   "b": "Saco P/ Lixo Felitá Clean 15L/30L/50L/100L (Rolo)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitonas Verdes Vale Fertil 100g (Doy Pack)",
+   "b": "Azeitona Verde Vale Fértil 100g (Doypack)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem PALERMO 500ml",
+   "b": "Azeite de Oliva Extra Virgem Allegro 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Adoçante Líquido Magro Fit 65ml Stevia",
+   "b": "Adoçante Líquido Magro Fruto 65ml Stevia",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farelo de Aveia Vitalin com Whey 160g",
+   "b": "Farelo de Aveia Vitalin com Whey Sch 160g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ração Cão Tutti Canis Adulto 10,1kg Select",
+   "b": "Ração para Cão Tutti Canis Adulto 10,1kg Select",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mop Plast Noviça Fit 10L",
+   "b": "Mop Plástico Noviça Fit 10L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pastilha Ades Pro Pato 3un 20% Desc Floral ou Citrus",
+   "b": "Pastilha Adesiva Pato 3un 20% Desc Floral ou Citrus",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Capa de Filé Cong kg",
+   "b": "Carne Bovina Capa de Filé Congelada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Charque Ponta de Agulha Jerked Beef Litoral",
+   "b": "Charque Ponta Agulha Jerked Beef Litoral kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Nescau 180ml",
+   "b": "Bebida Láctea UHT Nescau 180ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem Gallo vd 500ml",
+   "b": "Azeite de Oliva Extra Virgem Allegro 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mini Coxinha Felitá Chef 810g (Tradicional/Requeijão)",
+   "b": "Mini Kibe Felitá Chef 810g (Tradicional/Requeijão)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Wafer Proteína Bendu 40g Sabores",
+   "b": "Biscoito Wafer Prot Bendu Pct 40g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava-Roupas Líquido Omo 3L",
+   "b": "Lava Roupas Líquido +eKonômico 3L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Capa de Filé KG Congelado",
+   "b": "Carne Bovina Capa de Filé Congelada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem Fioz 500ml",
+   "b": "Azeite de Oliva Extra Virgem Allegro 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Goiabada Tambaú 500g",
+   "b": "Goiabada Tambaú 500g (Poly)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Recheado Sucrilhos 85g Morango",
+   "b": "Bisc Rech Sucrilhos 85g Morango",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho Grelhado Natto 700g Temperado",
+   "b": "Filezinho de Frango Grelhado Natto 700g Temperado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Açúcar Cristal Ecoaçúcar 1kg",
+   "b": "Açúcar Trit Ecoçúcar 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha de Trigo Tipo 1 Farina 1kg",
+   "b": "Farinha de Trigo Farina 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido Marilux 3L",
+   "b": "Lava Roupas Líquido Limpamil 3L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca Precioso 1kg",
+   "b": "Feijão Carioca Precioso Tipo 1 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Açúcar Magro Light 400g",
+   "b": "Açúcar Magro Light 400g Light",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Flocão São Braz Milho 500g",
+   "b": "Flocão São Ouro Milho 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Sublime Folha Dupla 20m 4 unids",
+   "b": "Papel Higiênico Nobel Sublime Folha Dupla 20m 12 Unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Achocolatado em Pó Chocolatto 3 Corações Sachê 560g",
+   "b": "Achocolatado em Pó Chocolatto com Caramelo Sachê 560g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Milho de Pipoca para Micro-ondas Yoki 100g",
+   "b": "Milho de Pipoca para Micro-ondas Yoki Pacote com 100g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Branco Granja Almeida Bandeja c/30",
+   "b": "Ovo Branco Grande Granja Almeida Bandeja com 30",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Cream Cracker Vitarella Tostadinha 350g",
+   "b": "Bolacha Cream Cracker Vitarella Tostadinha 350g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer de Carne de Frango e Suína Tradicional Congelado Rezende Caixeta 36x56g",
+   "b": "Hambúrguer de Frango e Suína Tradicional Congelado Rezende 36x56g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Lar Congelada Grossa 1kg",
+   "b": "Linguiça de Frango Lar Cong. Grossa PCT 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pizza Congelada Rezende Sabores Caixeta 460g",
+   "b": "Pizza Congelada Seara Sabores Caixeta 460g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado Natville Semidesnatado 395g",
+   "b": "Leite Condensado Damare Semidesnatado 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Massa Italiana Grano Duro La Molisana 500g",
+   "b": "Massa Italiana Grano Duro Antico Molino 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Paloma Folha Dupla 12un 20m",
+   "b": "Papel Higiênico Deluxe Folha Dupla 12un 20m",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem Cocineiro 500ml",
+   "b": "Azeite de Oliva Extra Virgem Allegro 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Wafer Marilan 70g (Sabores)",
+   "b": "Biscoito Wafer Recheado Marilan 70g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Parboilizado Mariano Tipo 1 1kg",
+   "b": "Arroz Parboilizado Tio Manoel Tipo 1 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Molho de Tomate Fugini Tradicional 300g",
+   "b": "Molho de Tomate Quero Tradicional 300g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filezinho de Frango Aurora 1kg",
+   "b": "Filezinho de Frango Aurora Bandeja 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Nobel Sublime Folha Dupla 12un 20m",
+   "b": "Papel Higiênico Deluxe Folha Dupla 12un 20m",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Láctea Power Whey 3 Corações TP 250ml",
+   "b": "Bebida Láctea Power Whey 3 Corações 250ml Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Chileno Pictor 750ml Cabernet Sauvignon Tto SC",
+   "b": "Vin Chi Pictor 750ml Cabernet Sauv Tto SC",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Alimento em Pó Supra Soy sem Lactose 300g",
+   "b": "Alimento em Pó Supra Soy Sem Lactose Lata 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Cream Cracker Lícia 300g",
+   "b": "Biscoito Cream Cracker Marilan 300g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito de Frango Congelado Bom Todo 1kg",
+   "b": "Peito Frango Cong Bom Todo 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Ponta de Agulha kg",
+   "b": "Costela Ponta de Agulha Bovina kg",
+   "veredito": "mesmo"
+  }
+ ]
+}

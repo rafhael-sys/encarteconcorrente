@@ -1868,3 +1868,54 @@
 - MESMO: «Vinho Quinta Mor 750ml Sabores» == «VH QUINTA MOR GF 750ML SABORES»
 - MESMO: «Vinho Português José Piteira Tinto Garrafa 750ml» == «Vinho Português José Piteira Tinto Garrafa com 750ml»
 - MESMO: «Vinho Tinto Honoro Vera 750ml Tempranillo» == «VINHO TINTO ESP HONORO VERA 750ML TEMPRANILLO»
+- MESMO: «Achocolatado em Po 3 Coracoes Sache 700g Chocolatto» == «Achocolatado em Pó 3 Corações Sachê 700g Chocolato»
+- MESMO: «Achocolatado em Pó Chocolatto 3 Corações Sachê 560g» == «Achocolatado em Pó Chocolatto com Caramelo Sachê 560g»
+- DIFERENTES: «Açúcar Cristal Ecoaçúcar 1kg» != «Açúcar Trit Ecoçúcar 1kg»
+- MESMO: «Açúcar Magro Light 400g» == «Açúcar Magro Light 400g Light»
+- DIFERENTES: «Adoçante Líquido Magro Fit 65ml Stevia» != «Adoçante Líquido Magro Fruto 65ml Stevia»
+- MESMO: «Leite Alimento em Pó Supra Soy sem Lactose 300g» == «Alimento em Pó Supra Soy Sem Lactose Lata 300g»
+- DIFERENTES: «Arroz Parboilizado Mariano Tipo 1 1kg» != «Arroz Parboilizado Tio Manoel Tipo 1 1kg»
+- DIFERENTES: «Azeite de Oliva Extra Virgem Cocineiro 500ml» != «Azeite de Oliva Extra Virgem Allegro 500ml»
+- DIFERENTES: «Azeite de Oliva Extra Virgem Fioz 500ml» != «Azeite de Oliva Extra Virgem Allegro 500ml»
+- DIFERENTES: «Azeite de Oliva Extra Virgem Gallo vd 500ml» != «Azeite de Oliva Extra Virgem Allegro 500ml»
+- DIFERENTES: «Azeite de Oliva Extra Virgem PALERMO 500ml» != «Azeite de Oliva Extra Virgem Allegro 500ml»
+- MESMO: «Azeitonas Verdes Vale Fertil 100g (Doy Pack)» == «Azeitona Verde Vale Fértil 100g (Doypack)»
+- MESMO: «Bebida Láctea Nescau 180ml» == «Bebida Láctea UHT Nescau 180ml»
+- MESMO: «Bebida Láctea Power Whey 3 Corações TP 250ml» == «Bebida Láctea Power Whey 3 Corações 250ml Sabores»
+- MESMO: «Biscoito Recheado Sucrilhos 85g Morango» == «Bisc Rech Sucrilhos 85g Morango»
+- DIFERENTES: «Biscoito Cream Cracker Lícia 300g» != «Biscoito Cream Cracker Marilan 300g»
+- MESMO: «Biscoito Cream Cracker Vitarella Tostadinha 350g» == «Bolacha Cream Cracker Vitarella Tostadinha 350g»
+- MESMO: «Biscoito Wafer Marilan 70g (Sabores)» == «Biscoito Wafer Recheado Marilan 70g Sabores»
+- MESMO: «Biscoito Wafer Proteína Bendu 40g Sabores» == «Biscoito Wafer Prot Bendu Pct 40g Sabores»
+- MESMO: «Carne Bovina Capa de Filé Cong kg» == «Carne Bovina Capa de Filé Congelada kg»
+- MESMO: «Carne Bovina Capa de Filé KG Congelado» == «Carne Bovina Capa de Filé Congelada kg»
+- MESMO: «Charque Ponta de Agulha Jerked Beef Litoral» == «Charque Ponta Agulha Jerked Beef Litoral kg»
+- MESMO: «Costela Ponta de Agulha kg» == «Costela Ponta de Agulha Bovina kg»
+- MESMO: «Farelo de Aveia Vitalin com Whey 160g» == «Farelo de Aveia Vitalin com Whey Sch 160g»
+- MESMO: «Farinha de Trigo Tipo 1 Farina 1kg» == «Farinha de Trigo Farina 1kg»
+- MESMO: «Feijão Carioca Precioso 1kg» == «Feijão Carioca Precioso Tipo 1 1kg»
+- MESMO: «Filezinho de Frango Aurora 1kg» == «Filezinho de Frango Aurora Bandeja 1kg»
+- MESMO: «Filezinho Grelhado Natto 700g Temperado» == «Filezinho de Frango Grelhado Natto 700g Temperado»
+- DIFERENTES: «Flocão São Braz Milho 500g» != «Flocão São Ouro Milho 500g»
+- MESMO: «Goiabada Tambaú 500g» == «Goiabada Tambaú 500g (Poly)»
+- MESMO: «Hambúrguer de Carne de Frango e Suína Tradicional Congelado Rezende Caixeta 36x56g» == «Hambúrguer de Frango e Suína Tradicional Congelado Rezende 36x56g»
+- DIFERENTES: «Lava-Roupas Líquido Omo 3L» != «Lava Roupas Líquido +eKonômico 3L»
+- DIFERENTES: «Lava Roupas Líquido Marilux 3L» != «Lava Roupas Líquido Limpamil 3L»
+- DIFERENTES: «Leite Condensado Natville Semidesnatado 395g» != «Leite Condensado Damare Semidesnatado 395g»
+- MESMO: «Linguiça de Frango Lar Congelada Grossa 1kg» == «Linguiça de Frango Lar Cong. Grossa PCT 1kg»
+- DIFERENTES: «Massa Italiana Grano Duro La Molisana 500g» != «Massa Italiana Grano Duro Antico Molino 500g»
+- MESMO: «Milho de Pipoca para Micro-ondas Yoki 100g» == «Milho de Pipoca para Micro-ondas Yoki Pacote com 100g»
+- DIFERENTES: «Mini Coxinha Felitá Chef 810g (Tradicional/Requeijão)» != «Mini Kibe Felitá Chef 810g (Tradicional/Requeijão)»
+- DIFERENTES: «Molho de Tomate Fugini Tradicional 300g» != «Molho de Tomate Quero Tradicional 300g»
+- MESMO: «Mop Plast Noviça Fit 10L» == «Mop Plástico Noviça Fit 10L»
+- MESMO: «Ovos Branco Granja Almeida Bandeja c/30» == «Ovo Branco Grande Granja Almeida Bandeja com 30»
+- DIFERENTES: «Papel Higiênico Nobel Sublime Folha Dupla 12un 20m» != «Papel Higiênico Deluxe Folha Dupla 12un 20m»
+- DIFERENTES: «Papel Higiênico Paloma Folha Dupla 12un 20m» != «Papel Higiênico Deluxe Folha Dupla 12un 20m»
+- DIFERENTES: «Papel Higiênico Sublime Folha Dupla 20m 4 unids» != «Papel Higiênico Nobel Sublime Folha Dupla 20m 12 Unidades»
+- MESMO: «Papel Toalha Folha Dupla Leve Mais c/02» == «Papel Toalha Folha Dupla Leve Mais c/2»
+- MESMO: «Pastilha Ades Pro Pato 3un 20% Desc Floral ou Citrus» == «Pastilha Adesiva Pato 3un 20% Desc Floral ou Citrus»
+- MESMO: «Peito de Frango Congelado Bom Todo 1kg» == «Peito Frango Cong Bom Todo 1kg»
+- DIFERENTES: «Pizza Congelada Rezende Sabores Caixeta 460g» != «Pizza Congelada Seara Sabores Caixeta 460g»
+- MESMO: «Ração Cão Tutti Canis Adulto 10,1kg Select» == «Ração para Cão Tutti Canis Adulto 10,1kg Select»
+- MESMO: «Saco para Lixo Felitá Clean 15L/30L/50L/100L (Rolo)» == «Saco P/ Lixo Felitá Clean 15L/30L/50L/100L (Rolo)»
+- MESMO: «Vinho Chileno Pictor 750ml Cabernet Sauvignon Tto SC» == «Vin Chi Pictor 750ml Cabernet Sauv Tto SC»

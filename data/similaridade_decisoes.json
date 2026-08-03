@@ -12523,5 +12523,343 @@
   "veredito": "mesmo",
   "quando": "2026-08-02",
   "aplicado": true
+ },
+ "achocolatado em po 3 coracoes sache 700g chocolato || achocolatado em po 3 coracoes sache 700g chocolatto": {
+  "a": "Achocolatado em Po 3 Coracoes Sache 700g Chocolatto",
+  "b": "Achocolatado em Pó 3 Corações Sachê 700g Chocolato",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "papel toalha folha dupla leve mais c/02 || papel toalha folha dupla leve mais c/2": {
+  "a": "Papel Toalha Folha Dupla Leve Mais c/02",
+  "b": "Papel Toalha Folha Dupla Leve Mais c/2",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "saco p/ lixo felita clean 15l/30l/50l/100l (rolo) || saco para lixo felita clean 15l/30l/50l/100l (rolo)": {
+  "a": "Saco para Lixo Felitá Clean 15L/30L/50L/100L (Rolo)",
+  "b": "Saco P/ Lixo Felitá Clean 15L/30L/50L/100L (Rolo)",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "azeitona verde vale fertil 100g (doypack) || azeitonas verdes vale fertil 100g (doy pack)": {
+  "a": "Azeitonas Verdes Vale Fertil 100g (Doy Pack)",
+  "b": "Azeitona Verde Vale Fértil 100g (Doypack)",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "azeite de oliva extra virgem allegro 500ml || azeite de oliva extra virgem palermo 500ml": {
+  "a": "Azeite de Oliva Extra Virgem PALERMO 500ml",
+  "b": "Azeite de Oliva Extra Virgem Allegro 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "adocante liquido magro fit 65ml stevia || adocante liquido magro fruto 65ml stevia": {
+  "a": "Adoçante Líquido Magro Fit 65ml Stevia",
+  "b": "Adoçante Líquido Magro Fruto 65ml Stevia",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "farelo de aveia vitalin com whey 160g || farelo de aveia vitalin com whey sch 160g": {
+  "a": "Farelo de Aveia Vitalin com Whey 160g",
+  "b": "Farelo de Aveia Vitalin com Whey Sch 160g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "racao cao tutti canis adulto 10,1kg select || racao para cao tutti canis adulto 10,1kg select": {
+  "a": "Ração Cão Tutti Canis Adulto 10,1kg Select",
+  "b": "Ração para Cão Tutti Canis Adulto 10,1kg Select",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "mop plast novica fit 10l || mop plastico novica fit 10l": {
+  "a": "Mop Plast Noviça Fit 10L",
+  "b": "Mop Plástico Noviça Fit 10L",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "pastilha ades pro pato 3un 20% desc floral ou citrus || pastilha adesiva pato 3un 20% desc floral ou citrus": {
+  "a": "Pastilha Ades Pro Pato 3un 20% Desc Floral ou Citrus",
+  "b": "Pastilha Adesiva Pato 3un 20% Desc Floral ou Citrus",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "carne bovina capa de file cong kg || carne bovina capa de file congelada kg": {
+  "a": "Carne Bovina Capa de Filé Cong kg",
+  "b": "Carne Bovina Capa de Filé Congelada kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "charque ponta agulha jerked beef litoral kg || charque ponta de agulha jerked beef litoral": {
+  "a": "Charque Ponta de Agulha Jerked Beef Litoral",
+  "b": "Charque Ponta Agulha Jerked Beef Litoral kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "bebida lactea nescau 180ml || bebida lactea uht nescau 180ml": {
+  "a": "Bebida Láctea Nescau 180ml",
+  "b": "Bebida Láctea UHT Nescau 180ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "azeite de oliva extra virgem allegro 500ml || azeite de oliva extra virgem gallo vd 500ml": {
+  "a": "Azeite de Oliva Extra Virgem Gallo vd 500ml",
+  "b": "Azeite de Oliva Extra Virgem Allegro 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "mini coxinha felita chef 810g (tradicional/requeijao) || mini kibe felita chef 810g (tradicional/requeijao)": {
+  "a": "Mini Coxinha Felitá Chef 810g (Tradicional/Requeijão)",
+  "b": "Mini Kibe Felitá Chef 810g (Tradicional/Requeijão)",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "biscoito wafer prot bendu pct 40g sabores || biscoito wafer proteina bendu 40g sabores": {
+  "a": "Biscoito Wafer Proteína Bendu 40g Sabores",
+  "b": "Biscoito Wafer Prot Bendu Pct 40g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "lava roupas liquido +ekonomico 3l || lava-roupas liquido omo 3l": {
+  "a": "Lava-Roupas Líquido Omo 3L",
+  "b": "Lava Roupas Líquido +eKonômico 3L",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "carne bovina capa de file congelada kg || carne bovina capa de file kg congelado": {
+  "a": "Carne Bovina Capa de Filé KG Congelado",
+  "b": "Carne Bovina Capa de Filé Congelada kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "azeite de oliva extra virgem allegro 500ml || azeite de oliva extra virgem fioz 500ml": {
+  "a": "Azeite de Oliva Extra Virgem Fioz 500ml",
+  "b": "Azeite de Oliva Extra Virgem Allegro 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "goiabada tambau 500g || goiabada tambau 500g (poly)": {
+  "a": "Goiabada Tambaú 500g",
+  "b": "Goiabada Tambaú 500g (Poly)",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "bisc rech sucrilhos 85g morango || biscoito recheado sucrilhos 85g morango": {
+  "a": "Biscoito Recheado Sucrilhos 85g Morango",
+  "b": "Bisc Rech Sucrilhos 85g Morango",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "filezinho de frango grelhado natto 700g temperado || filezinho grelhado natto 700g temperado": {
+  "a": "Filezinho Grelhado Natto 700g Temperado",
+  "b": "Filezinho de Frango Grelhado Natto 700g Temperado",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "acucar cristal ecoacucar 1kg || acucar trit ecocucar 1kg": {
+  "a": "Açúcar Cristal Ecoaçúcar 1kg",
+  "b": "Açúcar Trit Ecoçúcar 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "farinha de trigo farina 1kg || farinha de trigo tipo 1 farina 1kg": {
+  "a": "Farinha de Trigo Tipo 1 Farina 1kg",
+  "b": "Farinha de Trigo Farina 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "lava roupas liquido limpamil 3l || lava roupas liquido marilux 3l": {
+  "a": "Lava Roupas Líquido Marilux 3L",
+  "b": "Lava Roupas Líquido Limpamil 3L",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "feijao carioca precioso 1kg || feijao carioca precioso tipo 1 1kg": {
+  "a": "Feijão Carioca Precioso 1kg",
+  "b": "Feijão Carioca Precioso Tipo 1 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "acucar magro light 400g || acucar magro light 400g light": {
+  "a": "Açúcar Magro Light 400g",
+  "b": "Açúcar Magro Light 400g Light",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "flocao sao braz milho 500g || flocao sao ouro milho 500g": {
+  "a": "Flocão São Braz Milho 500g",
+  "b": "Flocão São Ouro Milho 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "papel higienico nobel sublime folha dupla 20m 12 unidades || papel higienico sublime folha dupla 20m 4 unids": {
+  "a": "Papel Higiênico Sublime Folha Dupla 20m 4 unids",
+  "b": "Papel Higiênico Nobel Sublime Folha Dupla 20m 12 Unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "achocolatado em po chocolatto 3 coracoes sache 560g || achocolatado em po chocolatto com caramelo sache 560g": {
+  "a": "Achocolatado em Pó Chocolatto 3 Corações Sachê 560g",
+  "b": "Achocolatado em Pó Chocolatto com Caramelo Sachê 560g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "milho de pipoca para micro-ondas yoki 100g || milho de pipoca para micro-ondas yoki pacote com 100g": {
+  "a": "Milho de Pipoca para Micro-ondas Yoki 100g",
+  "b": "Milho de Pipoca para Micro-ondas Yoki Pacote com 100g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "ovo branco grande granja almeida bandeja com 30 || ovos branco granja almeida bandeja c/30": {
+  "a": "Ovos Branco Granja Almeida Bandeja c/30",
+  "b": "Ovo Branco Grande Granja Almeida Bandeja com 30",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "biscoito cream cracker vitarella tostadinha 350g || bolacha cream cracker vitarella tostadinha 350g": {
+  "a": "Biscoito Cream Cracker Vitarella Tostadinha 350g",
+  "b": "Bolacha Cream Cracker Vitarella Tostadinha 350g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "hamburguer de carne de frango e suina tradicional congelado rezende caixeta 36x56g || hamburguer de frango e suina tradicional congelado rezende 36x56g": {
+  "a": "Hambúrguer de Carne de Frango e Suína Tradicional Congelado Rezende Caixeta 36x56g",
+  "b": "Hambúrguer de Frango e Suína Tradicional Congelado Rezende 36x56g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "linguica de frango lar cong. grossa pct 1kg || linguica de frango lar congelada grossa 1kg": {
+  "a": "Linguiça de Frango Lar Congelada Grossa 1kg",
+  "b": "Linguiça de Frango Lar Cong. Grossa PCT 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "pizza congelada rezende sabores caixeta 460g || pizza congelada seara sabores caixeta 460g": {
+  "a": "Pizza Congelada Rezende Sabores Caixeta 460g",
+  "b": "Pizza Congelada Seara Sabores Caixeta 460g",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "leite condensado damare semidesnatado 395g || leite condensado natville semidesnatado 395g": {
+  "a": "Leite Condensado Natville Semidesnatado 395g",
+  "b": "Leite Condensado Damare Semidesnatado 395g",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "massa italiana grano duro antico molino 500g || massa italiana grano duro la molisana 500g": {
+  "a": "Massa Italiana Grano Duro La Molisana 500g",
+  "b": "Massa Italiana Grano Duro Antico Molino 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "papel higienico deluxe folha dupla 12un 20m || papel higienico paloma folha dupla 12un 20m": {
+  "a": "Papel Higiênico Paloma Folha Dupla 12un 20m",
+  "b": "Papel Higiênico Deluxe Folha Dupla 12un 20m",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "azeite de oliva extra virgem allegro 500ml || azeite de oliva extra virgem cocineiro 500ml": {
+  "a": "Azeite de Oliva Extra Virgem Cocineiro 500ml",
+  "b": "Azeite de Oliva Extra Virgem Allegro 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "biscoito wafer marilan 70g (sabores) || biscoito wafer recheado marilan 70g sabores": {
+  "a": "Biscoito Wafer Marilan 70g (Sabores)",
+  "b": "Biscoito Wafer Recheado Marilan 70g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "arroz parboilizado mariano tipo 1 1kg || arroz parboilizado tio manoel tipo 1 1kg": {
+  "a": "Arroz Parboilizado Mariano Tipo 1 1kg",
+  "b": "Arroz Parboilizado Tio Manoel Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "molho de tomate fugini tradicional 300g || molho de tomate quero tradicional 300g": {
+  "a": "Molho de Tomate Fugini Tradicional 300g",
+  "b": "Molho de Tomate Quero Tradicional 300g",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "filezinho de frango aurora 1kg || filezinho de frango aurora bandeja 1kg": {
+  "a": "Filezinho de Frango Aurora 1kg",
+  "b": "Filezinho de Frango Aurora Bandeja 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "papel higienico deluxe folha dupla 12un 20m || papel higienico nobel sublime folha dupla 12un 20m": {
+  "a": "Papel Higiênico Nobel Sublime Folha Dupla 12un 20m",
+  "b": "Papel Higiênico Deluxe Folha Dupla 12un 20m",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "bebida lactea power whey 3 coracoes 250ml sabores || bebida lactea power whey 3 coracoes tp 250ml": {
+  "a": "Bebida Láctea Power Whey 3 Corações TP 250ml",
+  "b": "Bebida Láctea Power Whey 3 Corações 250ml Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "vin chi pictor 750ml cabernet sauv tto sc || vinho chileno pictor 750ml cabernet sauvignon tto sc": {
+  "a": "Vinho Chileno Pictor 750ml Cabernet Sauvignon Tto SC",
+  "b": "Vin Chi Pictor 750ml Cabernet Sauv Tto SC",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "alimento em po supra soy sem lactose lata 300g || leite alimento em po supra soy sem lactose 300g": {
+  "a": "Leite Alimento em Pó Supra Soy sem Lactose 300g",
+  "b": "Alimento em Pó Supra Soy Sem Lactose Lata 300g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "biscoito cream cracker licia 300g || biscoito cream cracker marilan 300g": {
+  "a": "Biscoito Cream Cracker Lícia 300g",
+  "b": "Biscoito Cream Cracker Marilan 300g",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "peito de frango congelado bom todo 1kg || peito frango cong bom todo 1kg": {
+  "a": "Peito de Frango Congelado Bom Todo 1kg",
+  "b": "Peito Frango Cong Bom Todo 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "costela ponta de agulha bovina kg || costela ponta de agulha kg": {
+  "a": "Costela Ponta de Agulha kg",
+  "b": "Costela Ponta de Agulha Bovina kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
  }
 }
