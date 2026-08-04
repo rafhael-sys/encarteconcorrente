@@ -1,0 +1,107 @@
+{
+  "shortcode": "story_marvermelhoatacado_20260803",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-07-10",
+  "fim": "2026-08-09",
+  "titulo": "Festival de Saudáveis, Festival da Casa e Ofertas do Mês dos Pais",
+  "pages": {
+    "story_marvermelhoatacado_3955526596551628486": [],
+    "story_marvermelhoatacado_3955526896310150000": [],
+    "story_marvermelhoatacado_3955527038253749675": [],
+    "story_marvermelhoatacado_3955527006237949962": [],
+    "story_marvermelhoatacado_3955612064757291994": [
+      {"n": "Açúcar Mascavo Áster 900G", "p": "8,79", "u": "cada", "x": 2, "y": 37, "w": 24, "h": 18},
+      {"n": "Adoçante Líquido Sadio Stevia 100ml", "p": "6,59", "u": "cada", "x": 26, "y": 37, "w": 24, "h": 18},
+      {"n": "Cappuccino 3 Corações Diet PT 150G", "p": "17,99", "u": "cada", "x": 50, "y": 37, "w": 24, "h": 18},
+      {"n": "Biscoito Cookies Vitao Sem Glúten ou Zero Açúcar 60G", "p": "6,49", "u": "cada", "x": 74, "y": 37, "w": 24, "h": 18},
+      {"n": "Biscoito Vitalin Whey Cookie Chocolate ou Banana e Canela 40G", "p": "5,89", "u": "cada", "x": 2, "y": 56, "w": 24, "h": 15},
+      {"n": "Biscoito Rosquinhas Jasmine Integral Sabores 120G", "p": "7,99", "u": "cada", "x": 26, "y": 56, "w": 24, "h": 15},
+      {"n": "Biscoito Zero Açúcar Jasmine Sabores 75G", "p": "4,69", "u": "cada", "x": 50, "y": 56, "w": 24, "h": 15},
+      {"n": "Psyllium Vitao Sem Glúten 100G", "p": "16,99", "u": "cada", "x": 74, "y": 56, "w": 24, "h": 15},
+      {"n": "Chia em Grãos Sabor do Campo SC 120G", "p": "6,49", "u": "cada", "x": 2, "y": 71, "w": 24, "h": 14},
+      {"n": "Flocão de Milho Urbano Não Transgênico 500G", "p": "2,89", "u": "cada", "x": 26, "y": 71, "w": 24, "h": 14},
+      {"n": "Farinha de Aveia Áster 400G", "p": "7,49", "u": "cada", "x": 50, "y": 71, "w": 24, "h": 14},
+      {"n": "Farelo de Aveia Germina OAT Bran SC 200G", "p": "2,98", "u": "cada", "x": 74, "y": 71, "w": 24, "h": 14}
+    ],
+    "story_marvermelhoatacado_3955612309109056505": [
+      {"n": "Aveia Germina Flocos Finos SC 500G", "p": "6,89", "u": "cada", "x": 2, "y": 37, "w": 24, "h": 15},
+      {"n": "Quinoa Germina em Grãos 200G", "p": "8,89", "u": "cada", "x": 26, "y": 37, "w": 24, "h": 15},
+      {"n": "Granola Tia Sônia Sabores 200G", "p": "10,79", "u": "cada", "x": 50, "y": 37, "w": 24, "h": 15},
+      {"n": "Chá Barão Sabores CX 10 Unids", "p": "4,29", "u": "cada", "x": 74, "y": 37, "w": 24, "h": 15},
+      {"n": "Pasta de Amendoim Livre D Natural ou Crunchy 400G", "p": "15,59", "u": "cada", "x": 2, "y": 53, "w": 24, "h": 13},
+      {"n": "Castanha do Pará Germina 100G", "p": "14,59", "u": "cada", "x": 26, "y": 53, "w": 24, "h": 13},
+      {"n": "Creme Vegetal Qualicoco Vegana ou Ervas Finas com Sal PT 200G", "p": "12,99", "u": "cada", "x": 50, "y": 53, "w": 24, "h": 13},
+      {"n": "Macarrão Integral Vilma Espaguete ou Parafuso 500G", "p": "4,39", "u": "cada", "x": 74, "y": 53, "w": 24, "h": 13},
+      {"n": "Vinagre de Maçã São Roque Orgânico 500ml", "p": "25,99", "u": "cada", "x": 2, "y": 67, "w": 24, "h": 13},
+      {"n": "Barra de Cereal Tia Sônia Banana Go Sabores 22G", "p": "1,79", "u": "cada", "x": 26, "y": 67, "w": 24, "h": 13},
+      {"n": "Barra de Proteínas Livre D Whey Fit Sabores 40G", "p": "6,29", "u": "cada", "x": 50, "y": 67, "w": 24, "h": 13},
+      {"n": "Pasta de Amendoim Dr. Peanut Sabores 600G", "p": "43,89", "u": "cada", "x": 74, "y": 67, "w": 24, "h": 13}
+    ],
+    "story_marvermelhoatacado_3955642263444062357": [
+      {"n": "Assadeira Retangular Temqter VD 2,6L", "p": "49,98", "u": "cada", "x": 2, "y": 40, "w": 24, "h": 15},
+      {"n": "Bowl Angélica, Arizona ou Conchiglia VD 200ML", "p": "3,19", "u": "cada", "x": 26, "y": 40, "w": 24, "h": 15},
+      {"n": "Tigela Bowl Mere VD 125ML", "p": "2,98", "u": "cada", "x": 50, "y": 40, "w": 24, "h": 15},
+      {"n": "Travessa Retangular Versa Decorativa Unid", "p": "7,99", "u": "cada", "x": 74, "y": 40, "w": 24, "h": 15},
+      {"n": "Centro de Mesa Galata VD 26CM", "p": "17,98", "u": "cada", "x": 2, "y": 55, "w": 24, "h": 13},
+      {"n": "Copo Baixo Casablanca VD 355ML", "p": "5,99", "u": "cada", "x": 26, "y": 55, "w": 24, "h": 13},
+      {"n": "Copo Dia a Dia VD 110ML", "p": "2,49", "u": "cada", "x": 50, "y": 55, "w": 24, "h": 13},
+      {"n": "Copo Dia a Dia VD 250ML", "p": "5,99", "u": "cada", "x": 74, "y": 55, "w": 24, "h": 13},
+      {"n": "Xícara Coffee Time Cristal Eco VD 90ML", "p": "5,89", "u": "cada", "x": 2, "y": 68, "w": 24, "h": 13},
+      {"n": "Xícara Diamond Coffee Time VD 80ML", "p": "3,19", "u": "cada", "x": 26, "y": 68, "w": 24, "h": 13},
+      {"n": "Frigideira Brinox Suprema Vanilla 22CM", "p": "59,98", "u": "cada, exceto Parnamirim", "x": 50, "y": 68, "w": 24, "h": 13},
+      {"n": "Frigideira Brinox Garlic Vermelho 16CM", "p": "24,98", "u": "cada, exceto Parnamirim", "x": 74, "y": 68, "w": 24, "h": 13}
+    ],
+    "story_marvermelhoatacado_3955642516335457849": [
+      {"n": "Panela de Pressão Brinox Cerâmica Cinza 4,5L", "p": "159,98", "u": "cada, exceto Parnamirim", "x": 2, "y": 14, "w": 24, "h": 10},
+      {"n": "Pote com Travas Sanremo 1,4L", "p": "18,99", "u": "cada", "x": 26, "y": 14, "w": 24, "h": 10},
+      {"n": "Marmita Sanremo Freshy Açaí 2 Unids", "p": "25,99", "u": "cada", "x": 50, "y": 14, "w": 24, "h": 10},
+      {"n": "Garrafa Térmica Mor Vermelho 3L", "p": "40,98", "u": "cada", "x": 74, "y": 14, "w": 24, "h": 10},
+      {"n": "Kit Pá + Escova Alklin Unid", "p": "15,59", "u": "cada", "x": 2, "y": 25, "w": 24, "h": 10},
+      {"n": "Esponja Condor Multiuso Leve 12 Pague 10", "p": "19,98", "u": "cada, leve 12 pague 10", "x": 26, "y": 25, "w": 24, "h": 10},
+      {"n": "Pá para Lixo Coletora com Cabo", "p": "5,98", "u": "cada", "x": 50, "y": 25, "w": 24, "h": 10},
+      {"n": "Rodo Multilar 30CM Sem Cabo Unid", "p": "3,49", "u": "cada", "x": 74, "y": 25, "w": 24, "h": 10},
+      {"n": "Vassoura Sutile Plus Sem Cabo Un", "p": "5,59", "u": "cada", "x": 2, "y": 36, "w": 24, "h": 10},
+      {"n": "Vassoura Condor V35 com Cabo Unid", "p": "13,99", "u": "cada", "x": 26, "y": 36, "w": 24, "h": 10},
+      {"n": "Prendedor de Madeira Cristal 12 Unids", "p": "1,35", "u": "cada", "x": 50, "y": 36, "w": 24, "h": 10},
+      {"n": "Lâmpada Superled Ouro Lux Bivolt 12W", "p": "3,49", "u": "cada", "x": 74, "y": 36, "w": 24, "h": 10},
+      {"n": "Vela Luz da Vida Litúrgica Branca 7 Dias Und", "p": "6,99", "u": "cada", "x": 2, "y": 47, "w": 24, "h": 10},
+      {"n": "Vela Branca Vida Luz N°8 16,5G 8 Unids", "p": "3,89", "u": "cada", "x": 26, "y": 47, "w": 24, "h": 10},
+      {"n": "Cadeira Mor Alumínio Alta Und", "p": "64,99", "u": "cada", "x": 50, "y": 47, "w": 24, "h": 10},
+      {"n": "Pá para Caixa de Areia Unid", "p": "3,59", "u": "cada", "x": 74, "y": 47, "w": 24, "h": 10},
+      {"n": "Ração Tutticanis Select Adulto 14KG", "p": "69,98", "u": "cada", "x": 2, "y": 57, "w": 24, "h": 9},
+      {"n": "Ração M1X Seed Calopsita e Agapornis 500G", "p": "5,59", "u": "cada", "x": 26, "y": 57, "w": 24, "h": 9},
+      {"n": "Ração Bono Cat Sabores 500G", "p": "5,39", "u": "cada", "x": 50, "y": 57, "w": 24, "h": 9},
+      {"n": "Areia Higiênica Sweet Cat Grãos Finos 4KG", "p": "7,89", "u": "cada", "x": 74, "y": 57, "w": 24, "h": 9}
+    ],
+    "story_marvermelhoatacado_3955826936645028533": [],
+    "story_marvermelhoatacado_3955876804880496262": [],
+    "story_marvermelhoatacado_3955884861434089291": [
+      {"n": "Filé de Tilápia Lar PC 700G", "p": "37,99", "u": "cada", "x": 5, "y": 32, "w": 90, "h": 50}
+    ],
+    "story_marvermelhoatacado_3955885123955570489": [
+      {"n": "Filé de Peixe Merluza Fish Congelado PC 800G", "p": "28,99", "u": "cada, exceto Ceasa", "x": 5, "y": 30, "w": 90, "h": 52}
+    ],
+    "story_marvermelhoatacado_3955885389631143972": [
+      {"n": "Charque Friboi Dianteiro 500G", "p": "27,99", "u": "cada, exceto Ceasa", "x": 5, "y": 32, "w": 90, "h": 50}
+    ],
+    "story_marvermelhoatacado_3955885646901366163": [
+      {"n": "Manteiga Itacolomy Com Sal PT 500G", "p": "23,99", "u": "cada", "x": 5, "y": 32, "w": 90, "h": 50}
+    ],
+    "story_marvermelhoatacado_3955885910370762317": [
+      {"n": "Filezinho de Peito de Frango Sadia Congelado BDJ 1KG", "p": "18,49", "u": "cada", "x": 5, "y": 32, "w": 90, "h": 50}
+    ],
+    "story_marvermelhoatacado_3955886170744807019": [
+      {"n": "Filé de Peito de Frango Aurora Congelado BDJ 1KG", "p": "17,49", "u": "cada", "x": 5, "y": 32, "w": 90, "h": 50}
+    ],
+    "story_marvermelhoatacado_3955886425917611388": [
+      {"n": "Queijo Processado Sabor Requeijão Supremo Cremoso 200G", "p": "4,79", "u": "cada", "x": 5, "y": 32, "w": 90, "h": 50}
+    ],
+    "story_marvermelhoatacado_3955886677852652591": [
+      {"n": "Farinha Láctea Maratá SC 180G", "p": "4,59", "u": "cada", "x": 5, "y": 32, "w": 90, "h": 50}
+    ],
+    "story_marvermelhoatacado_3955886967645517201": [
+      {"n": "Café Solúvel Maratá Tradicional SC 40G", "p": "3,79", "u": "cada", "x": 5, "y": 32, "w": 90, "h": 50}
+    ]
+  }
+}

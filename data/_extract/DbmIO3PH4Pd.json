@@ -1,0 +1,40 @@
+{
+  "shortcode": "DbmIO3PH4Pd",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-04",
+  "fim": "2026-08-05",
+  "titulo": "Mar Vermelho Atacado - Ofertas Especiais Mês dos Pais",
+  "pages": {
+    "DbmIO3PH4Pd_p1": [
+      {"n": "Filé de Tilápia Lar PC 700G", "p": "37,99", "u": "cada", "x": 11, "y": 30, "w": 70, "h": 52}
+    ],
+    "DbmIO3PH4Pd_p2": [
+      {"n": "Filé de Peixe Merluza Fish Congelado PC 800G", "p": "28,99", "u": "cada (exceto Ceasa)", "x": 13, "y": 33, "w": 67, "h": 48}
+    ],
+    "DbmIO3PH4Pd_p3": [
+      {"n": "Charque Friboi Dianteiro 500G", "p": "27,99", "u": "cada (exceto Ceasa)", "x": 10, "y": 30, "w": 68, "h": 50}
+    ],
+    "DbmIO3PH4Pd_p4": [
+      {"n": "Manteiga Itacolomy Comum Com Sal PT 500G", "p": "23,99", "u": "cada", "x": 13, "y": 33, "w": 67, "h": 47}
+    ],
+    "DbmIO3PH4Pd_p5": [
+      {"n": "Filezinho de Peito de Frango (Sassami) Sadia Congelado BDJ 1KG", "p": "18,49", "u": "cada", "x": 10, "y": 32, "w": 70, "h": 45}
+    ],
+    "DbmIO3PH4Pd_p6": [
+      {"n": "Filé de Peito de Frango Aurora Congelado BDJ 1KG", "p": "17,49", "u": "cada", "x": 10, "y": 30, "w": 68, "h": 47}
+    ],
+    "DbmIO3PH4Pd_p7": [
+      {"n": "Queijo Processado Sabor Requeijão Supremo Cremoso 200G", "p": "4,79", "u": "cada", "x": 17, "y": 30, "w": 55, "h": 52}
+    ],
+    "DbmIO3PH4Pd_p8": [
+      {"n": "Farinha Láctea Maratá SC 180G", "p": "4,59", "u": "cada", "x": 17, "y": 32, "w": 63, "h": 48}
+    ],
+    "DbmIO3PH4Pd_p9": [
+      {"n": "Café Solúvel Maratá Tradicional SC 40G", "p": "3,79", "u": "cada", "x": 9, "y": 32, "w": 65, "h": 42}
+    ],
+    "DbmIO3PH4Pd_p10": [
+      {"n": "Hambúrguer Tony Ave e Bovino 56G", "p": "0,79", "u": "cada", "x": 11, "y": 33, "w": 63, "h": 42}
+    ]
+  }
+}

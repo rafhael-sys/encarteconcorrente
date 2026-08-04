@@ -1,0 +1,35 @@
+{
+  "shortcode": "story_cortefacil.atacarejo_20260803",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-03",
+  "fim": "2026-08-03",
+  "titulo": "Corte Fácil - Segunda é Feira (ofertas do dia 03/08)",
+  "pages": {
+    "story_cortefacil.atacarejo_3955522518639553478": [],
+    "story_cortefacil.atacarejo_3955522754644626807": [],
+    "story_cortefacil.atacarejo_3955548739683337726": [],
+    "story_cortefacil.atacarejo_3955564555106997098": [
+      {"n": "Café União Tradicional Torrado e Moído 250g", "p": "10,99", "u": "un", "x": 25, "y": 37, "w": 50, "h": 50}
+    ],
+    "story_cortefacil.atacarejo_3955581331450547828": [
+      {"n": "Morangos Congelados 1,02kg", "p": "15,99", "u": "un", "x": 24, "y": 37, "w": 52, "h": 50}
+    ],
+    "story_cortefacil.atacarejo_3955590033285666199": [],
+    "story_cortefacil.atacarejo_3955602186461084316": [],
+    "story_cortefacil.atacarejo_3955695625873656993": [
+      {"n": "Bebida Láctea Nescau Fator Crescer Chocolate 180ml", "p": "1,89", "u": "un", "x": 25, "y": 40, "w": 50, "h": 50}
+    ],
+    "story_cortefacil.atacarejo_3955724167932925297": [],
+    "story_cortefacil.atacarejo_3955732401158391250": [],
+    "story_cortefacil.atacarejo_3955757988948623079": [
+      {"n": "Aveia AllNutri (Tradicional / Flocos Finos) 170g", "p": "3,49", "u": "un", "x": 25, "y": 40, "w": 50, "h": 52}
+    ],
+    "story_cortefacil.atacarejo_3955766943718090984": [],
+    "story_cortefacil.atacarejo_3955816503463455976": [],
+    "story_cortefacil.atacarejo_3955889487473383063": [],
+    "story_cortefacil.atacarejo_3955889536859895642": [
+      {"n": "Azeite Extra Virgem Andorinha 250ml", "p": "16,99", "u": "un", "x": 26, "y": 46, "w": 46, "h": 44}
+    ]
+  }
+}

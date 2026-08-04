@@ -1,0 +1,15 @@
+{
+  "certos": [
+    {"k": "lava roupas em po tixan ype fragrancias 1,6kg || sabao em po tixan ype fragrancias 1,6kg", "a": "Lava Roupas em Pó Tixan Ypê Fragrâncias 1,6kg", "b": "Sabão em Pó Tixan Ypê Fragrâncias 1,6Kg", "veredito": "mesmo"},
+    {"k": "file de peito de frango congelado envelopado kg || file de peito de frango envelopado kg", "a": "Filé de Peito de Frango Envelopado KG", "b": "Filé de Peito de Frango Congelado Envelopado kg", "veredito": "mesmo"},
+    {"k": "azeite de oliva extra virgem allegro 500ml || azeite extra virgem allegro 500ml", "a": "Azeite Extra Virgem Allegro 500ml", "b": "Azeite de Oliva Extra Virgem Allegro 500ml", "veredito": "mesmo"},
+    {"k": "faca chef inox prem tramontina 20cm || faca chef inox premium tramontina 8cm un", "a": "Faca Chef Inox Prem Tramontina 20cm", "b": "Faca Chef Inox Premium Tramontina 8cm un", "veredito": "diferente"},
+    {"k": "file de peito de frango ave nova congelado || file de peito de frango congelado", "a": "Filé de Peito de Frango Ave Nova Congelado", "b": "Filé de Peito de Frango Congelado", "veredito": "diferente"},
+    {"k": "racao p/gatos whiskas (sabores, exceto salmao) || racao para gatos whiskas (a granel - sabores, exceto salmao)", "a": "Ração para Gatos Whiskas (A Granel - Sabores, exceto Salmão)", "b": "RAÇÃO P/GATOS WHISKAS (SABORES, EXCETO SALMÃO)", "veredito": "mesmo"},
+    {"k": "bebida vegetal tal da castanha 1l || bebida vegetal tal da castanha original 1l", "a": "Bebida Vegetal Tal da Castanha 1L", "b": "Bebida Vegetal Tal da Castanha Original 1L", "veredito": "mesmo"},
+    {"k": "shampoo johnson's baby 200ml || shampoo johnsons 200ml", "a": "Shampoo Johnsons 200ml", "b": "Shampoo Johnson's Baby 200ml", "veredito": "mesmo"},
+    {"k": "fralda descartavel mamypoko jumbo || fralda descartavel mamypoko jumbo (m/xg/xxg)", "a": "Fralda Descartável Mamypoko Jumbo (M/XG/XXG)", "b": "Fralda Descartável Mamypoko Jumbo", "veredito": "mesmo"},
+    {"k": "maionese vigor pouch 200g || maionese vigor sache 200g", "a": "Maionese Vigor Pouch 200g", "b": "Maionese Vigor Sachê 200g", "veredito": "mesmo"}
+  ],
+  "incertos": []
+}

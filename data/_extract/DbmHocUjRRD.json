@@ -1,0 +1,26 @@
+{
+  "shortcode": "DbmHocUjRRD",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-04",
+  "fim": "2026-08-09",
+  "titulo": "Mais Bebê RedeMAIS",
+  "pages": {
+    "DbmHocUjRRD_p1": [
+      {"n": "Leite em Pó NINHO 575g Integral/Instantâneo Sachê", "p": "25,98", "u": "cada", "x": 6, "y": 35, "w": 27, "h": 25},
+      {"n": "Fralda Descartável PAMPERS Pants Ajuste Total Mega", "p": "34,99", "u": "cada", "x": 34, "y": 35, "w": 30, "h": 25},
+      {"n": "Kit SKALINHA Bebê Shampoo + Condicionador 200ml Fragrâncias", "p": "14,98", "u": "cada", "x": 64, "y": 35, "w": 31, "h": 25},
+      {"n": "Colônia Lavanda SKALINHA Bebê 200ml", "p": "10,98", "u": "cada", "x": 8, "y": 60, "w": 27, "h": 24},
+      {"n": "Sabonete Líquido SKALINHA Bebê 200ml Lavanda", "p": "7,99", "u": "cada", "x": 36, "y": 60, "w": 28, "h": 24},
+      {"n": "Sabonete BARUEL BABY 70g Fragrâncias", "p": "3,29", "u": "cada", "x": 64, "y": 60, "w": 31, "h": 24}
+    ],
+    "DbmHocUjRRD_p2": [
+      {"n": "Condicionador SKALINHA Bebê 200ml Fragrâncias", "p": "8,99", "u": "cada", "x": 10, "y": 42, "w": 26, "h": 24},
+      {"n": "Shampoo SKALINHA Bebê 200ml Fragrâncias", "p": "8,99", "u": "cada", "x": 37, "y": 42, "w": 26, "h": 24},
+      {"n": "Hastes Flexíveis JOHNSON COTONETES c/75", "p": "5,98", "u": "cada", "x": 64, "y": 42, "w": 31, "h": 24},
+      {"n": "Creme para Assadura BARUEL BABY 120g +20g Grátis", "p": "15,59", "u": "cada, leve mais pague menos", "x": 8, "y": 66, "w": 28, "h": 23},
+      {"n": "Talco BARUEL BABY 100g", "p": "9,98", "u": "cada", "x": 37, "y": 66, "w": 26, "h": 23},
+      {"n": "Toalha Umedecida PIQUITUCHO Hidrata c/140", "p": "8,98", "u": "cada", "x": 63, "y": 66, "w": 32, "h": 23}
+    ]
+  }
+}

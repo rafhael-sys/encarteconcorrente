@@ -1,0 +1,28 @@
+{
+  "shortcode": "DblX_2MG-pU",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-07-31",
+  "fim": "2026-08-06",
+  "titulo": "Mar Vermelho Atacado - Mês dos Pais",
+  "pages": {
+    "DblX_2MG-pU_p1": [
+      {"n": "Leite em Pó Confiança Integral SC 200g", "p": "5,69", "u": "cada", "x": 14, "y": 33, "w": 75, "h": 51}
+    ],
+    "DblX_2MG-pU_p2": [
+      {"n": "Coxão Mole Bovino Resfriado Peça ou Pedaço", "p": "35,88", "u": "kg", "x": 13, "y": 40, "w": 76, "h": 45}
+    ],
+    "DblX_2MG-pU_p3": [
+      {"n": "Hambúrguer Rezende Ave e Suíno 56g", "p": "0,99", "u": "cada", "x": 14, "y": 36, "w": 75, "h": 48}
+    ],
+    "DblX_2MG-pU_p4": [
+      {"n": "Óleo de Soja Siol PET 500ml", "p": "4,99", "u": "cada", "x": 14, "y": 33, "w": 75, "h": 51}
+    ],
+    "DblX_2MG-pU_p5": [
+      {"n": "Papel Higiênico Sublime Softys Folha Dupla 30m", "p": "15,99", "u": "cada, leve 12 pague 11", "x": 13, "y": 33, "w": 77, "h": 50}
+    ],
+    "DblX_2MG-pU_p6": [
+      {"n": "Cerveja Heineken Long Neck 250ml", "p": "4,59", "u": "cada, exceto Ceasa", "x": 14, "y": 31, "w": 74, "h": 53}
+    ]
+  }
+}

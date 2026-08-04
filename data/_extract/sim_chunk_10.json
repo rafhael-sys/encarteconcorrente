@@ -1,0 +1,15 @@
+{
+  "certos": [
+    {"k": "cafe em po uniao tradicional 250g || cafe uniao tradicional 250g", "a": "Café União Tradicional 250g", "b": "Café em Pó União Tradicional 250g", "veredito": "mesmo"},
+    {"k": "morango congelado delta 1,02kg || morango congelado moa 1,02kg", "a": "Morango Congelado Moa 1,02kg", "b": "Morango Congelado Delta 1,02kg", "veredito": "diferente"},
+    {"k": "papel-aluminio bompack 30cm x 4m || papel-aluminio bompack rolo 30cmx4m", "a": "Papel-Alumínio Bompack rolo 30cmx4m", "b": "Papel-Alumínio Bompack 30cm x 4m", "veredito": "mesmo"},
+    {"k": "molho de tomate tradicional sadio 300g || molho de tomate tradicional stella d'oro 300g", "a": "Molho de Tomate Tradicional Sadio 300g", "b": "Molho de Tomate Tradicional Stella D'Oro 300g", "veredito": "diferente"},
+    {"k": "lava roupas em po omo 1,6kg || lava-roupas em po ala 1,6kg", "a": "Lava Roupas em Pó OMO 1,6kg", "b": "Lava-Roupas em Pó Ala 1,6kg", "veredito": "diferente"},
+    {"k": "azeite de oliva andorinha extra virgem 500ml || azeite de oliva gallo extra virgem 500ml", "a": "Azeite de Oliva Andorinha Extra Virgem 500ml", "b": "Azeite de Oliva Gallo Extra Virgem 500ml", "veredito": "diferente"},
+    {"k": "uva vitoria s/semente 500g || uva vitoria sem sementes bdj 500g", "a": "Uva Vitória Sem Sementes BDJ 500g", "b": "UVA VITORIA S/SEMENTE 500G", "veredito": "mesmo"},
+    {"k": "feijao preto clebom tipo 2 1kg || feijao preto dubom tipo 1 1kg", "a": "Feijão Preto DuBom Tipo 1 1kg", "b": "Feijão Preto Clebom Tipo 2 1kg", "veredito": "diferente"},
+    {"k": "arroz parbo tio manoel 1kg || arroz parboilizado tio manoel 1kg", "a": "ARROZ PARBOILIZADO TIO MANOEL 1KG", "b": "Arroz Parbo Tio Manoel 1Kg", "veredito": "mesmo"},
+    {"k": "banana prata ou banana pacovan kg || banana prata ou pacovan kg", "a": "Banana Prata ou Banana Pacovan Kg", "b": "Banana Prata ou Pacovan kg", "veredito": "mesmo"}
+  ],
+  "incertos": []
+}

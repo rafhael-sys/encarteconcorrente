@@ -1,0 +1,56 @@
+{
+  "certos": [
+    {
+      "k": "sardinha robinson crusoe 125g || sardinha robinson crusoe lt 125g oleo",
+      "a": "Sardinha Robinson Crusoé 125g",
+      "b": "Sardinha Robinson Crusoé LT 125g Óleo",
+      "veredito": "mesmo"
+    },
+    {
+      "k": "azeitonas verdes com carocos la preferida 500g || azeitonas verdes com carocos vale fertil 500g",
+      "a": "Azeitonas Verdes com Caroços Vale Fértil 500g",
+      "b": "Azeitonas Verdes com Caroços La Preferida 500g",
+      "veredito": "diferente"
+    },
+    {
+      "k": "fr desc babysec ultra shortinho tamanhos || fralda descartavel babysec ultra shortinho tamanhos",
+      "a": "Fralda Descartável Babysec Ultra Shortinho Tamanhos",
+      "b": "Fr Desc Babysec Ultra Shortinho Tamanhos",
+      "veredito": "mesmo"
+    },
+    {
+      "k": "capa de file bovina kg || capa de file bovino",
+      "a": "Capa de Filé Bovina kg",
+      "b": "Capa de Filé Bovino",
+      "veredito": "mesmo"
+    },
+    {
+      "k": "vh tt arg queb de las flechas 750ml sabores || vinho tinto argentino queb de las flechas 750ml sabores",
+      "a": "Vinho Tinto Argentino Queb de Las Flechas 750ml Sabores",
+      "b": "VH TT ARG QUEB DE LAS FLECHAS 750ML SABORES",
+      "veredito": "mesmo"
+    },
+    {
+      "k": "molho de tomate tradicional pomodoro sache 300g || molho de tomate tradicional stella d'oro sache 300g",
+      "a": "Molho de Tomate Tradicional Pomodoro Sachê 300g",
+      "b": "Molho de Tomate Tradicional Stella D'Oro Sachê 300g",
+      "veredito": "diferente"
+    },
+    {
+      "k": "leite condensado ccgl semidesnatado 395g || leite condensado damare semidesnatado 395g",
+      "a": "Leite Condensado CCGL Semidesnatado 395g",
+      "b": "Leite Condensado Damare Semidesnatado 395g",
+      "veredito": "diferente"
+    },
+    {
+      "k": "cafe soluvel santa clara extra forte leve 40g pague 36g || cafe soluvel santa clara leve 40g pague 36g",
+      "a": "Café Solúvel Santa Clara Extra Forte Leve 40g Pague 36g",
+      "b": "Café Solúvel Santa Clara Leve 40g Pague 36g",
+      "veredito": "mesmo"
+    }
+  ],
+  "incertos": [
+    "oleo de soja vila velha 900ml || oleo de soja vila velha ou liza 900ml",
+    "refrigerante guarana antarctica original ou zero acucar 1l || refrigerante pepsi, guarana antarctica original ou zero 1l"
+  ]
+}

@@ -12861,5 +12861,394 @@
   "veredito": "mesmo",
   "quando": "2026-08-03",
   "aplicado": true
+ },
+ "desodorante aerossol above 150ml || desodorante aerossol one above 150ml": {
+  "a": "Desodorante Aerossol Above 150ml",
+  "b": "Desodorante Aerossol One Above 150ml",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "molho de tomate tradicional stella d'oro 300g || molho de tomate tradicional stella d'oro sache 300g": {
+  "a": "Molho de Tomate Tradicional Stella D'Oro Sachê 300g",
+  "b": "Molho de Tomate Tradicional Stella D'Oro 300g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "alimento para caes champ filhotes frango 85g || alimento para caes champ filhotes frango/carne 85g": {
+  "a": "Alimento para Cães Champ Filhotes Frango 85g",
+  "b": "Alimento para Cães Champ Filhotes Frango/Carne 85g",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "arroz p/caes au au 5kg || arroz para caes au! au! 5kg": {
+  "a": "Arroz p/Cães Au Au 5kg",
+  "b": "Arroz para Cães Au! Au! 5kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "desodorante em creme above 50g || desodorante em creme above pote 50g": {
+  "a": "Desodorante em Creme Above Pote 50g",
+  "b": "Desodorante em Creme Above 50g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "petisco para gatos dreamies carne 40g || petisco para gatos dreamies sabores 40g": {
+  "a": "Petisco para Gatos Dreamies Sabores 40g",
+  "b": "Petisco para Gatos Dreamies Carne 40g",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "manteiga com sal betania 200g || manteiga com sal betania pote 200g": {
+  "a": "Manteiga com Sal Betânia Pote 200g",
+  "b": "Manteiga com Sal Betânia 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "lenco umedecido piquitucho 120 unidades || lencos umedecidos piquitucho 48 unidades": {
+  "a": "Lenços Umedecidos Piquitucho 48 Unidades",
+  "b": "Lenço Umedecido Piquitucho 120 unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "bebida lactea sabor morango betania 680g || bebida lactea sabor morango betania bandeja 680g": {
+  "a": "Bebida Láctea Sabor Morango Betânia Bandeja 680g",
+  "b": "Bebida Láctea Sabor Morango Betânia 680g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "cafe em po uniao tradicional 250g || cafe uniao tradicional 250g": {
+  "a": "Café União Tradicional 250g",
+  "b": "Café em Pó União Tradicional 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "morango congelado delta 1,02kg || morango congelado moa 1,02kg": {
+  "a": "Morango Congelado Moa 1,02kg",
+  "b": "Morango Congelado Delta 1,02kg",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "papel-aluminio bompack 30cm x 4m || papel-aluminio bompack rolo 30cmx4m": {
+  "a": "Papel-Alumínio Bompack rolo 30cmx4m",
+  "b": "Papel-Alumínio Bompack 30cm x 4m",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "molho de tomate tradicional sadio 300g || molho de tomate tradicional stella d'oro 300g": {
+  "a": "Molho de Tomate Tradicional Sadio 300g",
+  "b": "Molho de Tomate Tradicional Stella D'Oro 300g",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "lava roupas em po omo 1,6kg || lava-roupas em po ala 1,6kg": {
+  "a": "Lava Roupas em Pó OMO 1,6kg",
+  "b": "Lava-Roupas em Pó Ala 1,6kg",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "azeite de oliva andorinha extra virgem 500ml || azeite de oliva gallo extra virgem 500ml": {
+  "a": "Azeite de Oliva Andorinha Extra Virgem 500ml",
+  "b": "Azeite de Oliva Gallo Extra Virgem 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "uva vitoria s/semente 500g || uva vitoria sem sementes bdj 500g": {
+  "a": "Uva Vitória Sem Sementes BDJ 500g",
+  "b": "UVA VITORIA S/SEMENTE 500G",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "feijao preto clebom tipo 2 1kg || feijao preto dubom tipo 1 1kg": {
+  "a": "Feijão Preto DuBom Tipo 1 1kg",
+  "b": "Feijão Preto Clebom Tipo 2 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "arroz parbo tio manoel 1kg || arroz parboilizado tio manoel 1kg": {
+  "a": "ARROZ PARBOILIZADO TIO MANOEL 1KG",
+  "b": "Arroz Parbo Tio Manoel 1Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "banana prata ou banana pacovan kg || banana prata ou pacovan kg": {
+  "a": "Banana Prata ou Banana Pacovan Kg",
+  "b": "Banana Prata ou Pacovan kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "lava roupas em po tixan ype fragrancias 1,6kg || sabao em po tixan ype fragrancias 1,6kg": {
+  "a": "Lava Roupas em Pó Tixan Ypê Fragrâncias 1,6kg",
+  "b": "Sabão em Pó Tixan Ypê Fragrâncias 1,6Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "file de peito de frango congelado envelopado kg || file de peito de frango envelopado kg": {
+  "a": "Filé de Peito de Frango Envelopado KG",
+  "b": "Filé de Peito de Frango Congelado Envelopado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "azeite de oliva extra virgem allegro 500ml || azeite extra virgem allegro 500ml": {
+  "a": "Azeite Extra Virgem Allegro 500ml",
+  "b": "Azeite de Oliva Extra Virgem Allegro 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "faca chef inox prem tramontina 20cm || faca chef inox premium tramontina 8cm un": {
+  "a": "Faca Chef Inox Prem Tramontina 20cm",
+  "b": "Faca Chef Inox Premium Tramontina 8cm un",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "file de peito de frango ave nova congelado || file de peito de frango congelado": {
+  "a": "Filé de Peito de Frango Ave Nova Congelado",
+  "b": "Filé de Peito de Frango Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "racao p/gatos whiskas (sabores, exceto salmao) || racao para gatos whiskas (a granel - sabores, exceto salmao)": {
+  "a": "Ração para Gatos Whiskas (A Granel - Sabores, exceto Salmão)",
+  "b": "RAÇÃO P/GATOS WHISKAS (SABORES, EXCETO SALMÃO)",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "bebida vegetal tal da castanha 1l || bebida vegetal tal da castanha original 1l": {
+  "a": "Bebida Vegetal Tal da Castanha 1L",
+  "b": "Bebida Vegetal Tal da Castanha Original 1L",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "shampoo johnson's baby 200ml || shampoo johnsons 200ml": {
+  "a": "Shampoo Johnsons 200ml",
+  "b": "Shampoo Johnson's Baby 200ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "fralda descartavel mamypoko jumbo || fralda descartavel mamypoko jumbo (m/xg/xxg)": {
+  "a": "Fralda Descartável Mamypoko Jumbo (M/XG/XXG)",
+  "b": "Fralda Descartável Mamypoko Jumbo",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "maionese vigor pouch 200g || maionese vigor sache 200g": {
+  "a": "Maionese Vigor Pouch 200g",
+  "b": "Maionese Vigor Sachê 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "flocao fortemilho 400g || flocao fortemilho milho 400g": {
+  "a": "Flocão Fortemilho 400g",
+  "b": "Flocão Fortemilho Milho 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "mortadela de frango friato || mortadela de frango tony": {
+  "a": "Mortadela de Frango Tony",
+  "b": "Mortadela de Frango Friato",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "condicionador novex recarga de queratina 80g || condicionador novex recarga de queratina unidade com 80g": {
+  "a": "Condicionador Novex Recarga de Queratina Unidade com 80g",
+  "b": "Condicionador Novex Recarga de Queratina 80g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "kit ox shampoo + condicionador varios tipos || kit shampoo + condicionador ox tipos": {
+  "a": "Kit OX Shampoo + Condicionador Vários Tipos",
+  "b": "Kit Shampoo + Condicionador OX Tipos",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "beb proteica yopro 250ml 15g capp || bebida proteica yopro 250ml 15g cappuccino": {
+  "a": "Bebida Proteica YoPro 250ml 15g Cappuccino",
+  "b": "Beb Proteica Yopro 250ml 15g Capp",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "achocolatado em po powerlate 700g || achocolatado em po powerlate sao braz 700g": {
+  "a": "Achocolatado em Pó Powerlate São Braz 700g",
+  "b": "Achocolatado em Pó Powerlate 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "cafe nordestino almofada 250g || cafe torrado nordestino almofada 250g": {
+  "a": "Café Nordestino Almofada 250g",
+  "b": "Café Torrado Nordestino Almofada 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "queijo mussarela domilac/girolanda kg || queijo mussarela girolanda kg": {
+  "a": "Queijo Mussarela Girolanda Kg",
+  "b": "Queijo Mussarela DOMILAC/GIROLANDA kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "margarina deline com sal 500g || margarina deline cremosa com sal 500g": {
+  "a": "Margarina Deline com sal 500g",
+  "b": "Margarina Deline Cremosa com Sal 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "sardinha robinson crusoe 125g || sardinha robinson crusoe lt 125g oleo": {
+  "a": "Sardinha Robinson Crusoé 125g",
+  "b": "Sardinha Robinson Crusoé LT 125g Óleo",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "azeitonas verdes com carocos la preferida 500g || azeitonas verdes com carocos vale fertil 500g": {
+  "a": "Azeitonas Verdes com Caroços Vale Fértil 500g",
+  "b": "Azeitonas Verdes com Caroços La Preferida 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "fr desc babysec ultra shortinho tamanhos || fralda descartavel babysec ultra shortinho tamanhos": {
+  "a": "Fralda Descartável Babysec Ultra Shortinho Tamanhos",
+  "b": "Fr Desc Babysec Ultra Shortinho Tamanhos",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "capa de file bovina kg || capa de file bovino": {
+  "a": "Capa de Filé Bovina kg",
+  "b": "Capa de Filé Bovino",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "vh tt arg queb de las flechas 750ml sabores || vinho tinto argentino queb de las flechas 750ml sabores": {
+  "a": "Vinho Tinto Argentino Queb de Las Flechas 750ml Sabores",
+  "b": "VH TT ARG QUEB DE LAS FLECHAS 750ML SABORES",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "molho de tomate tradicional pomodoro sache 300g || molho de tomate tradicional stella d'oro sache 300g": {
+  "a": "Molho de Tomate Tradicional Pomodoro Sachê 300g",
+  "b": "Molho de Tomate Tradicional Stella D'Oro Sachê 300g",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "leite condensado ccgl semidesnatado 395g || leite condensado damare semidesnatado 395g": {
+  "a": "Leite Condensado CCGL Semidesnatado 395g",
+  "b": "Leite Condensado Damare Semidesnatado 395g",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "cafe soluvel santa clara extra forte leve 40g pague 36g || cafe soluvel santa clara leve 40g pague 36g": {
+  "a": "Café Solúvel Santa Clara Extra Forte Leve 40g Pague 36g",
+  "b": "Café Solúvel Santa Clara Leve 40g Pague 36g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "croissant nutri 400g frango ou folhado calabresa ou quejada 400g || croissant nutri 400g frango ou folhado nutri 400g calabresa ou queijada nutri 400g": {
+  "a": "Croissant Nutri 400g Frango ou Folhado Nutri 400g Calabresa ou Queijada Nutri 400g",
+  "b": "Croissant Nutri 400g Frango ou Folhado Calabresa ou Quejada 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "absorvente sempre livre conforto noturno seca com abas pacote com 32 unidades || absorvente sempre livre conforto noturno suave pacote com 16 unidades": {
+  "a": "Absorvente Sempre Livre Conforto noturno Suave Pacote com 16 unidades",
+  "b": "Absorvente Sempre Livre Conforto Noturno Seca com abas Pacote com 32 unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "racao gatos whiskas pct 900g sabores || racao para gatos whiskas 900g sabores": {
+  "a": "Ração Gatos Whiskas PCT 900g Sabores",
+  "b": "Racao para Gatos Whiskas 900g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "sabao em barra limao absoluto 5x160g || sabao em barra neutro absoluto 5x160g": {
+  "a": "Sabão em Barra Limão Absoluto 5x160g",
+  "b": "Sabão em Barra Neutro Absoluto 5x160g",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "lava-roupas liquido absoluto! 3l || lava-roupas liquido omo 3l": {
+  "a": "Lava-Roupas Líquido Absoluto! 3L",
+  "b": "Lava-Roupas Líquido Omo 3L",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "peito de frango congelado || peito de frango friato congelado": {
+  "a": "Peito de Frango Friato Congelado",
+  "b": "Peito de Frango Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "frango a passarinho bom todo 1kg pct || frango a passarinho temp bom todo 1kg": {
+  "a": "Frango a Passarinho Bom Todo 1kg PCT",
+  "b": "Frango a Passarinho Temp Bom Todo 1Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "cerveja amstel puro malte 350ml (sleek) || cerveja petra puro malte 350ml sleek": {
+  "a": "Cerveja Petra Puro Malte 350ml Sleek",
+  "b": "Cerveja Amstel Puro Malte 350ml (Sleek)",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "acucar refinado triturado olho d'agua 1kg || acucar triturado olho d'agua 1kg": {
+  "a": "Açúcar Triturado Olho D'Água 1kg",
+  "b": "Açúcar Refinado Triturado Olho D'Água 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-03",
+  "aplicado": true
+ },
+ "carne bovina coxao mole resfriado || carne bovina de sol coxao mole resfriada": {
+  "a": "Carne Bovina de Sol Coxão Mole Resfriada",
+  "b": "Carne Bovina Coxão Mole Resfriado",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "agua sanitaria brilux bombona com 5l || agua sanitaria clorito bombona com 5l": {
+  "a": "Água Sanitária Clorito Bombona com 5L",
+  "b": "Água Sanitária Brilux Bombona com 5L",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "carne bovina maminha reserva resfriada || carne bovina rabo reserva resfriada": {
+  "a": "Carne Bovina Rabo Reserva Resfriada",
+  "b": "Carne Bovina Maminha Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
+ },
+ "carne bovina contra file resfriado kg || carne bovina coxao mole resfriado kg": {
+  "a": "Carne Bovina Coxão Mole Resfriado Kg",
+  "b": "Carne Bovina Contra Filé Resfriado kg",
+  "veredito": "diferente",
+  "quando": "2026-08-03"
  }
 }

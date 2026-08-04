@@ -1,0 +1,67 @@
+{
+  "shortcode": "story_miramarsupermercado_20260803",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-03",
+  "fim": "2026-08-11",
+  "titulo": "Miramar - Ofertas e Terça da Carne",
+  "pages": {
+    "story_miramarsupermercado_3955605694573318836": [],
+    "story_miramarsupermercado_3955623301651851344": [],
+    "story_miramarsupermercado_3955747574329307331": [
+      {"n":"Óleo de Soja ABC 900ml","p":"7,49","u":"cada, no app","x":3,"y":32,"w":45,"h":25},
+      {"n":"Carne Bovina Chã de Fora Kg","p":"38,99","u":"kg, no app","x":51,"y":32,"w":46,"h":25},
+      {"n":"Carne Bovina Patinho Kg","p":"38,99","u":"kg, no app","x":3,"y":61,"w":45,"h":24},
+      {"n":"Açúcar Alegre Triturado 1kg","p":"2,79","u":"cada, no app","x":51,"y":61,"w":46,"h":24}
+    ],
+    "story_miramarsupermercado_3955747726062394511": [
+      {"n":"Fraldas Descartáveis Babysec Ultra Sequinha Shortinho","p":"27,99","u":"pacote, no app","x":3,"y":21,"w":44,"h":27},
+      {"n":"Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11","p":"9,99","u":"pacote, no app; leve 12 pague 11","x":48,"y":21,"w":50,"h":27},
+      {"n":"Lava Roupas em Pó Ala Fragrâncias 400g","p":"2,69","u":"cada","x":3,"y":48,"w":44,"h":32},
+      {"n":"Água Sanitária Dragão 1L","p":"2,19","u":"cada","x":55,"y":48,"w":42,"h":32}
+    ],
+    "story_miramarsupermercado_3955747939007259636": [
+      {"n":"Batata Pré-frita Easychef Congelada Tradicional 2kg","p":"19,99","u":"cada","x":1,"y":17,"w":30,"h":16},
+      {"n":"Filezinho de Peito de Frango Perdigão 1kg","p":"17,99","u":"bandeja","x":32,"y":17,"w":33,"h":16},
+      {"n":"Salsicha Hot Dog Rara Kg","p":"5,99","u":"kg, no app","x":66,"y":17,"w":33,"h":16},
+      {"n":"Macarrão Bonsabor Spaghetti 400g","p":"1,99","u":"cada, no app","x":1,"y":34,"w":30,"h":16},
+      {"n":"Farinha de Trigo Finna Tradicional 1kg","p":"3,99","u":"cada","x":32,"y":34,"w":33,"h":16},
+      {"n":"Leite UHT Parmalat Integral ou Desnatado 1L","p":"5,99","u":"cada, no app","x":66,"y":34,"w":33,"h":16},
+      {"n":"Arroz Parboilizado Panelaço 1kg","p":"3,49","u":"cada","x":5,"y":52,"w":40,"h":28},
+      {"n":"Café São Braz Família Almofada ou A Vácuo 250g","p":"12,99","u":"cada, no app","x":50,"y":52,"w":48,"h":28}
+    ],
+    "story_miramarsupermercado_3955768071004586671": [],
+    "story_miramarsupermercado_3955887306660953334": [
+      {"n":"Hambúrguer Misto Itaberaba 56g","p":"0,79","u":"cada, no app","x":3,"y":25,"w":45,"h":20},
+      {"n":"Presunto de Peru Perdigão Kg","p":"28,99","u":"kg","x":50,"y":25,"w":48,"h":20},
+      {"n":"Queijo Mussarela Unalac Peça ou Pedaço Kg","p":"39,99","u":"kg, no app","x":3,"y":46,"w":45,"h":20},
+      {"n":"Batata Pré-frita Easychef Corte Fino Congelada 2kg","p":"22,99","u":"pacote, no app","x":50,"y":46,"w":48,"h":20},
+      {"n":"Manteiga Ipanema com Sal 500g","p":"17,99","u":"cada, no app","x":3,"y":66,"w":45,"h":22},
+      {"n":"Margarina Puro Sabor com Sal 500g","p":"4,99","u":"cada, no app","x":50,"y":66,"w":48,"h":22}
+    ],
+    "story_miramarsupermercado_3955887451859322420": [
+      {"n":"Salsicha Hot Dog Rara Kg","p":"5,99","u":"kg, no app","x":3,"y":25,"w":45,"h":20},
+      {"n":"Linguiça de Frango Bom Todo Kg","p":"14,99","u":"kg, no app","x":50,"y":25,"w":48,"h":20},
+      {"n":"Empanado de Frango Lar 100g","p":"1,39","u":"cada","x":3,"y":46,"w":45,"h":20},
+      {"n":"Coxa com Sobrecoxa de Frango com Dorsal Kg","p":"7,99","u":"kg, no app","x":50,"y":46,"w":48,"h":20},
+      {"n":"Coxinha da Asa Seara IQF 1kg","p":"16,99","u":"pacote, no app","x":3,"y":66,"w":45,"h":22},
+      {"n":"Filezinho de Peito de Frango Perdigão 1kg","p":"17,99","u":"bandeja","x":50,"y":66,"w":48,"h":22}
+    ],
+    "story_miramarsupermercado_3955887582855885468": [
+      {"n":"Sobrepaleta Suína Lar Congelada Kg","p":"19,99","u":"kg, no app","x":3,"y":25,"w":45,"h":20},
+      {"n":"Lombo Suíno Sem Osso Lar Congelado Kg","p":"21,99","u":"kg, no app","x":50,"y":25,"w":48,"h":20},
+      {"n":"Matambrito Suíno Lar Congelado Kg","p":"22,99","u":"kg, no app","x":3,"y":46,"w":45,"h":20},
+      {"n":"Filé Mignon Suíno Lar Congelado Kg","p":"24,99","u":"kg, no app","x":50,"y":46,"w":48,"h":20},
+      {"n":"Costela Suína em Tiras Lar Congelada Kg","p":"26,99","u":"kg, no app","x":3,"y":66,"w":45,"h":22},
+      {"n":"Linguiça Suína para Churrasco Aurora Kg","p":"17,99","u":"kg","x":50,"y":66,"w":48,"h":22}
+    ],
+    "story_miramarsupermercado_3955887707628038274": [
+      {"n":"Carne Bovina Lombo Serrado Kg","p":"26,99","u":"kg","x":3,"y":25,"w":45,"h":20},
+      {"n":"Carne Bovina Peito Serrado Kg","p":"26,99","u":"kg","x":50,"y":25,"w":48,"h":20},
+      {"n":"Carne Bovina Chã de Fora Kg","p":"38,99","u":"kg, no app","x":3,"y":46,"w":45,"h":20},
+      {"n":"Carne Bovina Patinho Kg","p":"38,99","u":"kg, no app","x":50,"y":46,"w":48,"h":20},
+      {"n":"Carne Bovina Patinho de Sol Kg","p":"39,99","u":"kg","x":3,"y":66,"w":45,"h":22},
+      {"n":"Picanha Fatiada Bordon Kg","p":"39,99","u":"kg, no app","x":50,"y":66,"w":48,"h":22}
+    ]
+  }
+}

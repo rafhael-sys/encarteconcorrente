@@ -1,0 +1,50 @@
+{
+  "shortcode": "story_redesuper.show_20260803",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-03",
+  "fim": "2026-08-06",
+  "titulo": "Rede Super Show - Ofertas da Semana (Família Show e Terça Show)",
+  "pages": {
+    "story_redesuper.show_3955665145244988735": [],
+    "story_redesuper.show_3955665200752456080": [
+      {"n": "Filé de Peito de Frango Levo 1kg", "p": "17,99", "u": "un", "x": 5, "y": 13, "w": 90, "h": 72}
+    ],
+    "story_redesuper.show_3955665321268753573": [
+      {"n": "Salsicha Hot-Dog Bom Todo", "p": "6,79", "u": "kg", "x": 5, "y": 10, "w": 90, "h": 80}
+    ],
+    "story_redesuper.show_3955665582937561689": [
+      {"n": "Pão Bisnaguinha Tradicional Center Massas 300g", "p": "4,99", "u": "un", "x": 5, "y": 3, "w": 92, "h": 45},
+      {"n": "Pão de Hambúrguer Center Massas 400g (Tradicional)", "p": "4,99", "u": "un", "x": 2, "y": 52, "w": 48, "h": 46},
+      {"n": "Pão de Forma Center Massas 400g (Tradicional)", "p": "4,99", "u": "un", "x": 52, "y": 52, "w": 46, "h": 46}
+    ],
+    "story_redesuper.show_3955665630953779376": [
+      {"n": "Café São Braz Família 250g (Almofada/Á Vácuo)", "p": "12,29", "u": "un", "x": 12, "y": 2, "w": 85, "h": 48},
+      {"n": "Flocão de Milho São Braz 500g", "p": "1,39", "u": "un", "x": 2, "y": 52, "w": 95, "h": 46}
+    ],
+    "story_redesuper.show_3955665978418387863": [
+      {"n": "Linguiça Aurora Churrasco", "p": "16,99", "u": "kg", "x": 5, "y": 15, "w": 90, "h": 77}
+    ],
+    "story_redesuper.show_3955666098682987515": [
+      {"n": "Lava Roupas Líquido eKonômico 3L", "p": "11,99", "u": "un", "x": 5, "y": 8, "w": 90, "h": 84}
+    ],
+    "story_redesuper.show_3955666087520634079": [
+      {"n": "Ovo Vermelho Avine Bandeja c/20 unidades", "p": "11,99", "u": "bandeja c/20 und, de R$ 17,99 por", "x": 2, "y": 2, "w": 48, "h": 48},
+      {"n": "Leite Condensado Triângulo Mineiro 395g", "p": "5,29", "u": "un", "x": 50, "y": 2, "w": 48, "h": 48},
+      {"n": "Arroz São Joaquim 1kg (Branco)", "p": "4,49", "u": "un", "x": 2, "y": 50, "w": 48, "h": 48},
+      {"n": "Fralda Pampers Pants Mega (Tamanhos)", "p": "39,99", "u": "de R$ 59,99 por, cliente cadastrado", "x": 50, "y": 50, "w": 48, "h": 48}
+    ],
+    "story_redesuper.show_3955666976394197835": [],
+    "story_redesuper.show_3955666176713858325": [],
+    "story_redesuper.show_3955855132637104948": [],
+    "story_redesuper.show_3955855375898440643": [
+      {"n": "Peito de Frango (Envelopado)", "p": "9,99", "u": "kg", "x": 6, "y": 35, "w": 28, "h": 27},
+      {"n": "Batata Pré-Frita Easychef 2kg (Congelada)", "p": "17,99", "u": "cada", "x": 35, "y": 35, "w": 27, "h": 27},
+      {"n": "Salsicha Hot-Dog Sadia", "p": "9,99", "u": "kg", "x": 63, "y": 35, "w": 28, "h": 27},
+      {"n": "Cupim Bovino (Congelado)", "p": "36,99", "u": "kg", "x": 6, "y": 62, "w": 28, "h": 25},
+      {"n": "Fígado Bovino (Congelado)", "p": "13,99", "u": "kg", "x": 35, "y": 62, "w": 27, "h": 25},
+      {"n": "Linguiça de Frango Bom Todo", "p": "13,99", "u": "kg", "x": 63, "y": 62, "w": 28, "h": 25}
+    ],
+    "story_redesuper.show_3955855756402586259": []
+  }
+}

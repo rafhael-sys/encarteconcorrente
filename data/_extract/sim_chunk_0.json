@@ -1,0 +1,61 @@
+{
+ "certos": [
+  {
+   "k": "desodorante aerossol above 150ml || desodorante aerossol one above 150ml",
+   "a": "Desodorante Aerossol Above 150ml",
+   "b": "Desodorante Aerossol One Above 150ml",
+   "veredito": "diferente"
+  },
+  {
+   "k": "molho de tomate tradicional stella d'oro 300g || molho de tomate tradicional stella d'oro sache 300g",
+   "a": "Molho de Tomate Tradicional Stella D'Oro Sachê 300g",
+   "b": "Molho de Tomate Tradicional Stella D'Oro 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "k": "alimento para caes champ filhotes frango 85g || alimento para caes champ filhotes frango/carne 85g",
+   "a": "Alimento para Cães Champ Filhotes Frango 85g",
+   "b": "Alimento para Cães Champ Filhotes Frango/Carne 85g",
+   "veredito": "diferente"
+  },
+  {
+   "k": "arroz p/caes au au 5kg || arroz para caes au! au! 5kg",
+   "a": "Arroz p/Cães Au Au 5kg",
+   "b": "Arroz para Cães Au! Au! 5kg",
+   "veredito": "mesmo"
+  },
+  {
+   "k": "desodorante em creme above 50g || desodorante em creme above pote 50g",
+   "a": "Desodorante em Creme Above Pote 50g",
+   "b": "Desodorante em Creme Above 50g",
+   "veredito": "mesmo"
+  },
+  {
+   "k": "petisco para gatos dreamies carne 40g || petisco para gatos dreamies sabores 40g",
+   "a": "Petisco para Gatos Dreamies Sabores 40g",
+   "b": "Petisco para Gatos Dreamies Carne 40g",
+   "veredito": "diferente"
+  },
+  {
+   "k": "manteiga com sal betania 200g || manteiga com sal betania pote 200g",
+   "a": "Manteiga com Sal Betânia Pote 200g",
+   "b": "Manteiga com Sal Betânia 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "k": "lenco umedecido piquitucho 120 unidades || lencos umedecidos piquitucho 48 unidades",
+   "a": "Lenços Umedecidos Piquitucho 48 Unidades",
+   "b": "Lenço Umedecido Piquitucho 120 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "k": "bebida lactea sabor morango betania 680g || bebida lactea sabor morango betania bandeja 680g",
+   "a": "Bebida Láctea Sabor Morango Betânia Bandeja 680g",
+   "b": "Bebida Láctea Sabor Morango Betânia 680g",
+   "veredito": "mesmo"
+  }
+ ],
+ "incertos": [
+  "maionese arisco 196g || maionese arisco sc 196g"
+ ]
+}

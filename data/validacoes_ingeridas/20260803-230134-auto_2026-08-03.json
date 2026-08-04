@@ -1,0 +1,299 @@
+{
+ "validacoes": [
+  {
+   "a": "Desodorante Aerossol Above 150ml",
+   "b": "Desodorante Aerossol One Above 150ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Molho de Tomate Tradicional Stella D'Oro Sachê 300g",
+   "b": "Molho de Tomate Tradicional Stella D'Oro 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Alimento para Cães Champ Filhotes Frango 85g",
+   "b": "Alimento para Cães Champ Filhotes Frango/Carne 85g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz p/Cães Au Au 5kg",
+   "b": "Arroz para Cães Au! Au! 5kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante em Creme Above Pote 50g",
+   "b": "Desodorante em Creme Above 50g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Petisco para Gatos Dreamies Sabores 40g",
+   "b": "Petisco para Gatos Dreamies Carne 40g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Manteiga com Sal Betânia Pote 200g",
+   "b": "Manteiga com Sal Betânia 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lenços Umedecidos Piquitucho 48 Unidades",
+   "b": "Lenço Umedecido Piquitucho 120 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Láctea Sabor Morango Betânia Bandeja 680g",
+   "b": "Bebida Láctea Sabor Morango Betânia 680g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café União Tradicional 250g",
+   "b": "Café em Pó União Tradicional 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Morango Congelado Moa 1,02kg",
+   "b": "Morango Congelado Delta 1,02kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel-Alumínio Bompack rolo 30cmx4m",
+   "b": "Papel-Alumínio Bompack 30cm x 4m",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Tradicional Sadio 300g",
+   "b": "Molho de Tomate Tradicional Stella D'Oro 300g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas em Pó OMO 1,6kg",
+   "b": "Lava-Roupas em Pó Ala 1,6kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite de Oliva Andorinha Extra Virgem 500ml",
+   "b": "Azeite de Oliva Gallo Extra Virgem 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva Vitória Sem Sementes BDJ 500g",
+   "b": "UVA VITORIA S/SEMENTE 500G",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Preto DuBom Tipo 1 1kg",
+   "b": "Feijão Preto Clebom Tipo 2 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "ARROZ PARBOILIZADO TIO MANOEL 1KG",
+   "b": "Arroz Parbo Tio Manoel 1Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Banana Prata ou Banana Pacovan Kg",
+   "b": "Banana Prata ou Pacovan kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas em Pó Tixan Ypê Fragrâncias 1,6kg",
+   "b": "Sabão em Pó Tixan Ypê Fragrâncias 1,6Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Envelopado KG",
+   "b": "Filé de Peito de Frango Congelado Envelopado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite Extra Virgem Allegro 500ml",
+   "b": "Azeite de Oliva Extra Virgem Allegro 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Faca Chef Inox Prem Tramontina 20cm",
+   "b": "Faca Chef Inox Premium Tramontina 8cm un",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Ave Nova Congelado",
+   "b": "Filé de Peito de Frango Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ração para Gatos Whiskas (A Granel - Sabores, exceto Salmão)",
+   "b": "RAÇÃO P/GATOS WHISKAS (SABORES, EXCETO SALMÃO)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Vegetal Tal da Castanha 1L",
+   "b": "Bebida Vegetal Tal da Castanha Original 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Shampoo Johnsons 200ml",
+   "b": "Shampoo Johnson's Baby 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Descartável Mamypoko Jumbo (M/XG/XXG)",
+   "b": "Fralda Descartável Mamypoko Jumbo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maionese Vigor Pouch 200g",
+   "b": "Maionese Vigor Sachê 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Flocão Fortemilho 400g",
+   "b": "Flocão Fortemilho Milho 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mortadela de Frango Tony",
+   "b": "Mortadela de Frango Friato",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Condicionador Novex Recarga de Queratina Unidade com 80g",
+   "b": "Condicionador Novex Recarga de Queratina 80g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit OX Shampoo + Condicionador Vários Tipos",
+   "b": "Kit Shampoo + Condicionador OX Tipos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Proteica YoPro 250ml 15g Cappuccino",
+   "b": "Beb Proteica Yopro 250ml 15g Capp",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó Powerlate São Braz 700g",
+   "b": "Achocolatado em Pó Powerlate 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Nordestino Almofada 250g",
+   "b": "Café Torrado Nordestino Almofada 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Girolanda Kg",
+   "b": "Queijo Mussarela DOMILAC/GIROLANDA kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Margarina Deline com sal 500g",
+   "b": "Margarina Deline Cremosa com Sal 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sardinha Robinson Crusoé 125g",
+   "b": "Sardinha Robinson Crusoé LT 125g Óleo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitonas Verdes com Caroços Vale Fértil 500g",
+   "b": "Azeitonas Verdes com Caroços La Preferida 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Fralda Descartável Babysec Ultra Shortinho Tamanhos",
+   "b": "Fr Desc Babysec Ultra Shortinho Tamanhos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Capa de Filé Bovina kg",
+   "b": "Capa de Filé Bovino",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Tinto Argentino Queb de Las Flechas 750ml Sabores",
+   "b": "VH TT ARG QUEB DE LAS FLECHAS 750ML SABORES",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Tradicional Pomodoro Sachê 300g",
+   "b": "Molho de Tomate Tradicional Stella D'Oro Sachê 300g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado CCGL Semidesnatado 395g",
+   "b": "Leite Condensado Damare Semidesnatado 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café Solúvel Santa Clara Extra Forte Leve 40g Pague 36g",
+   "b": "Café Solúvel Santa Clara Leve 40g Pague 36g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Croissant Nutri 400g Frango ou Folhado Nutri 400g Calabresa ou Queijada Nutri 400g",
+   "b": "Croissant Nutri 400g Frango ou Folhado Calabresa ou Quejada 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Conforto noturno Suave Pacote com 16 unidades",
+   "b": "Absorvente Sempre Livre Conforto Noturno Seca com abas Pacote com 32 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ração Gatos Whiskas PCT 900g Sabores",
+   "b": "Racao para Gatos Whiskas 900g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabão em Barra Limão Absoluto 5x160g",
+   "b": "Sabão em Barra Neutro Absoluto 5x160g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava-Roupas Líquido Absoluto! 3L",
+   "b": "Lava-Roupas Líquido Omo 3L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito de Frango Friato Congelado",
+   "b": "Peito de Frango Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Frango a Passarinho Bom Todo 1kg PCT",
+   "b": "Frango a Passarinho Temp Bom Todo 1Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Petra Puro Malte 350ml Sleek",
+   "b": "Cerveja Amstel Puro Malte 350ml (Sleek)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Açúcar Triturado Olho D'Água 1kg",
+   "b": "Açúcar Refinado Triturado Olho D'Água 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina de Sol Coxão Mole Resfriada",
+   "b": "Carne Bovina Coxão Mole Resfriado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Água Sanitária Clorito Bombona com 5L",
+   "b": "Água Sanitária Brilux Bombona com 5L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Rabo Reserva Resfriada",
+   "b": "Carne Bovina Maminha Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Coxão Mole Resfriado Kg",
+   "b": "Carne Bovina Contra Filé Resfriado kg",
+   "veredito": "diferente"
+  }
+ ]
+}

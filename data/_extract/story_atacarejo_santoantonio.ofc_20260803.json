@@ -1,0 +1,182 @@
+{
+  "shortcode": "story_atacarejo_santoantonio.ofc_20260803",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-01",
+  "fim": "2026-08-10",
+  "titulo": "Ofertas Dia dos Pais - Atacarejo Santo Antônio",
+  "pages": {
+    "story_atacarejo_santoantonio.ofc_3955585672231959644": [
+      {"n":"Filé de Peito Levo Pct kg","p":"14,49","u":"kg","x":9,"y":37,"w":16,"h":11},
+      {"n":"Galinha Matriz Somave kg","p":"7,49","u":"kg","x":26,"y":37,"w":16,"h":11},
+      {"n":"Coxa com Sobrecoxa Dorsal Jaguá kg","p":"6,98","u":"kg","x":42,"y":37,"w":16,"h":11},
+      {"n":"Galinha Leve Qdelícia kg","p":"5,98","u":"kg","x":58,"y":37,"w":16,"h":11},
+      {"n":"Queijo Mussarela Domilac pç ou pdç kg","p":"35,98","u":"kg","x":75,"y":37,"w":17,"h":11},
+      {"n":"Feijão Carioca Kumê 1kg","p":"6,79","u":"un","x":9,"y":49,"w":16,"h":9},
+      {"n":"Arroz Parboilizado Tio Manoel 1kg","p":"2,98","u":"un","x":26,"y":49,"w":16,"h":9},
+      {"n":"Flocão Fortemilho 400g","p":"0,89","u":"un","x":42,"y":49,"w":16,"h":9},
+      {"n":"Óleo de Soja ABC 900ml","p":"6,98","u":"un","x":58,"y":49,"w":16,"h":9},
+      {"n":"Molho de Tomate Sadio 300g","p":"1,29","u":"un","x":75,"y":49,"w":17,"h":9},
+      {"n":"Café Maratá Tradicional 250g","p":"11,98","u":"un","x":9,"y":58,"w":16,"h":9},
+      {"n":"Açúcar Ecoçúcar 1kg","p":"2,79","u":"un","x":26,"y":58,"w":16,"h":9},
+      {"n":"Leite Condensado Italac 395g","p":"5,69","u":"un","x":42,"y":58,"w":16,"h":9},
+      {"n":"Creme de Leite Italac 200g","p":"2,59","u":"un","x":58,"y":58,"w":16,"h":9},
+      {"n":"Leite em Pó Bom Gosto Integral 200g","p":"5,98","u":"un","x":75,"y":58,"w":17,"h":9},
+      {"n":"Whisky White Horse 1L","p":"59,90","u":"un","x":8,"y":67,"w":14,"h":9},
+      {"n":"Whisky Red Label 1L","p":"74,99","u":"un","x":22,"y":67,"w":14,"h":9},
+      {"n":"Cerveja Michelob Long Neck 330ml","p":"6,79","u":"un","x":37,"y":67,"w":14,"h":9},
+      {"n":"Cerveja Sol Zero Long Neck 330ml","p":"4,99","u":"un","x":51,"y":67,"w":14,"h":9},
+      {"n":"Cerveja Budweiser Long Neck 330ml","p":"5,69","u":"un","x":65,"y":67,"w":14,"h":9},
+      {"n":"Refrigerante Viver Sabores 2L","p":"3,89","u":"un","x":79,"y":67,"w":15,"h":9},
+      {"n":"Lava Roupas Líquido Limpamil 3L","p":"11,49","u":"un","x":8,"y":77,"w":14,"h":9},
+      {"n":"Lava Roupas em Pó Sonho 400g","p":"2,49","u":"un","x":22,"y":77,"w":14,"h":9},
+      {"n":"Lava Louças Ypê 500ml","p":"1,98","u":"un","x":37,"y":77,"w":14,"h":9},
+      {"n":"Kit Shampoo + Condicionador Elseve 545ml","p":"29,99","u":"un","x":51,"y":77,"w":14,"h":9},
+      {"n":"Creme de Tratamento Elseve 300g","p":"21,99","u":"un","x":65,"y":77,"w":14,"h":9},
+      {"n":"Papel Higiênico Folha Dupla Fofex c/12","p":"9,49","u":"un","x":79,"y":77,"w":15,"h":9}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955585756654951731": [
+      {"n":"Batata Pré-Frita Lar 2kg","p":"18,98","u":"un","x":8,"y":19,"w":14,"h":7},
+      {"n":"Linguiça Calabresa Sadia kg","p":"19,98","u":"kg","x":22,"y":19,"w":14,"h":7},
+      {"n":"Linguiça de Frango ou Churrasco Aurora kg","p":"16,98","u":"kg","x":37,"y":19,"w":13,"h":7},
+      {"n":"Frango a Passarinho Temperado Bom Todo 1kg","p":"11,99","u":"un","x":50,"y":19,"w":14,"h":7},
+      {"n":"Charque Goiano kg","p":"39,98","u":"kg","x":64,"y":19,"w":14,"h":7},
+      {"n":"Salsicha Hot Dog Avivar kg","p":"5,79","u":"kg","x":79,"y":19,"w":14,"h":7},
+      {"n":"Empanado de Frango Steak Lar 100g","p":"1,29","u":"un","x":8,"y":27,"w":14,"h":7},
+      {"n":"Requeijão Copo da Vaca 200g","p":"5,98","u":"un","x":22,"y":27,"w":14,"h":7},
+      {"n":"Margarina Deline 3kg","p":"25,98","u":"un","x":37,"y":27,"w":13,"h":7},
+      {"n":"Queijo Parmesão Galbani 180g","p":"22,99","u":"un","x":50,"y":27,"w":14,"h":7},
+      {"n":"Iogurte Nestlé Pouch 100g","p":"3,79","u":"un","x":64,"y":27,"w":14,"h":7},
+      {"n":"Iogurte Nestlé Grego 360g","p":"11,99","u":"un","x":79,"y":27,"w":14,"h":7},
+      {"n":"Arroz Branco São Joaquim 1kg","p":"4,19","u":"un","x":8,"y":34,"w":14,"h":7},
+      {"n":"Feijão Preto Kumê 1kg","p":"5,49","u":"un","x":22,"y":34,"w":14,"h":7},
+      {"n":"Milho para Pipoca Clebom 400g","p":"2,29","u":"un","x":37,"y":34,"w":13,"h":7},
+      {"n":"Dueto Fugini 170g","p":"2,98","u":"un","x":50,"y":34,"w":14,"h":7},
+      {"n":"Fiambre Kitut Abre Fácil 320g","p":"7,99","u":"un","x":64,"y":34,"w":14,"h":7},
+      {"n":"Sardinha em Óleo Cabo Verde 125g","p":"4,99","u":"un","x":79,"y":34,"w":14,"h":7},
+      {"n":"Flocão de Milho Nordestino 500g","p":"1,39","u":"un","x":8,"y":42,"w":14,"h":7},
+      {"n":"Macarrão Parafuso Estrela 400g","p":"3,49","u":"un","x":22,"y":42,"w":14,"h":7},
+      {"n":"Café Solúvel Maratá 40g","p":"4,89","u":"un","x":37,"y":42,"w":13,"h":7},
+      {"n":"Leite em Pó Bom Gosto Integral 700g","p":"19,98","u":"un","x":50,"y":42,"w":14,"h":7},
+      {"n":"Achocolatado em Pó Chocolatto 200g","p":"4,89","u":"un","x":64,"y":42,"w":14,"h":7},
+      {"n":"Aveia em Flocos Italac 165g","p":"3,29","u":"un","x":79,"y":42,"w":14,"h":7},
+      {"n":"Bebida Achocolatada Italakinho 200ml","p":"1,19","u":"un","x":8,"y":50,"w":14,"h":7},
+      {"n":"Biscoito Recheado Treloso 120g","p":"1,59","u":"un","x":22,"y":50,"w":14,"h":7},
+      {"n":"Bolacha Taboleiro Manteiga do Sertão 250g","p":"5,49","u":"un","x":37,"y":50,"w":13,"h":7},
+      {"n":"Batata Palha Rei de Ouro 400g","p":"14,98","u":"un","x":50,"y":50,"w":14,"h":7},
+      {"n":"Salgadinho Pippos 30g","p":"1,49","u":"un","x":64,"y":50,"w":14,"h":7},
+      {"n":"Salgadinho Pippos 60g","p":"2,59","u":"un","x":79,"y":50,"w":14,"h":7},
+      {"n":"Água Saborizada Legger 500ml","p":"2,79","u":"un","x":8,"y":57,"w":14,"h":7},
+      {"n":"Refrigerante Pepsi ou Guaraná Antarctica 1L","p":"4,99","u":"un","x":22,"y":57,"w":14,"h":7},
+      {"n":"Whisky ou Licor Jack Daniels 1L","p":"119,90","u":"un","x":37,"y":57,"w":13,"h":7},
+      {"n":"Whisky Chivas 12 Anos 1L","p":"119,90","u":"un","x":50,"y":57,"w":14,"h":7},
+      {"n":"Bebida Mista Ice Pego 300ml","p":"1,99","u":"un","x":64,"y":57,"w":14,"h":7},
+      {"n":"Cachaça Triunfo Umburana 250ml","p":"10,99","u":"un","x":79,"y":57,"w":14,"h":7},
+      {"n":"Pinho Bril Fragrância 500ml","p":"5,99","u":"un","x":8,"y":65,"w":14,"h":7},
+      {"n":"Amaciante Concentrado Mon Bijou 500ml","p":"7,99","u":"un","x":22,"y":65,"w":14,"h":7},
+      {"n":"Lã de Aço Bombril 45g","p":"1,69","u":"un","x":37,"y":65,"w":13,"h":7},
+      {"n":"Creme Dental 4em1 Oral-B 70g","p":"2,89","u":"un","x":50,"y":65,"w":14,"h":7},
+      {"n":"Fralda Mamypoko Super Protec M34/G28/XG24/XXG22","p":"29,99","u":"un","x":64,"y":65,"w":14,"h":7},
+      {"n":"Papel Higiênico Atualle Folha Dupla c/12","p":"11,99","u":"un","x":79,"y":65,"w":14,"h":7}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955586384668072467": [],
+    "story_atacarejo_santoantonio.ofc_3955586434479443656": [],
+    "story_atacarejo_santoantonio.ofc_3955602328811461261": [],
+    "story_atacarejo_santoantonio.ofc_3955612556948684174": [
+      {"n":"Filé de Peito Levo Pct kg","p":"14,49","u":"kg","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955612649374484690": [
+      {"n":"Filé de Peito Levo Pct kg","p":"14,49","u":"kg","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955612674439514016": [
+      {"n":"Galinha Matriz Somave kg","p":"7,49","u":"kg","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955612697994947563": [
+      {"n":"Galinha Matriz Somave kg","p":"7,49","u":"kg","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955612727740937804": [
+      {"n":"Arroz Parboilizado Tio Manoel 1kg","p":"2,98","u":"un","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955612758124283747": [
+      {"n":"Flocão Fortemilho 400g","p":"0,89","u":"un","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955612782778413255": [
+      {"n":"Feijão Carioca Kumê 1kg","p":"6,79","u":"un","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955612810938974901": [
+      {"n":"Açúcar Ecoçúcar 1kg","p":"2,79","u":"un","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955612841037351724": [
+      {"n":"Frango a Passarinho Temperado Bom Todo 1kg","p":"11,99","u":"un","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955612867075551472": [
+      {"n":"Whisky White Horse 1L","p":"59,90","u":"un","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955612890597351714": [
+      {"n":"Cerveja Sol Zero Long Neck 330ml","p":"4,99","u":"un","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955612936080412054": [
+      {"n":"Refrigerante Pepsi ou Guaraná Antarctica 1L","p":"4,99","u":"un","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955612964903559058": [
+      {"n":"Lava Roupas Líquido Limpamil 3L","p":"11,49","u":"un","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955612990513949574": [
+      {"n":"Amaciante Concentrado Mon Bijou 500ml","p":"7,99","u":"un","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955613017399545257": [
+      {"n":"Papel Higiênico Atualle Folha Dupla c/12","p":"11,99","u":"un","x":15,"y":43,"w":70,"h":42}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955721491856784735": [],
+    "story_atacarejo_santoantonio.ofc_3955848633584234204": [],
+    "story_atacarejo_santoantonio.ofc_3955848725338845923": [],
+    "story_atacarejo_santoantonio.ofc_3955873876549854348": [],
+    "story_atacarejo_santoantonio.ofc_3955873897320093596": [
+      {"n":"Achocolatado em Pó Chocolatto 200g","p":"4,89","u":"un","x":42,"y":51,"w":27,"h":11},
+      {"n":"Achocolatado em Pó Italac 200g","p":"3,49","u":"un","x":78,"y":79,"w":14,"h":5},
+      {"n":"Achocolatado em Pó Chocolatto 700g","p":"24,99","u":"un","x":6,"y":25,"w":17,"h":4}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955873938734608997": [
+      {"n":"Leite Condensado Italac 395g","p":"5,69","u":"un","x":20,"y":62,"w":58,"h":22}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955873976164551782": [
+      {"n":"Morango","p":"7,99","u":"cada","x":30,"y":43,"w":42,"h":15}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955874063439686969": [],
+    "story_atacarejo_santoantonio.ofc_3955874100290826459": [],
+    "story_atacarejo_santoantonio.ofc_3955895983451260233": [
+      {"n":"Coxa com Sobrecoxa c/Dorsal Jaguá kg","p":"6,98","u":"kg","x":1,"y":45,"w":19,"h":15},
+      {"n":"Galinha Grande Somave kg","p":"7,49","u":"kg","x":21,"y":45,"w":19,"h":15},
+      {"n":"Galinha Pequena Qdelícia kg","p":"5,98","u":"kg","x":41,"y":45,"w":19,"h":15},
+      {"n":"Linguiça de Frango ou Churrasco Aurora kg","p":"16,98","u":"kg","x":61,"y":45,"w":19,"h":15},
+      {"n":"Linguiça Calabresa Perdigão kg","p":"21,98","u":"kg","x":80,"y":45,"w":19,"h":15},
+      {"n":"Carne Bovina Alcatra kg","p":"39,98","u":"kg","x":1,"y":61,"w":19,"h":14},
+      {"n":"Carne Bovina Coxão Mole kg","p":"36,98","u":"kg","x":21,"y":61,"w":19,"h":14},
+      {"n":"Carne Bovina Chã de Fora kg","p":"34,98","u":"kg","x":41,"y":61,"w":19,"h":14},
+      {"n":"Carne Bovina Bisteca Traseira kg","p":"32,98","u":"kg","x":61,"y":61,"w":19,"h":14},
+      {"n":"Carne Bovina Costela P.A kg","p":"23,98","u":"kg","x":80,"y":61,"w":19,"h":14},
+      {"n":"Carne Bovina Chambaril kg","p":"23,98","u":"kg","x":1,"y":77,"w":19,"h":14},
+      {"n":"Carne Bovina Posta Gorda kg","p":"25,98","u":"kg","x":21,"y":77,"w":19,"h":14},
+      {"n":"Carne Bovina Lombo Serrado kg","p":"24,98","u":"kg","x":41,"y":77,"w":19,"h":14},
+      {"n":"Bisteca Suína kg","p":"13,98","u":"kg","x":61,"y":77,"w":19,"h":14},
+      {"n":"Carne Moída Camara 500g","p":"6,98","u":"un","x":80,"y":77,"w":19,"h":14}
+    ],
+    "story_atacarejo_santoantonio.ofc_3955896348489831543": [
+      {"n":"Coxa com Sobrecoxa c/Dorsal Jaguá kg","p":"6,98","u":"kg","x":6,"y":46,"w":18,"h":13},
+      {"n":"Galinha Grande Somave kg","p":"7,49","u":"kg","x":24,"y":46,"w":18,"h":13},
+      {"n":"Galinha Pequena Qdelícia kg","p":"5,98","u":"kg","x":42,"y":46,"w":18,"h":13},
+      {"n":"Linguiça de Frango ou Churrasco Aurora kg","p":"16,98","u":"kg","x":60,"y":46,"w":18,"h":13},
+      {"n":"Linguiça Calabresa Perdigão kg","p":"21,98","u":"kg","x":78,"y":46,"w":18,"h":13},
+      {"n":"Carne Bovina Alcatra kg","p":"39,98","u":"kg","x":6,"y":61,"w":18,"h":12},
+      {"n":"Carne Bovina Coxão Mole kg","p":"36,98","u":"kg","x":24,"y":61,"w":18,"h":12},
+      {"n":"Carne Bovina Chã de Fora kg","p":"34,98","u":"kg","x":42,"y":61,"w":18,"h":12},
+      {"n":"Carne Bovina Bisteca Traseira kg","p":"32,98","u":"kg","x":60,"y":61,"w":18,"h":12},
+      {"n":"Carne Bovina Costela P.A kg","p":"23,98","u":"kg","x":78,"y":61,"w":18,"h":12},
+      {"n":"Carne Bovina Chambaril kg","p":"23,98","u":"kg","x":6,"y":75,"w":18,"h":12},
+      {"n":"Carne Bovina Posta Gorda kg","p":"25,98","u":"kg","x":24,"y":75,"w":18,"h":12},
+      {"n":"Carne Bovina Lombo Serrado kg","p":"24,98","u":"kg","x":42,"y":75,"w":18,"h":12},
+      {"n":"Bisteca Suína kg","p":"13,98","u":"kg","x":60,"y":75,"w":18,"h":12},
+      {"n":"Carne Moída Camara 500g","p":"6,98","u":"un","x":78,"y":75,"w":18,"h":12}
+    ]
+  }
+}

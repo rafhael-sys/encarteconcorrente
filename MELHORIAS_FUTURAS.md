@@ -55,3 +55,15 @@ a rotina ficar mais rápida e usar menos o Claude/Max, sem mudar o resultado.
 Quando o Assaí anuncia a oferta mas ainda não subiu a imagem do encarte, não há
 o que baixar (nem re-tentando). A oferta entra na próxima coleta, quando a arte
 for publicada. Isso é comportamento correto, não bug.
+
+## 6. Queiroz João Câmara está com o MESMO banner de Natal (risco de dedup)
+No `profiles.json`, o perfil `queirozatacadaojoaocamara` está com
+`banner: "Queiroz Atacadão"` — idêntico ao de Natal (`queirozatacadaonatal_`).
+São lojas/unidades DIFERENTES, com preços próprios, e nunca deveriam ser
+comparadas/deduplicadas entre si. O Leva Mais já faz certo (Macau = "Leva Mais
+Atacarejo" vs João Câmara = "Leva Mais Atacarejo João Câmara"); o Queiroz não.
+**Sugestão:** trocar o banner de `queirozatacadaojoaocamara` para
+"Queiroz Atacadão João Câmara" (como no Leva Mais). Atenção: isso separa as
+unidades daqui pra frente; as ações antigas de João Câmara continuam com o nome
+antigo, então talvez valha renomear também as ações históricas desse perfil para
+o novo banner, de uma vez. Combinar antes de aplicar.

@@ -1,0 +1,16 @@
+{
+  "certos": [
+    {"k": "flocao fortemilho 400g || flocao fortemilho milho 400g", "a": "Flocão Fortemilho 400g", "b": "Flocão Fortemilho Milho 400g", "veredito": "mesmo"},
+    {"k": "mortadela de frango friato || mortadela de frango tony", "a": "Mortadela de Frango Tony", "b": "Mortadela de Frango Friato", "veredito": "diferente"},
+    {"k": "condicionador novex recarga de queratina 80g || condicionador novex recarga de queratina unidade com 80g", "a": "Condicionador Novex Recarga de Queratina Unidade com 80g", "b": "Condicionador Novex Recarga de Queratina 80g", "veredito": "mesmo"},
+    {"k": "kit ox shampoo + condicionador varios tipos || kit shampoo + condicionador ox tipos", "a": "Kit OX Shampoo + Condicionador Vários Tipos", "b": "Kit Shampoo + Condicionador OX Tipos", "veredito": "mesmo"},
+    {"k": "beb proteica yopro 250ml 15g capp || bebida proteica yopro 250ml 15g cappuccino", "a": "Bebida Proteica YoPro 250ml 15g Cappuccino", "b": "Beb Proteica Yopro 250ml 15g Capp", "veredito": "mesmo"},
+    {"k": "achocolatado em po powerlate 700g || achocolatado em po powerlate sao braz 700g", "a": "Achocolatado em Pó Powerlate São Braz 700g", "b": "Achocolatado em Pó Powerlate 700g", "veredito": "mesmo"},
+    {"k": "cafe nordestino almofada 250g || cafe torrado nordestino almofada 250g", "a": "Café Nordestino Almofada 250g", "b": "Café Torrado Nordestino Almofada 250g", "veredito": "mesmo"},
+    {"k": "queijo mussarela domilac/girolanda kg || queijo mussarela girolanda kg", "a": "Queijo Mussarela Girolanda Kg", "b": "Queijo Mussarela DOMILAC/GIROLANDA kg", "veredito": "mesmo"},
+    {"k": "margarina deline com sal 500g || margarina deline cremosa com sal 500g", "a": "Margarina Deline com sal 500g", "b": "Margarina Deline Cremosa com Sal 500g", "veredito": "mesmo"}
+  ],
+  "incertos": [
+    "creme de tratamento para cabelo novex hialuronico pote com 1kg || creme de tratamento para cabelo novex varios tipos pote com 1kg"
+  ]
+}

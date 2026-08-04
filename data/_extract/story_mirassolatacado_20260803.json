@@ -1,0 +1,41 @@
+{
+  "shortcode": "story_mirassolatacado_20260803",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-07-28",
+  "fim": "2026-08-10",
+  "titulo": "Mirassol Atacado — ofertas gerais (mercearia, limpeza e açougue)",
+  "pages": {
+    "story_mirassolatacado_3955528056504702944": [
+      {"n": "Papel Higiênico Atualle Neutro Folha Dupla 12 Rolos 20m", "p": "11,99", "u": "pacote", "x": 11, "y": 28, "w": 43, "h": 22},
+      {"n": "Fraldas Descartáveis Cremer Shortinho Jumbo (tamanhos)", "p": "24,99", "u": "pacote", "x": 55, "y": 28, "w": 43, "h": 22},
+      {"n": "Detergente Líquido Tanlux Fragrâncias 500ml", "p": "1,39", "u": "cada", "x": 15, "y": 42, "w": 55, "h": 20},
+      {"n": "Lava Roupas Líquido Tanlux 3L", "p": "12,99", "u": "cada", "x": 9, "y": 62, "w": 40, "h": 24},
+      {"n": "Água Sanitária Dragão 1L", "p": "2,09", "u": "cada (caixa 12un R$ 25,08)", "x": 47, "y": 62, "w": 48, "h": 24}
+    ],
+    "story_mirassolatacado_3955528154341091438": [
+      {"n": "Café Santa Clara Extraforte Almofada ou A Vácuo 250g", "p": "12,99", "u": "cada", "x": 13, "y": 18, "w": 43, "h": 26},
+      {"n": "Biscoito Cream Cracker Marilan Especial 350g", "p": "3,99", "u": "cada", "x": 56, "y": 18, "w": 42, "h": 26},
+      {"n": "Leite Condensado Damare Semidesnatado 395g", "p": "5,49", "u": "cada", "x": 20, "y": 43, "w": 50, "h": 20},
+      {"n": "Bombons Sortidos Garoto 220g (10% de desconto)", "p": "11,99", "u": "caixa", "x": 13, "y": 63, "w": 37, "h": 24},
+      {"n": "Bebida Láctea UHT Quatá Kids Chocolate 180ml", "p": "0,99", "u": "cada (caixa 27un R$ 26,73)", "x": 48, "y": 63, "w": 47, "h": 24}
+    ],
+    "story_mirassolatacado_3955528257109852978": [
+      {"n": "Filé de Peito de Frango Bom Todo 1kg (congelado)", "p": "18,99", "u": "bandeja (a partir de 18un R$ 18,49)", "x": 2, "y": 17, "w": 28, "h": 18},
+      {"n": "Coxa com Sobrecoxa de Frango Congelada", "p": "8,19", "u": "kg (a partir de 20kg R$ 7,99)", "x": 30, "y": 17, "w": 33, "h": 18},
+      {"n": "Batata Pré-frita EasyChef Congelada 2kg", "p": "18,99", "u": "cada", "x": 63, "y": 17, "w": 18, "h": 18},
+      {"n": "Galinha Matriz Somave Congelada", "p": "7,99", "u": "kg", "x": 81, "y": 17, "w": 18, "h": 18},
+      {"n": "Salsicha Hot Dog Rara 2,5kg", "p": "14,98", "u": "pacote (o kg sai por R$ 5,99)", "x": 2, "y": 36, "w": 27, "h": 16},
+      {"n": "Flocão de Milho Nordestino 500g", "p": "1,39", "u": "cada", "x": 29, "y": 36, "w": 20, "h": 16},
+      {"n": "Açúcar Dumel Triturado 1kg", "p": "3,29", "u": "cada (a partir de 10un R$ 3,15)", "x": 49, "y": 36, "w": 25, "h": 16},
+      {"n": "Arroz Fazenda Parbolizado 1kg", "p": "3,49", "u": "cada (a partir de 10un R$ 3,29)", "x": 74, "y": 36, "w": 25, "h": 16},
+      {"n": "Óleo de Soja Soya 900ml", "p": "7,49", "u": "cada (a partir de 20un R$ 7,29)", "x": 2, "y": 51, "w": 25, "h": 15},
+      {"n": "Macarrão Bonsabor Spaghetti 400g", "p": "1,99", "u": "cada", "x": 27, "y": 51, "w": 22, "h": 15},
+      {"n": "Leite UHT Betânia Integral ou Desnatado 1L", "p": "5,99", "u": "cada", "x": 49, "y": 51, "w": 25, "h": 15},
+      {"n": "Farinha de Trigo Finna Tradicional 1kg", "p": "3,99", "u": "cada (a partir de 10un R$ 3,89)", "x": 74, "y": 51, "w": 25, "h": 15},
+      {"n": "Creme Culinário Damare 200g", "p": "1,79", "u": "cada (caixa 27un R$ 48,33)", "x": 2, "y": 66, "w": 33, "h": 17},
+      {"n": "Biscoito Recheado Renata Divertix Sabores 112g", "p": "1,49", "u": "cada", "x": 37, "y": 66, "w": 27, "h": 17},
+      {"n": "Biscoito 3 de Maio Água e Sal 300g", "p": "3,49", "u": "cada", "x": 65, "y": 66, "w": 33, "h": 17}
+    ]
+  }
+}

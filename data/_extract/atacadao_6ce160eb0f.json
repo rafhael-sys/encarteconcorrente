@@ -1,0 +1,19 @@
+{
+  "shortcode": "atacadao_6ce160eb0f",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-04",
+  "fim": "2026-08-04",
+  "titulo": "Atacadão - Boa do Dia (Só Terça 04/08)",
+  "pages": {
+    "atacadao_6ce160eb0f_p1": [
+      {"n": "Cebola Branca", "p": "5,49", "u": "kg / de R$ 5,89 por", "x": 5, "y": 24, "w": 44, "h": 17},
+      {"n": "Batata Doce", "p": "4,29", "u": "kg / de R$ 4,89 por", "x": 52, "y": 24, "w": 44, "h": 17},
+      {"n": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg", "p": "16,49", "u": "un / de R$ 22,99 por", "x": 5, "y": 42, "w": 44, "h": 17},
+      {"n": "Fiambre Perdigão Resfriado", "p": "13,90", "u": "kg (preço por quilo na peça) / de R$ 17,90 por", "x": 52, "y": 42, "w": 44, "h": 17},
+      {"n": "Açúcar Alegre Cristal Pacote com 1kg", "p": "2,69", "u": "un / de R$ 3,29 por", "x": 4, "y": 62, "w": 44, "h": 22},
+      {"n": "Lava Roupas Líquido Omo Vários tipos Bombona com 5L", "p": "43,90", "u": "un / de R$ 62,90 por", "x": 35, "y": 62, "w": 30, "h": 22},
+      {"n": "Desinfetante Dragão Várias fragrâncias Frasco com 2L", "p": "4,99", "u": "un / de R$ 6,99 por", "x": 66, "y": 62, "w": 31, "h": 22}
+    ]
+  }
+}

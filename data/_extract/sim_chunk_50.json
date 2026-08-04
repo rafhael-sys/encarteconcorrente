@@ -1,0 +1,61 @@
+{
+  "certos": [
+    {
+      "k": "croissant nutri 400g frango ou folhado calabresa ou quejada 400g || croissant nutri 400g frango ou folhado nutri 400g calabresa ou queijada nutri 400g",
+      "a": "Croissant Nutri 400g Frango ou Folhado Nutri 400g Calabresa ou Queijada Nutri 400g",
+      "b": "Croissant Nutri 400g Frango ou Folhado Calabresa ou Quejada 400g",
+      "veredito": "mesmo"
+    },
+    {
+      "k": "absorvente sempre livre conforto noturno seca com abas pacote com 32 unidades || absorvente sempre livre conforto noturno suave pacote com 16 unidades",
+      "a": "Absorvente Sempre Livre Conforto noturno Suave Pacote com 16 unidades",
+      "b": "Absorvente Sempre Livre Conforto Noturno Seca com abas Pacote com 32 unidades",
+      "veredito": "diferente"
+    },
+    {
+      "k": "racao gatos whiskas pct 900g sabores || racao para gatos whiskas 900g sabores",
+      "a": "Ração Gatos Whiskas PCT 900g Sabores",
+      "b": "Racao para Gatos Whiskas 900g Sabores",
+      "veredito": "mesmo"
+    },
+    {
+      "k": "sabao em barra limao absoluto 5x160g || sabao em barra neutro absoluto 5x160g",
+      "a": "Sabão em Barra Limão Absoluto 5x160g",
+      "b": "Sabão em Barra Neutro Absoluto 5x160g",
+      "veredito": "diferente"
+    },
+    {
+      "k": "lava-roupas liquido absoluto! 3l || lava-roupas liquido omo 3l",
+      "a": "Lava-Roupas Líquido Absoluto! 3L",
+      "b": "Lava-Roupas Líquido Omo 3L",
+      "veredito": "diferente"
+    },
+    {
+      "k": "peito de frango congelado || peito de frango friato congelado",
+      "a": "Peito de Frango Friato Congelado",
+      "b": "Peito de Frango Congelado",
+      "veredito": "diferente"
+    },
+    {
+      "k": "frango a passarinho bom todo 1kg pct || frango a passarinho temp bom todo 1kg",
+      "a": "Frango a Passarinho Bom Todo 1kg PCT",
+      "b": "Frango a Passarinho Temp Bom Todo 1Kg",
+      "veredito": "mesmo"
+    },
+    {
+      "k": "cerveja amstel puro malte 350ml (sleek) || cerveja petra puro malte 350ml sleek",
+      "a": "Cerveja Petra Puro Malte 350ml Sleek",
+      "b": "Cerveja Amstel Puro Malte 350ml (Sleek)",
+      "veredito": "diferente"
+    },
+    {
+      "k": "acucar refinado triturado olho d'agua 1kg || acucar triturado olho d'agua 1kg",
+      "a": "Açúcar Triturado Olho D'Água 1kg",
+      "b": "Açúcar Refinado Triturado Olho D'Água 1kg",
+      "veredito": "mesmo"
+    }
+  ],
+  "incertos": [
+    "linguica aurora (churrasco/frango) || linguica aurora churrasco"
+  ]
+}

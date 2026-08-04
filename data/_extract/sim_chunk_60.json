@@ -1,0 +1,11 @@
+{
+  "certos": [
+    {"k": "carne bovina coxao mole resfriado || carne bovina de sol coxao mole resfriada", "a": "Carne Bovina de Sol Coxão Mole Resfriada", "b": "Carne Bovina Coxão Mole Resfriado", "veredito": "diferente"},
+    {"k": "agua sanitaria brilux bombona com 5l || agua sanitaria clorito bombona com 5l", "a": "Água Sanitária Clorito Bombona com 5L", "b": "Água Sanitária Brilux Bombona com 5L", "veredito": "diferente"},
+    {"k": "carne bovina maminha reserva resfriada || carne bovina rabo reserva resfriada", "a": "Carne Bovina Rabo Reserva Resfriada", "b": "Carne Bovina Maminha Reserva Resfriada", "veredito": "diferente"},
+    {"k": "carne bovina contra file resfriado kg || carne bovina coxao mole resfriado kg", "a": "Carne Bovina Coxão Mole Resfriado Kg", "b": "Carne Bovina Contra Filé Resfriado kg", "veredito": "diferente"}
+  ],
+  "incertos": [
+    "cafe santa clara extra forte 250g || cafe santa clara extraforte a vacuo 250g"
+  ]
+}

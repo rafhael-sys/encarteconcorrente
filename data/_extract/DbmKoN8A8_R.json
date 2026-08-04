@@ -1,0 +1,27 @@
+{
+  "shortcode": "DbmKoN8A8_R",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-04",
+  "fim": "2026-08-04",
+  "titulo": "Terça da Carne - Atacarejo Santo Antônio",
+  "pages": {
+    "DbmKoN8A8_R_p1": [
+      {"n": "Coxa com Sobrecoxa c/Dorsal Jaguá", "p": "6,98", "u": "kg", "x": 0, "y": 44, "w": 20, "h": 20},
+      {"n": "Galinha Grande Somave", "p": "7,49", "u": "kg", "x": 20, "y": 44, "w": 20, "h": 20},
+      {"n": "Galinha Pequena Qdelícia", "p": "5,98", "u": "kg", "x": 40, "y": 44, "w": 20, "h": 20},
+      {"n": "Linguiça de Frango ou Churrasco Aurora", "p": "16,98", "u": "kg", "x": 60, "y": 44, "w": 20, "h": 20},
+      {"n": "Linguiça Calabresa Perdigão", "p": "21,98", "u": "kg", "x": 80, "y": 44, "w": 20, "h": 20},
+      {"n": "Carne Bovina Alcatra", "p": "39,98", "u": "kg", "x": 0, "y": 65, "w": 20, "h": 18},
+      {"n": "Carne Bovina Coxão Mole", "p": "36,98", "u": "kg", "x": 20, "y": 65, "w": 20, "h": 18},
+      {"n": "Carne Bovina Chã de Fora", "p": "34,98", "u": "kg", "x": 40, "y": 65, "w": 20, "h": 18},
+      {"n": "Carne Bovina Bisteca Traseira", "p": "32,98", "u": "kg", "x": 60, "y": 65, "w": 20, "h": 18},
+      {"n": "Carne Bovina Costela P.A", "p": "23,98", "u": "kg", "x": 80, "y": 65, "w": 20, "h": 18},
+      {"n": "Carne Bovina Chambaril", "p": "23,98", "u": "kg", "x": 0, "y": 83, "w": 20, "h": 17},
+      {"n": "Carne Bovina Posta Gorda", "p": "25,98", "u": "kg", "x": 20, "y": 83, "w": 20, "h": 17},
+      {"n": "Carne Bovina Lombo Serrado", "p": "24,98", "u": "kg", "x": 40, "y": 83, "w": 20, "h": 17},
+      {"n": "Bisteca Suína", "p": "13,98", "u": "kg", "x": 60, "y": 83, "w": 20, "h": 17},
+      {"n": "Carne Moída Câmara 500g", "p": "6,98", "u": "un", "x": 80, "y": 83, "w": 20, "h": 17}
+    ]
+  }
+}
