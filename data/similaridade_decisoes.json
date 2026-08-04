@@ -13250,5 +13250,424 @@
   "b": "Carne Bovina Contra Filé Resfriado kg",
   "veredito": "diferente",
   "quando": "2026-08-03"
+ },
+ "rodo multilar 30 cm sem cabo unid || rodo multilar 30cm sem cabo unid": {
+  "a": "Rodo Multilar 30 CM SEM CABO UNID",
+  "b": "Rodo Multilar 30CM Sem Cabo Unid",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "lava roupas liquido limpa mil 3l || lava roupas liquido limpamil 3l": {
+  "a": "Lava Roupas Líquido Limpamil 3L",
+  "b": "Lava Roupas Líquido Limpa Mil 3L",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "vinho chileno pictor 750ml cabernet sauvignon tinto sc || vinho chileno pictor 750ml cabernet sauvignon tto sc": {
+  "a": "Vinho Chileno Pictor 750ml Cabernet Sauvignon Tto SC",
+  "b": "Vinho Chileno Pictor 750ml Cabernet Sauvignon Tinto SC",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "bebida proteica italac s/ lactose 15g 250ml (sabores) || bebida proteica italac sem lactose 15g 250ml sabores": {
+  "a": "Bebida Proteica Italac sem Lactose 15g 250ml Sabores",
+  "b": "Bebida Proteica Italac s/ Lactose 15g 250ml (Sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "absorvente sempre livre adapt 8 abas c/8 suave || absorvente sempre livre adapt s/ abas c/8 suave": {
+  "a": "Absorvente Sempre Livre Adapt 8 Abas c/8 Suave",
+  "b": "Absorvente Sempre Livre Adapt s/ Abas c/8 Suave",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "toalha umedecida piquitucho hidrata c/140 || toalha umedecida piquitucho hidrate c/140": {
+  "a": "Toalha Umedecida PIQUITUCHO Hidrate c/140",
+  "b": "Toalha Umedecida PIQUITUCHO Hidrata c/140",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa c/dorsal jagua kg || coxa com sobrecoxa dorsal jagua kg": {
+  "a": "Coxa com Sobrecoxa Dorsal Jaguá kg",
+  "b": "Coxa com Sobrecoxa c/Dorsal Jaguá kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa c/dorsal jagua || coxa com sobrecoxa dorsal jagua": {
+  "a": "Coxa com Sobrecoxa Dorsal Jaguá",
+  "b": "Coxa com Sobrecoxa c/Dorsal Jaguá",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "sapolio radium cremoso 250ml classico ou cloro || sapolio radium cremoso fr 250ml classico ou cloro": {
+  "a": "Sapólio Radium Cremoso FR 250ml Clássico ou Cloro",
+  "b": "Sapólio Radium Cremoso 250ml Clássico ou Cloro",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "lava roupa liquido limpamil 3l || lava roupas liquido limpa mil 3l": {
+  "a": "Lava Roupa Líquido Limpamil 3L",
+  "b": "Lava Roupas Líquido Limpa Mil 3L",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "creme de tratamento elseve 300g colageno lifter || creme tratamento elseve 300g colageno lifter": {
+  "a": "Creme de Tratamento Elseve 300g Colágeno Lifter",
+  "b": "Creme Tratamento Elseve 300g Colágeno Lifter",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "amaciante de roupa comfort l500 p400ml original || amaciante roupa comfort l500 p400ml original": {
+  "a": "Amaciante Roupa Comfort L500 P400ml Original",
+  "b": "Amaciante de Roupa Comfort L500 P400ml Original",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "cafe sao braz familia 250g (almofada ou a vacuo) || cafe sao braz familia 250g (almofada/a vacuo)": {
+  "a": "Café São Braz Família 250g (almofada ou a vácuo)",
+  "b": "Café São Braz Família 250g (Almofada/Á Vácuo)",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "creme tratamento elseve 300g colag lifter || creme tratamento elseve 300g colageno lifter": {
+  "a": "CREME TRATAMENTO ELSEVE 300G COLAG LIFTER",
+  "b": "Creme Tratamento Elseve 300g Colágeno Lifter",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "papel higienico caprice folha dupla 20m leve 12 pague 11 || papel higienico caprice folha dupla leve 12 pague 11": {
+  "a": "Papel Higiênico Caprice Folha Dupla 20m Leve 12 Pague 11",
+  "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "file de peito bom todo 1kg iqf ou bandeja || file peito bom todo 1kg iqf ou bandeja": {
+  "a": "Filé Peito Bom Todo 1kg IQF ou Bandeja",
+  "b": "Filé de Peito Bom Todo 1kg IQF ou Bandeja",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "linguica suina para churrasco aurora || linguica suina para churrasco aurora kg": {
+  "a": "Linguiça Suína para Churrasco Aurora",
+  "b": "Linguiça Suína para Churrasco Aurora Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "costela suina em tiras lar congelada || costela suina em tiras lar congelada kg": {
+  "a": "Costela Suína em Tiras Lar Congelada",
+  "b": "Costela Suína em Tiras Lar Congelada Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "leite em po confianca integral 200g || leite em po confianca integral sc 200g": {
+  "a": "Leite em Pó Confiança Integral 200g",
+  "b": "Leite em Pó Confiança Integral SC 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "lava roupas liquido omo varios tipos bombona 5l || lava roupas liquido omo varios tipos bombona com 5l": {
+  "a": "Lava Roupas Líquido Omo Vários Tipos Bombona 5L",
+  "b": "Lava Roupas Líquido Omo Vários tipos Bombona com 5L",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "cerv petra ultra 275ml ln s/gluten || cerveja petra ultra 275ml ln s/ gluten": {
+  "a": "Cerv Petra Ultra 275ml LN S/Gluten",
+  "b": "Cerveja Petra Ultra 275ml LN s/ Glúten",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa c/dorsal jagua || coxa com sobrecoxa c/dorsal jagua kg": {
+  "a": "Coxa com Sobrecoxa c/Dorsal Jaguá",
+  "b": "Coxa com Sobrecoxa c/Dorsal Jaguá kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "file mignon suino lar congelado || file mignon suino lar congelado kg": {
+  "a": "Filé Mignon Suíno Lar Congelado",
+  "b": "Filé Mignon Suíno Lar Congelado Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "matambrito suino lar congelado || matambrito suino lar congelado kg": {
+  "a": "Matambrito Suíno Lar Congelado",
+  "b": "Matambrito Suíno Lar Congelado Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "file de peito bom todo 1kg iqf ou bandeja || file peito bomtodo 1kg iqf ou bandeja": {
+  "a": "FILE PEITO BOMTODO 1KG IQF OU BANDEJA",
+  "b": "Filé de Peito Bom Todo 1kg IQF ou Bandeja",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "xicara cha alleanza c/ pires || xicara de cha alleanza c/ pires": {
+  "a": "Xicara Cha Alleanza c/ Pires",
+  "b": "Xícara de Chá Alleanza c/ Pires",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "galinha pequena qdelicia || galinha pequena qdelicia kg": {
+  "a": "Galinha Pequena Qdelícia",
+  "b": "Galinha Pequena Qdelícia kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "biscoito cookies bauducco 100g original ou cookies bauducco max 96g dentadura || biscoito cookies bauducco 100g original ou cookies max 96g dentadura": {
+  "a": "Biscoito Cookies Bauducco 100g Original ou Cookies Max 96g Dentadura",
+  "b": "Biscoito Cookies Bauducco 100g Original ou Cookies Bauducco Max 96g Dentadura",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "pastilha ades pro pato 3un 20% desc floral ou citrus || pastilha adesiva pro pato 3un 20% desconto floral ou citrus": {
+  "a": "Pastilha Ades Pro Pato 3un 20% Desc Floral ou Citrus",
+  "b": "Pastilha Adesiva Pro Pato 3un 20% Desconto Floral ou Citrus",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "cupim bovino (congelado) || cupim bovino congelado kg": {
+  "a": "Cupim Bovino Congelado kg",
+  "b": "Cupim Bovino (Congelado)",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "bisc cookies bauduco 100g original ou bisc cookies bauducco max 96g dentadura || biscoito cookies bauducco 100g original ou cookies bauducco max 96g dentadura": {
+  "a": "Bisc Cookies Bauduco 100g Original ou Bisc Cookies Bauducco Max 96g Dentadura",
+  "b": "Biscoito Cookies Bauducco 100g Original ou Cookies Bauducco Max 96g Dentadura",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "galinha grande somave || galinha grande somave kg": {
+  "a": "Galinha Grande Somave",
+  "b": "Galinha Grande Somave kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "filezinho de peito de frango (sassami) sadia congelado bdj 1kg || filezinho de peito de frango sadia congelado bdj 1kg": {
+  "a": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+  "b": "Filezinho de Peito de Frango (Sassami) Sadia Congelado BDJ 1KG",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "whisky white horse 1 litro || whisky white horse gfa 1 litro": {
+  "a": "Whisky White Horse 1 litro",
+  "b": "Whisky White Horse gfa 1 litro",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa c/dorsal jagua || coxa com sobrecoxa dorsal jagua kg": {
+  "a": "Coxa com Sobrecoxa c/Dorsal Jaguá",
+  "b": "Coxa com Sobrecoxa Dorsal Jaguá kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa c/dorsal jagua kg || coxa com sobrecoxa dorsal jagua": {
+  "a": "Coxa com Sobrecoxa Dorsal Jaguá",
+  "b": "Coxa com Sobrecoxa c/Dorsal Jaguá kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "file de peito de frango lar 1kg || file de peito de frango levo 1kg": {
+  "a": "Filé de Peito de Frango LAR 1kg",
+  "b": "Filé de Peito de Frango Levo 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-04"
+ },
+ "carvao vegetal jucurutu pct 3kg || carvao vegetal jucurutu saco 3kg": {
+  "a": "Carvão Vegetal Jucurutu Saco 3kg",
+  "b": "Carvão Vegetal Jucurutu pct 3kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "file de peito de frango bom todo 1kg (congelado) || file de peito de frango bom todo 1kg congelado bandeja": {
+  "a": "Filé de Peito de Frango Bom Todo 1kg Congelado Bandeja",
+  "b": "Filé de Peito de Frango Bom Todo 1kg (congelado)",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "manteiga itacolomy com sal pt 500g || manteiga itacolomy comum com sal pt 500g": {
+  "a": "Manteiga Itacolomy Comum Com Sal PT 500G",
+  "b": "Manteiga Itacolomy Com Sal PT 500G",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "absorvente sempre livre adapt c/8 suave || absorvente sempre livre adapt s/ abas c/8 suave": {
+  "a": "Absorvente Sempre Livre Adapt c/8 Suave",
+  "b": "Absorvente Sempre Livre Adapt s/ Abas c/8 Suave",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "aperitivo aperol 750ml || aperitivo aperol gfa 750ml": {
+  "a": "Aperitivo Aperol 750ml",
+  "b": "Aperitivo Aperol gfa 750ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "linguica calabresa imperio kg || linguica calabresa perdigao kg": {
+  "a": "Linguiça Calabresa Império KG",
+  "b": "Linguiça Calabresa Perdigão kg",
+  "veredito": "diferente",
+  "quando": "2026-08-04"
+ },
+ "lavanda johnson's baby infantil 200ml || lavanda johnsons baby inf 200ml": {
+  "a": "LAVANDA JOHNSONS BABY INF 200ML",
+  "b": "Lavanda Johnson's Baby Infantil 200ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "papel higienico deluxe 20m leve 12 pague 11 || papel higienico deluxe 20m lv12 pg11": {
+  "a": "Papel Higiênico Deluxe 20m Lv12 Pg11",
+  "b": "Papel Higiênico Deluxe 20m Leve 12 Pague 11",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango congelada || coxa com sobrecoxa de frango envelopada": {
+  "a": "Coxa com Sobrecoxa de Frango Envelopada",
+  "b": "Coxa com Sobrecoxa de Frango Congelada",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "linguica toscana aurora 700g ou pernil aurora 700g ou frango aurora 700g || linguica toscana aurora 700g ou pernil ou frango aurora 700g": {
+  "a": "Linguiça Toscana Aurora 700g ou Pernil ou Frango Aurora 700g",
+  "b": "Linguiça Toscana Aurora 700g ou Pernil Aurora 700g ou Frango Aurora 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "ling toscana aurora 700g ou ling pernil aurora 700g ou ling frango aurora 700g || linguica toscana aurora 700g ou pernil aurora 700g ou frango aurora 700g": {
+  "a": "LING TOSCANA AURORA 700G ou LING PERNIL AURORA 700G ou LING FRANGO AURORA 700G",
+  "b": "Linguiça Toscana Aurora 700g ou Pernil Aurora 700g ou Frango Aurora 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "file de peito bom todo 1kg bandeja || file de peito bom todo 1kg iqf ou bandeja": {
+  "a": "Filé de Peito Bom Todo 1kg Bandeja",
+  "b": "Filé de Peito Bom Todo 1kg IQF ou Bandeja",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "amaciante de roupas comfort 1,5l fragrancias || amaciante de roupas sonho 1,5l fragrancias": {
+  "a": "Amaciante de Roupas Comfort 1,5L Fragrâncias",
+  "b": "Amaciante de Roupas Sonho 1,5L Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-08-04"
+ },
+ "coxa com sobrecoxa de frango congelada || coxa com sobrecoxa de frango copacol congelada": {
+  "a": "Coxa com Sobrecoxa de Frango Copacol Congelada",
+  "b": "Coxa com Sobrecoxa de Frango Congelada",
+  "veredito": "diferente",
+  "quando": "2026-08-04"
+ },
+ "papel higienico caprice folha dupla leve 12 pague 11 || papel higienico caprice neutro 20m folha dupla leve 12 pague 11": {
+  "a": "Papel Higiênico Caprice Neutro 20m Folha Dupla Leve 12 Pague 11",
+  "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "papel higienico caprice folha dupla 20m leve 12 pague 11 (neutro) || papel higienico caprice folha dupla leve 12 pague 11": {
+  "a": "Papel Higiênico Caprice Folha Dupla 20m Leve 12 Pague 11 (neutro)",
+  "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "galinha pequena q'delicia cong kg || galinha pequena qdelicia kg": {
+  "a": "Galinha Pequena Q'Delícia Cong kg",
+  "b": "Galinha Pequena Qdelícia kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "cafe sao braz 250g almofada/a vacuo || cafe sao braz familia 250g (almofada/a vacuo)": {
+  "a": "Café São Braz 250g Almofada/A Vácuo",
+  "b": "Café São Braz Família 250g (Almofada/Á Vácuo)",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "linguica suina para churrasco aurora kg || linguica suina para churrasco suinco kg": {
+  "a": "Linguiça Suína para Churrasco Suinco kg",
+  "b": "Linguiça Suína para Churrasco Aurora Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-04"
+ },
+ "queijo mussarela dombla peca ou pedaco kg || queijo mussarela domilac pc ou pdc kg": {
+  "a": "Queijo Mussarela Domblá peça ou pedaço kg",
+  "b": "Queijo Mussarela Domilac pç ou pdç kg",
+  "veredito": "diferente",
+  "quando": "2026-08-04"
+ },
+ "papel higienico floral folha dupla 20 metros pct c/12 || papel higienico floral folha dupla 20m c/12": {
+  "a": "Papel Higiênico Floral Folha Dupla 20m c/12",
+  "b": "Papel Higiênico Floral Folha Dupla 20 Metros pct c/12",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "achocolatado em po italac 200g || achocolatado em po italac chocky 200g": {
+  "a": "Achocolatado em Pó Italac Chocky 200g",
+  "b": "Achocolatado em Pó Italac 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-04",
+  "aplicado": true
+ },
+ "file mignon suino lar congelado kg || file-mignon suino seara congelado": {
+  "a": "Filé-mignon Suíno Seara Congelado",
+  "b": "Filé Mignon Suíno Lar Congelado Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-04"
+ },
+ "coxa com sobrecoxa de frango congelada || coxa com sobrecoxa de frango mauricea congelada": {
+  "a": "Coxa com Sobrecoxa de Frango Mauricéa Congelada",
+  "b": "Coxa com Sobrecoxa de Frango Congelada",
+  "veredito": "diferente",
+  "quando": "2026-08-04"
  }
 }

@@ -1,0 +1,309 @@
+{
+ "validacoes": [
+  {
+   "a": "Rodo Multilar 30 CM SEM CABO UNID",
+   "b": "Rodo Multilar 30CM Sem Cabo Unid",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido Limpamil 3L",
+   "b": "Lava Roupas Líquido Limpa Mil 3L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Chileno Pictor 750ml Cabernet Sauvignon Tto SC",
+   "b": "Vinho Chileno Pictor 750ml Cabernet Sauvignon Tinto SC",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Proteica Italac sem Lactose 15g 250ml Sabores",
+   "b": "Bebida Proteica Italac s/ Lactose 15g 250ml (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Adapt 8 Abas c/8 Suave",
+   "b": "Absorvente Sempre Livre Adapt s/ Abas c/8 Suave",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Toalha Umedecida PIQUITUCHO Hidrate c/140",
+   "b": "Toalha Umedecida PIQUITUCHO Hidrata c/140",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa Dorsal Jaguá kg",
+   "b": "Coxa com Sobrecoxa c/Dorsal Jaguá kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa Dorsal Jaguá",
+   "b": "Coxa com Sobrecoxa c/Dorsal Jaguá",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sapólio Radium Cremoso FR 250ml Clássico ou Cloro",
+   "b": "Sapólio Radium Cremoso 250ml Clássico ou Cloro",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupa Líquido Limpamil 3L",
+   "b": "Lava Roupas Líquido Limpa Mil 3L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Tratamento Elseve 300g Colágeno Lifter",
+   "b": "Creme Tratamento Elseve 300g Colágeno Lifter",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante Roupa Comfort L500 P400ml Original",
+   "b": "Amaciante de Roupa Comfort L500 P400ml Original",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café São Braz Família 250g (almofada ou a vácuo)",
+   "b": "Café São Braz Família 250g (Almofada/Á Vácuo)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "CREME TRATAMENTO ELSEVE 300G COLAG LIFTER",
+   "b": "Creme Tratamento Elseve 300g Colágeno Lifter",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Caprice Folha Dupla 20m Leve 12 Pague 11",
+   "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé Peito Bom Todo 1kg IQF ou Bandeja",
+   "b": "Filé de Peito Bom Todo 1kg IQF ou Bandeja",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Suína para Churrasco Aurora",
+   "b": "Linguiça Suína para Churrasco Aurora Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Suína em Tiras Lar Congelada",
+   "b": "Costela Suína em Tiras Lar Congelada Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite em Pó Confiança Integral 200g",
+   "b": "Leite em Pó Confiança Integral SC 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido Omo Vários Tipos Bombona 5L",
+   "b": "Lava Roupas Líquido Omo Vários tipos Bombona com 5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerv Petra Ultra 275ml LN S/Gluten",
+   "b": "Cerveja Petra Ultra 275ml LN s/ Glúten",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa c/Dorsal Jaguá",
+   "b": "Coxa com Sobrecoxa c/Dorsal Jaguá kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé Mignon Suíno Lar Congelado",
+   "b": "Filé Mignon Suíno Lar Congelado Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Matambrito Suíno Lar Congelado",
+   "b": "Matambrito Suíno Lar Congelado Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "FILE PEITO BOMTODO 1KG IQF OU BANDEJA",
+   "b": "Filé de Peito Bom Todo 1kg IQF ou Bandeja",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Xicara Cha Alleanza c/ Pires",
+   "b": "Xícara de Chá Alleanza c/ Pires",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Galinha Pequena Qdelícia",
+   "b": "Galinha Pequena Qdelícia kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Cookies Bauducco 100g Original ou Cookies Max 96g Dentadura",
+   "b": "Biscoito Cookies Bauducco 100g Original ou Cookies Bauducco Max 96g Dentadura",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pastilha Ades Pro Pato 3un 20% Desc Floral ou Citrus",
+   "b": "Pastilha Adesiva Pro Pato 3un 20% Desconto Floral ou Citrus",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cupim Bovino Congelado kg",
+   "b": "Cupim Bovino (Congelado)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisc Cookies Bauduco 100g Original ou Bisc Cookies Bauducco Max 96g Dentadura",
+   "b": "Biscoito Cookies Bauducco 100g Original ou Cookies Bauducco Max 96g Dentadura",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Galinha Grande Somave",
+   "b": "Galinha Grande Somave kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+   "b": "Filezinho de Peito de Frango (Sassami) Sadia Congelado BDJ 1KG",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Whisky White Horse 1 litro",
+   "b": "Whisky White Horse gfa 1 litro",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa c/Dorsal Jaguá",
+   "b": "Coxa com Sobrecoxa Dorsal Jaguá kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa Dorsal Jaguá",
+   "b": "Coxa com Sobrecoxa c/Dorsal Jaguá kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango LAR 1kg",
+   "b": "Filé de Peito de Frango Levo 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carvão Vegetal Jucurutu Saco 3kg",
+   "b": "Carvão Vegetal Jucurutu pct 3kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Bom Todo 1kg Congelado Bandeja",
+   "b": "Filé de Peito de Frango Bom Todo 1kg (congelado)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Itacolomy Comum Com Sal PT 500G",
+   "b": "Manteiga Itacolomy Com Sal PT 500G",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Adapt c/8 Suave",
+   "b": "Absorvente Sempre Livre Adapt s/ Abas c/8 Suave",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aperitivo Aperol 750ml",
+   "b": "Aperitivo Aperol gfa 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Calabresa Império KG",
+   "b": "Linguiça Calabresa Perdigão kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "LAVANDA JOHNSONS BABY INF 200ML",
+   "b": "Lavanda Johnson's Baby Infantil 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Deluxe 20m Lv12 Pg11",
+   "b": "Papel Higiênico Deluxe 20m Leve 12 Pague 11",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Envelopada",
+   "b": "Coxa com Sobrecoxa de Frango Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Toscana Aurora 700g ou Pernil ou Frango Aurora 700g",
+   "b": "Linguiça Toscana Aurora 700g ou Pernil Aurora 700g ou Frango Aurora 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "LING TOSCANA AURORA 700G ou LING PERNIL AURORA 700G ou LING FRANGO AURORA 700G",
+   "b": "Linguiça Toscana Aurora 700g ou Pernil Aurora 700g ou Frango Aurora 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito Bom Todo 1kg Bandeja",
+   "b": "Filé de Peito Bom Todo 1kg IQF ou Bandeja",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante de Roupas Comfort 1,5L Fragrâncias",
+   "b": "Amaciante de Roupas Sonho 1,5L Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Copacol Congelada",
+   "b": "Coxa com Sobrecoxa de Frango Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Caprice Neutro 20m Folha Dupla Leve 12 Pague 11",
+   "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Caprice Folha Dupla 20m Leve 12 Pague 11 (neutro)",
+   "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Galinha Pequena Q'Delícia Cong kg",
+   "b": "Galinha Pequena Qdelícia kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café São Braz 250g Almofada/A Vácuo",
+   "b": "Café São Braz Família 250g (Almofada/Á Vácuo)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Suína para Churrasco Suinco kg",
+   "b": "Linguiça Suína para Churrasco Aurora Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Mussarela Domblá peça ou pedaço kg",
+   "b": "Queijo Mussarela Domilac pç ou pdç kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Floral Folha Dupla 20m c/12",
+   "b": "Papel Higiênico Floral Folha Dupla 20 Metros pct c/12",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó Italac Chocky 200g",
+   "b": "Achocolatado em Pó Italac 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé-mignon Suíno Seara Congelado",
+   "b": "Filé Mignon Suíno Lar Congelado Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Mauricéa Congelada",
+   "b": "Coxa com Sobrecoxa de Frango Congelada",
+   "veredito": "diferente"
+  }
+ ]
+}
