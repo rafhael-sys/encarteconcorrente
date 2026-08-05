@@ -1,0 +1,277 @@
+[
+ {
+  "k": "cesta basica assai kit 1 com 11 itens || cesta basica assai ne kit 11 itens",
+  "a": "Cesta Básica Assaí Kit 1 com 11 Itens",
+  "b": "Cesta Básica Assaí NE Kit 11 itens",
+  "foto_a": {
+   "imagem": "data/pages/assai_168587-572_p2.jpg",
+   "nome_impresso": "Cesta Básica Assaí Kit 1 com 11 Itens",
+   "regiao_pct": {
+    "x": 46,
+    "y": 13,
+    "w": 17,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_169300-572_p2.jpg",
+   "nome_impresso": "Cesta Básica Assaí NE Kit 11 itens",
+   "regiao_pct": {
+    "x": 43,
+    "y": 5,
+    "w": 18,
+    "h": 12
+   }
+  }
+ },
+ {
+  "k": "agua sanitaria dragao 1l || agua sanitaria dragao frasco 1l",
+  "a": "Água Sanitária Dragão 1L",
+  "b": "Água Sanitária Dragão Frasco 1L",
+  "foto_a": {
+   "imagem": "data/pages/lm_selecao_p3.jpg",
+   "nome_impresso": "Agua Sanitaria Dragao 1L",
+   "regiao_pct": {
+    "x": 3.2,
+    "y": 57.3,
+    "w": 15.4,
+    "h": 10.7
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_168726-572_p2.jpg",
+   "nome_impresso": "Água Sanitária Dragão Frasco 1L",
+   "regiao_pct": {
+    "x": 22,
+    "y": 42,
+    "w": 16,
+    "h": 18
+   }
+  }
+ },
+ {
+  "k": "file de tilapia aurora 800g || file de tilapia riviera 800g",
+  "a": "Filé de Tilápia Riviera 800g",
+  "b": "Filé de Tilápia Aurora 800g",
+  "foto_a": {
+   "imagem": "data/pages/Daba-Qylsw5_p1.jpg",
+   "nome_impresso": "Filé de Peixe Tilápia Riviera 800g",
+   "regiao_pct": {
+    "x": 79.9,
+    "y": 42.7,
+    "w": 14.2,
+    "h": 15.1
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbZdrvom9TF_p2.jpg",
+   "nome_impresso": "Filé de Tilápia Aurora 800g",
+   "regiao_pct": {
+    "x": 52,
+    "y": 22,
+    "w": 23,
+    "h": 20
+   }
+  }
+ },
+ {
+  "k": "amaciante concentrado brilux 500ml || amaciante concentrado mon bijou 500ml",
+  "a": "Amaciante Concentrado Brilux 500ml",
+  "b": "Amaciante Concentrado Mon Bijou 500ml",
+  "foto_a": {
+   "imagem": "data/pages/DaTjUhZmPIF_p2.jpg",
+   "nome_impresso": "Amaciante Concentrado Brilux 500ml",
+   "regiao_pct": {
+    "x": 30.1,
+    "y": 72.1,
+    "w": 16.7,
+    "h": 13.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbeWKyWoOFv_p2.jpg",
+   "nome_impresso": "Amaciante Concentrado Mon Bijou 500ml",
+   "regiao_pct": {
+    "x": 18,
+    "y": 69,
+    "w": 15,
+    "h": 11
+   }
+  }
+ },
+ {
+  "k": "bisteca suina congelada kg || bisteca suina congelada sadia",
+  "a": "Bisteca Suína Congelada Kg",
+  "b": "Bisteca Suína Congelada Sadia",
+  "foto_a": {
+   "imagem": "data/pages/Da_LvMVGx-J_p6.jpg",
+   "nome_impresso": "Bisteca Suína Congelada Kg",
+   "regiao_pct": {
+    "x": 7,
+    "y": 30,
+    "w": 88,
+    "h": 51
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_49255-564_p1.jpg",
+   "nome_impresso": "Bisteca Suína Congelada Sadia",
+   "regiao_pct": {
+    "x": 23,
+    "y": 51,
+    "w": 17,
+    "h": 20
+   }
+  }
+ },
+ {
+  "k": "des aer nivea men 150ml for men dry imp ou des aer nivea 150ml derma restaura || desodorante aerosol nivea men 150ml for men dry imp ou nivea 150ml derma restaura",
+  "a": "Des Aer Nivea Men 150ml For Men Dry Imp ou Des Aer Nivea 150ml Derma Restaura",
+  "b": "Desodorante Aerosol Nivea Men 150ml For Men Dry Imp ou Nivea 150ml Derma Restaura",
+  "foto_a": {
+   "imagem": "data/pages/DbGXAlmnFuX_p2.jpg",
+   "nome_impresso": "Des Aer Nivea Men 150ml For Men Dry Imp ou Des Aer Nivea 150ml Derma Restaura",
+   "regiao_pct": {
+    "x": 7,
+    "y": 70,
+    "w": 16,
+    "h": 9
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_favoritosuper_3950456065649045283.jpg",
+   "nome_impresso": "Desodorante Aerosol Nivea Men 150ml For Men Dry Imp ou Nivea 150ml Derma Restaura",
+   "regiao_pct": {
+    "x": 3,
+    "y": 67,
+    "w": 15,
+    "h": 9
+   }
+  }
+ },
+ {
+  "k": "mini kibe felita chef 810g (congelado - tradicional/com requeijao) || mini kibe felita chef 810g (tradicional/requeijao)",
+  "a": "Mini Kibe Felitá Chef 810g (Congelado - Tradicional/Com Requeijão)",
+  "b": "Mini Kibe Felitá Chef 810g (Tradicional/Requeijão)",
+  "foto_a": {
+   "imagem": "data/pages/DabVyKuj5YB_p3.jpg",
+   "nome_impresso": "Mini Kibe Felitá Chef 810g (Congelado - Tradicional/Com Requeijão)",
+   "regiao_pct": {
+    "x": 66.0,
+    "y": 40.0,
+    "w": 29.5,
+    "h": 21.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbjcA11jxwm_p3.jpg",
+   "nome_impresso": "Mini Kibe Felitá Chef 810g (Tradicional/Requeijão)",
+   "regiao_pct": {
+    "x": 10,
+    "y": 72,
+    "w": 28,
+    "h": 16
+   }
+  }
+ },
+ {
+  "k": "galinha grande somave congelada || galinha somave (congelada)",
+  "a": "Galinha Somave (Congelada)",
+  "b": "Galinha Grande Somave Congelada",
+  "foto_a": {
+   "imagem": "data/pages/DbT_N-5D8EV_p2.jpg",
+   "nome_impresso": "Galinha Somave (Congelada)",
+   "regiao_pct": {
+    "x": 7,
+    "y": 48,
+    "w": 28,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_marvermelhoatacado_3953713070368030729.jpg",
+   "nome_impresso": "Galinha Grande Somave Congelada",
+   "regiao_pct": {
+    "x": 6,
+    "y": 27,
+    "w": 88,
+    "h": 55
+   }
+  }
+ },
+ {
+  "k": "creme de avela da terrinha 140g || creme de avela da terrinha pote com 140g",
+  "a": "Creme de Avelã da Terrinha Pote com 140g",
+  "b": "Creme de Avelã Da Terrinha 140g",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_5edc3f0df8_p3.jpg",
+   "nome_impresso": "Creme de Avelã da Terrinha Pote com 140g",
+   "regiao_pct": {
+    "x": 79,
+    "y": 32,
+    "w": 18,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_10250df561_p1.jpg",
+   "nome_impresso": "Creme de Avelã Da Terrinha 140g",
+   "regiao_pct": {
+    "x": 66,
+    "y": 17,
+    "w": 33,
+    "h": 11
+   }
+  }
+ },
+ {
+  "k": "agua sanitaria dragao 2l || agua sanitaria dragao frasco 2l",
+  "a": "Água Sanitária Dragão 2L",
+  "b": "Água Sanitária Dragão Frasco 2L",
+  "foto_a": {
+   "imagem": "data/pages/Daba-Qylsw5_p2.jpg",
+   "nome_impresso": "Água Sanitária Dragão 2L",
+   "regiao_pct": {
+    "x": 58.8,
+    "y": 64.0,
+    "w": 17.5,
+    "h": 13.6
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_168730-572_p1.jpg",
+   "nome_impresso": "Água Sanitária Dragão Frasco 2L",
+   "regiao_pct": {
+    "x": 40,
+    "y": 44,
+    "w": 18,
+    "h": 15
+   }
+  }
+ },
+ {
+  "k": "cafe em po sao braz familia pct 250g || cafe moido sao braz familia sc 250g",
+  "a": "Café em Pó São Braz Família pct 250g",
+  "b": "Café Moído São Braz Família SC 250g",
+  "foto_a": {
+   "imagem": "data/pages/DatQchwAeyS_p1.jpg",
+   "nome_impresso": "Café em Pó São Braz Família pct 250g",
+   "regiao_pct": {
+    "x": 58,
+    "y": 27,
+    "w": 20,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_marvermelhoatacado_3950388645212142484.jpg",
+   "nome_impresso": "Café Moído São Braz Família SC 250g",
+   "regiao_pct": {
+    "x": 2,
+    "y": 51,
+    "w": 24,
+    "h": 12
+   }
+  }
+ }
+]

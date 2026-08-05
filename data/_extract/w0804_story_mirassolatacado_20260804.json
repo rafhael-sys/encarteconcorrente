@@ -1,0 +1,33 @@
+{
+  "story_mirassolatacado_3956253406923147411": [
+    {"n": "Papel Higiênico ATUALLE Neutro Folha Dupla 12 Rolos 20m", "p": "11,99", "u": "pacote", "x": 10, "y": 16, "w": 40, "h": 27},
+    {"n": "Fraldas Descartáveis CREMER Shortinho Jumbo", "p": "24,99", "u": "pacote", "x": 52, "y": 16, "w": 46, "h": 27},
+    {"n": "Detergente Líquido TANLUX Fragrâncias 500ml", "p": "1,39", "u": "cada", "x": 15, "y": 42, "w": 62, "h": 23},
+    {"n": "Lava Roupas Líquido TANLUX 3L", "p": "12,99", "u": "cada", "x": 12, "y": 62, "w": 38, "h": 26},
+    {"n": "Água Sanitária DRAGÃO 1L", "p": "2,09", "u": "cada; caixa 12un R$ 25,08", "x": 44, "y": 62, "w": 54, "h": 26}
+  ],
+  "story_mirassolatacado_3956253567506282346": [
+    {"n": "Café SANTA CLARA Extraforte Almofada ou A Vácuo 250g", "p": "12,99", "u": "cada", "x": 14, "y": 17, "w": 40, "h": 27},
+    {"n": "Biscoito Cream Cracker MARILAN Especial 350g", "p": "3,99", "u": "cada", "x": 52, "y": 17, "w": 44, "h": 26},
+    {"n": "Leite Condensado DAMARE Semidesnatado 395g", "p": "5,49", "u": "cada", "x": 18, "y": 43, "w": 58, "h": 21},
+    {"n": "Bombons Sortidos GAROTO 10% de Desconto 220g", "p": "11,99", "u": "caixa", "x": 12, "y": 62, "w": 34, "h": 26},
+    {"n": "Bebida Láctea UHT QUATÁ KIDS Chocolate 180ml", "p": "0,99", "u": "cada; caixa 27un R$ 26,73", "x": 44, "y": 62, "w": 54, "h": 26}
+  ],
+  "story_mirassolatacado_3956253688151259452": [
+    {"n": "Filé de Peito de Frango BOM TODO 1kg", "p": "18,99", "u": "bandeja; a partir de 18un R$ 18,49", "x": 2, "y": 17, "w": 24, "h": 18},
+    {"n": "Coxa com Sobrecoxa de Frango Congelada", "p": "8,19", "u": "kg; a partir de 20kg R$ 7,99", "x": 27, "y": 17, "w": 26, "h": 18},
+    {"n": "Batata Pré-frita EASYCHEF Congelada 2kg", "p": "18,99", "u": "cada", "x": 55, "y": 17, "w": 18, "h": 18},
+    {"n": "Galinha Matriz SOMAVE", "p": "7,99", "u": "kg", "x": 74, "y": 17, "w": 24, "h": 18},
+    {"n": "Salsicha Hot Dog RARA 2,5kg", "p": "14,98", "u": "pacote; kg sai R$ 5,99", "x": 2, "y": 35, "w": 26, "h": 17},
+    {"n": "Flocão de Milho NORDESTINO 500g", "p": "1,39", "u": "cada", "x": 28, "y": 35, "w": 22, "h": 17},
+    {"n": "Açúcar DUMEL Triturado 1kg", "p": "3,29", "u": "un; a partir de 10un R$ 3,15", "x": 48, "y": 35, "w": 24, "h": 17},
+    {"n": "Arroz FAZENDA Parbolizado 1kg", "p": "3,49", "u": "un; a partir de 10un R$ 3,29", "x": 72, "y": 35, "w": 26, "h": 17},
+    {"n": "Óleo de Soja SOYA 900ml", "p": "7,49", "u": "cada; a partir de 20un R$ 7,29", "x": 2, "y": 51, "w": 24, "h": 16},
+    {"n": "Macarrão BONSABOR Spaghetti 400g", "p": "1,99", "u": "cada", "x": 26, "y": 51, "w": 22, "h": 16},
+    {"n": "Leite UHT BETÂNIA Integral ou Desnatado 1L", "p": "5,99", "u": "cada", "x": 48, "y": 51, "w": 22, "h": 16},
+    {"n": "Farinha de Trigo FINNA Tradicional 1kg", "p": "3,99", "u": "cada; a partir de 10un R$ 3,89", "x": 70, "y": 51, "w": 28, "h": 16},
+    {"n": "Creme Culinário DAMARE 200g", "p": "1,79", "u": "cada; caixa 27un R$ 48,33", "x": 2, "y": 67, "w": 34, "h": 21},
+    {"n": "Biscoito Recheado RENATA DIVERTIX Sabores 112g", "p": "1,49", "u": "cada", "x": 38, "y": 67, "w": 28, "h": 21},
+    {"n": "Biscoito 3 DE MAIO Água e Sal 300g", "p": "3,49", "u": "cada", "x": 66, "y": 67, "w": 32, "h": 21}
+  ]
+}

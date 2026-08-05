@@ -1,0 +1,65 @@
+{
+  "story_redesuper.show_3956328372534520981": [
+    {"n": "Peito de Frango (Envelopado)", "p": "9,99", "u": "kg", "x": 17, "y": 49, "w": 21, "h": 13},
+    {"n": "Batata Pré-Frita Easychef 2kg (Congelada)", "p": "17,99", "u": "cada", "x": 38, "y": 49, "w": 20, "h": 13},
+    {"n": "Salsicha Hot-Dog Sadia", "p": "9,99", "u": "kg", "x": 58, "y": 49, "w": 21, "h": 13},
+    {"n": "Cupim Bovino (Congelado)", "p": "36,99", "u": "kg", "x": 17, "y": 62, "w": 21, "h": 14},
+    {"n": "Fígado Bovino (Congelado)", "p": "13,99", "u": "kg", "x": 38, "y": 62, "w": 20, "h": 14},
+    {"n": "Linguiça de Frango Bom Todo", "p": "13,99", "u": "kg", "x": 58, "y": 62, "w": 21, "h": 14}
+  ],
+  "story_redesuper.show_3956328440952036540": [
+    {"n": "Batata Pré-Frita Easychef 2kg (Congelada)", "p": "17,99", "u": "cada", "x": 5, "y": 16, "w": 90, "h": 73}
+  ],
+  "story_redesuper.show_3956328540667475314": [
+    {"n": "Peito de Frango Super Frango (Envelopado)", "p": "9,99", "u": "kg", "x": 2, "y": 13, "w": 96, "h": 76}
+  ],
+  "story_redesuper.show_3956328590353183761": [
+    {"n": "Cupim Bovino (Resfriado)", "p": "36,99", "u": "kg", "x": 8, "y": 28, "w": 84, "h": 63}
+  ],
+  "story_redesuper.show_3956328669675854870": [
+    {"n": "Linguiça de Frango Bom Todo", "p": "13,99", "u": "kg", "x": 3, "y": 16, "w": 94, "h": 76}
+  ],
+  "story_redesuper.show_3956328719193883783": [
+    {"n": "Salsicha Hot-Dog Bom Todo", "p": "9,99", "u": "kg", "x": 2, "y": 24, "w": 96, "h": 70}
+  ],
+  "story_redesuper.show_3956416714539674257": [],
+  "story_redesuper.show_3956434596051594148": [
+    {"n": "Fraldas Descartáveis Pampers Pants Mega (Diversos tamanhos)", "p": "39,99", "u": "un", "x": 8, "y": 18, "w": 86, "h": 66}
+  ],
+  "story_redesuper.show_3956434636121202515": [
+    {"n": "Amaciante Concentrado Downy 500ml (Fragrâncias)", "p": "9,99", "u": "un", "x": 3, "y": 12, "w": 94, "h": 76}
+  ],
+  "story_redesuper.show_3956434595346929567": [
+    {"n": "Refresco em Pó Frisco 18g (Sabores)", "p": "0,79", "u": "un", "x": 3, "y": 26, "w": 94, "h": 68}
+  ],
+  "story_redesuper.show_3956434613992064742": [
+    {"n": "Filé de Peito de Frango Levo 1kg", "p": "17,99", "u": "un", "x": 6, "y": 11, "w": 88, "h": 78}
+  ],
+  "story_redesuper.show_3956435338502191847": [
+    {"n": "Refrigerante Coca-Cola Zero 2L", "p": "10,29", "u": "un", "x": 2, "y": 3, "w": 46, "h": 45},
+    {"n": "Limpador Perfumado Becker 500ml (Fragrâncias)", "p": "3,99", "u": "un", "x": 50, "y": 3, "w": 48, "h": 45},
+    {"n": "Ovo Avine Ômega 3 BDJ c/10 und", "p": "7,99", "u": "bdj c/10 und, cliente cadastrado, de R$ 10,99", "x": 2, "y": 51, "w": 46, "h": 47},
+    {"n": "Creme de Leite Piracanjuba 200g", "p": "2,79", "u": "un", "x": 50, "y": 51, "w": 48, "h": 47}
+  ],
+  "story_redesuper.show_3956587952998415044": [],
+  "story_redesuper.show_3956588443189835404": [
+    {"n": "Banana Anã/Prata/Pacovan", "p": "3,48", "u": "kg", "x": 6, "y": 23, "w": 20, "h": 18},
+    {"n": "Cebola Branca/Roxa", "p": "4,98", "u": "kg", "x": 28, "y": 23, "w": 20, "h": 18},
+    {"n": "Batata Inglesa", "p": "4,28", "u": "kg", "x": 51, "y": 23, "w": 20, "h": 18},
+    {"n": "Laranja Pera", "p": "1,98", "u": "kg", "x": 73, "y": 23, "w": 20, "h": 18},
+    {"n": "Goma para Tapioca Felitá Chef 1kg", "p": "4,38", "u": "cada", "x": 4, "y": 44, "w": 22, "h": 13},
+    {"n": "Maçã Nacional", "p": "5,98", "u": "kg", "x": 28, "y": 44, "w": 21, "h": 13},
+    {"n": "Alho (A Granel)", "p": "1,88", "u": "100g", "x": 51, "y": 44, "w": 21, "h": 13},
+    {"n": "Pera D'anjour", "p": "13,58", "u": "kg", "x": 73, "y": 44, "w": 21, "h": 13},
+    {"n": "Tangerina Murcote", "p": "6,98", "u": "kg", "x": 3, "y": 58, "w": 19, "h": 12},
+    {"n": "Macaxeira", "p": "2,48", "u": "kg", "x": 23, "y": 58, "w": 19, "h": 12},
+    {"n": "Cenoura", "p": "6,98", "u": "kg", "x": 43, "y": 58, "w": 19, "h": 12},
+    {"n": "Tomate", "p": "3,78", "u": "kg", "x": 62, "y": 58, "w": 18, "h": 12},
+    {"n": "Goiaba", "p": "4,58", "u": "kg", "x": 80, "y": 58, "w": 18, "h": 12},
+    {"n": "Tâmara 200g (Bandeja)", "p": "5,98", "u": "bdj", "x": 4, "y": 71, "w": 21, "h": 12},
+    {"n": "Kiwi 600g (Bandeja)", "p": "12,58", "u": "bdj", "x": 28, "y": 71, "w": 21, "h": 12},
+    {"n": "Uva Verde Seleta 500g (Bandeja)", "p": "8,98", "u": "bdj", "x": 51, "y": 71, "w": 21, "h": 12},
+    {"n": "Ameixa Fresca", "p": "2,48", "u": "100g", "x": 73, "y": 71, "w": 21, "h": 12}
+  ],
+  "story_redesuper.show_3956588704847111818": []
+}

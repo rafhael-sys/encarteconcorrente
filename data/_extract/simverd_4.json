@@ -1,0 +1,68 @@
+[
+ {
+  "k": "cesta basica assai kit 1 com 11 itens || cesta basica assai ne kit 11 itens",
+  "a": "Cesta Básica Assaí Kit 1 com 11 Itens",
+  "b": "Cesta Básica Assaí NE Kit 11 itens",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "agua sanitaria dragao 1l || agua sanitaria dragao frasco 1l",
+  "a": "Água Sanitária Dragão 1L",
+  "b": "Água Sanitária Dragão Frasco 1L",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "file de tilapia aurora 800g || file de tilapia riviera 800g",
+  "a": "Filé de Tilápia Riviera 800g",
+  "b": "Filé de Tilápia Aurora 800g",
+  "veredito": "diferente"
+ },
+ {
+  "k": "amaciante concentrado brilux 500ml || amaciante concentrado mon bijou 500ml",
+  "a": "Amaciante Concentrado Brilux 500ml",
+  "b": "Amaciante Concentrado Mon Bijou 500ml",
+  "veredito": "diferente"
+ },
+ {
+  "k": "bisteca suina congelada kg || bisteca suina congelada sadia",
+  "a": "Bisteca Suína Congelada Kg",
+  "b": "Bisteca Suína Congelada Sadia",
+  "veredito": "diferente"
+ },
+ {
+  "k": "des aer nivea men 150ml for men dry imp ou des aer nivea 150ml derma restaura || desodorante aerosol nivea men 150ml for men dry imp ou nivea 150ml derma restaura",
+  "a": "Des Aer Nivea Men 150ml For Men Dry Imp ou Des Aer Nivea 150ml Derma Restaura",
+  "b": "Desodorante Aerosol Nivea Men 150ml For Men Dry Imp ou Nivea 150ml Derma Restaura",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "mini kibe felita chef 810g (congelado - tradicional/com requeijao) || mini kibe felita chef 810g (tradicional/requeijao)",
+  "a": "Mini Kibe Felitá Chef 810g (Congelado - Tradicional/Com Requeijão)",
+  "b": "Mini Kibe Felitá Chef 810g (Tradicional/Requeijão)",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "galinha grande somave congelada || galinha somave (congelada)",
+  "a": "Galinha Somave (Congelada)",
+  "b": "Galinha Grande Somave Congelada",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "creme de avela da terrinha 140g || creme de avela da terrinha pote com 140g",
+  "a": "Creme de Avelã da Terrinha Pote com 140g",
+  "b": "Creme de Avelã Da Terrinha 140g",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "agua sanitaria dragao 2l || agua sanitaria dragao frasco 2l",
+  "a": "Água Sanitária Dragão 2L",
+  "b": "Água Sanitária Dragão Frasco 2L",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "cafe em po sao braz familia pct 250g || cafe moido sao braz familia sc 250g",
+  "a": "Café em Pó São Braz Família pct 250g",
+  "b": "Café Moído São Braz Família SC 250g",
+  "veredito": "mesmo"
+ }
+]

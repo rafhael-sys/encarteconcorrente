@@ -1,0 +1,68 @@
+[
+ {
+  "k": "papel higienico deluxe folha dupla 20m 12 rolos || papel higienico max pure folha dupla 30m 12 rolos",
+  "a": "Papel Higiênico Max Pure Folha Dupla 30m 12 Rolos",
+  "b": "Papel Higiênico Deluxe Folha Dupla 20m 12 Rolos",
+  "veredito": "diferente"
+ },
+ {
+  "k": "cupim bovino congelado a vacuo masterboi || cupim bovino resfriado a vacuo masterboi",
+  "a": "Cupim Bovino Congelado a Vácuo Masterboi",
+  "b": "Cupim Bovino Resfriado a Vácuo Masterboi",
+  "veredito": "diferente"
+ },
+ {
+  "k": "limpador perfumado azulim 1l (fragrancias) || limpador perfumado uau fr 1l fragrancias",
+  "a": "Limpador Perfumado UAU FR 1L Fragrâncias",
+  "b": "Limpador Perfumado Azulim 1L (fragrâncias)",
+  "veredito": "diferente"
+ },
+ {
+  "k": "adocante liquido stevia svili 90ml excelent || adocante liquido stevia svili excellent 90ml",
+  "a": "Adoçante Líquido Stevia Svili Excellent 90ml",
+  "b": "Adoçante Líquido Stevia Svili 90ml Excelent",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "leite condensado semidesnatado camponesa 395g || leite condensado semidesnatado italac 395g",
+  "a": "Leite Condensado Semidesnatado Italac 395g",
+  "b": "Leite Condensado Semidesnatado Camponesa 395g",
+  "veredito": "diferente"
+ },
+ {
+  "k": "desodorante old spice spray antitranspirante refrescante ou amadeirado 250ml || desodorante old spice spray refrescante ou amadeirado 250ml",
+  "a": "Desodorante Old Spice Spray Refrescante ou Amadeirado 250ml",
+  "b": "Desodorante Old Spice Spray Antitranspirante Refrescante ou Amadeirado 250ml",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "manteiga ouro bom 500g c/sal prim qual || manteiga ouro bom 500g com sal primeira qualidade",
+  "a": "Manteiga Ouro Bom 500g c/Sal Prim Qual",
+  "b": "Manteiga Ouro Bom 500g com Sal Primeira Qualidade",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "macarrao comum bonsabor espaguete 400g || macarrao comum bonsabor espaguete pacote com 400g",
+  "a": "Macarrão Comum Bonsabor Espaguete Pacote com 400g",
+  "b": "Macarrão Comum Bonsabor Espaguete 400g",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "molho de tomate fugini tradicional 300g ou azeitona rivoli 80g sache || molho tom fugini sh trad 300g ou azeitona rivoli 80g sache",
+  "a": "Molho de Tomate Fugini Tradicional 300g ou Azeitona Rivoli 80g Sachê",
+  "b": "Molho Tom Fugini SH Trad 300g ou Azeitona Rivoli 80g Sache",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "manteiga itacolomy com sal 500g || manteiga itacolomy comum com sal pt 500g",
+  "a": "Manteiga Itacolomy com Sal 500g",
+  "b": "Manteiga Itacolomy Comum Com Sal PT 500G",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "lasanha perdigao congelada bolonhesa/frango 600g || lasanha perdigao congelada bolonhesa/frango embalagem com 600g",
+  "a": "Lasanha Perdigão Congelada Bolonhesa/Frango Embalagem com 600g",
+  "b": "Lasanha Perdigão Congelada Bolonhesa/Frango 600g",
+  "veredito": "mesmo"
+ }
+]

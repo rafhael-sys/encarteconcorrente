@@ -1,0 +1,68 @@
+[
+ {
+  "k": "linguica calabresa perdigao kg || linguica calabresa sadia kg",
+  "a": "Linguiça Calabresa Sadia kg",
+  "b": "Linguiça Calabresa Perdigão kg",
+  "veredito": "diferente"
+ },
+ {
+  "k": "lava roupas em po ala varios tipos 400g || lava roupas em po ala varios tipos pacote com 400g",
+  "a": "Lava Roupas em Pó Ala Vários tipos Pacote com 400g",
+  "b": "Lava Roupas em Pó Ala Vários Tipos 400g",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "file de peito de frango bom todo 1kg congelado bandeja || file de peito de frango bom todo 1kg iqf ou bandeja",
+  "a": "Filé de Peito de Frango Bom Todo 1kg Congelado Bandeja",
+  "b": "Filé de Peito de Frango Bom Todo 1kg IQF ou Bandeja",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "polpa ster bom 1kg abacaxi/caju/goiaba/manga/tamarindo || polpa ster bom todo 1kg caju/goiaba/manga/tamarindo",
+  "a": "Polpa Ster Bom 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo",
+  "b": "Polpa Ster Bom Todo 1kg Caju/Goiaba/Manga/Tamarindo",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "cafe uniao tradicional ou extra forte 250g pouch || cafe zico tradicional ou extra forte 250g",
+  "a": "Café Zico Tradicional ou Extra Forte 250g",
+  "b": "Café União Tradicional ou Extra Forte 250g Pouch",
+  "veredito": "diferente"
+ },
+ {
+  "k": "peito de frango bom todo congelado bandeja 1kg || peito de frango bom todo cortes congelados bdj 1kg",
+  "a": "Peito de Frango Bom Todo Congelado Bandeja 1kg",
+  "b": "Peito de Frango Bom Todo Cortes Congelados bdj 1kg",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "patinho bov resfriado kg || patinho bovino resfriado",
+  "a": "PATINHO BOV RESFRIADO KG",
+  "b": "Patinho Bovino Resfriado",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "peito de frango com osso congelado kg || peito de frango com osso congelado mauricea",
+  "a": "Peito de Frango com Osso Congelado kg",
+  "b": "Peito de Frango com Osso Congelado Mauricéa",
+  "veredito": "diferente"
+ },
+ {
+  "k": "pinho bril frag 500ml || pinho bril fragrancia 500ml",
+  "a": "Pinho Bril Fragrância 500ml",
+  "b": "Pinho Bril Frag 500ml",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "margarina deline com sal 3kg || margarina deline cremosa com sal 3kg",
+  "a": "Margarina Deline com Sal 3kg",
+  "b": "Margarina Deline Cremosa com Sal 3kg",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "queijo mussarela jucurutu 500g fat interfolhad || queijo mussarela sertao jucurutu 500g (interfolhada)",
+  "a": "Queijo Mussarela Jucurutu 500g Fat Interfolhad",
+  "b": "Queijo Mussarela Sertao Jucurutu 500g (Interfolhada)",
+  "veredito": "mesmo"
+ }
+]

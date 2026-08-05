@@ -1,0 +1,19 @@
+{
+  "Dbolj3xn03X_p1": [
+    {"n": "TOMATE EXTRA", "p": "3,99", "u": "kg", "x": 15, "y": 31, "w": 28, "h": 24},
+    {"n": "BATATA INGLESA", "p": "4,79", "u": "kg", "x": 55, "y": 31, "w": 30, "h": 24},
+    {"n": "CEBOLA BRANCA", "p": "5,59", "u": "kg", "x": 15, "y": 56, "w": 30, "h": 24},
+    {"n": "BANANA PACOVAN", "p": "3,59", "u": "kg", "x": 54, "y": 56, "w": 32, "h": 24}
+  ],
+  "Dbolj3xn03X_p2": [
+    {"n": "ABACATE", "p": "3,99", "u": "kg", "x": 17, "y": 31, "w": 27, "h": 24},
+    {"n": "GOIABA", "p": "4,79", "u": "kg", "x": 55, "y": 31, "w": 30, "h": 24},
+    {"n": "UVA VITÓRIA FRAZÃO BDJ 500G", "p": "4,79", "u": "un", "x": 13, "y": 55, "w": 33, "h": 25},
+    {"n": "TANGERINA NACIONAL", "p": "4,99", "u": "kg", "x": 53, "y": 55, "w": 33, "h": 24}
+  ],
+  "Dbolj3xn03X_p3": [
+    {"n": "MAÇÃ NACIONAL", "p": "8,99", "u": "kg", "x": 15, "y": 31, "w": 30, "h": 24},
+    {"n": "MORANGO BDJ 200G", "p": "9,99", "u": "un", "x": 55, "y": 31, "w": 32, "h": 24},
+    {"n": "OVOS BRANCO GRANDE GRANJA ALMEIDA COM 30 UND", "p": "14,99", "u": "bdj", "x": 13, "y": 54, "w": 35, "h": 28}
+  ]
+}

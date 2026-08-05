@@ -1,0 +1,284 @@
+{
+ "validacoes": [
+  {
+   "a": "Salsicha Hot Dog Avivar",
+   "b": "Salsicha Hot-Dog Sadia",
+   "veredito": "diferente"
+  },
+  {
+   "a": "File de Peixe Pescada Fish Congelado PC 800G",
+   "b": "Filé de Peixe Merluza Fish Congelado PC 800G",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bov Lombo Serrado kg",
+   "b": "Carne Bovina Lombo Serrado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito Levo Pct Kg",
+   "b": "Filé de Peito Levo Pacote",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Sanitária Clorito Frasco 2L",
+   "b": "Água Sanitária Clorito 2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Calabresa Sadia kg",
+   "b": "Linguiça Calabresa Perdigão kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas em Pó Ala Vários tipos Pacote com 400g",
+   "b": "Lava Roupas em Pó Ala Vários Tipos 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Bom Todo 1kg Congelado Bandeja",
+   "b": "Filé de Peito de Frango Bom Todo 1kg IQF ou Bandeja",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Polpa Ster Bom 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo",
+   "b": "Polpa Ster Bom Todo 1kg Caju/Goiaba/Manga/Tamarindo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Zico Tradicional ou Extra Forte 250g",
+   "b": "Café União Tradicional ou Extra Forte 250g Pouch",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito de Frango Bom Todo Congelado Bandeja 1kg",
+   "b": "Peito de Frango Bom Todo Cortes Congelados bdj 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "PATINHO BOV RESFRIADO KG",
+   "b": "Patinho Bovino Resfriado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango com Osso Congelado kg",
+   "b": "Peito de Frango com Osso Congelado Mauricéa",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pinho Bril Fragrância 500ml",
+   "b": "Pinho Bril Frag 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Margarina Deline com Sal 3kg",
+   "b": "Margarina Deline Cremosa com Sal 3kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Jucurutu 500g Fat Interfolhad",
+   "b": "Queijo Mussarela Sertao Jucurutu 500g (Interfolhada)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante Downy 500ml",
+   "b": "AMACIANTE ROUPA DOWNY 500ML",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Parmesão Ralado Pampulha Sachê com 50g",
+   "b": "Queijo Parmesão Ralado Pampulha 50g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Tapete Hig Procão 7un",
+   "b": "Tapete Higienico Procao 7un",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Shampoo + Condicionador Pantene",
+   "b": "Kit Shampoo + Condicionador Niely",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mortadela Tony Kg (aves ou mista)",
+   "b": "Mortadela Tony Kg (frango ou mista)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante Urca Fragrâncias Galão 5L",
+   "b": "Amaciante de Roupas Urca Fragrâncias Galão 5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Milho Para Pipoca VITAMILHO 400g",
+   "b": "Milho para Pipoca Vitaforte 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Fralda Descartável Pampers Pants Mega Shortinhos",
+   "b": "Fraldas Descartáveis Pampers Pants Mega (Tamanhos)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Friboi 56g",
+   "b": "Hambúrguer Friboi 56g (Misto)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Max Pure Folha Dupla 30m 12 Rolos",
+   "b": "Papel Higiênico Deluxe Folha Dupla 20m 12 Rolos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cupim Bovino Congelado a Vácuo Masterboi",
+   "b": "Cupim Bovino Resfriado a Vácuo Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Limpador Perfumado UAU FR 1L Fragrâncias",
+   "b": "Limpador Perfumado Azulim 1L (fragrâncias)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Adoçante Líquido Stevia Svili Excellent 90ml",
+   "b": "Adoçante Líquido Stevia Svili 90ml Excelent",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Semidesnatado Italac 395g",
+   "b": "Leite Condensado Semidesnatado Camponesa 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Old Spice Spray Refrescante ou Amadeirado 250ml",
+   "b": "Desodorante Old Spice Spray Antitranspirante Refrescante ou Amadeirado 250ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Ouro Bom 500g c/Sal Prim Qual",
+   "b": "Manteiga Ouro Bom 500g com Sal Primeira Qualidade",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão Comum Bonsabor Espaguete Pacote com 400g",
+   "b": "Macarrão Comum Bonsabor Espaguete 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Fugini Tradicional 300g ou Azeitona Rivoli 80g Sachê",
+   "b": "Molho Tom Fugini SH Trad 300g ou Azeitona Rivoli 80g Sache",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Itacolomy com Sal 500g",
+   "b": "Manteiga Itacolomy Comum Com Sal PT 500G",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lasanha Perdigão Congelada Bolonhesa/Frango Embalagem com 600g",
+   "b": "Lasanha Perdigão Congelada Bolonhesa/Frango 600g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cesta Básica Assaí Kit 1 com 11 Itens",
+   "b": "Cesta Básica Assaí NE Kit 11 itens",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Sanitária Dragão 1L",
+   "b": "Água Sanitária Dragão Frasco 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Tilápia Riviera 800g",
+   "b": "Filé de Tilápia Aurora 800g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Amaciante Concentrado Brilux 500ml",
+   "b": "Amaciante Concentrado Mon Bijou 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bisteca Suína Congelada Kg",
+   "b": "Bisteca Suína Congelada Sadia",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Des Aer Nivea Men 150ml For Men Dry Imp ou Des Aer Nivea 150ml Derma Restaura",
+   "b": "Desodorante Aerosol Nivea Men 150ml For Men Dry Imp ou Nivea 150ml Derma Restaura",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mini Kibe Felitá Chef 810g (Congelado - Tradicional/Com Requeijão)",
+   "b": "Mini Kibe Felitá Chef 810g (Tradicional/Requeijão)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Galinha Somave (Congelada)",
+   "b": "Galinha Grande Somave Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Avelã da Terrinha Pote com 140g",
+   "b": "Creme de Avelã Da Terrinha 140g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Sanitária Dragão 2L",
+   "b": "Água Sanitária Dragão Frasco 2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café em Pó São Braz Família pct 250g",
+   "b": "Café Moído São Braz Família SC 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Mineral sem Gás San Valle PET 500ml",
+   "b": "Água Mineral sem Gás Crystal PET 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Margarina Puro Sabor com Sal Pote com 3kg",
+   "b": "Margarina Puro Sabor Com sal 60% Lipídios Pote com 3kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Shampoo Johnsons 200ml",
+   "b": "Sh Johnsons 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Folha Dupla Max Pure Leve 16 Pague 15 Rolos 30m",
+   "b": "Papel Higiênico Folha Dupla Personal VIP Leve 16 Pague 15 Rolos de 30m",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa com Sobrecoxa ou Dorsal de Frango kg",
+   "b": "Coxa e Sobrecoxa com Dorsal de Frango",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Frango Aurora Congelado 1kg",
+   "b": "Filezinho de Frango Aurora Bandeja 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Mimmo Folha Dupla 30m c/12",
+   "b": "Papel Higiênico Floral Folha Dupla 20m c/12",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desinfetante Guarani Várias Fragrâncias Frasco 2L",
+   "b": "Desinfetante Dragão Várias fragrâncias Frasco com 2L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Lar Congelado Bdj 1kg",
+   "b": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+   "veredito": "diferente"
+  }
+ ]
+}

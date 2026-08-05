@@ -1,0 +1,68 @@
+[
+ {
+  "k": "lava roupas liquido uau 1,7l || lava roupas liquido uau 1,7l active",
+  "a": "Lava Roupas Líquido UAU 1,7L",
+  "b": "Lava Roupas Líquido UAU 1,7L Active",
+  "veredito": "incerto"
+ },
+ {
+  "k": "salsicha hot dog avivar || salsicha hot-dog sadia",
+  "a": "Salsicha Hot Dog Avivar",
+  "b": "Salsicha Hot-Dog Sadia",
+  "veredito": "diferente"
+ },
+ {
+  "k": "file de peito de frango levo 1kg || file de peito de frango levo bandeja 1kg",
+  "a": "Filé de Peito de Frango Levo Bandeja 1Kg",
+  "b": "Filé de Peito de Frango Levo 1kg",
+  "veredito": "incerto"
+ },
+ {
+  "k": "queijo mussarela kg (peca ou pedaco) || queijo mussarela unalac peca ou pedaco",
+  "a": "Queijo Mussarela Unalac Peça ou Pedaço",
+  "b": "Queijo Mussarela Kg (peça ou pedaço)",
+  "veredito": "incerto"
+ },
+ {
+  "k": "coxa com sobrecoxa de frango c/ dorsal jagua kg || coxas com sobrecoxas de frango com dorsal kg",
+  "a": "Coxa com Sobrecoxa de Frango c/ Dorsal JAGUÁ kg",
+  "b": "Coxas com Sobrecoxas de Frango com Dorsal Kg",
+  "veredito": "incerto"
+ },
+ {
+  "k": "file de peixe merluza fish congelado pc 800g || file de peixe pescada fish congelado pc 800g",
+  "a": "File de Peixe Pescada Fish Congelado PC 800G",
+  "b": "Filé de Peixe Merluza Fish Congelado PC 800G",
+  "veredito": "diferente"
+ },
+ {
+  "k": "carne bov lombo serrado kg || carne bovina lombo serrado",
+  "a": "Carne Bov Lombo Serrado kg",
+  "b": "Carne Bovina Lombo Serrado",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "file de peito levo pacote || file de peito levo pct kg",
+  "a": "Filé de Peito Levo Pct Kg",
+  "b": "Filé de Peito Levo Pacote",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "capa de file bovino resfriada || capa de file bovino resfriada a vacuo",
+  "a": "Capa de Filé Bovino Resfriada a Vácuo",
+  "b": "Capa de Filé Bovino Resfriada",
+  "veredito": "incerto"
+ },
+ {
+  "k": "agua sanitaria clorito 2l || agua sanitaria clorito frasco 2l",
+  "a": "Água Sanitária Clorito Frasco 2L",
+  "b": "Água Sanitária Clorito 2L",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "queijo mussarela kg (peca ou pedaco) || queijo mussarela proc peca ou ped caico",
+  "a": "Queijo Mussarela Proc Peça ou Ped Caicó",
+  "b": "Queijo Mussarela Kg (peça ou pedaço)",
+  "veredito": "incerto"
+ }
+]

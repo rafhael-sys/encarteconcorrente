@@ -1,0 +1,18 @@
+{
+  "story_atacarejo_santoantonio.ofc_3956415333689992980": [],
+  "story_atacarejo_santoantonio.ofc_3956502957087841954": [],
+  "story_atacarejo_santoantonio.ofc_3956504740723987721": [],
+  "story_atacarejo_santoantonio.ofc_3956618550117977028": [
+    {"n": "Abacate", "p": "3,98", "u": "kg", "x": 3, "y": 42, "w": 22, "h": 16},
+    {"n": "Maçã Nacional", "p": "6,98", "u": "kg", "x": 30, "y": 42, "w": 20, "h": 16},
+    {"n": "Uva Vitória s/ sementes bd 500g", "p": "4,98", "u": "un", "x": 52, "y": 42, "w": 20, "h": 16},
+    {"n": "Tangerina importada", "p": "8,49", "u": "kg", "x": 76, "y": 42, "w": 20, "h": 16},
+    {"n": "Banana prata ou pacovan", "p": "3,98", "u": "kg", "x": 3, "y": 59, "w": 22, "h": 16},
+    {"n": "Laranja pêra", "p": "1,98", "u": "kg", "x": 30, "y": 59, "w": 20, "h": 16},
+    {"n": "Abacaxi", "p": "3,98", "u": "un", "x": 52, "y": 59, "w": 20, "h": 16},
+    {"n": "Tomate", "p": "2,98", "u": "kg", "x": 76, "y": 59, "w": 20, "h": 16},
+    {"n": "Cebola branca", "p": "4,98", "u": "kg", "x": 16, "y": 75, "w": 20, "h": 15},
+    {"n": "Cenoura", "p": "5,98", "u": "kg", "x": 40, "y": 75, "w": 20, "h": 15},
+    {"n": "Batata inglesa", "p": "3,98", "u": "kg", "x": 62, "y": 75, "w": 20, "h": 15}
+  ]
+}

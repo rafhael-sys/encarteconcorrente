@@ -1,0 +1,62 @@
+[
+ {
+  "k": "agua mineral sem gas crystal pet 500ml || agua mineral sem gas san valle pet 500ml",
+  "a": "Água Mineral sem Gás San Valle PET 500ml",
+  "b": "Água Mineral sem Gás Crystal PET 500ml",
+  "veredito": "diferente"
+ },
+ {
+  "k": "margarina puro sabor com sal 60% lipidios pote com 3kg || margarina puro sabor com sal pote com 3kg",
+  "a": "Margarina Puro Sabor com Sal Pote com 3kg",
+  "b": "Margarina Puro Sabor Com sal 60% Lipídios Pote com 3kg",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "sh johnsons 200ml || shampoo johnsons 200ml",
+  "a": "Shampoo Johnsons 200ml",
+  "b": "Sh Johnsons 200ml",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "papel higienico folha dupla max pure leve 16 pague 15 rolos 30m || papel higienico folha dupla personal vip leve 16 pague 15 rolos de 30m",
+  "a": "Papel Higiênico Folha Dupla Max Pure Leve 16 Pague 15 Rolos 30m",
+  "b": "Papel Higiênico Folha Dupla Personal VIP Leve 16 Pague 15 Rolos de 30m",
+  "veredito": "diferente"
+ },
+ {
+  "k": "desodorante aerossol above fragrancias frasco 150ml || desodorante aerossol one above varias fragrancias frasco com 150ml",
+  "a": "Desodorante Aerossol ONE Above Várias fragrâncias Frasco com 150ml",
+  "b": "Desodorante Aerossol Above Fragrâncias Frasco 150ml",
+  "veredito": "incerto"
+ },
+ {
+  "k": "coxa com sobrecoxa ou dorsal de frango kg || coxa e sobrecoxa com dorsal de frango",
+  "a": "Coxa com Sobrecoxa ou Dorsal de Frango kg",
+  "b": "Coxa e Sobrecoxa com Dorsal de Frango",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "filezinho de frango aurora bandeja 1kg || filezinho de frango aurora congelado 1kg",
+  "a": "Filezinho de Frango Aurora Congelado 1kg",
+  "b": "Filezinho de Frango Aurora Bandeja 1kg",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "papel higienico floral folha dupla 20m c/12 || papel higienico mimmo folha dupla 30m c/12",
+  "a": "Papel Higiênico Mimmo Folha Dupla 30m c/12",
+  "b": "Papel Higiênico Floral Folha Dupla 20m c/12",
+  "veredito": "diferente"
+ },
+ {
+  "k": "desinfetante dragao varias fragrancias frasco com 2l || desinfetante guarani varias fragrancias frasco 2l",
+  "a": "Desinfetante Guarani Várias Fragrâncias Frasco 2L",
+  "b": "Desinfetante Dragão Várias fragrâncias Frasco com 2L",
+  "veredito": "diferente"
+ },
+ {
+  "k": "file de peito de frango aurora congelado bandeja com 1kg || file de peito de frango lar congelado bdj 1kg",
+  "a": "Filé de Peito de Frango Lar Congelado Bdj 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+  "veredito": "diferente"
+ }
+]

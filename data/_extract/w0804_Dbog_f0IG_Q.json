@@ -1,0 +1,20 @@
+{
+  "Dbog_f0IG_Q_p1": [
+    {"n": "Prato Raso Oxford 26cm", "p": "9,99", "u": "cada", "x": 28, "y": 30, "w": 22, "h": 22},
+    {"n": "Taça Union Home vd 350ml", "p": "8,99", "u": "cada", "x": 75, "y": 30, "w": 22, "h": 21},
+    {"n": "Faqueiro Union Home c/ 16 peças", "p": "16,99", "u": "cada", "x": 6, "y": 52, "w": 22, "h": 18},
+    {"n": "Garrafa Térmica Union Home 1 litro", "p": "39,90", "u": "cada", "x": 29, "y": 69, "w": 22, "h": 19},
+    {"n": "Liquidificador Power Mix Arno 500W", "p": "129,90", "u": "cada", "x": 52, "y": 69, "w": 21, "h": 19},
+    {"n": "Ventilador Arno X-Treme 40cm 2 em 1 Ve60", "p": "199,90", "u": "cada", "x": 70, "y": 69, "w": 28, "h": 19}
+  ],
+  "Dbog_f0IG_Q_p2": [
+    {"n": "Prato Fundo Donna 22cm Ae21 Sortido", "p": "6,99", "u": "cada", "x": 6, "y": 11, "w": 24, "h": 18},
+    {"n": "Tigela de Cerâmica Oxford 600ml", "p": "11,99", "u": "cada", "x": 32, "y": 11, "w": 23, "h": 18},
+    {"n": "Travessa Oxford 30cm x 23cm", "p": "19,90", "u": "cada", "x": 62, "y": 11, "w": 34, "h": 18},
+    {"n": "Processador Manual Union Home", "p": "8,99", "u": "cada", "x": 6, "y": 30, "w": 24, "h": 16},
+    {"n": "Pote com Escorredor Union Home 15cm x 10cm", "p": "8,99", "u": "cada", "x": 32, "y": 30, "w": 23, "h": 16},
+    {"n": "Seleção de Sandálias Havaianas par", "p": "35,90", "u": "par", "x": 6, "y": 65, "w": 24, "h": 17},
+    {"n": "Omeleteira Tramontina Napoli 20cm", "p": "69,90", "u": "cada", "x": 32, "y": 65, "w": 23, "h": 17},
+    {"n": "Cuscuzeira Tramontina Turim 16cm", "p": "129,90", "u": "cada", "x": 62, "y": 65, "w": 34, "h": 17}
+  ]
+}

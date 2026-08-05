@@ -1,0 +1,16 @@
+{
+  "DbosqDEG413_p1": [
+    {"n": "Salgadinho Dunas 90G", "p": "1,99", "u": "cada", "x": 1, "y": 33, "w": 22, "h": 20},
+    {"n": "Coxinha de Frango ou Carne de Sol, Enroladinho de Salsicha ou Queijada Formosa", "p": "4,89", "u": "unid", "x": 23, "y": 33, "w": 18, "h": 20},
+    {"n": "Pão de Forma Nordestino Tradicional 350G", "p": "4,98", "u": "cada", "x": 41, "y": 33, "w": 30, "h": 20},
+    {"n": "Soda Preta Dunas Zero Lactose 300G", "p": "4,99", "u": "cada", "x": 72, "y": 33, "w": 27, "h": 20},
+    {"n": "Croissant de Presunto e Queijo, Carne de Sol ou Frango", "p": "4,99", "u": "unid", "x": 1, "y": 52, "w": 22, "h": 21},
+    {"n": "Pão de Forma Cadice Integral ou Integral Zero Açúcar 400G", "p": "6,49", "u": "cada", "x": 22, "y": 52, "w": 25, "h": 21},
+    {"n": "Pão de Forma Center Massas Integral 400G", "p": "5,99", "u": "cada", "x": 47, "y": 52, "w": 24, "h": 21},
+    {"n": "Pão Hot Dog Center Massas Baby ou Big 400G", "p": "6,89", "u": "cada", "x": 71, "y": 52, "w": 28, "h": 21},
+    {"n": "Salgados Pingo Nordestino Mini Sabores PC 400G", "p": "14,99", "u": "cada", "x": 1, "y": 73, "w": 22, "h": 22},
+    {"n": "Bolo de Macaxeira, Laranja, Queijo ou Chocolate Formosa", "p": "24,90", "u": "kg", "x": 22, "y": 73, "w": 24, "h": 22},
+    {"n": "Pão de Queijo Delícia Mineira Tradicional 300G", "p": "5,99", "u": "cada", "x": 46, "y": 73, "w": 24, "h": 22},
+    {"n": "Cappuccino Pilão Sabores 200G", "p": "13,99", "u": "cada, exceto Ceasa", "x": 71, "y": 72, "w": 28, "h": 23}
+  ]
+}

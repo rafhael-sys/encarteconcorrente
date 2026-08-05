@@ -1,0 +1,30 @@
+{
+  "Dboha-IjymB_p1": [
+    {"n": "Seleção de Canecas e Xícaras Oxford", "p": "Leve 3 Pague 2", "u": "mesmo tipo e tamanho", "x": 8, "y": 28, "w": 27, "h": 16},
+    {"n": "Seleção de Vasos de Vidro Union Home", "p": "20% de desconto", "u": "un", "x": 36, "y": 28, "w": 27, "h": 16},
+    {"n": "Seleção de Produtos Brinox", "p": "30% de desconto", "u": "un", "x": 64, "y": 28, "w": 30, "h": 16},
+    {"n": "Caçarola Turim Tramontina 20cm", "p": "78,90", "u": "cada", "x": 8, "y": 45, "w": 27, "h": 16},
+    {"n": "Carro Hot Wheels", "p": "Leve 3 Pague 2", "u": "mesmo tipo e modelo", "x": 36, "y": 45, "w": 27, "h": 16},
+    {"n": "Seleção de Brinquedos", "p": "30% de desconto", "u": "un", "x": 64, "y": 45, "w": 30, "h": 16},
+    {"n": "Faqueiro Union Home 16 Peças", "p": "16,99", "u": "cada", "x": 8, "y": 61, "w": 27, "h": 15},
+    {"n": "Seleção de Produtos Plasútil", "p": "30% de desconto", "u": "na segunda unidade", "x": 36, "y": 61, "w": 27, "h": 15},
+    {"n": "Seleção de Produtos Sanremo", "p": "30% de desconto", "u": "un", "x": 64, "y": 61, "w": 30, "h": 15},
+    {"n": "Ferro a Seco Mondial Fsn-55b", "p": "79,90", "u": "cada", "x": 8, "y": 77, "w": 27, "h": 16},
+    {"n": "Liquidificador Power Mix Arno 500W", "p": "129,90", "u": "cada", "x": 36, "y": 77, "w": 27, "h": 16},
+    {"n": "Ventilador Arno X-Treme 40cm 2 em 1 Ve60", "p": "199,90", "u": "cada", "x": 64, "y": 77, "w": 30, "h": 16}
+  ],
+  "Dboha-IjymB_p2": [
+    {"n": "Taça Union Home vd 350ml", "p": "8,99", "u": "cada", "x": 6, "y": 15, "w": 27, "h": 20},
+    {"n": "Prato Raso Oxford 26cm", "p": "9,90", "u": "cada", "x": 35, "y": 15, "w": 27, "h": 20},
+    {"n": "Travessa Oxford 30cmx23cm", "p": "19,90", "u": "cada", "x": 64, "y": 15, "w": 28, "h": 20},
+    {"n": "Processador Manual Union Home Preto", "p": "8,99", "u": "cada", "x": 6, "y": 40, "w": 27, "h": 19},
+    {"n": "Jarra Union Home vd 1,1 litro", "p": "9,49", "u": "cada", "x": 35, "y": 40, "w": 27, "h": 19},
+    {"n": "Tapioqueira Plástica Union Home", "p": "13,89", "u": "cada", "x": 64, "y": 40, "w": 28, "h": 19},
+    {"n": "Omeleteira Tramontina Napoli 20cm", "p": "59,90", "u": "cada", "x": 6, "y": 62, "w": 27, "h": 19},
+    {"n": "Caçarola Panelux 4,3 litros", "p": "20% de desconto", "u": "un", "x": 35, "y": 62, "w": 27, "h": 19},
+    {"n": "Seleção de Assadeiras Wyda", "p": "20% de desconto", "u": "un", "x": 64, "y": 62, "w": 28, "h": 19},
+    {"n": "Sandália Clássica Ipanema", "p": "9,99", "u": "cada", "x": 6, "y": 80, "w": 27, "h": 10},
+    {"n": "Seleção de Livros Ciranda Cultura", "p": "30% de desconto", "u": "un", "x": 35, "y": 80, "w": 27, "h": 10},
+    {"n": "Seleção de Pilhas C, D e 9V Duracell", "p": "50% de desconto", "u": "un", "x": 64, "y": 80, "w": 28, "h": 10}
+  ]
+}

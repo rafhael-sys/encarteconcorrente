@@ -1,0 +1,17 @@
+{
+  "Dbosa-HATU9_p1": [
+    {"n": "Batata Inglesa kg", "p": "3,99", "u": "kg", "x": 9, "y": 36, "w": 25, "h": 15},
+    {"n": "Banana Prata/Pacovan kg", "p": "3,98", "u": "kg", "x": 37, "y": 35, "w": 24, "h": 16},
+    {"n": "Uva Vitória Seleta S/ Semente 500g", "p": "4,98", "u": "cada", "x": 63, "y": 36, "w": 28, "h": 14},
+    {"n": "Maçã Nacional kg", "p": "7,99", "u": "kg", "x": 8, "y": 54, "w": 18, "h": 16},
+    {"n": "Alho a granel 100g", "p": "2,29", "u": "100g", "x": 29, "y": 54, "w": 17, "h": 16},
+    {"n": "Cebola Branca kg", "p": "4,99", "u": "kg", "x": 50, "y": 54, "w": 18, "h": 16},
+    {"n": "Abacate kg", "p": "3,99", "u": "kg", "x": 72, "y": 54, "w": 19, "h": 16},
+    {"n": "Abacaxi und", "p": "3,99", "u": "cada", "x": 10, "y": 74, "w": 22, "h": 16},
+    {"n": "Morango Premium 250g", "p": "8,99", "u": "cada", "x": 37, "y": 74, "w": 24, "h": 16},
+    {"n": "Pera Danjou kg", "p": "12,98", "u": "kg", "x": 64, "y": 74, "w": 27, "h": 16}
+  ],
+  "Dbosa-HATU9_p2": [
+    {"n": "Sacola Retornável RedeMAIS", "p": "5,98", "u": "un", "x": 11, "y": 47, "w": 69, "h": 44}
+  ]
+}

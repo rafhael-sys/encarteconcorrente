@@ -1,0 +1,277 @@
+[
+ {
+  "k": "linguica calabresa perdigao kg || linguica calabresa sadia kg",
+  "a": "Linguiça Calabresa Sadia kg",
+  "b": "Linguiça Calabresa Perdigão kg",
+  "foto_a": {
+   "imagem": "data/pages/story_atacarejo_santoantonio.ofc_3940405979098689508.jpg",
+   "nome_impresso": "Linguiça Calabresa Sadia kg",
+   "regiao_pct": {
+    "x": 8,
+    "y": 27,
+    "w": 16,
+    "h": 6
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_atacarejo_santoantonio.ofc_3955895983451260233.jpg",
+   "nome_impresso": "Linguiça Calabresa Perdigão kg",
+   "regiao_pct": {
+    "x": 80,
+    "y": 45,
+    "w": 19,
+    "h": 15
+   }
+  }
+ },
+ {
+  "k": "lava roupas em po ala varios tipos 400g || lava roupas em po ala varios tipos pacote com 400g",
+  "a": "Lava Roupas em Pó Ala Vários tipos Pacote com 400g",
+  "b": "Lava Roupas em Pó Ala Vários Tipos 400g",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_4e474d2e42_p3.jpg",
+   "nome_impresso": "Lava Roupas em Pó Ala Vários tipos Pacote com 400g",
+   "regiao_pct": {
+    "x": 40,
+    "y": 36,
+    "w": 15,
+    "h": 20
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_0a46e4b82c_p3.jpg",
+   "nome_impresso": "Lava Roupas em Pó Ala Vários Tipos 400g",
+   "regiao_pct": {
+    "x": 4,
+    "y": 45,
+    "w": 18,
+    "h": 15
+   }
+  }
+ },
+ {
+  "k": "file de peito de frango bom todo 1kg congelado bandeja || file de peito de frango bom todo 1kg iqf ou bandeja",
+  "a": "Filé de Peito de Frango Bom Todo 1kg Congelado Bandeja",
+  "b": "Filé de Peito de Frango Bom Todo 1kg IQF ou Bandeja",
+  "foto_a": {
+   "imagem": "data/pages/Dalo66SkW-f_p1.jpg",
+   "nome_impresso": "Filé de Peito de Frango Bom Todo 1kg Congelado Bandeja",
+   "regiao_pct": {
+    "x": 23,
+    "y": 25,
+    "w": 21,
+    "h": 21
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_favoritosuper_3951874246280678349.jpg",
+   "nome_impresso": "Filé de Peito de Frango Bom Todo 1kg IQF ou Bandeja",
+   "regiao_pct": {
+    "x": 39,
+    "y": 44,
+    "w": 17,
+    "h": 18
+   }
+  }
+ },
+ {
+  "k": "polpa ster bom 1kg abacaxi/caju/goiaba/manga/tamarindo || polpa ster bom todo 1kg caju/goiaba/manga/tamarindo",
+  "a": "Polpa Ster Bom 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo",
+  "b": "Polpa Ster Bom Todo 1kg Caju/Goiaba/Manga/Tamarindo",
+  "foto_a": {
+   "imagem": "data/pages/qz_ofertaco_p2.jpg",
+   "nome_impresso": "Polpa Ster Bom 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo",
+   "regiao_pct": {
+    "x": 61.2,
+    "y": 80.4,
+    "w": 10.2,
+    "h": 9.8
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbjeV4GES-Q_p2.jpg",
+   "nome_impresso": "Polpa Ster Bom Todo 1kg Caju/Goiaba/Manga/Tamarindo",
+   "regiao_pct": {
+    "x": 19,
+    "y": 63,
+    "w": 11,
+    "h": 10
+   }
+  }
+ },
+ {
+  "k": "cafe uniao tradicional ou extra forte 250g pouch || cafe zico tradicional ou extra forte 250g",
+  "a": "Café Zico Tradicional ou Extra Forte 250g",
+  "b": "Café União Tradicional ou Extra Forte 250g Pouch",
+  "foto_a": {
+   "imagem": "data/pages/DbWwLXUFve3_p1.jpg",
+   "nome_impresso": "Café Zico Tradicional ou Extra Forte 250g",
+   "regiao_pct": {
+    "x": 17,
+    "y": 57,
+    "w": 15,
+    "h": 13
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_redemaisrn_3953295722145148918.jpg",
+   "nome_impresso": "Café União Tradicional ou Extra Forte 250g Pouch",
+   "regiao_pct": {
+    "x": 20,
+    "y": 50,
+    "w": 75,
+    "h": 35
+   }
+  }
+ },
+ {
+  "k": "peito de frango bom todo congelado bandeja 1kg || peito de frango bom todo cortes congelados bdj 1kg",
+  "a": "Peito de Frango Bom Todo Congelado Bandeja 1kg",
+  "b": "Peito de Frango Bom Todo Cortes Congelados bdj 1kg",
+  "foto_a": {
+   "imagem": "data/pages/mv_julho_p3.jpg",
+   "nome_impresso": "Peito de Frango Bom Todo Congelado BDJ 1kg",
+   "regiao_pct": {
+    "x": 79.5,
+    "y": 21.0,
+    "w": 19.0,
+    "h": 19.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbZDJeumHPP_p1.jpg",
+   "nome_impresso": "Peito de Frango Bom Todo Cortes Congelados bdj 1kg",
+   "regiao_pct": {
+    "x": 74,
+    "y": 61,
+    "w": 24,
+    "h": 12
+   }
+  }
+ },
+ {
+  "k": "patinho bov resfriado kg || patinho bovino resfriado",
+  "a": "PATINHO BOV RESFRIADO KG",
+  "b": "Patinho Bovino Resfriado",
+  "foto_a": {
+   "imagem": "data/pages/DbJ9sH8FXra_p2.jpg",
+   "nome_impresso": "PATINHO BOV RESFRIADO KG",
+   "regiao_pct": {
+    "x": 16,
+    "y": 66,
+    "w": 66,
+    "h": 13
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbb5nh2kdGg_p1.jpg",
+   "nome_impresso": "Patinho Bovino Resfriado",
+   "regiao_pct": {
+    "x": 20,
+    "y": 57,
+    "w": 20,
+    "h": 18
+   }
+  }
+ },
+ {
+  "k": "peito de frango com osso congelado kg || peito de frango com osso congelado mauricea",
+  "a": "Peito de Frango com Osso Congelado kg",
+  "b": "Peito de Frango com Osso Congelado Mauricéa",
+  "foto_a": {
+   "imagem": "data/pages/assai_168328-572_p1.jpg",
+   "nome_impresso": "Peito de Frango com Osso Congelado kg",
+   "regiao_pct": {
+    "x": 80,
+    "y": 73,
+    "w": 16,
+    "h": 20
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_169300-572_p3.jpg",
+   "nome_impresso": "Peito de Frango com Osso Congelado Mauricéa",
+   "regiao_pct": {
+    "x": 4,
+    "y": 5,
+    "w": 20,
+    "h": 14
+   }
+  }
+ },
+ {
+  "k": "pinho bril frag 500ml || pinho bril fragrancia 500ml",
+  "a": "Pinho Bril Fragrância 500ml",
+  "b": "Pinho Bril Frag 500ml",
+  "foto_a": {
+   "imagem": "data/pages/DbeWKyWoOFv_p2.jpg",
+   "nome_impresso": "Pinho Bril Fragrância 500ml",
+   "regiao_pct": {
+    "x": 2,
+    "y": 69,
+    "w": 15,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_atacarejo_santoantonio.ofc_3953703594712107325.jpg",
+   "nome_impresso": "Pinho Bril Frag 500ml",
+   "regiao_pct": {
+    "x": 8,
+    "y": 60,
+    "w": 14,
+    "h": 7
+   }
+  }
+ },
+ {
+  "k": "margarina deline com sal 3kg || margarina deline cremosa com sal 3kg",
+  "a": "Margarina Deline com Sal 3kg",
+  "b": "Margarina Deline Cremosa com Sal 3kg",
+  "foto_a": {
+   "imagem": "data/pages/Dal8u9zjMyI_p2.jpg",
+   "nome_impresso": "Margarina Deline com Sal 3kg",
+   "regiao_pct": {
+    "x": 78,
+    "y": 3,
+    "w": 17,
+    "h": 12
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_queirozatacadaonatal__3951965051614966690.jpg",
+   "nome_impresso": "Margarina Deline Cremosa com Sal 3kg",
+   "regiao_pct": {
+    "x": 25,
+    "y": 51,
+    "w": 68,
+    "h": 43
+   }
+  }
+ },
+ {
+  "k": "queijo mussarela jucurutu 500g fat interfolhad || queijo mussarela sertao jucurutu 500g (interfolhada)",
+  "a": "Queijo Mussarela Jucurutu 500g Fat Interfolhad",
+  "b": "Queijo Mussarela Sertao Jucurutu 500g (Interfolhada)",
+  "foto_a": {
+   "imagem": "data/pages/DbE_K9DDHaM_p3.jpg",
+   "nome_impresso": "Queijo Mussarela Jucurutu 500g Fat Interfolhad",
+   "regiao_pct": {
+    "x": 9,
+    "y": 46,
+    "w": 14,
+    "h": 8
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbT_N-5D8EV_p2.jpg",
+   "nome_impresso": "Queijo Mussarela Sertao Jucurutu 500g (Interfolhada)",
+   "regiao_pct": {
+    "x": 67,
+    "y": 48,
+    "w": 30,
+    "h": 16
+   }
+  }
+ }
+]

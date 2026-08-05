@@ -1,0 +1,89 @@
+{
+  "DbotBBkAsNN_p1": [],
+  "DbotBBkAsNN_p2": [
+    {"n": "Queijo Coalho Queijeira Sertão Seridó Tradicional", "p": "36,99", "u": "kg", "x": 4, "y": 8, "w": 30, "h": 38},
+    {"n": "Peixe Filé de Tilápia Lar Congelado PCT 700g", "p": "36,99", "u": "un", "x": 22, "y": 3, "w": 27, "h": 37},
+    {"n": "Coxas e Sobrecoxas de Frango Guibon com Dorsal Cong.", "p": "7,99", "u": "kg", "x": 72, "y": 8, "w": 26, "h": 40},
+    {"n": "Filé de Peito de Frango Aurora Cong. BDJ 1kg", "p": "18,99", "u": "un", "x": 18, "y": 22, "w": 30, "h": 20},
+    {"n": "Carne Bovina Coxão Mole de Sol", "p": "37,99", "u": "kg", "x": 42, "y": 17, "w": 32, "h": 24},
+    {"n": "Pernil Suíno Seara Congelado", "p": "13,99", "u": "kg", "x": 9, "y": 44, "w": 40, "h": 17},
+    {"n": "Costelinha Suína Grill Temperada Saudali Apreciatta Congelada", "p": "14,99", "u": "kg", "x": 51, "y": 44, "w": 46, "h": 17},
+    {"n": "Linguiça de Churrasco/Frango Aurora", "p": "17,99", "u": "kg", "x": 9, "y": 62, "w": 40, "h": 18},
+    {"n": "Linguiça Tipo Calabresa Aurora", "p": "25,99", "u": "kg", "x": 51, "y": 62, "w": 46, "h": 18}
+  ],
+  "DbotBBkAsNN_p3": [
+    {"n": "Manteiga D'Nata Pote 500g com Sal", "p": "16,99", "u": "un", "x": 10, "y": 6, "w": 38, "h": 20},
+    {"n": "Sorvete Seridó 2L Sabores", "p": "19,99", "u": "un", "x": 10, "y": 25, "w": 38, "h": 20},
+    {"n": "Biscoito Cream Cracker Caprishow PCT 301,5g", "p": "2,99", "u": "un", "x": 10, "y": 43, "w": 38, "h": 20},
+    {"n": "Biscoito Recheado Treloso 120g Sabores", "p": "1,99", "u": "un", "x": 10, "y": 62, "w": 38, "h": 20},
+    {"n": "Batata Mazid Pré Frita Cong. Corte Trad. PCT 2kg", "p": "19,99", "u": "un", "x": 52, "y": 6, "w": 40, "h": 20},
+    {"n": "Café em Pó União Trad. PCT 250g", "p": "10,99", "u": "un", "x": 52, "y": 25, "w": 40, "h": 20},
+    {"n": "Torrada Lev Magic Toast Marilan 110g Sabores", "p": "5,99", "u": "un", "x": 52, "y": 43, "w": 40, "h": 20},
+    {"n": "Sardinha Gomes da Costa 125g Sabores", "p": "5,89", "u": "un", "x": 52, "y": 62, "w": 40, "h": 20}
+  ],
+  "DbotBBkAsNN_p4": [
+    {"n": "Refrigerante Guaraná Antarctica PET 2L Tradicional", "p": "7,99", "u": "un", "x": 10, "y": 6, "w": 38, "h": 20},
+    {"n": "Lava Roupas Líquido Becker + Ekonomico 3 Litros", "p": "9,99", "u": "un", "x": 10, "y": 25, "w": 38, "h": 20},
+    {"n": "Papel Higiênico Floral Folha Dupla 20 metros com 12 und", "p": "10,99", "u": "pct", "x": 10, "y": 44, "w": 38, "h": 20},
+    {"n": "Óleo de Soja Liza PET 900ml", "p": "7,29", "u": "un", "x": 10, "y": 63, "w": 38, "h": 20},
+    {"n": "Refrigerante Sprite Limão PET 2L Tradicional", "p": "8,99", "u": "un", "x": 52, "y": 6, "w": 40, "h": 20},
+    {"n": "Desodorante Aerosol Dove 200ml Original", "p": "15,99", "u": "un", "x": 52, "y": 25, "w": 40, "h": 20},
+    {"n": "Sandália Ipanema Classic Tamanhos Masc/Fem/Inf", "p": "10,99", "u": "un", "x": 52, "y": 44, "w": 40, "h": 20},
+    {"n": "Feijão Carioca Kumê Tipo 1 PCT 1kg", "p": "6,99", "u": "un", "x": 52, "y": 63, "w": 40, "h": 20}
+  ],
+  "DbotBBkAsNN_p5": [
+    {"n": "Macarrão Espaguete Bonsabor PCT 400g", "p": "1,99", "u": "un", "x": 10, "y": 6, "w": 38, "h": 18},
+    {"n": "Açúcar Alegre PCT 1kg Triturado/Cristal", "p": "2,99", "u": "un", "x": 10, "y": 24, "w": 38, "h": 18},
+    {"n": "Goma de Mandioca Compadre Zé PCT 1kg", "p": "4,29", "u": "un", "x": 10, "y": 42, "w": 38, "h": 18},
+    {"n": "Arroz Parboilizado Fazenda Tipo 1 PCT 1kg", "p": "3,29", "u": "un", "x": 52, "y": 6, "w": 40, "h": 18},
+    {"n": "Bolacha Jucurutu Manteiga do Sertão PCT 250g", "p": "5,89", "u": "un", "x": 52, "y": 24, "w": 40, "h": 18},
+    {"n": "Bombom Lácta Favoritos 131,4g", "p": "9,99", "u": "un", "x": 52, "y": 42, "w": 40, "h": 18},
+    {"n": "Cerveja Puro Malte Império Lata 350ml", "p": "3,29", "u": "un", "x": 9, "y": 60, "w": 27, "h": 26},
+    {"n": "Cerveja Império Ultra Pilsen Long Neck 275ml", "p": "4,59", "u": "un", "x": 37, "y": 60, "w": 28, "h": 26},
+    {"n": "Vinho Quinta do Morgado 750ml Exceto Bordô", "p": "15,99", "u": "un", "x": 66, "y": 60, "w": 28, "h": 26}
+  ],
+  "DbotBBkAsNN_p6": [
+    {"n": "Tempero Completo Leto 500g", "p": "1,19", "u": "un", "x": 10, "y": 6, "w": 38, "h": 20},
+    {"n": "Vinagre de Álcool Leto 500ml", "p": "1,29", "u": "un", "x": 10, "y": 25, "w": 38, "h": 20},
+    {"n": "Catchup Sadio 380g Tradicional", "p": "4,99", "u": "un", "x": 10, "y": 44, "w": 38, "h": 20},
+    {"n": "Leite UHT Integral LeitBom 1L", "p": "5,59", "u": "un", "x": 10, "y": 62, "w": 38, "h": 20},
+    {"n": "Molho de Tomate Sadio Sachê 300g Trad./Pizza/Manjericão", "p": "1,29", "u": "un", "x": 52, "y": 6, "w": 40, "h": 20},
+    {"n": "Azeitona Verde Sadio com Caroço Sachê 80g", "p": "3,29", "u": "un", "x": 52, "y": 25, "w": 40, "h": 20},
+    {"n": "Bebida Láctea UHT Chocobom 200ml", "p": "1,19", "u": "un", "x": 52, "y": 44, "w": 40, "h": 20},
+    {"n": "Leite Condensado UHT LeitBom Semidesnatado 395g", "p": "5,99", "u": "un", "x": 52, "y": 62, "w": 40, "h": 20}
+  ],
+  "DbotBBkAsNN_p7": [
+    {"n": "Leite UHT LeitBom Zero Lactose 1 Litro", "p": "7,49", "u": "un", "x": 10, "y": 6, "w": 38, "h": 20},
+    {"n": "Café em Cápsulas Santa Clara/3 Corações com 10 und Sabores", "p": "19,99", "u": "un", "x": 10, "y": 25, "w": 38, "h": 20},
+    {"n": "Flocão de Milho Dona Clara PCT 500g", "p": "1,49", "u": "un", "x": 10, "y": 44, "w": 38, "h": 20},
+    {"n": "Colorífico Dona Clara PCT 500g", "p": "4,79", "u": "un", "x": 10, "y": 62, "w": 38, "h": 20},
+    {"n": "Leite em Pó LeitBom Desnatado Sachê 500g", "p": "22,99", "u": "un", "x": 52, "y": 6, "w": 40, "h": 20},
+    {"n": "Café Gourmet 3 Corações/Santa Clara PCT 250g Sabores", "p": "23,99", "u": "un", "x": 52, "y": 25, "w": 40, "h": 20},
+    {"n": "Achocolatado em Pó Chocolatto Sachê 700g", "p": "14,99", "u": "un", "x": 52, "y": 44, "w": 40, "h": 20},
+    {"n": "Salsicha Hot Dog Bom Todo", "p": "6,89", "u": "kg", "x": 52, "y": 62, "w": 40, "h": 20}
+  ],
+  "DbotBBkAsNN_p8": [
+    {"n": "Frango Inteiro Bom Todo Congelado", "p": "9,99", "u": "kg", "x": 10, "y": 6, "w": 38, "h": 20},
+    {"n": "Frango a Passarinho Bom Todo Temp. IQF 1kg", "p": "12,49", "u": "un", "x": 10, "y": 25, "w": 38, "h": 20},
+    {"n": "Bebida Láctea Batclan BDJ 540g Sabores", "p": "4,89", "u": "un", "x": 10, "y": 44, "w": 38, "h": 20},
+    {"n": "Requeijão Cremoso Clan 400g Ligth/Trad.", "p": "13,49", "u": "un", "x": 10, "y": 62, "w": 38, "h": 20},
+    {"n": "Coxas e Sobrecoxas de Frango Bom Todo Cong. BDJ 1kg", "p": "11,99", "u": "un", "x": 52, "y": 6, "w": 40, "h": 20},
+    {"n": "Iogurte Integral Clan com Geleia de Morango 130g", "p": "3,59", "u": "un", "x": 52, "y": 25, "w": 40, "h": 20},
+    {"n": "Doce de Leite Cremoso Clan 380g", "p": "9,49", "u": "un", "x": 52, "y": 44, "w": 40, "h": 20},
+    {"n": "Iogurte Nestlé Zero 170g Sabores", "p": "3,49", "u": "un", "x": 52, "y": 62, "w": 40, "h": 20}
+  ],
+  "DbotBBkAsNN_p9": [
+    {"n": "Iogurte Polpa Ninho 3 Sabores BDJ 540g", "p": "9,99", "u": "un", "x": 10, "y": 6, "w": 38, "h": 20},
+    {"n": "Queijo Mussarela Fatiado Tregar", "p": "38,99", "u": "kg", "x": 10, "y": 25, "w": 38, "h": 22},
+    {"n": "Moela de Frango Lar Congelada PCT 700g", "p": "11,99", "u": "un", "x": 10, "y": 45, "w": 38, "h": 20},
+    {"n": "Polpa de Frutas Seridó PCT 400g Abacaxi/Caju/Goiaba/Manga/Tamarindo", "p": "3,79", "u": "un", "x": 52, "y": 6, "w": 40, "h": 20},
+    {"n": "Hambúrguer Fast Burguer Misto 56g", "p": "0,79", "u": "un", "x": 52, "y": 25, "w": 40, "h": 20},
+    {"n": "Sachê Kitekat 70g/Champ 85g Sabores", "p": "1,99", "u": "un", "x": 52, "y": 45, "w": 40, "h": 20}
+  ],
+  "DbotBBkAsNN_p10": [
+    {"n": "Limpador Veja Perfumes 500ml Fragrâncias", "p": "4,99", "u": "un", "x": 10, "y": 5, "w": 38, "h": 18},
+    {"n": "Sabonete Líquido Nívea Refil 200ml Fragrâncias", "p": "8,49", "u": "un", "x": 10, "y": 24, "w": 38, "h": 18},
+    {"n": "Detergente Líquido Tanlux 500ml Fragrâncias", "p": "1,39", "u": "un", "x": 52, "y": 5, "w": 40, "h": 18},
+    {"n": "Absorvente Naturalmente Noturno Suave com e sem Abas com 10 und", "p": "5,69", "u": "un", "x": 52, "y": 24, "w": 40, "h": 18}
+  ]
+}

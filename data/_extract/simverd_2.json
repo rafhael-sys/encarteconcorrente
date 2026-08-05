@@ -1,0 +1,68 @@
+[
+ {
+  "k": "amaciante downy 500ml || amaciante roupa downy 500ml",
+  "a": "Amaciante Downy 500ml",
+  "b": "AMACIANTE ROUPA DOWNY 500ML",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "queijo parmesao ralado pampulha 50g || queijo parmesao ralado pampulha sache com 50g",
+  "a": "Queijo Parmesão Ralado Pampulha Sachê com 50g",
+  "b": "Queijo Parmesão Ralado Pampulha 50g",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "tapete hig procao 7un || tapete higienico procao 7un",
+  "a": "Tapete Hig Procão 7un",
+  "b": "Tapete Higienico Procao 7un",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "kit shampoo + condicionador niely || kit shampoo + condicionador pantene",
+  "a": "Kit Shampoo + Condicionador Pantene",
+  "b": "Kit Shampoo + Condicionador Niely",
+  "veredito": "diferente"
+ },
+ {
+  "k": "mortadela tony kg (aves ou mista) || mortadela tony kg (frango ou mista)",
+  "a": "Mortadela Tony Kg (aves ou mista)",
+  "b": "Mortadela Tony Kg (frango ou mista)",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "amaciante de roupas urca fragrancias galao 5l || amaciante urca fragrancias galao 5l",
+  "a": "Amaciante Urca Fragrâncias Galão 5L",
+  "b": "Amaciante de Roupas Urca Fragrâncias Galão 5L",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "milho para pipoca vitaforte 400g || milho para pipoca vitamilho 400g",
+  "a": "Milho Para Pipoca VITAMILHO 400g",
+  "b": "Milho para Pipoca Vitaforte 400g",
+  "veredito": "diferente"
+ },
+ {
+  "k": "fralda descartavel pampers pants mega shortinhos || fraldas descartaveis pampers pants mega (tamanhos)",
+  "a": "Fralda Descartável Pampers Pants Mega Shortinhos",
+  "b": "Fraldas Descartáveis Pampers Pants Mega (Tamanhos)",
+  "veredito": "mesmo"
+ },
+ {
+  "k": "sandalia cartago arizona adulto || sandalia cartago masculina adulto",
+  "a": "Sandália CARTAGO Masculina Adulto",
+  "b": "Sandália Cartago Arizona Adulto",
+  "veredito": "incerto"
+ },
+ {
+  "k": "refrigerante guarana antarctica tradicional ou zero 1l || refrigerante pepsi, guarana antarctica original ou zero 1l",
+  "a": "Refrigerante Guaraná Antarctica Tradicional ou Zero 1L",
+  "b": "Refrigerante Pepsi, Guaraná Antarctica Original ou Zero 1L",
+  "veredito": "incerto"
+ },
+ {
+  "k": "hamburguer friboi 56g || hamburguer friboi 56g (misto)",
+  "a": "Hambúrguer Friboi 56g",
+  "b": "Hambúrguer Friboi 56g (Misto)",
+  "veredito": "mesmo"
+ }
+]
