@@ -72,6 +72,11 @@ fi
 if [[ -z "${CLOUDFLARE_API_TOKEN:-}" ]]; then
   echo "[cf] falta o API token do Cloudflare (defina CLOUDFLARE_API_TOKEN ou grave em ~/.config/cloudflare_token)"; exit 1
 fi
+# conta dona do projeto encartes-redemais (login wesley.bruno). É PRECISO fixar:
+# o token não tem permissão de LISTAR contas, então o wrangler não descobre a
+# conta sozinho e cairia no erro 'Failed to automatically retrieve account IDs'
+# (foi o que travou a publicação de 04-05/08/2026). Sobrescrevível pela env.
+export CLOUDFLARE_ACCOUNT_ID="${CLOUDFLARE_ACCOUNT_ID:-06afa92d6132a50649cbe6088053427c}"
 
 # trava compartilhada com run_daily.sh: nunca ler o painel enquanto a rotina pode
 # estar reescrevendo-o. Quando o run_daily nos chama, ele já segura a trava.
