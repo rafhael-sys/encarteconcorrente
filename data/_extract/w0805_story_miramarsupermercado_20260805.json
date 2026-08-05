@@ -1,0 +1,152 @@
+{
+ "story_miramarsupermercado_3956910044935248463": [
+  {
+   "n": "Batata Inglesa kg",
+   "p": "3,99",
+   "u": "kg",
+   "x": 3,
+   "y": 27,
+   "w": 46,
+   "h": 25
+  },
+  {
+   "n": "Tomate kg",
+   "p": "3,49",
+   "u": "kg",
+   "x": 50,
+   "y": 27,
+   "w": 46,
+   "h": 25
+  },
+  {
+   "n": "Cenoura kg",
+   "p": "5,99",
+   "u": "kg",
+   "x": 25,
+   "y": 55,
+   "w": 42,
+   "h": 18
+  },
+  {
+   "n": "Cebola Branca kg",
+   "p": "4,99",
+   "u": "kg",
+   "x": 5,
+   "y": 71,
+   "w": 42,
+   "h": 20
+  },
+  {
+   "n": "Macaxeira kg",
+   "p": "2,29",
+   "u": "kg",
+   "x": 52,
+   "y": 73,
+   "w": 44,
+   "h": 18
+  }
+ ],
+ "story_miramarsupermercado_3956910336993033036": [
+  {
+   "n": "Maçã Nacional kg",
+   "p": "5,99",
+   "u": "kg",
+   "x": 3,
+   "y": 27,
+   "w": 46,
+   "h": 25
+  },
+  {
+   "n": "Laranja-Pera kg",
+   "p": "1,69",
+   "u": "kg",
+   "x": 50,
+   "y": 27,
+   "w": 46,
+   "h": 25
+  },
+  {
+   "n": "Melão Japonês kg",
+   "p": "3,99",
+   "u": "kg",
+   "x": 25,
+   "y": 55,
+   "w": 50,
+   "h": 18
+  },
+  {
+   "n": "Banana Prata ou Pacovan kg",
+   "p": "3,49",
+   "u": "kg",
+   "x": 5,
+   "y": 71,
+   "w": 42,
+   "h": 20
+  },
+  {
+   "n": "Melancia kg",
+   "p": "2,99",
+   "u": "kg",
+   "x": 52,
+   "y": 71,
+   "w": 44,
+   "h": 20
+  }
+ ],
+ "story_miramarsupermercado_3956910553838576889": [
+  {
+   "n": "Morango Congelado EasyChef 1,1kg",
+   "p": "12,99",
+   "u": "cada",
+   "x": 3,
+   "y": 27,
+   "w": 46,
+   "h": 24
+  },
+  {
+   "n": "Filé de Peito de Frango Sadia Cortes Menores 1kg",
+   "p": "18,99",
+   "u": "bandeja",
+   "x": 50,
+   "y": 27,
+   "w": 48,
+   "h": 22
+  },
+  {
+   "n": "Batata Pré-Frita Congelada EasyChef Corte Fino 2kg",
+   "p": "22,99",
+   "u": "cada",
+   "x": 3,
+   "y": 53,
+   "w": 46,
+   "h": 22
+  },
+  {
+   "n": "Coxa com Sobrecoxa de Frango com Dorsal kg",
+   "p": "6,99",
+   "u": "kg",
+   "x": 52,
+   "y": 54,
+   "w": 46,
+   "h": 20
+  },
+  {
+   "n": "Margarina Primor com Sal 3kg",
+   "p": "25,99",
+   "u": "cada",
+   "x": 3,
+   "y": 75,
+   "w": 46,
+   "h": 20
+  },
+  {
+   "n": "Ovo Branco 30 unidades",
+   "p": "14,99",
+   "u": "bandeja",
+   "x": 52,
+   "y": 80,
+   "w": 46,
+   "h": 15
+  }
+ ]
+}

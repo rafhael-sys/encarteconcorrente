@@ -1,0 +1,16 @@
+[
+ {
+  "k": "achocolatado liquido italac 1l || achocolatado liquido italakinho 1l",
+  "a": "Achocolatado Líquido Italac 1L",
+  "b": "Achocolatado Líquido Italakinho 1l",
+  "veredito": "diferente",
+  "motivo": "Rótulos: Italac vs Italakinho (linha infantil distinta)"
+ },
+ {
+  "k": "processador manual union home || processador manual union home preto",
+  "a": "Processador Manual Union Home",
+  "b": "Processador Manual Union Home Preto",
+  "veredito": "mesmo",
+  "motivo": "Mesmo produto Union Home; Preto e so a cor, fotos identicas"
+ }
+]

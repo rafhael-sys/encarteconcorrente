@@ -1,0 +1,227 @@
+[
+ {
+  "k": "faqueiro union home 16 pecas || faqueiro union home c/ 16 pecas",
+  "a": "Faqueiro Union Home c/ 16 peças",
+  "b": "Faqueiro Union Home 16 Peças",
+  "foto_a": {
+   "imagem": "data/pages/Dbog_f0IG_Q_p1.jpg",
+   "nome_impresso": "Faqueiro Union Home c/ 16 peças",
+   "regiao_pct": {
+    "x": 6,
+    "y": 52,
+    "w": 22,
+    "h": 18
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dboha-IjymB_p1.jpg",
+   "nome_impresso": "Faqueiro Union Home 16 Peças",
+   "regiao_pct": {
+    "x": 8,
+    "y": 61,
+    "w": 27,
+    "h": 15
+   }
+  }
+ },
+ {
+  "k": "capa de file bovina resfriada || capa de file bovino resfriada",
+  "a": "Capa de Filé Bovino Resfriada",
+  "b": "Capa de Filé Bovina Resfriada",
+  "foto_a": {
+   "imagem": "data/pages/Dbk9GgejsLQ_p1.jpg",
+   "nome_impresso": "Capa de Filé Bovino Resfriada",
+   "regiao_pct": {
+    "x": 42,
+    "y": 44,
+    "w": 18,
+    "h": 17
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DblBTqfFYyN_p2.jpg",
+   "nome_impresso": "Capa de Filé Bovina Resfriada",
+   "regiao_pct": {
+    "x": 40,
+    "y": 40,
+    "w": 19,
+    "h": 13
+   }
+  }
+ },
+ {
+  "k": "sardinha gomes costa 125g oleo ou tomate || sardinha gomes da costa 125g oleo ou tomate",
+  "a": "Sardinha Gomes Costa 125g Óleo ou Tomate",
+  "b": "Sardinha Gomes da Costa 125g Óleo ou Tomate",
+  "foto_a": {
+   "imagem": "data/pages/DbGXAlmnFuX_p2.jpg",
+   "nome_impresso": "Sardinha Gomes Costa 125g Óleo ou Tomate",
+   "regiao_pct": {
+    "x": 80,
+    "y": 45,
+    "w": 16,
+    "h": 9
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbouNqxidfB_p1.jpg",
+   "nome_impresso": "Sardinha Gomes da Costa 125g Óleo ou Tomate",
+   "regiao_pct": {
+    "x": 55,
+    "y": 71,
+    "w": 14,
+    "h": 11
+   }
+  }
+ },
+ {
+  "k": "leite condensado ccgl semidesnatado 395g || leite condensado ccgl semidesnatado cx 395g",
+  "a": "Leite Condensado CCGL Semidesnatado 395g",
+  "b": "Leite Condensado CCGL Semidesnatado cx 395g",
+  "foto_a": {
+   "imagem": "data/pages/DaoUj8YjXJP_p1.jpg",
+   "nome_impresso": "Leite Condensado CCGL Semidesnatado 395g",
+   "regiao_pct": {
+    "x": 59,
+    "y": 30,
+    "w": 17,
+    "h": 15
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DboglVNGD1V_p6.jpg",
+   "nome_impresso": "Leite Condensado CCGL Semidesnatado cx 395g",
+   "regiao_pct": {
+    "x": 27,
+    "y": 47,
+    "w": 20,
+    "h": 13
+   }
+  }
+ },
+ {
+  "k": "mistura para bolo sao braz sabores 400g || mistura para bolo sao braz sabores sc 400g",
+  "a": "Mistura para Bolo São Braz Sabores 400g",
+  "b": "Mistura para Bolo São Braz Sabores SC 400g",
+  "foto_a": {
+   "imagem": "data/pages/DalwAwCkfot_p2.jpg",
+   "nome_impresso": "Mistura para Bolo São Braz Sabores 400g",
+   "regiao_pct": {
+    "x": 0,
+    "y": 79,
+    "w": 24,
+    "h": 20
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbo6tx9m927_p5.jpg",
+   "nome_impresso": "Mistura para Bolo São Braz Sabores SC 400g",
+   "regiao_pct": {
+    "x": 3,
+    "y": 27,
+    "w": 93,
+    "h": 63
+   }
+  }
+ },
+ {
+  "k": "travessa oxford 30cm x 23cm || travessa oxford 30cmx23cm",
+  "a": "Travessa Oxford 30cm x 23cm",
+  "b": "Travessa Oxford 30cmx23cm",
+  "foto_a": {
+   "imagem": "data/pages/Dbog_f0IG_Q_p2.jpg",
+   "nome_impresso": "Travessa Oxford 30cm x 23cm",
+   "regiao_pct": {
+    "x": 62,
+    "y": 11,
+    "w": 34,
+    "h": 18
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dboha-IjymB_p2.jpg",
+   "nome_impresso": "Travessa Oxford 30cmx23cm",
+   "regiao_pct": {
+    "x": 64,
+    "y": 15,
+    "w": 28,
+    "h": 20
+   }
+  }
+ },
+ {
+  "k": "linguica de churrasco ou frango aurora || linguica de churrasco/frango aurora",
+  "a": "LINGUIÇA DE CHURRASCO OU FRANGO AURORA",
+  "b": "Linguiça de Churrasco/Frango Aurora",
+  "foto_a": {
+   "imagem": "data/pages/DbJsBwDgVZy_p2.jpg",
+   "nome_impresso": "LINGUIÇA DE CHURRASCO OU FRANGO AURORA",
+   "regiao_pct": {
+    "x": 68,
+    "y": 4,
+    "w": 30,
+    "h": 30
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbotBBkAsNN_p2.jpg",
+   "nome_impresso": "Linguiça de Churrasco/Frango Aurora",
+   "regiao_pct": {
+    "x": 9,
+    "y": 62,
+    "w": 40,
+    "h": 18
+   }
+  }
+ },
+ {
+  "k": "cerveja amstel lata 350ml || cerveja amstel lt 350ml",
+  "a": "Cerveja Amstel Lata 350ml",
+  "b": "Cerveja Amstel Lt 350ml",
+  "foto_a": {
+   "imagem": "data/pages/DabRmxqHxTB_p3.jpg",
+   "nome_impresso": "Cerveja Amstel 350ml Lata",
+   "regiao_pct": {
+    "x": 15.8,
+    "y": 34.0,
+    "w": 9.4,
+    "h": 11.9
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DblBTqfFYyN_p2.jpg",
+   "nome_impresso": "Cerveja Amstel Lt 350ml",
+   "regiao_pct": {
+    "x": 16,
+    "y": 2,
+    "w": 12,
+    "h": 15
+   }
+  }
+ },
+ {
+  "k": "pudim de leite condensado batavo 200g || pudim leite condensado batavo 200g",
+  "a": "Pudim Leite Condensado Batavo 200g",
+  "b": "Pudim de Leite Condensado Batavo 200g",
+  "foto_a": {
+   "imagem": "data/pages/DabeWAwnH9d_p3.jpg",
+   "nome_impresso": "Pudim Leite Condensado Batavo 200g",
+   "regiao_pct": {
+    "x": 67,
+    "y": 28,
+    "w": 15,
+    "h": 10.8
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbouNqxidfB_p3.jpg",
+   "nome_impresso": "Pudim de Leite Condensado Batavo 200g",
+   "regiao_pct": {
+    "x": 81,
+    "y": 21,
+    "w": 16,
+    "h": 9
+   }
+  }
+ }
+]

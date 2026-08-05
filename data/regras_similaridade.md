@@ -2095,3 +2095,66 @@
 - MESMO: «Vinho Chileno Pictor 750ml Cabernet Sauvignon Tto SC» == «Vinho Chileno Pictor 750ml Cabernet Sauvignon Tinto SC»
 - MESMO: «Whisky White Horse 1 litro» == «Whisky White Horse gfa 1 litro»
 - MESMO: «Xicara Cha Alleanza c/ Pires» == «Xícara de Chá Alleanza c/ Pires»
+- MESMO: «Achocolatado em Pó Chocolatto 700g» == «Achocolatado em Pó Chocolatto Sachê 700g»
+- MESMO: «Achocolatado Nescau 550g Grátis 50g» == «Achocolatado em Pó Nescau 550g Grátis 50g»
+- DIFERENTES: «Achocolatado Líquido Italac 1L» != «Achocolatado Líquido Italakinho 1l»
+- MESMO: «Água Mineral Ster Bom sem Gás 510ml» == «Água Mineral Sterbom S/ Gás 510ml»
+- MESMO: «Água Sanitária Olimpo tp 1 litro» == «Água Sanitária Olimpo tb 1 litro»
+- MESMO: «Amaciante Concentrado Mon Bijou 500ml» == «Amaciante Roupas Concentrado Mon Bijou 500ml»
+- MESMO: «Batata Frita Scrunch 100g Churrasco» == «Batata Frita Scrusch 100g Churrasco»
+- MESMO: «Batata Palha Scrunch São Braz 500g Sabores» == «Batata Palha Scrusch São Braz 500g Sabores»
+- MESMO: «Cappuccino 3 Corações ou Santa Clara Garrafa 260ml Sabores» == «Beb Cappuccino 3 Corações ou Santa Clara Gfa 260ml (Sabores)»
+- MESMO: «Bebida Láctea Batclan Bandeja 540g Sabores» == «Bebida Láctea Batclan BDJ 540g Sabores»
+- MESMO: «Bebida Vitaminada Baly Kids Lta 220ml» == «Bebida Vitaminada Baly Kids Ita 220ml»
+- MESMO: «Biscoito Wafer Proteína Bendu 40g Sabores» == «Biscoito Wafer Prot Bendu 40g Sabores»
+- MESMO: «Cachaça Extrema Ouro VD 500ml» == «Cachaça Extrema Ouro 500ml»
+- MESMO: «Café em Cápsulas Santa Clara/3 Corações com 10 unidades» == «Café em Cápsulas Santa Clara/3 Corações com 10 und Sabores»
+- MESMO: «Café Solúvel Santa Clara 40g Clássico ou Extra Forte» == «Café Solúvel Santa Clara Refil 40g (Clássico/Extra Forte)»
+- MESMO: «Café Solúvel Santa Clara Refil 40g Extra Forte» == «Café Solúvel Santa Clara Refil 40g (Clássico/Extra Forte)»
+- MESMO: «Capa de Filé Bovino Resfriada» == «Capa de Filé Bovina Resfriada»
+- MESMO: «Carne Bovina Coxão Duro Resfriado Kg» == «Carne Bovina Coxão Duro Resfriado»
+- DIFERENTES: «Carne Bovina Coxão Mole Resfriado» != «Carne Bovina Coxão Duro Resfriado»
+- MESMO: «Carré Suíno Congelado KG» == «Carré Suíno Congelado»
+- MESMO: «Cerveja Amstel Lata 350ml» == «Cerveja Amstel Lt 350ml»
+- MESMO: «Cerveja Budweiser 350ml» == «Cerveja Budweiser Lt 350ml»
+- MESMO: «Cerveja Heineken 330ml» == «Cerveja Heineken LN 330ml»
+- MESMO: «Cerveja Heineken 600ml» == «Cerveja Heineken gfa 600ml»
+- MESMO: «Cerveja Heineken Lata 350ml» == «Cerveja Heineken Ita 350ml»
+- MESMO: «Coxa c/ Sobrecoxa Lar Congelada kg» == «Coxa c/ Sobrecoxa Lar Congelada»
+- MESMO: «Coxas e Sobrecoxas de Frango Guibon com Dorsal Congelado» == «Coxas e Sobrecoxas de Frango Guibon com Dorsal Cong.»
+- MESMO: «Creme de Leite Leve ITALAC 15% Gordura 200g» == «Creme de Leite Italac 15% Gordura 200g»
+- MESMO: «Faqueiro Union Home c/ 16 peças» == «Faqueiro Union Home 16 Peças»
+- MESMO: «Faqueiro Union Home 16 Peças» == «Faqueiro Union Home com 16 Peças»
+- MESMO: «Faqueiro Union Home c/ 16 peças» == «Faqueiro Union Home com 16 Peças»
+- MESMO: «Filé de Peito de Frango Aurora congelado BDJ 1kg» == «Filé de Peito de Frango Aurora Cong. BDJ 1kg»
+- MESMO: «Filé de Peito de Frango LAR 1kg» == «Filé de Peito de Frango Lar 8DJ 1kg»
+- MESMO: «Flocão São Ouro Milho 500g» == «Flocão Só o Ouro Milho 500g»
+- MESMO: «Fraldas Descartáveis Babysec Ultra Sequinha Shortinho» == «Fraldas Descartáveis Babysec Ultra Sequinha Shortinho (tamanhos)»
+- MESMO: «Goma para Tapioca Felitá 1kg» == «Goma para Tapioca Felitá Chef 1kg»
+- MESMO: «Hidratante Corporal Nivea 200ml (Exceto Q10)» == «Hidratante Corporal Nivea 200ml (exceto os Q10)»
+- MESMO: «Inseticida Aero Raid 300ml GR 150ml» == «Inseticida Aerosol Raid 300ml Grátis 150ml»
+- MESMO: «Inseticida Aerossol Baygon 360ml» == «Inseticida Aerosol Baygon tb 360ml»
+- MESMO: «Iog Batavo Pense Zero 1150g Sabores» == «Iogurte Batavo Pense Zero 1150g Sabores»
+- MESMO: «Lava Roupas em Pó OMO 1,6kg» == «Lava Roupas Pó Omo 1,6kg»
+- MESMO: «Leite Condensado CCGL Semidesnatado 395g» == «Leite Condensado CCGL Semidesnatado cx 395g»
+- MESMO: «Leite Condensado Italac 395g» == «Leite Condensado Italac TP 395g»
+- MESMO: «Leite em Pó Italac Sachê 200g» == «Leite Pó Italac Sachê 200g»
+- MESMO: «LINGUIÇA DE CHURRASCO OU FRANGO AURORA» == «Linguiça de Churrasco/Frango Aurora»
+- DIFERENTES: «Linguiça de Frango Seara» != «Linguiça de Frango Sadia»
+- MESMO: «Lombo Suíno Sem Osso Lar Congelado» == «Lombo Suíno S/ Osso Lar Congelado»
+- MESMO: «Lombo Suíno Sem Osso Lar Congelado Kg» == «Lombo Suíno S/ Osso Lar Congelado»
+- MESMO: «Mistura de Creme de Leite Mococa cx 200g» == «Mistura de Creme Leite Mococa 200g»
+- MESMO: «Mistura para Bolo ITALAC 400g Sabores» == «Mistura p/ Bolo Italac 400g Sabores»
+- MESMO: «Mistura para Bolo São Braz Sabores 400g» == «Mistura para Bolo São Braz Sabores SC 400g»
+- MESMO: «Papel Higiênico Mimmo Folha Dupla 30m c/12» == «Papel Higiênico Mimmo Folha Dupla 30m L12 P11»
+- MESMO: «Papel Toalha Scala F/D 360fls C/3 Rolos» == «Papel Toalha Scala Folha Dupla 360fls C/3 Rolos»
+- MESMO: «Peixe Filé de Tilápia Lar Cong. pct 700g» == «Peixe Filé de Tilápia Lar Congelado PCT 700g»
+- MESMO: «Presunto de Peru Sadia kg» == «Presunto de Peru Sadia»
+- MESMO: «Processador Manual Union Home» == «Processador Manual Union Home Preto»
+- MESMO: «Pudim Leite Condensado Batavo 200g» == «Pudim de Leite Condensado Batavo 200g»
+- MESMO: «Queijo Mussarela Kg (peça ou pedaço)» == «Queijo Mussarela Peça ou Pedaço»
+- MESMO: «Refrigerante Guaraná Antarctica 2L» == «Refrigerante Guaraná Antártica 2l»
+- MESMO: «Sardinha Gomes Costa 125g Óleo ou Tomate» == «Sardinha Gomes da Costa 125g Óleo ou Tomate»
+- MESMO: «Travessa Oxford 30cm x 23cm» == «Travessa Oxford 30cmx23cm»
+- MESMO: «Uva Vitória Sem Sementes BDJ 500g» == «Uva Vitória s/ sementes bd 500g»
+- MESMO: «Whisky Old Parr 12 anos 1 litro» == «Whisky Old Parr 12 Anos gfa 1 litro»

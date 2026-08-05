@@ -1,0 +1,227 @@
+[
+ {
+  "k": "refrigerante guarana antarctica 2l || refrigerante guarana antartica 2l",
+  "a": "Refrigerante Guaraná Antarctica 2L",
+  "b": "Refrigerante Guaraná Antártica 2l",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/rm_copa_jun_p1.jpg",
+   "nome_impresso": "Refrigerante Guaraná ANTARCTICA 2L",
+   "regiao_pct": {
+    "x": 75.5,
+    "y": 66.6,
+    "w": 15.5,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DblBTqfFYyN_p2.jpg",
+   "nome_impresso": "Refrigerante Guaraná Antártica 2l",
+   "regiao_pct": {
+    "x": 40,
+    "y": 2,
+    "w": 13,
+    "h": 15
+   }
+  }
+ },
+ {
+  "k": "batata palha scrunch sao braz 500g sabores || batata palha scrusch sao braz 500g sabores",
+  "a": "Batata Palha Scrunch São Braz 500g Sabores",
+  "b": "Batata Palha Scrusch São Braz 500g Sabores",
+  "foto_a": {
+   "imagem": "data/pages/story_queirozatacadaojoaocamara_3956524841239314005.jpg",
+   "nome_impresso": "Batata Palha Scrunch São Braz 500g Sabores",
+   "regiao_pct": {
+    "x": 59,
+    "y": 38,
+    "w": 17,
+    "h": 13
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_queirozatacadaonatal__3956524931055822450.jpg",
+   "nome_impresso": "Batata Palha Scrusch São Braz 500g Sabores",
+   "regiao_pct": {
+    "x": 59,
+    "y": 37,
+    "w": 18,
+    "h": 15
+   }
+  }
+ },
+ {
+  "k": "bebida vitaminada baly kids ita 220ml || bebida vitaminada baly kids lta 220ml",
+  "a": "Bebida Vitaminada Baly Kids Lta 220ml",
+  "b": "Bebida Vitaminada Baly Kids Ita 220ml",
+  "foto_a": {
+   "imagem": "data/pages/DadzqY0mMeB_p9.jpg",
+   "nome_impresso": "Bebida Vitaminada Baly Kids Lta 220ml",
+   "regiao_pct": {
+    "x": 51,
+    "y": 29,
+    "w": 14,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DboglVNGD1V_p9.jpg",
+   "nome_impresso": "Bebida Vitaminada Baly Kids Ita 220ml",
+   "regiao_pct": {
+    "x": 34,
+    "y": 30,
+    "w": 14,
+    "h": 14
+   }
+  }
+ },
+ {
+  "k": "creme de leite italac 10% gordura 200g || creme de leite italac 15% gordura 200g",
+  "a": "Creme de Leite Italac 10% Gordura 200g",
+  "b": "Creme de Leite Italac 15% Gordura 200g",
+  "foto_a": {
+   "imagem": "data/pages/DbI9SqcgJyX_p2.jpg",
+   "nome_impresso": "Creme de Leite Italac 10% Gordura 200g",
+   "regiao_pct": {
+    "x": 25,
+    "y": 59,
+    "w": 15,
+    "h": 12
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DblBTqfFYyN_p1.jpg",
+   "nome_impresso": "Creme de Leite Italac 15% Gordura 200g",
+   "regiao_pct": {
+    "x": 66,
+    "y": 63,
+    "w": 15,
+    "h": 11
+   }
+  }
+ },
+ {
+  "k": "batata frita scrunch 100g churrasco || batata frita scrusch 100g churrasco",
+  "a": "Batata Frita Scrunch 100g Churrasco",
+  "b": "Batata Frita Scrusch 100g Churrasco",
+  "foto_a": {
+   "imagem": "data/pages/story_queirozatacadaojoaocamara_3956524841239314005.jpg",
+   "nome_impresso": "Batata Frita Scrunch 100g Churrasco",
+   "regiao_pct": {
+    "x": 41,
+    "y": 38,
+    "w": 18,
+    "h": 13
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_queirozatacadaonatal__3956524931055822450.jpg",
+   "nome_impresso": "Batata Frita Scrusch 100g Churrasco",
+   "regiao_pct": {
+    "x": 41,
+    "y": 37,
+    "w": 18,
+    "h": 15
+   }
+  }
+ },
+ {
+  "k": "lombo suino s/ osso lar congelado || lombo suino sem osso lar congelado",
+  "a": "Lombo Suíno Sem Osso Lar Congelado",
+  "b": "Lombo Suíno S/ Osso Lar Congelado",
+  "foto_a": {
+   "imagem": "data/pages/story_miramarsupermercado_3947957195899466618.jpg",
+   "nome_impresso": "Lombo Suíno Sem Osso Lar Congelado",
+   "regiao_pct": {
+    "x": 32,
+    "y": 46,
+    "w": 33,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_miramarsupermercado_3956306957539130693.jpg",
+   "nome_impresso": "Lombo Suíno S/ Osso Lar Congelado",
+   "regiao_pct": {
+    "x": 0,
+    "y": 50,
+    "w": 50,
+    "h": 50
+   }
+  }
+ },
+ {
+  "k": "agua sanitaria olimpo tb 1 litro || agua sanitaria olimpo tp 1 litro",
+  "a": "Água Sanitária Olimpo tp 1 litro",
+  "b": "Água Sanitária Olimpo tb 1 litro",
+  "foto_a": {
+   "imagem": "data/pages/DaliA-imB-r_p2.jpg",
+   "nome_impresso": "Água Sanitária Olimpo tp 1 litro",
+   "regiao_pct": {
+    "x": 6,
+    "y": 71,
+    "w": 18,
+    "h": 13
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DboglVNGD1V_p11.jpg",
+   "nome_impresso": "Água Sanitária Olimpo tb 1 litro",
+   "regiao_pct": {
+    "x": 26,
+    "y": 46,
+    "w": 15,
+    "h": 14
+   }
+  }
+ },
+ {
+  "k": "faqueiro union home c/ 16 pecas || faqueiro union home com 16 pecas",
+  "a": "Faqueiro Union Home c/ 16 peças",
+  "b": "Faqueiro Union Home com 16 Peças",
+  "foto_a": {
+   "imagem": "data/pages/Dbog_f0IG_Q_p1.jpg",
+   "nome_impresso": "Faqueiro Union Home c/ 16 peças",
+   "regiao_pct": {
+    "x": 6,
+    "y": 52,
+    "w": 22,
+    "h": 18
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbohkQXINE5_p1.jpg",
+   "nome_impresso": "Faqueiro Union Home com 16 Peças",
+   "regiao_pct": {
+    "x": 9,
+    "y": 58,
+    "w": 28,
+    "h": 14
+   }
+  }
+ },
+ {
+  "k": "hidratante corporal nivea 200ml (exceto os q10) || hidratante corporal nivea 200ml (exceto q10)",
+  "a": "Hidratante Corporal Nivea 200ml (Exceto Q10)",
+  "b": "Hidratante Corporal Nivea 200ml (exceto os Q10)",
+  "foto_a": {
+   "imagem": "data/pages/lm_selecao_p3.jpg",
+   "nome_impresso": "Hidratante Corporal Nivea 200ml (Exceto Q10)",
+   "regiao_pct": {
+    "x": 65.6,
+    "y": 1.0,
+    "w": 15.4,
+    "h": 11.0
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DblBTqfFYyN_p4.jpg",
+   "nome_impresso": "Hidratante Corporal Nivea 200ml (exceto os Q10)",
+   "regiao_pct": {
+    "x": 47,
+    "y": 45,
+    "w": 13,
+    "h": 9
+   }
+  }
+ }
+]

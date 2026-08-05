@@ -1,0 +1,65 @@
+[
+ {
+  "k": "iog batavo pense zero 1150g sabores || iogurte batavo pense zero 1150g sabores",
+  "a": "Iog Batavo Pense Zero 1150g Sabores",
+  "b": "Iogurte Batavo Pense Zero 1150g Sabores",
+  "veredito": "mesmo",
+  "motivo": "Batavo Pense Zero 1150g Sabores nos dois; Iog=Iogurte"
+ },
+ {
+  "k": "cachaca extrema ouro 500ml || cachaca extrema ouro vd 500ml",
+  "a": "Cachaça Extrema Ouro VD 500ml",
+  "b": "Cachaça Extrema Ouro 500ml",
+  "veredito": "mesmo",
+  "motivo": "Cachaça Extrema Ouro 500ml; VD=vidro (embalagem)"
+ },
+ {
+  "k": "leite em po italac sache 200g || leite po italac sache 200g",
+  "a": "Leite em Pó Italac Sachê 200g",
+  "b": "Leite Pó Italac Sachê 200g",
+  "veredito": "mesmo",
+  "motivo": "Leite em Pó Italac Sachê 200g nos dois"
+ },
+ {
+  "k": "coxas e sobrecoxas de frango guibon com dorsal cong. || coxas e sobrecoxas de frango guibon com dorsal congelado",
+  "a": "Coxas e Sobrecoxas de Frango Guibon com Dorsal Congelado",
+  "b": "Coxas e Sobrecoxas de Frango Guibon com Dorsal Cong.",
+  "veredito": "mesmo",
+  "motivo": "Coxas/sobrecoxas Guibon c/ dorsal; Cong.=Congelado"
+ },
+ {
+  "k": "cerveja heineken ita 350ml || cerveja heineken lata 350ml",
+  "a": "Cerveja Heineken Lata 350ml",
+  "b": "Cerveja Heineken Ita 350ml",
+  "veredito": "mesmo",
+  "motivo": "Heineken lata 350ml nos dois; Ita/lta=lata"
+ },
+ {
+  "k": "flocao sao ouro milho 500g || flocao so o ouro milho 500g",
+  "a": "Flocão São Ouro Milho 500g",
+  "b": "Flocão Só o Ouro Milho 500g",
+  "veredito": "mesmo",
+  "motivo": "Flocão Só o Ouro Milho 500g; São=erro de leitura"
+ },
+ {
+  "k": "lava roupas em po omo 1,6kg || lava roupas po omo 1,6kg",
+  "a": "Lava Roupas em Pó OMO 1,6kg",
+  "b": "Lava Roupas Pó Omo 1,6kg",
+  "veredito": "mesmo",
+  "motivo": "Lava-roupas em pó OMO 1,6kg nos dois"
+ },
+ {
+  "k": "cerveja budweiser 350ml || cerveja budweiser lt 350ml",
+  "a": "Cerveja Budweiser 350ml",
+  "b": "Cerveja Budweiser Lt 350ml",
+  "veredito": "mesmo",
+  "motivo": "Budweiser lata 350ml nos dois; Lt=lata"
+ },
+ {
+  "k": "file de peito de frango lar 1kg || file de peito de frango lar 8dj 1kg",
+  "a": "Filé de Peito de Frango LAR 1kg",
+  "b": "Filé de Peito de Frango Lar 8DJ 1kg",
+  "veredito": "mesmo",
+  "motivo": "Filé de Peito Frango LAR 1kg; 8DJ é código interno"
+ }
+]

@@ -1,0 +1,132 @@
+{
+ "atacadao_28c555d715_p1": [
+  {
+   "n": "Carne Bovina Bisteca de Contrafilé Reserva Resfriada (Friboi)",
+   "p": "37,90",
+   "u": "kg (de R$ 52,90)",
+   "x": 4,
+   "y": 29,
+   "w": 44,
+   "h": 15
+  },
+  {
+   "n": "Carne Bovina Acém sem Osso Reserva Resfriada (Friboi)",
+   "p": "32,90",
+   "u": "kg (de R$ 49,90)",
+   "x": 52,
+   "y": 29,
+   "w": 44,
+   "h": 15
+  },
+  {
+   "n": "Carne Bovina Chambaril Dianteiro Reserva Resfriada (Friboi)",
+   "p": "19,90",
+   "u": "kg (de R$ 37,90)",
+   "x": 4,
+   "y": 45,
+   "w": 44,
+   "h": 15
+  },
+  {
+   "n": "Carne Bovina Coxão Mole Reserva Resfriada (Friboi)",
+   "p": "34,90",
+   "u": "kg (de R$ 54,90)",
+   "x": 52,
+   "y": 45,
+   "w": 44,
+   "h": 15
+  },
+  {
+   "n": "Meio da Asa de Frango Resfriada (Mauricéa)",
+   "p": "17,50",
+   "u": "kg (de R$ 22,50)",
+   "x": 4,
+   "y": 61,
+   "w": 44,
+   "h": 16
+  },
+  {
+   "n": "Asa de Frango Resfriada (Mauricéa)",
+   "p": "17,90",
+   "u": "kg (de R$ 21,50)",
+   "x": 52,
+   "y": 61,
+   "w": 44,
+   "h": 16
+  },
+  {
+   "n": "Coxa de Frango Resfriada (Mauricéa)",
+   "p": "10,90",
+   "u": "kg (de R$ 13,90)",
+   "x": 4,
+   "y": 79,
+   "w": 44,
+   "h": 17
+  },
+  {
+   "n": "Peito de Frango com Osso Resfriado (Mauricéa)",
+   "p": "12,90",
+   "u": "kg (de R$ 17,50)",
+   "x": 52,
+   "y": 79,
+   "w": 44,
+   "h": 17
+  }
+ ],
+ "atacadao_28c555d715_p2": [
+  {
+   "n": "Jerked Beef Dianteiro (Friboi)",
+   "p": "47,90",
+   "u": "kg (de R$ 59,90)",
+   "x": 4,
+   "y": 21,
+   "w": 33,
+   "h": 27
+  },
+  {
+   "n": "Bacon Defumado Seara",
+   "p": "35,90",
+   "u": "kg (de R$ 43,90)",
+   "x": 37,
+   "y": 21,
+   "w": 30,
+   "h": 27
+  },
+  {
+   "n": "Presunto Magro Cozido Fatiado (Seara)",
+   "p": "29,90",
+   "u": "kg (de R$ 39,90)",
+   "x": 67,
+   "y": 21,
+   "w": 29,
+   "h": 27
+  },
+  {
+   "n": "Pão Francês (Pancristal)",
+   "p": "7,90",
+   "u": "kg (de R$ 16,90)",
+   "x": 4,
+   "y": 57,
+   "w": 33,
+   "h": 29
+  },
+  {
+   "n": "Pão de Hambúrguer (Pancristal)",
+   "p": "18,90",
+   "u": "kg (de R$ 28,90)",
+   "x": 37,
+   "y": 57,
+   "w": 30,
+   "h": 29
+  },
+  {
+   "n": "Sonho (Pancristal)",
+   "p": "25,50",
+   "u": "kg (de R$ 34,90)",
+   "x": 67,
+   "y": 57,
+   "w": 29,
+   "h": 29
+  }
+ ]
+}

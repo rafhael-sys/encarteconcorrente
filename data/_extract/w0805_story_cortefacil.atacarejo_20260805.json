@@ -1,0 +1,105 @@
+{
+ "story_cortefacil.atacarejo_3956879441187920065": [
+  {
+   "n": "Tomate Extra",
+   "p": "3,99",
+   "u": "kg",
+   "x": 17,
+   "y": 31,
+   "w": 27,
+   "h": 16
+  },
+  {
+   "n": "Batata Inglesa",
+   "p": "4,79",
+   "u": "kg",
+   "x": 59,
+   "y": 31,
+   "w": 29,
+   "h": 16
+  },
+  {
+   "n": "Cebola Branca",
+   "p": "5,59",
+   "u": "kg",
+   "x": 17,
+   "y": 48,
+   "w": 27,
+   "h": 16
+  },
+  {
+   "n": "Banana Pacovan",
+   "p": "3,59",
+   "u": "kg",
+   "x": 59,
+   "y": 48,
+   "w": 29,
+   "h": 16
+  },
+  {
+   "n": "Abacate",
+   "p": "3,99",
+   "u": "kg",
+   "x": 17,
+   "y": 67,
+   "w": 27,
+   "h": 17
+  },
+  {
+   "n": "Goiaba",
+   "p": "4,79",
+   "u": "kg",
+   "x": 59,
+   "y": 67,
+   "w": 29,
+   "h": 17
+  }
+ ],
+ "story_cortefacil.atacarejo_3956879556866806411": [
+  {
+   "n": "Uva Vitória Frazão sem sementes bandeja 500g",
+   "p": "4,79",
+   "u": "un",
+   "x": 14,
+   "y": 30,
+   "w": 30,
+   "h": 16
+  },
+  {
+   "n": "Tangerina Nacional",
+   "p": "4,99",
+   "u": "kg",
+   "x": 57,
+   "y": 30,
+   "w": 31,
+   "h": 16
+  },
+  {
+   "n": "Maçã Nacional",
+   "p": "8,99",
+   "u": "kg",
+   "x": 16,
+   "y": 48,
+   "w": 29,
+   "h": 16
+  },
+  {
+   "n": "Morango bandeja 200g",
+   "p": "9,99",
+   "u": "un",
+   "x": 57,
+   "y": 48,
+   "w": 31,
+   "h": 16
+  },
+  {
+   "n": "Ovos Branco Grande Granja Almeida com 30 unidades",
+   "p": "14,99",
+   "u": "bandeja",
+   "x": 14,
+   "y": 65,
+   "w": 30,
+   "h": 18
+  }
+ ]
+}

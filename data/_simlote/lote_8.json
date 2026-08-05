@@ -1,0 +1,52 @@
+[
+ {
+  "k": "achocolatado liquido italac 1l || achocolatado liquido italakinho 1l",
+  "a": "Achocolatado Líquido Italac 1L",
+  "b": "Achocolatado Líquido Italakinho 1l",
+  "foto_a": {
+   "imagem": "data/pages/DbWzd1Vjpb5_p2.jpg",
+   "nome_impresso": "Achocolatado Líquido Italac 1L",
+   "regiao_pct": {
+    "x": 7,
+    "y": 29,
+    "w": 15,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DblBTqfFYyN_p3.jpg",
+   "nome_impresso": "Achocolatado Líquido Italakinho 1l",
+   "regiao_pct": {
+    "x": 58,
+    "y": 62,
+    "w": 17,
+    "h": 11
+   }
+  }
+ },
+ {
+  "k": "processador manual union home || processador manual union home preto",
+  "a": "Processador Manual Union Home",
+  "b": "Processador Manual Union Home Preto",
+  "foto_a": {
+   "imagem": "data/pages/Dbog_f0IG_Q_p2.jpg",
+   "nome_impresso": "Processador Manual Union Home",
+   "regiao_pct": {
+    "x": 6,
+    "y": 30,
+    "w": 24,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dboha-IjymB_p2.jpg",
+   "nome_impresso": "Processador Manual Union Home Preto",
+   "regiao_pct": {
+    "x": 6,
+    "y": 40,
+    "w": 27,
+    "h": 19
+   }
+  }
+ }
+]
