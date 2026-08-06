@@ -1,0 +1,43 @@
+{
+  "DbrG7t9gTaC_p1": [
+    {"n": "Ovos Brancos Nordestão (grande ou extra) ou Avine (extra) bd c/30", "p": "12,79", "u": "cada", "x": 5, "y": 40, "w": 22, "h": 15},
+    {"n": "Alho a Granel", "p": "15,85", "u": "kg", "x": 27, "y": 40, "w": 22, "h": 15},
+    {"n": "Uva Vitória Marcelo Frazão sem Sementes cb 500g", "p": "4,79", "u": "cada", "x": 49, "y": 40, "w": 23, "h": 15},
+    {"n": "Abacaxi", "p": "2,99", "u": "cada", "x": 73, "y": 40, "w": 22, "h": 15},
+    {"n": "Macaxeira", "p": "2,79", "u": "kg", "x": 5, "y": 55, "w": 22, "h": 12},
+    {"n": "Tomate Italiano", "p": "3,89", "u": "kg", "x": 27, "y": 55, "w": 22, "h": 12},
+    {"n": "Batata Lisa Inglesa", "p": "4,99", "u": "kg", "x": 49, "y": 55, "w": 23, "h": 12},
+    {"n": "Cebola Branca", "p": "6,39", "u": "kg", "x": 73, "y": 55, "w": 22, "h": 12},
+    {"n": "Mamão Formosa", "p": "2,99", "u": "kg", "x": 5, "y": 67, "w": 22, "h": 12},
+    {"n": "Melão Espanhol", "p": "2,99", "u": "kg", "x": 27, "y": 67, "w": 22, "h": 12},
+    {"n": "Banana Pacovan", "p": "3,89", "u": "kg", "x": 49, "y": 67, "w": 23, "h": 12},
+    {"n": "Goma Fresca Nordestão pct 1kg", "p": "3,95", "u": "cada", "x": 73, "y": 67, "w": 22, "h": 12},
+    {"n": "Coxas de Frango Sadia Congeladas IQF pct ou bd 1kg", "p": "11,99", "u": "cada", "x": 3, "y": 80, "w": 19, "h": 16},
+    {"n": "Filezinho Sassami de Frango Sadia Congelado pct ou bd 1kg", "p": "17,99", "u": "cada", "x": 22, "y": 80, "w": 19, "h": 16},
+    {"n": "Camarão Inteiro Camanor Congelado a Granel", "p": "37,90", "u": "kg", "x": 41, "y": 80, "w": 19, "h": 16},
+    {"n": "Acem, Posta Gorda e Peito Bovino Reserva com osso", "p": "29,98", "u": "kg", "x": 60, "y": 80, "w": 19, "h": 16},
+    {"n": "Costela Suína Resfriado Pedaço", "p": "26,98", "u": "kg", "x": 79, "y": 80, "w": 19, "h": 16}
+  ],
+  "DbrG7t9gTaC_p2": [
+    {"n": "Flocão de Milho Vitamilho pct 500g", "p": "1,29", "u": "cada", "x": 5, "y": 11, "w": 22, "h": 13},
+    {"n": "Açúcar Refinado Natural Ecoçúcar pct 1kg", "p": "2,89", "u": "cada", "x": 28, "y": 11, "w": 22, "h": 13},
+    {"n": "Arroz Parboilizado Kika pct 1kg", "p": "3,49", "u": "cada", "x": 51, "y": 11, "w": 22, "h": 13},
+    {"n": "Leite UHT Natville Integral ou Desnatado cx 1 litro", "p": "5,89", "u": "cada", "x": 74, "y": 11, "w": 22, "h": 13},
+    {"n": "Café em Pó Família São Braz Almofada pct 250g", "p": "12,98", "u": "cada", "x": 5, "y": 25, "w": 22, "h": 14},
+    {"n": "Azeite de Oliva Extra Virgem Kristal vd 500ml", "p": "23,99", "u": "cada", "x": 28, "y": 25, "w": 22, "h": 14},
+    {"n": "Macarrão Gostoso Estrela Espaguete pct 400g", "p": "1,99", "u": "cada", "x": 51, "y": 25, "w": 22, "h": 14},
+    {"n": "Molho de Tomate Pomodoro Tradicional pct 300g", "p": "1,29", "u": "cada", "x": 74, "y": 25, "w": 22, "h": 14},
+    {"n": "Sorvete Ster Bom pt 2 litros ou Batata Palito EasyChef pct 2kg", "p": "21,99", "u": "cada", "x": 5, "y": 40, "w": 22, "h": 15},
+    {"n": "Linguiça de Frango ou para Churrasco Aurora", "p": "17,99", "u": "kg", "x": 28, "y": 40, "w": 22, "h": 15},
+    {"n": "Refrigerante Guaraná Antarctica Pack c/2x tb 1 litro", "p": "4,50", "u": "cada (pack 2x1L por 8,99)", "x": 51, "y": 40, "w": 22, "h": 15},
+    {"n": "Bebida Energética Red Bull lta 250ml", "p": "7,99", "u": "cada", "x": 74, "y": 40, "w": 22, "h": 15},
+    {"n": "Cerveja Devassa lta 350ml", "p": "2,89", "u": "cada", "x": 5, "y": 55, "w": 22, "h": 13},
+    {"n": "Cerveja Brahma Chopp lta 350ml", "p": "2,99", "u": "cada", "x": 28, "y": 55, "w": 22, "h": 13},
+    {"n": "Cerveja Lager Amstel Ultra lta 269ml", "p": "3,69", "u": "cada", "x": 51, "y": 55, "w": 22, "h": 13},
+    {"n": "Sabão em Barra Glicerinado Minuano Neutro pct 5x 180g", "p": "9,99", "u": "cada", "x": 74, "y": 55, "w": 22, "h": 13},
+    {"n": "Lava-roupas Líquido Absoluto! tb 3 litros", "p": "10,99", "u": "cada", "x": 5, "y": 69, "w": 22, "h": 15},
+    {"n": "Amaciante Concentrado Downy tb 1 litro", "p": "18,99", "u": "cada", "x": 28, "y": 69, "w": 22, "h": 15},
+    {"n": "Papel Higiênico Atualle Folha Dupla 20 Metros pct c/12", "p": "12,49", "u": "cada", "x": 51, "y": 69, "w": 22, "h": 15},
+    {"n": "Fralda Descartável Shortinho Turma da Mônica Baby pct M c/26, G c/22, XG c/20 ou XXG c/18", "p": "26,99", "u": "cada", "x": 74, "y": 69, "w": 22, "h": 15}
+  ]
+}

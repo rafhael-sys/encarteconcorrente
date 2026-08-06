@@ -1,0 +1,28 @@
+{
+  "DbrKWWvjDOM_p1": [
+    {"n": "Carne Bovina Fralda/Coxão Mole Resfriado e Sol", "p": "37,99", "u": "kg", "x": 8, "y": 35, "w": 81, "h": 20},
+    {"n": "Carne Bovina Capa de Contra Filé Congelada", "p": "34,99", "u": "kg", "x": 5, "y": 58, "w": 31, "h": 22},
+    {"n": "Carne Bovina Cupim", "p": "34,99", "u": "kg", "x": 37, "y": 58, "w": 25, "h": 22},
+    {"n": "Carne Bovina Cordão do Contra Filé", "p": "29,99", "u": "kg", "x": 65, "y": 58, "w": 27, "h": 22}
+  ],
+  "DbrKWWvjDOM_p2": [
+    {"n": "Carne Bovina Paleta com Osso", "p": "29,99", "u": "kg", "x": 9, "y": 34, "w": 28, "h": 22},
+    {"n": "Carne Bovina Acém com Osso", "p": "27,99", "u": "kg", "x": 37, "y": 34, "w": 26, "h": 22},
+    {"n": "Carne Bovina Costela do Peito", "p": "26,99", "u": "kg", "x": 64, "y": 34, "w": 29, "h": 22},
+    {"n": "Carne Bovina Costela P.A", "p": "25,99", "u": "kg", "x": 9, "y": 57, "w": 28, "h": 22},
+    {"n": "Língua Bovina Congelada", "p": "22,99", "u": "kg", "x": 37, "y": 57, "w": 26, "h": 22},
+    {"n": "Mocotó Bovino Serrado Congelado", "p": "14,99", "u": "kg", "x": 64, "y": 57, "w": 29, "h": 22}
+  ],
+  "DbrKWWvjDOM_p3": [
+    {"n": "Fígado Bovino Congelado", "p": "15,99", "u": "kg", "x": 9, "y": 34, "w": 28, "h": 22},
+    {"n": "Coração Bovino Congelado", "p": "14,99", "u": "kg", "x": 37, "y": 34, "w": 26, "h": 22},
+    {"n": "Espetinho de Contra Filé/Bife Ancho Seridoense Congelado 300g", "p": "19,99", "u": "und", "x": 64, "y": 34, "w": 29, "h": 25},
+    {"n": "Hambúrguer Artesanal Blend Seridoense Congelado 120g", "p": "5,99", "u": "und", "x": 9, "y": 57, "w": 28, "h": 25},
+    {"n": "Hambúrguer Fraldinha Seridoense Congelado 120g", "p": "7,99", "u": "und", "x": 37, "y": 57, "w": 26, "h": 25},
+    {"n": "Cerveja Itaipava Pilsen Lata 350ml", "p": "2,59", "u": "und", "x": 64, "y": 57, "w": 29, "h": 25}
+  ],
+  "DbrKWWvjDOM_p4": [
+    {"n": "Cerveja Puro Malte Pilsen 3.0 Lata 350ml", "p": "2,79", "u": "und", "x": 8, "y": 33, "w": 28, "h": 22},
+    {"n": "Caixa Térmica Mor 34 Litros Cores", "p": "89,99", "u": "und", "x": 37, "y": 33, "w": 25, "h": 22}
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "story_redesuper.show_3957080053425835640": [
+    {"n": "Pão de Hambúrguer Center Massas 400g (Tradicional)", "p": "4,99", "u": "un", "x": 2, "y": 3, "w": 48, "h": 48},
+    {"n": "Ketchup Hellmann's 380g (Tradicional/Picante/Supreme)", "p": "15,99", "u": "cliente cadastrado", "x": 50, "y": 0, "w": 50, "h": 50},
+    {"n": "Batata Palha Graticia 80g", "p": "3,99", "u": "cliente cadastrado", "x": 0, "y": 52, "w": 48, "h": 48},
+    {"n": "Hambúrguer Maturatta 180g (Sabores)", "p": "6,99", "u": "cliente cadastrado", "x": 50, "y": 50, "w": 50, "h": 50}
+  ],
+  "story_redesuper.show_3957080144685528519": [
+    {"n": "Refrigerante Coca-Cola 2L (Zero Açúcar)", "p": "10,29", "u": "un", "x": 5, "y": 8, "w": 90, "h": 88}
+  ],
+  "story_redesuper.show_3957080548991116518": [
+    {"n": "Linguiça Tipo Calabresa Nutribas", "p": "22,99", "u": "kg", "x": 5, "y": 10, "w": 90, "h": 88}
+  ],
+  "story_redesuper.show_3957080632994660591": [
+    {"n": "Mini Kibe Felitá Chef 810g (Tradicional/Requeijão)", "p": "22,99", "u": "un", "x": 5, "y": 15, "w": 90, "h": 83}
+  ],
+  "story_redesuper.show_3957080736893172823": [
+    {"n": "Molho de Tomate Fugini 300g (Sachê - Tomate)", "p": "1,89", "u": "un", "x": 5, "y": 10, "w": 90, "h": 88}
+  ],
+  "story_redesuper.show_3957080777102513803": [
+    {"n": "Café São Braz Família 250g (Almofada/A Vácuo)", "p": "12,29", "u": "un", "x": 10, "y": 15, "w": 80, "h": 83}
+  ],
+  "story_redesuper.show_3957080822725352758": [
+    {"n": "Flocão de Milho São Braz 500g", "p": "1,39", "u": "un", "x": 0, "y": 10, "w": 95, "h": 88}
+  ],
+  "story_redesuper.show_3957080855980627458": [
+    {"n": "Ovo Avine Ômega 3 Bandeja c/10 und", "p": "7,99", "u": "cliente cadastrado", "x": 15, "y": 3, "w": 80, "h": 50},
+    {"n": "Ovo Vermelho Avine Bandeja c/20 und", "p": "11,99", "u": "cliente cadastrado", "x": 0, "y": 55, "w": 100, "h": 45}
+  ],
+  "story_redesuper.show_3957080890289973951": [
+    {"n": "Bebida Láctea UHT Whey Itambé 250ml (Chocolate/Baunilha/Coco)", "p": "5,99", "u": "un", "x": 0, "y": 10, "w": 50, "h": 45},
+    {"n": "Desodorante Aerossol Nivea 150ml (Fragrâncias)", "p": "11,99", "u": "cliente cadastrado", "x": 50, "y": 5, "w": 50, "h": 48},
+    {"n": "Papel Toalha Felitá Home 2 Rolos", "p": "4,99", "u": "cliente cadastrado", "x": 0, "y": 52, "w": 50, "h": 48},
+    {"n": "Arroz São Joaquim 1kg (Branco)", "p": "4,49", "u": "un", "x": 50, "y": 52, "w": 50, "h": 48}
+  ]
+}

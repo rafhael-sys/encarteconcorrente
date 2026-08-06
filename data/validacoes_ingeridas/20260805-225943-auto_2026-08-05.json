@@ -1,0 +1,309 @@
+{
+ "validacoes": [
+  {
+   "a": "Bebida Mista Maguary Fruit Shoot Vários sabores TP com 150ml",
+   "b": "Bebida Mista Maguary Fruit Shoot vários sabores TP 150ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Original/Zero Lata com 350ml",
+   "b": "Refrigerante Guaraná Antarctica Original/Zero lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Noturno Sym Suave com Abas Pacote com 8 Unidades",
+   "b": "Absorvente Noturno Sym Suave com abas pacote 8 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Novo Folha Simples 30m Pacote 4 rolos",
+   "b": "Papel Higiênico Novo Folha Simples 30m Pacote com 4 rolos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Nestlé Resfriado Tradicional/Light Copo com 200g",
+   "b": "Requeijão Nestlé Resfriado Tradicional/Light copo 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mistura Láctea Condensada Mococa 395g",
+   "b": "Mistura Láctea Condensada Mococa TP 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém com Osso Reserva Resfriada Friboi",
+   "b": "Carne Bovina Acém sem Osso Reserva Resfriada (Friboi)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refresco Líquido Tampico Frutas Cítricas Pet com 2L",
+   "b": "Refresco Líquido Tampico frutas cítricas Pet 2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sorvete Bulnez Congelado Vários Sabores Pote com 1L",
+   "b": "Sorvete Bulnez Congelado vários sabores pote 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Alvejante para Roupa Dragão Multiuso Frasco com 1L",
+   "b": "Alvejante para Roupa Dragão Multiuso frasco 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Itacolomy Resfriada com Sal Pote 500g",
+   "b": "Manteiga Itacolomy Resfriada Com sal Pote com 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desinfetante Becker Vários tipos Frasco com 3L",
+   "b": "Desinfetante Becker vários tipos frasco 3L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Whisky Johnnie Walker Red Label Garrafa com 1L",
+   "b": "Whisky Johnnie Walker Red Label garrafa 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas em Pó Absoluto Tradicional Pacote 400g",
+   "b": "Lava Roupas em Pó Absoluto Tradicional/Coco pacote 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Energético Blade Vários Sabores Pet com 2L",
+   "b": "Energético Blade vários sabores Pet 2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cachaça Matuta Mel e Limão Garrafa com 1L",
+   "b": "Cachaça Matuta Mel e Limão garrafa 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Margarina Medalha de Ouro Balde com 3kg",
+   "b": "Margarina Medalha de Ouro balde 3kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha Láctea Maratá Pacote com 180g",
+   "b": "Farinha Láctea Maratá pacote 180g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Bisteca de Contrafilé Reserva Resfriada",
+   "b": "Carne Bovina Bisteca de Contrafilé Reserva Resfriada (Friboi)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Andorinha Extra Virgem 500ml",
+   "b": "Azeite de Oliva Andorinha Extra Virgem vidro 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Chambaril Dianteiro Reserva Resfriada",
+   "b": "Carne Bovina Chambaril Dianteiro Reserva Resfriada (Friboi)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Refri Indaiá Mini Sabores Pet 250ml",
+   "b": "Refrigerante Refri Indaiá Mini vários sabores Pet 250ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante para Roupas Concentrado Downy Várias fragrâncias Frasco com 1,5L",
+   "b": "Amaciante de Roupas Concentrado Downy várias fragrâncias frasco 1,5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém sem Osso Reserva Resfriada (Friboi Reserva)",
+   "b": "Carne Bovina Acém sem Osso Reserva Resfriada (Friboi)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém sem Osso Reserva Resfriada",
+   "b": "Carne Bovina Acém sem Osso Reserva Resfriada (Friboi)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas em Pó Ala Vários tipos Pacote com 400g",
+   "b": "Lava Roupas em Pó Sonho Vários tipos Pacote com 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Manteiga Itacolomy Resfriada com Sal Pote 500g",
+   "b": "Manteiga Itambé Resfriada com sal pote 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Coxão Mole Reserva Resfriada",
+   "b": "Carne Bovina Coxão Mole Reserva Resfriada (Friboi)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Noturno Always Seca com Abas Pacote 32 unidades",
+   "b": "Absorvente Noturno Always Seca/Suave com Abas pacote 48 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Vinho Chileno Chilano Uvas 750ml",
+   "b": "Vinho Chileno Chilano 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Niely Shampoo+Condicionador Vários tipos",
+   "b": "Kit Pantene Shampoo + Condicionador vários tipos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Macarrão Instantâneo Nissin Cup Noodles Vários tipos Copo com 69g",
+   "b": "Macarrão Instantâneo Nissin Cup Noodles vários sabores copo 69g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Morango Congelado Sophara 1kg",
+   "b": "Morango Cong Sophara 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Cremoso Clan Tradicional/Light 200g",
+   "b": "Requeijão Cremoso Danone Tradicional ou Light 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Mussarela Peça / Pedaço KG",
+   "b": "Queijo Mussarela Peça ou Pedaço",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Duro Friboi Porcionada Resfriada",
+   "b": "Carne Bovina Coxão Duro Friboi Porcionada Resfriada (kg na peça)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa e Sobrecoxa de Frango Bom Todo Bd 1kg",
+   "b": "Coxas e Sobrecoxas de Frango Bom Todo Cong. BDJ 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha Láctea Maratá SC 180G",
+   "b": "Farinha Láctea Maratá pacote 180g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme Dental ORAL-B 3D White 70g",
+   "b": "Creme Dental Oral-B 3D White pack 3x70g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Corona Extra Long Neck 330ml",
+   "b": "Cerveja Corona Extra ou Cero Long Neck 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Duro de Sol",
+   "b": "Carne Bovina Coxão Mole de Sol",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Costela Suína Cong. Bom Todo",
+   "b": "Costela Suína Congelada Bom Todo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Protetor Solar Sundown 200ml FPS50 Ganhe 80% 120ml",
+   "b": "Protetor Solar Sundown 200ml FPS50 + 120ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Dove Shampoo + Condicionador Vários tipos",
+   "b": "Kit Pantene Shampoo + Condicionador vários tipos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovo Branco Grande Granja Almeida c/ 30 (Bandeja)",
+   "b": "OVOS BRANCO GRANDE GRANJA ALMEIDA COM 30 UND",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Seda Shampoo + Condicionador Vários Tipos",
+   "b": "Kit Pantene Shampoo + Condicionador vários tipos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça de Frango Avivar",
+   "b": "Linguiça de Frango Sadia",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Requeijão Nestlé Tradicional/Light Copo 200g",
+   "b": "Requeijão Nestlé Resfriado Tradicional/Light copo 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Aurora",
+   "b": "Linguiça de Frango Seara",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Patinho Friboi Porcionada Resfriada",
+   "b": "Carne Bovina Patinho Friboi Porcionada Resfriada (kg na peça)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Budweiser Multipack 12 Unidades 350ml",
+   "b": "Cerveja Budweiser Multipack 12 latas 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit OX Shampoo + Condicionador Vários Tipos",
+   "b": "Kit Pantene Shampoo + Condicionador vários tipos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Maionese Quero SC 200g",
+   "b": "Maionese Quero pouch 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Duro Friboi Porcionada Resfriada (kg na peça)",
+   "b": "Carne Bovina Patinho Friboi Porcionada Resfriada (kg na peça)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas em Pó Absoluto Vários tipos Pacote 400g",
+   "b": "Lava Roupas em Pó Sonho Vários tipos Pacote com 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Manteiga D'Nata com Sal 500g",
+   "b": "Manteiga Davaca com Sal 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas em Pó Ala 800g Fragrâncias",
+   "b": "Lava Roupas Pó Urca 800g Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Vinagre de Álcool SADIO 500ml",
+   "b": "Vinagre de Álcool Sadio frasco 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Noturno Sym Suave com abas pacote 8 unidades",
+   "b": "Absorvente Noturno Always Seca/Suave com Abas pacote 48 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Asa de Frango Resfriada Mauricéa",
+   "b": "Meio da Asa de Frango Resfriada (Mauricéa)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Acém com Osso Reserva Resfriada",
+   "b": "Carne Bovina Acém sem Osso Reserva Resfriada (Friboi)",
+   "veredito": "diferente"
+  }
+ ]
+}

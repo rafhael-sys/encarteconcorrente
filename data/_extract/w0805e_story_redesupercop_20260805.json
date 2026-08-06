@@ -1,0 +1,34 @@
+{
+  "story_redesupercop_3957325413756435315": [
+    { "n": "Abacate Kg", "p": "3,99", "u": "kg", "x": 10, "y": 31, "w": 80, "h": 38 },
+    { "n": "Banana Prata ou Pacovan Kg", "p": "3,99", "u": "kg", "x": 2, "y": 64, "w": 93, "h": 35 }
+  ],
+  "story_redesupercop_3957325454239826661": [
+    { "n": "Batata Inglesa Kg", "p": "4,49", "u": "kg", "x": 5, "y": 31, "w": 88, "h": 38 },
+    { "n": "Cebola Branca ou Cebola Roxa Kg", "p": "5,49", "u": "kg", "x": 2, "y": 64, "w": 93, "h": 35 }
+  ],
+  "story_redesupercop_3957325495595674235": [
+    { "n": "Goma de Mandioca 1Kg", "p": "4,99", "u": "cada", "x": 5, "y": 31, "w": 88, "h": 38 },
+    { "n": "Inhame Cará Kg", "p": "4,99", "u": "kg", "x": 2, "y": 64, "w": 93, "h": 35 }
+  ],
+  "story_redesupercop_3957325532077738861": [
+    { "n": "Laranja Kg", "p": "1,99", "u": "kg", "x": 5, "y": 31, "w": 88, "h": 38 },
+    { "n": "Tangerina Kg", "p": "4,99", "u": "kg", "x": 2, "y": 64, "w": 93, "h": 35 }
+  ],
+  "story_redesupercop_3957325573374853110": [
+    { "n": "Maçã Nacional Kg", "p": "6,99", "u": "kg", "x": 5, "y": 31, "w": 88, "h": 38 },
+    { "n": "Melão Espanhol ou Japonês Kg", "p": "3,99", "u": "kg", "x": 2, "y": 64, "w": 93, "h": 35 }
+  ],
+  "story_redesupercop_3957325614286096045": [
+    { "n": "Mamão Formosa Kg", "p": "3,99", "u": "kg", "x": 5, "y": 31, "w": 88, "h": 38 },
+    { "n": "Tomate Kg", "p": "3,99", "u": "kg", "x": 2, "y": 64, "w": 93, "h": 35 }
+  ],
+  "story_redesupercop_3957325657386770758": [
+    { "n": "Uva Preta Vitória sem Sementes Seleta Bandeja 500g", "p": "5,99", "u": "cada", "x": 5, "y": 31, "w": 88, "h": 38 },
+    { "n": "Uva Verde sem Semente Seleta Bandeja 500g", "p": "9,99", "u": "cada", "x": 2, "y": 64, "w": 93, "h": 35 }
+  ],
+  "story_redesupercop_3957325704388113105": [
+    { "n": "Uva Vitória sem Semente Turma da Mônica Bandeja 250g", "p": "4,99", "u": "cada", "x": 5, "y": 31, "w": 88, "h": 38 },
+    { "n": "Uva Vitória Green Dreams Turma da Mônica 250g", "p": "6,99", "u": "cada", "x": 2, "y": 64, "w": 93, "h": 35 }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nosso_94274ceb62_p1": [
+    { "n": "Carne Bovina Costela Ponta de Agulha", "p": "21,98", "u": "kg", "x": 5, "y": 15, "w": 18, "h": 16 },
+    { "n": "Carne Bovina Capa de Filé", "p": "32,99", "u": "kg", "x": 24, "y": 15, "w": 18, "h": 16 },
+    { "n": "Frango Bom Todo com Miúdos", "p": "8,88", "u": "kg", "x": 42, "y": 13, "w": 18, "h": 18 },
+    { "n": "Linguiça Suína Aurora", "p": "16,48", "u": "kg", "x": 60, "y": 14, "w": 18, "h": 17 },
+    { "n": "Queijo Mussarela Lacglória", "p": "36,95", "u": "kg", "x": 78, "y": 15, "w": 20, "h": 16 },
+    { "n": "Tomate Cajá ou Longa Vida", "p": "3,58", "u": "kg", "x": 6, "y": 32, "w": 17, "h": 9 },
+    { "n": "Alho Agranel", "p": "2,28", "u": "100g", "x": 23, "y": 32, "w": 17, "h": 9 },
+    { "n": "Goiaba", "p": "3,98", "u": "kg", "x": 40, "y": 32, "w": 15, "h": 9 },
+    { "n": "Maracujá", "p": "7,98", "u": "kg", "x": 55, "y": 32, "w": 15, "h": 9 },
+    { "n": "Ovos Vermelhos Grande ou Extra Bandeja com 30", "p": "16,98", "u": "bandeja 30un", "x": 70, "y": 32, "w": 28, "h": 9 },
+    { "n": "Creme de Leite Betânia 200g", "p": "1,99", "u": "cada", "x": 5, "y": 43, "w": 15, "h": 20 },
+    { "n": "Leite UHT Betânia 1L", "p": "5,68", "u": "cada", "x": 20, "y": 43, "w": 13, "h": 20 },
+    { "n": "Café Santa Clara 250g Classic ou Premium", "p": "12,88", "u": "cada", "x": 33, "y": 43, "w": 15, "h": 20 },
+    { "n": "Margarina Deline 3kg", "p": "25,48", "u": "cada", "x": 48, "y": 43, "w": 17, "h": 20 },
+    { "n": "Heineken Long Neck 330ml", "p": "5,98", "u": "cada", "x": 65, "y": 43, "w": 15, "h": 20 },
+    { "n": "Refrigerante Indaiá 2L", "p": "3,98", "u": "cada", "x": 80, "y": 43, "w": 18, "h": 20 }
+  ]
+}
