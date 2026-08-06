@@ -2219,3 +2219,64 @@
 - MESMO: «Vinho Chileno Chilano Uvas 750ml» == «Vinho Chileno Chilano 750ml»
 - MESMO: «Whisky Johnnie Walker Red Label Garrafa com 1L» == «Whisky Johnnie Walker Red Label garrafa 1L»
 - MESMO: «Whisky Old Parr 12 anos 1 litro» == «Whisky Old Parr 12 Anos gfa 1 litro»
+- MESMO: «Absorvente Sempre Livre Adapt Suave com abas Pacote com 32 unidades» == «Absorvente Sempre Livre Adapt Suave com Abas pct c/32»
+- DIFERENTES: «Alface Crespa, Couve Manteiga ou Hortelã» != «Alface Crespa, Cebolinha, Couve Manteiga ou Hortelã»
+- MESMO: «Azeite Conde Extra Virgem Benalua 500ml» == «Azeite Conde Extra Virgem Benalua ou Fioz 500ml»
+- MESMO: «Azeite Conde Extra Virgem Bengala 500ml» == «Azeite Conde Extra Virgem Benalua ou Fioz 500ml»
+- DIFERENTES: «Azeite de Oliva Extra Virgem Gallo vd 500ml» != «Azeite de Oliva Extra Virgem Kristal vd 500ml»
+- MESMO: «Café em Pó Família São Braz Almofada ou a Vácuo pct 250g» == «Café em Pó Família São Braz Almofada pct 250g»
+- MESMO: «Camarão Inteiro 50/60 Congelado Cruz» == «Camarão Inteiro 50/60 Congelado Cruz kg»
+- MESMO: «Carne Suína Temp Suínos Jucurutu KG» == «Carne Suína Temperada Suínos Jucurutu Kg»
+- MESMO: «Cebola Roxa» == «Cebola Roxa kg»
+- MESMO: «Cerveja Império Ultra Lata 269ml Sem Glúten» == «Cerveja Império Ultra Lata 269ml s/Glúten»
+- MESMO: «Cerveja Michelob Ultra Lata Sleek 350ml» == «Cerveja Michelob Ultra Sleek Ita 350ml»
+- DIFERENTES: «Cerveja Puro Malte Petra Lata 350ml» != «Cerveja Puro Malte Bohemia Lata 350ml»
+- MESMO: «Coxa com Sobrecoxa c/Dorsal kg» == «Coxa e Sobrecoxa com Dorsal kg»
+- DIFERENTES: «Coxa e Sobrecoxa sem Dorsal kg» != «Coxa e Sobrecoxa com Dorsal kg»
+- DIFERENTES: «COXA SOBRECOXA S/DORSAL KG» != «Coxa e Sobrecoxa com Dorsal kg»
+- MESMO: «Coxa/Sobrecoxa com Dorsal» == «Coxa e Sobrecoxa com Dorsal kg»
+- MESMO: «Coxinha Asa Bom Todo kg Resfriada» == «Coxinha da Asa Bom Todo kg Resfriada»
+- MESMO: «Filé de Peito de Frango Aurora Congelado Bandeja com 1kg» == «Filé de Peito de Frango Aurora Congelado 1kg»
+- MESMO: «Filé de Peito de Frango Aurora congelado BDJ 1kg» == «Filé de Peito de Frango Aurora Congelado 1kg»
+- DIFERENTES: «Filé de Peito de Frango Lar Congelado Bdj 1kg» != «Filé de Peito de Frango Aurora Congelado 1kg»
+- DIFERENTES: «Filé de Peito de Frango Lar Congelado IQF 1kg» != «Filé de Peito de Frango Aurora Congelado 1kg»
+- DIFERENTES: «Filé de Peito de Frango Sadia Congelado IQF 1kg» != «Filé de Peito de Frango Aurora Congelado 1kg»
+- DIFERENTES: «Filé de Peito de Frango Super Frango Congelado 1kg» != «Filé de Peito de Frango Aurora Congelado 1kg»
+- DIFERENTES: «Filezinho de Frango Aurora Congelado 1kg» != «Filé de Peito de Frango Aurora Congelado 1kg»
+- MESMO: «Filé de Peito de Frango LAR 1kg» == «Filé de Peito de Frango Lar BDJ 1kg»
+- DIFERENTES: «Filé de Peito de Frango Levo Bandeja 1Kg» != «Filé de Peito de Frango Lar BDJ 1kg»
+- DIFERENTES: «Filé de Peito de Frango Sadia 1kg» != «Filé de Peito de Frango Lar BDJ 1kg»
+- MESMO: «Filé de Peito de Frango Sadia Congelado IQF 1kg» == «Filé de Peito de Frango Sadia Congelado pct ou bd 1kg»
+- MESMO: «Filé de Peito de Frango Zip Sadia Congelado Pacote 1kg» == «Filé de Peito de Frango Sadia Congelado pct ou bd 1kg»
+- DIFERENTES: «Filezinho Sassami de Frango Seara Congelado Bandeja 1kg» != «Filezinho de Frango Lar Congelado Bandeja 1kg»
+- MESMO: «Frango a Passarinho Bom Todo Temp. IQF 1kg» == «Frango a Passarinho BomTodo Temperado IQF 1kg»
+- MESMO: «Frango a Passarinho Bom Todo Temperado pct 1kg» == «Frango a Passarinho BomTodo Temperado IQF 1kg»
+- DIFERENTES: «Frango a Passarinho Sadia Congelado pct 1kg» != «Frango à Passarinho Lar IQF Congelado pacote 1kg»
+- MESMO: «Frango Bom Todo com Miúdos com KG» == «Frango Bom Todo com Miúdos»
+- MESMO: «Lava Roupas Líquido +eKonômico 3L» == «Lava Roupa Líquido Ekonomico 3L»
+- DIFERENTES: «Limpador Multiuso Uau» != «Limpador Multiuso Veja»
+- MESMO: «Linguiça Calabresa Jucurutu kg» == «Linguiça Calabresa Suínos Jucurutu Kg»
+- MESMO: «Linguiça de Frango ou Churrasco Aurora KG» == «Linguiça de Frango ou para Churrasco Aurora»
+- MESMO: «Linguiça de Frango ou Churrasco Aurora KG» == «Linguiça de Frango ou Suína Churrasco Aurora kg»
+- MESMO: «Linguiça de Frango ou Suína Churrasco Aurora kg» == «Linguiça de Frango ou para Churrasco Aurora»
+- DIFERENTES: «Linguiça de Frango Sadia ou para Churrasco Aurora» != «Linguiça de Frango ou para Churrasco Aurora»
+- MESMO: «Linguiça Suína Aurora kg» == «Linguiça Suína Aurora»
+- DIFERENTES: «Macarrão de Sêmola Fortaleza Ninho pct 400g» != «Macarrão de Sêmola Vitarella Ninho pct 400g»
+- DIFERENTES: «Odorizador Aerossol Glade 360ml Fragrâncias» != «Odorizador Aerosol Bom Ar 360ml Fragrâncias»
+- MESMO: «Ovo Branco Avine Extra c/ 20 und» == «Ovo Branco Avine Extra com 20»
+- MESMO: «Ovo Branco Grande Enavis Bandeja C/30» == «Ovos Brancos Grandes Enavis Bandeja 30und»
+- MESMO: «OVOS BRANCOS GRANDES ENAVIS BDJ C/30» == «Ovos Brancos Grandes Enavis Bandeja 30und»
+- MESMO: «Ovos Filadélfia Grande Branco com 30 Und» == «Ovos Filadélfia São José Grandes Brancos com 30 Und»
+- MESMO: «Ovos Filadélfia ou São José Grandes Brancos com 30 Und» == «Ovos Filadélfia São José Grandes Brancos com 30 Und»
+- MESMO: «Ovos Vermelhos Grandes ou Extras Bandeja com 30» == «Ovos Vermelhos Grande ou Extra Bandeja com 30»
+- DIFERENTES: «Peito de Frango com Osso Congelado Mauricéa» != «Peito de Frango com Osso Resfriado (Mauricéa)»
+- MESMO: «Peito de Frango com Osso Resfriado» == «Peito de Frango com Osso Resfriado (Mauricéa)»
+- MESMO: «Refrigerante Guaraná Antarctica pack c/2 tb 1 litro» == «Refrigerante Guaraná Antarctica Pack c/2x tb 1 litro»
+- DIFERENTES: «Refrigerante Guaraná Antarctica tb 1 litro» != «Refrigerante Guaraná Antarctica Pack c/2x tb 1 litro»
+- MESMO: «Requeijão Cremoso Clan 400g Light/Tradicional» == «Requeijão Cremoso Clan 400g Ligth/Trad.»
+- DIFERENTES: «Sabonete Francis Várias Fragrâncias Unidade 80g» != «Sabonete Bulnez várias fragrâncias unidade 80g»
+- MESMO: «Salg Pippo's Pct 30g Queijo» == «Salgadinho Pippos Pct 30g Queijo»
+- DIFERENTES: «Salsicha Hot-Dog Sadia» != «Salsicha Hot Dog Rara»
+- DIFERENTES: «Uva Verde Marcelo Frazão Band 500g» != «Uva Vitória Marcelo Frazão Band 500g»
+- DIFERENTES: «Uva Verde Sem Semente Seleta Bandeja 500g» != «Uva Verde sem Semente Seleção Mimo Bandeja 500g»
+- MESMO: «Uva Vitória Marcelo Frzao Band 500g» == «Uva Vitória Marcelo Frazão Band 500g»

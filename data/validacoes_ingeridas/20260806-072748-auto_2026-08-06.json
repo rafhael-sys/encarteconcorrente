@@ -1,0 +1,309 @@
+{
+ "validacoes": [
+  {
+   "a": "Refrigerante Guaraná Antarctica pack c/2 tb 1 litro",
+   "b": "Refrigerante Guaraná Antarctica Pack c/2x tb 1 litro",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Vitória Marcelo Frzao Band 500g",
+   "b": "Uva Vitória Marcelo Frazão Band 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido +eKonômico 3L",
+   "b": "Lava Roupa Líquido Ekonomico 3L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Vermelhos Grandes ou Extras Bandeja com 30",
+   "b": "Ovos Vermelhos Grande ou Extra Bandeja com 30",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Império Ultra Lata 269ml Sem Glúten",
+   "b": "Cerveja Império Ultra Lata 269ml s/Glúten",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Filadélfia ou São José Grandes Brancos com 30 Und",
+   "b": "Ovos Filadélfia São José Grandes Brancos com 30 Und",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Camarão Inteiro 50/60 Congelado Cruz",
+   "b": "Camarão Inteiro 50/60 Congelado Cruz kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha Asa Bom Todo kg Resfriada",
+   "b": "Coxinha da Asa Bom Todo kg Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+   "b": "Filé de Peito de Frango Aurora Congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango LAR 1kg",
+   "b": "Filé de Peito de Frango Lar BDJ 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Sadia ou para Churrasco Aurora",
+   "b": "Linguiça de Frango ou para Churrasco Aurora",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Suína Temp Suínos Jucurutu KG",
+   "b": "Carne Suína Temperada Suínos Jucurutu Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Suína Aurora kg",
+   "b": "Linguiça Suína Aurora",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa e Sobrecoxa sem Dorsal kg",
+   "b": "Coxa e Sobrecoxa com Dorsal kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça de Frango ou Churrasco Aurora KG",
+   "b": "Linguiça de Frango ou Suína Churrasco Aurora kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango a Passarinho Bom Todo Temperado pct 1kg",
+   "b": "Frango a Passarinho BomTodo Temperado IQF 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango a Passarinho Bom Todo Temp. IQF 1kg",
+   "b": "Frango a Passarinho BomTodo Temperado IQF 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Verde Sem Semente Seleta Bandeja 500g",
+   "b": "Uva Verde sem Semente Seleção Mimo Bandeja 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa/Sobrecoxa com Dorsal",
+   "b": "Coxa e Sobrecoxa com Dorsal kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem Gallo vd 500ml",
+   "b": "Azeite de Oliva Extra Virgem Kristal vd 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite Conde Extra Virgem Benalua 500ml",
+   "b": "Azeite Conde Extra Virgem Benalua ou Fioz 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango ou Churrasco Aurora KG",
+   "b": "Linguiça de Frango ou para Churrasco Aurora",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Branco Avine Extra c/ 20 und",
+   "b": "Ovo Branco Avine Extra com 20",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa c/Dorsal kg",
+   "b": "Coxa e Sobrecoxa com Dorsal kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Lar Congelado Bdj 1kg",
+   "b": "Filé de Peito de Frango Aurora Congelado 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Lar Congelado IQF 1kg",
+   "b": "Filé de Peito de Frango Aurora Congelado 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovo Branco Grande Enavis Bandeja C/30",
+   "b": "Ovos Brancos Grandes Enavis Bandeja 30und",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Calabresa Jucurutu kg",
+   "b": "Linguiça Calabresa Suínos Jucurutu Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica tb 1 litro",
+   "b": "Refrigerante Guaraná Antarctica Pack c/2x tb 1 litro",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Super Frango Congelado 1kg",
+   "b": "Filé de Peito de Frango Aurora Congelado 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "COXA SOBRECOXA S/DORSAL KG",
+   "b": "Coxa e Sobrecoxa com Dorsal kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café em Pó Família São Braz Almofada ou a Vácuo pct 250g",
+   "b": "Café em Pó Família São Braz Almofada pct 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango ou Suína Churrasco Aurora kg",
+   "b": "Linguiça de Frango ou para Churrasco Aurora",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Puro Malte Petra Lata 350ml",
+   "b": "Cerveja Puro Malte Bohemia Lata 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva Verde Marcelo Frazão Band 500g",
+   "b": "Uva Vitória Marcelo Frazão Band 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite Conde Extra Virgem Bengala 500ml",
+   "b": "Azeite Conde Extra Virgem Benalua ou Fioz 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango com Osso Congelado Mauricéa",
+   "b": "Peito de Frango com Osso Resfriado (Mauricéa)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Limpador Multiuso Uau",
+   "b": "Limpador Multiuso Veja",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Salsicha Hot-Dog Sadia",
+   "b": "Salsicha Hot Dog Rara",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Odorizador Aerossol Glade 360ml Fragrâncias",
+   "b": "Odorizador Aerosol Bom Ar 360ml Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Macarrão de Sêmola Fortaleza Ninho pct 400g",
+   "b": "Macarrão de Sêmola Vitarella Ninho pct 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Michelob Ultra Lata Sleek 350ml",
+   "b": "Cerveja Michelob Ultra Sleek Ita 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "OVOS BRANCOS GRANDES ENAVIS BDJ C/30",
+   "b": "Ovos Brancos Grandes Enavis Bandeja 30und",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango com Osso Resfriado",
+   "b": "Peito de Frango com Osso Resfriado (Mauricéa)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Adapt Suave com abas Pacote com 32 unidades",
+   "b": "Absorvente Sempre Livre Adapt Suave com Abas pct c/32",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Sadia 1kg",
+   "b": "Filé de Peito de Frango Lar BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sabonete Francis Várias Fragrâncias Unidade 80g",
+   "b": "Sabonete Bulnez várias fragrâncias unidade 80g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Salg Pippo's Pct 30g Queijo",
+   "b": "Salgadinho Pippos Pct 30g Queijo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Cremoso Clan 400g Light/Tradicional",
+   "b": "Requeijão Cremoso Clan 400g Ligth/Trad.",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango Bom Todo com Miúdos com KG",
+   "b": "Frango Bom Todo com Miúdos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Frango Aurora Congelado 1kg",
+   "b": "Filé de Peito de Frango Aurora Congelado 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Levo Bandeja 1Kg",
+   "b": "Filé de Peito de Frango Lar BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filezinho Sassami de Frango Seara Congelado Bandeja 1kg",
+   "b": "Filezinho de Frango Lar Congelado Bandeja 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cebola Roxa",
+   "b": "Cebola Roxa kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+   "b": "Filé de Peito de Frango Aurora Congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
+   "b": "Filé de Peito de Frango Sadia Congelado pct ou bd 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Filadélfia Grande Branco com 30 Und",
+   "b": "Ovos Filadélfia São José Grandes Brancos com 30 Und",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
+   "b": "Filé de Peito de Frango Aurora Congelado 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Frango a Passarinho Sadia Congelado pct 1kg",
+   "b": "Frango à Passarinho Lar IQF Congelado pacote 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Alface Crespa, Couve Manteiga ou Hortelã",
+   "b": "Alface Crespa, Cebolinha, Couve Manteiga ou Hortelã",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Zip Sadia Congelado Pacote 1kg",
+   "b": "Filé de Peito de Frango Sadia Congelado pct ou bd 1kg",
+   "veredito": "mesmo"
+  }
+ ]
+}

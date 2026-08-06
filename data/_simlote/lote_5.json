@@ -1,227 +1,236 @@
 [
  {
-  "k": "whisky old parr 12 anos 1 litro || whisky old parr 12 anos gfa 1 litro",
-  "a": "Whisky Old Parr 12 anos 1 litro",
-  "b": "Whisky Old Parr 12 Anos gfa 1 litro",
+  "k": "absorvente sempre livre adapt suave com abas pacote com 32 unidades || absorvente sempre livre adapt suave com abas pct c/32",
+  "a": "Absorvente Sempre Livre Adapt Suave com abas Pacote com 32 unidades",
+  "b": "Absorvente Sempre Livre Adapt Suave com Abas pct c/32",
   "foto_a": {
-   "imagem": "data/pages/DaliA-imB-r_p1.jpg",
-   "nome_impresso": "Whisky Old Parr 12 anos 1 litro",
+   "imagem": "data/pages/atacadao_4e474d2e42_p3.jpg",
+   "nome_impresso": "Absorvente Sempre Livre Adapt Suave com abas Pacote com 32 unidades",
    "regiao_pct": {
-    "x": 78,
-    "y": 78,
+    "x": 57,
+    "y": 12,
     "w": 16,
-    "h": 13
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DboglVNGD1V_p9.jpg",
-   "nome_impresso": "Whisky Old Parr 12 Anos gfa 1 litro",
-   "regiao_pct": {
-    "x": 78,
-    "y": 63,
-    "w": 18,
-    "h": 14
-   }
-  }
- },
- {
-  "k": "inseticida aerosol baygon tb 360ml || inseticida aerossol baygon 360ml",
-  "a": "Inseticida Aerossol Baygon 360ml",
-  "b": "Inseticida Aerosol Baygon tb 360ml",
-  "foto_a": {
-   "imagem": "data/pages/lm_selecao_p3.jpg",
-   "nome_impresso": "Inseticida Aerossol Baygon 360ml",
-   "regiao_pct": {
-    "x": 50.0,
-    "y": 68.7,
-    "w": 15.4,
-    "h": 11.0
+    "h": 20
    }
   },
   "foto_b": {
    "imagem": "data/pages/DboglVNGD1V_p11.jpg",
-   "nome_impresso": "Inseticida Aerosol Baygon tb 360ml",
+   "nome_impresso": "Absorvente Sempre Livre Adapt Suave com Abas pct c/32",
    "regiao_pct": {
-    "x": 26,
-    "y": 30,
-    "w": 17,
+    "x": 73,
+    "y": 46,
+    "w": 20,
     "h": 14
    }
-  }
+  },
+  "r": 0.883
  },
  {
-  "k": "coxa de frango interfolhada kg || coxa de frango interfolhada lar kg",
-  "a": "Coxa de Frango Interfolhada kg",
-  "b": "Coxa de Frango Interfolhada Lar KG",
+  "k": "linguica calabresa perdigao defumada pacote 400g || linguica calabresa perdigao ou sadia pct 400g",
+  "a": "Linguiça Calabresa Perdigão ou Sadia Pct 400g",
+  "b": "Linguiça Calabresa Perdigão Defumada pacote 400g",
   "foto_a": {
-   "imagem": "data/pages/DalUVkKleuL_p3.jpg",
-   "nome_impresso": "Coxa de Frango Interfolhada kg",
+   "imagem": "data/pages/DadzqY0mMeB_p8.jpg",
+   "nome_impresso": "Linguiça Calabresa Perdigão ou Sadia Pct 400g",
    "regiao_pct": {
-    "x": 60.2,
-    "y": 84.3,
-    "w": 18.5,
-    "h": 14.2
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DbouPkoCSdu_p1.jpg",
-   "nome_impresso": "Coxa de Frango Interfolhada Lar KG",
-   "regiao_pct": {
-    "x": 43,
-    "y": 28,
-    "w": 20,
-    "h": 13
-   }
-  }
- },
- {
-  "k": "cafe em capsulas santa clara/3 coracoes com 10 und sabores || cafe em capsulas santa clara/3 coracoes com 10 unidades",
-  "a": "Café em Cápsulas Santa Clara/3 Corações com 10 unidades",
-  "b": "Café em Cápsulas Santa Clara/3 Corações com 10 und Sabores",
-  "foto_a": {
-   "imagem": "data/pages/DbZPq9PDV7g_p6.jpg",
-   "nome_impresso": "Café em Cápsulas Santa Clara/3 Corações com 10 unidades",
-   "regiao_pct": {
-    "x": 8,
-    "y": 35,
-    "w": 42,
-    "h": 28
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DbotBBkAsNN_p7.jpg",
-   "nome_impresso": "Café em Cápsulas Santa Clara/3 Corações com 10 und Sabores",
-   "regiao_pct": {
-    "x": 10,
-    "y": 25,
-    "w": 38,
-    "h": 20
-   }
-  }
- },
- {
-  "k": "creme de leite italac 15% gordura 200g || creme de leite leve italac 15% gordura 200g",
-  "a": "Creme de Leite Leve ITALAC 15% Gordura 200g",
-  "b": "Creme de Leite Italac 15% Gordura 200g",
-  "foto_a": {
-   "imagem": "data/arquivo/pages/rm_copa_jun_p1.jpg",
-   "nome_impresso": "Creme de Leite Leve ITALAC 15% Gordura 200g",
-   "regiao_pct": {
-    "x": 7,
-    "y": 53,
-    "w": 12.5,
-    "h": 12.3
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p1.jpg",
-   "nome_impresso": "Creme de Leite Italac 15% Gordura 200g",
-   "regiao_pct": {
-    "x": 66,
-    "y": 63,
+    "x": 31,
+    "y": 24,
     "w": 15,
     "h": 11
    }
-  }
- },
- {
-  "k": "cerveja heineken 330ml || cerveja heineken ln 330ml",
-  "a": "Cerveja Heineken 330ml",
-  "b": "Cerveja Heineken LN 330ml",
-  "foto_a": {
-   "imagem": "data/pages/story_miramarsupermercado_3947956608831066945.jpg",
-   "nome_impresso": "Cerveja Heineken 330ml",
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_f4e37f7117_p2.jpg",
+   "nome_impresso": "Linguiça Calabresa Perdigão Defumada pacote 400g",
    "regiao_pct": {
-    "x": 66,
-    "y": 25,
+    "x": 3,
+    "y": 49,
     "w": 30,
     "h": 15
    }
   },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p2.jpg",
-   "nome_impresso": "Cerveja Heineken LN 330ml",
-   "regiao_pct": {
-    "x": 28,
-    "y": 2,
-    "w": 13,
-    "h": 15
-   }
-  }
+  "r": 0.882
  },
  {
-  "k": "presunto de peru sadia || presunto de peru sadia kg",
-  "a": "Presunto de Peru Sadia kg",
-  "b": "Presunto de Peru Sadia",
+  "k": "file de peito de frango lar bdj 1kg || file de peito de frango sadia 1kg",
+  "a": "Filé de Peito de Frango Sadia 1kg",
+  "b": "Filé de Peito de Frango Lar BDJ 1kg",
   "foto_a": {
-   "imagem": "data/pages/Dav8JLDj6UF_p2.jpg",
-   "nome_impresso": "Presunto de Peru Sadia kg",
+   "imagem": "data/pages/story_miramarsupermercado_3951837420149322406.jpg",
+   "nome_impresso": "Filé de Peito de Frango Sadia 1kg",
    "regiao_pct": {
-    "x": 5,
-    "y": 13,
-    "w": 28,
+    "x": 66,
+    "y": 20,
+    "w": 32,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbq_ROTGBRm_p2.jpg",
+   "nome_impresso": "Filé de Peito de Frango Lar BDJ 1kg",
+   "regiao_pct": {
+    "x": 42,
+    "y": 61,
+    "w": 13,
+    "h": 11
+   }
+  },
+  "r": 0.882
+ },
+ {
+  "k": "sabonete bulnez varias fragrancias unidade 80g || sabonete francis varias fragrancias unidade 80g",
+  "a": "Sabonete Francis Várias Fragrâncias Unidade 80g",
+  "b": "Sabonete Bulnez várias fragrâncias unidade 80g",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_f55407ece3_p4.jpg",
+   "nome_impresso": "Sabonete Francis Várias Fragrâncias Unidade 80g",
+   "regiao_pct": {
+    "x": 61.3,
+    "y": 23.5,
+    "w": 18.6,
+    "h": 11.0
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_f4e37f7117_p4.jpg",
+   "nome_impresso": "Sabonete Bulnez várias fragrâncias unidade 80g",
+   "regiao_pct": {
+    "x": 79,
+    "y": 83,
+    "w": 18,
+    "h": 14
+   }
+  },
+  "r": 0.882
+ },
+ {
+  "k": "salg pippo's pct 30g queijo || salgadinho pippos pct 30g queijo",
+  "a": "Salg Pippo's Pct 30g Queijo",
+  "b": "Salgadinho Pippos Pct 30g Queijo",
+  "foto_a": {
+   "imagem": "data/pages/Da1IPYek3Le_p3.jpg",
+   "nome_impresso": "Salg Pippo's Pct 30g Queijo",
+   "regiao_pct": {
+    "x": 75,
+    "y": 24,
+    "w": 9,
+    "h": 15
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbq-8_tmFbL_p3.jpg",
+   "nome_impresso": "Salgadinho Pippos Pct 30g Queijo",
+   "regiao_pct": {
+    "x": 83,
+    "y": 22,
+    "w": 16,
+    "h": 11
+   }
+  },
+  "r": 0.881
+ },
+ {
+  "k": "peito de frango envelopado || peito de frango lar envelopado kg",
+  "a": "Peito de Frango Envelopado",
+  "b": "Peito de Frango Lar Envelopado kg",
+  "foto_a": {
+   "imagem": "data/pages/DadycEMvbyc_p1.jpg",
+   "nome_impresso": "Peito de Frango Envelopado",
+   "regiao_pct": {
+    "x": 9,
+    "y": 28,
+    "w": 26,
+    "h": 33
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbouNqxidfB_p1.jpg",
+   "nome_impresso": "Peito de Frango Lar Envelopado kg",
+   "regiao_pct": {
+    "x": 41,
+    "y": 28,
+    "w": 18,
+    "h": 22
+   }
+  },
+  "r": 0.881
+ },
+ {
+  "k": "requeijao cremoso clan 400g light/tradicional || requeijao cremoso clan 400g ligth/trad.",
+  "a": "Requeijão Cremoso Clan 400g Light/Tradicional",
+  "b": "Requeijão Cremoso Clan 400g Ligth/Trad.",
+  "foto_a": {
+   "imagem": "data/pages/DaynPN2GiHY_p2.jpg",
+   "nome_impresso": "Requeijão Cremoso Clan 400g Light/Tradicional",
+   "regiao_pct": {
+    "x": 64,
+    "y": 54,
+    "w": 30,
     "h": 22
    }
   },
   "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p2.jpg",
-   "nome_impresso": "Presunto de Peru Sadia",
+   "imagem": "data/pages/DbotBBkAsNN_p8.jpg",
+   "nome_impresso": "Requeijão Cremoso Clan 400g Ligth/Trad.",
    "regiao_pct": {
-    "x": 39,
-    "y": 61,
-    "w": 18,
-    "h": 12
-   }
-  }
- },
- {
-  "k": "file de peito de frango aurora cong. bdj 1kg || file de peito de frango aurora congelado bdj 1kg",
-  "a": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
-  "b": "Filé de Peito de Frango Aurora Cong. BDJ 1kg",
-  "foto_a": {
-   "imagem": "data/pages/DaoVKYhn27T_p5.jpg",
-   "nome_impresso": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
-   "regiao_pct": {
-    "x": 6,
-    "y": 28,
-    "w": 78,
-    "h": 62
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DbotBBkAsNN_p2.jpg",
-   "nome_impresso": "Filé de Peito de Frango Aurora Cong. BDJ 1kg",
-   "regiao_pct": {
-    "x": 18,
-    "y": 22,
-    "w": 30,
+    "x": 10,
+    "y": 62,
+    "w": 38,
     "h": 20
    }
-  }
+  },
+  "r": 0.881
  },
  {
-  "k": "faqueiro union home 16 pecas || faqueiro union home com 16 pecas",
-  "a": "Faqueiro Union Home 16 Peças",
-  "b": "Faqueiro Union Home com 16 Peças",
+  "k": "frango bom todo com miudos || frango bom todo com miudos com kg",
+  "a": "Frango Bom Todo com Miúdos com KG",
+  "b": "Frango Bom Todo com Miúdos",
   "foto_a": {
-   "imagem": "data/pages/Dboha-IjymB_p1.jpg",
-   "nome_impresso": "Faqueiro Union Home 16 Peças",
+   "imagem": "data/pages/Dai5Aw-GzCL_p2.jpg",
+   "nome_impresso": "Frango Bom Todo com Miúdos com KG",
    "regiao_pct": {
-    "x": 8,
-    "y": 61,
-    "w": 27,
-    "h": 15
+    "x": 17.6,
+    "y": 66.4,
+    "w": 9.4,
+    "h": 8.6
    }
   },
   "foto_b": {
-   "imagem": "data/pages/DbohkQXINE5_p1.jpg",
-   "nome_impresso": "Faqueiro Union Home com 16 Peças",
+   "imagem": "data/pages/nosso_94274ceb62_p1.jpg",
+   "nome_impresso": "Frango Bom Todo com Miúdos",
    "regiao_pct": {
-    "x": 9,
-    "y": 58,
-    "w": 28,
-    "h": 14
+    "x": 42,
+    "y": 13,
+    "w": 18,
+    "h": 18
    }
-  }
+  },
+  "r": 0.881
+ },
+ {
+  "k": "file de peito de frango aurora congelado 1kg || filezinho de frango aurora congelado 1kg",
+  "a": "Filezinho de Frango Aurora Congelado 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado 1kg",
+  "foto_a": {
+   "imagem": "data/pages/story_marvermelhoatacado_3941932452780429378.jpg",
+   "nome_impresso": "Filezinho de Frango Aurora Congelado 1kg",
+   "regiao_pct": {
+    "x": 2,
+    "y": 15,
+    "w": 96,
+    "h": 75
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_cortefacil.atacarejo_3957153842583612912.jpg",
+   "nome_impresso": "Filé de Peito de Frango Aurora Congelado 1kg",
+   "regiao_pct": {
+    "x": 19,
+    "y": 27,
+    "w": 57,
+    "h": 58
+   }
+  },
+  "r": 0.881
  }
 ]

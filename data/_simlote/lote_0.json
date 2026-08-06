@@ -1,0 +1,236 @@
+[
+ {
+  "k": "refrigerante guarana antarctica pack c/2 tb 1 litro || refrigerante guarana antarctica pack c/2x tb 1 litro",
+  "a": "Refrigerante Guaraná Antarctica pack c/2 tb 1 litro",
+  "b": "Refrigerante Guaraná Antarctica Pack c/2x tb 1 litro",
+  "foto_a": {
+   "imagem": "data/pages/DbZEmcnkcKw_p1.jpg",
+   "nome_impresso": "Refrigerante Guaraná Antarctica pack c/2 tb 1 litro",
+   "regiao_pct": {
+    "x": 20,
+    "y": 82,
+    "w": 20,
+    "h": 18
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbrG7t9gTaC_p2.jpg",
+   "nome_impresso": "Refrigerante Guaraná Antarctica Pack c/2x tb 1 litro",
+   "regiao_pct": {
+    "x": 51,
+    "y": 40,
+    "w": 22,
+    "h": 15
+   }
+  },
+  "r": 0.99
+ },
+ {
+  "k": "uva vitoria marcelo frazao band 500g || uva vitoria marcelo frzao band 500g",
+  "a": "Uva Vitória Marcelo Frzao Band 500g",
+  "b": "Uva Vitória Marcelo Frazão Band 500g",
+  "foto_a": {
+   "imagem": "data/pages/Da1IbCLG78L_p2.jpg",
+   "nome_impresso": "Uva Vitória Marcelo Frzao Band 500g",
+   "regiao_pct": {
+    "x": 48,
+    "y": 47,
+    "w": 7,
+    "h": 9
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbq_ROTGBRm_p2.jpg",
+   "nome_impresso": "Uva Vitória Marcelo Frazão Band 500g",
+   "regiao_pct": {
+    "x": 26,
+    "y": 29,
+    "w": 9,
+    "h": 14
+   }
+  },
+  "r": 0.986
+ },
+ {
+  "k": "lava roupa liquido ekonomico 3l || lava roupas liquido +ekonomico 3l",
+  "a": "Lava Roupas Líquido +eKonômico 3L",
+  "b": "Lava Roupa Líquido Ekonomico 3L",
+  "foto_a": {
+   "imagem": "data/pages/DbjcA11jxwm_p1.jpg",
+   "nome_impresso": "Lava Roupas Líquido +eKonômico 3L",
+   "regiao_pct": {
+    "x": 34,
+    "y": 33,
+    "w": 18,
+    "h": 15
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbqId89FXwv_p3.jpg",
+   "nome_impresso": "Lava Roupa Líquido Ekonomico 3L",
+   "regiao_pct": {
+    "x": 17,
+    "y": 61,
+    "w": 49,
+    "h": 39
+   }
+  },
+  "r": 0.984
+ },
+ {
+  "k": "ovos vermelhos grande ou extra bandeja com 30 || ovos vermelhos grandes ou extras bandeja com 30",
+  "a": "Ovos Vermelhos Grandes ou Extras Bandeja com 30",
+  "b": "Ovos Vermelhos Grande ou Extra Bandeja com 30",
+  "foto_a": {
+   "imagem": "data/pages/nosso_c7ec707a19_p1.jpg",
+   "nome_impresso": "Ovos Vermelhos Grandes ou Extras Bandeja com 30",
+   "regiao_pct": {
+    "x": 80,
+    "y": 78,
+    "w": 17,
+    "h": 10
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/nosso_94274ceb62_p1.jpg",
+   "nome_impresso": "Ovos Vermelhos Grande ou Extra Bandeja com 30",
+   "regiao_pct": {
+    "x": 70,
+    "y": 32,
+    "w": 28,
+    "h": 9
+   }
+  },
+  "r": 0.978
+ },
+ {
+  "k": "cerveja imperio ultra lata 269ml s/gluten || cerveja imperio ultra lata 269ml sem gluten",
+  "a": "Cerveja Império Ultra Lata 269ml Sem Glúten",
+  "b": "Cerveja Império Ultra Lata 269ml s/Glúten",
+  "foto_a": {
+   "imagem": "data/pages/DatZqHLDwzo_p3.jpg",
+   "nome_impresso": "Cerveja Império Ultra Lata 269ml Sem Glúten",
+   "regiao_pct": {
+    "x": 27,
+    "y": 40,
+    "w": 9,
+    "h": 8
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbq-8_tmFbL_p3.jpg",
+   "nome_impresso": "Cerveja Império Ultra Lata 269ml s/Glúten",
+   "regiao_pct": {
+    "x": 36,
+    "y": 63,
+    "w": 12,
+    "h": 13
+   }
+  },
+  "r": 0.976
+ },
+ {
+  "k": "ovos filadelfia ou sao jose grandes brancos com 30 und || ovos filadelfia sao jose grandes brancos com 30 und",
+  "a": "Ovos Filadélfia ou São José Grandes Brancos com 30 Und",
+  "b": "Ovos Filadélfia São José Grandes Brancos com 30 Und",
+  "foto_a": {
+   "imagem": "data/pages/DbY90YsoIlp_p2.jpg",
+   "nome_impresso": "Ovos Filadélfia ou São José Grandes Brancos com 30 Und",
+   "regiao_pct": {
+    "x": 92,
+    "y": 34,
+    "w": 8,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbq_ROTGBRm_p2.jpg",
+   "nome_impresso": "Ovos Filadélfia São José Grandes Brancos com 30 Und",
+   "regiao_pct": {
+    "x": 88,
+    "y": 44,
+    "w": 11,
+    "h": 14
+   }
+  },
+  "r": 0.971
+ },
+ {
+  "k": "camarao inteiro 50/60 congelado cruz || camarao inteiro 50/60 congelado cruz kg",
+  "a": "Camarão Inteiro 50/60 Congelado Cruz",
+  "b": "Camarão Inteiro 50/60 Congelado Cruz kg",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/qz_ofertaco_p2.jpg",
+   "nome_impresso": "Camarão Inteiro 50/60 Congelado Cruz",
+   "regiao_pct": {
+    "x": 71,
+    "y": 58.5,
+    "w": 10.2,
+    "h": 10.4
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbq_ROTGBRm_p2.jpg",
+   "nome_impresso": "Camarão Inteiro 50/60 Congelado Cruz kg",
+   "regiao_pct": {
+    "x": 73,
+    "y": 6,
+    "w": 11.5,
+    "h": 16
+   }
+  },
+  "r": 0.96
+ },
+ {
+  "k": "coxinha asa bom todo kg resfriada || coxinha da asa bom todo kg resfriada",
+  "a": "Coxinha Asa Bom Todo kg Resfriada",
+  "b": "Coxinha da Asa Bom Todo kg Resfriada",
+  "foto_a": {
+   "imagem": "data/pages/DatZqHLDwzo_p2.jpg",
+   "nome_impresso": "Coxinha Asa Bom Todo kg Resfriada",
+   "regiao_pct": {
+    "x": 42,
+    "y": 94,
+    "w": 11,
+    "h": 6
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbq-8_tmFbL_p2.jpg",
+   "nome_impresso": "Coxinha da Asa Bom Todo kg Resfriada",
+   "regiao_pct": {
+    "x": 86,
+    "y": 58,
+    "w": 13,
+    "h": 12
+   }
+  },
+  "r": 0.957
+ },
+ {
+  "k": "file de peito de frango aurora congelado 1kg || file de peito de frango aurora congelado bdj 1kg",
+  "a": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado 1kg",
+  "foto_a": {
+   "imagem": "data/pages/DaoVKYhn27T_p5.jpg",
+   "nome_impresso": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+   "regiao_pct": {
+    "x": 6,
+    "y": 28,
+    "w": 78,
+    "h": 62
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_cortefacil.atacarejo_3957153842583612912.jpg",
+   "nome_impresso": "Filé de Peito de Frango Aurora Congelado 1kg",
+   "regiao_pct": {
+    "x": 19,
+    "y": 27,
+    "w": 57,
+    "h": 58
+   }
+  },
+  "r": 0.957
+ }
+]

@@ -1,227 +1,236 @@
 [
  {
-  "k": "mistura p/ bolo italac 400g sabores || mistura para bolo italac 400g sabores",
-  "a": "Mistura para Bolo ITALAC 400g Sabores",
-  "b": "Mistura p/ Bolo Italac 400g Sabores",
+  "k": "linguica calabresa jucurutu kg || linguica calabresa suinos jucurutu kg",
+  "a": "Linguiça Calabresa Jucurutu kg",
+  "b": "Linguiça Calabresa Suínos Jucurutu Kg",
   "foto_a": {
-   "imagem": "data/pages/DalvyHMjuE0_p2.jpg",
-   "nome_impresso": "Mistura para Bolo ITALAC 400g Sabores",
+   "imagem": "data/pages/DbouNqxidfB_p3.jpg",
+   "nome_impresso": "Linguiça Calabresa Jucurutu kg",
    "regiao_pct": {
-    "x": 4,
-    "y": 51,
-    "w": 17,
-    "h": 14
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p3.jpg",
-   "nome_impresso": "Mistura p/ Bolo Italac 400g Sabores",
-   "regiao_pct": {
-    "x": 2,
-    "y": 62,
-    "w": 17,
-    "h": 11
-   }
-  }
- },
- {
-  "k": "carne bovina coxao duro resfriado || carne bovina coxao duro resfriado kg",
-  "a": "Carne Bovina Coxão Duro Resfriado Kg",
-  "b": "Carne Bovina Coxão Duro Resfriado",
-  "foto_a": {
-   "imagem": "data/pages/DbeX14yE7Pt_p2.jpg",
-   "nome_impresso": "Carne Bovina Coxão Duro Resfriado Kg",
-   "regiao_pct": {
-    "x": 8,
-    "y": 27,
-    "w": 17,
-    "h": 35
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p2.jpg",
-   "nome_impresso": "Carne Bovina Coxão Duro Resfriado",
-   "regiao_pct": {
-    "x": 2,
-    "y": 40,
-    "w": 19,
-    "h": 13
-   }
-  }
- },
- {
-  "k": "agua mineral ster bom sem gas 510ml || agua mineral sterbom s/ gas 510ml",
-  "a": "Água Mineral Ster Bom sem Gás 510ml",
-  "b": "Água Mineral Sterbom S/ Gás 510ml",
-  "foto_a": {
-   "imagem": "data/pages/Dad02bqBwn8_p1.jpg",
-   "nome_impresso": "Água Mineral Ster Bom sem Gás 510ml",
-   "regiao_pct": {
-    "x": 23,
-    "y": 54,
-    "w": 17,
-    "h": 13
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p2.jpg",
-   "nome_impresso": "Água Mineral Sterbom S/ Gás 510ml",
-   "regiao_pct": {
-    "x": 82,
-    "y": 19,
+    "x": 57,
+    "y": 53,
     "w": 16,
-    "h": 14
-   }
-  }
- },
- {
-  "k": "queijo mussarela kg (peca ou pedaco) || queijo mussarela peca ou pedaco",
-  "a": "Queijo Mussarela Kg (peça ou pedaço)",
-  "b": "Queijo Mussarela Peça ou Pedaço",
-  "foto_a": {
-   "imagem": "data/pages/DbmF-NwFrro_p2.jpg",
-   "nome_impresso": "Queijo Mussarela Kg (peça ou pedaço)",
-   "regiao_pct": {
-    "x": 2,
-    "y": 32,
-    "w": 33,
-    "h": 18
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p1.jpg",
-   "nome_impresso": "Queijo Mussarela Peça ou Pedaço",
-   "regiao_pct": {
-    "x": 34,
-    "y": 85,
-    "w": 15,
-    "h": 14
-   }
-  }
- },
- {
-  "k": "coxa c/ sobrecoxa lar congelada || coxa c/ sobrecoxa lar congelada kg",
-  "a": "Coxa c/ Sobrecoxa Lar Congelada kg",
-  "b": "Coxa c/ Sobrecoxa Lar Congelada",
-  "foto_a": {
-   "imagem": "data/pages/DaL_0i6FvJN_p1.jpg",
-   "nome_impresso": "Coxa c/ Sobrecoxa Lar Congelada kg",
-   "regiao_pct": {
-    "x": 39.8,
-    "y": 80.6,
-    "w": 18.0,
-    "h": 12.3
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p1.jpg",
-   "nome_impresso": "Coxa c/ Sobrecoxa Lar Congelada",
-   "regiao_pct": {
-    "x": 50,
-    "y": 74,
-    "w": 15,
     "h": 11
    }
-  }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbrR0xIDhtm_p3.jpg",
+   "nome_impresso": "Linguiça Calabresa Suínos Jucurutu Kg",
+   "regiao_pct": {
+    "x": 80,
+    "y": 68,
+    "w": 17,
+    "h": 9
+   }
+  },
+  "r": 0.896
  },
  {
-  "k": "uva vitoria s/ sementes bd 500g || uva vitoria sem sementes bdj 500g",
-  "a": "Uva Vitória Sem Sementes BDJ 500g",
-  "b": "Uva Vitória s/ sementes bd 500g",
+  "k": "refrigerante guarana antarctica pack c/2x tb 1 litro || refrigerante guarana antarctica tb 1 litro",
+  "a": "Refrigerante Guaraná Antarctica tb 1 litro",
+  "b": "Refrigerante Guaraná Antarctica Pack c/2x tb 1 litro",
   "foto_a": {
-   "imagem": "data/pages/DbHOYrtmzYP_p2.jpg",
-   "nome_impresso": "Uva Vitória Sem Sementes BDJ 500g",
+   "imagem": "data/pages/Da3lKDpGCzy_p1.jpg",
+   "nome_impresso": "Refrigerante Guaraná Antarctica tb 1 litro",
    "regiao_pct": {
-    "x": 55,
-    "y": 90,
-    "w": 20,
-    "h": 10
+    "x": 4.0,
+    "y": 78.5,
+    "w": 17.0,
+    "h": 14.0
    }
   },
   "foto_b": {
-   "imagem": "data/pages/story_atacarejo_santoantonio.ofc_3956618550117977028.jpg",
-   "nome_impresso": "Uva Vitória s/ sementes bd 500g",
+   "imagem": "data/pages/DbrG7t9gTaC_p2.jpg",
+   "nome_impresso": "Refrigerante Guaraná Antarctica Pack c/2x tb 1 litro",
    "regiao_pct": {
-    "x": 52,
-    "y": 42,
-    "w": 20,
-    "h": 16
+    "x": 51,
+    "y": 40,
+    "w": 22,
+    "h": 15
    }
-  }
+  },
+  "r": 0.894
  },
  {
-  "k": "bebida lactea batclan bandeja 540g sabores || bebida lactea batclan bdj 540g sabores",
-  "a": "Bebida Láctea Batclan Bandeja 540g Sabores",
-  "b": "Bebida Láctea Batclan BDJ 540g Sabores",
+  "k": "file de peito de frango aurora congelado 1kg || file de peito de frango super frango congelado 1kg",
+  "a": "Filé de Peito de Frango Super Frango Congelado 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado 1kg",
   "foto_a": {
-   "imagem": "data/pages/DaynPN2GiHY_p2.jpg",
-   "nome_impresso": "Bebida Láctea Batclan Bandeja 540g Sabores",
+   "imagem": "data/pages/story_marvermelhoatacado_3953316936868925999.jpg",
+   "nome_impresso": "Filé de Peito de Frango Super Frango Congelado 1kg",
    "regiao_pct": {
-    "x": 37,
-    "y": 76,
-    "w": 27,
-    "h": 21
+    "x": 27,
+    "y": 70,
+    "w": 22,
+    "h": 15
    }
   },
   "foto_b": {
-   "imagem": "data/pages/DbotBBkAsNN_p8.jpg",
-   "nome_impresso": "Bebida Láctea Batclan BDJ 540g Sabores",
+   "imagem": "data/pages/story_cortefacil.atacarejo_3957153842583612912.jpg",
+   "nome_impresso": "Filé de Peito de Frango Aurora Congelado 1kg",
    "regiao_pct": {
-    "x": 10,
-    "y": 44,
-    "w": 38,
-    "h": 20
+    "x": 19,
+    "y": 27,
+    "w": 57,
+    "h": 58
    }
-  }
+  },
+  "r": 0.894
  },
  {
-  "k": "biscoito wafer prot bendu 40g sabores || biscoito wafer proteina bendu 40g sabores",
-  "a": "Biscoito Wafer Proteína Bendu 40g Sabores",
-  "b": "Biscoito Wafer Prot Bendu 40g Sabores",
+  "k": "coxa e sobrecoxa com dorsal kg || coxa sobrecoxa s/dorsal kg",
+  "a": "COXA SOBRECOXA S/DORSAL KG",
+  "b": "Coxa e Sobrecoxa com Dorsal kg",
   "foto_a": {
-   "imagem": "data/pages/story_queirozatacadaonatal__3952201234447683180.jpg",
-   "nome_impresso": "Biscoito Wafer Proteína Bendu 40g Sabores",
+   "imagem": "data/pages/story_queirozatacadaonatal__3954201445713161514.jpg",
+   "nome_impresso": "COXA SOBRECOXA S/DORSAL KG",
    "regiao_pct": {
-    "x": 78,
-    "y": 47,
-    "w": 18,
-    "h": 13
+    "x": 18,
+    "y": 33,
+    "w": 57,
+    "h": 24
    }
   },
   "foto_b": {
-   "imagem": "data/pages/story_queirozatacadaojoaocamara_3956230681630812658.jpg",
-   "nome_impresso": "Biscoito Wafer Prot Bendu 40g Sabores",
+   "imagem": "data/pages/Dbq-8_tmFbL_p2.jpg",
+   "nome_impresso": "Coxa e Sobrecoxa com Dorsal kg",
    "regiao_pct": {
-    "x": 77,
-    "y": 46,
-    "w": 21,
-    "h": 14
+    "x": 25,
+    "y": 58,
+    "w": 11.5,
+    "h": 12
    }
-  }
+  },
+  "r": 0.893
  },
  {
-  "k": "leite condensado italac 395g || leite condensado italac tp 395g",
-  "a": "Leite Condensado Italac 395g",
-  "b": "Leite Condensado Italac TP 395g",
+  "k": "cafe em po familia sao braz almofada ou a vacuo pct 250g || cafe em po familia sao braz almofada pct 250g",
+  "a": "Café em Pó Família São Braz Almofada ou a Vácuo pct 250g",
+  "b": "Café em Pó Família São Braz Almofada pct 250g",
   "foto_a": {
-   "imagem": "data/pages/DabeWAwnH9d_p1.jpg",
-   "nome_impresso": "Leite Condensado Italac 395g",
+   "imagem": "data/pages/Dai9PfWgVcN_p2.jpg",
+   "nome_impresso": "Café em Pó Família São Braz Almofada ou a Vácuo pct 250g",
    "regiao_pct": {
-    "x": 19.5,
-    "y": 74,
-    "w": 13.5,
+    "x": 59.7,
+    "y": 11.7,
+    "w": 18.1,
     "h": 12.5
    }
   },
   "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p1.jpg",
-   "nome_impresso": "Leite Condensado Italac TP 395g",
+   "imagem": "data/pages/DbrG7t9gTaC_p2.jpg",
+   "nome_impresso": "Café em Pó Família São Braz Almofada pct 250g",
    "regiao_pct": {
-    "x": 50,
-    "y": 63,
+    "x": 5,
+    "y": 25,
+    "w": 22,
+    "h": 14
+   }
+  },
+  "r": 0.891
+ },
+ {
+  "k": "hamburguer bovino maturatta 180g || hamburguer bovino maturatta costela 180g",
+  "a": "Hambúrguer Bovino Maturatta 180g",
+  "b": "Hambúrguer Bovino Maturatta Costela 180g",
+  "foto_a": {
+   "imagem": "data/pages/DbouNqxidfB_p1.jpg",
+   "nome_impresso": "Hambúrguer Bovino Maturatta 180g",
+   "regiao_pct": {
+    "x": 62,
+    "y": 41,
     "w": 15,
+    "h": 13
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbqId89FXwv_p4.jpg",
+   "nome_impresso": "Hambúrguer Bovino Maturatta Costela 180g",
+   "regiao_pct": {
+    "x": 2,
+    "y": 3,
+    "w": 62,
+    "h": 59
+   }
+  },
+  "r": 0.889
+ },
+ {
+  "k": "linguica de frango ou para churrasco aurora || linguica de frango ou suina churrasco aurora kg",
+  "a": "Linguiça de Frango ou Suína Churrasco Aurora kg",
+  "b": "Linguiça de Frango ou para Churrasco Aurora",
+  "foto_a": {
+   "imagem": "data/pages/Dbq-8_tmFbL_p2.jpg",
+   "nome_impresso": "Linguiça de Frango ou Suína Churrasco Aurora kg",
+   "regiao_pct": {
+    "x": 37,
+    "y": 58,
+    "w": 11.5,
+    "h": 12
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbrG7t9gTaC_p2.jpg",
+   "nome_impresso": "Linguiça de Frango ou para Churrasco Aurora",
+   "regiao_pct": {
+    "x": 28,
+    "y": 40,
+    "w": 22,
+    "h": 15
+   }
+  },
+  "r": 0.889
+ },
+ {
+  "k": "cerveja puro malte bohemia lata 350ml || cerveja puro malte petra lata 350ml",
+  "a": "Cerveja Puro Malte Petra Lata 350ml",
+  "b": "Cerveja Puro Malte Bohemia Lata 350ml",
+  "foto_a": {
+   "imagem": "data/pages/DabRmxqHxTB_p3.jpg",
+   "nome_impresso": "Cerveja Puro Malte Petra Lata 350ml",
+   "regiao_pct": {
+    "x": 25.2,
+    "y": 34.0,
+    "w": 9.4,
+    "h": 11.9
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbq-8_tmFbL_p3.jpg",
+   "nome_impresso": "Cerveja Puro Malte Bohemia Lata 350ml",
+   "regiao_pct": {
+    "x": 24,
+    "y": 63,
+    "w": 11,
+    "h": 13
+   }
+  },
+  "r": 0.889
+ },
+ {
+  "k": "uva verde marcelo frazao band 500g || uva vitoria marcelo frazao band 500g",
+  "a": "Uva Verde Marcelo Frazão Band 500g",
+  "b": "Uva Vitória Marcelo Frazão Band 500g",
+  "foto_a": {
+   "imagem": "data/pages/DbY90YsoIlp_p2.jpg",
+   "nome_impresso": "Uva Verde Marcelo Frazão Band 500g",
+   "regiao_pct": {
+    "x": 0,
+    "y": 34,
+    "w": 8,
     "h": 11
    }
-  }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbq_ROTGBRm_p2.jpg",
+   "nome_impresso": "Uva Vitória Marcelo Frazão Band 500g",
+   "regiao_pct": {
+    "x": 26,
+    "y": 29,
+    "w": 9,
+    "h": 14
+   }
+  },
+  "r": 0.886
  }
 ]

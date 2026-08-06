@@ -1,227 +1,54 @@
 [
  {
-  "k": "goma para tapioca felita 1kg || goma para tapioca felita chef 1kg",
-  "a": "Goma para Tapioca Felitá 1kg",
-  "b": "Goma para Tapioca Felitá Chef 1kg",
+  "k": "alface crespa, cebolinha, couve manteiga ou hortela || alface crespa, couve manteiga ou hortela",
+  "a": "Alface Crespa, Couve Manteiga ou Hortelã",
+  "b": "Alface Crespa, Cebolinha, Couve Manteiga ou Hortelã",
   "foto_a": {
-   "imagem": "data/pages/Dayg5UqD4eu_p1.jpg",
-   "nome_impresso": "Goma para Tapioca Felitá 1kg",
+   "imagem": "data/pages/DajLQkxm73t_p1.jpg",
+   "nome_impresso": "Alface Crespa, Couve Manteiga ou Hortelã",
    "regiao_pct": {
-    "x": 50,
-    "y": 47,
-    "w": 24,
-    "h": 16
+    "x": 1.9,
+    "y": 35.2,
+    "w": 22.2,
+    "h": 17.8
    }
   },
   "foto_b": {
-   "imagem": "data/pages/Dbolo7RDzd1_p1.jpg",
-   "nome_impresso": "Goma para Tapioca Felitá Chef 1kg",
-   "regiao_pct": {
-    "x": 6,
-    "y": 47,
-    "w": 20,
-    "h": 18
-   }
-  }
- },
- {
-  "k": "linguica de frango sadia || linguica de frango seara",
-  "a": "Linguiça de Frango Seara",
-  "b": "Linguiça de Frango Sadia",
-  "foto_a": {
-   "imagem": "data/pages/DblBTqfFYyN_p2.jpg",
-   "nome_impresso": "Linguiça de Frango Seara",
+   "imagem": "data/pages/DbrRhX7nyEl_p1.jpg",
+   "nome_impresso": "Alface Crespa, Cebolinha, Couve Manteiga ou Hortelã",
    "regiao_pct": {
     "x": 2,
-    "y": 74,
-    "w": 17,
-    "h": 12
+    "y": 41,
+    "w": 24,
+    "h": 15
+   }
+  },
+  "r": 0.879
+ },
+ {
+  "k": "file de peito de frango sadia congelado pct ou bd 1kg || file de peito de frango zip sadia congelado pacote 1kg",
+  "a": "Filé de Peito de Frango Zip Sadia Congelado Pacote 1kg",
+  "b": "Filé de Peito de Frango Sadia Congelado pct ou bd 1kg",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_5b4604ae3d_p1.jpg",
+   "nome_impresso": "Filé de Peito de Frango Zip Sadia Congelado Pacote 1kg",
+   "regiao_pct": {
+    "x": 27.6,
+    "y": 68.7,
+    "w": 19.2,
+    "h": 11.9
    }
   },
   "foto_b": {
    "imagem": "data/pages/DboglVNGD1V_p8.jpg",
-   "nome_impresso": "Linguiça de Frango Sadia",
+   "nome_impresso": "Filé de Peito de Frango Sadia Congelado pct ou bd 1kg",
    "regiao_pct": {
-    "x": 6,
-    "y": 46,
-    "w": 17,
+    "x": 61,
+    "y": 61,
+    "w": 16,
     "h": 13
    }
-  }
- },
- {
-  "k": "cerveja heineken 600ml || cerveja heineken gfa 600ml",
-  "a": "Cerveja Heineken 600ml",
-  "b": "Cerveja Heineken gfa 600ml",
-  "foto_a": {
-   "imagem": "data/pages/lm_selecao_p1.jpg",
-   "nome_impresso": "Cerveja Heineken 600ml",
-   "regiao_pct": {
-    "x": 59.5,
-    "y": 28.0,
-    "w": 17.8,
-    "h": 12.4
-   }
   },
-  "foto_b": {
-   "imagem": "data/pages/DboglVNGD1V_p9.jpg",
-   "nome_impresso": "Cerveja Heineken gfa 600ml",
-   "regiao_pct": {
-    "x": 78,
-    "y": 46,
-    "w": 18,
-    "h": 14
-   }
-  }
- },
- {
-  "k": "cafe soluvel santa clara 40g classico ou extra forte || cafe soluvel santa clara refil 40g (classico/extra forte)",
-  "a": "Café Solúvel Santa Clara 40g Clássico ou Extra Forte",
-  "b": "Café Solúvel Santa Clara Refil 40g (Clássico/Extra Forte)",
-  "foto_a": {
-   "imagem": "data/pages/Dag1cX2DH80_p2.jpg",
-   "nome_impresso": "Café Solúvel Santa Clara 40g Clássico ou Extra Forte",
-   "regiao_pct": {
-    "x": 38.1,
-    "y": 17.7,
-    "w": 13.4,
-    "h": 10.6
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p1.jpg",
-   "nome_impresso": "Café Solúvel Santa Clara Refil 40g (Clássico/Extra Forte)",
-   "regiao_pct": {
-    "x": 34,
-    "y": 63,
-    "w": 15,
-    "h": 11
-   }
-  }
- },
- {
-  "k": "amaciante concentrado mon bijou 500ml || amaciante roupas concentrado mon bijou 500ml",
-  "a": "Amaciante Concentrado Mon Bijou 500ml",
-  "b": "Amaciante Roupas Concentrado Mon Bijou 500ml",
-  "foto_a": {
-   "imagem": "data/pages/DbeWKyWoOFv_p2.jpg",
-   "nome_impresso": "Amaciante Concentrado Mon Bijou 500ml",
-   "regiao_pct": {
-    "x": 18,
-    "y": 69,
-    "w": 15,
-    "h": 11
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p4.jpg",
-   "nome_impresso": "Amaciante Roupas Concentrado Mon Bijou 500ml",
-   "regiao_pct": {
-    "x": 50,
-    "y": 3,
-    "w": 15,
-    "h": 11
-   }
-  }
- },
- {
-  "k": "cafe soluvel santa clara refil 40g (classico/extra forte) || cafe soluvel santa clara refil 40g extra forte",
-  "a": "Café Solúvel Santa Clara Refil 40g Extra Forte",
-  "b": "Café Solúvel Santa Clara Refil 40g (Clássico/Extra Forte)",
-  "foto_a": {
-   "imagem": "data/pages/Da_bTePGl99_p3.jpg",
-   "nome_impresso": "Café Solúvel Santa Clara Refil 40g Extra Forte",
-   "regiao_pct": {
-    "x": 81,
-    "y": 14,
-    "w": 10,
-    "h": 9
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p1.jpg",
-   "nome_impresso": "Café Solúvel Santa Clara Refil 40g (Clássico/Extra Forte)",
-   "regiao_pct": {
-    "x": 34,
-    "y": 63,
-    "w": 15,
-    "h": 11
-   }
-  }
- },
- {
-  "k": "carne bovina coxao duro resfriado || carne bovina coxao mole resfriado",
-  "a": "Carne Bovina Coxão Mole Resfriado",
-  "b": "Carne Bovina Coxão Duro Resfriado",
-  "foto_a": {
-   "imagem": "data/pages/DbZPq9PDV7g_p2.jpg",
-   "nome_impresso": "Carne Bovina Coxão Mole Resfriado",
-   "regiao_pct": {
-    "x": 36,
-    "y": 18,
-    "w": 34,
-    "h": 38
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p2.jpg",
-   "nome_impresso": "Carne Bovina Coxão Duro Resfriado",
-   "regiao_pct": {
-    "x": 2,
-    "y": 40,
-    "w": 19,
-    "h": 13
-   }
-  }
- },
- {
-  "k": "inseticida aero raid 300ml gr 150ml || inseticida aerosol raid 300ml gratis 150ml",
-  "a": "Inseticida Aero Raid 300ml GR 150ml",
-  "b": "Inseticida Aerosol Raid 300ml Grátis 150ml",
-  "foto_a": {
-   "imagem": "data/pages/DayvaLOHaco_p4.jpg",
-   "nome_impresso": "Inseticida Aero Raid 300ml GR 150ml",
-   "regiao_pct": {
-    "x": 9,
-    "y": 43,
-    "w": 15,
-    "h": 11
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DbouNqxidfB_p4.jpg",
-   "nome_impresso": "Inseticida Aerosol Raid 300ml Grátis 150ml",
-   "regiao_pct": {
-    "x": 40,
-    "y": 52,
-    "w": 15,
-    "h": 11
-   }
-  }
- },
- {
-  "k": "papel toalha scala f/d 360fls c/3 rolos || papel toalha scala folha dupla 360fls c/3 rolos",
-  "a": "Papel Toalha Scala F/D 360fls C/3 Rolos",
-  "b": "Papel Toalha Scala Folha Dupla 360fls C/3 Rolos",
-  "foto_a": {
-   "imagem": "data/pages/DblBTqfFYyN_p4.jpg",
-   "nome_impresso": "Papel Toalha Scala F/D 360fls C/3 Rolos",
-   "regiao_pct": {
-    "x": 66,
-    "y": 25,
-    "w": 15,
-    "h": 11
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBd4GFks4_p4.jpg",
-   "nome_impresso": "Papel Toalha Scala Folha Dupla 360fls C/3 Rolos",
-   "regiao_pct": {
-    "x": 65,
-    "y": 30,
-    "w": 15,
-    "h": 12
-   }
-  }
+  "r": 0.879
  }
 ]

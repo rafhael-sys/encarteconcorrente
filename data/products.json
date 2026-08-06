@@ -201007,5 +201007,342 @@
    "w": 56,
    "h": 58
   }
+ ],
+ "DbsWUARm43w_p1": [
+  {
+   "n": "Adoçante em Pó União Sucralose Sachê 400x6g",
+   "p": "34,99",
+   "u": "cada",
+   "x": 14,
+   "y": 42,
+   "w": 72,
+   "h": 52
+  }
+ ],
+ "DbsWUARm43w_p2": [
+  {
+   "n": "Sobrecoxa de Frango Sadia Congelada IQF 1kg",
+   "p": "13,69",
+   "u": "cada",
+   "x": 14,
+   "y": 33,
+   "w": 72,
+   "h": 58
+  }
+ ],
+ "DbsWUARm43w_p3": [
+  {
+   "n": "Molho de Tomate Fugini Tradicional 3 em 1 1,02kg",
+   "p": "7,89",
+   "u": "cada",
+   "x": 14,
+   "y": 30,
+   "w": 72,
+   "h": 60
+  }
+ ],
+ "DbsWUARm43w_p4": [
+  {
+   "n": "Flocão de Milho São Braz 500g",
+   "p": "1,29",
+   "u": "cada",
+   "x": 14,
+   "y": 33,
+   "w": 72,
+   "h": 58
+  }
+ ],
+ "DbsWUARm43w_p5": [
+  {
+   "n": "Suco Indaiá Citrus Laranja PET 330ml",
+   "p": "1,79",
+   "u": "cada",
+   "x": 14,
+   "y": 30,
+   "w": 72,
+   "h": 62
+  }
+ ],
+ "DbsWUARm43w_p6": [
+  {
+   "n": "Creme Dental Sorriso Kolynos 90g",
+   "p": "3,49",
+   "u": "cada",
+   "x": 14,
+   "y": 38,
+   "w": 72,
+   "h": 52
+  }
+ ],
+ "story_cortefacil.atacarejo_3957604420678375996": [
+  {
+   "n": "Tomate Extra kg",
+   "p": "3,99",
+   "u": "kg",
+   "x": 18,
+   "y": 42,
+   "w": 30,
+   "h": 8
+  },
+  {
+   "n": "Batata Inglesa kg",
+   "p": "4,79",
+   "u": "kg",
+   "x": 58,
+   "y": 42,
+   "w": 30,
+   "h": 8
+  },
+  {
+   "n": "Cebola Branca kg",
+   "p": "5,59",
+   "u": "kg",
+   "x": 18,
+   "y": 60,
+   "w": 30,
+   "h": 8
+  },
+  {
+   "n": "Banana Pacovan kg",
+   "p": "3,59",
+   "u": "kg",
+   "x": 58,
+   "y": 60,
+   "w": 30,
+   "h": 8
+  },
+  {
+   "n": "Abacate kg",
+   "p": "3,99",
+   "u": "kg",
+   "x": 18,
+   "y": 78,
+   "w": 30,
+   "h": 8
+  },
+  {
+   "n": "Goiaba kg",
+   "p": "4,79",
+   "u": "kg",
+   "x": 58,
+   "y": 78,
+   "w": 30,
+   "h": 8
+  }
+ ],
+ "story_cortefacil.atacarejo_3957604537800094046": [
+  {
+   "n": "Uva Vitória Marcelo Frazão bandeja 500g",
+   "p": "4,79",
+   "u": "cada",
+   "x": 18,
+   "y": 42,
+   "w": 30,
+   "h": 8
+  },
+  {
+   "n": "Tangerina Nacional kg",
+   "p": "4,99",
+   "u": "kg",
+   "x": 58,
+   "y": 42,
+   "w": 30,
+   "h": 8
+  },
+  {
+   "n": "Maçã Nacional kg",
+   "p": "8,99",
+   "u": "kg",
+   "x": 18,
+   "y": 60,
+   "w": 30,
+   "h": 8
+  },
+  {
+   "n": "Morango bandeja 200g",
+   "p": "9,99",
+   "u": "cada",
+   "x": 58,
+   "y": 60,
+   "w": 30,
+   "h": 8
+  },
+  {
+   "n": "Ovos Brancos Grandes Granja Almeida 30 und",
+   "p": "14,99",
+   "u": "cada",
+   "x": 18,
+   "y": 80,
+   "w": 30,
+   "h": 8
+  }
+ ],
+ "story_cortefacil.atacarejo_3957606768272607633": [
+  {
+   "n": "Carne Bovina Fralda / Coxão Mole Resfriada kg",
+   "p": "37,99",
+   "u": "kg",
+   "x": 62,
+   "y": 43,
+   "w": 24,
+   "h": 7
+  },
+  {
+   "n": "Carne Bovina Capa de Contra Filé Congelada kg",
+   "p": "34,99",
+   "u": "kg",
+   "x": 22,
+   "y": 63,
+   "w": 24,
+   "h": 6
+  },
+  {
+   "n": "Carne Bovina Cupim kg",
+   "p": "34,99",
+   "u": "kg",
+   "x": 50,
+   "y": 63,
+   "w": 24,
+   "h": 6
+  },
+  {
+   "n": "Carne Bovina Cordão do Contra Filé kg",
+   "p": "29,99",
+   "u": "kg",
+   "x": 78,
+   "y": 63,
+   "w": 22,
+   "h": 6
+  },
+  {
+   "n": "Carne Bovina Paleta com Osso kg",
+   "p": "29,99",
+   "u": "kg",
+   "x": 22,
+   "y": 80,
+   "w": 24,
+   "h": 6
+  },
+  {
+   "n": "Carne Bovina Acém com Osso kg",
+   "p": "27,99",
+   "u": "kg",
+   "x": 50,
+   "y": 80,
+   "w": 24,
+   "h": 6
+  },
+  {
+   "n": "Carne Bovina Costela do Peito kg",
+   "p": "26,99",
+   "u": "kg",
+   "x": 78,
+   "y": 80,
+   "w": 22,
+   "h": 6
+  }
+ ],
+ "story_cortefacil.atacarejo_3957606911189340679": [
+  {
+   "n": "Carne Bovina Costela P.A kg",
+   "p": "25,99",
+   "u": "kg",
+   "x": 22,
+   "y": 46,
+   "w": 24,
+   "h": 6
+  },
+  {
+   "n": "Língua Bovina Congelada kg",
+   "p": "22,99",
+   "u": "kg",
+   "x": 50,
+   "y": 46,
+   "w": 24,
+   "h": 6
+  },
+  {
+   "n": "Mocotó Bovino Serrado Congelado kg",
+   "p": "14,99",
+   "u": "kg",
+   "x": 78,
+   "y": 46,
+   "w": 22,
+   "h": 6
+  },
+  {
+   "n": "Fígado Bovino Congelado kg",
+   "p": "15,99",
+   "u": "kg",
+   "x": 22,
+   "y": 63,
+   "w": 24,
+   "h": 6
+  },
+  {
+   "n": "Coração Bovino Congelado kg",
+   "p": "14,99",
+   "u": "kg",
+   "x": 50,
+   "y": 63,
+   "w": 24,
+   "h": 6
+  },
+  {
+   "n": "Espetinho de Contra Filé / Bife Ancho Seridoense Congelado 300g",
+   "p": "19,99",
+   "u": "cada",
+   "x": 78,
+   "y": 64,
+   "w": 22,
+   "h": 6
+  },
+  {
+   "n": "Hambúrguer Artesanal Blend Seridoense Congelado 120g",
+   "p": "5,99",
+   "u": "cada",
+   "x": 22,
+   "y": 81,
+   "w": 24,
+   "h": 6
+  },
+  {
+   "n": "Hambúrguer Fraldinha Seridoense Congelado 120g",
+   "p": "7,99",
+   "u": "cada",
+   "x": 50,
+   "y": 81,
+   "w": 24,
+   "h": 6
+  },
+  {
+   "n": "Cerveja Itaipava Pilsen Lata 350ml",
+   "p": "2,59",
+   "u": "cada",
+   "x": 78,
+   "y": 81,
+   "w": 22,
+   "h": 6
+  }
+ ],
+ "story_cortefacil.atacarejo_3957607040373891544": [
+  {
+   "n": "Cerveja Puro Malte Pilsen 3.0 Lata 350ml",
+   "p": "2,79",
+   "u": "cada",
+   "x": 18,
+   "y": 47,
+   "w": 24,
+   "h": 6
+  },
+  {
+   "n": "Caixa Térmica MOR 34 Litros (cores)",
+   "p": "89,99",
+   "u": "cada",
+   "x": 18,
+   "y": 63,
+   "w": 24,
+   "h": 6
+  }
  ]
 }

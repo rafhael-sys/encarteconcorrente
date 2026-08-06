@@ -1,227 +1,236 @@
 [
  {
-  "k": "carre suino congelado || carre suino congelado kg",
-  "a": "Carré Suíno Congelado KG",
-  "b": "Carré Suíno Congelado",
+  "k": "file de peito de frango lar bdj 1kg || file de peito de frango levo bandeja 1kg",
+  "a": "Filé de Peito de Frango Levo Bandeja 1Kg",
+  "b": "Filé de Peito de Frango Lar BDJ 1kg",
   "foto_a": {
-   "imagem": "data/pages/Daly8x-gDJ1_p1.jpg",
-   "nome_impresso": "Carré Suíno Congelado KG",
+   "imagem": "data/pages/DaluZT4mE6m_p2.jpg",
+   "nome_impresso": "Filé de Peito de Frango Levo Bandeja 1Kg",
    "regiao_pct": {
-    "x": 43.5,
-    "y": 80.5,
-    "w": 19.5,
-    "h": 16.5
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p2.jpg",
-   "nome_impresso": "Carré Suíno Congelado",
-   "regiao_pct": {
-    "x": 78,
-    "y": 40,
+    "x": 36,
+    "y": 67,
     "w": 20,
-    "h": 13
-   }
-  }
- },
- {
-  "k": "beb cappuccino 3 coracoes ou santa clara gfa 260ml (sabores) || cappuccino 3 coracoes ou santa clara garrafa 260ml sabores",
-  "a": "Cappuccino 3 Corações ou Santa Clara Garrafa 260ml Sabores",
-  "b": "Beb Cappuccino 3 Corações ou Santa Clara Gfa 260ml (Sabores)",
-  "foto_a": {
-   "imagem": "data/pages/DbouNqxidfB_p2.jpg",
-   "nome_impresso": "Cappuccino 3 Corações ou Santa Clara Garrafa 260ml Sabores",
-   "regiao_pct": {
-    "x": 22,
-    "y": 50,
-    "w": 16,
-    "h": 9
+    "h": 23
    }
   },
   "foto_b": {
-   "imagem": "data/pages/DbouPkoCSdu_p2.jpg",
-   "nome_impresso": "Beb Cappuccino 3 Corações ou Santa Clara Gfa 260ml (Sabores)",
+   "imagem": "data/pages/Dbq_ROTGBRm_p2.jpg",
+   "nome_impresso": "Filé de Peito de Frango Lar BDJ 1kg",
    "regiao_pct": {
-    "x": 77,
-    "y": 28,
-    "w": 18,
+    "x": 42,
+    "y": 61,
+    "w": 13,
     "h": 11
    }
-  }
+  },
+  "r": 0.88
  },
  {
-  "k": "peixe file de tilapia lar cong. pct 700g || peixe file de tilapia lar congelado pct 700g",
-  "a": "Peixe Filé de Tilápia Lar Cong. pct 700g",
-  "b": "Peixe Filé de Tilápia Lar Congelado PCT 700g",
+  "k": "filezinho de frango lar congelado bandeja 1kg || filezinho sassami de frango seara congelado bandeja 1kg",
+  "a": "Filezinho Sassami de Frango Seara Congelado Bandeja 1kg",
+  "b": "Filezinho de Frango Lar Congelado Bandeja 1kg",
   "foto_a": {
-   "imagem": "data/pages/DbHImaImjpT_p2.jpg",
-   "nome_impresso": "Peixe Filé de Tilápia Lar Cong. pct 700g",
+   "imagem": "data/pages/DbAromFDfBy_p1.jpg",
+   "nome_impresso": "Filezinho Sassami de Frango Seara Congelado Bandeja 1kg",
    "regiao_pct": {
-    "x": 83,
-    "y": 73,
+    "x": 11,
+    "y": 59,
+    "w": 36,
+    "h": 28
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_5940d2efc4_p1.jpg",
+   "nome_impresso": "Filezinho de Frango Lar Congelado Bandeja 1kg",
+   "regiao_pct": {
+    "x": 4,
+    "y": 43,
+    "w": 46,
+    "h": 21
+   }
+  },
+  "r": 0.88
+ },
+ {
+  "k": "cebola roxa || cebola roxa kg",
+  "a": "Cebola Roxa",
+  "b": "Cebola Roxa kg",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/mv_hortifruti_p1.jpg",
+   "nome_impresso": "Cebola Roxa",
+   "regiao_pct": {
+    "x": 49,
+    "y": 53.5,
+    "w": 24,
+    "h": 19
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbqM22EFWIR_p6.jpg",
+   "nome_impresso": "Cebola Roxa kg",
+   "regiao_pct": {
+    "x": 47,
+    "y": 59,
+    "w": 22,
+    "h": 22
+   }
+  },
+  "r": 0.88
+ },
+ {
+  "k": "file de peito de frango aurora congelado 1kg || file de peito de frango aurora congelado bandeja com 1kg",
+  "a": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado 1kg",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_6ce160eb0f_p1.jpg",
+   "nome_impresso": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+   "regiao_pct": {
+    "x": 5,
+    "y": 42,
+    "w": 44,
+    "h": 17
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_cortefacil.atacarejo_3957153842583612912.jpg",
+   "nome_impresso": "Filé de Peito de Frango Aurora Congelado 1kg",
+   "regiao_pct": {
+    "x": 19,
+    "y": 27,
+    "w": 57,
+    "h": 58
+   }
+  },
+  "r": 0.88
+ },
+ {
+  "k": "file de peito de frango sadia congelado iqf 1kg || file de peito de frango sadia congelado pct ou bd 1kg",
+  "a": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
+  "b": "Filé de Peito de Frango Sadia Congelado pct ou bd 1kg",
+  "foto_a": {
+   "imagem": "data/pages/mv_julho_p3.jpg",
+   "nome_impresso": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
+   "regiao_pct": {
+    "x": 79.5,
+    "y": 40.5,
+    "w": 19.0,
+    "h": 19.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DboglVNGD1V_p8.jpg",
+   "nome_impresso": "Filé de Peito de Frango Sadia Congelado pct ou bd 1kg",
+   "regiao_pct": {
+    "x": 61,
+    "y": 61,
     "w": 16,
     "h": 13
+   }
+  },
+  "r": 0.88
+ },
+ {
+  "k": "pernil suino congelado || pernil suino seara congelado",
+  "a": "Pernil Suíno Congelado",
+  "b": "Pernil Suíno Seara Congelado",
+  "foto_a": {
+   "imagem": "data/pages/DbeZ3I0H8OU_p8.jpg",
+   "nome_impresso": "Pernil Suíno Congelado",
+   "regiao_pct": {
+    "x": 6,
+    "y": 37,
+    "w": 88,
+    "h": 52
    }
   },
   "foto_b": {
    "imagem": "data/pages/DbotBBkAsNN_p2.jpg",
-   "nome_impresso": "Peixe Filé de Tilápia Lar Congelado PCT 700g",
+   "nome_impresso": "Pernil Suíno Seara Congelado",
    "regiao_pct": {
-    "x": 22,
-    "y": 3,
-    "w": 27,
-    "h": 37
-   }
-  }
- },
- {
-  "k": "lombo suino s/ osso lar congelado || lombo suino sem osso lar congelado kg",
-  "a": "Lombo Suíno Sem Osso Lar Congelado Kg",
-  "b": "Lombo Suíno S/ Osso Lar Congelado",
-  "foto_a": {
-   "imagem": "data/pages/story_miramarsupermercado_3942874715110608581.jpg",
-   "nome_impresso": "Lombo Suíno Sem Osso Lar Congelado Kg",
-   "regiao_pct": {
-    "x": 54.0,
-    "y": 46.5,
-    "w": 44.0,
-    "h": 20.5
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/story_miramarsupermercado_3956306957539130693.jpg",
-   "nome_impresso": "Lombo Suíno S/ Osso Lar Congelado",
-   "regiao_pct": {
-    "x": 0,
-    "y": 50,
-    "w": 50,
-    "h": 50
-   }
-  }
- },
- {
-  "k": "fraldas descartaveis babysec ultra sequinha shortinho || fraldas descartaveis babysec ultra sequinha shortinho (tamanhos)",
-  "a": "Fraldas Descartáveis Babysec Ultra Sequinha Shortinho",
-  "b": "Fraldas Descartáveis Babysec Ultra Sequinha Shortinho (tamanhos)",
-  "foto_a": {
-   "imagem": "data/pages/story_miramarsupermercado_3955747726062394511.jpg",
-   "nome_impresso": "Fraldas Descartáveis Babysec Ultra Sequinha Shortinho",
-   "regiao_pct": {
-    "x": 3,
-    "y": 21,
-    "w": 44,
-    "h": 27
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/story_miramarsupermercado_3956472749811760721.jpg",
-   "nome_impresso": "Fraldas Descartáveis Babysec Ultra Sequinha Shortinho (tamanhos)",
-   "regiao_pct": {
-    "x": 3,
-    "y": 21,
-    "w": 45,
-    "h": 30
-   }
-  }
- },
- {
-  "k": "achocolatado em po nescau 550g gratis 50g || achocolatado nescau 550g gratis 50g",
-  "a": "Achocolatado Nescau 550g Grátis 50g",
-  "b": "Achocolatado em Pó Nescau 550g Grátis 50g",
-  "foto_a": {
-   "imagem": "data/pages/DalUVkKleuL_p2.jpg",
-   "nome_impresso": "Achocolatado Nescau 550g Grátis 50g",
-   "regiao_pct": {
-    "x": 80.7,
-    "y": 16.9,
-    "w": 17.1,
-    "h": 11.9
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p3.jpg",
-   "nome_impresso": "Achocolatado em Pó Nescau 550g Grátis 50g",
-   "regiao_pct": {
-    "x": 58,
-    "y": 50,
-    "w": 17,
-    "h": 11
-   }
-  }
- },
- {
-  "k": "papel higienico mimmo folha dupla 30m c/12 || papel higienico mimmo folha dupla 30m l12 p11",
-  "a": "Papel Higiênico Mimmo Folha Dupla 30m c/12",
-  "b": "Papel Higiênico Mimmo Folha Dupla 30m L12 P11",
-  "foto_a": {
-   "imagem": "data/pages/DabeWAwnH9d_p1.jpg",
-   "nome_impresso": "Papel Higiênico Mimmo Folha Dupla 30m c/12",
-   "regiao_pct": {
-    "x": 81,
-    "y": 73.5,
-    "w": 15.5,
-    "h": 12
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DbouNqxidfB_p1.jpg",
-   "nome_impresso": "Papel Higiênico Mimmo Folha Dupla 30m L12 P11",
-   "regiao_pct": {
-    "x": 85,
-    "y": 71,
-    "w": 13,
-    "h": 11
-   }
-  }
- },
- {
-  "k": "achocolatado em po chocolatto 700g || achocolatado em po chocolatto sache 700g",
-  "a": "Achocolatado em Pó Chocolatto 700g",
-  "b": "Achocolatado em Pó Chocolatto Sachê 700g",
-  "foto_a": {
-   "imagem": "data/pages/story_atacarejo_santoantonio.ofc_3955873897320093596.jpg",
-   "nome_impresso": "Achocolatado em Pó Chocolatto 700g",
-   "regiao_pct": {
-    "x": 6,
-    "y": 25,
-    "w": 17,
-    "h": 4
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DbotBBkAsNN_p7.jpg",
-   "nome_impresso": "Achocolatado em Pó Chocolatto Sachê 700g",
-   "regiao_pct": {
-    "x": 52,
+    "x": 9,
     "y": 44,
     "w": 40,
-    "h": 20
+    "h": 17
    }
-  }
+  },
+  "r": 0.88
  },
  {
-  "k": "mistura de creme de leite mococa cx 200g || mistura de creme leite mococa 200g",
-  "a": "Mistura de Creme de Leite Mococa cx 200g",
-  "b": "Mistura de Creme Leite Mococa 200g",
+  "k": "ovos filadelfia grande branco com 30 und || ovos filadelfia sao jose grandes brancos com 30 und",
+  "a": "Ovos Filadélfia Grande Branco com 30 Und",
+  "b": "Ovos Filadélfia São José Grandes Brancos com 30 Und",
   "foto_a": {
-   "imagem": "data/pages/Dbk9GgejsLQ_p1.jpg",
-   "nome_impresso": "Mistura de Creme de Leite Mococa cx 200g",
+   "imagem": "data/pages/Da1IbCLG78L_p2.jpg",
+   "nome_impresso": "Ovos Filadélfia Grande Branco com 30 Und",
    "regiao_pct": {
-    "x": 41,
-    "y": 64,
-    "w": 19,
+    "x": 78,
+    "y": 58,
+    "w": 8,
+    "h": 9
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbq_ROTGBRm_p2.jpg",
+   "nome_impresso": "Ovos Filadélfia São José Grandes Brancos com 30 Und",
+   "regiao_pct": {
+    "x": 88,
+    "y": 44,
+    "w": 11,
     "h": 14
    }
   },
-  "foto_b": {
-   "imagem": "data/pages/DbouPkoCSdu_p1.jpg",
-   "nome_impresso": "Mistura de Creme Leite Mococa 200g",
+  "r": 0.879
+ },
+ {
+  "k": "file de peito de frango aurora congelado 1kg || file de peito de frango sadia congelado iqf 1kg",
+  "a": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado 1kg",
+  "foto_a": {
+   "imagem": "data/pages/mv_julho_p3.jpg",
+   "nome_impresso": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
    "regiao_pct": {
-    "x": 9,
-    "y": 73,
-    "w": 17,
-    "h": 11
+    "x": 79.5,
+    "y": 40.5,
+    "w": 19.0,
+    "h": 19.5
    }
-  }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_cortefacil.atacarejo_3957153842583612912.jpg",
+   "nome_impresso": "Filé de Peito de Frango Aurora Congelado 1kg",
+   "regiao_pct": {
+    "x": 19,
+    "y": 27,
+    "w": 57,
+    "h": 58
+   }
+  },
+  "r": 0.879
+ },
+ {
+  "k": "frango a passarinho lar iqf congelado pacote 1kg || frango a passarinho sadia congelado pct 1kg",
+  "a": "Frango a Passarinho Sadia Congelado pct 1kg",
+  "b": "Frango à Passarinho Lar IQF Congelado pacote 1kg",
+  "foto_a": {
+   "imagem": "data/pages/DaliA-imB-r_p1.jpg",
+   "nome_impresso": "Frango a Passarinho Sadia Congelado pct 1kg",
+   "regiao_pct": {
+    "x": 78,
+    "y": 63,
+    "w": 16,
+    "h": 13
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_f4e37f7117_p2.jpg",
+   "nome_impresso": "Frango à Passarinho Lar IQF Congelado pacote 1kg",
+   "regiao_pct": {
+    "x": 63,
+    "y": 17,
+    "w": 34,
+    "h": 15
+   }
+  },
+  "r": 0.879
  }
 ]

@@ -1,0 +1,48 @@
+{
+ "DbsWUARm43w": {
+  "inicio": "2026-07-31",
+  "fim": "2026-08-06",
+  "banner": "Mar Vermelho Atacado",
+  "perfil": "marvermelhoatacado",
+  "segmento": "atacarejo",
+  "titulo": "Mar Vermelho — Mês dos Pais",
+  "fonte": "feed"
+ },
+ "story_cortefacil.atacarejo_20260806": {
+  "inicio": "2026-08-05",
+  "fim": "2026-08-07",
+  "banner": "Corte Fácil Atacarejo",
+  "perfil": "cortefacil.atacarejo",
+  "segmento": "atacarejo",
+  "fonte": "story"
+ },
+ "story_redemaisrn_20260806": {
+  "inicio": "2026-08-01",
+  "fim": "2026-08-10",
+  "banner": "Rede Mais",
+  "perfil": "redemaisrn",
+  "segmento": "propria",
+  "titulo": "RedeMAIS 26 Anos — story",
+  "fonte": "story"
+ },
+ "story_marvermelhoatacado_20260806": {
+  "discard": true,
+  "reason": "duplicata do feed DbsWUARm43w da mesma janela — mesma loja (Mar Vermelho), mesmo período (31/07-06/08) e mesmos 6 produtos/preços"
+ },
+ "DbsQzaLAOlR": {
+  "discard": true,
+  "reason": "Super Nordestão Oferta Surpresa do Dia — produto borrado, sem preço, teaser de app"
+ },
+ "story_supernordestaonatal_20260806": {
+  "discard": true,
+  "reason": "Super Nordestão Oferta Surpresa do Dia — produto borrado, sem preço, ativar no app"
+ },
+ "story_atacarejo_santoantonio.ofc_20260806": {
+  "discard": true,
+  "reason": "peça institucional (2ª Corrida de Rua Atacarejo Santo Antônio) — sem produto/preço"
+ },
+ "story_redesupercop_20260806": {
+  "discard": true,
+  "reason": "frame institucional/vídeo em hortifruti — sem preço visível"
+ }
+}

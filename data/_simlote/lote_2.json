@@ -1,227 +1,236 @@
 [
  {
-  "k": "faqueiro union home 16 pecas || faqueiro union home c/ 16 pecas",
-  "a": "Faqueiro Union Home c/ 16 peças",
-  "b": "Faqueiro Union Home 16 Peças",
+  "k": "coxa e sobrecoxa com dorsal kg || coxa/sobrecoxa com dorsal",
+  "a": "Coxa/Sobrecoxa com Dorsal",
+  "b": "Coxa e Sobrecoxa com Dorsal kg",
   "foto_a": {
-   "imagem": "data/pages/Dbog_f0IG_Q_p1.jpg",
-   "nome_impresso": "Faqueiro Union Home c/ 16 peças",
+   "imagem": "data/pages/story_favoritosuper_3951867118677392184.jpg",
+   "nome_impresso": "Coxa/Sobrecoxa com Dorsal",
    "regiao_pct": {
-    "x": 6,
-    "y": 52,
-    "w": 22,
-    "h": 18
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/Dboha-IjymB_p1.jpg",
-   "nome_impresso": "Faqueiro Union Home 16 Peças",
-   "regiao_pct": {
-    "x": 8,
-    "y": 61,
-    "w": 27,
+    "x": 13,
+    "y": 58,
+    "w": 34,
     "h": 15
    }
-  }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbq-8_tmFbL_p2.jpg",
+   "nome_impresso": "Coxa e Sobrecoxa com Dorsal kg",
+   "regiao_pct": {
+    "x": 25,
+    "y": 58,
+    "w": 11.5,
+    "h": 12
+   }
+  },
+  "r": 0.909
  },
  {
-  "k": "capa de file bovina resfriada || capa de file bovino resfriada",
-  "a": "Capa de Filé Bovino Resfriada",
-  "b": "Capa de Filé Bovina Resfriada",
+  "k": "azeite de oliva extra virgem gallo vd 500ml || azeite de oliva extra virgem kristal vd 500ml",
+  "a": "Azeite de Oliva Extra Virgem Gallo vd 500ml",
+  "b": "Azeite de Oliva Extra Virgem Kristal vd 500ml",
   "foto_a": {
-   "imagem": "data/pages/Dbk9GgejsLQ_p1.jpg",
-   "nome_impresso": "Capa de Filé Bovino Resfriada",
+   "imagem": "data/pages/Da3lKDpGCzy_p1.jpg",
+   "nome_impresso": "Azeite de Oliva Extra Virgem Gallo vd 500ml",
    "regiao_pct": {
-    "x": 42,
-    "y": 44,
-    "w": 18,
-    "h": 17
+    "x": 64.0,
+    "y": 62.5,
+    "w": 16.0,
+    "h": 15.5
    }
   },
   "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p2.jpg",
-   "nome_impresso": "Capa de Filé Bovina Resfriada",
+   "imagem": "data/pages/DbrG7t9gTaC_p2.jpg",
+   "nome_impresso": "Azeite de Oliva Extra Virgem Kristal vd 500ml",
    "regiao_pct": {
-    "x": 40,
-    "y": 40,
-    "w": 19,
-    "h": 13
+    "x": 28,
+    "y": 25,
+    "w": 22,
+    "h": 14
    }
-  }
+  },
+  "r": 0.909
  },
  {
-  "k": "sardinha gomes costa 125g oleo ou tomate || sardinha gomes da costa 125g oleo ou tomate",
-  "a": "Sardinha Gomes Costa 125g Óleo ou Tomate",
-  "b": "Sardinha Gomes da Costa 125g Óleo ou Tomate",
+  "k": "azeite conde extra virgem benalua 500ml || azeite conde extra virgem benalua ou fioz 500ml",
+  "a": "Azeite Conde Extra Virgem Benalua 500ml",
+  "b": "Azeite Conde Extra Virgem Benalua ou Fioz 500ml",
   "foto_a": {
-   "imagem": "data/pages/DbGXAlmnFuX_p2.jpg",
-   "nome_impresso": "Sardinha Gomes Costa 125g Óleo ou Tomate",
+   "imagem": "data/pages/DatZqHLDwzo_p3.jpg",
+   "nome_impresso": "Azeite Conde Extra Virgem Benalua 500ml",
    "regiao_pct": {
-    "x": 80,
-    "y": 45,
-    "w": 16,
-    "h": 9
+    "x": 33,
+    "y": 19,
+    "w": 11,
+    "h": 8
    }
   },
   "foto_b": {
-   "imagem": "data/pages/DbouNqxidfB_p1.jpg",
-   "nome_impresso": "Sardinha Gomes da Costa 125g Óleo ou Tomate",
+   "imagem": "data/pages/Dbq-8_tmFbL_p3.jpg",
+   "nome_impresso": "Azeite Conde Extra Virgem Benalua ou Fioz 500ml",
    "regiao_pct": {
-    "x": 55,
-    "y": 71,
-    "w": 14,
+    "x": 66,
+    "y": 22,
+    "w": 15,
     "h": 11
    }
-  }
+  },
+  "r": 0.907
  },
  {
-  "k": "leite condensado ccgl semidesnatado 395g || leite condensado ccgl semidesnatado cx 395g",
-  "a": "Leite Condensado CCGL Semidesnatado 395g",
-  "b": "Leite Condensado CCGL Semidesnatado cx 395g",
+  "k": "linguica de frango ou churrasco aurora kg || linguica de frango ou para churrasco aurora",
+  "a": "Linguiça de Frango ou Churrasco Aurora KG",
+  "b": "Linguiça de Frango ou para Churrasco Aurora",
   "foto_a": {
-   "imagem": "data/pages/DaoUj8YjXJP_p1.jpg",
-   "nome_impresso": "Leite Condensado CCGL Semidesnatado 395g",
+   "imagem": "data/pages/Dal8u9zjMyI_p1.jpg",
+   "nome_impresso": "Linguiça de Frango ou Churrasco Aurora KG",
    "regiao_pct": {
-    "x": 59,
-    "y": 30,
-    "w": 17,
+    "x": 49,
+    "y": 43,
+    "w": 15,
     "h": 15
    }
   },
   "foto_b": {
-   "imagem": "data/pages/DboglVNGD1V_p6.jpg",
-   "nome_impresso": "Leite Condensado CCGL Semidesnatado cx 395g",
+   "imagem": "data/pages/DbrG7t9gTaC_p2.jpg",
+   "nome_impresso": "Linguiça de Frango ou para Churrasco Aurora",
    "regiao_pct": {
-    "x": 27,
-    "y": 47,
-    "w": 20,
-    "h": 13
-   }
-  }
- },
- {
-  "k": "mistura para bolo sao braz sabores 400g || mistura para bolo sao braz sabores sc 400g",
-  "a": "Mistura para Bolo São Braz Sabores 400g",
-  "b": "Mistura para Bolo São Braz Sabores SC 400g",
-  "foto_a": {
-   "imagem": "data/pages/DalwAwCkfot_p2.jpg",
-   "nome_impresso": "Mistura para Bolo São Braz Sabores 400g",
-   "regiao_pct": {
-    "x": 0,
-    "y": 79,
-    "w": 24,
-    "h": 20
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/Dbo6tx9m927_p5.jpg",
-   "nome_impresso": "Mistura para Bolo São Braz Sabores SC 400g",
-   "regiao_pct": {
-    "x": 3,
-    "y": 27,
-    "w": 93,
-    "h": 63
-   }
-  }
- },
- {
-  "k": "travessa oxford 30cm x 23cm || travessa oxford 30cmx23cm",
-  "a": "Travessa Oxford 30cm x 23cm",
-  "b": "Travessa Oxford 30cmx23cm",
-  "foto_a": {
-   "imagem": "data/pages/Dbog_f0IG_Q_p2.jpg",
-   "nome_impresso": "Travessa Oxford 30cm x 23cm",
-   "regiao_pct": {
-    "x": 62,
-    "y": 11,
-    "w": 34,
-    "h": 18
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/Dboha-IjymB_p2.jpg",
-   "nome_impresso": "Travessa Oxford 30cmx23cm",
-   "regiao_pct": {
-    "x": 64,
-    "y": 15,
-    "w": 28,
-    "h": 20
-   }
-  }
- },
- {
-  "k": "linguica de churrasco ou frango aurora || linguica de churrasco/frango aurora",
-  "a": "LINGUIÇA DE CHURRASCO OU FRANGO AURORA",
-  "b": "Linguiça de Churrasco/Frango Aurora",
-  "foto_a": {
-   "imagem": "data/pages/DbJsBwDgVZy_p2.jpg",
-   "nome_impresso": "LINGUIÇA DE CHURRASCO OU FRANGO AURORA",
-   "regiao_pct": {
-    "x": 68,
-    "y": 4,
-    "w": 30,
-    "h": 30
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DbotBBkAsNN_p2.jpg",
-   "nome_impresso": "Linguiça de Churrasco/Frango Aurora",
-   "regiao_pct": {
-    "x": 9,
-    "y": 62,
-    "w": 40,
-    "h": 18
-   }
-  }
- },
- {
-  "k": "cerveja amstel lata 350ml || cerveja amstel lt 350ml",
-  "a": "Cerveja Amstel Lata 350ml",
-  "b": "Cerveja Amstel Lt 350ml",
-  "foto_a": {
-   "imagem": "data/pages/DabRmxqHxTB_p3.jpg",
-   "nome_impresso": "Cerveja Amstel 350ml Lata",
-   "regiao_pct": {
-    "x": 15.8,
-    "y": 34.0,
-    "w": 9.4,
-    "h": 11.9
-   }
-  },
-  "foto_b": {
-   "imagem": "data/pages/DblBTqfFYyN_p2.jpg",
-   "nome_impresso": "Cerveja Amstel Lt 350ml",
-   "regiao_pct": {
-    "x": 16,
-    "y": 2,
-    "w": 12,
+    "x": 28,
+    "y": 40,
+    "w": 22,
     "h": 15
    }
-  }
+  },
+  "r": 0.905
  },
  {
-  "k": "pudim de leite condensado batavo 200g || pudim leite condensado batavo 200g",
-  "a": "Pudim Leite Condensado Batavo 200g",
-  "b": "Pudim de Leite Condensado Batavo 200g",
+  "k": "ovo branco avine extra c/ 20 und || ovo branco avine extra com 20",
+  "a": "Ovo Branco Avine Extra c/ 20 und",
+  "b": "Ovo Branco Avine Extra com 20",
   "foto_a": {
    "imagem": "data/pages/DabeWAwnH9d_p3.jpg",
-   "nome_impresso": "Pudim Leite Condensado Batavo 200g",
+   "nome_impresso": "Ovo Branco Avine Extra c/ 20 und",
    "regiao_pct": {
-    "x": 67,
-    "y": 28,
+    "x": 21,
+    "y": 39.5,
     "w": 15,
-    "h": 10.8
+    "h": 10.5
    }
   },
   "foto_b": {
-   "imagem": "data/pages/DbouNqxidfB_p3.jpg",
-   "nome_impresso": "Pudim de Leite Condensado Batavo 200g",
+   "imagem": "data/pages/DbqIhm7jn3T_p10.jpg",
+   "nome_impresso": "Ovo Branco Avine Extra com 20",
    "regiao_pct": {
-    "x": 81,
-    "y": 21,
-    "w": 16,
-    "h": 9
+    "x": 43,
+    "y": 0,
+    "w": 38,
+    "h": 44
    }
-  }
+  },
+  "r": 0.9
+ },
+ {
+  "k": "coxa com sobrecoxa c/dorsal kg || coxa e sobrecoxa com dorsal kg",
+  "a": "Coxa com Sobrecoxa c/Dorsal kg",
+  "b": "Coxa e Sobrecoxa com Dorsal kg",
+  "foto_a": {
+   "imagem": "data/pages/DatZqHLDwzo_p2.jpg",
+   "nome_impresso": "Coxa com Sobrecoxa c/Dorsal kg",
+   "regiao_pct": {
+    "x": 30,
+    "y": 84,
+    "w": 11,
+    "h": 6
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbq-8_tmFbL_p2.jpg",
+   "nome_impresso": "Coxa e Sobrecoxa com Dorsal kg",
+   "regiao_pct": {
+    "x": 25,
+    "y": 58,
+    "w": 11.5,
+    "h": 12
+   }
+  },
+  "r": 0.9
+ },
+ {
+  "k": "file de peito de frango aurora congelado 1kg || file de peito de frango lar congelado bdj 1kg",
+  "a": "Filé de Peito de Frango Lar Congelado Bdj 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado 1kg",
+  "foto_a": {
+   "imagem": "data/pages/Da_LvMVGx-J_p4.jpg",
+   "nome_impresso": "Filé de Peito de Frango Lar Congelado Bdj 1kg",
+   "regiao_pct": {
+    "x": 6,
+    "y": 28,
+    "w": 91,
+    "h": 54
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_cortefacil.atacarejo_3957153842583612912.jpg",
+   "nome_impresso": "Filé de Peito de Frango Aurora Congelado 1kg",
+   "regiao_pct": {
+    "x": 19,
+    "y": 27,
+    "w": 57,
+    "h": 58
+   }
+  },
+  "r": 0.899
+ },
+ {
+  "k": "file de peito de frango aurora congelado 1kg || file de peito de frango lar congelado iqf 1kg",
+  "a": "Filé de Peito de Frango Lar Congelado IQF 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado 1kg",
+  "foto_a": {
+   "imagem": "data/pages/DalwAwCkfot_p3.jpg",
+   "nome_impresso": "Filé de Peito de Frango Lar Congelado IQF 1kg",
+   "regiao_pct": {
+    "x": 80,
+    "y": 24,
+    "w": 20,
+    "h": 24
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_cortefacil.atacarejo_3957153842583612912.jpg",
+   "nome_impresso": "Filé de Peito de Frango Aurora Congelado 1kg",
+   "regiao_pct": {
+    "x": 19,
+    "y": 27,
+    "w": 57,
+    "h": 58
+   }
+  },
+  "r": 0.899
+ },
+ {
+  "k": "ovo branco grande enavis bandeja c/30 || ovos brancos grandes enavis bandeja 30und",
+  "a": "Ovo Branco Grande Enavis Bandeja C/30",
+  "b": "Ovos Brancos Grandes Enavis Bandeja 30und",
+  "foto_a": {
+   "imagem": "data/pages/story_levamaisjc_3952646373155843200.jpg",
+   "nome_impresso": "Ovo Branco Grande Enavis Bandeja C/30",
+   "regiao_pct": {
+    "x": 17,
+    "y": 34,
+    "w": 64,
+    "h": 55
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbqeLrPAvEl_p1.jpg",
+   "nome_impresso": "Ovos Brancos Grandes Enavis Bandeja 30und",
+   "regiao_pct": {
+    "x": 26.9,
+    "y": 42.5,
+    "w": 21.3,
+    "h": 19.5
+   }
+  },
+  "r": 0.897
  }
 ]
