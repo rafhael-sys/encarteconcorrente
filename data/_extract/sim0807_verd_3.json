@@ -1,0 +1,15 @@
+[
+ {"i":26,"k":"salsicha hot dog boua kg || salsicha hot-dog boua","veredito":"mesmo","motivo":"Salsicha Hot Dog Boua nas duas, mesmo tipo, por kg"},
+ {"i":27,"k":"bebida mista dafruta sabores tp 200ml || bebida mista marata sabores tp 200ml","veredito":"diferente","motivo":"marcas distintas: Dafruta x Marata (Maratinho)"},
+ {"i":28,"k":"absorvente mili protecao total suave com abas c/16 || absorvente mili protecao total suave com/sem abas c/8","veredito":"diferente","motivo":"quantidade diferente: c/16 x c/8"},
+ {"i":29,"k":"banana prata/pacovan || banana prata/pacovan kg","veredito":"mesmo","motivo":"Banana Prata/Pacovan por kg nas duas"},
+ {"i":30,"k":"banana prata ou pacovan || banana prata/pacovan","veredito":"mesmo","motivo":"mesmas variedades (Prata e Pacovan), por kg"},
+ {"i":31,"k":"posta gorda com osso || posta gorda com osso kg","veredito":"mesmo","motivo":"Posta Gorda com Osso bovina, por kg, mesma loja"},
+ {"i":32,"k":"carne de sol patinho || carne de sol patinho kg","veredito":"mesmo","motivo":"Carne de Sol Patinho por kg, mesma rede (Favorito)"},
+ {"i":33,"k":"sabao em barra guarani glicerinado 5x160g || sabao em barra guarani glicerinado sun 160g","veredito":"mesmo","motivo":"Guarani Glicerinado pack de 5un 160g nas duas (Sun=5un)"},
+ {"i":34,"k":"mistura lactea cond. triangulo mineiro 395g || mistura lactea condensada triangulo mineiro 395g","veredito":"mesmo","motivo":"Triangulo Mineiro 395g, Cond.=Condensada"},
+ {"i":35,"k":"papel higienico nobel sublime folha dupla 20m 12 unidades || papel higienico sublime folha dupla 20m 4 unidades","veredito":"diferente","motivo":"quantidade diferente: 12 unidades x 4 unidades"},
+ {"i":36,"k":"ancho suino temperado bom todo congelado || panceta/ancho suino temperado bom todo congelado","veredito":"incerto","motivo":"ancho suino Bom Todo igual, mas rb agrupa tambem panceta"},
+ {"i":37,"k":"petisco para gatos dreamies carne 40g || petiscos para gatos dreamies sabores 40g","veredito":"incerto","motivo":"Dreamies 40g; ra sabor Carne x rb Sabores (sortido)"},
+ {"i":38,"k":"banana ana/prata/pacovan || banana prata/pacovan","veredito":"incerto","motivo":"ra inclui variedade Ana alem de Prata/Pacovan"}
+]

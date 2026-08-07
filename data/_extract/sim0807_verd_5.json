@@ -1,0 +1,15 @@
+[
+ {"i":52,"k":"file de peito de frango congelado || file de peito de frango envelopado","veredito":"mesmo","motivo":"placa A diz 'filé de peito de frango cong (envelopado) kg'; ambos genéricos por kg"},
+ {"i":53,"k":"achocolatado em po chocolatto 3 coracoes 400g || achocolatado em po chocolatto sache 400g","veredito":"mesmo","motivo":"mesma embalagem sachê Chocolatto 3 Corações 400g"},
+ {"i":54,"k":"sabonete cremoso harrop 1l refil || sabonete liquido cremoso harrop 1l refil","veredito":"mesmo","motivo":"ambos Sabonete Cremoso Harrop 1L Refil"},
+ {"i":55,"k":"pao de alho fabricacao propria tradicional pct 350g || pao de forma fabricacao propria tradicional 350g","veredito":"diferente","motivo":"pão de alho em bandeja vs pão de forma em fatias"},
+ {"i":56,"k":"mistura lactea condensada saboroso ou triangulo mineiro 395g || mistura lactea condensada triangulo mineiro 395g","veredito":"incerto","motivo":"A oferta Saboroso ou Triângulo Mineiro; B só Triângulo Mineiro"},
+ {"i":57,"k":"peito de frango ave nova envelopado congelado || peito de frango envelopado (congelado)","veredito":"incerto","motivo":"A é marca Ave Nova; B genérico sem marca por kg"},
+ {"i":58,"k":"linguica suina para churrasco aurora || linguica suina para churrasco avivar","veredito":"diferente","motivo":"marcas distintas Aurora vs Avivar"},
+ {"i":59,"k":"carne bovina fraldinha friboi || carne bovina fraldinha masterboi","veredito":"diferente","motivo":"marcas distintas Masterboi vs Friboi"},
+ {"i":60,"k":"azeite de oliva extra virgem fioz 500ml || azeite de oliva extra virgem san frediano 500ml","veredito":"diferente","motivo":"marcas distintas Fioz vs San Frediano"},
+ {"i":61,"k":"peito bovino c/ osso kg || peito bovino com osso","veredito":"mesmo","motivo":"peito bovino com osso por kg, genérico igual"},
+ {"i":62,"k":"coxinha da asa de frango seara congelada 1kg || coxinhas das asas de frango lar congelada iqf 1kg","veredito":"diferente","motivo":"marcas distintas Lar vs Seara"},
+ {"i":63,"k":"uva vitoria s/ semente cappellaro cumbuca 500g || uva vitoria sem semente cappellaro 500g","veredito":"mesmo","motivo":"uva Vitória sem semente Cappellaro cumbuca 500g"},
+ {"i":64,"k":"desodorante aerossol rexona 150ml || desodorante aerossol rexona clinical 150ml","veredito":"diferente","motivo":"Rexona Controle Inteligente vs Rexona Clinical"}
+]

@@ -1,32 +1,28 @@
 import json
 
-acts = json.load(open('data/actions.json'))
-extra = set()
-for a in acts:
-    extra |= set(a.keys())
-print('todas as chaves vistas:', sorted(extra))
-print()
-
-for a in acts:
+d = json.load(open('data/actions.json'))
+print("=== acao fonte:web ===")
+for a in d:
     if a.get('fonte') == 'web':
-        print('--- exemplo web ---')
-        print(json.dumps(a, ensure_ascii=False, indent=1)[:900])
+        obj = dict(a)
+        obj.pop('caption', None)
+        print(json.dumps(obj, ensure_ascii=False))
         break
-print()
-
-for a in acts:
+print("=== acao com adicionado_em ===")
+for a in d:
     if 'adicionado_em' in a:
-        keys = ('id', 'banner', 'inicio', 'fim', 'adicionado_em', 'fonte', 'link', 'shortcode', 'perfil')
-        print('--- exemplo adicionado_em ---')
-        print(json.dumps({k: a[k] for k in a if k in keys}, ensure_ascii=False, indent=1))
+        obj = dict(a)
+        obj.pop('caption', None)
+        print(json.dumps(obj, ensure_ascii=False))
         break
-print()
 
-# Banners relevantes na fila
-targets = ['Mar Vermelho Atacado', 'Atacadão', 'Miramar Supermercado', 'Rede Supercop',
-           'Rede Mais', 'Corte Fácil Atacarejo', 'Super Nordestão']
-print('=== acoes existentes desses banners (id, inicio, fim, shortcode, npaginas) ===')
-for a in acts:
-    if a.get('banner') in targets:
-        print(a.get('banner'), '|', a.get('id'), '|', a.get('inicio'), '->', a.get('fim'),
-              '| sc=', a.get('shortcode'), '| pgs=', len(a.get('paginas', [])), '| fonte=', a.get('fonte', '-'))
+print("=== canon estrutura ===")
+c = json.load(open('data/canon.json'))
+print('tipo', type(c).__name__)
+if isinstance(c, dict):
+    ks = list(c.keys())
+    print('num chaves top', len(ks), 'exemplos', ks[:5])
+    k0 = ks[0]
+    print('exemplo', repr(k0), '->', json.dumps(c[k0], ensure_ascii=False)[:400])
+elif isinstance(c, list):
+    print('len', len(c), 'ex0', json.dumps(c[0], ensure_ascii=False)[:500])

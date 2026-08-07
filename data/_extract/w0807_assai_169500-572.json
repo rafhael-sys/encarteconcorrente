@@ -1,0 +1,32 @@
+{
+  "shortcode": "assai_169500-572",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-07",
+  "fim": "2026-08-09",
+  "titulo": "Especial Automotivo Assaí - Dia dos Pais",
+  "pages": {
+    "assai_169500-572_p1": [
+      {"n": "Pneu Aro 15 185/60 XBRI Fastway", "p": "259,90", "u": "cada (a partir de 4un R$ 239,90)", "x": 3, "y": 30, "w": 17, "h": 17},
+      {"n": "Pneu Aro 13 175/75 A5 84T XBRI Fastway", "p": "219,90", "u": "cada (a partir de 4un R$ 199,90)", "x": 21, "y": 30, "w": 17, "h": 17},
+      {"n": "Pneu Aro 15 195/55 85V XBRI Fastway", "p": "269,90", "u": "cada (a partir de 4un R$ 249,90)", "x": 40, "y": 30, "w": 17, "h": 17},
+      {"n": "Pneu Aro 15 185/65 XBRI Fastway", "p": "259,90", "u": "cada (a partir de 4un R$ 239,90)", "x": 58, "y": 30, "w": 17, "h": 17},
+      {"n": "Limpa Pneus Classic Proauto 500ml", "p": "9,90", "u": "cada", "x": 77, "y": 30, "w": 20, "h": 15},
+      {"n": "Silicone em Gel Proauto 150g", "p": "10,90", "u": "cada", "x": 3, "y": 47, "w": 17, "h": 15},
+      {"n": "Lava-Autos Classic Proauto 500ml", "p": "10,90", "u": "cada", "x": 21, "y": 47, "w": 17, "h": 15},
+      {"n": "Kit Garagem 3x1 com Esponja Grátis Cockpit", "p": "13,90", "u": "cada (Limpa Pneus 500ml + Lava-Autos 500ml + Silicone Gel 200g)", "x": 40, "y": 47, "w": 17, "h": 15},
+      {"n": "Panos de Microfibra Cockpit Kit 4 Unidades 30cmx30cm", "p": "9,90", "u": "cada", "x": 58, "y": 47, "w": 17, "h": 15},
+      {"n": "Água Desmineralizada Cockpit 1L", "p": "4,99", "u": "cada", "x": 77, "y": 47, "w": 20, "h": 15},
+      {"n": "Aditivo para Radiador Concentrado Orgânico Cockpit 1L", "p": "8,90", "u": "cada", "x": 3, "y": 63, "w": 17, "h": 15},
+      {"n": "Lubrificante Desengripante Proauto 321ml", "p": "15,90", "u": "cada", "x": 21, "y": 63, "w": 17, "h": 15},
+      {"n": "Protetor para Radiador Prorad 1L", "p": "12,90", "u": "cada", "x": 40, "y": 63, "w": 17, "h": 15},
+      {"n": "Lava-Autos com Cera Proauto 500ml", "p": "13,90", "u": "cada", "x": 58, "y": 63, "w": 17, "h": 15},
+      {"n": "Limpa Vidro Autocraft 500ml", "p": "7,49", "u": "cada", "x": 77, "y": 63, "w": 20, "h": 15},
+      {"n": "Limpador de Uso Geral Espuma Mágica Proauto 400ml", "p": "19,90", "u": "cada", "x": 3, "y": 79, "w": 17, "h": 15},
+      {"n": "Desengripante Multiúso em Spray WD-40 300ml", "p": "34,90", "u": "cada", "x": 21, "y": 79, "w": 17, "h": 15},
+      {"n": "Pano de Microfibra Proauto Kit 4 Unidades 35cmx35cm", "p": "9,90", "u": "cada", "x": 40, "y": 79, "w": 17, "h": 15},
+      {"n": "Aparador de Pelos BG-03 Bivolt Mondial", "p": "119,90", "u": "cada", "x": 58, "y": 79, "w": 17, "h": 15},
+      {"n": "Caixa de Som Amplificada 120W Bivolt TRC", "p": "129,90", "u": "cada", "x": 77, "y": 79, "w": 20, "h": 15}
+    ]
+  }
+}

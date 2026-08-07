@@ -1,0 +1,49 @@
+{
+  "shortcode": "assai_169498-572",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-07",
+  "fim": "2026-08-09",
+  "titulo": "Plantão da Economia - Mercearia, Bebidas e Limpeza",
+  "pages": {
+    "assai_169498-572_p1": [
+      {"n": "Leite em Pó Integral Aurora 200g", "p": "6,29", "u": "cada", "x": 5, "y": 27, "w": 15, "h": 18},
+      {"n": "Leite Condensado Semidesnatado Piracanjuba 395g", "p": "5,49", "u": "cada", "x": 21, "y": 27, "w": 15, "h": 18},
+      {"n": "Farinha de Trigo Tradicional Finna 1kg", "p": "3,69", "u": "cada", "x": 37, "y": 27, "w": 16, "h": 18},
+      {"n": "Café Clássico Santa Clara Almofada ou Vácuo 250g", "p": "12,95", "u": "cada", "x": 55, "y": 27, "w": 15, "h": 18},
+      {"n": "Cesta Básica Assaí NE Kit 1 11 Itens", "p": "55,90", "u": "cada", "x": 73, "y": 27, "w": 22, "h": 18},
+      {"n": "Flocão de Milho Fortemilho 400g", "p": "0,99", "u": "cada", "x": 5, "y": 48, "w": 15, "h": 18},
+      {"n": "Feijão Preto Camil 1kg", "p": "5,79", "u": "cada", "x": 21, "y": 48, "w": 15, "h": 18},
+      {"n": "Arroz Parboilizado Tipo 1 Rampinelli 1kg", "p": "3,19", "u": "cada", "x": 37, "y": 48, "w": 16, "h": 18},
+      {"n": "Açúcar Cristal ou Triturado Alegre 1kg", "p": "2,49", "u": "cada", "x": 55, "y": 48, "w": 15, "h": 18},
+      {"n": "Macarrão Spaghetti Bonsabor 400g", "p": "1,95", "u": "cada", "x": 73, "y": 48, "w": 22, "h": 18},
+      {"n": "Cerveja Heineken Long Neck 330ml", "p": "5,99", "u": "cada", "x": 5, "y": 74, "w": 15, "h": 20},
+      {"n": "Refrigerante Dore Sabores Pet 2L", "p": "4,99", "u": "cada", "x": 21, "y": 74, "w": 16, "h": 20},
+      {"n": "Suco Integral 100% OQ Mais+ Sabores Pet 1,35L", "p": "9,90", "u": "cada", "x": 38, "y": 74, "w": 16, "h": 20},
+      {"n": "Água Mineral sem Gás Ster Bom Pet 510ml", "p": "0,79", "u": "cada", "x": 56, "y": 74, "w": 15, "h": 20},
+      {"n": "Whisky Escocês 12 Anos Chivas Regal 1L", "p": "119,90", "u": "cada", "x": 73, "y": 74, "w": 22, "h": 20}
+    ],
+    "assai_169498-572_p2": [
+      {"n": "Preparação Alimentícia Sabor Parmesão Parme 40g", "p": "1,89", "u": "cada", "x": 5, "y": 7, "w": 15, "h": 16},
+      {"n": "Batata Pré-Frita Palito Congelada Masterboi 2kg", "p": "19,90", "u": "cada", "x": 21, "y": 7, "w": 15, "h": 16},
+      {"n": "Peito com Osso Bovino Resfriado Masterboi", "p": "29,90", "u": "quilo", "x": 37, "y": 7, "w": 16, "h": 16},
+      {"n": "Filé de Peito de Frango Congelado Sadia Bandeja 1kg", "p": "16,99", "u": "cada", "x": 55, "y": 7, "w": 15, "h": 16},
+      {"n": "Sobrecoxa de Frango Congelada Seara Bandeja 1kg", "p": "11,99", "u": "cada", "x": 73, "y": 7, "w": 22, "h": 16},
+      {"n": "Biscoito Cream Cracker Estrela 350g", "p": "3,55", "u": "cada", "x": 5, "y": 25, "w": 15, "h": 16},
+      {"n": "Biscoito Recheado Clubinho Treloso Vitarella Sabores 130g", "p": "1,99", "u": "cada", "x": 21, "y": 25, "w": 15, "h": 16},
+      {"n": "Azeite de Oliva Extravirgem Fiorentini ou Manosalba 500ml", "p": "24,90", "u": "cada", "x": 37, "y": 25, "w": 16, "h": 16},
+      {"n": "Molho de Tomate Tradicional Stella D'Oro Sachê 300g", "p": "1,19", "u": "cada", "x": 55, "y": 25, "w": 15, "h": 16},
+      {"n": "Dueto ou Milho-Verde Stella D'Oro Lata 170g Drenado", "p": "2,59", "u": "cada", "x": 73, "y": 25, "w": 22, "h": 16},
+      {"n": "Lava-Roupas Líquido Omo Fragrâncias Galão 3L", "p": "29,90", "u": "cada", "x": 5, "y": 44, "w": 15, "h": 16},
+      {"n": "Amaciante de Roupas Concentrado Downy Fragrâncias 1,35L/1,5L", "p": "18,90", "u": "cada", "x": 21, "y": 44, "w": 15, "h": 16},
+      {"n": "Multi-Inseticida Aerossol SBP Tipos 360ml/380ml", "p": "13,99", "u": "cada", "x": 37, "y": 44, "w": 16, "h": 16},
+      {"n": "Detergente Líquido Limpol Fragrâncias Galão 5L", "p": "16,90", "u": "cada", "x": 55, "y": 44, "w": 15, "h": 16},
+      {"n": "Papel Higiênico Folha Simples Neutro Rose 30m", "p": "11,90", "u": "cada (Leve 16 Pague 14)", "x": 73, "y": 44, "w": 22, "h": 16},
+      {"n": "Fralda Descartável Pants Proteção Acolchoada Huggies", "p": "67,90", "u": "cada", "x": 5, "y": 63, "w": 15, "h": 16},
+      {"n": "Kit Shampoo 275ml/300ml + Condicionador 175ml/200ml Niely Gold Tipos", "p": "17,80", "u": "cada", "x": 21, "y": 63, "w": 15, "h": 16},
+      {"n": "Sabonete Suave Flor de Ype Fragrâncias 85g", "p": "1,35", "u": "cada", "x": 37, "y": 63, "w": 16, "h": 16},
+      {"n": "Desodorante Aerossol Suave Fragrâncias 200ml", "p": "7,50", "u": "cada", "x": 55, "y": 63, "w": 15, "h": 16},
+      {"n": "Creme Dental Máxima Proteção Anticáries Colgate 90g", "p": "3,99", "u": "cada", "x": 73, "y": 63, "w": 22, "h": 16}
+    ]
+  }
+}

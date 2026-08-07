@@ -1,0 +1,33 @@
+{
+  "shortcode": "assai_169509-572",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-07",
+  "fim": "2026-08-09",
+  "titulo": "Dia dos Pais Assaí - Bebidas e Carnes para Churrasco",
+  "pages": {
+    "assai_169509-572_p1": [
+      {"n": "Cerveja Bohemia Lata 350ml", "p": "2,69", "u": "cada", "x": 3, "y": 18, "w": 17, "h": 15},
+      {"n": "Refrigerante Original Pepsi Pet 1L", "p": "3,99", "u": "cada", "x": 21, "y": 18, "w": 17, "h": 15},
+      {"n": "Vinho Tinto Suave ou Seco Pérgola 1L", "p": "22,90", "u": "cada", "x": 40, "y": 18, "w": 17, "h": 15},
+      {"n": "Conhaque Dreher 900ml", "p": "17,90", "u": "cada", "x": 58, "y": 18, "w": 17, "h": 15},
+      {"n": "Conhaque de Alcatrão São João da Barra 900ml", "p": "17,90", "u": "cada", "x": 77, "y": 18, "w": 20, "h": 15},
+      {"n": "Aperitivo Bitter Campari 998ml", "p": "54,90", "u": "cada", "x": 3, "y": 34, "w": 17, "h": 15},
+      {"n": "Vodka Sueca Absolut 1L", "p": "94,90", "u": "cada", "x": 21, "y": 34, "w": 17, "h": 15},
+      {"n": "Aguardente Gold Pitú 1L", "p": "45,90", "u": "cada", "x": 40, "y": 34, "w": 17, "h": 15},
+      {"n": "Whisky Ballantines Finest Sabores 700ml", "p": "59,90", "u": "cada", "x": 58, "y": 34, "w": 17, "h": 15},
+      {"n": "Whisky Escocês Black Label Johnnie Walker 1L", "p": "189,90", "u": "cada", "x": 77, "y": 34, "w": 20, "h": 15},
+      {"n": "Sobrecoxa, Meio da Asa ou Coxinha da Asa de Frango Temperadas Natto Grill 600g", "p": "9,90", "u": "cada", "x": 3, "y": 50, "w": 18, "h": 15},
+      {"n": "Frango a Passarinho Congelado Temperado Mauricéa 500g", "p": "5,49", "u": "cada", "x": 22, "y": 50, "w": 17, "h": 15},
+      {"n": "Linguiça de Frango Congelada Bom Todo Sabores 600g", "p": "13,90", "u": "cada", "x": 40, "y": 50, "w": 18, "h": 15},
+      {"n": "Espetinho Bovino Temperado Congelado Jundiaí 480g", "p": "14,99", "u": "cada", "x": 59, "y": 50, "w": 17, "h": 15},
+      {"n": "Pão de Alho Zinho Sabores Exceto Catupiry 300g", "p": "15,90", "u": "cada", "x": 77, "y": 50, "w": 20, "h": 15},
+      {"n": "Fraldinha Bovina Resfriada a Vácuo Masterboi", "p": "39,90", "u": "quilo", "x": 2, "y": 68, "w": 15, "h": 18},
+      {"n": "Maminha Bovina Congelada a Vácuo Maturatta", "p": "59,90", "u": "quilo", "x": 18, "y": 68, "w": 15, "h": 18},
+      {"n": "Cupim Bovino Resfriado a Vácuo Masterboi", "p": "36,90", "u": "quilo", "x": 34, "y": 68, "w": 15, "h": 18},
+      {"n": "Capa de Filé Bovino Resfriada a Vácuo Masterboi", "p": "29,90", "u": "quilo", "x": 50, "y": 68, "w": 15, "h": 18},
+      {"n": "Linguiça de Frango Aurora", "p": "19,90", "u": "quilo", "x": 66, "y": 68, "w": 15, "h": 18},
+      {"n": "Linguiça Suína Congelada Seara 5kg", "p": "69,90", "u": "cada", "x": 82, "y": 68, "w": 16, "h": 18}
+    ]
+  }
+}

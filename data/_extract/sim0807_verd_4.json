@@ -1,0 +1,15 @@
+[
+ {"i":39,"k":"peito de frango com osso congelado kg || peito de frango lar com osso congelado","veredito":"diferente","motivo":"A e Copacol (Assai), B e marca Lar"},
+ {"i":40,"k":"uva verde sem semente marcelo frazao 500g || uva vitoria sem semente marcelo frazao 500g","veredito":"diferente","motivo":"mesma marca/peso mas Uva Vitoria (escura) vs Uva Verde"},
+ {"i":41,"k":"azeite de oliva extra virgem minos 500ml || azeite de oliva extra virgem monini vd 500ml","veredito":"diferente","motivo":"Monini vs Minos, marcas distintas"},
+ {"i":42,"k":"azeite de oliva extra virgem cocineiro 500ml || azeite de oliva extra virgem minos 500ml","veredito":"diferente","motivo":"Cocineiro vs Minos, marcas distintas"},
+ {"i":43,"k":"costela suina bom todo temperada congelada || panceta suina bom todo temperada congelada","veredito":"diferente","motivo":"mesma marca Bom Todo mas corte diferente: costela vs panceta"},
+ {"i":44,"k":"sabonete protex 85g || sabonete protex men 85g","veredito":"diferente","motivo":"Protex classico vs linha Protex Men"},
+ {"i":45,"k":"salgadinho cheetos bola 33g/35g/40g || salgadinho cheetos sabores 33g/35g/40g","veredito":"incerto","motivo":"A e Bola (variedade); B e Sabores generico, pode ou nao incluir Bola"},
+ {"i":46,"k":"musculo bovino || musculo bovino kg","veredito":"mesmo","motivo":"musculo bovino a granel por kg, mesmo corte"},
+ {"i":47,"k":"azeite de oliva extra virgem minos 500ml || azeite de oliva extra virgem palermo 500ml","veredito":"diferente","motivo":"Palermo vs Minos, marcas distintas"},
+ {"i":48,"k":"file de peito de frango envelopado congelado || peito de frango envelopado (congelado)","veredito":"mesmo","motivo":"peito de frango envelopado congelado, mesmo produto"},
+ {"i":49,"k":"macarrao parafuso galo 400g || macarrao parafuso galo 400g comum","veredito":"mesmo","motivo":"Galo parafuso 400g comum, mesma marca/formato/peso"},
+ {"i":50,"k":"sabonete cremoso harrop 1l || sabonete cremoso harrop 1l refil","veredito":"diferente","motivo":"A refil vs B frasco com valvula (bombas na foto, preco maior)"},
+ {"i":51,"k":"lava roupa liquido tanlux 3l || lava roupas liquido marilux 3l","veredito":"diferente","motivo":"Marilux vs Tanlux, marcas distintas"}
+]

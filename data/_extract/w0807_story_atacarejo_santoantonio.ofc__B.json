@@ -1,0 +1,50 @@
+{
+  "shortcode": "story_atacarejo_santoantonio.ofc_20260807",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-07",
+  "fim": "2026-08-09",
+  "titulo": "Ofertas Atacarejo Santo Antônio — story (07/08)",
+  "pages": {
+    "story_atacarejo_santoantonio.ofc_3958149718323806252": [],
+    "story_atacarejo_santoantonio.ofc_3958150112881940575": [],
+    "story_atacarejo_santoantonio.ofc_3958150292465295889": [],
+    "story_atacarejo_santoantonio.ofc_3958150492760077712": [],
+    "story_atacarejo_santoantonio.ofc_3958150706795434737": [],
+    "story_atacarejo_santoantonio.ofc_3958150847019394761": [],
+    "story_atacarejo_santoantonio.ofc_3958151170794508855": [],
+    "story_atacarejo_santoantonio.ofc_3958153495470699428": [],
+    "story_atacarejo_santoantonio.ofc_3958155009371206716": [],
+    "story_atacarejo_santoantonio.ofc_3958174086642905409": [
+      {"n":"Coxa com Sobrecoxa c/ Dorsal Jaguá","p":"6,98","u":"kg","x":3,"y":39,"w":18,"h":16},
+      {"n":"Galinha Grande Somave","p":"7,49","u":"kg","x":22,"y":39,"w":18,"h":16},
+      {"n":"Galinha Pequena Congelada Qdelícia","p":"5,98","u":"kg","x":41,"y":39,"w":17,"h":16},
+      {"n":"Linguiça de Frango ou Churrasco Aurora","p":"16,98","u":"kg","x":59,"y":39,"w":18,"h":16},
+      {"n":"Linguiça Calabresa Perdigão","p":"21,98","u":"kg","x":78,"y":39,"w":19,"h":16},
+      {"n":"Carne Bovina Alcatra","p":"39,98","u":"kg","x":3,"y":57,"w":18,"h":11},
+      {"n":"Carne Bovina Coxão Mole","p":"36,98","u":"kg","x":22,"y":57,"w":18,"h":11},
+      {"n":"Carne Bovina Chã de Fora","p":"34,98","u":"kg","x":41,"y":57,"w":17,"h":11},
+      {"n":"Carne Bovina Bisteca Traseira","p":"32,98","u":"kg","x":59,"y":57,"w":18,"h":11},
+      {"n":"Carne Bovina Costela P.A","p":"23,98","u":"kg","x":78,"y":57,"w":19,"h":11},
+      {"n":"Carne Bovina Chambaril","p":"23,98","u":"kg","x":3,"y":69,"w":18,"h":11},
+      {"n":"Carne Bovina Posta Gorda","p":"25,98","u":"kg","x":22,"y":69,"w":18,"h":11},
+      {"n":"Carne Bovina Lombo Serrado","p":"24,98","u":"kg","x":41,"y":69,"w":17,"h":11},
+      {"n":"Bisteca Suína","p":"14,98","u":"kg","x":59,"y":69,"w":18,"h":11},
+      {"n":"Carne Moída Camará 500g","p":"6,98","u":"un","x":78,"y":69,"w":19,"h":11}
+    ],
+    "story_atacarejo_santoantonio.ofc_3958174138727750224": [
+      {"n":"Whisky ou Licor Jack Daniels 1L","p":"119,90","u":"un","x":3,"y":39,"w":22,"h":13},
+      {"n":"Whisky Chivas 12 Anos 1L","p":"119,90","u":"un","x":26,"y":39,"w":22,"h":13},
+      {"n":"Whisky White Horse 1L","p":"59,90","u":"un","x":51,"y":39,"w":22,"h":13},
+      {"n":"Whisky Red Label 1L","p":"74,99","u":"un","x":76,"y":39,"w":21,"h":13},
+      {"n":"Cerveja Michelob Long Neck 330ml","p":"6,79","u":"un","x":3,"y":53,"w":22,"h":13},
+      {"n":"Cerveja Sol Zero Long Neck 330ml","p":"4,99","u":"un","x":26,"y":53,"w":22,"h":13},
+      {"n":"Cerveja Budweiser Long Neck 330ml","p":"5,69","u":"un","x":51,"y":53,"w":22,"h":13},
+      {"n":"Cachaça Triunfo Umburana 250ml","p":"10,99","u":"un","x":76,"y":53,"w":21,"h":13},
+      {"n":"Água Saborizada Legger 500ml","p":"2,79","u":"un","x":3,"y":68,"w":22,"h":13},
+      {"n":"Refrigerante Pepsi ou Guaraná Antarctica 1L","p":"4,99","u":"un","x":26,"y":68,"w":22,"h":13},
+      {"n":"Bebida Mista Ice Pego 300ml","p":"1,99","u":"un","x":51,"y":68,"w":22,"h":13},
+      {"n":"Refrigerante Viver Sabores 2L","p":"3,89","u":"un","x":76,"y":68,"w":21,"h":13}
+    ]
+  }
+}

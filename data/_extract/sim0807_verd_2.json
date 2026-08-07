@@ -1,0 +1,15 @@
+[
+ {"i":13,"k":"manteiga francesa isigny com sal 8 capsulas 10g || manteiga francesa isigny sem sal 8 capsulas 10g","veredito":"diferente","motivo":"mesma marca/tamanho, mas variante com sal vs sem sal (lado a lado no mesmo encarte)"},
+ {"i":14,"k":"peito de frango bom todo congelado bandeja 1kg || peito de frango bom todo congelado bdj 1kg","veredito":"mesmo","motivo":"Peito de Frango Bom Todo congelado 1kg, embalagem identica"},
+ {"i":15,"k":"ovos branco nordestao extra com 30 || ovos brancos nordestao extra c/30","veredito":"mesmo","motivo":"Ovos Branco Nordestao Extra c/30, mesmo produto"},
+ {"i":16,"k":"carne bovina fraldinha friboi || carne bovina fraldinha friboi kg","veredito":"mesmo","motivo":"Carne Bovina Fraldinha Friboi kg, imagens praticamente identicas"},
+ {"i":17,"k":"salgadinho cheetos sabores 33g, 35g ou 40g || salgadinho cheetos sabores 33g/35g/40g","veredito":"mesmo","motivo":"Salgadinho Cheetos sabores 33/35/40g, mesma imagem"},
+ {"i":18,"k":"cha de fora bovino (resfriado) || cha de fora bovino resfriado kg","veredito":"mesmo","motivo":"Cha de Fora bovino resfriado kg, corte generico igual"},
+ {"i":19,"k":"sabonete liquido granado bebe glicerina erva doce 250ml || sabonete liquido granado bebe glicerina erva doce refil 250ml","veredito":"diferente","motivo":"refil (pouch, R$19,99) vs frasco 250ml (R$28,49), SKUs distintos no mesmo anuncio"},
+ {"i":20,"k":"picanha maturatta congelada || picanha maturatta congelada kg","veredito":"mesmo","motivo":"Picanha Maturatta congelada kg, embalagem identica (R$89,90)"},
+ {"i":21,"k":"alcatra bovina resfriada || alcatra bovina resfriada kg","veredito":"mesmo","motivo":"Alcatra bovina resfriada kg, corte generico igual"},
+ {"i":22,"k":"lava loucas alice 20x500ml || lava loucas alice 500ml","veredito":"diferente","motivo":"mesma marca Alice, mas caixa atacado 20x500ml vs unidade 500ml"},
+ {"i":23,"k":"achocolatado em po chocolatto 3 coracoes 400g || achocolatado em po chocolatto 3 coracoes refil 400g","veredito":"mesmo","motivo":"Chocolatto 3 Coracoes 400g, mesmo pouch/refil"},
+ {"i":24,"k":"azeite de oliva extra virgem fioz 500ml || azeite de oliva extra virgem minos 500ml","veredito":"diferente","motivo":"marcas distintas: Fioz vs Minos"},
+ {"i":25,"k":"cafe moido bangu 250g || cafe moido bangu sc 250g","veredito":"mesmo","motivo":"Cafe Moido Bangu SC 250g, embalagem identica"}
+]
