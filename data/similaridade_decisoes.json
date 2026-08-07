@@ -15289,5 +15289,408 @@
   "veredito": "mesmo",
   "quando": "2026-08-06",
   "aplicado": true
+ },
+ "carne bovina capa de contra file congelada || carne bovina capa de contra file congelada kg": {
+  "a": "Carne Bovina Capa de Contra Filé Congelada",
+  "b": "Carne Bovina Capa de Contra Filé Congelada kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "carne bovina cordao do contra file || carne bovina cordao do contra file kg": {
+  "a": "Carne Bovina Cordão do Contra Filé",
+  "b": "Carne Bovina Cordão do Contra Filé kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "mocoto bovino serrado congelado || mocoto bovino serrado congelado kg": {
+  "a": "Mocotó Bovino Serrado Congelado",
+  "b": "Mocotó Bovino Serrado Congelado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "carne bovina costela do peito || carne bovina costela do peito kg": {
+  "a": "Carne Bovina Costela do Peito",
+  "b": "Carne Bovina Costela do Peito kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "uva vitoria marcelo frazao bandeja 500g || uva vitoria marcelo frzao band 500g": {
+  "a": "Uva Vitória Marcelo Frzao Band 500g",
+  "b": "Uva Vitória Marcelo Frazão bandeja 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "adocante em po uniao sucralose 400x6g || adocante em po uniao sucralose sache 400x6g": {
+  "a": "Adoçante em Pó União Sucralose 400x6g",
+  "b": "Adoçante em Pó União Sucralose Sachê 400x6g",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "carne bovina cupim || carne bovina cupim kg": {
+  "a": "Carne Bovina Cupim",
+  "b": "Carne Bovina Cupim kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "carne bovina fralda / coxao mole resfriada kg || carne bovina fralda/coxao mole resfriado e sol": {
+  "a": "Carne Bovina Fralda/Coxão Mole Resfriado e Sol",
+  "b": "Carne Bovina Fralda / Coxão Mole Resfriada kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "carne bovina coxao mole resfriado kg || carne bovina fralda / coxao mole resfriada kg": {
+  "a": "Carne Bovina Coxão Mole Resfriado Kg",
+  "b": "Carne Bovina Fralda / Coxão Mole Resfriada kg",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "farinha de trigo dona maria 1kg s/fermento || farinha de trigo farina 1kg sem fermento": {
+  "a": "Farinha de Trigo Farina 1Kg sem Fermento",
+  "b": "Farinha de Trigo Dona Maria 1kg s/Fermento",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "requeijao clan cremoso tradicional ou light 200g || requeijao cremoso danone tradicional ou light 200g": {
+  "a": "Requeijão Clan Cremoso Tradicional ou Light 200g",
+  "b": "Requeijão Cremoso Danone Tradicional ou Light 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "sobrecoxa de frango sadia congelada iqf 1kg || sobrecoxas de frango sadia congeladas iqf pct ou bd 1kg": {
+  "a": "Sobrecoxas de Frango Sadia Congeladas IQF pct ou bd 1kg",
+  "b": "Sobrecoxa de Frango Sadia Congelada IQF 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "feijao carioca bulnez tipo 1 pacote 1kg || feijao carioca kume tipo 1 pct 1kg": {
+  "a": "Feijão Carioca Bulnez Tipo 1 Pacote 1kg",
+  "b": "Feijão Carioca Kumê Tipo 1 PCT 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "hamburguer bovino maturatta 180g || hamburguer maturatta 180g": {
+  "a": "Hambúrguer Maturatta 180g",
+  "b": "Hambúrguer Bovino Maturatta 180g",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "bombom lacta favoritos 131,4g || bombom lacta sortidos 131,4g": {
+  "a": "Bombom Lacta Sortidos 131,4g",
+  "b": "Bombom Lácta Favoritos 131,4g",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "farinha lactea nestle sache 600g || farinha lactea nestle sache 600g original": {
+  "a": "Farinha Láctea Nestlé Sachê 600g Original",
+  "b": "Farinha Láctea Nestlé Sachê 600g",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "saco de lixo brilhus preto 100l/50l rolo 15/30 unidades || saco de lixo brilhus preto 50l/100l rolo com 30/15 unidades": {
+  "a": "Saco de Lixo Brilhus Preto 50L/100L Rolo com 30/15 unidades",
+  "b": "Saco de Lixo Brilhus Preto 100L/50L rolo 15/30 unidades",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "granola biosoft 230g 35 ingredientes integral castanhas || granola biosoft 35 ingredientes integral com castanhas 230g": {
+  "a": "Granola Biosoft 35 Ingredientes Integral com Castanhas 230g",
+  "b": "Granola Biosoft 230g 35 Ingredientes Integral Castanhas",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "refrigerante guarana antarctica pack c/2 tb 1 litro || refrigerante guarana antarctica zero acucar tb 1 litro": {
+  "a": "Refrigerante Guaraná Antarctica pack c/2 tb 1 litro",
+  "b": "Refrigerante Guaraná Antarctica Zero Açúcar tb 1 litro",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "azeite de oliva extra virgem kristal vd 500ml || azeite de oliva extra virgem monini vd 500ml": {
+  "a": "Azeite de Oliva Extra Virgem Monini vd 500ml",
+  "b": "Azeite de Oliva Extra Virgem Kristal vd 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "leite condensado itambe semidesnatado 395g || leite condensado uht leitbom semidesnatado 395g": {
+  "a": "Leite Condensado Itambé Semidesnatado 395g",
+  "b": "Leite Condensado UHT LeitBom Semidesnatado 395g",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "peito de frango super frango (envelopado) || peito de frango super frango congelado kg": {
+  "a": "Peito de Frango Super Frango Congelado KG",
+  "b": "Peito de Frango Super Frango (Envelopado)",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "feijao carioca duze tipo 1 1kg || feijao carioca kume tipo 1 pct 1kg": {
+  "a": "Feijão Carioca DuZé Tipo 1 1kg",
+  "b": "Feijão Carioca Kumê Tipo 1 PCT 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "refrigerante guarana antarctica tb 1 litro || refrigerante guarana antarctica zero acucar tb 1 litro": {
+  "a": "Refrigerante Guaraná Antarctica tb 1 litro",
+  "b": "Refrigerante Guaraná Antarctica Zero Açúcar tb 1 litro",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "leite condensado semi desnatado natville 395g || leite condensado semidesnatado italac 395g": {
+  "a": "Leite Condensado Semidesnatado Italac 395g",
+  "b": "Leite Condensado Semi Desnatado Natville 395g",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "ovo branco grande granja almeida c/ 30 (bandeja) || ovos brancos grandes granja almeida 30 und": {
+  "a": "Ovo Branco Grande Granja Almeida c/ 30 (Bandeja)",
+  "b": "Ovos Brancos Grandes Granja Almeida 30 und",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "cafe santa clara extra forte 250g almofada ou vacuo || cafe santa clara extraforte almofada ou a vacuo 250g": {
+  "a": "Café Santa Clara Extraforte Almofada ou a Vácuo 250g",
+  "b": "Café Santa Clara Extra Forte 250g Almofada ou Vácuo",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "maionese fugini sache 180g || maionese fugini trad sch 180g": {
+  "a": "Maionese Fugini Trad Sch 180g",
+  "b": "Maionese Fugini Sachê 180g",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "leite de coco coco&cia 500ml || leite de coco coconut 500ml": {
+  "a": "Leite de Coco Coconut 500ml",
+  "b": "Leite de Coco Coco&Cia 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "maminha bovina maturatta resfriada kg || picanha bovina maturatta resfriada": {
+  "a": "Picanha Bovina Maturatta Resfriada",
+  "b": "Maminha Bovina Maturatta Resfriada kg",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "meio da asa de frango resfriada || meio da asa de frango resfriada (mauricea)": {
+  "a": "Meio da Asa de Frango Resfriada",
+  "b": "Meio da Asa de Frango Resfriada (Mauricéa)",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "peito de frango bom todo congelado || peito de frango com osso congelado kg": {
+  "a": "Peito de Frango com Osso Congelado kg",
+  "b": "Peito de Frango Bom Todo Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "uva vitoria seleta 500g s/sementes || uva vitoria seleta bandeja 500g sem sementes": {
+  "a": "Uva Vitória Seleta 500g S/Sementes",
+  "b": "Uva Vitoria Seleta Bandeja 500g Sem Sementes",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "folha de aluminio pratsy 0,30x7,5m rolo || folha de aluminio pratsy 30cm x 4m rolo": {
+  "a": "Folha de Alumínio Pratsy 30cm x 4m Rolo",
+  "b": "Folha de Alumínio Pratsy 0,30x7,5m rolo",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "azeite de oliva extra virgem kristal vd 500ml || azeite de oliva extra virgem sacciali vidro 500ml": {
+  "a": "Azeite De Oliva Extra Virgem Sacciali Vidro 500ml",
+  "b": "Azeite de Oliva Extra Virgem Kristal vd 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "leite condensado uht betania semidesnatado 395g || leite condensado uht leitbom semidesnatado 395g": {
+  "a": "Leite Condensado UHT Betânia Semidesnatado 395g",
+  "b": "Leite Condensado UHT LeitBom Semidesnatado 395g",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "milho verde ou dueto fugini sache 170g || milho verde ou ervilha fugini sache 170g": {
+  "a": "Milho Verde ou Dueto Fugini Sachê 170g",
+  "b": "Milho Verde ou Ervilha Fugini Sachê 170g",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "pao de forma center massas integral 400g || pao de forma center massas pacote 400g": {
+  "a": "Pão de Forma Center Massas pacote 400g",
+  "b": "Pão de Forma Center Massas Integral 400G",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "farinha de trigo boa sorte tradicional 1kg || farinha de trigo dona maria tradicional 1kg": {
+  "a": "Farinha de Trigo Boa Sorte Tradicional 1kg",
+  "b": "Farinha de Trigo Dona Maria Tradicional 1Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "leite em po ninho 575g integral/instantaneo sache || leite em po ninho integral ou instantaneo 575g sache": {
+  "a": "Leite em Pó Ninho Integral ou Instantâneo 575g Sachê",
+  "b": "Leite em Pó NINHO 575g Integral/Instantâneo Sachê",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "linguica tipo calabresa aurora || linguica tipo calabresa nutribas": {
+  "a": "Linguiça Tipo Calabresa Nutribas",
+  "b": "Linguica Tipo Calabresa Aurora",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "arroz parboilizado pop pct 1kg || arroz parbolizado urbano pct 1kg": {
+  "a": "Arroz Parboilizado Pop pct 1kg",
+  "b": "Arroz Parbolizado Urbano pct 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "queijo mussarela carinho resfriado fatiado || queijo mussarela jucurutu resfriado fatiado": {
+  "a": "Queijo Mussarela Carinho Resfriado Fatiado",
+  "b": "Queijo Mussarela Jucurutu Resfriado Fatiado",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "farinha de trigo boa sorte tipo 1 1kg || farinha de trigo boa sorte tipo 1 pacote com 1kg": {
+  "a": "Farinha de Trigo Boa Sorte Tipo 1 Pacote com 1kg",
+  "b": "Farinha de Trigo Boa Sorte Tipo 1 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "agua mineral nordestao sem gas tb 1,5 litro || agua mineral ster bom sem gas tb 1,5 litro": {
+  "a": "Água Mineral Nordestão sem Gás Tb 1,5 Litro",
+  "b": "Água Mineral Ster Bom sem Gás tb 1,5 litro",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "file de peixe merluza congelado fish 800g || file de peixe merluza fish congelado pc 800g": {
+  "a": "Filé de Peixe Merluza Congelado Fish 800g",
+  "b": "Filé de Peixe Merluza Fish Congelado PC 800G",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "carne bovina lagarto friboi resfriada || carne bovina lagarto friboi resfriada (kg na peca)": {
+  "a": "Carne Bovina Lagarto Friboi Resfriada",
+  "b": "Carne Bovina Lagarto Friboi Resfriada (kg na peça)",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "contrafile bovino resfriado a vacuo masterboi || cupim bovino resfriado a vacuo masterboi": {
+  "a": "Contrafilé Bovino Resfriado a Vácuo Masterboi",
+  "b": "Cupim Bovino Resfriado a Vácuo Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "biscoito maria / maizena vitarella 350g || biscoito maria ou maizena vitarella 350g (sabores)": {
+  "a": "Biscoito Maria ou Maizena Vitarella 350g (Sabores)",
+  "b": "Biscoito Maria / Maizena Vitarella 350g",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "flocao de milho rei de ouro 500g || flocao de milho so o ouro 500g": {
+  "a": "Flocão de Milho Rei de Ouro 500g",
+  "b": "Flocão de Milho Só o Ouro 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "filezinho de frango lar congelado bandeja 1kg || filezinho sassami de frango aurora congelado bandeja 1kg": {
+  "a": "Filezinho Sassami de Frango Aurora Congelado Bandeja 1kg",
+  "b": "Filezinho de Frango Lar Congelado Bandeja 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "racao umida gatos whiskas 85g sabores || racao umida para gatos whiskas sache 85g sabores": {
+  "a": "Ração Úmida para Gatos Whiskas Sachê 85g Sabores",
+  "b": "Ração Úmida Gatos Whiskas 85g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "leite longa vida integral ou desnatado damare 1l || leite longa vida integral ou desnatado natville tp 1l": {
+  "a": "Leite Longa Vida Integral ou Desnatado Natville TP 1L",
+  "b": "Leite Longa Vida Integral ou Desnatado Damare 1L",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "peito de frango com osso congelado copacol || peito de frango com osso congelado mauricea": {
+  "a": "Peito de Frango com Osso Congelado Copacol",
+  "b": "Peito de Frango com Osso Congelado Mauricéa",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "tintura capilar casting creme gloss || tintura casting creme gloss": {
+  "a": "Tintura Casting Creme Gloss",
+  "b": "Tintura Capilar Casting Creme Gloss",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango com dorsal envelopada || coxa com sobrecoxa de frango com dorsal kg": {
+  "a": "Coxa com Sobrecoxa de Frango com Dorsal Envelopada",
+  "b": "Coxa com Sobrecoxa de Frango com Dorsal kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "mac yara espaguete pct 400g semola || macarrao yara espaguete 400g semola": {
+  "a": "Mac Yara Espaguete PCT 400g Sêmola",
+  "b": "Macarrão Yara Espaguete 400g Sêmola",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "biscoito piraque leite maltado com cobertura ou chocolate 80g || biscoito piraque leite maltado ou chocolate 80g": {
+  "a": "Biscoito Piraquê Leite Maltado ou Chocolate 80g",
+  "b": "Biscoito Piraquê Leite Maltado com Cobertura ou Chocolate 80g",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "carne bovina bisteca do contra file || carne bovina cordao do contra file": {
+  "a": "Carne Bovina Cordão do Contra Filé",
+  "b": "Carne Bovina Bisteca do Contra Filé",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "papel higienico caprice folha dupla leve 12 pague 11 || papel higienico sublime folha dupla 30m leve 12 pague 11": {
+  "a": "Papel Higiênico Sublime Folha Dupla 30m Leve 12 Pague 11",
+  "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
+ },
+ "ovo branco grande granja almeida bandeja com 30 || ovo branco grande granja almeida c/ 30 (bandeja)": {
+  "a": "Ovo Branco Grande Granja Almeida c/ 30 (Bandeja)",
+  "b": "Ovo Branco Grande Granja Almeida Bandeja com 30",
+  "veredito": "mesmo",
+  "quando": "2026-08-06",
+  "aplicado": true
+ },
+ "queijo ralado ilda 40g || queijo ralado italac 40g": {
+  "a": "Queijo Ralado ITALAC 40g",
+  "b": "Queijo Ralado Ilda 40g",
+  "veredito": "diferente",
+  "quando": "2026-08-06"
  }
 }

@@ -1,0 +1,314 @@
+{
+ "validacoes": [
+  {
+   "a": "Carne Bovina Capa de Contra Filé Congelada",
+   "b": "Carne Bovina Capa de Contra Filé Congelada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Cordão do Contra Filé",
+   "b": "Carne Bovina Cordão do Contra Filé kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mocotó Bovino Serrado Congelado",
+   "b": "Mocotó Bovino Serrado Congelado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Costela do Peito",
+   "b": "Carne Bovina Costela do Peito kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Vitória Marcelo Frzao Band 500g",
+   "b": "Uva Vitória Marcelo Frazão bandeja 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Adoçante em Pó União Sucralose 400x6g",
+   "b": "Adoçante em Pó União Sucralose Sachê 400x6g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Cupim",
+   "b": "Carne Bovina Cupim kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Fralda/Coxão Mole Resfriado e Sol",
+   "b": "Carne Bovina Fralda / Coxão Mole Resfriada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Mole Resfriado Kg",
+   "b": "Carne Bovina Fralda / Coxão Mole Resfriada kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha de Trigo Farina 1Kg sem Fermento",
+   "b": "Farinha de Trigo Dona Maria 1kg s/Fermento",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Requeijão Clan Cremoso Tradicional ou Light 200g",
+   "b": "Requeijão Cremoso Danone Tradicional ou Light 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sobrecoxas de Frango Sadia Congeladas IQF pct ou bd 1kg",
+   "b": "Sobrecoxa de Frango Sadia Congelada IQF 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Bulnez Tipo 1 Pacote 1kg",
+   "b": "Feijão Carioca Kumê Tipo 1 PCT 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Hambúrguer Maturatta 180g",
+   "b": "Hambúrguer Bovino Maturatta 180g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bombom Lacta Sortidos 131,4g",
+   "b": "Bombom Lácta Favoritos 131,4g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha Láctea Nestlé Sachê 600g Original",
+   "b": "Farinha Láctea Nestlé Sachê 600g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Saco de Lixo Brilhus Preto 50L/100L Rolo com 30/15 unidades",
+   "b": "Saco de Lixo Brilhus Preto 100L/50L rolo 15/30 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Granola Biosoft 35 Ingredientes Integral com Castanhas 230g",
+   "b": "Granola Biosoft 230g 35 Ingredientes Integral Castanhas",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica pack c/2 tb 1 litro",
+   "b": "Refrigerante Guaraná Antarctica Zero Açúcar tb 1 litro",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem Monini vd 500ml",
+   "b": "Azeite de Oliva Extra Virgem Kristal vd 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado Itambé Semidesnatado 395g",
+   "b": "Leite Condensado UHT LeitBom Semidesnatado 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito de Frango Super Frango Congelado KG",
+   "b": "Peito de Frango Super Frango (Envelopado)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca DuZé Tipo 1 1kg",
+   "b": "Feijão Carioca Kumê Tipo 1 PCT 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica tb 1 litro",
+   "b": "Refrigerante Guaraná Antarctica Zero Açúcar tb 1 litro",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado Semidesnatado Italac 395g",
+   "b": "Leite Condensado Semi Desnatado Natville 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovo Branco Grande Granja Almeida c/ 30 (Bandeja)",
+   "b": "Ovos Brancos Grandes Granja Almeida 30 und",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Santa Clara Extraforte Almofada ou a Vácuo 250g",
+   "b": "Café Santa Clara Extra Forte 250g Almofada ou Vácuo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maionese Fugini Trad Sch 180g",
+   "b": "Maionese Fugini Sachê 180g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite de Coco Coconut 500ml",
+   "b": "Leite de Coco Coco&Cia 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Picanha Bovina Maturatta Resfriada",
+   "b": "Maminha Bovina Maturatta Resfriada kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Meio da Asa de Frango Resfriada",
+   "b": "Meio da Asa de Frango Resfriada (Mauricéa)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango com Osso Congelado kg",
+   "b": "Peito de Frango Bom Todo Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva Vitória Seleta 500g S/Sementes",
+   "b": "Uva Vitoria Seleta Bandeja 500g Sem Sementes",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Folha de Alumínio Pratsy 30cm x 4m Rolo",
+   "b": "Folha de Alumínio Pratsy 0,30x7,5m rolo",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite De Oliva Extra Virgem Sacciali Vidro 500ml",
+   "b": "Azeite de Oliva Extra Virgem Kristal vd 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado UHT Betânia Semidesnatado 395g",
+   "b": "Leite Condensado UHT LeitBom Semidesnatado 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Milho Verde ou Dueto Fugini Sachê 170g",
+   "b": "Milho Verde ou Ervilha Fugini Sachê 170g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pão de Forma Center Massas pacote 400g",
+   "b": "Pão de Forma Center Massas Integral 400G",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha de Trigo Boa Sorte Tradicional 1kg",
+   "b": "Farinha de Trigo Dona Maria Tradicional 1Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite em Pó Ninho Integral ou Instantâneo 575g Sachê",
+   "b": "Leite em Pó NINHO 575g Integral/Instantâneo Sachê",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Tipo Calabresa Nutribas",
+   "b": "Linguica Tipo Calabresa Aurora",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Parboilizado Pop pct 1kg",
+   "b": "Arroz Parbolizado Urbano pct 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Mussarela Carinho Resfriado Fatiado",
+   "b": "Queijo Mussarela Jucurutu Resfriado Fatiado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha de Trigo Boa Sorte Tipo 1 Pacote com 1kg",
+   "b": "Farinha de Trigo Boa Sorte Tipo 1 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Mineral Nordestão sem Gás Tb 1,5 Litro",
+   "b": "Água Mineral Ster Bom sem Gás tb 1,5 litro",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peixe Merluza Congelado Fish 800g",
+   "b": "Filé de Peixe Merluza Fish Congelado PC 800G",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Lagarto Friboi Resfriada",
+   "b": "Carne Bovina Lagarto Friboi Resfriada (kg na peça)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Contrafilé Bovino Resfriado a Vácuo Masterboi",
+   "b": "Cupim Bovino Resfriado a Vácuo Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Maria ou Maizena Vitarella 350g (Sabores)",
+   "b": "Biscoito Maria / Maizena Vitarella 350g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Flocão de Milho Rei de Ouro 500g",
+   "b": "Flocão de Milho Só o Ouro 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filezinho Sassami de Frango Aurora Congelado Bandeja 1kg",
+   "b": "Filezinho de Frango Lar Congelado Bandeja 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ração Úmida para Gatos Whiskas Sachê 85g Sabores",
+   "b": "Ração Úmida Gatos Whiskas 85g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Longa Vida Integral ou Desnatado Natville TP 1L",
+   "b": "Leite Longa Vida Integral ou Desnatado Damare 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito de Frango com Osso Congelado Copacol",
+   "b": "Peito de Frango com Osso Congelado Mauricéa",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Tintura Casting Creme Gloss",
+   "b": "Tintura Capilar Casting Creme Gloss",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango com Dorsal Envelopada",
+   "b": "Coxa com Sobrecoxa de Frango com Dorsal kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mac Yara Espaguete PCT 400g Sêmola",
+   "b": "Macarrão Yara Espaguete 400g Sêmola",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Piraquê Leite Maltado ou Chocolate 80g",
+   "b": "Biscoito Piraquê Leite Maltado com Cobertura ou Chocolate 80g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Cordão do Contra Filé",
+   "b": "Carne Bovina Bisteca do Contra Filé",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Sublime Folha Dupla 30m Leve 12 Pague 11",
+   "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovo Branco Grande Granja Almeida c/ 30 (Bandeja)",
+   "b": "Ovo Branco Grande Granja Almeida Bandeja com 30",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Ralado ITALAC 40g",
+   "b": "Queijo Ralado Ilda 40g",
+   "veredito": "diferente"
+  }
+ ]
+}

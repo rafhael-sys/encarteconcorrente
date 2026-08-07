@@ -1,0 +1,36 @@
+{
+  "DbsqkoamA7r_p1": [
+    {"n": "Vinho Tinto Riporta Primitivo di Manduria 750ml", "p": "109,99", "u": "cada", "x": 6, "y": 37, "w": 24, "h": 14},
+    {"n": "Vinho Tinto Quinta de Porrais Douro 750ml", "p": "113,99", "u": "cada", "x": 30, "y": 37, "w": 21, "h": 15},
+    {"n": "Vinho Tinto Château Canteloup Médoc 750ml", "p": "127,99", "u": "cada", "x": 51, "y": 37, "w": 21, "h": 15},
+    {"n": "Vinho Tinto Orgânico Masi Tupungato Corvina + Malbec 750ml", "p": "189,99", "u": "cada", "x": 72, "y": 37, "w": 23, "h": 15},
+    {"n": "Vinho Tinto Doña Dominga Cuvée Colchagua 750ml", "p": "229,99", "u": "cada", "x": 6, "y": 51, "w": 24, "h": 14},
+    {"n": "Vinho Tinto Saint-Emilion Grand Cru Château d'Anielle 750ml", "p": "235,99", "u": "cada", "x": 30, "y": 52, "w": 21, "h": 13},
+    {"n": "Vinho Tinto Cecchi Brunello di Montalcino 750ml", "p": "399,99", "u": "cada", "x": 51, "y": 52, "w": 21, "h": 13},
+    {"n": "Vinho Tinto Bodegas RE Renace 750ml", "p": "629,99", "u": "cada", "x": 72, "y": 52, "w": 23, "h": 13},
+    {"n": "Pérolas de Queijo Fresco com Recheio Nacon Sabores 100g", "p": "23,99", "u": "cada", "x": 5, "y": 69, "w": 22, "h": 14},
+    {"n": "Queijo Danablu Emborg 100g", "p": "26,99", "u": "cada", "x": 28, "y": 65, "w": 21, "h": 15},
+    {"n": "Manteiga Francesa Isigny com Sal 8 Cápsulas 10g", "p": "36,99", "u": "cada", "x": 51, "y": 65, "w": 21, "h": 15},
+    {"n": "Manteiga Francesa Isigny sem Sal 8 Cápsulas 10g", "p": "36,99", "u": "cada", "x": 72, "y": 65, "w": 23, "h": 15},
+    {"n": "Salame Espanhol Haciendas Reserva 100g", "p": "23,99", "u": "cada", "x": 5, "y": 80, "w": 22, "h": 14},
+    {"n": "Presunto Extra Fino Haciendas Reserva 100g", "p": "29,99", "u": "cada", "x": 30, "y": 80, "w": 22, "h": 14},
+    {"n": "Picanha Bovina Australiana Congelada", "p": "132,99", "u": "kg", "x": 70, "y": 80, "w": 25, "h": 14}
+  ],
+  "DbsqkoamA7r_p2": [
+    {"n": "Massa Gnocchi de Batata ou Espinafre Mazza 500g", "p": "12,99", "u": "cada", "x": 6, "y": 17, "w": 22, "h": 15},
+    {"n": "Massa Tagliatelle Filotea 200g", "p": "24,99", "u": "cada", "x": 33, "y": 15, "w": 23, "h": 16},
+    {"n": "Risotto Pronto Mazza 300g", "p": "49,99", "u": "cada", "x": 62, "y": 14, "w": 32, "h": 17},
+    {"n": "Azeitonas Verdes Category Select Fragata com Caroço 340g", "p": "15,99", "u": "cada", "x": 5, "y": 33, "w": 22, "h": 14},
+    {"n": "Molho Arrabbiata La Molisana 340g", "p": "24,99", "u": "cada", "x": 30, "y": 31, "w": 22, "h": 16},
+    {"n": "Tomate Seco Mazza 314ml", "p": "27,99", "u": "cada", "x": 54, "y": 31, "w": 20, "h": 16},
+    {"n": "Azeite de Oliva Extra Virgem Minos 500ml", "p": "48,99", "u": "cada", "x": 76, "y": 31, "w": 20, "h": 16},
+    {"n": "Choco Biscuits Milka 150g", "p": "19,99", "u": "cada", "x": 5, "y": 52, "w": 22, "h": 15},
+    {"n": "Chocolate Thank You Milka 110g", "p": "23,99", "u": "cada", "x": 30, "y": 50, "w": 22, "h": 16},
+    {"n": "Bombons I Love Hazelnut Milka 110g", "p": "24,99", "u": "cada", "x": 54, "y": 50, "w": 20, "h": 16},
+    {"n": "Chocolate em Tablete Lindt Swiss 100g", "p": "32,99", "u": "cada", "x": 76, "y": 50, "w": 20, "h": 16},
+    {"n": "Biscoito Sortido Princesa 200g", "p": "15,99", "u": "cada", "x": 5, "y": 68, "w": 22, "h": 15},
+    {"n": "Biscoito Recheado Hit 220g", "p": "16,99", "u": "cada", "x": 30, "y": 68, "w": 22, "h": 15},
+    {"n": "Biscoito Nutella Biscuits 304g", "p": "46,99", "u": "cada", "x": 52, "y": 68, "w": 23, "h": 15},
+    {"n": "Geleia Francesa St. Dalfour 284g", "p": "43,99", "u": "cada", "x": 76, "y": 68, "w": 20, "h": 15}
+  ]
+}

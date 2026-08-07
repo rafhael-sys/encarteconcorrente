@@ -1,0 +1,24 @@
+{
+  "Dbt2BYFltiY_p1": [
+    {"n": "Refrigerante Coca-Cola 1,5L", "p": "6,99", "u": "und", "x": 9, "y": 35, "w": 27, "h": 20},
+    {"n": "Cerveja Devassa Puro Malte Lata 350ml", "p": "2,59", "u": "und", "x": 42, "y": 35, "w": 26, "h": 20},
+    {"n": "Vinho Chileno Água Santa 750ml", "p": "18,98", "u": "und", "x": 72, "y": 35, "w": 26, "h": 20},
+    {"n": "Alcatra Bovina Resfriada", "p": "45,90", "u": "kg", "x": 10, "y": 55, "w": 28, "h": 18},
+    {"n": "Fraldinha Bovina Congelada", "p": "44,98", "u": "kg", "x": 40, "y": 55, "w": 28, "h": 18},
+    {"n": "Pão de Alho Bom Todo Tradicional 400g", "p": "11,98", "u": "und", "x": 70, "y": 55, "w": 28, "h": 18},
+    {"n": "Asa de Frango Congelada a Granel", "p": "14,98", "u": "kg", "x": 8, "y": 74, "w": 30, "h": 19},
+    {"n": "Costela Suína Bom Todo Temperada Congelada", "p": "29,90", "u": "kg", "x": 40, "y": 74, "w": 28, "h": 19},
+    {"n": "Panceta Suína Bom Todo Temperada Congelada", "p": "32,90", "u": "kg", "x": 70, "y": 74, "w": 28, "h": 19}
+  ],
+  "Dbt2BYFltiY_p2": [
+    {"n": "Cerveja Budweiser Lata 350ml", "p": "3,59", "u": "und", "x": 8, "y": 35, "w": 28, "h": 20},
+    {"n": "Cerveja Itaipava Pilsen Lata 350ml", "p": "2,59", "u": "und", "x": 40, "y": 35, "w": 28, "h": 20},
+    {"n": "Cerveja Heineken Lata 350ml", "p": "4,99", "u": "und", "x": 72, "y": 35, "w": 26, "h": 20},
+    {"n": "Whisky Johnnie Walker Red Label 750ml", "p": "59,90", "u": "und", "x": 8, "y": 54, "w": 30, "h": 19},
+    {"n": "Cachaça Matuta 1L (Flor de Banana / Maçã Verde / Mel & Limão)", "p": "44,90", "u": "und", "x": 40, "y": 54, "w": 28, "h": 20},
+    {"n": "Picanha Maturatta Congelada", "p": "89,90", "u": "und", "x": 70, "y": 54, "w": 28, "h": 18},
+    {"n": "Picanha Suína Bom Todo Temperada Congelada", "p": "29,90", "u": "kg", "x": 8, "y": 75, "w": 28, "h": 18},
+    {"n": "Linguiça Suína para Churrasco Avivar", "p": "11,98", "u": "kg", "x": 40, "y": 75, "w": 28, "h": 18},
+    {"n": "Whisky Old Parr 1L", "p": "124,59", "u": "und", "x": 72, "y": 75, "w": 26, "h": 18}
+  ]
+}

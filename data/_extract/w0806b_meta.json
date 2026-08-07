@@ -1,0 +1,150 @@
+{
+ "DbtJaAuFUIj": {
+  "inicio": "2026-08-05",
+  "fim": "2026-08-06",
+  "titulo": "Favorito — Quarta e Quinta Verde (hortifruti)"
+ },
+ "Dbs9t7tnMZ5": {
+  "inicio": "2026-08-05",
+  "fim": "2026-08-11",
+  "titulo": "Favorito — Favoritaço (Parnamirim e Macaíba)"
+ },
+ "Dbs5VqqnEiW": {
+  "inicio": "2026-08-05",
+  "fim": "2026-08-11",
+  "titulo": "Favorito — Varejo Ponta Negra e Ayrton Senna"
+ },
+ "Dbt3yRTD4fl": {
+  "inicio": "2026-08-07",
+  "fim": "2026-08-09",
+  "titulo": "Favorito — Faz o PIX Favorito"
+ },
+ "DbsqkoamA7r": {
+  "inicio": "2026-08-04",
+  "fim": "2026-08-18",
+  "titulo": "Super Nordestão — Especial Importados"
+ },
+ "Dbt2ZLiH6mK": {
+  "inicio": "2026-08-07",
+  "fim": "2026-08-13",
+  "titulo": "Mar Vermelho — Mês dos Pais"
+ },
+ "DbskJQtm5WH": {
+  "inicio": "2026-08-06",
+  "fim": "2026-08-07",
+  "titulo": "Mar Vermelho — Feirão Hortifruti"
+ },
+ "DbtvODJmLU-": {
+  "inicio": "2026-08-07",
+  "fim": "2026-08-09",
+  "titulo": "Rede Super Show — Super Dia Show"
+ },
+ "Dbs_FcJDiHM": {
+  "inicio": "2026-08-07",
+  "fim": "2026-08-10",
+  "titulo": "Rede Super Show — Bebidas e Perfumaria (Dia dos Pais)"
+ },
+ "Dbt-3PLGsMS": {
+  "inicio": "2026-08-07",
+  "fim": "2026-08-09",
+  "titulo": "Corte Fácil — Bom Todo (Dia dos Pais)"
+ },
+ "Dbt2CUwCAk9": {
+  "inicio": "2026-08-07",
+  "fim": "2026-08-08",
+  "titulo": "RedeMAIS — Oferta Nota 10 (26 anos)"
+ },
+ "DbtpyCFAf9_": {
+  "inicio": "2026-08-07",
+  "fim": "2026-08-24",
+  "titulo": "SuperFácil — Marca Exclusiva"
+ },
+ "DbtOzrESL85": {
+  "inicio": "2026-08-07",
+  "fim": "2026-08-09",
+  "titulo": "Leva Mais (Macau) — Paizão (Dia dos Pais)"
+ },
+ "Dbt2BYFltiY": {
+  "inicio": "2026-08-07",
+  "fim": "2026-08-09",
+  "titulo": "Leva Mais João Câmara — Paizão (Dia dos Pais)"
+ },
+ "story_favoritosuper_20260806": {
+  "inicio": "2026-08-05",
+  "fim": "2026-08-11",
+  "titulo": "Favorito — ofertas (story 06/08)"
+ },
+ "story_supernordestaonatal_20260806": {
+  "inicio": "2026-08-05",
+  "fim": "2026-08-18",
+  "titulo": "Super Nordestão — ofertas de loja (story 06/08)"
+ },
+ "story_miramarsupermercado_20260806": {
+  "inicio": "2026-08-05",
+  "fim": "2026-08-19",
+  "titulo": "Miramar — ofertas (story 06/08)"
+ },
+ "story_atacarejo_santoantonio.ofc_20260806": {
+  "inicio": "2026-08-05",
+  "fim": "2026-08-06",
+  "titulo": "Atacarejo Santo Antônio — Quarta e Quinta Verde (story 06/08)"
+ },
+ "story_marvermelhoatacado_20260806": {
+  "inicio": "2026-08-05",
+  "fim": "2026-08-30",
+  "titulo": "Mar Vermelho — Festival de Vinhos e da Casa (story 06/08)"
+ },
+ "story_redesuper.show_20260806": {
+  "inicio": "2026-08-05",
+  "fim": "2026-08-06",
+  "titulo": "Rede Super Show — Super Feirão Hortifruti (story 06/08)"
+ },
+ "story_queirozatacadaonatal__20260806": {
+  "inicio": "2026-07-28",
+  "fim": "2026-08-16",
+  "titulo": "Queiroz Atacadão (Natal) — +Saudável e São Braz (story 06/08)"
+ },
+ "story_queirozatacadaojoaocamara_20260806": {
+  "inicio": "2026-07-28",
+  "fim": "2026-08-16",
+  "titulo": "Queiroz Atacadão (João Câmara) — +Saudável, São Braz e Feirão (story 06/08)"
+ },
+ "story_mirassolatacado_20260806": {
+  "inicio": "2026-07-28",
+  "fim": "2026-08-10",
+  "titulo": "Mirassol Atacado — ofertas (story 06/08)"
+ },
+ "story_superfacilvaledosol_20260806": {
+  "inicio": "2026-08-06",
+  "fim": "2026-08-10",
+  "titulo": "SuperFácil Vale do Sol — ofertas (story 06/08)"
+ },
+ "DbtHtg2DDZx": {
+  "discard": true,
+  "reason": "teaser 'É amanhã' do PIX Favorito — sem produto com preço"
+ },
+ "Dbtld-EGD-H": {
+  "discard": true,
+  "reason": "Super Nordestão Dia da Cerveja — só 'Leve X Pague Y', sem preço em R$ impresso"
+ },
+ "DbstrgHEtu4": {
+  "discard": true,
+  "reason": "Miramar teaser 'confira as ofertas nos stories' — sem produto com preço"
+ },
+ "DbtbYhEHbiw": {
+  "discard": true,
+  "reason": "Rede Super Show — peça institucional (matéria AgoraRN), sem produto/preço"
+ },
+ "DbstNwXuaBY": {
+  "discard": true,
+  "reason": "SuperFácil Atacado JOÃO PESSOA — oferta fora do RN (regra)"
+ },
+ "story_superfacilatacado_20260806": {
+  "discard": true,
+  "reason": "SuperFácil Atacado — frames de João Pessoa/PB (regra), nada RN com preço"
+ },
+ "story_redesupercop_20260806": {
+  "discard": true,
+  "reason": "Rede Supercop — frame institucional Dia dos Pais, sem preço"
+ }
+}

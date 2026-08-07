@@ -1,0 +1,465 @@
+{
+ "story_queirozatacadaojoaocamara_3957679692824005508": [
+  {
+   "n": "Açúcar Magro Light 400g",
+   "p": "11,98",
+   "u": "cada",
+   "x": 5,
+   "y": 36,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Adoçante Líquido Magro Fr 100ml Diet",
+   "p": "5,48",
+   "u": "cada",
+   "x": 24,
+   "y": 36,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Adoçante Líquido Magro Fr 65ml Stévia",
+   "p": "7,89",
+   "u": "cada",
+   "x": 43,
+   "y": 36,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Aveia em Flocos Vitalin Pch 200g Fino",
+   "p": "9,68",
+   "u": "cada",
+   "x": 61,
+   "y": 36,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Biscoito Caseirinho Vitalin Sem Glúten 100g Sabores",
+   "p": "6,68",
+   "u": "cada",
+   "x": 79,
+   "y": 36,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Alfajor Sem Lactose Bendu Prot 40g",
+   "p": "11,98",
+   "u": "cada",
+   "x": 5,
+   "y": 48,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Biscoito Cookies Biosoft 100g Sabores",
+   "p": "6,38",
+   "u": "cada",
+   "x": 24,
+   "y": 48,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Biscoito Cookies com Whey Vitalin 40g Sabores",
+   "p": "6,98",
+   "u": "cada",
+   "x": 43,
+   "y": 48,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Biscoito Wafer Lowçúcar Diet 115g Sabores",
+   "p": "10,98",
+   "u": "cada",
+   "x": 61,
+   "y": 48,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Biscoito Wafer Prot Bendu Pct 40g Sabores",
+   "p": "12,48",
+   "u": "cada",
+   "x": 79,
+   "y": 48,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Cacau em Pó Vitao 100g",
+   "p": "10,98",
+   "u": "cada",
+   "x": 4,
+   "y": 61,
+   "w": 15,
+   "h": 11
+  },
+  {
+   "n": "Chia em Grãos Sabor do Campo 120g",
+   "p": "6,98",
+   "u": "cada",
+   "x": 20,
+   "y": 61,
+   "w": 15,
+   "h": 11
+  },
+  {
+   "n": "Farelo de Aveia Vitalin Sch 160g com Whey",
+   "p": "12,98",
+   "u": "cada",
+   "x": 36,
+   "y": 61,
+   "w": 15,
+   "h": 11
+  },
+  {
+   "n": "Farinha de Trigo Integral Vitao Pct 500g",
+   "p": "7,98",
+   "u": "cada",
+   "x": 52,
+   "y": 61,
+   "w": 15,
+   "h": 11
+  },
+  {
+   "n": "Flocão Só o Ouro Milho 500g",
+   "p": "3,48",
+   "u": "cada",
+   "x": 67,
+   "y": 61,
+   "w": 15,
+   "h": 11
+  },
+  {
+   "n": "Gelatina Lowçúcar Sem Sabor Cx 12g",
+   "p": "3,68",
+   "u": "cada",
+   "x": 82,
+   "y": 61,
+   "w": 15,
+   "h": 11
+  },
+  {
+   "n": "Geleia Queensberry Vd 320g Pimenta Forte",
+   "p": "22,98",
+   "u": "cada",
+   "x": 5,
+   "y": 76,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Granola Biosoft 230g 35 Ingredientes e Integral Castanhas",
+   "p": "10,98",
+   "u": "cada",
+   "x": 24,
+   "y": 76,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Granola Biosoft 230g Diet Multi Cereal",
+   "p": "10,98",
+   "u": "cada",
+   "x": 43,
+   "y": 76,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Granola Biosoft 230g Integral Tradicional ou Light",
+   "p": "9,48",
+   "u": "cada",
+   "x": 61,
+   "y": 76,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Psyllium Vitalin Pct 100g",
+   "p": "23,48",
+   "u": "cada",
+   "x": 79,
+   "y": 76,
+   "w": 18,
+   "h": 12
+  }
+ ],
+ "story_queirozatacadaojoaocamara_3957972015270665213": [
+  {
+   "n": "Inhame Cará São Tomé",
+   "p": "4,88",
+   "u": "kg (de 8,98 por)",
+   "x": 20,
+   "y": 50,
+   "w": 66,
+   "h": 48
+  }
+ ],
+ "story_queirozatacadaojoaocamara_3957972075131803745": [
+  {
+   "n": "Abacate",
+   "p": "4,88",
+   "u": "kg (de 6,98 por)",
+   "x": 28,
+   "y": 26,
+   "w": 45,
+   "h": 60
+  }
+ ],
+ "story_queirozatacadaojoaocamara_3957972165275841145": [
+  {
+   "n": "Biscoito Recheado Treloso 120g Sabores",
+   "p": "2,08",
+   "u": "cada (de 2,59 por)",
+   "x": 0,
+   "y": 40,
+   "w": 78,
+   "h": 35
+  }
+ ],
+ "story_queirozatacadaojoaocamara_3957972258941126155": [
+  {
+   "n": "Banana Pacova",
+   "p": "3,88",
+   "u": "kg (de 4,48 por)",
+   "x": 22,
+   "y": 22,
+   "w": 55,
+   "h": 55
+  }
+ ],
+ "story_queirozatacadaojoaocamara_3957972368144015446": [
+  {
+   "n": "Cebola Branca",
+   "p": "4,98",
+   "u": "kg (de 5,98 por)",
+   "x": 72,
+   "y": 30,
+   "w": 27,
+   "h": 32
+  }
+ ],
+ "story_queirozatacadaojoaocamara_3957972482866673023": [
+  {
+   "n": "Cenoura",
+   "p": "5,88",
+   "u": "kg (de 7,98 por)",
+   "x": 10,
+   "y": 25,
+   "w": 80,
+   "h": 65
+  }
+ ],
+ "story_queirozatacadaojoaocamara_3957972398839737281": [
+  {
+   "n": "Beterraba",
+   "p": "3,98",
+   "u": "kg (de 6,98 por)",
+   "x": 22,
+   "y": 62,
+   "w": 62,
+   "h": 36
+  }
+ ],
+ "story_queirozatacadaojoaocamara_3957972612036340155": [
+  {
+   "n": "Refrigerante Dore 2L Sabores",
+   "p": "4,99",
+   "u": "cada (de 5,49 por)",
+   "x": 8,
+   "y": 72,
+   "w": 70,
+   "h": 26
+  }
+ ],
+ "story_queirozatacadaojoaocamara_3957972824870192947": [
+  {
+   "n": "Amaciante de Roupa Downy 500ml Fragrâncias",
+   "p": "11,98",
+   "u": "cada (de 13,99 por)",
+   "x": 18,
+   "y": 62,
+   "w": 72,
+   "h": 32
+  }
+ ],
+ "story_queirozatacadaojoaocamara_3957959257941317965": [
+  {
+   "n": "Amendoim Torrado São Braz Sem Pele 200g",
+   "p": "8,48",
+   "u": "cada",
+   "x": 5,
+   "y": 40,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Aveia em Flocos São Braz 165g Finos ou Grossos",
+   "p": "3,58",
+   "u": "cada",
+   "x": 24,
+   "y": 40,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Batata Frita Scrusch Pct 100g Churrasco",
+   "p": "6,48",
+   "u": "cada",
+   "x": 43,
+   "y": 40,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Batata Palha Scrusch São Braz Pct 500g Sabores",
+   "p": "21,98",
+   "u": "cada",
+   "x": 61,
+   "y": 40,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Biscoito Recheado Tuffit Pct 90g Chocolate",
+   "p": "4,48",
+   "u": "cada",
+   "x": 79,
+   "y": 40,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Biscoito Tuffit Mini Pct 40g Chocolate",
+   "p": "2,18",
+   "u": "cada",
+   "x": 5,
+   "y": 52,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Café Alm Blend 53 Intenso São Braz 250g Intenso ou Superior",
+   "p": "13,98",
+   "u": "cada",
+   "x": 24,
+   "y": 52,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Café São Braz 40g Solúvel Extra Forte",
+   "p": "5,48",
+   "u": "cada",
+   "x": 43,
+   "y": 52,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Café Solúvel São Braz 40g Descafeinado",
+   "p": "8,98",
+   "u": "cada",
+   "x": 61,
+   "y": 52,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Café Solúvel São Braz Lt 330g Leite",
+   "p": "17,98",
+   "u": "cada",
+   "x": 79,
+   "y": 52,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Café Torrado Nordestino Almofada 250g",
+   "p": "11,98",
+   "u": "cada",
+   "x": 5,
+   "y": 64,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Café Torrado São Braz Almofada 250g Família ou Extra Forte",
+   "p": "13,38",
+   "u": "cada",
+   "x": 24,
+   "y": 64,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Canjiquinha São Braz Diet 300g ou Curau 400g",
+   "p": "9,48",
+   "u": "cada",
+   "x": 43,
+   "y": 64,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Cappuccino São Braz 150g Light",
+   "p": "16,98",
+   "u": "cada",
+   "x": 61,
+   "y": 64,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Cappuccino São Braz 200g",
+   "p": "15,98",
+   "u": "cada",
+   "x": 79,
+   "y": 64,
+   "w": 18,
+   "h": 11
+  },
+  {
+   "n": "Colorífico Nordestino Tradicional 100g",
+   "p": "0,78",
+   "u": "cada",
+   "x": 5,
+   "y": 78,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Filtro de Papel São Braz 103 30un",
+   "p": "4,48",
+   "u": "cada",
+   "x": 24,
+   "y": 78,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Flocão São Braz Não Transgênico 500g",
+   "p": "4,28",
+   "u": "cada",
+   "x": 43,
+   "y": 78,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Mistura para Bolo São Braz 400g Sabores",
+   "p": "6,28",
+   "u": "cada",
+   "x": 61,
+   "y": 78,
+   "w": 18,
+   "h": 12
+  }
+ ]
+}

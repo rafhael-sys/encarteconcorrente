@@ -1,0 +1,48 @@
+{
+  "DbtvODJmLU-_p1": [
+    {"n": "Linguiça de Frango Bom Todo", "p": "12,99", "u": "kg", "x": 4, "y": 26, "w": 22, "h": 16},
+    {"n": "Peito de Frango Envelopado (Congelado)", "p": "9,98", "u": "kg", "x": 26, "y": 26, "w": 22, "h": 16},
+    {"n": "Chã de Fora Bovino (Resfriado)", "p": "36,99", "u": "kg", "x": 49, "y": 26, "w": 22, "h": 16},
+    {"n": "Batata Pré-Frita Prime Fries 2kg (Congelada - Tradicional)", "p": "16,99", "u": "cada", "x": 74, "y": 26, "w": 24, "h": 16},
+    {"n": "Café União 250g (Extraforte/Tradicional - Almofada/A Vácuo/Pouch)", "p": "9,99", "u": "cada", "x": 2, "y": 47, "w": 24, "h": 16},
+    {"n": "Massa Galo 400g (Parafuso)", "p": "2,49", "u": "cada", "x": 27, "y": 47, "w": 22, "h": 16},
+    {"n": "Massa Galo 400g (Espaguete)", "p": "1,89", "u": "cada", "x": 50, "y": 47, "w": 22, "h": 16},
+    {"n": "Feijão Felitá Chef 1kg (Preto)", "p": "6,59", "u": "cada", "x": 74, "y": 47, "w": 24, "h": 16},
+    {"n": "Arroz Blue Soft 1kg (Parboilizado)", "p": "3,59", "u": "cada", "x": 2, "y": 68, "w": 18, "h": 16},
+    {"n": "Lava Roupas em Pó Ala 400g (Fragrâncias)", "p": "2,59", "u": "cada", "x": 21, "y": 68, "w": 18, "h": 16},
+    {"n": "Papel Higiênico Felitá Care 20m C/12 (Folha Dupla)", "p": "9,99", "u": "cada", "x": 40, "y": 68, "w": 18, "h": 16},
+    {"n": "Fraldas Descartáveis Mili Love & Care Jumbo (Tamanhos)", "p": "24,99", "u": "cada", "x": 59, "y": 68, "w": 19, "h": 16},
+    {"n": "Cerveja Devassa Tropical 350ml (Sleek)", "p": "2,59", "u": "cada", "x": 79, "y": 68, "w": 19, "h": 16}
+  ],
+  "DbtvODJmLU-_p2": [
+    {"n": "Frango a Passarinho Bom Todo 1kg (IQF - Temperado)", "p": "11,99", "u": "cada", "x": 5, "y": 8, "w": 22, "h": 20},
+    {"n": "Hambúrguer Perdigão ou Sadia 56g (Misto)", "p": "0,99", "u": "cada", "x": 28, "y": 8, "w": 22, "h": 20},
+    {"n": "Steak de Frango Perdigão ou Super Frango 100g", "p": "1,19", "u": "cada", "x": 51, "y": 8, "w": 22, "h": 20},
+    {"n": "Salsicha Hot-Dog Boua", "p": "5,99", "u": "kg", "x": 74, "y": 8, "w": 24, "h": 20},
+    {"n": "Bisteca Suína Seara", "p": "13,99", "u": "kg", "x": 5, "y": 29, "w": 22, "h": 18},
+    {"n": "Costela Suína Sadia", "p": "17,99", "u": "kg", "x": 28, "y": 29, "w": 22, "h": 18},
+    {"n": "Ovos de Codorna Avine C/30", "p": "6,99", "u": "cada", "x": 51, "y": 29, "w": 22, "h": 18},
+    {"n": "Bebida Mista Crystal Ice 275ml (Long Neck - Caju)", "p": "4,99", "u": "cada", "x": 74, "y": 29, "w": 24, "h": 18},
+    {"n": "Cachaça Matuta 350ml (Lata - Sabores)", "p": "9,99", "u": "cada", "x": 5, "y": 47, "w": 22, "h": 18},
+    {"n": "Bebida Mista Tampico 1,5L (Sabores)", "p": "5,99", "u": "cada", "x": 28, "y": 47, "w": 22, "h": 18},
+    {"n": "Refrigerante Dore 2L (Sabores, exceto Cola)", "p": "5,99", "u": "cada", "x": 51, "y": 47, "w": 22, "h": 18},
+    {"n": "Mistura Láctea Condensada Triângulo Mineiro 395g", "p": "3,79", "u": "cada", "x": 74, "y": 47, "w": 24, "h": 18},
+    {"n": "Pão de Forma Bauducco 390g (Tradicional)/Bisnaguinha 260g (Tradicional)", "p": "5,99", "u": "cada", "x": 5, "y": 65, "w": 22, "h": 18},
+    {"n": "Biscoito Wafer Bauducco 70g (Chocolate/Brigadeiro)", "p": "1,49", "u": "cada", "x": 28, "y": 65, "w": 22, "h": 18},
+    {"n": "Creme Culinário Triângulo Mineiro 200g", "p": "1,79", "u": "cada", "x": 51, "y": 65, "w": 22, "h": 18},
+    {"n": "Biscoito Recheado Treloso 120g (Sabores)", "p": "1,89", "u": "cada", "x": 74, "y": 65, "w": 24, "h": 18}
+  ],
+  "DbtvODJmLU-_p3": [
+    {"n": "Molho de Tomate Felitá Chef Sc 300g (Refogado)", "p": "1,49", "u": "cada", "x": 8, "y": 7, "w": 26, "h": 20},
+    {"n": "Dueto/Milho Verde Predilecta 170g (Sachê)", "p": "2,99", "u": "cada", "x": 37, "y": 7, "w": 26, "h": 20},
+    {"n": "Catchup Tambaú 830g (Tradicional/Picante)", "p": "6,99", "u": "cada", "x": 66, "y": 7, "w": 28, "h": 20},
+    {"n": "Flocão de Milho Fortemilho 400g", "p": "0,99", "u": "cada", "x": 8, "y": 28, "w": 26, "h": 20},
+    {"n": "Desodorante Aerossol Rexona 150ml (Fragrâncias)", "p": "13,99", "u": "cada", "x": 37, "y": 28, "w": 26, "h": 20},
+    {"n": "Sabonete Francis 85g (Fragrâncias)", "p": "1,69", "u": "cada", "x": 66, "y": 28, "w": 28, "h": 20},
+    {"n": "Kit Elseve Shampoo 375ml + Condicionador 170ml (Fragrâncias)", "p": "29,90", "u": "cada", "x": 8, "y": 49, "w": 26, "h": 20},
+    {"n": "Lava Roupa Líquido Tanlux 3L", "p": "10,99", "u": "cada", "x": 37, "y": 49, "w": 26, "h": 20},
+    {"n": "Lava Louças Alice 500ml", "p": "1,29", "u": "cada", "x": 66, "y": 49, "w": 28, "h": 20},
+    {"n": "Amaciante Sonho 1,5L (Fragrâncias)", "p": "7,99", "u": "cada", "x": 22, "y": 69, "w": 26, "h": 18},
+    {"n": "Água Sanitária Dragão 1L", "p": "1,99", "u": "cada", "x": 52, "y": 69, "w": 26, "h": 18}
+  ]
+}

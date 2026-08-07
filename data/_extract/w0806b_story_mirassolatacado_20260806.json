@@ -1,0 +1,55 @@
+{
+  "story_mirassolatacado_3957702882695183907": [
+    {"n": "Papel Higiênico Atualle Neutro Folha Dupla 12 Rolos 20m", "p": "11,99", "u": "pacote", "x": 12, "y": 17, "w": 34, "h": 21},
+    {"n": "Fraldas Descartáveis Cremer Shortinho Jumbo (G/XXG)", "p": "24,99", "u": "pacote", "x": 52, "y": 17, "w": 36, "h": 21},
+    {"n": "Detergente Líquido Tanlux Fragrâncias 500ml", "p": "1,39", "u": "cada", "x": 13, "y": 42, "w": 55, "h": 17},
+    {"n": "Lava Roupas Líquido Tanlux Ação Total 3L", "p": "12,99", "u": "cada", "x": 13, "y": 63, "w": 35, "h": 21},
+    {"n": "Água Sanitária Dragão 1L", "p": "2,09", "u": "cada (caixa 12un R$ 25,08)", "x": 45, "y": 63, "w": 45, "h": 21}
+  ],
+  "story_mirassolatacado_3957703009774150942": [
+    {"n": "Café Santa Clara Extraforte Almofada ou A Vácuo 250g", "p": "12,99", "u": "cada", "x": 14, "y": 17, "w": 34, "h": 24},
+    {"n": "Biscoito Cream Cracker Marilan Especial 350g", "p": "3,99", "u": "cada", "x": 54, "y": 17, "w": 34, "h": 23},
+    {"n": "Leite Condensado Damare Semidesnatado 395g", "p": "5,49", "u": "cada", "x": 22, "y": 43, "w": 46, "h": 17},
+    {"n": "Bombons Sortidos Garoto 220g (10% de Desconto)", "p": "11,99", "u": "caixa", "x": 13, "y": 63, "w": 34, "h": 23},
+    {"n": "Bebida Láctea UHT Quatá Kids Chocolate 180ml", "p": "0,99", "u": "cada (caixa 27un R$ 26,73)", "x": 48, "y": 63, "w": 42, "h": 23}
+  ],
+  "story_mirassolatacado_3957703105756650703": [
+    {"n": "Filé de Peito de Frango Bom Todo 1kg", "p": "18,99", "u": "bandeja (a partir de 18un R$ 18,49)", "x": 2, "y": 17, "w": 24, "h": 17},
+    {"n": "Coxa com Sobrecoxa de Frango Congelada", "p": "8,19", "u": "kg (a partir de 20kg R$ 7,99)", "x": 27, "y": 17, "w": 23, "h": 17},
+    {"n": "Batata Pré-frita Easychef Congelada 2kg", "p": "18,99", "u": "cada", "x": 61, "y": 16, "w": 17, "h": 18},
+    {"n": "Galinha Matriz Somave Congelada", "p": "7,99", "u": "kg", "x": 79, "y": 16, "w": 19, "h": 18},
+    {"n": "Salsicha Hot Dog Rara 2,5kg", "p": "14,98", "u": "pacote (o kg sai por R$ 5,99)", "x": 3, "y": 37, "w": 25, "h": 16},
+    {"n": "Flocão de Milho Nordestino 500g", "p": "1,39", "u": "cada", "x": 28, "y": 37, "w": 22, "h": 16},
+    {"n": "Açúcar Dumel Triturado 1kg", "p": "3,29", "u": "cada (a partir de 10un R$ 3,15)", "x": 50, "y": 37, "w": 22, "h": 16},
+    {"n": "Arroz Fazenda Parboilizado 1kg", "p": "3,49", "u": "cada (a partir de 10un R$ 3,29)", "x": 72, "y": 37, "w": 26, "h": 16},
+    {"n": "Óleo de Soja Soya 900ml", "p": "7,49", "u": "cada (a partir de 20un R$ 7,29)", "x": 3, "y": 52, "w": 25, "h": 16},
+    {"n": "Macarrão Bonsabor Spaghetti 400g", "p": "1,99", "u": "cada", "x": 28, "y": 54, "w": 22, "h": 13},
+    {"n": "Leite UHT Betânia Integral ou Desnatado 1L", "p": "5,99", "u": "cada", "x": 50, "y": 52, "w": 22, "h": 16},
+    {"n": "Farinha de Trigo Finna Tradicional 1kg", "p": "3,99", "u": "cada (a partir de 10un R$ 3,89)", "x": 72, "y": 52, "w": 26, "h": 16},
+    {"n": "Creme Culinário Damare 200g", "p": "1,79", "u": "cada (caixa 27un R$ 48,33)", "x": 8, "y": 68, "w": 26, "h": 17},
+    {"n": "Biscoito Recheado Renata Divertix Sabores 112g", "p": "1,49", "u": "cada", "x": 38, "y": 68, "w": 22, "h": 17},
+    {"n": "Biscoito 3 de Maio Água e Sal 300g", "p": "3,49", "u": "cada", "x": 62, "y": 68, "w": 22, "h": 17}
+  ],
+  "story_mirassolatacado_3957790651944453019": [
+    {"n": "Batata Inglesa", "p": "3,99", "u": "kg", "x": 3, "y": 27, "w": 45, "h": 24},
+    {"n": "Tomate", "p": "3,49", "u": "kg", "x": 51, "y": 27, "w": 45, "h": 24},
+    {"n": "Cenoura", "p": "5,99", "u": "kg", "x": 28, "y": 55, "w": 45, "h": 15},
+    {"n": "Cebola Branca", "p": "4,99", "u": "kg", "x": 8, "y": 72, "w": 40, "h": 17},
+    {"n": "Macaxeira", "p": "2,29", "u": "kg", "x": 52, "y": 72, "w": 40, "h": 17}
+  ],
+  "story_mirassolatacado_3957790913065048319": [
+    {"n": "Maçã Nacional", "p": "5,99", "u": "kg", "x": 3, "y": 27, "w": 45, "h": 23},
+    {"n": "Laranja-Pera", "p": "1,69", "u": "kg", "x": 51, "y": 27, "w": 45, "h": 23},
+    {"n": "Melão Japonês", "p": "3,99", "u": "kg", "x": 28, "y": 54, "w": 45, "h": 15},
+    {"n": "Banana Prata ou Pacovan", "p": "3,49", "u": "kg", "x": 8, "y": 71, "w": 42, "h": 17},
+    {"n": "Melancia", "p": "2,99", "u": "kg", "x": 52, "y": 71, "w": 42, "h": 17}
+  ],
+  "story_mirassolatacado_3957791135153395468": [
+    {"n": "Morango Congelado Easychef 1,1kg", "p": "12,99", "u": "cada", "x": 3, "y": 27, "w": 45, "h": 16},
+    {"n": "Filé de Peito de Frango Sadia Cortes Menores 1kg", "p": "18,99", "u": "bandeja", "x": 50, "y": 27, "w": 48, "h": 16},
+    {"n": "Batata Pré-frita Congelada Easychef Corte Fino 2kg", "p": "22,99", "u": "cada", "x": 3, "y": 48, "w": 45, "h": 16},
+    {"n": "Coxa com Sobrecoxa de Frango com Dorsal", "p": "6,99", "u": "kg", "x": 52, "y": 50, "w": 45, "h": 15},
+    {"n": "Margarina Primor com Sal 3kg", "p": "25,99", "u": "cada", "x": 8, "y": 70, "w": 40, "h": 16},
+    {"n": "Ovo Branco 30 Unidades", "p": "14,99", "u": "bandeja", "x": 52, "y": 72, "w": 45, "h": 14}
+  ]
+}

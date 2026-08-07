@@ -1,0 +1,27 @@
+{
+  "story_redesuper.show_3957763746301677289": [
+    {"n": "Banana Anã/Prata/Pacovan", "p": "3,48", "u": "kg", "x": 33, "y": 70, "w": 35, "h": 22}
+  ],
+  "story_redesuper.show_3957763791759564933": [
+    {"n": "Laranja Pera", "p": "1,98", "u": "kg", "x": 33, "y": 72, "w": 35, "h": 20}
+  ],
+  "story_redesuper.show_3957763832201063356": [
+    {"n": "Maçã Nacional", "p": "5,98", "u": "kg", "x": 33, "y": 72, "w": 35, "h": 20}
+  ],
+  "story_redesuper.show_3957763872877350179": [
+    {"n": "Cebola Branca/Roxa", "p": "4,98", "u": "kg", "x": 28, "y": 23, "w": 22, "h": 18},
+    {"n": "Batata Inglesa", "p": "4,28", "u": "kg", "x": 51, "y": 23, "w": 22, "h": 18},
+    {"n": "Goma para Tapioca Felitá Chef 1kg", "p": "4,38", "u": "cada", "x": 4, "y": 44, "w": 22, "h": 13},
+    {"n": "Alho (A Granel)", "p": "1,88", "u": "100g", "x": 50, "y": 44, "w": 22, "h": 13},
+    {"n": "Pera D'anjour", "p": "13,58", "u": "kg", "x": 73, "y": 44, "w": 24, "h": 13},
+    {"n": "Tangerina Murcote", "p": "6,98", "u": "kg", "x": 4, "y": 58, "w": 18, "h": 12},
+    {"n": "Macaxeira", "p": "2,48", "u": "kg", "x": 23, "y": 58, "w": 18, "h": 12},
+    {"n": "Cenoura", "p": "6,98", "u": "kg", "x": 42, "y": 58, "w": 18, "h": 12},
+    {"n": "Tomate", "p": "3,78", "u": "kg", "x": 61, "y": 58, "w": 18, "h": 12},
+    {"n": "Goiaba", "p": "4,58", "u": "kg", "x": 80, "y": 58, "w": 18, "h": 12},
+    {"n": "Tâmara 200g (Bandeja)", "p": "5,98", "u": "bandeja", "x": 4, "y": 72, "w": 22, "h": 13},
+    {"n": "Kiwi 600g (Bandeja)", "p": "12,58", "u": "bandeja", "x": 27, "y": 72, "w": 22, "h": 13},
+    {"n": "Uva Verde Seleta 500g (Bandeja)", "p": "8,98", "u": "bandeja", "x": 50, "y": 72, "w": 22, "h": 13},
+    {"n": "Ameixa Fresca", "p": "2,48", "u": "100g", "x": 73, "y": 72, "w": 24, "h": 13}
+  ]
+}

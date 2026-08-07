@@ -1,0 +1,415 @@
+{
+ "story_marvermelhoatacado_3957801490824505120": [
+  {
+   "n": "Vinho Chileno La Huerta Tinto Meio Seco 750ml",
+   "p": "18,98",
+   "u": "cada",
+   "x": 2,
+   "y": 38,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Vinho Chileno Dinamo 750ml",
+   "p": "20,99",
+   "u": "cada",
+   "x": 27,
+   "y": 38,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Vinho Chileno Santiago Reservado 750ml",
+   "p": "20,99",
+   "u": "cada",
+   "x": 52,
+   "y": 38,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Vinho Chileno Chilano 750ml",
+   "p": "22,89",
+   "u": "cada",
+   "x": 77,
+   "y": 38,
+   "w": 22,
+   "h": 15
+  },
+  {
+   "n": "Vinho Chileno Santa Helena 750ml",
+   "p": "25,99",
+   "u": "cada",
+   "x": 2,
+   "y": 53,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Vinho Chileno Foye 750ml",
+   "p": "29,98",
+   "u": "cada",
+   "x": 27,
+   "y": 53,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Vinho Português Mar Salgado 750ml",
+   "p": "30,99",
+   "u": "cada",
+   "x": 52,
+   "y": 53,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Vinho Português Casal Garcia 750ml",
+   "p": "51,99",
+   "u": "cada",
+   "x": 77,
+   "y": 53,
+   "w": 22,
+   "h": 15
+  },
+  {
+   "n": "Vinho Argentino San Telmo 750ml",
+   "p": "25,99",
+   "u": "cada",
+   "x": 2,
+   "y": 68,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Vinho Australiano Yellow Tail 750ml",
+   "p": "49,98",
+   "u": "cada",
+   "x": 27,
+   "y": 68,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Vinho Galiotto 750ml",
+   "p": "14,59",
+   "u": "cada",
+   "x": 52,
+   "y": 68,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Vinho Almadén Vintage 750ml",
+   "p": "19,98",
+   "u": "cada",
+   "x": 77,
+   "y": 68,
+   "w": 22,
+   "h": 15
+  }
+ ],
+ "story_marvermelhoatacado_3957816590897743181": [
+  {
+   "n": "Assadeira Retangular Temqter 2,6L",
+   "p": "49,98",
+   "u": "cada",
+   "x": 2,
+   "y": 40,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Bowl Angélica, Arizona ou Conchiglia 200ml",
+   "p": "3,19",
+   "u": "cada",
+   "x": 27,
+   "y": 40,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Tigela Bowl Mere 125ml",
+   "p": "2,98",
+   "u": "cada",
+   "x": 52,
+   "y": 40,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Travessa Retangular Versa Decorativa",
+   "p": "7,99",
+   "u": "cada",
+   "x": 77,
+   "y": 40,
+   "w": 22,
+   "h": 15
+  },
+  {
+   "n": "Centro de Mesa Galata 26cm",
+   "p": "17,98",
+   "u": "cada",
+   "x": 2,
+   "y": 57,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Copo Baixo Casablanca 355ml",
+   "p": "5,99",
+   "u": "cada",
+   "x": 27,
+   "y": 57,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Copo Dia a Dia 110ml",
+   "p": "2,49",
+   "u": "cada",
+   "x": 52,
+   "y": 57,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Copo Dia a Dia 250ml",
+   "p": "5,99",
+   "u": "cada",
+   "x": 77,
+   "y": 57,
+   "w": 22,
+   "h": 15
+  },
+  {
+   "n": "Xícara Coffee Time Cristal Eco 90ml",
+   "p": "5,89",
+   "u": "cada",
+   "x": 2,
+   "y": 74,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Xícara Diamond Coffee Time 80ml",
+   "p": "3,19",
+   "u": "cada",
+   "x": 27,
+   "y": 74,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Frigideira Brinox Suprema Vanilla 22cm",
+   "p": "59,98",
+   "u": "cada",
+   "x": 52,
+   "y": 74,
+   "w": 23,
+   "h": 15
+  },
+  {
+   "n": "Frigideira Brinox Garlic Vermelho 16cm",
+   "p": "24,98",
+   "u": "cada",
+   "x": 77,
+   "y": 74,
+   "w": 22,
+   "h": 15
+  }
+ ],
+ "story_marvermelhoatacado_3957816825577435435": [
+  {
+   "n": "Panela de Pressão Brinox Cerâmica Cinza 4,5L",
+   "p": "159,98",
+   "u": "cada",
+   "x": 2,
+   "y": 18,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Pote com Travas Sanremo 1,4L",
+   "p": "18,99",
+   "u": "cada",
+   "x": 27,
+   "y": 18,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Marmita Sanremo Freshy Açaí 2 Unids",
+   "p": "25,99",
+   "u": "cada",
+   "x": 52,
+   "y": 18,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Garrafa Térmica Mor Vermelho 3L",
+   "p": "40,98",
+   "u": "cada",
+   "x": 77,
+   "y": 18,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Kit Pá + Escova Alklin",
+   "p": "15,59",
+   "u": "cada",
+   "x": 2,
+   "y": 33,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Esponja Condor Multiuso Leve 12 Pague 10",
+   "p": "19,98",
+   "u": "cada",
+   "x": 27,
+   "y": 33,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Pá para Lixo Coletora com Cabo",
+   "p": "5,98",
+   "u": "cada",
+   "x": 52,
+   "y": 33,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Rodo Multilar 30cm Sem Cabo",
+   "p": "3,49",
+   "u": "cada",
+   "x": 77,
+   "y": 33,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Vassoura Sutile Plus Sem Cabo",
+   "p": "5,59",
+   "u": "cada",
+   "x": 2,
+   "y": 48,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Vassoura Condor V35 com Cabo",
+   "p": "13,99",
+   "u": "cada",
+   "x": 27,
+   "y": 48,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Prendedor de Madeira Cristal 12 Unids",
+   "p": "1,35",
+   "u": "cada",
+   "x": 52,
+   "y": 48,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Lâmpada Superled Ouro Lux Bivolt 12W",
+   "p": "3,49",
+   "u": "cada",
+   "x": 77,
+   "y": 48,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Vela Luz da Vida Litúrgica Branca 7 Dias",
+   "p": "6,99",
+   "u": "cada",
+   "x": 2,
+   "y": 63,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Vela Branca Vida Luz Nº8 16,5g 8 Unids",
+   "p": "3,89",
+   "u": "cada",
+   "x": 27,
+   "y": 63,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Cadeira Mor Alumínio Alta",
+   "p": "64,99",
+   "u": "cada",
+   "x": 52,
+   "y": 63,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Pá para Caixa de Areia",
+   "p": "3,59",
+   "u": "cada",
+   "x": 77,
+   "y": 63,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Ração Tutticanis Select Adulto 14kg",
+   "p": "69,98",
+   "u": "cada",
+   "x": 2,
+   "y": 78,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Ração M1X Seed Calopsita e Agapornis 500g",
+   "p": "5,59",
+   "u": "cada",
+   "x": 27,
+   "y": 78,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Ração Bono Cat Sabores 500g",
+   "p": "5,39",
+   "u": "cada",
+   "x": 52,
+   "y": 78,
+   "w": 23,
+   "h": 14
+  },
+  {
+   "n": "Areia Higiênica Sweet Cat Grãos Finos 4kg",
+   "p": "7,89",
+   "u": "cada",
+   "x": 77,
+   "y": 78,
+   "w": 22,
+   "h": 14
+  }
+ ],
+ "story_marvermelhoatacado_3957963873797641888": [
+  {
+   "n": "Café Santa Clara Torrado e Moído 250g",
+   "p": "11,99",
+   "u": "cada (só até hoje)",
+   "x": 8,
+   "y": 25,
+   "w": 78,
+   "h": 55
+  }
+ ]
+}

@@ -1,0 +1,321 @@
+{
+ "Dbt2CUwCAk9_p1": [
+  {
+   "n": "Leite Fermentado Elegê Bob Esponja 80g Sabores",
+   "p": "10,00",
+   "u": "combo (10un por R$ 10,00)",
+   "x": 7,
+   "y": 29,
+   "w": 20,
+   "h": 14
+  },
+  {
+   "n": "Hambúrguer Misto Chuletão 56g",
+   "p": "10,00",
+   "u": "combo (20un por R$ 10,00)",
+   "x": 30,
+   "y": 29,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Almôndega Mista Chuletão 1kg",
+   "p": "10,00",
+   "u": "combo (1un por R$ 10,00)",
+   "x": 52,
+   "y": 30,
+   "w": 20,
+   "h": 13
+  },
+  {
+   "n": "Empanado de Frango Sadia/Perdigão 100g",
+   "p": "10,00",
+   "u": "combo (6un por R$ 10,00)",
+   "x": 72,
+   "y": 30,
+   "w": 22,
+   "h": 13
+  },
+  {
+   "n": "Creme Culinário Damare 200g",
+   "p": "10,00",
+   "u": "combo (6un por R$ 10,00)",
+   "x": 7,
+   "y": 47,
+   "w": 20,
+   "h": 13
+  },
+  {
+   "n": "Bombom Garoto 220g Sortido",
+   "p": "10,00",
+   "u": "combo (1un por R$ 10,00)",
+   "x": 29,
+   "y": 47,
+   "w": 20,
+   "h": 12
+  },
+  {
+   "n": "Biscoito Recheado Treloso 37g Sabores",
+   "p": "10,00",
+   "u": "combo (15un por R$ 10,00)",
+   "x": 52,
+   "y": 45,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Bebida Láctea Italac Whey Protein 15g 250ml Sabores",
+   "p": "10,00",
+   "u": "combo (2un por R$ 10,00)",
+   "x": 74,
+   "y": 46,
+   "w": 20,
+   "h": 13
+  },
+  {
+   "n": "Bolacha São Francisco Delícia 200g",
+   "p": "10,00",
+   "u": "combo (4un por R$ 10,00)",
+   "x": 7,
+   "y": 60,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Salgadinho Chips/Hits Sol 60/80g Sabores",
+   "p": "10,00",
+   "u": "combo (5un por R$ 10,00)",
+   "x": 30,
+   "y": 61,
+   "w": 20,
+   "h": 14
+  },
+  {
+   "n": "Pão de Forma/Bisnaguinha Center Massas 400/300g Tradicional",
+   "p": "10,00",
+   "u": "combo (2un por R$ 10,00)",
+   "x": 51,
+   "y": 60,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Leite Condensado Damare 395g Semidesnatado",
+   "p": "10,00",
+   "u": "combo (2un por R$ 10,00)",
+   "x": 74,
+   "y": 61,
+   "w": 20,
+   "h": 13
+  },
+  {
+   "n": "Macarrão Instantâneo Lámen Vitarella 74,3g Sabores",
+   "p": "10,00",
+   "u": "combo (8un por R$ 10,00)",
+   "x": 7,
+   "y": 76,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Amaciante de Roupas Concentrado Downy 500ml Fragrâncias",
+   "p": "10,00",
+   "u": "combo (1un por R$ 10,00)",
+   "x": 33,
+   "y": 77,
+   "w": 15,
+   "h": 14
+  },
+  {
+   "n": "Lava-Roupas em Pó Ala 1,6kg Cuidado do Coco/Lavanda Sachê",
+   "p": "10,00",
+   "u": "combo (1un por R$ 10,00)",
+   "x": 51,
+   "y": 77,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Sandália Ipanema Clássicas",
+   "p": "10,00",
+   "u": "combo (1un por R$ 10,00)",
+   "x": 74,
+   "y": 78,
+   "w": 20,
+   "h": 12
+  }
+ ],
+ "Dbt2CUwCAk9_p2": [
+  {
+   "n": "Iogurte Isis Pro 180g 15g Proteína Sabores",
+   "p": "10,00",
+   "u": "combo (2un por R$ 10,00)",
+   "x": 9,
+   "y": 22,
+   "w": 18,
+   "h": 13
+  },
+  {
+   "n": "Rosquinha Mabel 300g Sabores",
+   "p": "10,00",
+   "u": "combo (2un por R$ 10,00)",
+   "x": 27,
+   "y": 22,
+   "w": 22,
+   "h": 13
+  },
+  {
+   "n": "Bolinho Treloso 40g Sabores",
+   "p": "10,00",
+   "u": "combo (7un por R$ 10,00)",
+   "x": 51,
+   "y": 22,
+   "w": 22,
+   "h": 13
+  },
+  {
+   "n": "Achocolatado em Pó Chocolatto 3 Corações 400g",
+   "p": "10,00",
+   "u": "combo (1un por R$ 10,00)",
+   "x": 74,
+   "y": 22,
+   "w": 18,
+   "h": 13
+  },
+  {
+   "n": "Biscoito Palitos Cory 68g Sabores",
+   "p": "10,00",
+   "u": "combo (3un por R$ 10,00)",
+   "x": 9,
+   "y": 36,
+   "w": 18,
+   "h": 13
+  },
+  {
+   "n": "Barra de Proteína Nutrata 45g Charge / YoPro 55g Sabores",
+   "p": "10,00",
+   "u": "combo (1un por R$ 10,00)",
+   "x": 29,
+   "y": 37,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Azeitonas Verdes Rivoli Sachê 150g Fatiada/Sem Caroço",
+   "p": "10,00",
+   "u": "combo (2un por R$ 10,00)",
+   "x": 51,
+   "y": 36,
+   "w": 18,
+   "h": 13
+  },
+  {
+   "n": "Cup Noodles Nissin Sabores",
+   "p": "10,00",
+   "u": "combo (2un por R$ 10,00)",
+   "x": 74,
+   "y": 37,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Aveia Allnutri 170g Tradicional/Flocos Finos/Farinha de Aveia",
+   "p": "10,00",
+   "u": "combo (3un por R$ 10,00)",
+   "x": 9,
+   "y": 50,
+   "w": 22,
+   "h": 12
+  },
+  {
+   "n": "Chocolate Wafer Hershey's Mais 102g Sabores",
+   "p": "10,00",
+   "u": "combo (2un por R$ 10,00)",
+   "x": 38,
+   "y": 50,
+   "w": 20,
+   "h": 12
+  },
+  {
+   "n": "Refrigerante Dore 250ml Sabores (Exceto Cola)",
+   "p": "10,00",
+   "u": "combo (7un por R$ 10,00)",
+   "x": 65,
+   "y": 50,
+   "w": 22,
+   "h": 12
+  },
+  {
+   "n": "Sabonete Líquido Corpo Dourado Refil 200ml Fragrâncias",
+   "p": "10,00",
+   "u": "combo (2un por R$ 10,00)",
+   "x": 11,
+   "y": 63,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Sabonete Albany 85g Fragrâncias",
+   "p": "10,00",
+   "u": "combo (6un por R$ 10,00)",
+   "x": 32,
+   "y": 62,
+   "w": 18,
+   "h": 13
+  },
+  {
+   "n": "Absorvente Mili Proteção Total Suave com/sem Abas c/8",
+   "p": "10,00",
+   "u": "combo (3un por R$ 10,00)",
+   "x": 54,
+   "y": 63,
+   "w": 20,
+   "h": 12
+  },
+  {
+   "n": "Shampoo Skala 600ml Fragrâncias",
+   "p": "10,00",
+   "u": "combo (1un por R$ 10,00)",
+   "x": 76,
+   "y": 63,
+   "w": 16,
+   "h": 12
+  },
+  {
+   "n": "Desodorante Aerosol Bozzano/Monange 200ml Fragrâncias",
+   "p": "10,00",
+   "u": "combo (1un por R$ 10,00)",
+   "x": 10,
+   "y": 77,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Limpador Multiuso Veja 500ml Fragrâncias",
+   "p": "10,00",
+   "u": "combo (2un por R$ 10,00)",
+   "x": 28,
+   "y": 77,
+   "w": 16,
+   "h": 12
+  },
+  {
+   "n": "Desinfetante Pinho Uau 500ml Lavanda/Pinho",
+   "p": "10,00",
+   "u": "combo (3un por R$ 10,00)",
+   "x": 44,
+   "y": 77,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Água Sanitária Dragão 5L",
+   "p": "10,00",
+   "u": "combo (1un por R$ 10,00)",
+   "x": 59,
+   "y": 77,
+   "w": 16,
+   "h": 12
+  }
+ ]
+}

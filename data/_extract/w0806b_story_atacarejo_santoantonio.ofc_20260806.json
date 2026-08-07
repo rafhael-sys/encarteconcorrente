@@ -1,0 +1,15 @@
+{
+  "story_atacarejo_santoantonio.ofc_3957733527235295152": [
+    {"n": "Abacate", "p": "3,98", "u": "kg", "x": 5, "y": 44, "w": 22, "h": 14},
+    {"n": "Maçã Nacional", "p": "6,98", "u": "kg", "x": 30, "y": 44, "w": 22, "h": 14},
+    {"n": "Uva Vitória sem Sementes Bandeja 500g", "p": "4,98", "u": "bandeja 500g", "x": 54, "y": 44, "w": 22, "h": 14},
+    {"n": "Tangerina Importada", "p": "8,49", "u": "kg", "x": 78, "y": 44, "w": 22, "h": 14},
+    {"n": "Banana Prata ou Pacovan", "p": "3,98", "u": "kg", "x": 5, "y": 62, "w": 22, "h": 14},
+    {"n": "Laranja Pêra", "p": "1,98", "u": "kg", "x": 30, "y": 62, "w": 22, "h": 14},
+    {"n": "Abacaxi", "p": "3,98", "u": "und", "x": 54, "y": 62, "w": 22, "h": 14},
+    {"n": "Tomate", "p": "2,98", "u": "kg", "x": 78, "y": 62, "w": 22, "h": 14},
+    {"n": "Cebola Branca", "p": "4,98", "u": "kg", "x": 18, "y": 78, "w": 22, "h": 14},
+    {"n": "Cenoura", "p": "5,98", "u": "kg", "x": 40, "y": 78, "w": 22, "h": 14},
+    {"n": "Batata Inglesa", "p": "3,98", "u": "kg", "x": 62, "y": 78, "w": 22, "h": 14}
+  ]
+}

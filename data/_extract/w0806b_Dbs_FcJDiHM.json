@@ -1,0 +1,30 @@
+{
+  "Dbs_FcJDiHM_p1": [
+    {"n": "Refrigerante Coca-Cola 2L (Zero Açúcar)", "p": "10,29", "u": "cada", "x": 6, "y": 28, "w": 20, "h": 18},
+    {"n": "Kit Refrigerante Coca-Cola + Fanta 2L", "p": "18,69", "u": "cada", "x": 29, "y": 28, "w": 20, "h": 18},
+    {"n": "Suco de Uva Galiotto 1L (Tinto - Integral)", "p": "14,99", "u": "cada", "x": 52, "y": 28, "w": 20, "h": 18},
+    {"n": "Red Bull 250ml (Sabores)", "p": "8,99", "u": "cada", "x": 75, "y": 28, "w": 22, "h": 18},
+    {"n": "Vinho Galiotto 750ml (Tipos)", "p": "16,99", "u": "cada", "x": 6, "y": 48, "w": 20, "h": 18},
+    {"n": "Vinho Quatro Reinos 750ml (Tinto Suave)", "p": "14,99", "u": "cada", "x": 29, "y": 48, "w": 20, "h": 18},
+    {"n": "Bebida Mista Cabaré Ice 275ml (Long Neck - Limão/Frutas Vermelhas)", "p": "7,49", "u": "cada", "x": 52, "y": 48, "w": 20, "h": 18},
+    {"n": "Cachaça Matuta 350ml (Lata - Sabores)", "p": "10,99", "u": "cada", "x": 75, "y": 48, "w": 22, "h": 18},
+    {"n": "Cerveja Eisenbahn 350ml (Sleek - Pilsen)", "p": "3,79", "u": "cada", "x": 6, "y": 68, "w": 20, "h": 18},
+    {"n": "Cerveja Heineken 600ml", "p": "11,99", "u": "cada", "x": 29, "y": 68, "w": 20, "h": 18},
+    {"n": "Cerveja Heineken 330ml (Long Neck - Tradicional/Zero)", "p": "5,99", "u": "cada", "x": 52, "y": 68, "w": 20, "h": 18},
+    {"n": "Vodka Absolut 1L", "p": "89,90", "u": "cada", "x": 75, "y": 68, "w": 22, "h": 18}
+  ],
+  "Dbs_FcJDiHM_p2": [
+    {"n": "Gin Beefeater London 750ml", "p": "89,90", "u": "cada", "x": 6, "y": 20, "w": 20, "h": 20},
+    {"n": "Whisky Ballantines Finest 750ml", "p": "49,90", "u": "cada", "x": 29, "y": 20, "w": 20, "h": 20},
+    {"n": "Whisky Chivas Regal 1L (12 Anos)", "p": "99,90", "u": "cada", "x": 52, "y": 20, "w": 20, "h": 20},
+    {"n": "Whisky Jameson 750ml", "p": "79,90", "u": "cada", "x": 75, "y": 20, "w": 22, "h": 20},
+    {"n": "Whisky Johnnie Walker Red Label 750ml", "p": "54,90", "u": "cada", "x": 6, "y": 42, "w": 20, "h": 20},
+    {"n": "Vodka Smirnoff Ice 275ml (Sabores)", "p": "7,49", "u": "cada", "x": 29, "y": 42, "w": 20, "h": 20},
+    {"n": "Sandália Rider Street (Adulto)", "p": "29,99", "u": "cada", "x": 52, "y": 42, "w": 20, "h": 20},
+    {"n": "Desodorante Aerosol Nivea 150ml (Fragrâncias)", "p": "11,99", "u": "cada", "x": 75, "y": 42, "w": 22, "h": 20},
+    {"n": "Espuma de Barbear Nivea For Men 200ml (Hidra/Sensitive)", "p": "33,99", "u": "cada", "x": 6, "y": 64, "w": 20, "h": 20},
+    {"n": "Creme de Barbear Nivea 65g (Original/Sensitive)", "p": "16,99", "u": "cada", "x": 29, "y": 64, "w": 20, "h": 20},
+    {"n": "Aparelho de Barbear Bic C/4 (Emb. Promocional - Normal/Sensitive)", "p": "16,99", "u": "cada", "x": 52, "y": 64, "w": 20, "h": 20},
+    {"n": "Shampoo Anticaspa Clear 400g (Emb. Promocional - Fragrâncias)", "p": "28,99", "u": "cada", "x": 75, "y": 64, "w": 22, "h": 20}
+  ]
+}

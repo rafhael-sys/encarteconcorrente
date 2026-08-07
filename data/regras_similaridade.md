@@ -2220,22 +2220,47 @@
 - MESMO: «Whisky Johnnie Walker Red Label Garrafa com 1L» == «Whisky Johnnie Walker Red Label garrafa 1L»
 - MESMO: «Whisky Old Parr 12 anos 1 litro» == «Whisky Old Parr 12 Anos gfa 1 litro»
 - MESMO: «Absorvente Sempre Livre Adapt Suave com abas Pacote com 32 unidades» == «Absorvente Sempre Livre Adapt Suave com Abas pct c/32»
+- MESMO: «Adoçante em Pó União Sucralose 400x6g» == «Adoçante em Pó União Sucralose Sachê 400x6g»
+- DIFERENTES: «Água Mineral Nordestão sem Gás Tb 1,5 Litro» != «Água Mineral Ster Bom sem Gás tb 1,5 litro»
 - DIFERENTES: «Alface Crespa, Couve Manteiga ou Hortelã» != «Alface Crespa, Cebolinha, Couve Manteiga ou Hortelã»
+- DIFERENTES: «Arroz Parboilizado Pop pct 1kg» != «Arroz Parbolizado Urbano pct 1kg»
 - MESMO: «Azeite Conde Extra Virgem Benalua 500ml» == «Azeite Conde Extra Virgem Benalua ou Fioz 500ml»
 - MESMO: «Azeite Conde Extra Virgem Bengala 500ml» == «Azeite Conde Extra Virgem Benalua ou Fioz 500ml»
 - DIFERENTES: «Azeite de Oliva Extra Virgem Gallo vd 500ml» != «Azeite de Oliva Extra Virgem Kristal vd 500ml»
+- DIFERENTES: «Azeite de Oliva Extra Virgem Monini vd 500ml» != «Azeite de Oliva Extra Virgem Kristal vd 500ml»
+- DIFERENTES: «Azeite De Oliva Extra Virgem Sacciali Vidro 500ml» != «Azeite de Oliva Extra Virgem Kristal vd 500ml»
+- MESMO: «Biscoito Maria ou Maizena Vitarella 350g (Sabores)» == «Biscoito Maria / Maizena Vitarella 350g»
+- MESMO: «Biscoito Piraquê Leite Maltado ou Chocolate 80g» == «Biscoito Piraquê Leite Maltado com Cobertura ou Chocolate 80g»
+- MESMO: «Bombom Lacta Sortidos 131,4g» == «Bombom Lácta Favoritos 131,4g»
 - MESMO: «Café em Pó Família São Braz Almofada ou a Vácuo pct 250g» == «Café em Pó Família São Braz Almofada pct 250g»
+- MESMO: «Café Santa Clara Extraforte Almofada ou a Vácuo 250g» == «Café Santa Clara Extra Forte 250g Almofada ou Vácuo»
 - MESMO: «Camarão Inteiro 50/60 Congelado Cruz» == «Camarão Inteiro 50/60 Congelado Cruz kg»
+- DIFERENTES: «Carne Bovina Cordão do Contra Filé» != «Carne Bovina Bisteca do Contra Filé»
+- MESMO: «Carne Bovina Capa de Contra Filé Congelada» == «Carne Bovina Capa de Contra Filé Congelada kg»
+- MESMO: «Carne Bovina Cordão do Contra Filé» == «Carne Bovina Cordão do Contra Filé kg»
+- MESMO: «Carne Bovina Costela do Peito» == «Carne Bovina Costela do Peito kg»
+- DIFERENTES: «Carne Bovina Coxão Mole Resfriado Kg» != «Carne Bovina Fralda / Coxão Mole Resfriada kg»
+- MESMO: «Carne Bovina Cupim» == «Carne Bovina Cupim kg»
+- MESMO: «Carne Bovina Fralda/Coxão Mole Resfriado e Sol» == «Carne Bovina Fralda / Coxão Mole Resfriada kg»
+- MESMO: «Carne Bovina Lagarto Friboi Resfriada» == «Carne Bovina Lagarto Friboi Resfriada (kg na peça)»
 - MESMO: «Carne Suína Temp Suínos Jucurutu KG» == «Carne Suína Temperada Suínos Jucurutu Kg»
 - MESMO: «Cebola Roxa» == «Cebola Roxa kg»
 - MESMO: «Cerveja Império Ultra Lata 269ml Sem Glúten» == «Cerveja Império Ultra Lata 269ml s/Glúten»
 - MESMO: «Cerveja Michelob Ultra Lata Sleek 350ml» == «Cerveja Michelob Ultra Sleek Ita 350ml»
 - DIFERENTES: «Cerveja Puro Malte Petra Lata 350ml» != «Cerveja Puro Malte Bohemia Lata 350ml»
+- DIFERENTES: «Contrafilé Bovino Resfriado a Vácuo Masterboi» != «Cupim Bovino Resfriado a Vácuo Masterboi»
 - MESMO: «Coxa com Sobrecoxa c/Dorsal kg» == «Coxa e Sobrecoxa com Dorsal kg»
+- MESMO: «Coxa com Sobrecoxa de Frango com Dorsal Envelopada» == «Coxa com Sobrecoxa de Frango com Dorsal kg»
 - DIFERENTES: «Coxa e Sobrecoxa sem Dorsal kg» != «Coxa e Sobrecoxa com Dorsal kg»
 - DIFERENTES: «COXA SOBRECOXA S/DORSAL KG» != «Coxa e Sobrecoxa com Dorsal kg»
 - MESMO: «Coxa/Sobrecoxa com Dorsal» == «Coxa e Sobrecoxa com Dorsal kg»
 - MESMO: «Coxinha Asa Bom Todo kg Resfriada» == «Coxinha da Asa Bom Todo kg Resfriada»
+- MESMO: «Farinha de Trigo Boa Sorte Tipo 1 Pacote com 1kg» == «Farinha de Trigo Boa Sorte Tipo 1 1kg»
+- DIFERENTES: «Farinha de Trigo Boa Sorte Tradicional 1kg» != «Farinha de Trigo Dona Maria Tradicional 1Kg»
+- DIFERENTES: «Farinha de Trigo Farina 1Kg sem Fermento» != «Farinha de Trigo Dona Maria 1kg s/Fermento»
+- MESMO: «Farinha Láctea Nestlé Sachê 600g Original» == «Farinha Láctea Nestlé Sachê 600g»
+- DIFERENTES: «Feijão Carioca Bulnez Tipo 1 Pacote 1kg» != «Feijão Carioca Kumê Tipo 1 PCT 1kg»
+- DIFERENTES: «Feijão Carioca DuZé Tipo 1 1kg» != «Feijão Carioca Kumê Tipo 1 PCT 1kg»
 - MESMO: «Filé de Peito de Frango Aurora Congelado Bandeja com 1kg» == «Filé de Peito de Frango Aurora Congelado 1kg»
 - MESMO: «Filé de Peito de Frango Aurora congelado BDJ 1kg» == «Filé de Peito de Frango Aurora Congelado 1kg»
 - DIFERENTES: «Filé de Peito de Frango Lar Congelado Bdj 1kg» != «Filé de Peito de Frango Aurora Congelado 1kg»
@@ -2248,12 +2273,24 @@
 - DIFERENTES: «Filé de Peito de Frango Sadia 1kg» != «Filé de Peito de Frango Lar BDJ 1kg»
 - MESMO: «Filé de Peito de Frango Sadia Congelado IQF 1kg» == «Filé de Peito de Frango Sadia Congelado pct ou bd 1kg»
 - MESMO: «Filé de Peito de Frango Zip Sadia Congelado Pacote 1kg» == «Filé de Peito de Frango Sadia Congelado pct ou bd 1kg»
+- MESMO: «Filé de Peixe Merluza Congelado Fish 800g» == «Filé de Peixe Merluza Fish Congelado PC 800G»
+- DIFERENTES: «Filezinho Sassami de Frango Aurora Congelado Bandeja 1kg» != «Filezinho de Frango Lar Congelado Bandeja 1kg»
 - DIFERENTES: «Filezinho Sassami de Frango Seara Congelado Bandeja 1kg» != «Filezinho de Frango Lar Congelado Bandeja 1kg»
+- DIFERENTES: «Flocão de Milho Rei de Ouro 500g» != «Flocão de Milho Só o Ouro 500g»
+- DIFERENTES: «Folha de Alumínio Pratsy 30cm x 4m Rolo» != «Folha de Alumínio Pratsy 0,30x7,5m rolo»
 - MESMO: «Frango a Passarinho Bom Todo Temp. IQF 1kg» == «Frango a Passarinho BomTodo Temperado IQF 1kg»
 - MESMO: «Frango a Passarinho Bom Todo Temperado pct 1kg» == «Frango a Passarinho BomTodo Temperado IQF 1kg»
 - DIFERENTES: «Frango a Passarinho Sadia Congelado pct 1kg» != «Frango à Passarinho Lar IQF Congelado pacote 1kg»
 - MESMO: «Frango Bom Todo com Miúdos com KG» == «Frango Bom Todo com Miúdos»
+- MESMO: «Granola Biosoft 35 Ingredientes Integral com Castanhas 230g» == «Granola Biosoft 230g 35 Ingredientes Integral Castanhas»
+- MESMO: «Hambúrguer Maturatta 180g» == «Hambúrguer Bovino Maturatta 180g»
 - MESMO: «Lava Roupas Líquido +eKonômico 3L» == «Lava Roupa Líquido Ekonomico 3L»
+- DIFERENTES: «Leite Condensado Itambé Semidesnatado 395g» != «Leite Condensado UHT LeitBom Semidesnatado 395g»
+- DIFERENTES: «Leite Condensado Semidesnatado Italac 395g» != «Leite Condensado Semi Desnatado Natville 395g»
+- DIFERENTES: «Leite Condensado UHT Betânia Semidesnatado 395g» != «Leite Condensado UHT LeitBom Semidesnatado 395g»
+- DIFERENTES: «Leite de Coco Coconut 500ml» != «Leite de Coco Coco&Cia 500ml»
+- MESMO: «Leite em Pó Ninho Integral ou Instantâneo 575g Sachê» == «Leite em Pó NINHO 575g Integral/Instantâneo Sachê»
+- DIFERENTES: «Leite Longa Vida Integral ou Desnatado Natville TP 1L» != «Leite Longa Vida Integral ou Desnatado Damare 1L»
 - DIFERENTES: «Limpador Multiuso Uau» != «Limpador Multiuso Veja»
 - MESMO: «Linguiça Calabresa Jucurutu kg» == «Linguiça Calabresa Suínos Jucurutu Kg»
 - MESMO: «Linguiça de Frango ou Churrasco Aurora KG» == «Linguiça de Frango ou para Churrasco Aurora»
@@ -2261,22 +2298,47 @@
 - MESMO: «Linguiça de Frango ou Suína Churrasco Aurora kg» == «Linguiça de Frango ou para Churrasco Aurora»
 - DIFERENTES: «Linguiça de Frango Sadia ou para Churrasco Aurora» != «Linguiça de Frango ou para Churrasco Aurora»
 - MESMO: «Linguiça Suína Aurora kg» == «Linguiça Suína Aurora»
+- DIFERENTES: «Linguiça Tipo Calabresa Nutribas» != «Linguica Tipo Calabresa Aurora»
+- MESMO: «Mac Yara Espaguete PCT 400g Sêmola» == «Macarrão Yara Espaguete 400g Sêmola»
 - DIFERENTES: «Macarrão de Sêmola Fortaleza Ninho pct 400g» != «Macarrão de Sêmola Vitarella Ninho pct 400g»
+- MESMO: «Maionese Fugini Trad Sch 180g» == «Maionese Fugini Sachê 180g»
+- DIFERENTES: «Picanha Bovina Maturatta Resfriada» != «Maminha Bovina Maturatta Resfriada kg»
+- MESMO: «Meio da Asa de Frango Resfriada» == «Meio da Asa de Frango Resfriada (Mauricéa)»
+- DIFERENTES: «Milho Verde ou Dueto Fugini Sachê 170g» != «Milho Verde ou Ervilha Fugini Sachê 170g»
+- MESMO: «Mocotó Bovino Serrado Congelado» == «Mocotó Bovino Serrado Congelado kg»
 - DIFERENTES: «Odorizador Aerossol Glade 360ml Fragrâncias» != «Odorizador Aerosol Bom Ar 360ml Fragrâncias»
 - MESMO: «Ovo Branco Avine Extra c/ 20 und» == «Ovo Branco Avine Extra com 20»
 - MESMO: «Ovo Branco Grande Enavis Bandeja C/30» == «Ovos Brancos Grandes Enavis Bandeja 30und»
+- MESMO: «Ovo Branco Grande Granja Almeida c/ 30 (Bandeja)» == «Ovo Branco Grande Granja Almeida Bandeja com 30»
+- MESMO: «Ovo Branco Grande Granja Almeida c/ 30 (Bandeja)» == «Ovos Brancos Grandes Granja Almeida 30 und»
 - MESMO: «OVOS BRANCOS GRANDES ENAVIS BDJ C/30» == «Ovos Brancos Grandes Enavis Bandeja 30und»
 - MESMO: «Ovos Filadélfia Grande Branco com 30 Und» == «Ovos Filadélfia São José Grandes Brancos com 30 Und»
 - MESMO: «Ovos Filadélfia ou São José Grandes Brancos com 30 Und» == «Ovos Filadélfia São José Grandes Brancos com 30 Und»
 - MESMO: «Ovos Vermelhos Grandes ou Extras Bandeja com 30» == «Ovos Vermelhos Grande ou Extra Bandeja com 30»
+- DIFERENTES: «Pão de Forma Center Massas pacote 400g» != «Pão de Forma Center Massas Integral 400G»
+- DIFERENTES: «Papel Higiênico Sublime Folha Dupla 30m Leve 12 Pague 11» != «Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11»
+- DIFERENTES: «Peito de Frango com Osso Congelado kg» != «Peito de Frango Bom Todo Congelado»
+- DIFERENTES: «Peito de Frango com Osso Congelado Copacol» != «Peito de Frango com Osso Congelado Mauricéa»
 - DIFERENTES: «Peito de Frango com Osso Congelado Mauricéa» != «Peito de Frango com Osso Resfriado (Mauricéa)»
 - MESMO: «Peito de Frango com Osso Resfriado» == «Peito de Frango com Osso Resfriado (Mauricéa)»
+- MESMO: «Peito de Frango Super Frango Congelado KG» == «Peito de Frango Super Frango (Envelopado)»
+- DIFERENTES: «Queijo Mussarela Carinho Resfriado Fatiado» != «Queijo Mussarela Jucurutu Resfriado Fatiado»
+- DIFERENTES: «Queijo Ralado ITALAC 40g» != «Queijo Ralado Ilda 40g»
+- MESMO: «Ração Úmida para Gatos Whiskas Sachê 85g Sabores» == «Ração Úmida Gatos Whiskas 85g Sabores»
 - MESMO: «Refrigerante Guaraná Antarctica pack c/2 tb 1 litro» == «Refrigerante Guaraná Antarctica Pack c/2x tb 1 litro»
+- DIFERENTES: «Refrigerante Guaraná Antarctica pack c/2 tb 1 litro» != «Refrigerante Guaraná Antarctica Zero Açúcar tb 1 litro»
 - DIFERENTES: «Refrigerante Guaraná Antarctica tb 1 litro» != «Refrigerante Guaraná Antarctica Pack c/2x tb 1 litro»
+- DIFERENTES: «Refrigerante Guaraná Antarctica tb 1 litro» != «Refrigerante Guaraná Antarctica Zero Açúcar tb 1 litro»
+- DIFERENTES: «Requeijão Clan Cremoso Tradicional ou Light 200g» != «Requeijão Cremoso Danone Tradicional ou Light 200g»
 - MESMO: «Requeijão Cremoso Clan 400g Light/Tradicional» == «Requeijão Cremoso Clan 400g Ligth/Trad.»
 - DIFERENTES: «Sabonete Francis Várias Fragrâncias Unidade 80g» != «Sabonete Bulnez várias fragrâncias unidade 80g»
+- MESMO: «Saco de Lixo Brilhus Preto 50L/100L Rolo com 30/15 unidades» == «Saco de Lixo Brilhus Preto 100L/50L rolo 15/30 unidades»
 - MESMO: «Salg Pippo's Pct 30g Queijo» == «Salgadinho Pippos Pct 30g Queijo»
 - DIFERENTES: «Salsicha Hot-Dog Sadia» != «Salsicha Hot Dog Rara»
+- MESMO: «Sobrecoxas de Frango Sadia Congeladas IQF pct ou bd 1kg» == «Sobrecoxa de Frango Sadia Congelada IQF 1kg»
+- MESMO: «Tintura Casting Creme Gloss» == «Tintura Capilar Casting Creme Gloss»
 - DIFERENTES: «Uva Verde Marcelo Frazão Band 500g» != «Uva Vitória Marcelo Frazão Band 500g»
 - DIFERENTES: «Uva Verde Sem Semente Seleta Bandeja 500g» != «Uva Verde sem Semente Seleção Mimo Bandeja 500g»
 - MESMO: «Uva Vitória Marcelo Frzao Band 500g» == «Uva Vitória Marcelo Frazão Band 500g»
+- MESMO: «Uva Vitória Marcelo Frzao Band 500g» == «Uva Vitória Marcelo Frazão bandeja 500g»
+- MESMO: «Uva Vitória Seleta 500g S/Sementes» == «Uva Vitoria Seleta Bandeja 500g Sem Sementes»
