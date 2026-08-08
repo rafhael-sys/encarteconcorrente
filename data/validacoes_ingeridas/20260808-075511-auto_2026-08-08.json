@@ -1,0 +1,314 @@
+{
+ "validacoes": [
+  {
+   "a": "Frald Mili Lovecare Jumbo M 36un Pants",
+   "b": "Fralda Mili Lovecare Jumbo M 36un Pants",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Picanha Suína Excelência Temperada Congelada KG",
+   "b": "Picanha Suína Excelência Temperada Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Shampoo Palmolive Naturals Vários Tipos Frasco 650ml",
+   "b": "Shampoo Palmolive Naturals Varios tipos Frasco com 650ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Guardanapo TV Malu 14cmx14cm Pacote 160 Unidades",
+   "b": "Guardanapo TV Malu 14cmx14cm Pacote com 160 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite em Pó Itambé Integral Sachê 200g",
+   "b": "Leite em Po Itambe Integral Sache com 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Mista Ice Pego 300ml",
+   "b": "Beb Mista Ice Pego 300ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Posta Gorda com Osso kg",
+   "b": "Carne Bovina Posta Gorda c/ Osso",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Glic Granado Bebe Cx 90g Fragrancias",
+   "b": "Sabonete de Glicerina Granado Bebê Cx 90g (fragrâncias)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carga Gillette Mach 3 Regular",
+   "b": "Carga Gillette Mach3 Regular",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorizador Aerossol Glade Várias Fragrâncias Tubo 360ml",
+   "b": "Desodorizador Aerossol Glade Varias fragrancias Tubo com 360ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Suave Maran Várias Fragrâncias Unidade 80g",
+   "b": "Sabonete Suave Maran Varias fragrancias Unidade com 80g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ap Barbear Gillette Prest Carbono C/2",
+   "b": "Ap Barb Gillette Prest Carbono C/2",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Brahma Duplo Malte Lata 350ml",
+   "b": "Cerveja Brahma Duplo Malte Lata com 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Damare Semidesnatado 395g",
+   "b": "Leite Condensado Damare Semidesnatado Caixa 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Império Helles GF 330ml",
+   "b": "Cerveja Império Helles Garrafa 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sobrecoxas de Frango Bom Todo Congelado Bandeja 1kg",
+   "b": "Sobrecoxas de Frango Bom Todo Congeladas bd 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme Dental Oral-B 3D White Brilliant Fresh tb 70g",
+   "b": "Creme Dental Oral-B 3D White Brilliant Fresh lb 70g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Dueto de Milho Verde e Ervilha Fugini 170g",
+   "b": "Dueto de Milho Verde e Ervilha Fugini SC 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Guaraná Antarctica PC 2 unids x 1L",
+   "b": "Kit Guaraná Antarctica PC 2 unidades x 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Suína para Churrasco Avivar",
+   "b": "Linguiça Suína p/ Churrasco Avivar",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerv Corona Extra Lata 350ml",
+   "b": "Cerveja Corona Extra Lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Palha Amarelinha Original com Sal pct 800g",
+   "b": "Batata Palha Amarelinha Original com Sal Pacote com 800g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Português Mar Salgado Branco 750ml",
+   "b": "Vinho Português Mar Salgado Rosé 750ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Massa para Pastel Pastemassa Redonda 500g",
+   "b": "Massa para Pastel Pastemassa Redondo 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme Dental Colgate Máxima Proteção Anticáries Tubo 90g",
+   "b": "Creme Dental Colgate Maxima Protecao Anticaries Tubo com 90g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabão em Pedaço Guarani Vários Tipos Pacote 5x160g",
+   "b": "Sabao em Pedaco Guarani Varios tipos Pacote com 5x160g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite em Pó Aurora Integral 750g",
+   "b": "Leite em Pó Aurora Integral SC 750g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Colonia Johnsons Baby Fr 200ml Lavanda",
+   "b": "Colônia Johnson's Baby 200ml Lavanda",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vodka Smirnoff Ice Sabores 275ml",
+   "b": "Vodka Smirnoff Sabores 275ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lenço Umedecido Piquitucho PCT 60UN",
+   "b": "Lenco Umed Piquitucho Pct 60un",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Folha Dupla Fofex c/12",
+   "b": "Papel Hig Folha Dupla Fofex c/12",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha da Asa Seara Congelada 1kg",
+   "b": "Coxinha da Asa Seara Congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Descartável Shortinho Turma da Mônica Baby pct M c/26, G c/22, XG c/20 ou XXG c/18",
+   "b": "Fralda Descartavel Shortinho Turma da Monica Baby (G c/26, G c/22, XG c/20 ou XXG c/18)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Choco Biscuit Garoto ao Leite Pacote 78g",
+   "b": "Biscoito Choco Biscuit Garoto Ao Leite Pacote com 78g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bolo Fofo ou Formigueiro Queiroz kg",
+   "b": "Bolo Fofo ou Formigueiro Queiroz",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Oleo de Soja Vitaliv 900ml",
+   "b": "Oleo de Soja Vitaliv fb 900ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maionese Julieta Pouch 200g",
+   "b": "Maionese Julieta Pouch com 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Desc Personal Baby Jumbo Tamanhos",
+   "b": "Fralda Descartável Personal Baby Jumbo (tamanhos)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Amstel Lager Lata Sleek 350ml",
+   "b": "Cerveja Amstel Lager Lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Piracanjuba com Sal pt 500g",
+   "b": "Manteiga Piracanjuba c/ Sal pt 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Shampoo Johnson's Baby FR 200ml Fragrâncias",
+   "b": "Shampoo Johnson's Baby 200ml (fragrâncias)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Sertao Jucurutu Com Sal 500g",
+   "b": "Manteiga Sertão Jucurutu com Sal PT 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido Brilhante Bombona 5L",
+   "b": "Lava Roupas Liquido Brilhante Bombona com 5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Tempero Caseiro Sadio Frasco 500ml",
+   "b": "Tempero Caseiro Sadio Frasco com 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido Limpamil 3L",
+   "b": "Lava Roupas Líq Limpamil 3L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Inseticida Aerossol Baygon Ação Total Eucalipto Tubo com 360ml",
+   "b": "Inseticida Aerossol Baygon Acao Total/Acao Total Eucalipto Tubo com 360ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Chileno Pictor Cabernet Sauvignon 750ml",
+   "b": "Vinho Chileno Dínamo Cabernet Sauvignon 750ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creme de Avelã Nutella pt 375g",
+   "b": "Creme de Avelã Nutella Pote 375g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Rezende Congelado Aves/Suíno Caixeta 36x56g",
+   "b": "Hamburguer Rezende Congelado Aves/Suino Caixeta com 36x56g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica pack c/2 tb 1 litro",
+   "b": "Refrigerante Guarana Antarctica Pack c/2x 1 litro",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Whisky Old Parr Garrafa com 1L",
+   "b": "Whisky Old Parr 12 Garrafa com 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Barbear Bozzano 65g",
+   "b": "Creme Barbear Bozzano 65g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sh Johnsons Baby 200ml Fragrancias",
+   "b": "Shampoo Johnson's Baby 200ml (fragrâncias)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite UHT Natville Integral ou Desnatado cx 1 litro",
+   "b": "Leite UHT Elege Integral ou Desnatado cx 1 litro",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado Damare Semidesnatado cx 395g",
+   "b": "Leite Condensado Damare Semidesnatado Caixa 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sandália Light Brasil Ipanema Branca Vários Tamanhos",
+   "b": "Sandalia Light Brasil Ipanema Branca Varios tamanhos Par",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Doce Paçoca DaColônia Rolha Caixeta 100 Unidades",
+   "b": "Doce Pacoca DaColonia Rolha Caixeta com 100 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Integral Parmalat UHT 1L",
+   "b": "Leite Integral Parmalat UHT TP 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Íntimo Topz Fresh, Hidrata ou Suave 200ml",
+   "b": "Sabonete Íntimo Topz Femme Fresh, Hidrata ou Suave 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerossol Rexona 150ml",
+   "b": "Desodorante Aerosol Rexona Men 150ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Parbolizado Urbano pct 1kg",
+   "b": "Arroz Parboilizado Urbano 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Tio João Parboilizado Tipo 1 Pacote com 1kg",
+   "b": "Arroz Mariano Parboilizado Tipo 1 Pacote com 1kg",
+   "veredito": "diferente"
+  }
+ ]
+}
