@@ -1,0 +1,45 @@
+{
+ "shortcode": "story_levamaisjc_20260807",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-07",
+ "fim": "2026-08-09",
+ "titulo": "Paizão Leva Mais",
+ "pages": {
+   "story_levamaisjc_3958458937290837724": [
+     {"n":"Refrigerante Coca-Cola 1,5L","p":"6,99","u":"un","x":13,"y":41,"w":22,"h":13},
+     {"n":"Cerveja Devassa Lata 350ml","p":"2,59","u":"un","x":41,"y":41,"w":22,"h":13},
+     {"n":"Vinho Chileno Água Santa 750ml","p":"18,98","u":"un","x":68,"y":41,"w":22,"h":13},
+     {"n":"Alcatra Bovina Resfriada","p":"45,90","u":"kg","x":13,"y":54,"w":22,"h":11},
+     {"n":"Fraldinha Bovina Congelada","p":"44,98","u":"kg","x":41,"y":54,"w":22,"h":11},
+     {"n":"Pão de Alho Bom Todo 400g","p":"11,98","u":"un","x":68,"y":54,"w":22,"h":11},
+     {"n":"Asa de Frango Congelada a Granel","p":"14,98","u":"kg","x":13,"y":66,"w":22,"h":11},
+     {"n":"Costela Suína Bom Todo Temperada Congelada","p":"29,90","u":"kg","x":41,"y":66,"w":22,"h":11},
+     {"n":"Panceta Suína Bom Todo Temperada Congelada","p":"32,90","u":"kg","x":68,"y":66,"w":22,"h":11}
+   ],
+   "story_levamaisjc_3958458960661617335": [
+     {"n":"Cerveja Budweiser Lata 350ml","p":"3,59","u":"un","x":13,"y":41,"w":22,"h":13},
+     {"n":"Cerveja Itaipava Pilsen Lata 350ml","p":"2,59","u":"un","x":41,"y":41,"w":22,"h":13},
+     {"n":"Cerveja Heineken Lata 350ml","p":"4,99","u":"un","x":68,"y":41,"w":22,"h":13},
+     {"n":"Whisky Johnnie Walker Red Label 750ml","p":"59,90","u":"un","x":13,"y":54,"w":22,"h":11},
+     {"n":"Cachaça Matuta 1L (Flor de Banana / Maçã Verde / Mel & Limão)","p":"44,90","u":"un","x":41,"y":54,"w":22,"h":13},
+     {"n":"Picanha Maturatta Congelada","p":"89,90","u":"kg","x":68,"y":54,"w":22,"h":11},
+     {"n":"Picanha Suína Bom Todo Temperada Congelada","p":"29,90","u":"kg","x":13,"y":67,"w":22,"h":11},
+     {"n":"Linguiça Suína p/ Churrasco Avivar","p":"11,98","u":"kg","x":41,"y":67,"w":22,"h":11},
+     {"n":"Whisky Old Parr 1L","p":"124,59","u":"un","x":68,"y":67,"w":22,"h":11}
+   ],
+   "story_levamaisjc_3958512916699949137": [
+     {"n":"Peito Serrado","p":"27,49","u":"kg","x":9,"y":42,"w":20,"h":9},
+     {"n":"Lombo Serrado","p":"27,98","u":"kg","x":30,"y":42,"w":20,"h":9},
+     {"n":"Carne Bovina Posta Gorda c/ Osso","p":"28,98","u":"kg","x":52,"y":42,"w":20,"h":9},
+     {"n":"Carne Bovina Dianteira de Sol","p":"35,98","u":"kg","x":73,"y":42,"w":20,"h":9},
+     {"n":"Carne Moída Dianteira","p":"27,98","u":"kg","x":9,"y":52,"w":20,"h":11},
+     {"n":"Capa de Filé Bovino","p":"33,98","u":"kg","x":30,"y":52,"w":20,"h":11},
+     {"n":"Carne Bovina Coxão Duro","p":"35,98","u":"kg","x":52,"y":52,"w":20,"h":11},
+     {"n":"Carne Bovina Costela Ponta de Agulha","p":"22,98","u":"kg","x":73,"y":52,"w":20,"h":11},
+     {"n":"Carne Bovina Patinho Resfriado","p":"37,98","u":"kg","x":20,"y":64,"w":20,"h":11},
+     {"n":"Fígado Bovino Congelado","p":"13,98","u":"kg","x":44,"y":64,"w":20,"h":11},
+     {"n":"Carne Bovina Cupim","p":"37,98","u":"kg","x":64,"y":64,"w":20,"h":11}
+   ]
+ }
+}

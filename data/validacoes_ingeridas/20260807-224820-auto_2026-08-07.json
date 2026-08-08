@@ -1,0 +1,314 @@
+{
+ "validacoes": [
+  {
+   "a": "Café Clássico Santa Clara Almofada ou a Vácuo 250g",
+   "b": "Café Clássico Santa Clara Almofada ou Vácuo 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango c/ Dorsal JAGUÁ kg",
+   "b": "Coxa com Sobrecoxa de Frango com Dorsal Jaguá kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Saco para Lixo Embalixo Super econômico 15L/30L Rolo com 100/50 unidades",
+   "b": "Saco para Lixo Embalixo Super Econômico 15L 30L Rolo 100/50 Unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa Dorsal Jaguá",
+   "b": "Coxa com Sobrecoxa c/ Dorsal Jaguá",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Inseticida Aerossol Baygon Ação Total Eucalipto Tubo com 360ml",
+   "b": "Inseticida Aerossol Baygon Ação Total/Eucalipto Tubo 360ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão Instantâneo Nissin Lámen Vários sabores Pacote com 85g",
+   "b": "Macarrão Instantâneo Nissin Lámen Vários Sabores Pacote 85g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Líquido Clean Level Várias Fragrâncias Frasco com 1L",
+   "b": "Sabonete Líquido Clean Level Várias Fragrâncias Frasco 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Iogurte Danone Resfriado Vários sabores Garrafa com 1,25kg",
+   "b": "Iogurte Danone Resfriado Vários Sabores Garrafa 1,25kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desinfetante Líquido Lysoform Vários Tipos Frasco com 1L",
+   "b": "Desinfetante Líquido Lysoform Vários Tipos Frasco 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café São Braz Extra Forte Almofada/Vácuo Pacote com 250g",
+   "b": "Café São Braz Extra Forte Almofada Vácuo Pacote 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas em Pó Guarani Tradicional Pacote com 400g",
+   "b": "Lava Roupas em Pó Guarani Tradicional Pacote 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado Seara Bandeja 1kg",
+   "b": "Filé de Peito de Frango Congelado Sadia Bandeja 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Absorvente Lady Suave com Abas Pacote com 32 unidades",
+   "b": "Absorvente Lady Suave com Abas Pacote 32 Unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas em Pó Ala Vários tipos Pacote com 400g",
+   "b": "Lava Roupas em Pó Ala Vários Tipos Pacote 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Saco Embafreezer Embalixo 2L Rolo com 100 Unidades",
+   "b": "Saco Embafreezer Embalixo 2L Rolo 100 Unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Dona Benta Tipo 1 Pacote com 1kg",
+   "b": "Farinha de Trigo Dona Benta Tipo 1 Pacote 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refresco Líquido Kapo Vários sabores TP com 200ml",
+   "b": "Refresco Líquido Kapo Vários Sabores TP 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Lar Congelado Bdj 1kg",
+   "b": "Filé de Peito de Frango Lar Congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Lar Congelado IQF 1kg",
+   "b": "Filé de Peito de Frango Lar Congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça tipo Calabresa Sadia Pacote com 1kg",
+   "b": "Linguiça Tipo Calabresa Sadia Pacote 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aveia Kodilar Flocos Finos Pacote com 500g",
+   "b": "Aveia Kodilar Flocos Finos Pacote 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farofa Kodilar Temperada Pacote com 400g",
+   "b": "Farofa Kodilar Temperada Pacote 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Alimento para Cães Champ Carne e Cereal 18kg",
+   "b": "Alimento para Cães Champ Carne e Cereal Saco 18kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango c/ Dorsal Jaguá",
+   "b": "Coxa com Sobrecoxa de Frango com Dorsal Jaguá kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Leite CCGL 200g",
+   "b": "Creme de Leite CCGL TP 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Alimento para Cães Adultos Dog Chow Frango 100g",
+   "b": "Alimento para Cães Adultos Dog Chow Frango Sachê 100g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Líquido Dragão Vários Tipos Frasco 500ml",
+   "b": "Detergente Líquido Atol Vários Tipos Frasco 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Alimento para Gatos Whiskas Sabores Sachê 85g",
+   "b": "Alimento para Gatos Whiskas Carne Sachê 85g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão Comum Aliança Espaguete Pacote 400g",
+   "b": "Macarrão Comum Cipan Espaguete Pacote 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha de Mandioca Brejeirinha Branca pct 1kg",
+   "b": "Farinha de Mandioca Brejeira Fina Branca Pacote 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Detergente Líquido Ypê Vários Tipos Frasco 500ml",
+   "b": "Detergente Líquido Atol Vários Tipos Frasco 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas em Pó Absoluto Vários tipos Pacote 400g",
+   "b": "Lava Roupas em Pó Ala Vários Tipos Pacote 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Longa Vida Elegê Integral/Desnatado TP com 1L",
+   "b": "Leite Longa Vida Elegê Integral/Desnatado 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Rose Folha Simples 20m Pacote 12 rolos",
+   "b": "Papel Higiênico Rose Folha Dupla 20m Pacote 12 Rolos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "DESENGRIPANTE MULTIUSO EM SPRAY WD-40 FRASCO 300ML",
+   "b": "Desengripante Multiúso em Spray WD-40 300ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Kicaldo Tipo 1 Pacote 1kg",
+   "b": "Feijão Carioca Camil Tipo 1 Pacote 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado Natto Bandeja 1kg",
+   "b": "Filé de Peito de Frango Congelado Sadia Bandeja 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Coxão Mole Friboi Porcionada Resfriada",
+   "b": "Carne Bovina Contra Filé Friboi Porcionada Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Whisky Escocês Red Label Johnnie Walker 1L",
+   "b": "Whisky Escocês Black Label Johnnie Walker 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Xarope Monin Sabores garrafa 700ml",
+   "b": "Xarope Monin Vários Sabores Garrafa 700ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Amanteigado Vitarella Treloso Vários Sabores Pacote com 330g",
+   "b": "Biscoito Amanteigado Vitarella Vários Sabores Pacote 330g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Whisky Escocês 12 Anos Chivas Regal garrafa 1L",
+   "b": "Whisky Escocês 12 Anos Chivas Regal 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Repelente em Loção Off Kids 200ml",
+   "b": "Repelente em Loção Off Kids Frasco 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cesta Básica Assaí Kit 1 com 11 Itens",
+   "b": "Cesta Básica Assaí NE Kit 1 11 Itens",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Líquido Limpol Vários tipos Frasco com 500ml",
+   "b": "Detergente Líquido Atol Vários Tipos Frasco 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pneu Aro 13 175/75 XBRI Fastway",
+   "b": "Pneu Aro 13 175/75 A5 84T XBRI Fastway",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "AGUA DESMINERALIZADA COCKPIT FRASCO 1L",
+   "b": "Água Desmineralizada Cockpit 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+   "b": "Filé de Peito de Frango Lar Congelado 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desinfetante Urca Vários Tipos Frasco com 2L",
+   "b": "Desinfetante Guarani Vários Tipos Frasco 2L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Mussarela Natville Resfriado Fatiado",
+   "b": "Queijo Mussarela Natville Resfriado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha de Trigo Finna Tipo 1 Pacote 1kg",
+   "b": "Farinha de Trigo Dona Benta Tipo 1 Pacote 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Sadia Bandeja 1kg",
+   "b": "Filé de Peito de Frango Congelado Sadia Bandeja 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Alimento para Gatos Whiskas Carne/Frango Sachê com 85g",
+   "b": "Alimento para Gatos Whiskas Carne Sachê 85g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
+   "b": "Filé de Peito de Frango Lar Congelado 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Polpa de Fruta Brasfrut Congelada Maracujá Pacote 100g",
+   "b": "Polpa de Fruta Brasfrut Congelada Cajá Graviola Pacote 100g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peixe Merluza Fish Congelado PC 800G",
+   "b": "Filé de Merluza Fish Congelado Pacote 800g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog Perdigão Resfriada Pacote com 500g",
+   "b": "Salsicha Hot Dog Sadia Resfriada Pacote 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Aveia Nestlé Flocos Finos ou Flocos Caixeta 170g",
+   "b": "Aveia Nestlé Flocos Finos Caixeta 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mortadela Tony de Frango ou sem Toucinho kg",
+   "b": "Mortadela Tony Frango Sem Toucinho",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Bulnez Tipo 1 Pacote 1kg",
+   "b": "Feijão Carioca Camil Tipo 1 Pacote 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Limpador Multiuso Dragão Fragrâncias Frasco 500ml",
+   "b": "Limpador Multiuso Uau Várias Fragrâncias Frasco 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Velud Folha dupla 30m Pacote com 12 rolos",
+   "b": "Papel Higiênico Rose Folha Dupla 20m Pacote 12 Rolos",
+   "veredito": "diferente"
+  }
+ ]
+}

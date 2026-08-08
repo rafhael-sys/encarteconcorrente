@@ -1,0 +1,31 @@
+{
+ "shortcode": "story_queirozatacadaojoaocamara_20260807",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-07",
+ "fim": "2026-08-14",
+ "titulo": "Ofertas Dia dos Pais e Semana Baby",
+ "pages": {
+   "story_queirozatacadaojoaocamara_3958373377110535464": [
+     {"n":"Shampoo Anticaspa Clear Men L400P330ml","p":"26,48","u":"un","x":11,"y":42,"w":26,"h":22},
+     {"n":"Desodorante Aerosol Rexona Men 150ml","p":"14,48","u":"un","x":37,"y":42,"w":27,"h":22},
+     {"n":"Deo Colonia Salutaris 100ml","p":"32,98","u":"un","x":64,"y":42,"w":31,"h":22},
+     {"n":"Creme Barbear Bozzano 65g","p":"8,48","u":"un","x":9,"y":63,"w":29,"h":22},
+     {"n":"Ap Barbear Bic Comfort 3 Hybrid 6 Cargas","p":"26,98","u":"un","x":37,"y":63,"w":28,"h":22},
+     {"n":"Ap Barb Gillette Prest Carbono C/2","p":"20,98","u":"un","x":62,"y":63,"w":33,"h":22}
+   ],
+   "story_queirozatacadaojoaocamara_3958387142598548036": [
+     {"n":"Sab Liq Baruel Baby 400ml Fragrancias","p":"18,98","u":"un","x":6,"y":34,"w":22,"h":17},
+     {"n":"Cr Assadura Xuxinha 90g","p":"17,48","u":"un","x":28,"y":34,"w":22,"h":17},
+     {"n":"Colonia Johnsons Baby Fr 200ml Lavanda","p":"27,98","u":"un","x":51,"y":34,"w":22,"h":17},
+     {"n":"Sh Johnsons Baby 200ml Fragrancias","p":"14,98","u":"un","x":74,"y":34,"w":24,"h":17},
+     {"n":"Lenco Umed Piquitucho Pct 60un","p":"4,98","u":"pct","x":5,"y":51,"w":22,"h":18},
+     {"n":"Fralda Desc Personal Baby Jumbo Tamanhos","p":"27,98","u":"un","x":28,"y":51,"w":22,"h":18},
+     {"n":"Sabonete Glic Granado Bebe Cx 90g Fragrancias","p":"5,98","u":"cx","x":51,"y":51,"w":22,"h":18},
+     {"n":"Frald Mili Lovecare Jumbo M 36un Pants","p":"31,48","u":"un","x":74,"y":51,"w":24,"h":18},
+     {"n":"Sabonete Liq Dove Baby Rf 180ml","p":"14,98","u":"un","x":15,"y":68,"w":24,"h":18},
+     {"n":"Cond Johnsons Baby 200ml Fragrancias","p":"23,48","u":"un","x":38,"y":68,"w":26,"h":18},
+     {"n":"Colonia Huggies 100ml Suave Delicada","p":"14,98","u":"un","x":62,"y":68,"w":26,"h":18}
+   ]
+ }
+}

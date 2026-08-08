@@ -1,0 +1,67 @@
+{
+ "shortcode": "DbvftBDFX24",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-07",
+ "fim": "2026-08-09",
+ "titulo": "Super Dia Show",
+ "pages": {
+   "DbvftBDFX24_p1": [
+     {"n":"Fralda Mili Love&Care Jumbo (Tamanhos)","p":"24,99","u":"un (cliente cadastrado, de R$ 33,69)","x":5,"y":61,"w":90,"h":38}
+   ],
+   "DbvftBDFX24_p2": [
+     {"n":"Batata Pré-Frita Prime Fries Cong. 2kg Tradicional","p":"16,99","u":"un (cliente cadastrado, de R$ 24,99)","x":0,"y":16,"w":58,"h":60}
+   ],
+   "DbvftBDFX24_p3": [
+     {"n":"Lava Roupas Líq. Alice 3L (Fragrâncias)","p":"10,99","u":"un (cliente cadastrado, de R$ 14,99)","x":0,"y":57,"w":92,"h":43}
+   ],
+   "DbvftBDFX24_p4": [
+     {"n":"Linguiça de Frango Bom Todo","p":"12,99","u":"kg (cliente cadastrado)","x":33,"y":68,"w":53,"h":32}
+   ],
+   "DbvftBDFX24_p5": [
+     {"n":"Costela Suína Sadia","p":"17,99","u":"kg (cliente cadastrado, de R$ 23,39)","x":18,"y":42,"w":63,"h":55}
+   ],
+   "DbvftBDFX24_p6": [
+     {"n":"Bisteca Suína Seara","p":"13,99","u":"kg (cliente cadastrado, de R$ 17,99)","x":15,"y":53,"w":52,"h":47}
+   ],
+   "DbvftBDFX24_p7": [
+     {"n":"Frango a Passarinho Bom Todo 1kg (IQF-Temperado)","p":"11,99","u":"un (cliente cadastrado, de R$ 15,59)","x":0,"y":10,"w":42,"h":52}
+   ],
+   "DbvftBDFX24_p8": [
+     {"n":"Arroz Blue Soft 1kg (Parboilizado)","p":"3,59","u":"un","x":8,"y":57,"w":63,"h":35}
+   ],
+   "DbvftBDFX24_p9": [
+     {"n":"Feijão Felitá Chef 1kg (Preto)","p":"6,59","u":"un","x":0,"y":54,"w":52,"h":32}
+   ],
+   "DbvftBDFX24_p10": [
+     {"n":"Massa Galo 400g (Parafuso)","p":"2,49","u":"un (cliente cadastrado)","x":0,"y":35,"w":95,"h":27}
+   ],
+   "DbvftBDFX24_p11": [
+     {"n":"Lava Roupas em Pó Ala 400g (Fragrância)","p":"2,59","u":"un (cliente cadastrado, de R$ 3,79)","x":0,"y":38,"w":53,"h":42}
+   ],
+   "DbvftBDFX24_p12": [
+     {"n":"Papel Higiênico Felitá Care 20m c/12 (Folha Dupla)","p":"9,99","u":"un (cliente cadastrado, de R$ 12,89)","x":10,"y":62,"w":88,"h":38}
+   ],
+   "DbvftBDFX24_p13": [
+     {"n":"Mistura Láctea Condensada Triângulo Mineiro 395g","p":"3,79","u":"un (cliente cadastrado, de R$ 4,79)","x":8,"y":53,"w":88,"h":47}
+   ],
+   "DbvftBDFX24_p14": [
+     {"n":"Salsicha Hot-Dog Boua","p":"5,99","u":"kg (cliente cadastrado, de R$ 8,89)","x":17,"y":18,"w":62,"h":68}
+   ],
+   "DbvftBDFX24_p15": [
+     {"n":"Cachaça Matuta Lt 350ml (Sabores)","p":"9,99","u":"un (cliente cadastrado, de R$ 13,39)","x":13,"y":73,"w":52,"h":27}
+   ],
+   "DbvftBDFX24_p16": [
+     {"n":"Creme Culinário Triângulo Mineiro 200g","p":"1,79","u":"un (cliente cadastrado, de R$ 2,39)","x":12,"y":55,"w":78,"h":42}
+   ],
+   "DbvftBDFX24_p17": [
+     {"n":"Cerveja Devassa 350ml Tropical Sleek","p":"2,59","u":"un (cliente cadastrado, de R$ 3,29)","x":15,"y":57,"w":55,"h":33}
+   ],
+   "DbvftBDFX24_p18": [
+     {"n":"Ovo de Codorna Avine Bdj c/30 Und","p":"6,99","u":"bandeja (cliente cadastrado, de R$ 8,99)","x":8,"y":63,"w":52,"h":32}
+   ],
+   "DbvftBDFX24_p19": [
+     {"n":"Bisteca Suína Seara","p":"13,99","u":"kg (cliente cadastrado, de R$ 17,99)","x":53,"y":18,"w":45,"h":70}
+   ]
+ }
+}

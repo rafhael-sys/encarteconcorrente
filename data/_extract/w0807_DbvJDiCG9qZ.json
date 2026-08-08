@@ -1,0 +1,37 @@
+{
+ "shortcode": "DbvJDiCG9qZ",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-06",
+ "fim": "2026-08-07",
+ "titulo": "Feirão Hortifrúti",
+ "pages": {
+   "DbvJDiCG9qZ_p1": [
+     {"n": "Laranja Pera", "p": "1,68", "u": "kg", "x": 3, "y": 30, "w": 94, "h": 58}
+   ],
+   "DbvJDiCG9qZ_p2": [
+     {"n": "Abacaxi", "p": "3,45", "u": "cada", "x": 3, "y": 30, "w": 94, "h": 58}
+   ],
+   "DbvJDiCG9qZ_p3": [
+     {"n": "Mamão Formosa", "p": "3,49", "u": "kg", "x": 3, "y": 30, "w": 94, "h": 58}
+   ],
+   "DbvJDiCG9qZ_p4": [
+     {"n": "Limão Taiti", "p": "3,89", "u": "kg", "x": 3, "y": 30, "w": 94, "h": 58}
+   ],
+   "DbvJDiCG9qZ_p5": [
+     {"n": "Macaxeira", "p": "1,99", "u": "kg", "x": 3, "y": 30, "w": 94, "h": 58}
+   ],
+   "DbvJDiCG9qZ_p6": [
+     {"n": "Goma de Mandioca Delícia Potiguar ou Precioso 1kg", "p": "3,99", "u": "cada", "x": 3, "y": 30, "w": 94, "h": 58}
+   ],
+   "DbvJDiCG9qZ_p7": [
+     {"n": "Cebola Branca", "p": "4,98", "u": "kg", "x": 3, "y": 30, "w": 94, "h": 58}
+   ],
+   "DbvJDiCG9qZ_p8": [
+     {"n": "Repolho Roxo", "p": "7,49", "u": "kg", "x": 3, "y": 30, "w": 94, "h": 58}
+   ],
+   "DbvJDiCG9qZ_p9": [
+     {"n": "Repolho Roxo", "p": "7,49", "u": "kg", "x": 3, "y": 30, "w": 94, "h": 58}
+   ]
+ }
+}

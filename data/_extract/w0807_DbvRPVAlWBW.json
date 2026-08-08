@@ -1,0 +1,32 @@
+{
+ "shortcode": "DbvRPVAlWBW",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-07",
+ "fim": "2026-08-09",
+ "titulo": "Ofertas Dia dos Pais",
+ "pages": {
+   "DbvRPVAlWBW_p1": [
+     {"n": "Refrigerante Coca-Cola 1,5L", "p": "6,99", "u": "un", "x": 10, "y": 43, "w": 30, "h": 19},
+     {"n": "Cerveja Devassa LT 350ml", "p": "2,59", "u": "un", "x": 42, "y": 43, "w": 28, "h": 19},
+     {"n": "Vinho Chileno Agua Santa 750ml", "p": "18,98", "u": "un", "x": 70, "y": 43, "w": 28, "h": 19},
+     {"n": "Alcatra Bovina Resfriada", "p": "45,90", "u": "kg", "x": 10, "y": 62, "w": 30, "h": 16},
+     {"n": "Fraldinha Bovina Congelada", "p": "44,98", "u": "kg", "x": 42, "y": 62, "w": 28, "h": 16},
+     {"n": "Pao de Alho Bom Todo 400g", "p": "11,98", "u": "un", "x": 70, "y": 62, "w": 28, "h": 16},
+     {"n": "Asa de Frango Congelada a Granel", "p": "14,98", "u": "kg", "x": 10, "y": 79, "w": 30, "h": 16},
+     {"n": "Costela Suina Bom Todo Temperada Congelada", "p": "29,90", "u": "kg", "x": 42, "y": 79, "w": 28, "h": 16},
+     {"n": "Panceta Suina Bom Todo Temperada Congelada", "p": "32,90", "u": "kg", "x": 70, "y": 79, "w": 28, "h": 16}
+   ],
+   "DbvRPVAlWBW_p2": [
+     {"n": "Cerveja Budweiser LT 350ml", "p": "3,59", "u": "un", "x": 8, "y": 43, "w": 28, "h": 19},
+     {"n": "Cerveja Itaipava Pilsen LT 350ml", "p": "2,59", "u": "un", "x": 40, "y": 43, "w": 28, "h": 19},
+     {"n": "Cerveja Heineken LT 350ml", "p": "4,99", "u": "un", "x": 70, "y": 43, "w": 28, "h": 19},
+     {"n": "Whisky Johnnie Walker Red Label 750ml", "p": "59,90", "u": "un", "x": 8, "y": 62, "w": 28, "h": 17},
+     {"n": "Cachaca Matuta 1L (Flor de Banana / Maca Verde / Mel & Limao)", "p": "44,90", "u": "un", "x": 40, "y": 62, "w": 28, "h": 17},
+     {"n": "Picanha Maturatta Congelada", "p": "89,90", "u": "un", "x": 70, "y": 62, "w": 28, "h": 17},
+     {"n": "Picanha Suina Bom Todo Temperada Congelada", "p": "29,90", "u": "kg", "x": 8, "y": 80, "w": 28, "h": 16},
+     {"n": "Linguica Suina p/ Churrasco Avivar", "p": "11,98", "u": "kg", "x": 40, "y": 80, "w": 28, "h": 16},
+     {"n": "Whisky Old Parr 1L", "p": "124,59", "u": "un", "x": 70, "y": 80, "w": 28, "h": 16}
+   ]
+ }
+}

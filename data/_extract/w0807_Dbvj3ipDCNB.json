@@ -1,0 +1,15 @@
+{
+ "shortcode": "Dbvj3ipDCNB",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": null,
+ "fim": "2026-08-10",
+ "titulo": "Dia da Cerveja",
+ "pages": {
+   "Dbvj3ipDCNB_p1": [
+     {"n": "Cerveja Devassa Puro Malte Lata 350ml", "p": "2,59", "u": "cada", "x": 15, "y": 66, "w": 25, "h": 25},
+     {"n": "Cerveja Heineken Lata 350ml", "p": "4,99", "u": "cada", "x": 41, "y": 66, "w": 22, "h": 25},
+     {"n": "Cerveja Amstel Lager Lata 350ml", "p": "3,19", "u": "cada", "x": 67, "y": 66, "w": 27, "h": 25}
+   ]
+ }
+}

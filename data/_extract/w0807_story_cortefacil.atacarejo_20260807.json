@@ -1,42 +1,25 @@
 {
-  "shortcode": "story_cortefacil.atacarejo_20260807",
-  "discard": false,
-  "discard_reason": "",
-  "inicio": null,
-  "fim": null,
-  "titulo": "Ofertas Corte Fácil Atacarejo — story (07/08)",
-  "pages": {
-    "story_cortefacil.atacarejo_3958329183189451033": [
-      {"n": "Sobrecoxas de Frango Bom Todo Congelada Bandeja 1kg", "p": "13,99", "u": "und", "x": 10, "y": 33, "w": 85, "h": 22},
-      {"n": "Pão de Alho Bom Todo Grill Tradicional 400g", "p": "12,99", "u": "und", "x": 10, "y": 61, "w": 85, "h": 22}
-    ],
-    "story_cortefacil.atacarejo_3958329311711906619": [
-      {"n": "Lombo Suíno Temperado Bom Todo Congelado", "p": "31,99", "u": "kg", "x": 10, "y": 33, "w": 85, "h": 24},
-      {"n": "Panceta/Ancho Suíno Temperado Bom Todo Congelado", "p": "33,99", "u": "kg", "x": 10, "y": 58, "w": 85, "h": 24}
-    ],
-    "story_cortefacil.atacarejo_3958331503428124346": [
-      {"n": "Carne Bovina Fralda/Coxão Mole Resfriado e Salgado", "p": "37,99", "u": "kg", "x": 14, "y": 35, "w": 76, "h": 16},
-      {"n": "Carne Bovina Capa de Contra Filé Congelada", "p": "34,99", "u": "kg", "x": 8, "y": 55, "w": 30, "h": 15},
-      {"n": "Carne Bovina Cupim", "p": "34,99", "u": "kg", "x": 37, "y": 55, "w": 30, "h": 15},
-      {"n": "Carne Bovina Cordão do Contra Filé", "p": "29,99", "u": "kg", "x": 65, "y": 55, "w": 30, "h": 15},
-      {"n": "Carne Bovina Paleta com Osso", "p": "29,99", "u": "kg", "x": 8, "y": 72, "w": 30, "h": 15},
-      {"n": "Carne Bovina Acém com Osso", "p": "27,99", "u": "kg", "x": 37, "y": 72, "w": 30, "h": 15},
-      {"n": "Carne Bovina Costela do Peito", "p": "26,99", "u": "kg", "x": 65, "y": 72, "w": 30, "h": 15}
-    ],
-    "story_cortefacil.atacarejo_3958331634575605864": [
-      {"n": "Carne Bovina Costela P.A", "p": "25,99", "u": "kg", "x": 8, "y": 42, "w": 30, "h": 13},
-      {"n": "Língua Bovina Congelada", "p": "22,99", "u": "kg", "x": 37, "y": 42, "w": 30, "h": 13},
-      {"n": "Mocotó Bovino Serrado Congelado", "p": "14,99", "u": "kg", "x": 65, "y": 42, "w": 30, "h": 13},
-      {"n": "Fígado Bovino Congelado", "p": "15,99", "u": "kg", "x": 8, "y": 58, "w": 30, "h": 14},
-      {"n": "Coração Bovino Congelado", "p": "14,99", "u": "kg", "x": 37, "y": 58, "w": 30, "h": 14},
-      {"n": "Espetinho de Contra Filé/Bife Ancho Seridoense Congelado 300g", "p": "19,99", "u": "und", "x": 65, "y": 58, "w": 30, "h": 16},
-      {"n": "Hambúrguer Artesanal Blend Seridoense Congelado 120g", "p": "5,99", "u": "und", "x": 8, "y": 76, "w": 30, "h": 14},
-      {"n": "Hambúrguer Fraldinha Seridoense Congelado 120g", "p": "7,99", "u": "und", "x": 37, "y": 76, "w": 30, "h": 14},
-      {"n": "Cerveja Itaipava Pilsen Lata 350ml", "p": "2,59", "u": "und", "x": 65, "y": 76, "w": 30, "h": 14}
-    ],
-    "story_cortefacil.atacarejo_3958331770403990933": [
-      {"n": "Cerveja Puro Malte Pilsen 3.0 Lata 350ml", "p": "2,79", "u": "und", "x": 8, "y": 42, "w": 32, "h": 16},
-      {"n": "Caixa Térmica Mor 34 Litros Cores", "p": "89,99", "u": "und", "x": 8, "y": 60, "w": 32, "h": 16}
-    ]
-  }
+ "shortcode": "story_cortefacil.atacarejo_20260807",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-05",
+ "fim": "2026-08-09",
+ "titulo": "Aniversário Corte Fácil",
+ "pages": {
+   "story_cortefacil.atacarejo_3958456499948580303": [
+     {"n": "Massas Jucurutu Manteiga Sertão", "p": "5,89", "u": "un", "x": 8, "y": 47, "w": 88, "h": 48}
+   ],
+   "story_cortefacil.atacarejo_3958472665777737237": [
+     {"n": "Café em Cápsulas Tres 3 Corações (Tradicional / Espresso Ameno) 10 cápsulas", "p": "19,99", "u": "un", "x": 8, "y": 47, "w": 88, "h": 48}
+   ],
+   "story_cortefacil.atacarejo_3958615571234694216": [
+     {"n": "Coxão Mole Resfriado", "p": "37,99", "u": "kg", "x": 10, "y": 36, "w": 80, "h": 55}
+   ],
+   "story_cortefacil.atacarejo_3958625220893618122": [
+     {"n": "Cupim", "p": "34,99", "u": "kg", "x": 18, "y": 40, "w": 64, "h": 52}
+   ],
+   "story_cortefacil.atacarejo_3958646656738540512": [
+     {"n": "Coxão Mole de Sol", "p": "37,99", "u": "kg", "x": 18, "y": 37, "w": 64, "h": 55}
+   ]
+ }
 }

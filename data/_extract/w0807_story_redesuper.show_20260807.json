@@ -1,0 +1,44 @@
+{
+ "shortcode": "story_redesuper.show_20260807",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-07",
+ "fim": "2026-08-09",
+ "titulo": "Super Dia Show",
+ "pages": {
+   "story_redesuper.show_3958536380900849876": [
+     {"n": "Fralda Mili Love&Care Jumbo", "p": "24,99", "u": "cada (cliente cadastrado, de 33,69)", "x": 0, "y": 78, "w": 100, "h": 22}
+   ],
+   "story_redesuper.show_3958536430620126166": [
+     {"n": "Linguiça de Frango Bom Todo", "p": "12,99", "u": "kg (cliente cadastrado, de 16,89)", "x": 20, "y": 63, "w": 55, "h": 37}
+   ],
+   "story_redesuper.show_3958536514548151593": [
+     {"n": "Batata Pré-Frita Prime Fries (kg tradicional)", "p": "16,99", "u": "cada (cliente cadastrado, de 24,99)", "x": 0, "y": 7, "w": 48, "h": 57}
+   ],
+   "story_redesuper.show_3958536631342734773": [
+     {"n": "Chã de Fora Bovina Resfriada", "p": "36,99", "u": "kg (cliente cadastrado, de 45,59)", "x": 17, "y": 13, "w": 48, "h": 48}
+   ],
+   "story_redesuper.show_3958536673942883155": [
+     {"n": "Frango a Passarinho Bom Todo (kg, IQF temperado)", "p": "11,99", "u": "cada (cliente cadastrado, de 15,59)", "x": 0, "y": 13, "w": 22, "h": 20},
+     {"n": "Peito de Frango Envelopado Congelado", "p": "9,98", "u": "kg (cliente cadastrado, de 17,99)", "x": 50, "y": 4, "w": 32, "h": 22},
+     {"n": "Costela Suína Sadia", "p": "17,99", "u": "kg (cliente cadastrado, de 23,39)", "x": 3, "y": 68, "w": 42, "h": 30},
+     {"n": "Mistura Láctea Condensada Triângulo Mineiro 395g", "p": "3,79", "u": "un (cliente cadastrado, de 4,79)", "x": 50, "y": 78, "w": 50, "h": 17}
+   ],
+   "story_redesuper.show_3958536798108299637": [
+     {"n": "Feijão Felitá Chef 1kg (Preto)", "p": "6,59", "u": "un", "x": 0, "y": 42, "w": 42, "h": 22}
+   ],
+   "story_redesuper.show_3958536871897248421": [
+     {"n": "Ovo de Codorna Avine Bandeja c/30 und", "p": "6,99", "u": "un (cliente cadastrado, de 8,99)", "x": 0, "y": 57, "w": 35, "h": 26},
+     {"n": "Cachaça Matuta Lata 350ml (sabores)", "p": "9,99", "u": "un (cliente cadastrado, de 13,39)", "x": 53, "y": 64, "w": 35, "h": 20},
+     {"n": "Cerveja Devassa 350ml Tropical Sleek", "p": "2,59", "u": "un (cliente cadastrado, de 3,29)", "x": 0, "y": 87, "w": 30, "h": 12},
+     {"n": "Bisteca Suína", "p": "13,99", "u": "kg (cliente cadastrado, de 17,99)", "x": 55, "y": 52, "w": 45, "h": 40}
+   ],
+   "story_redesuper.show_3958536918744836642": [
+     {"n": "Lava Roupas em Pó ALA 400g (Erva-Doce e Bicarbonato)", "p": "2,59", "u": "un (cliente cadastrado, de 3,79)", "x": 0, "y": 42, "w": 45, "h": 26}
+   ],
+   "story_redesuper.show_3958690143994715698": [
+     {"n": "Cerveja Devassa 350ml Tropical Sleek", "p": "2,59", "u": "un (cliente cadastrado, de 3,29)", "x": 18, "y": 42, "w": 57, "h": 35},
+     {"n": "Cerveja Eisenbahn 350ml Pilsen Sleek", "p": "3,79", "u": "un (cliente cadastrado, de 4,89)", "x": 15, "y": 86, "w": 65, "h": 14}
+   ]
+ }
+}

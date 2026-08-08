@@ -1,0 +1,139 @@
+{
+ "shortcode": "story_marvermelhoatacado_20260807",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-06",
+ "fim": "2026-08-13",
+ "titulo": "Mês dos Pais",
+ "pages": {
+   "story_marvermelhoatacado_3958421571510173038": [
+     {"n":"Laranja Pera","p":"1,68","u":"kg","x":6,"y":40,"w":88,"h":42}
+   ],
+   "story_marvermelhoatacado_3958421809838910056": [
+     {"n":"Abacaxi","p":"3,45","u":"cada","x":6,"y":40,"w":88,"h":42}
+   ],
+   "story_marvermelhoatacado_3958422074247823812": [
+     {"n":"Mamão Formosa","p":"3,49","u":"kg","x":6,"y":40,"w":88,"h":42}
+   ],
+   "story_marvermelhoatacado_3958422321812434835": [
+     {"n":"Limão Taiti","p":"3,89","u":"kg","x":6,"y":40,"w":88,"h":42}
+   ],
+   "story_marvermelhoatacado_3958422571155445054": [
+     {"n":"Macaxeira","p":"1,99","u":"kg","x":6,"y":40,"w":88,"h":42}
+   ],
+   "story_marvermelhoatacado_3958422815154834907": [
+     {"n":"Goma de Mandioca Delícia Potiguar ou Precioso 1KG","p":"3,99","u":"cada","x":6,"y":40,"w":88,"h":42}
+   ],
+   "story_marvermelhoatacado_3958423043828348598": [
+     {"n":"Cebola Branca","p":"4,98","u":"kg","x":6,"y":40,"w":88,"h":42}
+   ],
+   "story_marvermelhoatacado_3958423283373414188": [
+     {"n":"Cenoura","p":"5,98","u":"kg","x":6,"y":40,"w":88,"h":42}
+   ],
+   "story_marvermelhoatacado_3958423520116677725": [
+     {"n":"Repolho Roxo","p":"7,49","u":"kg","x":6,"y":40,"w":88,"h":42}
+   ],
+   "story_marvermelhoatacado_3958447421813871055": [],
+   "story_marvermelhoatacado_3958450778168604648": [
+     {"n":"Kit Dove Shampoo 350ml + Condicionador 175ml/150ml Fragrâncias","p":"25,90","u":"cada","x":2,"y":38,"w":24,"h":15},
+     {"n":"Sérum Hidratante Corporal Dove Fragrâncias 245ml","p":"26,99","u":"cada","x":26,"y":38,"w":22,"h":15},
+     {"n":"Óleo Sérum Bifásico Dove UV Repair e Glow Ferúlico 110ml","p":"35,99","u":"cada","x":60,"y":38,"w":20,"h":15},
+     {"n":"Máscara de Tratamento Dove 10 em 1 Reconstrução, Hidratação ou Nutrição 270g","p":"39,98","u":"cada","x":80,"y":38,"w":19,"h":15},
+     {"n":"Aparelho de Barbear Gillette Prestobarba 3 Regular, Sensitive ou Carbono 2 unids","p":"17,99","u":"cada","x":2,"y":54,"w":22,"h":14},
+     {"n":"Carga Gillette Mach 3 Regular Leve 4 e Pague 3","p":"56,90","u":"cada","x":24,"y":54,"w":24,"h":14},
+     {"n":"Espuma de Barbear Gillette Carbono 150g","p":"19,98","u":"cada","x":58,"y":54,"w":22,"h":14},
+     {"n":"Desodorante Aerossol Old Spice Fragrâncias 250ml","p":"17,99","u":"cada","x":80,"y":54,"w":19,"h":14},
+     {"n":"Sabonete Íntimo Topz Fresh, Hidrata ou Suave 200ml","p":"7,99","u":"cada","x":2,"y":69,"w":22,"h":15},
+     {"n":"Sérum de Limpeza Garnier Vitamina C 100g","p":"32,90","u":"cada","x":24,"y":69,"w":22,"h":15},
+     {"n":"Desodorante Corporal Giovanna Baby Fragrâncias 260ml","p":"23,90","u":"cada","x":48,"y":69,"w":24,"h":15},
+     {"n":"Loção Hidratante Francis Fragrâncias 200ml","p":"11,99","u":"cada","x":72,"y":69,"w":27,"h":15}
+   ],
+   "story_marvermelhoatacado_3958511162875387537": [],
+   "story_marvermelhoatacado_3958526267470053808": [
+     {"n":"Açúcar Mascavo Áster 900g","p":"8,79","u":"cada","x":2,"y":38,"w":23,"h":14},
+     {"n":"Adoçante Líquido Sadio Stevia 100ml","p":"6,59","u":"cada","x":25,"y":38,"w":23,"h":14},
+     {"n":"Cappuccino 3 Corações Diet PT 150g","p":"17,99","u":"cada","x":50,"y":38,"w":23,"h":14},
+     {"n":"Biscoito Cookies Vitao Sem Glúten ou Zero Açúcar 60g","p":"6,49","u":"cada","x":75,"y":38,"w":24,"h":14},
+     {"n":"Biscoito Vitalin Whey Cookie Chocolate ou Banana e Canela 40g","p":"5,89","u":"cada","x":2,"y":53,"w":23,"h":14},
+     {"n":"Biscoito Rosquinhas Jasmine Integral Sabores 120g","p":"7,99","u":"cada","x":25,"y":53,"w":23,"h":14},
+     {"n":"Biscoito Zero Açúcar Jasmine Sabores 75g","p":"4,69","u":"cada","x":50,"y":53,"w":23,"h":14},
+     {"n":"Psyllium Vitao Sem Glúten 100g","p":"16,99","u":"cada","x":75,"y":53,"w":24,"h":14},
+     {"n":"Chia em Grãos Sabor do Campo SC 120g","p":"6,49","u":"cada","x":2,"y":67,"w":23,"h":14},
+     {"n":"Flocão de Milho Urbano Não Transgênico 500g","p":"2,89","u":"cada","x":25,"y":67,"w":23,"h":14},
+     {"n":"Farinha de Aveia Áster SC 400g","p":"7,49","u":"cada","x":50,"y":67,"w":23,"h":14},
+     {"n":"Farelo de Aveia Germina Oat Bran SC 200g","p":"2,98","u":"cada","x":75,"y":67,"w":24,"h":14}
+   ],
+   "story_marvermelhoatacado_3958526503349375715": [
+     {"n":"Aveia Germina Flocos Finos SC 500g","p":"6,89","u":"cada","x":2,"y":35,"w":23,"h":15},
+     {"n":"Quinoa Germina em Grãos 200g","p":"8,89","u":"cada","x":25,"y":35,"w":23,"h":15},
+     {"n":"Granola Tia Sônia Sabores 200g","p":"10,79","u":"cada","x":50,"y":35,"w":23,"h":15},
+     {"n":"Chá Barão Sabores CX 10 unids","p":"4,29","u":"cada","x":75,"y":35,"w":24,"h":15},
+     {"n":"Pasta de Amendoim Livre D Natural ou Crunchy 400g","p":"15,59","u":"cada","x":2,"y":52,"w":23,"h":15},
+     {"n":"Castanha do Pará Germina 100g","p":"14,59","u":"cada","x":25,"y":52,"w":23,"h":15},
+     {"n":"Creme Vegetal Qualicoco Vegana ou Ervas Finas com Sal PT 200g","p":"12,99","u":"cada","x":50,"y":52,"w":23,"h":15},
+     {"n":"Macarrão Integral Vilma Espaguete ou Parafuso 500g","p":"4,39","u":"cada","x":75,"y":52,"w":24,"h":15},
+     {"n":"Vinagre de Maçã São Roque Orgânico 500ml","p":"25,99","u":"cada","x":2,"y":68,"w":23,"h":15},
+     {"n":"Barra de Cereal Tia Sônia Banana Go Sabores 22g","p":"1,79","u":"cada","x":25,"y":68,"w":23,"h":15},
+     {"n":"Barra de Proteínas Livre D Whey Fit Sabores 40g","p":"6,29","u":"cada","x":50,"y":68,"w":23,"h":15},
+     {"n":"Pasta de Amendoim Dr. Peanut Sabores 600g","p":"43,89","u":"cada","x":75,"y":68,"w":24,"h":15}
+   ],
+   "story_marvermelhoatacado_3958572567821512657": [
+     {"n":"Arroz Parboilizado Tio Manoel Tipo 1 1kg","p":"3,29","u":"cada","x":8,"y":35,"w":84,"h":45}
+   ],
+   "story_marvermelhoatacado_3958572823271414170": [
+     {"n":"Capa de Filé Bovina Resfriada a Vácuo ou Congelada","p":"28,98","u":"kg","x":8,"y":35,"w":84,"h":45}
+   ],
+   "story_marvermelhoatacado_3958573066784338434": [
+     {"n":"Feijão Carioca DuBom Tipo 1 1kg","p":"6,49","u":"cada","x":8,"y":35,"w":84,"h":45}
+   ],
+   "story_marvermelhoatacado_3958573313342294898": [
+     {"n":"Bolacha Jucurutu Manteiga do Sertão 250g","p":"5,29","u":"cada","x":8,"y":35,"w":84,"h":45}
+   ],
+   "story_marvermelhoatacado_3958573542200304044": [
+     {"n":"Água Mineral Petrópolis com Gás PET 500ml","p":"1,19","u":"cada","x":8,"y":35,"w":84,"h":45}
+   ],
+   "story_marvermelhoatacado_3958573774422136510": [
+     {"n":"Papel Higiênico Sublime Folha Dupla 20m 4 unids","p":"3,99","u":"cada","x":8,"y":35,"w":84,"h":45}
+   ],
+   "story_marvermelhoatacado_3958610211757978419": [],
+   "story_marvermelhoatacado_3958610648099784676": [
+     {"n":"Peito de Frango Super Frango, Real ou Ave Nova Congelado","p":"8,99","u":"kg","x":3,"y":60,"w":28,"h":11},
+     {"n":"Filezinho de Peito de Frango Perdigão Congelado 300g","p":"16,99","u":"cada","x":3,"y":73,"w":33,"h":12},
+     {"n":"Queijo Mussarela Unalac Peça, Pedaço ou Fatiado","p":"34,99","u":"kg","x":33,"y":81,"w":30,"h":12}
+   ],
+   "story_marvermelhoatacado_3958611073234468989": [
+     {"n":"Morango Mesa Congelado","p":"13,99","u":"cada","x":3,"y":62,"w":30,"h":15},
+     {"n":"Margarina Puro Sabor com Sal 500g","p":"3,99","u":"cada","x":22,"y":78,"w":28,"h":12},
+     {"n":"Manteiga Sertão Jucurutu com Sal PT 500g","p":"21,49","u":"cada","x":55,"y":82,"w":30,"h":12}
+   ],
+   "story_marvermelhoatacado_3958611437149064302": [
+     {"n":"Cerveja Amstel Ultra Lata 269ml","p":"2,99","u":"cada","x":55,"y":78,"w":30,"h":14}
+   ],
+   "story_marvermelhoatacado_3958611592698989163": [],
+   "story_marvermelhoatacado_3958611766443899672": [
+     {"n":"Cerveja Heineken Lata 350ml","p":"5,39","u":"un (a partir de 3 unds)","x":28,"y":48,"w":50,"h":36}
+   ],
+   "story_marvermelhoatacado_3958611953241407343": [],
+   "story_marvermelhoatacado_3958612141607614014": [
+     {"n":"Açúcar Alegre 1kg","p":"2,49","u":"cada","x":3,"y":60,"w":24,"h":11},
+     {"n":"Dueto de Milho Verde e Ervilha Fugini SC 170g","p":"2,79","u":"cada","x":12,"y":70,"w":22,"h":12},
+     {"n":"Refrigerante Guaraná Antarctica Lata 350ml","p":"2,79","u":"cada","x":33,"y":68,"w":22,"h":14},
+     {"n":"Leite em Pó Aurora Integral SC 750g","p":"25,99","u":"cada","x":25,"y":82,"w":24,"h":11},
+     {"n":"Leite Integral Parmalat UHT TP 1L","p":"5,79","u":"cada","x":70,"y":70,"w":24,"h":14},
+     {"n":"Óleo de Soja Vila Velha 900ml","p":"6,99","u":"cada","x":48,"y":82,"w":24,"h":11}
+   ],
+   "story_marvermelhoatacado_3958611027670566444": [],
+   "story_marvermelhoatacado_3958611998358718958": [],
+   "story_marvermelhoatacado_3958617283513661748": [],
+   "story_marvermelhoatacado_3958724905697001420": [],
+   "story_marvermelhoatacado_3958725115563199164": [
+     {"n":"Coloração Casting Creme Gloss L'Oréal Sem Amônia 700 Louro Natural","p":"33,90","u":"un","x":15,"y":18,"w":70,"h":72}
+   ],
+   "story_marvermelhoatacado_3958724977884039849": [
+     {"n":"Espuma de Barbear Gillette Carbono 150g","p":"19,98","u":"un","x":3,"y":15,"w":45,"h":38},
+     {"n":"Sérum Deo Hidratante Dove Niacinamida 245ml","p":"26,99","u":"un","x":52,"y":15,"w":45,"h":38},
+     {"n":"Loção Deo Hidratante Francis Cereja 200ml","p":"11,99","u":"un","x":3,"y":58,"w":45,"h":38},
+     {"n":"Desodorante Corporal Giovanna Baby Cherry 260ml","p":"23,90","u":"un","x":52,"y":58,"w":45,"h":38}
+   ]
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "shortcode": "story_marvermelhoatacado_20260807",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-05",
+ "fim": "2026-08-30",
+ "titulo": "Festival de Vinhos",
+ "pages": {
+   "story_marvermelhoatacado_3958725040941102214": [
+     {"n":"Kit Dove Shampoo 350ml + Condicionador 150ml UV Repair Glow","p":"25,90","u":"un","x":30,"y":13,"w":45,"h":15}
+   ],
+   "story_marvermelhoatacado_3958725132803176215": [
+     {"n":"Óleo Sérum Bifásico Dove Bond Intense 110ml","p":"35,99","u":"un","x":55,"y":37,"w":42,"h":13}
+   ],
+   "story_marvermelhoatacado_3958725649675590542": [
+     {"n":"Máscara de Tratamento Dove 10 em 1 Reconstrução 270g","p":"39,98","u":"un","x":62,"y":58,"w":30,"h":10}
+   ],
+   "story_marvermelhoatacado_3958726572143888967": [],
+   "story_marvermelhoatacado_3958726943398496696": [
+     {"n":"Vinho Português Casal Garcia Verde Branco 750ml","p":"51,99","u":"un","x":28,"y":80,"w":45,"h":16}
+   ],
+   "story_marvermelhoatacado_3958727194318557537": [
+     {"n":"Vinho Chileno Foye Reserva Tinto Carmenère 750ml","p":"29,98","u":"un","x":33,"y":31,"w":22,"h":7},
+     {"n":"Vinho Chileno Foye Reserva Tinto Cabernet Sauvignon 750ml","p":"29,98","u":"un","x":70,"y":30,"w":28,"h":9},
+     {"n":"Vinho Chileno Chilano Rosé 750ml","p":"22,89","u":"un","x":3,"y":78,"w":22,"h":8},
+     {"n":"Vinho Chileno Chilano Sauvignon Blanc 750ml","p":"22,89","u":"un","x":32,"y":78,"w":25,"h":8},
+     {"n":"Vinho Chileno Chilano 750ml","p":"22,89","u":"cada","x":63,"y":74,"w":35,"h":18}
+   ],
+   "story_marvermelhoatacado_3958727406533603136": [],
+   "story_marvermelhoatacado_3958727675656927351": [
+     {"n":"Vinho Hacienda Tinto Faustino 750ml","p":"38,98","u":"un","x":0,"y":15,"w":18,"h":10},
+     {"n":"Vinho Esteban Martin Garnacha 750ml","p":"38,99","u":"un","x":20,"y":15,"w":15,"h":10},
+     {"n":"Vinho Esteban Martin Tinto 750ml","p":"38,99","u":"un","x":40,"y":15,"w":15,"h":10},
+     {"n":"Vinho Esteban Martin Chardonnay 750ml","p":"38,99","u":"un","x":60,"y":15,"w":15,"h":10},
+     {"n":"Vinho Pueblo Sol Tannat 750ml","p":"35,99","u":"un","x":5,"y":72,"w":25,"h":8},
+     {"n":"Vinho Yellow Tail Pink Moscato 750ml","p":"49,98","u":"un","x":35,"y":72,"w":28,"h":8},
+     {"n":"Vinho Yellow Tail Moscato Branco 750ml","p":"49,98","u":"un","x":62,"y":72,"w":30,"h":8}
+   ],
+   "story_marvermelhoatacado_3958727866204124210": [
+     {"n":"Vinho Yellow Tail Pink Moscato 750ml","p":"49,98","u":"un","x":18,"y":5,"w":32,"h":14},
+     {"n":"Vinho Português Mar Salgado Branco 750ml","p":"30,99","u":"un","x":15,"y":83,"w":32,"h":10},
+     {"n":"Vinho Português Mar Salgado Rosé 750ml","p":"30,99","u":"un","x":50,"y":83,"w":35,"h":10}
+   ],
+   "story_marvermelhoatacado_3958727217305282415": [
+     {"n":"Vinho Quinta do Sol Branco Seco 750ml","p":"13,99","u":"un","x":35,"y":2,"w":30,"h":9},
+     {"n":"Vinho Almadén Vintage Branco Chenin Muscat 750ml","p":"19,98","u":"un","x":10,"y":88,"w":40,"h":10},
+     {"n":"Vinho Almadén Vintage Rosé Shiraz Tempranillo 750ml","p":"19,98","u":"un","x":40,"y":82,"w":30,"h":10},
+     {"n":"Vinho Almadén Vintage Tinto Cabernet Shiraz 750ml","p":"19,98","u":"un","x":70,"y":78,"w":28,"h":10}
+   ],
+   "story_marvermelhoatacado_3958727400260682280": [
+     {"n":"Vinho Chileno Dínamo Cabernet Sauvignon 750ml","p":"20,99","u":"cada","x":5,"y":36,"w":35,"h":8}
+   ],
+   "story_marvermelhoatacado_3958727493969936535": [
+     {"n":"Vinho Chileno La Huerta Tinto Meio Seco 750ml","p":"18,98","u":"cada","x":5,"y":40,"w":22,"h":13},
+     {"n":"Vinho Chileno Dínamo 750ml","p":"20,99","u":"cada","x":28,"y":40,"w":22,"h":13},
+     {"n":"Vinho Chileno Santiago Reservado 750ml","p":"20,99","u":"cada","x":51,"y":40,"w":22,"h":13},
+     {"n":"Vinho Chileno Chilano 750ml","p":"22,89","u":"cada","x":74,"y":40,"w":22,"h":13},
+     {"n":"Vinho Chileno Santa Helena 750ml","p":"25,99","u":"cada","x":5,"y":56,"w":22,"h":13},
+     {"n":"Vinho Chileno Foye 750ml","p":"29,99","u":"cada","x":28,"y":56,"w":22,"h":13},
+     {"n":"Vinho Português Mar Salgado 750ml","p":"30,99","u":"cada","x":51,"y":56,"w":22,"h":13},
+     {"n":"Vinho Português Casal Garcia 750ml","p":"51,99","u":"cada","x":74,"y":56,"w":22,"h":13},
+     {"n":"Vinho Argentino San Telmo 750ml","p":"25,99","u":"cada","x":5,"y":74,"w":22,"h":13},
+     {"n":"Vinho Australiano Yellow Tail 750ml","p":"49,98","u":"cada","x":28,"y":74,"w":22,"h":13},
+     {"n":"Vinho Galiotto 750ml","p":"14,59","u":"cada","x":51,"y":74,"w":22,"h":13},
+     {"n":"Vinho Almadén Vintage 750ml","p":"19,98","u":"cada","x":74,"y":74,"w":22,"h":13}
+   ],
+   "story_marvermelhoatacado_3958728404031346169": [],
+   "story_marvermelhoatacado_3958728283673548941": [],
+   "story_marvermelhoatacado_3958728881125059356": [
+     {"n":"Coxinha Nossa Coxinha Congelada 4 Queijos 300g","p":"13,99","u":"un (atacado a partir de 3 un; varejo 14,99)","x":3,"y":80,"w":33,"h":18}
+   ],
+   "story_marvermelhoatacado_3958729152404244891": [
+     {"n":"Massa para Pastel Pastemassa 250g","p":"3,49","u":"un (atacado a partir de 3 un; varejo 3,99)","x":2,"y":72,"w":30,"h":22},
+     {"n":"Massa para Pastel Pastemassa Redondo 500g","p":"6,69","u":"un (atacado; varejo 6,98)","x":55,"y":78,"w":40,"h":18}
+   ],
+   "story_marvermelhoatacado_3958729427105993734": [
+     {"n":"Massa para Lasanha Pastemassa","p":"9,39","u":"un (atacado a partir de 3 un; varejo 9,98)","x":2,"y":55,"w":33,"h":20}
+   ],
+   "story_marvermelhoatacado_3958729694165687639": [
+     {"n":"Ovo Branco Grande Bandeja c/ 30un","p":"13,99","u":"bandeja (30un)","x":0,"y":80,"w":30,"h":18}
+   ],
+   "story_marvermelhoatacado_3958729952257985760": [],
+   "story_marvermelhoatacado_3958735070190104220": [
+     {"n":"Sabonete Líquido Baruel Baby Glicerina 400ml","p":"20,49","u":"un (atacado a partir de 2 un; varejo 20,99)","x":62,"y":82,"w":38,"h":13}
+   ],
+   "story_marvermelhoatacado_3958735227727769169": [],
+   "story_marvermelhoatacado_3958736754756375084": [],
+   "story_marvermelhoatacado_3958737230331718922": [
+     {"n":"Vinho Chileno La Huerta Tinto Meio Seco 750ml","p":"18,98","u":"cada","x":13,"y":68,"w":62,"h":7}
+   ],
+   "story_marvermelhoatacado_3958737653226605819": [
+     {"n":"Vinho Chileno Dínamo 750ml","p":"20,99","u":"cada","x":13,"y":63,"w":60,"h":7},
+     {"n":"Vinho Chileno Santa Helena Tinto Merlot 750ml","p":"25,99","u":"un","x":0,"y":72,"w":28,"h":14}
+   ],
+   "story_marvermelhoatacado_3958738035050885982": [
+     {"n":"Vinho Chileno Chilano Rosé 750ml","p":"22,89","u":"cada","x":20,"y":63,"w":55,"h":7}
+   ],
+   "story_marvermelhoatacado_3958738348935859001": [
+     {"n":"Vinho Argentino San Telmo 750ml","p":"25,99","u":"cada","x":13,"y":64,"w":62,"h":7}
+   ],
+   "story_marvermelhoatacado_3958738641194940240": [
+     {"n":"Vinho Chileno Santa Helena Reservado Carmenère 750ml","p":"25,99","u":"cada","x":10,"y":68,"w":68,"h":7}
+   ],
+   "story_marvermelhoatacado_3958740177593659752": [
+     {"n":"Vinho Chileno Foye Reserva Rosé 750ml","p":"29,98","u":"cada","x":15,"y":65,"w":55,"h":7}
+   ],
+   "story_marvermelhoatacado_3958740743824718044": [
+     {"n":"Vinho Galiotto Branco Niágara Seco 750ml","p":"14,59","u":"cada","x":5,"y":74,"w":40,"h":10}
+   ],
+   "story_marvermelhoatacado_3958741661751677977": [
+     {"n":"Vinho Yellow Tail Cabernet Sauvignon 750ml","p":"49,98","u":"un","x":13,"y":80,"w":35,"h":12},
+     {"n":"Vinho Yellow Tail Chardonnay Branco 750ml","p":"49,98","u":"un","x":52,"y":78,"w":40,"h":12}
+   ],
+   "story_marvermelhoatacado_3958741708862018023": [],
+   "story_marvermelhoatacado_3958774506445699080": [],
+   "story_marvermelhoatacado_3958774558983576170": [
+     {"n":"Kit Dove Shampoo + Condicionador","p":"25,90","u":"cada","x":40,"y":92,"w":55,"h":6}
+   ],
+   "story_marvermelhoatacado_3958774604919560232": [
+     {"n":"Sérum Hidratante Corporal Dove 245ml","p":"26,99","u":"un","x":42,"y":86,"w":52,"h":10}
+   ]
+ }
+}

@@ -1,11 +1,16 @@
 {
-  "shortcode": "story_supernordestaonatal_20260807",
-  "discard": true,
-  "discard_reason": "no-price (oferta surpresa app)",
-  "inicio": "2026-08-07",
-  "fim": "2026-08-07",
-  "titulo": "Oferta Surpresa do Dia",
-  "pages": {
-    "story_supernordestaonatal_3958337192665675966": []
-  }
+ "shortcode": "story_supernordestaonatal_20260807",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-06",
+ "fim": "2026-08-09",
+ "titulo": "Ofertas Dia dos Pais",
+ "pages": {
+   "story_supernordestaonatal_3958480434190004377": [
+     {"n":"Geleias St. Dalfour / Casa Madeira","p":"24,99","u":"a partir de (exclusivo online)","x":27,"y":39,"w":46,"h":16}
+   ],
+   "story_supernordestaonatal_3958482022850066986": [
+     {"n":"Cerveja Amstel Lager Ultra 269ml","p":"2,99","u":"un (exclusivo online, limite 12/CPF)","x":25,"y":37,"w":50,"h":30}
+   ]
+ }
 }

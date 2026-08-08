@@ -1,0 +1,39 @@
+{
+ "shortcode": "story_redesupercop_20260807",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-06",
+ "fim": "2026-08-10",
+ "titulo": "Ofertas Dia dos Pais",
+ "pages": {
+   "story_redesupercop_3958382550624984297": [
+     {"n": "Carne Suína Temperada Suínos Jucurutu", "p": "23,99", "u": "kg", "x": 7, "y": 33, "w": 86, "h": 22},
+     {"n": "Lombo Suíno Suínos Jucurutu", "p": "23,99", "u": "kg", "x": 7, "y": 62, "w": 86, "h": 22}
+   ],
+   "story_redesupercop_3958382589783031731": [
+     {"n": "Linguiça para Churrasco Suínos Jucurutu", "p": "18,99", "u": "kg", "x": 7, "y": 34, "w": 86, "h": 21},
+     {"n": "Linguiça Calabresa Suínos Jucurutu", "p": "23,99", "u": "kg", "x": 5, "y": 63, "w": 88, "h": 22}
+   ],
+   "story_redesupercop_3958382630878817013": [
+     {"n": "Mistura para Bolo São Braz 400g (sabores)", "p": "6,99", "u": "cada", "x": 7, "y": 30, "w": 86, "h": 22},
+     {"n": "Café Blend 53 Almofada ou a Vácuo 250g (tipos)", "p": "11,99", "u": "cada", "x": 7, "y": 58, "w": 86, "h": 24}
+   ],
+   "story_redesupercop_3958382674575093456": [
+     {"n": "Biscoito Cream Cracker Estrela 350g (tradicional ou água e sal)", "p": "4,49", "u": "cada", "x": 10, "y": 30, "w": 82, "h": 24},
+     {"n": "Biscoito Maria ou Maizena Estrela Tradicional 307g", "p": "4,49", "u": "cada", "x": 10, "y": 60, "w": 82, "h": 24}
+   ],
+   "story_redesupercop_3958382719907082473": [
+     {"n": "Café Santa Clara Extraforte Almofada ou a Vácuo 250g", "p": "11,99", "u": "cada", "x": 10, "y": 32, "w": 82, "h": 23},
+     {"n": "Flocão de Milho Dona Clara 500g", "p": "1,49", "u": "cada", "x": 10, "y": 62, "w": 82, "h": 23}
+   ],
+   "story_redesupercop_3958382760558274703": [
+     {"n": "Pão de Forma Tradicional Bauducco 390g", "p": "7,29", "u": "cada", "x": 10, "y": 32, "w": 82, "h": 23},
+     {"n": "Pão de Forma Integral Bauducco 390g", "p": "8,39", "u": "cada", "x": 10, "y": 62, "w": 82, "h": 23}
+   ],
+   "story_redesupercop_3958382885112337122": [
+     {"n": "Água Sanitária Dragão 1L", "p": "2,09", "u": "cada", "x": 10, "y": 31, "w": 82, "h": 24},
+     {"n": "Lava Roupas em Pó Bem-te-vi 400g (fragrâncias)", "p": "2,89", "u": "cada", "x": 10, "y": 60, "w": 82, "h": 26}
+   ],
+   "story_redesupercop_3958411932621923555": []
+ }
+}

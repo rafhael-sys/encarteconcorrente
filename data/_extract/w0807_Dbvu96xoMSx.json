@@ -1,0 +1,34 @@
+{
+ "shortcode": "Dbvu96xoMSx",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-07",
+ "fim": "2026-08-09",
+ "titulo": "Ofertas Dia dos Pais",
+ "pages": {
+   "Dbvu96xoMSx_p1": [
+     {"n": "Coxa com Sobrecoxa c/ Dorsal Jagua", "p": "6,98", "u": "kg", "x": 4, "y": 39, "w": 45, "h": 40},
+     {"n": "Galinha Grande Somave", "p": "7,49", "u": "kg", "x": 50, "y": 45, "w": 48, "h": 47}
+   ],
+   "Dbvu96xoMSx_p2": [
+     {"n": "Carne Bovina Costela P.A", "p": "23,98", "u": "kg", "x": 4, "y": 38, "w": 44, "h": 33},
+     {"n": "Carne Bovina Alcatra", "p": "39,98", "u": "kg", "x": 48, "y": 66, "w": 50, "h": 30}
+   ],
+   "Dbvu96xoMSx_p3": [
+     {"n": "Carne Bovina Coxao Mole", "p": "36,98", "u": "kg", "x": 4, "y": 38, "w": 44, "h": 30},
+     {"n": "Carne Bovina Posta Gorda", "p": "25,98", "u": "kg", "x": 48, "y": 60, "w": 50, "h": 32}
+   ],
+   "Dbvu96xoMSx_p4": [
+     {"n": "Whisky Red Label 1L", "p": "74,99", "u": "un", "x": 4, "y": 36, "w": 44, "h": 34},
+     {"n": "Whisky Chivas 12 Anos 1L", "p": "119,90", "u": "un", "x": 48, "y": 55, "w": 50, "h": 37}
+   ],
+   "Dbvu96xoMSx_p5": [
+     {"n": "Cerveja Sol Zero Long Neck 330ml", "p": "4,99", "u": "un", "x": 4, "y": 37, "w": 44, "h": 33},
+     {"n": "Cerveja Budweiser Long Neck 330ml", "p": "5,69", "u": "un", "x": 48, "y": 56, "w": 50, "h": 36}
+   ],
+   "Dbvu96xoMSx_p6": [
+     {"n": "Refrigerante Pepsi ou Guarana Antarctica 1L", "p": "4,99", "u": "un", "x": 4, "y": 37, "w": 44, "h": 35},
+     {"n": "Bebida Mista Ice Pego 300ml", "p": "1,99", "u": "un", "x": 48, "y": 60, "w": 50, "h": 33}
+   ]
+ }
+}

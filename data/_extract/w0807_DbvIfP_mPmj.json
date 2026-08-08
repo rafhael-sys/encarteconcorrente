@@ -1,0 +1,51 @@
+{
+ "shortcode": "DbvIfP_mPmj",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-07",
+ "fim": "2026-08-09",
+ "titulo": "Ofertas Dia dos Pais",
+ "pages": {
+   "DbvIfP_mPmj_p1": [
+     {"n": "Arroz Parboilizado Nordestao pct 1kg", "p": "3,98", "u": "cada", "x": 6, "y": 34, "w": 15, "h": 13},
+     {"n": "Leite UHT Elege Integral ou Desnatado cx 1 litro", "p": "5,98", "u": "cada", "x": 21, "y": 34, "w": 15, "h": 13},
+     {"n": "Queijo Mussarela Davaca", "p": "39,90", "u": "kg", "x": 61, "y": 34, "w": 15, "h": 13},
+     {"n": "Sorvete Ster Bom pt 2 litros ou Batata Palito EasyChef pct 2kg", "p": "22,98", "u": "cada", "x": 77, "y": 34, "w": 16, "h": 13},
+     {"n": "Manteiga Piracanjuba c/ Sal pt 500g", "p": "23,99", "u": "cada", "x": 6, "y": 48, "w": 16, "h": 14},
+     {"n": "File de Tilapia Oceani Congelado pct 800g", "p": "37,90", "u": "cada", "x": 22, "y": 48, "w": 18, "h": 14},
+     {"n": "File de Peito de Frango Aurora ou Seara Congelado bd 1kg", "p": "19,98", "u": "cada", "x": 44, "y": 48, "w": 16, "h": 14},
+     {"n": "Refrigerante Guarana Antarctica Pack c/2x 1 litro", "p": "8,99", "u": "cada", "x": 60, "y": 48, "w": 15, "h": 14},
+     {"n": "Cerveja Michelob Ultra Sleek lta 350ml", "p": "4,99", "u": "cada", "x": 77, "y": 48, "w": 16, "h": 14},
+     {"n": "Oleo de Soja Vitaliv fb 900ml", "p": "7,59", "u": "cada", "x": 6, "y": 64, "w": 15, "h": 14},
+     {"n": "Leite em Po CCGL Integral pct 800g", "p": "29,99", "u": "cada", "x": 22, "y": 64, "w": 15, "h": 14},
+     {"n": "Azeite de Oliva Extra Virgem Andorinha vd 195ml", "p": "29,99", "u": "cada", "x": 38, "y": 64, "w": 16, "h": 14},
+     {"n": "Queijo Parmesao Faixa Azul Cilindro", "p": "27,90", "u": "cada", "x": 55, "y": 64, "w": 16, "h": 14},
+     {"n": "Coxas de Frango Sadia Congeladas IQF pct ou bd 1kg", "p": "12,49", "u": "cada", "x": 74, "y": 64, "w": 18, "h": 14},
+     {"n": "Sobrecoxas de Frango Bom Todo Congeladas bd 1kg", "p": "13,49", "u": "cada", "x": 4, "y": 80, "w": 17, "h": 15},
+     {"n": "Maminha Bovina Maturatta Congelada", "p": "69,98", "u": "kg", "x": 24, "y": 80, "w": 17, "h": 15},
+     {"n": "Bebida Energetica Red Bull Diversos lta 250ml", "p": "8,19", "u": "cada", "x": 44, "y": 80, "w": 14, "h": 15},
+     {"n": "Cerveja Budweiser lta 350ml", "p": "3,99", "u": "cada", "x": 60, "y": 80, "w": 14, "h": 15},
+     {"n": "Whisky Old Parr 12 Anos gfa 1 litro", "p": "139,00", "u": "cada", "x": 77, "y": 80, "w": 16, "h": 15}
+   ],
+   "DbvIfP_mPmj_p2": [
+     {"n": "Acucar Refinado Natural Ecocucar pct 1kg", "p": "2,89", "u": "cada", "x": 6, "y": 14, "w": 19, "h": 15},
+     {"n": "Farinha de Trigo Finna pct 1kg", "p": "3,89", "u": "cada", "x": 29, "y": 14, "w": 19, "h": 15},
+     {"n": "Feijao Preto Precioso pct 1kg", "p": "5,79", "u": "cada", "x": 52, "y": 14, "w": 19, "h": 15},
+     {"n": "Batata Frita Rusticas Lay's Sal Marinho ou Cream Cheese pct 68g", "p": "7,99", "u": "cada", "x": 74, "y": 14, "w": 20, "h": 15},
+     {"n": "Achocolatado em Po Toddy Original pct 700g", "p": "16,99", "u": "cada", "x": 6, "y": 30, "w": 19, "h": 15},
+     {"n": "Morango EasyChef Congelado pct 1,010kg", "p": "14,98", "u": "cada", "x": 29, "y": 30, "w": 19, "h": 15},
+     {"n": "Suco de Uva Fazenda Doce Sol Integral vd 1 litro", "p": "13,99", "u": "cada", "x": 52, "y": 30, "w": 19, "h": 15},
+     {"n": "Cerveja Lager Amstel Ultra lta 269ml", "p": "3,89", "u": "cada", "x": 74, "y": 30, "w": 20, "h": 15},
+     {"n": "Cerveja Lager Amstel Sleek lta 350ml", "p": "3,29", "u": "cada", "x": 6, "y": 46, "w": 19, "h": 15},
+     {"n": "Desodorante Aerosol Nivea Diversos lb 150ml", "p": "11,90", "u": "cada", "x": 29, "y": 46, "w": 19, "h": 15},
+     {"n": "Creme Dental Oral-B 3D White Brilliant Fresh lb 70g", "p": "17,49", "u": "cada", "x": 52, "y": 46, "w": 19, "h": 15},
+     {"n": "Kit Pantene Shampoo lb 300ml + Condicionador lb 300ml", "p": "26,90", "u": "cada", "x": 74, "y": 46, "w": 20, "h": 15},
+     {"n": "Lava-loucas Limpol Diversos lb 500ml", "p": "1,99", "u": "cada", "x": 6, "y": 62, "w": 19, "h": 15},
+     {"n": "Amaciante Sonho Magic Lavanda lb Leva 2 litros Pague 1,8 litro", "p": "9,90", "u": "cada", "x": 29, "y": 62, "w": 19, "h": 15},
+     {"n": "Desinfetante Brilux Diversos lb 2 litros", "p": "10,99", "u": "cada", "x": 52, "y": 62, "w": 19, "h": 15},
+     {"n": "Fralda Descartavel Shortinho Turma da Monica Baby (G c/26, G c/22, XG c/20 ou XXG c/18)", "p": "27,99", "u": "cada", "x": 74, "y": 62, "w": 20, "h": 15},
+     {"n": "Lava-roupas em Po Omo pct 2,2kg", "p": "29,90", "u": "cada", "x": 6, "y": 78, "w": 19, "h": 15},
+     {"n": "Papel Higienico Mili Prime Comfort ou Soft Air Folha Tripla 20 Metros pct c/12", "p": "18,49", "u": "cada", "x": 29, "y": 78, "w": 19, "h": 15}
+   ]
+ }
+}
