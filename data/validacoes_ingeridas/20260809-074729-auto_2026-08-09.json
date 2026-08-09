@@ -1,0 +1,299 @@
+{
+ "validacoes": [
+  {
+   "a": "Amendoim Torrado São Braz Sem Pele 200g",
+   "b": "Amendoim Torrado São Braz s/Pele 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farelo de Aveia Vitalin com Whey 160g",
+   "b": "Farelo de Aveia Vitalin c/Whey 160g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Cremoso Nordestão Tradicional ou Light 400g",
+   "b": "Requeijão Cremoso Nordestão Tradicional ou Light pt 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Dove Shampoo + Condicionador Vários tipos",
+   "b": "Kit Novex Shampoo + Condicionador Vários tipos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Kit OX Shampoo + Condicionador Vários Tipos",
+   "b": "Kit Novex Shampoo + Condicionador Vários tipos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creme de Açaí Nordestão Tradicional 650g",
+   "b": "Creme de Açaí Nordestão Tradicional pt 650g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "File de Peito de Frango Lar Congelado Bandeja com 1kg",
+   "b": "Filé de Peito de Frango Seara Congelado Bandeja com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Chocolate em Pó 50% Cacau Nordestão 200g",
+   "b": "Chocolate em Pó 50% Cacau Nordestão cx 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante para Roupas Urca Brisa/Floral Bombona 5L",
+   "b": "Amaciante para Roupas Urca Brisa/Floral Bombona com 5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fermento Químico em Pó Nordestão 100g",
+   "b": "Fermento Químico em Pó Nordestão pt 100g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango Envelopado Congelado",
+   "b": "Peito de Frango Envelopado Congelado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango à Passarinho Lar IQF Congelado pacote 1kg",
+   "b": "Frango à Passarinho Lar IQF Congelado Pacote com 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Multiuso Ypê Vários Tipos Frasco 500ml",
+   "b": "Limpador Multiuso Ypê Vários tipos Frasco com 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog Perdigão Congelada Pacote 5kg",
+   "b": "Salsicha Hot Dog Perdigão Congelada Pacote com 5kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Inseticida Mat Inset vários tipos frasco 360ml",
+   "b": "Inseticida Mat Inset Vários tipos Frasco com 360ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido Becker Versátil Bombona 5L",
+   "b": "Lava Roupas Líquido Becker Versátil Bombona com 5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sorvete Nordestão Sabores 1 Litro",
+   "b": "Sorvete Nordestão Sabores pt 1 litro",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Arbório San Frediano pct 500g",
+   "b": "Arroz Arbório San Frediano cx 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aveia em Flocos Finos Vitalin 200g",
+   "b": "Aveia Flocos Finos Vitalin 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Nordestão com Sal 200g",
+   "b": "Manteiga Nordestão com Sal pt 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Coca-Cola Zero Açúcar Pet 2L",
+   "b": "Refrigerante Coca-Cola Zero Açúcar Pet com 2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Flocão de Milho Nordestino Pacote 500g",
+   "b": "Flocão de Milho Nordestino Pacote com 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Duro KG Peça",
+   "b": "Carne Bovina Coxão Duro Peça",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Energético Monster Energy Lata 473ml",
+   "b": "Energético Monster Energy Lata com 473ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Mineral Nordestão sem Gás 510ml",
+   "b": "Água Mineral Nordestão sem Gás gfa 510ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Spaten Puro Malte Lata 350ml",
+   "b": "Cerveja Spaten Puro Malte Lata com 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Tiroliro Branco ou Rosé 750ml",
+   "b": "Vinho Tiroliro Branco ou Rosé gfa 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cha de Fora Bovino Resfriado kg",
+   "b": "Chã de Fora Bovina Resfriada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Multiuso Becker Vários tipos Frasco com 500ml",
+   "b": "Limpador Multiuso Ypê Vários tipos Frasco com 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Kit Niely Shampoo+Condicionador Vários tipos",
+   "b": "Kit Novex Shampoo + Condicionador Vários tipos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Vinho Marques Del Sur 750ml",
+   "b": "Vinho Marques del Sur gfa 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Suina Sadia",
+   "b": "Costela Suína Sadia kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Paleta sem Osso Reserva Resfriada",
+   "b": "Carne Bovina Patinho sem Osso Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Mauricéa Congelada",
+   "b": "Coxa com Sobrecoxa de Frango Lar Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Friato Congelada",
+   "b": "Coxa com Sobrecoxa de Frango Lar Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Kit Seda Shampoo + Condicionador Vários Tipos",
+   "b": "Kit Novex Shampoo + Condicionador Vários tipos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça Calabresa Perdigão Defumada pacote 400g",
+   "b": "Linguiça Tipo Calabresa Perdigão Defumada Pacote com 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Pantene Shampoo + Condicionador vários tipos",
+   "b": "Kit Novex Shampoo + Condicionador Vários tipos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Copacol Congelada",
+   "b": "Coxa com Sobrecoxa de Frango Lar Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Requeijão Cremoso Nestlé Tradicional/Light pt 200g",
+   "b": "Requeijão Cremoso Nordestão Tradicional ou Light pt 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Iogurte Nestlé Resfriado Morango/Vitamina de Frutas 1,15kg",
+   "b": "Iogurte Nestlé Resfriado Morango/Vitamina de Frutas Garrafa com 1,15kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Duro",
+   "b": "Carne Bovina Coxão Duro Peça",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém sem Osso Reserva Resfriada",
+   "b": "Carne Bovina Patinho sem Osso Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Aerosol Rexona 150ml Fragrâncias",
+   "b": "Desodorante Rexona 150ml Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango Envelopado Congelado Bom Todo kg",
+   "b": "Peito de Frango Envelopado Congelado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Pet 1L",
+   "b": "Refrigerante Guaraná Antarctica Zero Pet com 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Absorvente Sempre Livre Conforto Noturno Leve + pague - Suave com abas/Seca com abas Pacote com 32 unidades",
+   "b": "Absorvente Sempre Livre Conforto Noturno Suave/Seca com abas Pacote com 32 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Peito com Osso Reserva Resfriada",
+   "b": "Carne Bovina Patinho sem Osso Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Requeijão Cremoso Danone Tradicional ou Light 200g",
+   "b": "Requeijão Cremoso Nordestão Tradicional ou Light pt 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite de Coco Pilão 500ml",
+   "b": "Leite de Coco Indiano 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Alimento para Gatos Friskies Carne 85g",
+   "b": "Alimento para Gatos Friskies Carne Sachê com 85g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Conforto noturno Suave Pacote com 16 unidades",
+   "b": "Absorvente Sempre Livre Conforto Noturno Suave/Seca com abas Pacote com 32 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Dueto/Milho Verde Predilecta 170g (Sachê)",
+   "b": "Dueto/Milho Verde Predilecta SC 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Doce de Leite ITALAC 350g",
+   "b": "Doce de Leite Itambé 350g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca Camil Tipo 1 Pacote 1kg",
+   "b": "Feijão Carioca Kicaldo Tipo 1 Pacote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Bohemia Puro Malte Lata com 350ml",
+   "b": "Cerveja Brahma Duplo Malte Lata com 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+   "b": "Filé de Peito de Frango Seara Congelado Bandeja com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas Líquido Dragão Bombona com 5L",
+   "b": "Lava Roupas Líquido Urca Bombona 5L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creme de Leite Italac 200g",
+   "b": "Creme de Leite Betânia 200g",
+   "veredito": "diferente"
+  }
+ ]
+}

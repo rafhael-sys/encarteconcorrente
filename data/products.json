@@ -216017,5 +216017,283 @@
    "w": 16,
    "h": 12
   }
+ ],
+ "Db0LIMjDrBb_p1": [
+  {
+   "n": "Peito de Frango Envelopado Cong. kg",
+   "p": "9,98",
+   "u": "kg, cliente cadastrado, de R$ 17,99",
+   "x": 42,
+   "y": 17,
+   "w": 52,
+   "h": 78
+  }
+ ],
+ "Db0LIMjDrBb_p2": [
+  {
+   "n": "Frango a Passarinho Bom Todo 1kg (IQF - Temperado)",
+   "p": "11,99",
+   "u": "cada, cliente cadastrado, de R$ 15,59",
+   "x": 0,
+   "y": 3,
+   "w": 63,
+   "h": 41
+  }
+ ],
+ "Db0LIMjDrBb_p3": [
+  {
+   "n": "Linguiça de Frango Bom Todo kg",
+   "p": "12,99",
+   "u": "kg, cliente cadastrado, normal R$ 16,89",
+   "x": 40,
+   "y": 54,
+   "w": 58,
+   "h": 46
+  }
+ ],
+ "Db0LIMjDrBb_p4": [
+  {
+   "n": "Batata Pré-Frita Prime Fries Cong. 2kg Tradicional",
+   "p": "16,99",
+   "u": "cada, cliente cadastrado, de R$ 24,99",
+   "x": 31,
+   "y": 3,
+   "w": 58,
+   "h": 55
+  }
+ ],
+ "Db0LIMjDrBb_p5": [
+  {
+   "n": "Bisteca Suína kg",
+   "p": "13,99",
+   "u": "kg, cliente cadastrado, de R$ 17,99",
+   "x": 27,
+   "y": 4,
+   "w": 36,
+   "h": 48
+  }
+ ],
+ "Db0LIMjDrBb_p6": [
+  {
+   "n": "Chã de Fora Bov. Resf. kg",
+   "p": "36,99",
+   "u": "kg, cliente cadastrado, normal R$ 45,59",
+   "x": 3,
+   "y": 47,
+   "w": 76,
+   "h": 53
+  }
+ ],
+ "Db0LIMjDrBb_p7": [
+  {
+   "n": "Costela Suína Sadia kg",
+   "p": "17,99",
+   "u": "kg, cliente cadastrado, normal R$ 23,39",
+   "x": 13,
+   "y": 41,
+   "w": 72,
+   "h": 58
+  }
+ ],
+ "Db0LIMjDrBb_p8": [
+  {
+   "n": "Cerveja Devassa 350ml Tropical Sleek",
+   "p": "2,59",
+   "u": "un, cliente cadastrado, de R$ 3,29",
+   "x": 17,
+   "y": 58,
+   "w": 68,
+   "h": 38
+  }
+ ],
+ "Db0LIMjDrBb_p9": [
+  {
+   "n": "Cachaça Matuta LT 350ml (Sabores)",
+   "p": "9,99",
+   "u": "un, cliente cadastrado, de R$ 13,39",
+   "x": 15,
+   "y": 66,
+   "w": 56,
+   "h": 34
+  }
+ ],
+ "Db0LIMjDrBb_p10": [
+  {
+   "n": "Refrig. Dore PT 2L (Sabores, exceto Cola)",
+   "p": "5,99",
+   "u": "un, cliente cadastrado, de R$ 7,49",
+   "x": 26,
+   "y": 62,
+   "w": 58,
+   "h": 34
+  }
+ ],
+ "Db0LIMjDrBb_p11": [
+  {
+   "n": "Bebida Mista Crystal Ice LN 275ml (Caju)",
+   "p": "4,99",
+   "u": "un, cliente cadastrado, de R$ 6,99",
+   "x": 7,
+   "y": 52,
+   "w": 83,
+   "h": 48
+  }
+ ],
+ "story_cortefacil.atacarejo_3959778915300163321": [
+  {
+   "n": "SOBRECOXAS DE FRANGO BOM TODO CONG. BDJ 1KG",
+   "p": "13,99",
+   "u": "und",
+   "x": 13,
+   "y": 30,
+   "w": 75,
+   "h": 18
+  },
+  {
+   "n": "PÃO DE ALHO BOM TODO GRILL PCT 400G",
+   "p": "12,99",
+   "u": "und",
+   "x": 13,
+   "y": 56,
+   "w": 75,
+   "h": 20
+  }
+ ],
+ "story_cortefacil.atacarejo_3959779041599075941": [
+  {
+   "n": "LOMBO SUÍNO TEMPERADO BOM TODO CONGELADO",
+   "p": "31,99",
+   "u": "kg",
+   "x": 13,
+   "y": 30,
+   "w": 75,
+   "h": 18
+  },
+  {
+   "n": "PANCETA/ANCHO SUÍNO TEMP. BOM TODO CONGELADO",
+   "p": "33,99",
+   "u": "kg",
+   "x": 13,
+   "y": 53,
+   "w": 75,
+   "h": 20
+  }
+ ],
+ "story_cortefacil.atacarejo_3959844573882925723": [],
+ "story_cortefacil.atacarejo_3959844996042111494": [],
+ "story_cortefacil.atacarejo_3959848320673962282": [],
+ "story_queirozatacadaojoaocamara_3959802542024434060": [],
+ "story_queirozatacadaojoaocamara_3959821676607938239": [
+  {
+   "n": "SHAMPOO ANTICASPA CLEAR MEN L400P330ML",
+   "p": "26,48",
+   "u": "un, 400+330ml",
+   "x": 13,
+   "y": 39,
+   "w": 23,
+   "h": 20
+  },
+  {
+   "n": "DESODORANT AEROSOL REXONA MEN 150ML",
+   "p": "14,48",
+   "u": "un, 150ml",
+   "x": 37,
+   "y": 40,
+   "w": 22,
+   "h": 18
+  },
+  {
+   "n": "DEO COLONIA SALUTARIS 100ML",
+   "p": "32,98",
+   "u": "un, 100ml",
+   "x": 62,
+   "y": 39,
+   "w": 24,
+   "h": 19
+  },
+  {
+   "n": "CREME BARBEAR BOZZANO 65G",
+   "p": "8,48",
+   "u": "un, 65g",
+   "x": 10,
+   "y": 63,
+   "w": 26,
+   "h": 23
+  },
+  {
+   "n": "AP BARBEAR BIC COMFORT 3 HYBRID 6 CARGAS",
+   "p": "26,98",
+   "u": "pacote c/6",
+   "x": 37,
+   "y": 63,
+   "w": 23,
+   "h": 23
+  },
+  {
+   "n": "AP BARB GILLETTE PREST CARBONO C/2",
+   "p": "20,98",
+   "u": "cartela c/2",
+   "x": 62,
+   "y": 63,
+   "w": 25,
+   "h": 23
+  }
+ ],
+ "story_queirozatacadaonatal__3959802808061640128": [],
+ "story_queirozatacadaonatal__3959821822620400928": [
+  {
+   "n": "SHAMPOO ANTICASPA CLEAR MEN L400P330ML",
+   "p": "26,48",
+   "u": "un",
+   "x": 11,
+   "y": 40,
+   "w": 25,
+   "h": 20
+  },
+  {
+   "n": "DESODORANT AEROSOL REXONA MEN 150ML",
+   "p": "14,48",
+   "u": "un",
+   "x": 38,
+   "y": 40,
+   "w": 23,
+   "h": 20
+  },
+  {
+   "n": "DEO COLONIA SALUTARIS 100ML",
+   "p": "32,98",
+   "u": "un",
+   "x": 64,
+   "y": 40,
+   "w": 23,
+   "h": 20
+  },
+  {
+   "n": "CREME BARBEAR BOZZANO 65G",
+   "p": "8,48",
+   "u": "un",
+   "x": 11,
+   "y": 64,
+   "w": 22,
+   "h": 23
+  },
+  {
+   "n": "AP BARBEAR BIC COMFORT 3 HYBRID 6 CARGAS",
+   "p": "26,98",
+   "u": "un 6 cargas",
+   "x": 40,
+   "y": 64,
+   "w": 21,
+   "h": 23
+  },
+  {
+   "n": "AP BARB GILLETTE PREST CARBONO C/2",
+   "p": "20,98",
+   "u": "c/2",
+   "x": 66,
+   "y": 64,
+   "w": 22,
+   "h": 23
+  }
  ]
 }

@@ -17291,5 +17291,394 @@
   "b": "Lava Roupas em Pó Omo Lavanderia Profissional Pacote 8kg",
   "veredito": "diferente",
   "quando": "2026-08-08"
+ },
+ "amendoim torrado sao braz s/pele 200g || amendoim torrado sao braz sem pele 200g": {
+  "a": "Amendoim Torrado São Braz Sem Pele 200g",
+  "b": "Amendoim Torrado São Braz s/Pele 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "farelo de aveia vitalin c/whey 160g || farelo de aveia vitalin com whey 160g": {
+  "a": "Farelo de Aveia Vitalin com Whey 160g",
+  "b": "Farelo de Aveia Vitalin c/Whey 160g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "requeijao cremoso nordestao tradicional ou light 400g || requeijao cremoso nordestao tradicional ou light pt 400g": {
+  "a": "Requeijão Cremoso Nordestão Tradicional ou Light 400g",
+  "b": "Requeijão Cremoso Nordestão Tradicional ou Light pt 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "kit dove shampoo + condicionador varios tipos || kit novex shampoo + condicionador varios tipos": {
+  "a": "Kit Dove Shampoo + Condicionador Vários tipos",
+  "b": "Kit Novex Shampoo + Condicionador Vários tipos",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "kit novex shampoo + condicionador varios tipos || kit ox shampoo + condicionador varios tipos": {
+  "a": "Kit OX Shampoo + Condicionador Vários Tipos",
+  "b": "Kit Novex Shampoo + Condicionador Vários tipos",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "creme de acai nordestao tradicional 650g || creme de acai nordestao tradicional pt 650g": {
+  "a": "Creme de Açaí Nordestão Tradicional 650g",
+  "b": "Creme de Açaí Nordestão Tradicional pt 650g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "file de peito de frango lar congelado bandeja com 1kg || file de peito de frango seara congelado bandeja com 1kg": {
+  "a": "File de Peito de Frango Lar Congelado Bandeja com 1kg",
+  "b": "Filé de Peito de Frango Seara Congelado Bandeja com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "chocolate em po 50% cacau nordestao 200g || chocolate em po 50% cacau nordestao cx 200g": {
+  "a": "Chocolate em Pó 50% Cacau Nordestão 200g",
+  "b": "Chocolate em Pó 50% Cacau Nordestão cx 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "amaciante para roupas urca brisa/floral bombona 5l || amaciante para roupas urca brisa/floral bombona com 5l": {
+  "a": "Amaciante para Roupas Urca Brisa/Floral Bombona 5L",
+  "b": "Amaciante para Roupas Urca Brisa/Floral Bombona com 5L",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "fermento quimico em po nordestao 100g || fermento quimico em po nordestao pt 100g": {
+  "a": "Fermento Químico em Pó Nordestão 100g",
+  "b": "Fermento Químico em Pó Nordestão pt 100g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "peito de frango envelopado congelado || peito de frango envelopado congelado kg": {
+  "a": "Peito de Frango Envelopado Congelado",
+  "b": "Peito de Frango Envelopado Congelado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "frango a passarinho lar iqf congelado pacote 1kg || frango a passarinho lar iqf congelado pacote com 1kg": {
+  "a": "Frango à Passarinho Lar IQF Congelado pacote 1kg",
+  "b": "Frango à Passarinho Lar IQF Congelado Pacote com 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "limpador multiuso ype varios tipos frasco 500ml || limpador multiuso ype varios tipos frasco com 500ml": {
+  "a": "Limpador Multiuso Ypê Vários Tipos Frasco 500ml",
+  "b": "Limpador Multiuso Ypê Vários tipos Frasco com 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "salsicha hot dog perdigao congelada pacote 5kg || salsicha hot dog perdigao congelada pacote com 5kg": {
+  "a": "Salsicha Hot Dog Perdigão Congelada Pacote 5kg",
+  "b": "Salsicha Hot Dog Perdigão Congelada Pacote com 5kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "inseticida mat inset varios tipos frasco 360ml || inseticida mat inset varios tipos frasco com 360ml": {
+  "a": "Inseticida Mat Inset vários tipos frasco 360ml",
+  "b": "Inseticida Mat Inset Vários tipos Frasco com 360ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "lava roupas liquido becker versatil bombona 5l || lava roupas liquido becker versatil bombona com 5l": {
+  "a": "Lava Roupas Líquido Becker Versátil Bombona 5L",
+  "b": "Lava Roupas Líquido Becker Versátil Bombona com 5L",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "sorvete nordestao sabores 1 litro || sorvete nordestao sabores pt 1 litro": {
+  "a": "Sorvete Nordestão Sabores 1 Litro",
+  "b": "Sorvete Nordestão Sabores pt 1 litro",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "arroz arborio san frediano cx 500g || arroz arborio san frediano pct 500g": {
+  "a": "Arroz Arbório San Frediano pct 500g",
+  "b": "Arroz Arbório San Frediano cx 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "aveia em flocos finos vitalin 200g || aveia flocos finos vitalin 200g": {
+  "a": "Aveia em Flocos Finos Vitalin 200g",
+  "b": "Aveia Flocos Finos Vitalin 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "manteiga nordestao com sal 200g || manteiga nordestao com sal pt 200g": {
+  "a": "Manteiga Nordestão com Sal 200g",
+  "b": "Manteiga Nordestão com Sal pt 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "refrigerante coca-cola zero acucar pet 2l || refrigerante coca-cola zero acucar pet com 2l": {
+  "a": "Refrigerante Coca-Cola Zero Açúcar Pet 2L",
+  "b": "Refrigerante Coca-Cola Zero Açúcar Pet com 2L",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "flocao de milho nordestino pacote 500g || flocao de milho nordestino pacote com 500g": {
+  "a": "Flocão de Milho Nordestino Pacote 500g",
+  "b": "Flocão de Milho Nordestino Pacote com 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "carne bovina coxao duro kg peca || carne bovina coxao duro peca": {
+  "a": "Carne Bovina Coxão Duro KG Peça",
+  "b": "Carne Bovina Coxão Duro Peça",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "energetico monster energy lata 473ml || energetico monster energy lata com 473ml": {
+  "a": "Energético Monster Energy Lata 473ml",
+  "b": "Energético Monster Energy Lata com 473ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "agua mineral nordestao sem gas 510ml || agua mineral nordestao sem gas gfa 510ml": {
+  "a": "Água Mineral Nordestão sem Gás 510ml",
+  "b": "Água Mineral Nordestão sem Gás gfa 510ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "cerveja spaten puro malte lata 350ml || cerveja spaten puro malte lata com 350ml": {
+  "a": "Cerveja Spaten Puro Malte Lata 350ml",
+  "b": "Cerveja Spaten Puro Malte Lata com 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "vinho tiroliro branco ou rose 750ml || vinho tiroliro branco ou rose gfa 750ml": {
+  "a": "Vinho Tiroliro Branco ou Rosé 750ml",
+  "b": "Vinho Tiroliro Branco ou Rosé gfa 750ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "cha de fora bovina resfriada kg || cha de fora bovino resfriado kg": {
+  "a": "Cha de Fora Bovino Resfriado kg",
+  "b": "Chã de Fora Bovina Resfriada kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "limpador multiuso becker varios tipos frasco com 500ml || limpador multiuso ype varios tipos frasco com 500ml": {
+  "a": "Limpador Multiuso Becker Vários tipos Frasco com 500ml",
+  "b": "Limpador Multiuso Ypê Vários tipos Frasco com 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "kit niely shampoo+condicionador varios tipos || kit novex shampoo + condicionador varios tipos": {
+  "a": "Kit Niely Shampoo+Condicionador Vários tipos",
+  "b": "Kit Novex Shampoo + Condicionador Vários tipos",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "vinho marques del sur 750ml || vinho marques del sur gfa 750ml": {
+  "a": "Vinho Marques Del Sur 750ml",
+  "b": "Vinho Marques del Sur gfa 750ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "costela suina sadia || costela suina sadia kg": {
+  "a": "Costela Suina Sadia",
+  "b": "Costela Suína Sadia kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "carne bovina paleta sem osso reserva resfriada || carne bovina patinho sem osso reserva resfriada": {
+  "a": "Carne Bovina Paleta sem Osso Reserva Resfriada",
+  "b": "Carne Bovina Patinho sem Osso Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "coxa com sobrecoxa de frango lar congelada || coxa com sobrecoxa de frango mauricea congelada": {
+  "a": "Coxa com Sobrecoxa de Frango Mauricéa Congelada",
+  "b": "Coxa com Sobrecoxa de Frango Lar Congelada",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "coxa com sobrecoxa de frango friato congelada || coxa com sobrecoxa de frango lar congelada": {
+  "a": "Coxa com Sobrecoxa de Frango Friato Congelada",
+  "b": "Coxa com Sobrecoxa de Frango Lar Congelada",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "kit novex shampoo + condicionador varios tipos || kit seda shampoo + condicionador varios tipos": {
+  "a": "Kit Seda Shampoo + Condicionador Vários Tipos",
+  "b": "Kit Novex Shampoo + Condicionador Vários tipos",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "linguica calabresa perdigao defumada pacote 400g || linguica tipo calabresa perdigao defumada pacote com 400g": {
+  "a": "Linguiça Calabresa Perdigão Defumada pacote 400g",
+  "b": "Linguiça Tipo Calabresa Perdigão Defumada Pacote com 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "kit novex shampoo + condicionador varios tipos || kit pantene shampoo + condicionador varios tipos": {
+  "a": "Kit Pantene Shampoo + Condicionador vários tipos",
+  "b": "Kit Novex Shampoo + Condicionador Vários tipos",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "coxa com sobrecoxa de frango copacol congelada || coxa com sobrecoxa de frango lar congelada": {
+  "a": "Coxa com Sobrecoxa de Frango Copacol Congelada",
+  "b": "Coxa com Sobrecoxa de Frango Lar Congelada",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "requeijao cremoso nestle tradicional/light pt 200g || requeijao cremoso nordestao tradicional ou light pt 200g": {
+  "a": "Requeijão Cremoso Nestlé Tradicional/Light pt 200g",
+  "b": "Requeijão Cremoso Nordestão Tradicional ou Light pt 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "iogurte nestle resfriado morango/vitamina de frutas 1,15kg || iogurte nestle resfriado morango/vitamina de frutas garrafa com 1,15kg": {
+  "a": "Iogurte Nestlé Resfriado Morango/Vitamina de Frutas 1,15kg",
+  "b": "Iogurte Nestlé Resfriado Morango/Vitamina de Frutas Garrafa com 1,15kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "carne bovina coxao duro || carne bovina coxao duro peca": {
+  "a": "Carne Bovina Coxão Duro",
+  "b": "Carne Bovina Coxão Duro Peça",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "carne bovina acem sem osso reserva resfriada || carne bovina patinho sem osso reserva resfriada": {
+  "a": "Carne Bovina Acém sem Osso Reserva Resfriada",
+  "b": "Carne Bovina Patinho sem Osso Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "desodorante aerosol rexona 150ml fragrancias || desodorante rexona 150ml fragrancias": {
+  "a": "Desodorante Aerosol Rexona 150ml Fragrâncias",
+  "b": "Desodorante Rexona 150ml Fragrâncias",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "peito de frango envelopado congelado bom todo kg || peito de frango envelopado congelado kg": {
+  "a": "Peito de Frango Envelopado Congelado Bom Todo kg",
+  "b": "Peito de Frango Envelopado Congelado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "refrigerante guarana antarctica pet 1l || refrigerante guarana antarctica zero pet com 1l": {
+  "a": "Refrigerante Guaraná Antarctica Pet 1L",
+  "b": "Refrigerante Guaraná Antarctica Zero Pet com 1L",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "absorvente sempre livre conforto noturno leve + pague - suave com abas/seca com abas pacote com 32 unidades || absorvente sempre livre conforto noturno suave/seca com abas pacote com 32 unidades": {
+  "a": "Absorvente Sempre Livre Conforto Noturno Leve + pague - Suave com abas/Seca com abas Pacote com 32 unidades",
+  "b": "Absorvente Sempre Livre Conforto Noturno Suave/Seca com abas Pacote com 32 unidades",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "carne bovina patinho sem osso reserva resfriada || carne bovina peito com osso reserva resfriada": {
+  "a": "Carne Bovina Peito com Osso Reserva Resfriada",
+  "b": "Carne Bovina Patinho sem Osso Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "requeijao cremoso danone tradicional ou light 200g || requeijao cremoso nordestao tradicional ou light pt 200g": {
+  "a": "Requeijão Cremoso Danone Tradicional ou Light 200g",
+  "b": "Requeijão Cremoso Nordestão Tradicional ou Light pt 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "leite de coco indiano 500ml || leite de coco pilao 500ml": {
+  "a": "Leite de Coco Pilão 500ml",
+  "b": "Leite de Coco Indiano 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "alimento para gatos friskies carne 85g || alimento para gatos friskies carne sache com 85g": {
+  "a": "Alimento para Gatos Friskies Carne 85g",
+  "b": "Alimento para Gatos Friskies Carne Sachê com 85g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "absorvente sempre livre conforto noturno suave pacote com 16 unidades || absorvente sempre livre conforto noturno suave/seca com abas pacote com 32 unidades": {
+  "a": "Absorvente Sempre Livre Conforto noturno Suave Pacote com 16 unidades",
+  "b": "Absorvente Sempre Livre Conforto Noturno Suave/Seca com abas Pacote com 32 unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "dueto/milho verde predilecta 170g (sache) || dueto/milho verde predilecta sc 170g": {
+  "a": "Dueto/Milho Verde Predilecta 170g (Sachê)",
+  "b": "Dueto/Milho Verde Predilecta SC 170g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "doce de leite italac 350g || doce de leite itambe 350g": {
+  "a": "Doce de Leite ITALAC 350g",
+  "b": "Doce de Leite Itambé 350g",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "feijao carioca camil tipo 1 pacote 1kg || feijao carioca kicaldo tipo 1 pacote com 1kg": {
+  "a": "Feijão Carioca Camil Tipo 1 Pacote 1kg",
+  "b": "Feijão Carioca Kicaldo Tipo 1 Pacote com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "cerveja bohemia puro malte lata com 350ml || cerveja brahma duplo malte lata com 350ml": {
+  "a": "Cerveja Bohemia Puro Malte Lata com 350ml",
+  "b": "Cerveja Brahma Duplo Malte Lata com 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "file de peito de frango aurora congelado bdj 1kg || file de peito de frango seara congelado bandeja com 1kg": {
+  "a": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+  "b": "Filé de Peito de Frango Seara Congelado Bandeja com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "lava roupas liquido dragao bombona com 5l || lava roupas liquido urca bombona 5l": {
+  "a": "Lava Roupas Líquido Dragão Bombona com 5L",
+  "b": "Lava Roupas Líquido Urca Bombona 5L",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "creme de leite betania 200g || creme de leite italac 200g": {
+  "a": "Creme de Leite Italac 200g",
+  "b": "Creme de Leite Betânia 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
  }
 }
