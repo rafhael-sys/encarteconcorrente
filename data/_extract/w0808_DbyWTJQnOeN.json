@@ -1,0 +1,40 @@
+{
+  "shortcode": "DbyWTJQnOeN",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-07",
+  "fim": "2026-08-09",
+  "titulo": "Faz o Pix Favorito",
+  "pages": {
+    "DbyWTJQnOeN_p1": [
+      {"n": "Pão de Forma Bauducco Integral 390g", "p": "4,79", "u": "no pix ou dinheiro (de R$ 11,49)", "x": 51, "y": 34, "w": 30, "h": 28}
+    ],
+    "DbyWTJQnOeN_p2": [
+      {"n": "Energético Red Bull 250ml", "p": "7,89", "u": "no pix ou dinheiro (de R$ 10,49)", "x": 47, "y": 34, "w": 32, "h": 32}
+    ],
+    "DbyWTJQnOeN_p3": [
+      {"n": "Refrigerante Fanta Uva Lata 350ml", "p": "3,09", "u": "un", "x": 26, "y": 62, "w": 38, "h": 33}
+    ],
+    "DbyWTJQnOeN_p4": [
+      {"n": "Feijão Preto Precioso 1kg", "p": "5,59", "u": "no pix ou dinheiro (de R$ 6,84)", "x": 53, "y": 33, "w": 27, "h": 23}
+    ],
+    "DbyWTJQnOeN_p5": [
+      {"n": "Arroz Parboilizado ou Branco Emoções 1kg", "p": "4,29", "u": "no pix ou dinheiro (de R$ 5,06)", "x": 52, "y": 33, "w": 30, "h": 31}
+    ],
+    "DbyWTJQnOeN_p6": [
+      {"n": "Açúcar Demerara Alegre 1kg", "p": "3,99", "u": "no pix (de R$ 4,69)", "x": 49, "y": 43, "w": 25, "h": 23}
+    ],
+    "DbyWTJQnOeN_p7": [
+      {"n": "Creme de Leite Piracanjuba 200g", "p": "2,39", "u": "no pix (de R$ 3,54)", "x": 41, "y": 33, "w": 41, "h": 36}
+    ],
+    "DbyWTJQnOeN_p8": [
+      {"n": "Doce de Leite Itambé 350g", "p": "9,99", "u": "no pix (de R$ 12,99)", "x": 31, "y": 52, "w": 41, "h": 39}
+    ],
+    "DbyWTJQnOeN_p9": [
+      {"n": "Farinha Láctea Nestlé Sachê Tradicional 160g", "p": "5,99", "u": "no pix (de R$ 6,99)", "x": 53, "y": 28, "w": 40, "h": 33}
+    ],
+    "DbyWTJQnOeN_p10": [
+      {"n": "Biscoito Maizena Mabel Tradicional 300g", "p": "4,99", "u": "no pix (de R$ 5,99)", "x": 66, "y": 31, "w": 28, "h": 26}
+    ]
+  }
+}

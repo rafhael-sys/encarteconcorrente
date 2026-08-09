@@ -2463,29 +2463,61 @@
 - MESMO: «Whisky Escocês 12 Anos Chivas Regal garrafa 1L» == «Whisky Escocês 12 Anos Chivas Regal 1L»
 - DIFERENTES: «Whisky Escocês Red Label Johnnie Walker 1L» != «Whisky Escocês Black Label Johnnie Walker 1L»
 - MESMO: «Xarope Monin Sabores garrafa 700ml» == «Xarope Monin Vários Sabores Garrafa 700ml»
+- MESMO: «Adoçante Líquido Stevia Svili Excellent 90ml» == «Adoçante Líquido Stevia Svili 90ml»
+- MESMO: «Alimento para Cães Adultos Dog Chow Frango 100g» == «Alimento para Caes Adultos Dog Chow Frango Sache com 100g»
+- MESMO: «Amaciante Concentrado Mon Bijou 500ml» == «Amaciante Conc Mon Bijou 500ml»
 - MESMO: «Ap Barbear Gillette Prest Carbono C/2» == «Ap Barb Gillette Prest Carbono C/2»
+- MESMO: «Ap Barbear Bic Comfort 3 Hybrid 6 Cargas» == «Aparelho de Barbear Bic Comfort 3 Hybrid 6 Cargas»
+- MESMO: «Aparelho de Barbear Gillette Prestobarba 3 Regular, Sensitive ou Carbono 2 unids» == «Aparelho de Barbear Gillette Prestobarba 3 (Regular, Sensitive ou Carbono) - embalagem com 2 unidades»
+- DIFERENTES: «Arroz Kika Parboilizado Tipo 1 Pacote 1kg» != «Arroz Mariano Parboilizado Tipo 1 Pacote com 1kg»
+- DIFERENTES: «Arroz Pop Parboilizado Tipo 2 Pacote com 1kg» != «Arroz Mariano Parboilizado Tipo 1 Pacote com 1kg»
 - DIFERENTES: «Arroz Tio João Parboilizado Tipo 1 Pacote com 1kg» != «Arroz Mariano Parboilizado Tipo 1 Pacote com 1kg»
+- DIFERENTES: «Arroz Parboilizado ou Branco Emoções 1kg» != «Arroz Parboilizado ou Branco Nordestão 1kg»
 - MESMO: «Arroz Parbolizado Urbano pct 1kg» == «Arroz Parboilizado Urbano 1kg»
+- DIFERENTES: «Azeite de Oliva Extra Virgem Kristal vd 500ml» != «Azeite de Oliva Extra Virgem Minos 500ml»
+- MESMO: «Azeite de Oliva Fiorentini ou Manosalbas 500ml» == «Azeite de Oliva Extravirgem Fiorentini ou Manosalba 500ml»
 - MESMO: «Batata Palha Amarelinha Original com Sal pct 800g» == «Batata Palha Amarelinha Original com Sal Pacote com 800g»
 - MESMO: «Bebida Mista Ice Pego 300ml» == «Beb Mista Ice Pego 300ml»
+- DIFERENTES: «Bebida Mista Beats Lata 269ml Sabores» != «Bebida Mista Schweppes Lata 269ml (sabores)»
 - MESMO: «Biscoito Choco Biscuit Garoto ao Leite Pacote 78g» == «Biscoito Choco Biscuit Garoto Ao Leite Pacote com 78g»
 - MESMO: «Bolo Fofo ou Formigueiro Queiroz kg» == «Bolo Fofo ou Formigueiro Queiroz»
+- MESMO: «BRAHMA DUPLO MALTE LATA 350ML» == «Cerveja Brahma Duplo Malte Lata 350ml»
+- DIFERENTES: «Café em Pó Família São Braz Almofada ou a Vácuo pct 250g» != «Café em Pó Extraforte São Braz Almofada ou a Vácuo pct 250g»
+- MESMO: «Café Santa Clara Extraforte Almofada ou a Vácuo 250g» == «Café Santa Clara Extraforte a Vácuo 250g»
+- DIFERENTES: «Contrafilé Bovino Resfriado a Vácuo Masterboi» != «Capa de Filé Bovino Resfriada a Vácuo Masterboi»
 - MESMO: «Carga Gillette Mach 3 Regular» == «Carga Gillette Mach3 Regular»
+- MESMO: «Carne Bov Coxão Mole kg» == «Carne Bovina Coxão Mole»
+- MESMO: «Carne Bovina Posta Gorda» == «Carne Bov Posta Gorda kg»
+- DIFERENTES: «Carne Bovina Coxão Duro Friboi Porcionada Resfriada» != «Carne Bovina Contra Filé Friboi Porcionada Resfriada»
+- DIFERENTES: «Carne Bovina Coxão Mole Resfriado» != «Carne Bovina Coxão Duro Resfriado Kg»
+- DIFERENTES: «Carne Bovina Coxão Duro» != «Carne Bovina Coxão Mole»
 - MESMO: «Carne Bovina Posta Gorda com Osso kg» == «Carne Bovina Posta Gorda c/ Osso»
 - MESMO: «Cerv Corona Extra Lata 350ml» == «Cerveja Corona Extra Lata 350ml»
 - MESMO: «Cerveja Amstel Lager Lata Sleek 350ml» == «Cerveja Amstel Lager Lata 350ml»
 - MESMO: «Cerveja Brahma Duplo Malte Lata 350ml» == «Cerveja Brahma Duplo Malte Lata com 350ml»
 - MESMO: «Cerveja Império Helles GF 330ml» == «Cerveja Império Helles Garrafa 330ml»
+- MESMO: «Cerveja Stella Artois Pure Gold 330ml» == «Cerveja Stella Artois Pure Gold Garrafa 330ml»
+- MESMO: «Cha de Fora Bovino Resfriado kg» == «Chã de Fora Bovina Resfriada»
 - MESMO: «Colonia Johnsons Baby Fr 200ml Lavanda» == «Colônia Johnson's Baby 200ml Lavanda»
+- MESMO: «Coxinha da Asa Seara Congelada 1kg» == «Coxinha da Asa de Frango Seara Congelada 1kg»
+- DIFERENTES: «Coxinhas das Asas de Frango Sadia Congeladas Pct 1kg» != «Coxinha da Asa de Frango Seara Congelada 1kg»
 - MESMO: «Coxinha da Asa Seara Congelada 1kg» == «Coxinha da Asa Seara Congelado 1kg»
+- MESMO: «Creme de Tratamento Elseve 300g» == «Cr Tratamento Elseve 300g»
 - MESMO: «Creme de Barbear Bozzano 65g» == «Creme Barbear Bozzano 65g»
 - MESMO: «Creme de Avelã Nutella pt 375g» == «Creme de Avelã Nutella Pote 375g»
 - MESMO: «Creme Dental Colgate Máxima Proteção Anticáries Tubo 90g» == «Creme Dental Colgate Maxima Protecao Anticaries Tubo com 90g»
+- MESMO: «Creme Dental Colgate Total 12 90g» == «Creme Dental COLGATE Total 90g Tipos»
 - MESMO: «Creme Dental Oral-B 3D White Brilliant Fresh tb 70g» == «Creme Dental Oral-B 3D White Brilliant Fresh lb 70g»
 - DIFERENTES: «Desodorante Aerossol Rexona 150ml» != «Desodorante Aerosol Rexona Men 150ml»
+- DIFERENTES: «Desodorante Aerossol Rexona Clinical 150ml» != «Desodorante Aerosol Rexona Men 150ml»
+- DIFERENTES: «Desodorante Aerossol Rexona 150ml» != «Desodorante Aerossol One Above 150ml»
 - MESMO: «Desodorizador Aerossol Glade Várias Fragrâncias Tubo 360ml» == «Desodorizador Aerossol Glade Varias fragrancias Tubo com 360ml»
+- DIFERENTES: «Detergente Líquido Guarani Vários tipos Frasco com 500ml» != «Detergente Líquido Atol Vários Tipos Frasco 500ml»
 - MESMO: «Doce Paçoca DaColônia Rolha Caixeta 100 Unidades» == «Doce Pacoca DaColonia Rolha Caixeta com 100 unidades»
 - MESMO: «Dueto de Milho Verde e Ervilha Fugini 170g» == «Dueto de Milho Verde e Ervilha Fugini SC 170g»
+- MESMO: «Filé de Peito de Frango Aurora congelado BDJ 1kg» == «File de Peito de Frango Aurora ou Seara Congelado bd 1kg»
+- DIFERENTES: «Filé de Peito de Frango Aurora congelado BDJ 1kg» != «File de Peito de Frango Lar Congelado Bandeja com 1kg»
+- DIFERENTES: «Filé de Peito de Frango Lar IQF Congelado Pacote com 1kg» != «File de Peito de Frango Lar Congelado Bandeja com 1kg»
 - MESMO: «Frald Mili Lovecare Jumbo M 36un Pants» == «Fralda Mili Lovecare Jumbo M 36un Pants»
 - MESMO: «Fralda Desc Personal Baby Jumbo Tamanhos» == «Fralda Descartável Personal Baby Jumbo (tamanhos)»
 - MESMO: «Fralda Descartável Shortinho Turma da Mônica Baby pct M c/26, G c/22, XG c/20 ou XXG c/18» == «Fralda Descartavel Shortinho Turma da Monica Baby (G c/26, G c/22, XG c/20 ou XXG c/18)»
@@ -2493,34 +2525,59 @@
 - MESMO: «Hambúrguer Rezende Congelado Aves/Suíno Caixeta 36x56g» == «Hamburguer Rezende Congelado Aves/Suino Caixeta com 36x56g»
 - MESMO: «Inseticida Aerossol Baygon Ação Total Eucalipto Tubo com 360ml» == «Inseticida Aerossol Baygon Acao Total/Acao Total Eucalipto Tubo com 360ml»
 - MESMO: «Kit Guaraná Antarctica PC 2 unids x 1L» == «Kit Guaraná Antarctica PC 2 unidades x 1L»
+- DIFERENTES: «Lava Roupas em Pó Brilhante Lavanderia Profissional Pacote com 8kg» != «Lava Roupas em Pó Omo Lavanderia Profissional Pacote 8kg»
 - MESMO: «Lava Roupas Líquido Limpamil 3L» == «Lava Roupas Líq Limpamil 3L»
 - MESMO: «Lava Roupas Líquido Brilhante Bombona 5L» == «Lava Roupas Liquido Brilhante Bombona com 5L»
+- DIFERENTES: «Lava Roupas Líquido Urca Bombona 5L» != «Lava Roupas Líquido Brilhante Bombona 5L»
+- DIFERENTES: «LAVA ROUPAS LÍQUIDO OMO LAVAGEM PERFEITA 7 LITROS» != «Sabão Líquido Omo Lavagem Perfeita 3 Litros»
 - MESMO: «Leite Condensado Damare Semidesnatado 395g» == «Leite Condensado Damare Semidesnatado Caixa 395g»
 - MESMO: «Leite Condensado Damare Semidesnatado cx 395g» == «Leite Condensado Damare Semidesnatado Caixa 395g»
+- DIFERENTES: «Leite Condensado Semidesnatado Camponesa 395g» != «Leite Condensado Semidesnatado Piracanjuba 395g»
+- DIFERENTES: «Leite Condensado Semidesnatado Italac 395g» != «Leite Condensado Semidesnatado Piracanjuba 395g»
 - MESMO: «Leite em Pó Aurora Integral 750g» == «Leite em Pó Aurora Integral SC 750g»
 - MESMO: «Leite em Pó Itambé Integral Sachê 200g» == «Leite em Po Itambe Integral Sache com 200g»
 - MESMO: «Leite Integral Parmalat UHT 1L» == «Leite Integral Parmalat UHT TP 1L»
 - DIFERENTES: «Leite UHT Natville Integral ou Desnatado cx 1 litro» != «Leite UHT Elege Integral ou Desnatado cx 1 litro»
 - MESMO: «Lenço Umedecido Piquitucho PCT 60UN» == «Lenco Umed Piquitucho Pct 60un»
+- MESMO: «Linguiça Calabresa Perdigão ou Sadia kg» == «Linguiça Calabresa Perdigão kg»
 - MESMO: «Linguiça Suína para Churrasco Avivar» == «Linguiça Suína p/ Churrasco Avivar»
+- MESMO: «Maca Royal» == «Maçã Royal kg»
+- MESMO: «Maionese Fugini Sachê 500g» == «Maionese Fugini 500g»
 - MESMO: «Maionese Julieta Pouch 200g» == «Maionese Julieta Pouch com 200g»
 - MESMO: «Manteiga Piracanjuba com Sal pt 500g» == «Manteiga Piracanjuba c/ Sal pt 500g»
 - MESMO: «Manteiga Sertao Jucurutu Com Sal 500g» == «Manteiga Sertão Jucurutu com Sal PT 500g»
+- DIFERENTES: «Massa Yara 400g (Espaguete)» != «Massa Galo 400g (Espaguete)»
+- DIFERENTES: «Massa Yara 400g (Parafuso)» != «Massa Galo 400g (Parafuso)»
 - MESMO: «Massa para Pastel Pastemassa Redonda 500g» == «Massa para Pastel Pastemassa Redondo 500g»
 - MESMO: «Oleo de Soja Vitaliv 900ml» == «Oleo de Soja Vitaliv fb 900ml»
+- MESMO: «Pão de Alho Bom Todo Grill 400g» == «Pão de Alho Bom Todo 400g»
+- MESMO: «Pão Francês kg» == «Pão Francês»
 - MESMO: «Papel Higiênico Folha Dupla Fofex c/12» == «Papel Hig Folha Dupla Fofex c/12»
+- DIFERENTES: «Papel Higiênico Dama Folha Dupla 30m Pacote com 12 Rolos» != «Papel Higiênico Rose Folha Dupla 20m Pacote 12 Rolos»
+- DIFERENTES: «Papel Higiênico Personal Folha Dupla 20m Pacote com 12 rolos» != «Papel Higiênico Rose Folha Dupla 20m Pacote 12 Rolos»
+- DIFERENTES: «Peito de Frango Copacol Congelado» != «Peito de Frango Envelopado Congelado»
 - MESMO: «Picanha Suína Excelência Temperada Congelada KG» == «Picanha Suína Excelência Temperada Congelada»
+- DIFERENTES: «Pneu Aro 13 175/75 XBRI Fastway» != «Pneu Aro 15 185/60 XBRI Fastway»
 - MESMO: «Refrigerante Guaraná Antarctica pack c/2 tb 1 litro» == «Refrigerante Guarana Antarctica Pack c/2x 1 litro»
 - MESMO: «Sabão em Pedaço Guarani Vários Tipos Pacote 5x160g» == «Sabao em Pedaco Guarani Varios tipos Pacote com 5x160g»
 - MESMO: «Sabonete Glic Granado Bebe Cx 90g Fragrancias» == «Sabonete de Glicerina Granado Bebê Cx 90g (fragrâncias)»
+- DIFERENTES: «Sabonete NIVEA 85g Fragrâncias» != «Sabonete Francis 85g (Fragrâncias)»
 - MESMO: «Sabonete Íntimo Topz Fresh, Hidrata ou Suave 200ml» == «Sabonete Íntimo Topz Femme Fresh, Hidrata ou Suave 200ml»
+- MESMO: «Sabonete Liq Dove Baby Rf 180ml» == «Sabonete Líquido Dove Baby Refil 180ml»
+- MESMO: «Sabonete Líquido Baruel Baby Glicerina 400ml Tradicional» == «Sabonete Líquido Baruel Baby Glicerina 400ml»
+- DIFERENTES: «Sabonete Líquido Granado Bebê Glicerina Calêndula 250ml» != «Sabonete Líquido Granado Bebê Glicerina Erva Doce 250ml»
+- DIFERENTES: «Sabonete Líquido Nivea 250ml» != «Sabonete Líquido Nívea Íntimo 250ml»
 - MESMO: «Sabonete Suave Maran Várias Fragrâncias Unidade 80g» == «Sabonete Suave Maran Varias fragrancias Unidade com 80g»
 - MESMO: «Sandália Light Brasil Ipanema Branca Vários Tamanhos» == «Sandalia Light Brasil Ipanema Branca Varios tamanhos Par»
+- MESMO: «Sérum de Limpeza Iluminador Garnier Vitamina C 100g» == «Sérum de Limpeza Garnier Vitamina C 100g»
 - MESMO: «Sh Johnsons Baby 200ml Fragrancias» == «Shampoo Johnson's Baby 200ml (fragrâncias)»
 - MESMO: «Shampoo Johnson's Baby FR 200ml Fragrâncias» == «Shampoo Johnson's Baby 200ml (fragrâncias)»
 - MESMO: «Shampoo Palmolive Naturals Vários Tipos Frasco 650ml» == «Shampoo Palmolive Naturals Varios tipos Frasco com 650ml»
 - MESMO: «Sobrecoxas de Frango Bom Todo Congelado Bandeja 1kg» == «Sobrecoxas de Frango Bom Todo Congeladas bd 1kg»
+- DIFERENTES: «Sobrepaleta Suína kg» != «Sobrepaleta Suina Lar»
 - MESMO: «Tempero Caseiro Sadio Frasco 500ml» == «Tempero Caseiro Sadio Frasco com 500ml»
+- DIFERENTES: «Uva Vitória Marcelo Frzao Band 500g» != «Uva Verde Marcelo Frazão Band 500g»
+- MESMO: «Vinho Casa Pedra 1L Seco ou Suave» == «VH TT CASA PEDRA GF 1L SECO OU SUAVE»
 - DIFERENTES: «Vinho Chileno Pictor Cabernet Sauvignon 750ml» != «Vinho Chileno Dínamo Cabernet Sauvignon 750ml»
 - DIFERENTES: «Vinho Português Mar Salgado Branco 750ml» != «Vinho Português Mar Salgado Rosé 750ml»
 - MESMO: «Vodka Smirnoff Ice Sabores 275ml» == «Vodka Smirnoff Sabores 275ml»

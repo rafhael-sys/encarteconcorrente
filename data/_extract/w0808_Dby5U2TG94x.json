@@ -1,0 +1,40 @@
+{
+  "shortcode": "Dby5U2TG94x",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-08",
+  "fim": "2026-08-10",
+  "titulo": "Ofertas de Fim de Semana",
+  "pages": {
+    "Dby5U2TG94x_p1": [
+      {"n": "Linguiça de Frango Seara Congelada", "p": "16,99", "u": "kg", "x": 10, "y": 32, "w": 82, "h": 55}
+    ],
+    "Dby5U2TG94x_p2": [
+      {"n": "Cápsula Lor Espresso CT 10x5g/10x5,2g", "p": "16,99", "u": "cada (exceto Ceasa)", "x": 24, "y": 28, "w": 70, "h": 55}
+    ],
+    "Dby5U2TG94x_p3": [
+      {"n": "Café Gourmet Lor Pouch 250g", "p": "19,98", "u": "cada (exceto Ceasa)", "x": 18, "y": 32, "w": 76, "h": 52}
+    ],
+    "Dby5U2TG94x_p4": [
+      {"n": "Cachaça Caranguejo Gold VD 700ml", "p": "31,99", "u": "cada", "x": 22, "y": 28, "w": 68, "h": 58}
+    ],
+    "Dby5U2TG94x_p5": [
+      {"n": "Suco de Uva e Maçã OQ PET 1,35L", "p": "9,98", "u": "cada (exceto Ceasa)", "x": 28, "y": 30, "w": 64, "h": 52}
+    ],
+    "Dby5U2TG94x_p6": [
+      {"n": "Cachaça Caranguejo Ouro 980ml", "p": "9,09", "u": "cada", "x": 28, "y": 28, "w": 62, "h": 58}
+    ],
+    "Dby5U2TG94x_p7": [
+      {"n": "Kit Guaraná Antarctica PC 2 unids x 1L", "p": "8,89", "u": "cada", "x": 30, "y": 30, "w": 58, "h": 52}
+    ],
+    "Dby5U2TG94x_p8": [
+      {"n": "Cerveja Spaten Puro Malte Long Neck 355ml", "p": "5,29", "u": "cada", "x": 30, "y": 30, "w": 58, "h": 52}
+    ],
+    "Dby5U2TG94x_p9": [
+      {"n": "Cerveja Corona Extra Lata 350ml", "p": "5,19", "u": "cada (exceto Ceasa)", "x": 22, "y": 30, "w": 70, "h": 52}
+    ],
+    "Dby5U2TG94x_p10": [
+      {"n": "Fralda Babysec Ultrasec (tamanhos M/G/XG/XXG)", "p": "47,90", "u": "cada", "x": 16, "y": 26, "w": 78, "h": 58}
+    ]
+  }
+}

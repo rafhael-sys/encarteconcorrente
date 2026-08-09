@@ -1,0 +1,71 @@
+{
+ "shortcode": "story_redesuper.show_20260808",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-08",
+ "fim": "2026-08-09",
+ "titulo": "Super Dia Show (story)",
+ "pages": {
+   "story_redesuper.show_3959202878170476039": [
+     {"n": "Peito de Frango Envelopado Congelado", "p": "9,98", "u": "kg (cliente cadastrado, de 17,99)", "x": 38, "y": 18, "w": 56, "h": 52}
+   ],
+   "story_redesuper.show_3959203070907140013": [
+     {"n": "Batata Pré-Frita Prime Fries (2kg tradicional)", "p": "16,99", "u": "cada (cliente cadastrado, de 24,99)", "x": 56, "y": 30, "w": 44, "h": 52}
+   ],
+   "story_redesuper.show_3959203170253406710": [
+     {"n": "Frango a Passarinho Bom Todo (1kg, IQF temperado)", "p": "11,99", "u": "cada (cliente cadastrado, de 15,59)", "x": 48, "y": 0, "w": 52, "h": 40}
+   ],
+   "story_redesuper.show_3959203220702495348": [
+     {"n": "Chã de Fora Bovina Resfriada", "p": "36,99", "u": "kg (cliente cadastrado, de 45,59)", "x": 2, "y": 11, "w": 43, "h": 38},
+     {"n": "Bisteca Suína Seara", "p": "13,99", "u": "kg (cliente cadastrado, de 17,99)", "x": 47, "y": 13, "w": 51, "h": 35},
+     {"n": "Costela Suína Sadia", "p": "17,99", "u": "kg (cliente cadastrado, de 23,39)", "x": 2, "y": 61, "w": 43, "h": 38},
+     {"n": "Linguiça de Frango Bom Todo", "p": "12,99", "u": "kg (cliente cadastrado, de 16,89)", "x": 47, "y": 58, "w": 51, "h": 41}
+   ],
+   "story_redesuper.show_3959203278768450819": [
+     {"n": "Cachaça Matuta Lata 350ml (sabores)", "p": "9,99", "u": "un (cliente cadastrado, de 13,39)", "x": 13, "y": 63, "w": 78, "h": 34}
+   ],
+   "story_redesuper.show_3959203316726905393": [
+     {"n": "Refrigerante Dore 2L (sabores, exceto cola)", "p": "5,99", "u": "un (cliente cadastrado, de 7,49)", "x": 22, "y": 57, "w": 55, "h": 26}
+   ],
+   "story_redesuper.show_3959203367939363756": [
+     {"n": "Pão Bauducco Fermentação Natural Tradicional", "p": "5,99", "u": "un", "x": 0, "y": 22, "w": 40, "h": 20},
+     {"n": "Café União 250g (tradicional/extraforte, almofada/vácuo/pouch)", "p": "9,99", "u": "un", "x": 48, "y": 9, "w": 51, "h": 24},
+     {"n": "Creme Culinário Triângulo Mineiro 200g", "p": "1,79", "u": "un (cliente cadastrado, de 2,39)", "x": 2, "y": 79, "w": 46, "h": 21},
+     {"n": "Dueto / Milho Verde Predilecta Sachê 170g", "p": "2,99", "u": "un", "x": 50, "y": 67, "w": 48, "h": 24}
+   ],
+   "story_redesuper.show_3959203416241008843": [
+     {"n": "Papel Higiênico Felitá Care 20m c/12 (folha dupla)", "p": "9,99", "u": "cada (cliente cadastrado, de 12,89)", "x": 5, "y": 62, "w": 92, "h": 36}
+   ],
+   "story_redesuper.show_3959203452563620868": [
+     {"n": "Desodorante Aerosol Rexona 150ml (fragrâncias)", "p": "13,99", "u": "un", "x": 12, "y": 57, "w": 86, "h": 41}
+   ],
+   "story_redesuper.show_3959205373532569439": [
+     {"n": "Refrigerante Coca-Cola 2L (zero açúcar)", "p": "10,29", "u": "cada", "x": 4, "y": 14, "w": 29, "h": 19},
+     {"n": "Kit Refrigerante Coca-Cola + Fanta 2L", "p": "18,69", "u": "cada", "x": 35, "y": 14, "w": 30, "h": 19},
+     {"n": "Suco de Uva Galiotto 1L (tinto integral)", "p": "14,99", "u": "cada", "x": 67, "y": 14, "w": 30, "h": 19},
+     {"n": "Red Bull 250ml (sabores)", "p": "8,99", "u": "cada", "x": 4, "y": 33, "w": 29, "h": 19},
+     {"n": "Vinho Galiotto 750ml (tipos)", "p": "16,99", "u": "cada", "x": 35, "y": 33, "w": 30, "h": 19},
+     {"n": "Vinho Quatro Reinos 750ml (tinto suave)", "p": "14,99", "u": "cada", "x": 67, "y": 33, "w": 30, "h": 19},
+     {"n": "Bebida Mista Cabaré Ice 275ml (long neck, limão/frutas vermelhas)", "p": "7,49", "u": "cada", "x": 4, "y": 52, "w": 29, "h": 19},
+     {"n": "Cachaça Matuta 350ml (lata, sabores)", "p": "10,99", "u": "cada", "x": 35, "y": 52, "w": 30, "h": 19},
+     {"n": "Cerveja Eisenbahn 350ml (sleek, pilsen)", "p": "3,79", "u": "cada", "x": 67, "y": 52, "w": 30, "h": 19},
+     {"n": "Cerveja Heineken 600ml", "p": "11,99", "u": "cada", "x": 4, "y": 71, "w": 29, "h": 18},
+     {"n": "Cerveja Heineken 330ml (long neck, tradicional/zero)", "p": "5,99", "u": "cada", "x": 35, "y": 71, "w": 30, "h": 18},
+     {"n": "Vodka Absolut 1L", "p": "89,90", "u": "cada", "x": 67, "y": 71, "w": 30, "h": 18}
+   ],
+   "story_redesuper.show_3959205403186274703": [
+     {"n": "Gin Beefeater London 750ml", "p": "89,90", "u": "cada", "x": 4, "y": 14, "w": 29, "h": 19},
+     {"n": "Whisky Ballantine's Finest 750ml", "p": "49,90", "u": "cada", "x": 35, "y": 14, "w": 30, "h": 19},
+     {"n": "Whisky Chivas Regal 1L (12 anos)", "p": "99,90", "u": "cada", "x": 67, "y": 14, "w": 30, "h": 19},
+     {"n": "Whisky Jameson 750ml", "p": "79,90", "u": "cada", "x": 4, "y": 33, "w": 29, "h": 19},
+     {"n": "Whisky Johnnie Walker Red Label 750ml", "p": "54,90", "u": "cada", "x": 35, "y": 33, "w": 30, "h": 19},
+     {"n": "Vodka Smirnoff Ice 275ml (sabores)", "p": "7,49", "u": "cada", "x": 67, "y": 33, "w": 30, "h": 19},
+     {"n": "Sandália Rider Street (adulto)", "p": "29,99", "u": "cada", "x": 4, "y": 52, "w": 29, "h": 19},
+     {"n": "Desodorante Aerosol Nivea 150ml (fragrâncias)", "p": "11,99", "u": "cada", "x": 35, "y": 52, "w": 30, "h": 19},
+     {"n": "Espuma de Barbear Nivea For Men 200ml (hidra/sensitive)", "p": "33,99", "u": "cada", "x": 67, "y": 52, "w": 30, "h": 19},
+     {"n": "Creme de Barbear Nivea 65g (original/sensitive)", "p": "16,99", "u": "cada", "x": 4, "y": 71, "w": 29, "h": 18},
+     {"n": "Aparelho de Barbear Bic c/4 (emb. promocional, normal/sensitive)", "p": "16,99", "u": "cada", "x": 35, "y": 71, "w": 30, "h": 18},
+     {"n": "Shampoo Anticaspa Clear 400g (emb. promocional, fragrâncias)", "p": "28,99", "u": "cada", "x": 67, "y": 71, "w": 30, "h": 18}
+   ]
+ }
+}

@@ -1,0 +1,17 @@
+{
+  "verdicts": [
+    {"k": "carne bovina coxao duro resfriado kg || carne bovina coxao mole resfriado", "veredito": "diferente"},
+    {"k": "aditivo para radiador concentrado organico cockpit 1l || protetivo para radiador concentrado organico cockpit frasco 1l", "veredito": "incerto"},
+    {"k": "cafe em po extraforte sao braz almofada ou a vacuo pct 250g || cafe em po familia sao braz almofada ou a vacuo pct 250g", "veredito": "diferente"},
+    {"k": "lava roupas liquido omo lavagem perfeita 7 litros || sabao liquido omo lavagem perfeita 3 litros", "veredito": "diferente"},
+    {"k": "linguica calabresa perdigao kg || linguica calabresa perdigao ou sadia kg", "veredito": "mesmo"},
+    {"k": "papel higienico dama folha dupla 30m pacote com 12 rolos || papel higienico rose folha dupla 20m pacote 12 rolos", "veredito": "diferente"},
+    {"k": "carne bovina coxao duro || carne bovina coxao mole", "veredito": "diferente"},
+    {"k": "creme dental colgate total 12 90g || creme dental colgate total 90g tipos", "veredito": "mesmo"},
+    {"k": "maca royal || maca royal kg", "veredito": "mesmo"},
+    {"k": "leite condensado semidesnatado camponesa 395g || leite condensado semidesnatado piracanjuba 395g", "veredito": "diferente"},
+    {"k": "capa de file bovino resfriada a vacuo masterboi || contrafile bovino resfriado a vacuo masterboi", "veredito": "diferente"},
+    {"k": "desodorante corporal giovanna baby cherry 260ml || desodorante corporal giovanna baby fragrancias 260ml", "veredito": "incerto"},
+    {"k": "lava roupas em po brilhante lavanderia profissional pacote com 8kg || lava roupas em po omo lavanderia profissional pacote 8kg", "veredito": "diferente"}
+  ]
+}

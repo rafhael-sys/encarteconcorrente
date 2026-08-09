@@ -1,0 +1,139 @@
+{
+  "shortcode": "story_miramarsupermercado_20260808",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-08",
+  "fim": "2026-08-11",
+  "titulo": "Miramar — ofertas (story 08/08)",
+  "pages": {
+    "story_miramarsupermercado_3959135824620957407": [
+      {"n": "Espuma de Barbear Nivea Tipos 200ml", "p": "31,99", "u": "cada", "x": 8, "y": 30, "w": 22, "h": 15},
+      {"n": "Aparelho de Barbear Gillette Leve 4 Pague 3", "p": "31,99", "u": "pacote", "x": 33, "y": 30, "w": 22, "h": 15},
+      {"n": "Shampoo Anticaspa Head & Shoulders 400ml", "p": "28,99", "u": "cada", "x": 55, "y": 30, "w": 22, "h": 15},
+      {"n": "Creme de Barbear Bozzano 65g", "p": "8,99", "u": "cada", "x": 78, "y": 30, "w": 20, "h": 15},
+      {"n": "Desodorante Aerossol Bozzano ou Monange 150ml", "p": "8,49", "u": "cada", "x": 8, "y": 46, "w": 22, "h": 15},
+      {"n": "Carga Gillette Mach3 com 2 unidades", "p": "25,99", "u": "pacote", "x": 33, "y": 46, "w": 22, "h": 15},
+      {"n": "Desodorante Aerossol Rexona Clinical 150ml", "p": "18,99", "u": "cada", "x": 55, "y": 46, "w": 22, "h": 15},
+      {"n": "Sabonete Protex Men 85g", "p": "2,89", "u": "cada", "x": 78, "y": 46, "w": 20, "h": 15},
+      {"n": "Sandalias Masculinas Havaianas Top Max Confort", "p": "49,99", "u": "par", "x": 8, "y": 63, "w": 22, "h": 15},
+      {"n": "Sandalias Masculinas Cartago Montreal", "p": "41,99", "u": "par", "x": 33, "y": 63, "w": 22, "h": 15},
+      {"n": "Whisky Johnnie Walker Red Label 1L", "p": "74,90", "u": "cada", "x": 55, "y": 63, "w": 22, "h": 15},
+      {"n": "Cerveja Heineken Chopp Premium 5L", "p": "109,99", "u": "barril", "x": 78, "y": 63, "w": 20, "h": 15},
+      {"n": "Cerveja Amstel Puro Malte 350ml", "p": "3,29", "u": "cada", "x": 8, "y": 82, "w": 22, "h": 14},
+      {"n": "Cachaca Matuta Fire Fresh, Banana e Green Apple e Mel 1L", "p": "48,99", "u": "cada", "x": 38, "y": 82, "w": 24, "h": 14},
+      {"n": "Vinho Chilano Sabores 750ml", "p": "22,99", "u": "cada", "x": 70, "y": 82, "w": 24, "h": 14}
+    ],
+    "story_miramarsupermercado_3959198953317040657": [
+      {"n": "Espuma de Barbear Nivea Tipos 200ml", "p": "31,99", "u": "cada", "x": 8, "y": 30, "w": 22, "h": 15},
+      {"n": "Aparelho de Barbear Gillette Leve 4 Pague 3", "p": "31,99", "u": "pacote", "x": 33, "y": 30, "w": 22, "h": 15},
+      {"n": "Shampoo Anticaspa Head & Shoulders 400ml", "p": "28,99", "u": "cada", "x": 55, "y": 30, "w": 22, "h": 15},
+      {"n": "Creme de Barbear Bozzano 65g", "p": "8,99", "u": "cada", "x": 78, "y": 30, "w": 20, "h": 15},
+      {"n": "Desodorante Aerossol Bozzano ou Monange 150ml", "p": "8,49", "u": "cada", "x": 8, "y": 46, "w": 22, "h": 15},
+      {"n": "Carga Gillette Mach3 com 2 unidades", "p": "25,99", "u": "pacote", "x": 33, "y": 46, "w": 22, "h": 15},
+      {"n": "Desodorante Aerossol Rexona Clinical 150ml", "p": "18,99", "u": "cada", "x": 55, "y": 46, "w": 22, "h": 15},
+      {"n": "Sabonete Protex Men 85g", "p": "2,89", "u": "cada", "x": 78, "y": 46, "w": 20, "h": 15},
+      {"n": "Sandalias Masculinas Havaianas Top Max Confort", "p": "49,99", "u": "par", "x": 8, "y": 63, "w": 22, "h": 15},
+      {"n": "Sandalias Masculinas Cartago Montreal", "p": "41,99", "u": "par", "x": 33, "y": 63, "w": 22, "h": 15},
+      {"n": "Whisky Johnnie Walker Red Label 1L", "p": "74,90", "u": "cada", "x": 55, "y": 63, "w": 22, "h": 15},
+      {"n": "Cerveja Heineken Chopp Premium 5L", "p": "109,99", "u": "barril", "x": 78, "y": 63, "w": 20, "h": 15},
+      {"n": "Cerveja Amstel Puro Malte 350ml", "p": "3,29", "u": "cada", "x": 6, "y": 82, "w": 20, "h": 14},
+      {"n": "Cerveja Budweiser Multipack 12 Latas 350ml (cada lata R$ 3,66)", "p": "43,92", "u": "pacote", "x": 28, "y": 82, "w": 22, "h": 14},
+      {"n": "Cachaca Matuta Fire Fresh, Banana e Green Apple e Mel 1L", "p": "48,99", "u": "cada", "x": 53, "y": 82, "w": 22, "h": 14},
+      {"n": "Vinho Chilano Sabores 750ml", "p": "22,99", "u": "cada", "x": 76, "y": 82, "w": 22, "h": 14}
+    ],
+    "story_miramarsupermercado_3959234116323503880": [
+      {"n": "Vinho Grande Rio Suave 750ml", "p": "14,99", "u": "cada", "x": 6, "y": 38, "w": 30, "h": 18},
+      {"n": "Vinho Concha y Toro Tipos 750ml", "p": "39,99", "u": "cada", "x": 38, "y": 38, "w": 30, "h": 18},
+      {"n": "Vinho Cassilero del Diablo Tipos 750ml", "p": "59,99", "u": "cada", "x": 70, "y": 38, "w": 28, "h": 18},
+      {"n": "Vinho Portugues Casal Garcia Tinto ou Branco 750ml", "p": "74,99", "u": "cada", "x": 6, "y": 60, "w": 30, "h": 18},
+      {"n": "Vinho Yellow Tail Tipos 750ml", "p": "49,99", "u": "cada", "x": 38, "y": 60, "w": 30, "h": 18},
+      {"n": "Vinho Cicconia Alentejo Tipos 750ml", "p": "48,99", "u": "cada", "x": 70, "y": 60, "w": 28, "h": 18},
+      {"n": "Vinho Portugues EA Cartuxa Branco ou Tinto 750ml", "p": "59,90", "u": "cada", "x": 6, "y": 82, "w": 30, "h": 16},
+      {"n": "Vinho Galiotto Tipos 2L", "p": "34,90", "u": "cada", "x": 38, "y": 82, "w": 30, "h": 16},
+      {"n": "Vinho Quinta do Morgado Tipos (exceto Bordo) 750ml", "p": "17,99", "u": "cada", "x": 70, "y": 82, "w": 28, "h": 16}
+    ],
+    "story_miramarsupermercado_3959372510419636000": [
+      {"n": "Oleo de Soja ABC 900ml", "p": "7,49", "u": "cada", "x": 5, "y": 40, "w": 45, "h": 22},
+      {"n": "Carne Bovina Cha de Fora", "p": "38,99", "u": "kg", "x": 52, "y": 40, "w": 45, "h": 22},
+      {"n": "Carne Bovina Patinho", "p": "38,99", "u": "kg", "x": 5, "y": 68, "w": 45, "h": 22},
+      {"n": "Acucar Alegre Triturado 1kg", "p": "2,79", "u": "cada", "x": 52, "y": 68, "w": 45, "h": 22}
+    ],
+    "story_miramarsupermercado_3959372806814357966": [
+      {"n": "Fraldas Descartaveis Babysec Ultra Sequinha Shortinho Tamanhos", "p": "27,99", "u": "pacote", "x": 4, "y": 30, "w": 44, "h": 25},
+      {"n": "Papel Higienico Caprice Folha Dupla Leve 12 Pague 11", "p": "9,99", "u": "pacote", "x": 50, "y": 30, "w": 46, "h": 25},
+      {"n": "Lava Roupas em Po Ala Fragrancias 400g", "p": "2,69", "u": "cada", "x": 4, "y": 66, "w": 46, "h": 25},
+      {"n": "Agua Sanitaria Dragao 1L", "p": "2,19", "u": "cada", "x": 55, "y": 66, "w": 42, "h": 25}
+    ],
+    "story_miramarsupermercado_3959373055737871478": [
+      {"n": "Batata Pre-frita Easychef Congelada Tradicional 2kg", "p": "19,99", "u": "cada", "x": 4, "y": 26, "w": 30, "h": 16},
+      {"n": "Filezinho de Peito de Frango Perdigao 1kg", "p": "17,99", "u": "bandeja", "x": 35, "y": 26, "w": 30, "h": 16},
+      {"n": "Salsisha Hot Dog Rara", "p": "5,99", "u": "kg", "x": 66, "y": 26, "w": 30, "h": 16},
+      {"n": "Macarrao Bonsabor Spaghetti 400g", "p": "1,99", "u": "cada", "x": 4, "y": 46, "w": 30, "h": 18},
+      {"n": "Farinha de Trigo Finna Tradicional 1kg", "p": "3,99", "u": "cada", "x": 35, "y": 46, "w": 30, "h": 18},
+      {"n": "Leite UHT Parmalat Integral ou Desnatado 1L", "p": "5,99", "u": "cada", "x": 66, "y": 46, "w": 30, "h": 18},
+      {"n": "Arroz Parboilizado Panelaco 1kg", "p": "3,49", "u": "cada", "x": 6, "y": 70, "w": 44, "h": 22},
+      {"n": "Cafe Sao Braz Familia Almofada ou A Vacuo 250g", "p": "12,99", "u": "cada", "x": 52, "y": 70, "w": 44, "h": 22}
+    ],
+    "story_miramarsupermercado_3959466640307511134": [
+      {"n": "Cerveja Budweiser Tradicional ou Zero 350ml", "p": "3,79", "u": "cada", "x": 4, "y": 30, "w": 30, "h": 18},
+      {"n": "Cerveja Budweiser Multipack 12 Latas 350ml (cada lata R$ 3,66)", "p": "43,92", "u": "pacote", "x": 35, "y": 30, "w": 30, "h": 18},
+      {"n": "Cerveja Spaten 350ml", "p": "4,49", "u": "cada", "x": 66, "y": 30, "w": 30, "h": 18},
+      {"n": "Cerveja Bohemia 350ml", "p": "3,29", "u": "cada", "x": 3, "y": 52, "w": 23, "h": 16},
+      {"n": "Cerveja Michellob Ultra 350ml", "p": "4,49", "u": "cada", "x": 27, "y": 52, "w": 23, "h": 16},
+      {"n": "Cerveja Corona Extra ou Cero Long Neck 330ml", "p": "7,59", "u": "cada", "x": 51, "y": 52, "w": 23, "h": 16},
+      {"n": "Bebida Mista Skol Beats Long Neck Sabores 269ml", "p": "7,49", "u": "cada", "x": 76, "y": 52, "w": 22, "h": 16},
+      {"n": "Refrigerante Pepsi 1L", "p": "4,79", "u": "cada", "x": 4, "y": 78, "w": 30, "h": 16},
+      {"n": "Refrigerante Guarana Antarctica Tradicional ou Zero 2L", "p": "8,99", "u": "cada", "x": 35, "y": 78, "w": 30, "h": 16},
+      {"n": "Refrigerante Guarana Antarctica Tradicional ou Zero 350ml", "p": "2,69", "u": "cada", "x": 66, "y": 78, "w": 30, "h": 16}
+    ],
+    "story_miramarsupermercado_3959473560699772349": [
+      {"n": "Cerveja Amstel 350ml", "p": "3,29", "u": "cada", "x": 3, "y": 30, "w": 23, "h": 14},
+      {"n": "Cerveja Budweiser Multipack 12 Latas 350ml (cada lata R$ 3,66)", "p": "43,92", "u": "pacote", "x": 27, "y": 30, "w": 25, "h": 14},
+      {"n": "Cerveja Corona Extra ou Cero Long Neck 330ml", "p": "7,59", "u": "cada", "x": 53, "y": 30, "w": 23, "h": 14},
+      {"n": "Cerveja Bohemia 350ml", "p": "3,29", "u": "cada", "x": 77, "y": 30, "w": 21, "h": 14},
+      {"n": "Suco de Uva Integral Galiotto 1L", "p": "14,99", "u": "cada", "x": 4, "y": 53, "w": 30, "h": 18},
+      {"n": "Refrigerante Coca-Cola Tradicional ou Zero 1,5L", "p": "7,49", "u": "cada", "x": 35, "y": 53, "w": 32, "h": 18},
+      {"n": "Agua Tonica FYS Limao Siciliano ou Zero 350ml", "p": "2,49", "u": "cada", "x": 68, "y": 53, "w": 30, "h": 18},
+      {"n": "Refrigerante FYS Sabores 350ml", "p": "2,19", "u": "cada", "x": 4, "y": 78, "w": 30, "h": 16},
+      {"n": "Bebida Tampico Sabores 1,5L", "p": "6,49", "u": "cada", "x": 38, "y": 78, "w": 30, "h": 16},
+      {"n": "Whisky Johnnie Walker Red Label 1L", "p": "74,90", "u": "cada", "x": 70, "y": 78, "w": 28, "h": 16}
+    ],
+    "story_miramarsupermercado_3959473715444406070": [
+      {"n": "Oleo de Soja ABC 900ml", "p": "7,49", "u": "cada", "x": 6, "y": 32, "w": 44, "h": 20},
+      {"n": "Flocao de Milho Novomilho 500g", "p": "1,49", "u": "cada", "x": 52, "y": 32, "w": 44, "h": 20},
+      {"n": "Leite UHT Parmalat Integral ou Desnatado 1L", "p": "5,99", "u": "cada", "x": 20, "y": 54, "w": 60, "h": 20},
+      {"n": "Cafe Sao Braz Familia Almofada ou A Vacuo 250g", "p": "12,99", "u": "cada", "x": 6, "y": 78, "w": 44, "h": 18},
+      {"n": "Arroz Parboilizado Panelaco 1kg", "p": "3,49", "u": "cada", "x": 52, "y": 78, "w": 44, "h": 18}
+    ],
+    "story_miramarsupermercado_3959473842523432865": [
+      {"n": "Lava Roupas em Po Tixan Ype Maciez ou Primavera 1,6kg", "p": "15,99", "u": "cada", "x": 6, "y": 30, "w": 44, "h": 18},
+      {"n": "Amaciante Concentrado Comfort Fragrancias 500ml", "p": "9,49", "u": "cada", "x": 52, "y": 30, "w": 44, "h": 18},
+      {"n": "Racao Tuticats Premium Sem Corante 10kg", "p": "99,99", "u": "cada", "x": 4, "y": 56, "w": 46, "h": 20},
+      {"n": "Racao Friskies Sabores", "p": "17,99", "u": "kg", "x": 52, "y": 54, "w": 44, "h": 20},
+      {"n": "Racao Whiskas Sabores 500g", "p": "12,99", "u": "cada", "x": 4, "y": 80, "w": 46, "h": 18},
+      {"n": "Petiscos para Gatos Dreamies Sabores 40g", "p": "3,99", "u": "cada", "x": 52, "y": 80, "w": 44, "h": 18}
+    ],
+    "story_miramarsupermercado_3959473968025372558": [
+      {"n": "Salgadinho Pippo's Sabores 75g", "p": "3,49", "u": "cada", "x": 6, "y": 32, "w": 44, "h": 20},
+      {"n": "Biscoito Club Social Sabores 144g", "p": "5,99", "u": "cada", "x": 52, "y": 32, "w": 44, "h": 20},
+      {"n": "Macarrao Instantaneo Nissin Lamen Sabores 85g", "p": "1,99", "u": "cada", "x": 6, "y": 55, "w": 44, "h": 20},
+      {"n": "Maionese Hellmann's 400g", "p": "8,99", "u": "cada", "x": 52, "y": 55, "w": 44, "h": 20},
+      {"n": "Batata Frita Lay's Sabores 62g", "p": "8,49", "u": "cada", "x": 6, "y": 78, "w": 44, "h": 18},
+      {"n": "Salgadinho Cheetos Sabores 33g, 35g ou 40g", "p": "2,99", "u": "cada", "x": 52, "y": 78, "w": 44, "h": 18}
+    ],
+    "story_miramarsupermercado_3959474081892401038": [
+      {"n": "Linguica Aurora de Frango ou Churrasco", "p": "17,99", "u": "kg", "x": 6, "y": 32, "w": 44, "h": 20},
+      {"n": "Presunto Aurora de Frango, Suino ou Lombo", "p": "27,99", "u": "kg", "x": 52, "y": 32, "w": 44, "h": 20},
+      {"n": "Sorvete Ster Bom Sabores 2L", "p": "23,99", "u": "cada", "x": 20, "y": 55, "w": 60, "h": 20},
+      {"n": "Mix Acai Ster Bom Sabores 1L", "p": "20,99", "u": "cada", "x": 4, "y": 80, "w": 46, "h": 18},
+      {"n": "Coxinha da Asa de Frango Seara Congelada 1kg", "p": "16,99", "u": "cada", "x": 52, "y": 80, "w": 44, "h": 18}
+    ],
+    "story_miramarsupermercado_3959474223936690453": [
+      {"n": "Carne Bovina Coxao Mole", "p": "39,99", "u": "kg", "x": 6, "y": 32, "w": 44, "h": 20},
+      {"n": "Carne Bovina Cha de Fora", "p": "38,99", "u": "kg", "x": 52, "y": 32, "w": 44, "h": 20},
+      {"n": "Carne Bovina Patinho", "p": "38,99", "u": "kg", "x": 20, "y": 55, "w": 60, "h": 20},
+      {"n": "Lombo Suino Sem Osso Lar Congelado", "p": "21,99", "u": "kg", "x": 4, "y": 78, "w": 46, "h": 20},
+      {"n": "Sobrepaleta Suina Lar", "p": "20,99", "u": "kg", "x": 52, "y": 78, "w": 44, "h": 20}
+    ]
+  }
+}
