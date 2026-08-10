@@ -1,0 +1,18 @@
+{
+  "shortcode": "atacadao_dc094ce635",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-09",
+  "fim": "2026-08-09",
+  "titulo": "Atacadão - Boa do Dia (Só Domingo 09/08)",
+  "pages": {
+    "atacadao_dc094ce635_p1": [
+      {"n": "Mamão Comum", "p": "3,99", "u": "kg", "x": 3, "y": 33, "w": 45, "h": 20},
+      {"n": "Mexerica Comum", "p": "7,59", "u": "kg", "x": 52, "y": 33, "w": 45, "h": 20},
+      {"n": "Filé de Peito de Frango Lar Congelado Bandeja com 1kg", "p": "15,99", "u": "de R$ 19,99 por", "x": 3, "y": 54, "w": 45, "h": 20},
+      {"n": "Lasanha Sadia Congelada Vários Sabores Embalagem com 600g", "p": "13,98", "u": "de R$ 18,99 por", "x": 52, "y": 54, "w": 45, "h": 20},
+      {"n": "Refrigerante Coca-Cola e Fanta Laranja Pack com 2x2L", "p": "17,49", "u": "de R$ 19,49 por", "x": 3, "y": 75, "w": 45, "h": 18},
+      {"n": "Detergente Líquido Guarani Vários Tipos Frasco com 500ml", "p": "1,39", "u": "de R$ 1,69 por", "x": 52, "y": 75, "w": 45, "h": 18}
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "shortcode": "story_favoritosuper_20260809",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-07",
+  "fim": "2026-08-09",
+  "titulo": "Favorito Super / Atacado Favorito - Favoritaço + ofertas Faz o Pix",
+  "pages": {
+    "story_favoritosuper_3959848906532846073": [
+      {"n":"Margarina Primor 3kg","p":"26,99","u":"cada","x":6,"y":30,"w":16,"h":8},
+      {"n":"Polpa de Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo","p":"4,29","u":"cada","x":25,"y":30,"w":16,"h":8},
+      {"n":"Morango Congelado Sophara 1kg","p":"13,99","u":"cada","x":44,"y":30,"w":16,"h":8},
+      {"n":"Steak de Frango Lar 100g","p":"1,29","u":"cada","x":62,"y":30,"w":16,"h":8},
+      {"n":"Hamburguer Tony Carne Mista 56g","p":"0,89","u":"cada","x":80,"y":30,"w":16,"h":8},
+      {"n":"Bolo de Rolo Unirella Goiaba 350g","p":"9,99","u":"cada","x":6,"y":39,"w":16,"h":8},
+      {"n":"Ovo Branco Avine Extra c/ 20 und","p":"10,49","u":"cada","x":25,"y":39,"w":16,"h":8},
+      {"n":"Bolacha Jucurutu 250g Manteiga","p":"5,99","u":"cada","x":44,"y":39,"w":16,"h":8},
+      {"n":"Goma de Mandioca Kumê 1kg","p":"4,59","u":"cada","x":62,"y":39,"w":16,"h":8},
+      {"n":"Pao de Forma Cadice 400g Integral Sem Acucar ou Leite","p":"6,79","u":"cada","x":80,"y":39,"w":16,"h":8},
+      {"n":"Milho Verde Fugini Sache 170g","p":"3,29","u":"cada","x":6,"y":48,"w":16,"h":8},
+      {"n":"Biscoito Rosquinha Rancheiro 300g Sabores","p":"3,99","u":"cada","x":25,"y":48,"w":16,"h":8},
+      {"n":"Farinha Lactea Nestle Sache 600g","p":"18,99","u":"cada","x":44,"y":48,"w":16,"h":8},
+      {"n":"Cafe Soluvel Nescafe 40g 10% Gratis (Extraforte, Forte e Suave)","p":"5,49","u":"cada","x":62,"y":48,"w":16,"h":8},
+      {"n":"Bebida Cappuccino 3 Coracoes ou Santa Clara Gfa 260ml Sabores","p":"6,99","u":"cada","x":80,"y":48,"w":16,"h":8},
+      {"n":"Biscoito Coberto Maltado Piraque 80g Chocolate ou Black","p":"3,69","u":"cada","x":6,"y":57,"w":16,"h":8},
+      {"n":"Mistura p/ Bolo Finna 400g Sabores Variados","p":"5,99","u":"cada","x":25,"y":57,"w":16,"h":8},
+      {"n":"Macarrao Estrela Semola Parafuso 400g","p":"3,49","u":"cada","x":44,"y":57,"w":16,"h":8},
+      {"n":"Sardinha Gomes Costa 125g Oleo ou Tomate","p":"6,99","u":"cada","x":62,"y":57,"w":16,"h":8},
+      {"n":"Chocolate Barra Hersheys 75g/77g e 82g","p":"8,99","u":"cada","x":80,"y":57,"w":16,"h":8},
+      {"n":"Cerveja Lokal Pilsen 350ml Lata","p":"2,49","u":"cada","x":6,"y":66,"w":16,"h":8},
+      {"n":"Desodorante Aerosol Monange 90g","p":"7,99","u":"cada","x":25,"y":66,"w":16,"h":8},
+      {"n":"Extrato de Tomate Fugini Sache 300g","p":"2,69","u":"cada","x":44,"y":66,"w":16,"h":8},
+      {"n":"Refrigerante Coca-Cola Zero 350ml","p":"3,39","u":"cada","x":62,"y":66,"w":16,"h":8},
+      {"n":"Suco de Uva Casa da Serra 1,5L Integral","p":"13,99","u":"cada","x":80,"y":66,"w":16,"h":8},
+      {"n":"Desodorante Creme Herbissimo 55g","p":"4,99","u":"cada","x":6,"y":76,"w":16,"h":8},
+      {"n":"Absorvente Naturalmente Especial Noturno 10 und","p":"5,49","u":"cada","x":25,"y":76,"w":16,"h":8},
+      {"n":"Sabonete Cremoso Harrop 1L Refil","p":"9,99","u":"cada","x":44,"y":76,"w":16,"h":8},
+      {"n":"Esponja Brilhus Multiuso L4/P3","p":"3,99","u":"cada","x":62,"y":76,"w":16,"h":8},
+      {"n":"Amaciante de Roupa Downy Concentrado 1L","p":"21,99","u":"cada","x":80,"y":76,"w":16,"h":8},
+      {"n":"Sabao em Po Ala 400g Fragrancias","p":"2,69","u":"cada","x":6,"y":86,"w":16,"h":8},
+      {"n":"Papel Toalha Scala 2un Tradicional","p":"5,49","u":"cada","x":25,"y":86,"w":16,"h":8},
+      {"n":"Shampoo Seda 300ml + Condicionador 190ml","p":"15,90","u":"cada","x":44,"y":86,"w":16,"h":8},
+      {"n":"Detergente Liquido Limpol 500ml","p":"2,09","u":"cada","x":62,"y":86,"w":16,"h":8},
+      {"n":"Agua Sanitaria Clorito 1L","p":"1,99","u":"cada","x":80,"y":86,"w":16,"h":8}
+    ],
+    "story_favoritosuper_3959879729629042031": [
+      {"n":"Biscoito Recheado Treloso Chocolate 120g","p":"1,79","u":"no pix ou dinheiro","x":13,"y":28,"w":55,"h":45}
+    ],
+    "story_favoritosuper_3959879776853015501": [
+      {"n":"Cerveja Michelob Ultra Sleek 350ml","p":"4,99","u":"no pix ou dinheiro","x":3,"y":22,"w":42,"h":32},
+      {"n":"Cerveja Corona 350ml Sleek","p":"5,79","u":"no pix ou dinheiro","x":55,"y":24,"w":42,"h":32},
+      {"n":"Cerveja Eisenbahn 350ml Pilsen","p":"4,39","u":"no pix ou dinheiro","x":3,"y":70,"w":44,"h":28},
+      {"n":"Cerveja Amstel 350ml","p":"3,19","u":"no pix ou dinheiro","x":58,"y":76,"w":40,"h":22}
+    ],
+    "story_favoritosuper_3959879820943526371": [
+      {"n":"Pao de Forma Cadice 400g Integral Sem Acucar ou Leite","p":"5,99","u":"no pix ou dinheiro","x":15,"y":26,"w":42,"h":30},
+      {"n":"Hamburguer Maturatta 180g","p":"7,49","u":"no pix ou dinheiro","x":55,"y":52,"w":42,"h":35}
+    ],
+    "story_favoritosuper_3959879877759575632": [
+      {"n":"Peito Bovino c/ Osso","p":"25,99","u":"kg","x":16,"y":24,"w":62,"h":48}
+    ],
+    "story_favoritosuper_3959882127273834893": []
+  }
+}

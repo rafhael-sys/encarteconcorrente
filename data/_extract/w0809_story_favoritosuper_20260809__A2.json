@@ -1,0 +1,39 @@
+{
+  "shortcode": "story_favoritosuper_20260809",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-07",
+  "fim": "2026-08-09",
+  "titulo": "Favorito Super/Atacado - Faz o Pix Favorito (quem faz o Pix paga menos)",
+  "pages": {
+    "story_favoritosuper_3959882229791052258": [],
+    "story_favoritosuper_3959882361777409185": [],
+    "story_favoritosuper_3959882486524400212": [
+      {"n":"Repolho Roxo kg","p":"12,98","u":"kg","x":2,"y":41,"w":14,"h":9},
+      {"n":"Repolho Branco kg","p":"6,99","u":"kg","x":17,"y":40,"w":14,"h":9},
+      {"n":"Alho kg","p":"21,99","u":"kg (de 27,99)","x":33,"y":40,"w":18,"h":14}
+    ],
+    "story_favoritosuper_3959882656804712441": [
+      {"n":"Filé Peito Lar 1kg Cong ou Filezinho Sassami Lar 1kg Cong Bdj","p":"15,99","u":"no PIX ou dinheiro (de 22,99)","x":0,"y":36,"w":22,"h":26},
+      {"n":"Hamburguer Maturatta 180g","p":"7,49","u":"no PIX ou dinheiro (de 8,39)","x":42,"y":34,"w":27,"h":27}
+    ],
+    "story_favoritosuper_3959882804125443775": [
+      {"n":"Freezer 100% Natural Congelados","p":"10,99","u":"no PIX ou dinheiro","x":62,"y":0,"w":26,"h":8}
+    ],
+    "story_favoritosuper_3959882885142612007": [],
+    "story_favoritosuper_3959882978482651347": [],
+    "story_favoritosuper_3959887801093430757": [],
+    "story_favoritosuper_3959878326656404923": [
+      {"n":"Macarrão Bonsabor Spaghetti 400g","p":"1,79","u":"cada (limitado 28 un/CPF, PIX ou dinheiro)","x":22,"y":74,"w":56,"h":9}
+    ],
+    "story_favoritosuper_3959878368230323467": [
+      {"n":"Leite em Pó CCGL Integral 800g","p":"24,99","u":"cada (PIX ou dinheiro)","x":17,"y":73,"w":66,"h":9}
+    ],
+    "story_favoritosuper_3959878411842719892": [
+      {"n":"Papel Higiênico Noble Folha Dupla 12 rolos","p":"8,99","u":"cada (PIX ou dinheiro)","x":17,"y":73,"w":66,"h":9}
+    ],
+    "story_favoritosuper_3959878461201300262": [
+      {"n":"Margarina Primor Original com Sal 500g","p":"4,79","u":"cada (PIX ou dinheiro)","x":17,"y":73,"w":66,"h":9}
+    ]
+  }
+}

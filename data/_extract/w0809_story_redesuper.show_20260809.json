@@ -1,0 +1,128 @@
+{
+  "shortcode": "story_redesuper.show_20260809",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-07",
+  "fim": "2026-08-09",
+  "titulo": "Rede Super Show — Super Dia Show (Dia dos Pais)",
+  "pages": {
+    "story_redesuper.show_3959891523605176960": [],
+    "story_redesuper.show_3959891668169468209": [
+      {"n":"Linguiça de Frango Bom Todo kg","p":"12,99","u":"kg (cliente cadastrado)","x":13,"y":47,"w":40,"h":27},
+      {"n":"Peito de Frango Envelopado Congelado kg","p":"9,98","u":"kg (cliente cadastrado)","x":67,"y":13,"w":31,"h":45},
+      {"n":"Costela Suína Sadia kg","p":"17,99","u":"kg (cliente cadastrado)","x":0,"y":72,"w":47,"h":27},
+      {"n":"Chã de Fora Bovino Resfriado kg","p":"36,99","u":"kg (cliente cadastrado)","x":51,"y":72,"w":47,"h":27}
+    ],
+    "story_redesuper.show_3959891757994698518": [
+      {"n":"Frango a Passarinho Bom Todo 1kg (IQF - Temperado)","p":"11,99","u":"un (oferta família show)","x":10,"y":40,"w":72,"h":52}
+    ],
+    "story_redesuper.show_3959891816614366819": [
+      {"n":"Batata Pré-Frita Prime Fries 2kg (Congelada - Tradicional)","p":"16,99","u":"un (oferta família show)","x":8,"y":40,"w":72,"h":52}
+    ],
+    "story_redesuper.show_3959891940720338799": [
+      {"n":"Cerveja Devassa Tropical 350ml (Sleek)","p":"2,59","u":"un (oferta família show)","x":15,"y":25,"w":70,"h":65}
+    ],
+    "story_redesuper.show_3959892079353984173": [
+      {"n":"Bebida Mista Crystal Ice LN 275ml (Caju)","p":"4,99","u":"un (cliente cadastrado)","x":2,"y":50,"w":46,"h":26},
+      {"n":"Refrigerante Dore PT 2L (Sabores, exceto Cola)","p":"5,99","u":"un (cliente cadastrado)","x":54,"y":55,"w":43,"h":24},
+      {"n":"Bebida Mista Tampico 1,5L (Sabores)","p":"5,99","u":"un (cliente cadastrado)","x":4,"y":82,"w":43,"h":17},
+      {"n":"Cachaça Matuta Lata 350ml (Sabores)","p":"9,99","u":"un (cliente cadastrado)","x":54,"y":82,"w":43,"h":17}
+    ],
+    "story_redesuper.show_3959892274472838098": [
+      {"n":"Linguiça de Frango Bom Todo","p":"12,99","u":"kg","x":4,"y":33,"w":20,"h":15},
+      {"n":"Peito de Frango Envelopado (Congelado)","p":"9,98","u":"kg","x":27,"y":33,"w":23,"h":15},
+      {"n":"Chã de Fora Bovino (Resfriado)","p":"36,99","u":"kg","x":52,"y":33,"w":20,"h":15},
+      {"n":"Batata Pré-Frita Prime Fries 2kg (Congelada - Tradicional)","p":"16,99","u":"un","x":76,"y":33,"w":20,"h":15},
+      {"n":"Café União 250g (Extraforte/Tradicional - Almofada/A Vácuo/Pouch)","p":"9,99","u":"un","x":6,"y":48,"w":26,"h":17},
+      {"n":"Massa Galo 400g (Parafuso)","p":"2,49","u":"un","x":38,"y":48,"w":28,"h":17},
+      {"n":"Massa Galo 400g (Espaguete)","p":"1,89","u":"un","x":70,"y":48,"w":26,"h":17},
+      {"n":"Feijão Felitá Chef 1kg (Preto)","p":"6,59","u":"un","x":6,"y":63,"w":26,"h":15},
+      {"n":"Arroz Blue Soft 1kg (Parboilizado)","p":"3,59","u":"un","x":38,"y":63,"w":28,"h":15},
+      {"n":"Lava Roupas em Pó Ala 400g (Fragrâncias)","p":"2,59","u":"un","x":70,"y":63,"w":26,"h":15},
+      {"n":"Papel Higiênico Felitá Care 20m C/12 (Folha Dupla)","p":"9,99","u":"un","x":6,"y":78,"w":26,"h":15},
+      {"n":"Fraldas Descartáveis Mili Love & Care Jumbo (Tamanhos)","p":"24,99","u":"un","x":38,"y":78,"w":28,"h":15},
+      {"n":"Cerveja Devassa Tropical 350ml (Sleek)","p":"2,59","u":"un","x":70,"y":78,"w":26,"h":15}
+    ],
+    "story_redesuper.show_3959892321381960604": [
+      {"n":"Frango a Passarinho Bom Todo 1kg (IQF - Temperado)","p":"11,99","u":"un","x":8,"y":13,"w":26,"h":15},
+      {"n":"Hambúrguer Perdigão ou Sadia 56g (Misto)","p":"0,99","u":"un","x":38,"y":13,"w":26,"h":15},
+      {"n":"Steak de Frango Perdigão ou Super Frango 100g","p":"1,19","u":"un","x":68,"y":13,"w":26,"h":15},
+      {"n":"Salsicha Hot-Dog Boua","p":"5,99","u":"kg","x":8,"y":33,"w":26,"h":15},
+      {"n":"Bisteca Suína Seara","p":"13,99","u":"kg","x":38,"y":33,"w":26,"h":15},
+      {"n":"Costela Suína Sadia","p":"17,99","u":"kg","x":68,"y":33,"w":26,"h":15},
+      {"n":"Ovos de Codorna Avine C/30","p":"6,99","u":"un","x":8,"y":52,"w":26,"h":15},
+      {"n":"Bebida Mista Crystal Ice 275ml (Long Neck - Caju)","p":"4,99","u":"un","x":38,"y":52,"w":26,"h":15},
+      {"n":"Cachaça Matuta 350ml (Lata - Sabores)","p":"9,99","u":"un","x":68,"y":52,"w":26,"h":15},
+      {"n":"Bebida Mista Tampico 1,5L (Sabores)","p":"5,99","u":"un","x":8,"y":68,"w":26,"h":15},
+      {"n":"Refrigerante Dore 2L (Sabores, exceto Cola)","p":"5,99","u":"un","x":38,"y":68,"w":26,"h":15},
+      {"n":"Mistura Láctea Condensada Triângulo Mineiro 395g","p":"3,79","u":"un","x":68,"y":68,"w":26,"h":15},
+      {"n":"Pão de Forma Bauducco 390g (Tradicional) / Bisnaguinha 260g (Tradicional)","p":"5,99","u":"un","x":20,"y":85,"w":28,"h":14},
+      {"n":"Biscoito Wafer Bauducco 70g (Chocolate/Brigadeiro)","p":"1,49","u":"un","x":52,"y":85,"w":28,"h":14}
+    ],
+    "story_redesuper.show_3959892358031954469": [
+      {"n":"Creme Culinário Triângulo Mineiro 200g","p":"1,79","u":"un","x":8,"y":18,"w":26,"h":15},
+      {"n":"Biscoito Recheado Treloso 120g (Sabores)","p":"1,89","u":"un","x":38,"y":18,"w":26,"h":15},
+      {"n":"Molho de Tomate Felitá Chef Sc 300g (Refogado)","p":"1,49","u":"un","x":68,"y":18,"w":26,"h":15},
+      {"n":"Dueto / Milho Verde Predilecta 170g (Sachê)","p":"2,99","u":"un","x":8,"y":36,"w":26,"h":15},
+      {"n":"Catchup Tambaú 830g (Tradicional/Picante)","p":"6,99","u":"un","x":38,"y":36,"w":26,"h":15},
+      {"n":"Flocão de Milho Fortemilho 400g","p":"0,99","u":"un","x":68,"y":36,"w":26,"h":15},
+      {"n":"Desodorante Aerossol Rexona 150ml (Fragrâncias)","p":"13,99","u":"un","x":8,"y":53,"w":26,"h":15},
+      {"n":"Sabonete Francis 85g (Fragrâncias)","p":"1,69","u":"un","x":38,"y":53,"w":26,"h":15},
+      {"n":"Kit Elseve Shampoo 375ml + Condicionador 170ml (Fragrâncias)","p":"29,90","u":"un","x":68,"y":53,"w":26,"h":15},
+      {"n":"Lava Roupa Líquido Tanlux 3L","p":"10,99","u":"un","x":4,"y":70,"w":22,"h":15},
+      {"n":"Lava Louças Alice 500ml","p":"1,29","u":"un","x":28,"y":70,"w":22,"h":15},
+      {"n":"Amaciante Sonho 1,5L (Fragrâncias)","p":"7,99","u":"un","x":52,"y":70,"w":22,"h":15},
+      {"n":"Água Sanitária Dragão 1L","p":"1,99","u":"un","x":76,"y":70,"w":22,"h":15}
+    ],
+    "story_redesuper.show_3959892395839443062": [
+      {"n":"Refrigerante Coca-Cola 2L (Zero Açúcar)","p":"10,29","u":"un","x":8,"y":28,"w":26,"h":17},
+      {"n":"Kit Refrigerante Coca-Cola + Fanta 2L","p":"18,69","u":"un","x":38,"y":28,"w":26,"h":17},
+      {"n":"Suco de Uva Galiotto 1L (Tinto - Integral)","p":"14,99","u":"un","x":68,"y":28,"w":26,"h":17},
+      {"n":"Red Bull 250ml (Sabores)","p":"8,99","u":"un","x":8,"y":48,"w":26,"h":17},
+      {"n":"Vinho Galiotto 750ml (Tipos)","p":"16,99","u":"un","x":38,"y":48,"w":26,"h":17},
+      {"n":"Vinho Quatro Reinos 750ml (Tinto Suave)","p":"14,99","u":"un","x":68,"y":48,"w":26,"h":17},
+      {"n":"Bebida Mista Cabaré Ice 275ml (Long Neck - Limão/Frutas Vermelhas)","p":"7,49","u":"un","x":8,"y":66,"w":26,"h":17},
+      {"n":"Cachaça Matuta 350ml (Lata - Sabores)","p":"10,99","u":"un","x":38,"y":66,"w":26,"h":17},
+      {"n":"Cerveja Eisenbahn 350ml (Sleek - Pilsen)","p":"3,79","u":"un","x":68,"y":66,"w":26,"h":17},
+      {"n":"Cerveja Heineken 600ml","p":"11,99","u":"un","x":8,"y":83,"w":26,"h":15},
+      {"n":"Cerveja Heineken 330ml (Long Neck - Tradicional/Zero)","p":"5,99","u":"un","x":38,"y":83,"w":26,"h":15},
+      {"n":"Vodka Absolut 1L","p":"89,90","u":"un","x":68,"y":83,"w":26,"h":15}
+    ],
+    "story_redesuper.show_3959892430232708906": [
+      {"n":"Gin Beefeater London 750ml","p":"89,90","u":"un","x":8,"y":26,"w":26,"h":17},
+      {"n":"Whisky Ballantines Finest 750ml","p":"49,90","u":"un","x":38,"y":26,"w":26,"h":17},
+      {"n":"Whisky Chivas Regal 1L (12 Anos)","p":"99,90","u":"un","x":68,"y":26,"w":26,"h":17},
+      {"n":"Whisky Jameson 750ml","p":"79,90","u":"un","x":8,"y":46,"w":26,"h":17},
+      {"n":"Whisky Johnnie Walker Red Label 750ml","p":"54,90","u":"un","x":38,"y":46,"w":26,"h":17},
+      {"n":"Vodka Smirnoff Ice 275ml (Sabores)","p":"7,49","u":"un","x":68,"y":46,"w":26,"h":17},
+      {"n":"Sandália Rider Street (Adulto)","p":"29,99","u":"un","x":8,"y":66,"w":26,"h":17},
+      {"n":"Desodorante Aerosol Nivea 150ml (Fragrâncias)","p":"11,99","u":"un","x":38,"y":66,"w":26,"h":17},
+      {"n":"Espuma de Barbear Nivea For Men 200ml (Hidra/Sensitive)","p":"33,99","u":"un","x":68,"y":66,"w":26,"h":17},
+      {"n":"Creme de Barbear Nivea 65g (Original/Sensitive)","p":"16,99","u":"un","x":8,"y":84,"w":26,"h":15},
+      {"n":"Aparelho de Barbear Bic C/4 (Emb. Promocional - Normal/Sensitive)","p":"16,99","u":"un","x":38,"y":84,"w":26,"h":15},
+      {"n":"Shampoo Anticaspa Clear 400g (Emb. Promocional - Fragrâncias)","p":"28,99","u":"un","x":68,"y":84,"w":26,"h":15}
+    ],
+    "story_redesuper.show_3959892721968209451": [],
+    "story_redesuper.show_3959892818974045820": [],
+    "story_redesuper.show_3959893104156515889": [],
+    "story_redesuper.show_3960201686631316100": [],
+    "story_redesuper.show_3960202373443117936": [
+      {"n":"Coxas de Frango Sadia 1kg (IQF - Congeladas)","p":"11,99","u":"un (válido 10 a 17/08)","x":12,"y":40,"w":22,"h":9},
+      {"n":"Batata Pré-Frita Easychef 2kg (Tradicional - Congelada)","p":"18,99","u":"un (válido 10 a 17/08)","x":38,"y":40,"w":22,"h":9},
+      {"n":"Filezinho de Frango Sassami Sadia 1kg (Bandeja)","p":"17,99","u":"un (válido 10 a 17/08)","x":62,"y":40,"w":24,"h":9},
+      {"n":"Leite em Pó Ninho 575g (Sachê - Integral/Instantâneo)","p":"25,99","u":"un (válido 10 a 17/08)","x":10,"y":50,"w":20,"h":9},
+      {"n":"Creme de Leite Piracanjuba 200g","p":"2,49","u":"un (válido 10 a 17/08)","x":32,"y":50,"w":20,"h":9},
+      {"n":"Café Santa Clara 250g (Extraforte - Almofada/A Vácuo)","p":"11,99","u":"un (válido 10 a 17/08)","x":54,"y":50,"w":20,"h":9},
+      {"n":"Óleo de Soja Soya 900ml","p":"7,99","u":"un (válido 10 a 17/08)","x":76,"y":50,"w":18,"h":9},
+      {"n":"Arroz Tio Manoel 1kg (Parboilizado)","p":"3,29","u":"un (válido 10 a 17/08)","x":10,"y":60,"w":20,"h":9},
+      {"n":"Feijão Precioso 1kg (Carioca)","p":"7,99","u":"un (válido 10 a 17/08)","x":32,"y":60,"w":20,"h":9},
+      {"n":"Massa Yara 400g (Espaguete)","p":"1,89","u":"un (válido 10 a 17/08)","x":54,"y":60,"w":20,"h":9},
+      {"n":"Flocão de Milho São Braz 500g","p":"1,39","u":"un (válido 10 a 17/08)","x":76,"y":60,"w":18,"h":9},
+      {"n":"Fraldas Descartáveis Personal Baby Proteção Total Pants (Tamanhos)","p":"27,99","u":"un (válido 10 a 17/08)","x":10,"y":70,"w":20,"h":9},
+      {"n":"Desodorante Aerossol Herbíssimo 150ml (Fragrâncias)","p":"6,99","u":"un (válido 10 a 17/08)","x":32,"y":70,"w":20,"h":9},
+      {"n":"Desinfetante Becker 3L (Fragrâncias)","p":"9,59","u":"un (válido 10 a 17/08)","x":54,"y":70,"w":20,"h":9},
+      {"n":"Lava Roupas Alice 3L (Fragrâncias)","p":"10,99","u":"un (válido 10 a 17/08)","x":76,"y":70,"w":18,"h":9}
+    ],
+    "story_redesuper.show_3960202611637824686": []
+  }
+}

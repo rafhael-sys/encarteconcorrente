@@ -1,0 +1,252 @@
+[
+ {
+  "k": "refrigerante guarana antarctica ou pepsi 1l || refrigerante guarana antarctica zero pet com 1l",
+  "a": "Refrigerante Guarana Antarctica ou Pepsi 1L",
+  "b": "Refrigerante Guaraná Antarctica Zero Pet com 1L",
+  "foto_a": {
+   "imagem": "data/pages/Dai-VTgHzTC_p1.jpg",
+   "nome_impresso": "Refrigerante Guarana Antarctica ou Pepsi 1L",
+   "regiao_pct": {
+    "x": 78,
+    "y": 71,
+    "w": 20,
+    "h": 14
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_49a1847c67_p2.jpg",
+   "nome_impresso": "Refrigerante Guaraná Antarctica Zero Pet com 1L",
+   "regiao_pct": {
+    "x": 3,
+    "y": 37,
+    "w": 30,
+    "h": 11
+   }
+  }
+ },
+ {
+  "k": "bebida mista mixed schweppes 269ml (sabores) || bebida mista schweppes lata 269ml (sabores)",
+  "a": "Bebida Mista Mixed Schweppes 269ml (Sabores)",
+  "b": "Bebida Mista Schweppes Lata 269ml (sabores)",
+  "foto_a": {
+   "imagem": "data/pages/DbJsAc2D4WX_p1.jpg",
+   "nome_impresso": "Bebida Mista Mixed Schweppes 269ml (Sabores)",
+   "regiao_pct": {
+    "x": 72,
+    "y": 72,
+    "w": 15,
+    "h": 7
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_queirozatacadaonatal__3958582139535482656.jpg",
+   "nome_impresso": "Bebida Mista Schweppes Lata 269ml (sabores)",
+   "regiao_pct": {
+    "x": 17,
+    "y": 52,
+    "w": 70,
+    "h": 32
+   }
+  }
+ },
+ {
+  "k": "pao de forma center massas integral 400g || pao de forma center massas tradicional 400g",
+  "a": "Pão de Forma Center Massas Tradicional 400g",
+  "b": "Pão de Forma Center Massas Integral 400G",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DagmaEAG6yg_p1.jpg",
+   "nome_impresso": "Pão de Forma Center Massas Tradicional 400g",
+   "regiao_pct": {
+    "x": 3,
+    "y": 56,
+    "w": 20,
+    "h": 18
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbosqDEG413_p1.jpg",
+   "nome_impresso": "Pão de Forma Center Massas Integral 400G",
+   "regiao_pct": {
+    "x": 47,
+    "y": 52,
+    "w": 24,
+    "h": 21
+   }
+  }
+ },
+ {
+  "k": "molho de tomate palmeiron tradicional sc 300g || molho de tomate pomodoro tradicional pct 300g",
+  "a": "Molho de Tomate Palmeiron Tradicional SC 300g",
+  "b": "Molho de Tomate Pomodoro Tradicional pct 300g",
+  "foto_a": {
+   "imagem": "data/pages/story_marvermelhoatacado_3942838892400175679.jpg",
+   "nome_impresso": "Molho de Tomate Palmeiron Tradicional SC 300g",
+   "regiao_pct": {
+    "x": 26.0,
+    "y": 60.5,
+    "w": 24.0,
+    "h": 11.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dbk9GgejsLQ_p1.jpg",
+   "nome_impresso": "Molho de Tomate Pomodoro Tradicional pct 300g",
+   "regiao_pct": {
+    "x": 57,
+    "y": 27,
+    "w": 20,
+    "h": 16
+   }
+  }
+ },
+ {
+  "k": "leite fermentado activia danone tb 800g || leite fermentado activia danone tradicional tb 800g",
+  "a": "Leite Fermentado Activia Danone Tb 800g",
+  "b": "Leite Fermentado Activia Danone Tradicional tb 800g",
+  "foto_a": {
+   "imagem": "data/pages/DadzqY0mMeB_p7.jpg",
+   "nome_impresso": "Leite Fermentado Activia Danone Tb 800g",
+   "regiao_pct": {
+    "x": 32,
+    "y": 46,
+    "w": 16,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DboglVNGD1V_p7.jpg",
+   "nome_impresso": "Leite Fermentado Activia Danone Tradicional tb 800g",
+   "regiao_pct": {
+    "x": 43,
+    "y": 29,
+    "w": 16,
+    "h": 14
+   }
+  }
+ },
+ {
+  "k": "fiambre fatiado perdigao resfriado || fiambre perdigao resfriado",
+  "a": "Fiambre Fatiado Perdigão Resfriado",
+  "b": "Fiambre Perdigão Resfriado",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_c6ee6b1c8c_p1.jpg",
+   "nome_impresso": "Fiambre Fatiado Perdigão Resfriado",
+   "regiao_pct": {
+    "x": 3,
+    "y": 54,
+    "w": 48,
+    "h": 12
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_0a46e4b82c_p1.jpg",
+   "nome_impresso": "Fiambre Perdigão Resfriado",
+   "regiao_pct": {
+    "x": 22,
+    "y": 52,
+    "w": 18,
+    "h": 17
+   }
+  }
+ },
+ {
+  "k": "leite em po instantaneo integral betania sache 750g || leite em po integral betania sache 750g",
+  "a": "Leite em Pó Instantâneo Integral Betânia Sachê 750g",
+  "b": "Leite em Pó Integral Betânia Sachê 750g",
+  "foto_a": {
+   "imagem": "data/pages/DbZPq9PDV7g_p3.jpg",
+   "nome_impresso": "Leite em Pó Instantâneo Integral Betânia Sachê 750g",
+   "regiao_pct": {
+    "x": 55,
+    "y": 65,
+    "w": 42,
+    "h": 28
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_cortefacil.atacarejo_3953985420098905993.jpg",
+   "nome_impresso": "Leite em Pó Integral Betânia Sachê 750g",
+   "regiao_pct": {
+    "x": 78,
+    "y": 93,
+    "w": 20,
+    "h": 12
+   }
+  }
+ },
+ {
+  "k": "leite em po integral betania sache 750g || leite em po integral nestle ninho sache 750g",
+  "a": "Leite em Po Integral Nestle Ninho Sache 750g",
+  "b": "Leite em Pó Integral Betânia Sachê 750g",
+  "foto_a": {
+   "imagem": "data/pages/story_levamaismacau_3950488967170241223.jpg",
+   "nome_impresso": "Leite em Po Integral Nestle Ninho Sache 750g",
+   "regiao_pct": {
+    "x": 10,
+    "y": 25,
+    "w": 80,
+    "h": 60
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_cortefacil.atacarejo_3953985420098905993.jpg",
+   "nome_impresso": "Leite em Pó Integral Betânia Sachê 750g",
+   "regiao_pct": {
+    "x": 78,
+    "y": 93,
+    "w": 20,
+    "h": 12
+   }
+  }
+ },
+ {
+  "k": "biscoito recheado mamma mia capricche 93,3g || biscoito recheado mammamia sabores 93,3g",
+  "a": "Biscoito Recheado Mammamia Sabores 93,3g",
+  "b": "Biscoito Recheado Mamma Mia Capricche 93,3g",
+  "foto_a": {
+   "imagem": "data/pages/Day2E6Tm6Jb_p5.jpg",
+   "nome_impresso": "Biscoito Recheado Mammamia Sabores 93,3g",
+   "regiao_pct": {
+    "x": 4,
+    "y": 28,
+    "w": 88,
+    "h": 58
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_marvermelhoatacado_3941933629349914817.jpg",
+   "nome_impresso": "Biscoito Recheado Mamma Mia Capricche 93,3g",
+   "regiao_pct": {
+    "x": 25,
+    "y": 35,
+    "w": 65,
+    "h": 55
+   }
+  }
+ },
+ {
+  "k": "cappuccino 3 coracoes 150g || cappuccino 3 coracoes diet pt 150g",
+  "a": "Cappuccino 3 Corações 150g",
+  "b": "Cappuccino 3 Corações Diet PT 150g",
+  "foto_a": {
+   "imagem": "data/pages/story_marvermelhoatacado_3939666994594034245.jpg",
+   "nome_impresso": "Cappuccino 3 Corações 150g",
+   "regiao_pct": {
+    "x": 63,
+    "y": 53,
+    "w": 15,
+    "h": 5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_marvermelhoatacado_3941116545972508266.jpg",
+   "nome_impresso": "Cappuccino 3 Corações Diet PT 150g",
+   "regiao_pct": {
+    "x": 52,
+    "y": 37,
+    "w": 23,
+    "h": 15
+   }
+  }
+ }
+]

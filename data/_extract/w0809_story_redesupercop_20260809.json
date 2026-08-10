@@ -1,0 +1,38 @@
+{
+  "shortcode": "story_redesupercop_20260809",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-06",
+  "fim": "2026-08-10",
+  "titulo": "Rede Supercop — Sempre ao Seu Lado (Dia dos Pais)",
+  "pages": {
+    "story_redesupercop_3959831555905384201": [
+      {"n":"Carne Suína Temperada Suínos Jucurutu","p":"23,99","u":"kg","x":6,"y":47,"w":48,"h":22},
+      {"n":"Lombo Suíno Suínos Jucurutu","p":"23,99","u":"kg","x":6,"y":75,"w":88,"h":22}
+    ],
+    "story_redesupercop_3959831604072745085": [
+      {"n":"Linguiça para Churrasco Suínos Jucurutu","p":"18,99","u":"kg","x":6,"y":37,"w":88,"h":25},
+      {"n":"Linguiça Calabresa Suínos Jucurutu","p":"23,99","u":"kg","x":6,"y":63,"w":88,"h":25}
+    ],
+    "story_redesupercop_3959831653389421695": [
+      {"n":"Mistura para Bolo São Braz 400g (sabores)","p":"6,99","u":"cada","x":6,"y":34,"w":88,"h":26},
+      {"n":"Café Blend 53 Almofada ou a Vácuo 250g (tipos)","p":"11,99","u":"cada","x":6,"y":62,"w":88,"h":28}
+    ],
+    "story_redesupercop_3959831699266701872": [
+      {"n":"Biscoito Cream Cracker Estrela (tradicional ou água e sal) 350g","p":"4,49","u":"cada","x":6,"y":31,"w":88,"h":28},
+      {"n":"Biscoito Maria ou Maizena Estrela Tradicional 307g","p":"4,49","u":"cada","x":6,"y":63,"w":88,"h":27}
+    ],
+    "story_redesupercop_3959831747325013653": [
+      {"n":"Café Santa Clara Extraforte Almofada ou a Vácuo 250g","p":"11,99","u":"cada","x":6,"y":33,"w":88,"h":28},
+      {"n":"Flocão de Milho Dona Clara 500g","p":"1,49","u":"cada","x":6,"y":63,"w":88,"h":27}
+    ],
+    "story_redesupercop_3959831799535737282": [
+      {"n":"Pão de Forma Tradicional Bauducco 390g","p":"7,29","u":"cada","x":6,"y":33,"w":88,"h":27},
+      {"n":"Pão de Forma Integral Bauducco 390g","p":"8,39","u":"cada","x":6,"y":62,"w":88,"h":28}
+    ],
+    "story_redesupercop_3959831847552141119": [
+      {"n":"Água Sanitária Dragão 1L","p":"2,09","u":"cada","x":6,"y":33,"w":88,"h":27},
+      {"n":"Lava Roupas em Pó Bem-te-vi 400g (fragrâncias)","p":"2,89","u":"cada","x":6,"y":62,"w":88,"h":28}
+    ]
+  }
+}

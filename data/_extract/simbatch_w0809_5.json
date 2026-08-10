@@ -1,0 +1,252 @@
+[
+ {
+  "k": "molho de tomate palmeiron tradicional sc 300g || molho de tomate quero tradicional 300g",
+  "a": "Molho de Tomate Palmeiron Tradicional SC 300g",
+  "b": "Molho de Tomate Quero Tradicional 300g",
+  "foto_a": {
+   "imagem": "data/pages/story_marvermelhoatacado_3942838892400175679.jpg",
+   "nome_impresso": "Molho de Tomate Palmeiron Tradicional SC 300g",
+   "regiao_pct": {
+    "x": 26.0,
+    "y": 60.5,
+    "w": 24.0,
+    "h": 11.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/nosso_92f715a5f7_p3.jpg",
+   "nome_impresso": "Molho de Tomate Quero Tradicional 300g",
+   "regiao_pct": {
+    "x": 46,
+    "y": 58,
+    "w": 15,
+    "h": 7
+   }
+  }
+ },
+ {
+  "k": "fralda desc. mamypoko jumbo || fralda descartavel mamypoko jumbo",
+  "a": "Fralda Desc. Mamypoko Jumbo",
+  "b": "Fralda Descartável Mamypoko Jumbo",
+  "foto_a": {
+   "imagem": "data/pages/story_cortefacil.atacarejo_3952536080557331180.jpg",
+   "nome_impresso": "Fralda Desc. Mamypoko Jumbo",
+   "regiao_pct": {
+    "x": 50,
+    "y": 67,
+    "w": 22,
+    "h": 8
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_cortefacil.atacarejo_3953260782184415357.jpg",
+   "nome_impresso": "Fralda Descartável Mamypoko Jumbo",
+   "regiao_pct": {
+    "x": 52,
+    "y": 68,
+    "w": 23,
+    "h": 9
+   }
+  }
+ },
+ {
+  "k": "suco de uva integral oq 1l || suco de uva integral oq garrafa 1l",
+  "a": "Suco de Uva Integral OQ 1L",
+  "b": "Suco de Uva Integral OQ garrafa 1L",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/rm_copa_jun_p4.jpg",
+   "nome_impresso": "Suco Integral de Uva OQ 1L",
+   "regiao_pct": {
+    "x": 8.5,
+    "y": 64.5,
+    "w": 17.5,
+    "h": 12.3
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbZDJeumHPP_p2.jpg",
+   "nome_impresso": "Suco de Uva Integral OQ garrafa 1L",
+   "regiao_pct": {
+    "x": 74,
+    "y": 40,
+    "w": 24,
+    "h": 12
+   }
+  }
+ },
+ {
+  "k": "fralda descartavel pants protecao acolchoada huggies || fralda descartavel pants protecao acolchoada huggies pacote/tamanhos",
+  "a": "Fralda Descartável Pants Proteção Acolchoada Huggies Pacote/Tamanhos",
+  "b": "Fralda Descartável Pants Proteção Acolchoada Huggies",
+  "foto_a": {
+   "imagem": "data/pages/assai_168663-572_p2.jpg",
+   "nome_impresso": "Fralda Descartável Pants Proteção Acolchoada Huggies Pacote/Tamanhos",
+   "regiao_pct": {
+    "x": 13,
+    "y": 82,
+    "w": 15,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_169498-572_p2.jpg",
+   "nome_impresso": "Fralda Descartável Pants Proteção Acolchoada Huggies",
+   "regiao_pct": {
+    "x": 5,
+    "y": 63,
+    "w": 15,
+    "h": 16
+   }
+  }
+ },
+ {
+  "k": "macarrao comum alianca espaguete pacote 400g || macarrao comum lili espaguete fino pacote 400g",
+  "a": "Macarrão Comum Lili Espaguete Fino Pacote 400g",
+  "b": "Macarrão Comum Aliança Espaguete Pacote 400g",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_3b9105b675_p1.jpg",
+   "nome_impresso": "Macarrão Comum Lili Espaguete Fino Pacote 400g",
+   "regiao_pct": {
+    "x": 6,
+    "y": 64,
+    "w": 17,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_806f2b524a_p3.jpg",
+   "nome_impresso": "Macarrão Comum Aliança Espaguete Pacote 400g",
+   "regiao_pct": {
+    "x": 24,
+    "y": 48,
+    "w": 15,
+    "h": 13
+   }
+  }
+ },
+ {
+  "k": "cachaca matuta balsamo/umburana 1l || cachaca matuta umburana 1l",
+  "a": "Cachaça Matuta Umburana 1L",
+  "b": "Cachaça Matuta Bálsamo/Umburana 1L",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/mv_julho_p3.jpg",
+   "nome_impresso": "Cachaça Matuta Umburana 1L",
+   "regiao_pct": {
+    "x": 21.0,
+    "y": 1.5,
+    "w": 19.5,
+    "h": 19.0
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/nosso_92f715a5f7_p4.jpg",
+   "nome_impresso": "Cachaça Matuta Bálsamo/Umburana 1L",
+   "regiao_pct": {
+    "x": 60,
+    "y": 58,
+    "w": 12,
+    "h": 5
+   }
+  }
+ },
+ {
+  "k": "folha de aluminio globopack 30cm x 7,5m rolo || folha de aluminio wyda 30cm x 7,5m rolo",
+  "a": "Folha de Alumínio Wyda 30cm x 7,5m Rolo",
+  "b": "Folha de Alumínio Globopack 30cm x 7,5m Rolo",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_4e474d2e42_p3.jpg",
+   "nome_impresso": "Folha de Alumínio Wyda 30cm x 7,5m Rolo",
+   "regiao_pct": {
+    "x": 22,
+    "y": 58,
+    "w": 15,
+    "h": 22
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_505d274908_p5.jpg",
+   "nome_impresso": "Folha de Alumínio Globopack 30cm x 7,5m Rolo",
+   "regiao_pct": {
+    "x": 22,
+    "y": 91,
+    "w": 18,
+    "h": 8
+   }
+  }
+ },
+ {
+  "k": "carne bovina acem com osso reserva resfriada || carne bovina com osso paleta reserva resfriada",
+  "a": "Carne Bovina Acém com Osso Reserva Resfriada",
+  "b": "Carne Bovina com Osso Paleta Reserva Resfriada",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_2d62393087_p1.jpg",
+   "nome_impresso": "Carne Bovina Acém com Osso Reserva Resfriada",
+   "regiao_pct": {
+    "x": 5,
+    "y": 46,
+    "w": 45,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_2d62393087_p1.jpg",
+   "nome_impresso": "Carne Bovina com Osso Paleta Reserva Resfriada",
+   "regiao_pct": {
+    "x": 50,
+    "y": 70,
+    "w": 48,
+    "h": 10
+   }
+  }
+ },
+ {
+  "k": "whisky old parr 12 anos 1l || whisky old parr 12 anos garrafa 1l",
+  "a": "Whisky Old Parr 12 Anos 1L",
+  "b": "Whisky Old Parr 12 Anos garrafa 1L",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/fav_reinaug_p1.jpg",
+   "nome_impresso": "Whisky Old Parr 12 Anos 1L",
+   "regiao_pct": {
+    "x": 67.1,
+    "y": 58.7,
+    "w": 14,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DbZDJeumHPP_p2.jpg",
+   "nome_impresso": "Whisky Old Parr 12 Anos garrafa 1L",
+   "regiao_pct": {
+    "x": 26,
+    "y": 54,
+    "w": 22,
+    "h": 13
+   }
+  }
+ },
+ {
+  "k": "cerv budweiser sleek 350ml || cerveja budweiser sleek lata 350ml",
+  "a": "Cerveja Budweiser Sleek Lata 350ml",
+  "b": "CERV BUDWEISER SLEEK 350ML",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/rss_diashow_p6.jpg",
+   "nome_impresso": "Cerveja Budweiser 350ml (Sleek)",
+   "regiao_pct": {
+    "x": 2,
+    "y": 0,
+    "w": 96,
+    "h": 99
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/story_favoritosuper_3954260437332390308.jpg",
+   "nome_impresso": "CERV BUDWEISER SLEEK 350ML",
+   "regiao_pct": {
+    "x": 30,
+    "y": 45,
+    "w": 30,
+    "h": 18
+   }
+  }
+ }
+]

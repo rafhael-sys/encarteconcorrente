@@ -1,0 +1,46 @@
+{
+  "shortcode": "Db1ya9vG_5h",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-10",
+  "fim": "2026-09-06",
+  "titulo": "Mar Vermelho Atacado - Festival da Casa",
+  "pages": {
+    "Db1ya9vG_5h_p1": [
+      {"n":"Açucareiro Soho Cristal Eco VD 360ml","p":"16,99","u":"cada","x":3,"y":38,"w":21,"h":26},
+      {"n":"Bowl Mere Quadrado VD 125ml","p":"3,19","u":"cada","x":26,"y":38,"w":21,"h":26},
+      {"n":"Centro de Mesa Karnak VD 26cm","p":"21,99","u":"cada","x":50,"y":38,"w":21,"h":26},
+      {"n":"Copo Alto Casablanca VD 355ml","p":"5,49","u":"cada","x":74,"y":38,"w":23,"h":26},
+      {"n":"Copo Casablanca VD 415ml","p":"6,98","u":"cada","x":3,"y":63,"w":21,"h":20},
+      {"n":"Copo Dia a Dia Fumê 400ml","p":"8,39","u":"cada","x":26,"y":63,"w":21,"h":20},
+      {"n":"Ramequim Blanc New Bone 140ml","p":"7,59","u":"cada (exceto Parnamirim)","x":50,"y":61,"w":21,"h":22},
+      {"n":"Pote Hermético Drop com Medidor Branco 1,5L","p":"35,99","u":"cada","x":74,"y":63,"w":23,"h":20},
+      {"n":"Porta Frios Clear","p":"21,99","u":"cada","x":3,"y":84,"w":21,"h":15},
+      {"n":"Organizador de Ovos Clear Fresh","p":"38,98","u":"cada","x":26,"y":84,"w":21,"h":15},
+      {"n":"Bule Ramos Nº 2 unid","p":"45,98","u":"cada","x":50,"y":84,"w":21,"h":15},
+      {"n":"Caçarola Ramos Nº 22 Polida unid","p":"66,99","u":"cada","x":74,"y":84,"w":23,"h":15}
+    ],
+    "Db1ya9vG_5h_p2": [
+      {"n":"Cafeteira Ramos Nº 2 unid","p":"54,99","u":"cada","x":3,"y":4,"w":21,"h":16},
+      {"n":"Frigideira Brinox Omeleteira 16cm","p":"48,98","u":"cada (exceto Parnamirim)","x":26,"y":4,"w":21,"h":16},
+      {"n":"Conjunto de Potes Sanremo 800ml 3 unids","p":"12,99","u":"cada","x":50,"y":4,"w":21,"h":16},
+      {"n":"Frigideira Brinox Garlic Vermelho 20cm","p":"32,99","u":"cada","x":74,"y":4,"w":23,"h":16},
+      {"n":"Porta Frios Duplo Clear Antina BF","p":"29,98","u":"cada","x":3,"y":24,"w":21,"h":18},
+      {"n":"Garrafa Térmica Termolar Rosa Mini 300ml","p":"32,99","u":"cada","x":26,"y":24,"w":21,"h":18},
+      {"n":"Garrafa Térmica Lumina Termolar Inox Preto 1,18L","p":"124,99","u":"cada","x":50,"y":24,"w":21,"h":18},
+      {"n":"Filme PVC Bompack 28x15cm unid","p":"3,99","u":"cada","x":74,"y":24,"w":23,"h":18},
+      {"n":"Papel Alumínio Bompack 30x4cm unid","p":"3,09","u":"cada","x":3,"y":45,"w":21,"h":18},
+      {"n":"Mop 360° Simplus com Cesto 8L","p":"39,98","u":"cada","x":26,"y":45,"w":21,"h":18},
+      {"n":"Vassoura Brilhus Multiuso com Cabo","p":"10,89","u":"cada","x":50,"y":45,"w":21,"h":18},
+      {"n":"Rodo Multilar 60cm sem Cabo unid","p":"7,69","u":"cada","x":74,"y":45,"w":23,"h":18},
+      {"n":"Pá Noviça Coletora com Cabo Tiffany unid","p":"29,98","u":"cada","x":3,"y":65,"w":21,"h":17},
+      {"n":"Mop Noviça Limpa Spray Fit unid","p":"65,99","u":"cada","x":26,"y":65,"w":21,"h":17},
+      {"n":"Vela Luz da Vida Litúrgica Branca 7 Dias und","p":"7,39","u":"cada","x":50,"y":65,"w":21,"h":17},
+      {"n":"Prendedor de Plástico Esfrebom 12 unids","p":"11,99","u":"cada","x":74,"y":65,"w":23,"h":17},
+      {"n":"Ração Pedigree ou Whiskas 280g/290g","p":"6,79","u":"cada","x":3,"y":84,"w":21,"h":15},
+      {"n":"Ração Filhote TuttiCanis Premium 900g","p":"8,29","u":"cada","x":26,"y":84,"w":21,"h":15},
+      {"n":"Ração para Gatos TuttiCatis Castrados 10,1kg","p":"89,98","u":"cada","x":50,"y":84,"w":21,"h":15},
+      {"n":"Ração para Gatos TuttiCatis Mix sem Corante 500g","p":"6,29","u":"cada","x":74,"y":84,"w":23,"h":15}
+    ]
+  }
+}

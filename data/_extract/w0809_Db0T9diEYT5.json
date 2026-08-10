@@ -1,0 +1,41 @@
+{
+  "shortcode": "Db0T9diEYT5",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": null,
+  "fim": "2026-08-09",
+  "titulo": "Favorito - Faz o Pix Favorito (quem faz o pix paga menos)",
+  "pages": {
+    "Db0T9diEYT5_p1": [
+      {"n": "Flocão de Milho Gostosin 400g", "p": "0,89", "u": "un (pix/dinheiro)", "x": 41, "y": 40, "w": 25, "h": 25}
+    ],
+    "Db0T9diEYT5_p2": [
+      {"n": "Goma de Mandioca Kumê 1kg", "p": "3,99", "u": "un (pix/dinheiro)", "x": 15, "y": 20, "w": 33, "h": 36}
+    ],
+    "Db0T9diEYT5_p3": [
+      {"n": "Ovo Branco São José C/30 Grande", "p": "12,49", "u": "cartela 30 un (pix/dinheiro)", "x": 28, "y": 47, "w": 45, "h": 39}
+    ],
+    "Db0T9diEYT5_p4": [
+      {"n": "Cebola Branca", "p": "5,79", "u": "kg (pix/dinheiro)", "x": 26, "y": 41, "w": 47, "h": 40}
+    ],
+    "Db0T9diEYT5_p5": [
+      {"n": "Batata Inglesa", "p": "4,99", "u": "kg (pix/dinheiro)", "x": 25, "y": 42, "w": 49, "h": 43}
+    ],
+    "Db0T9diEYT5_p6": [
+      {"n": "Macaxeira Congelada Raiz 1kg", "p": "7,49", "u": "un (pix/dinheiro)", "x": 19, "y": 6, "w": 48, "h": 48}
+    ],
+    "Db0T9diEYT5_p7": [
+      {"n": "Filé de Peito de Frango Envelopado", "p": "13,79", "u": "kg (pix/dinheiro)", "x": 27, "y": 5, "w": 45, "h": 48}
+    ],
+    "Db0T9diEYT5_p8": [
+      {"n": "Hambúrguer Friboi 56g", "p": "0,89", "u": "un (pix/dinheiro)", "x": 16, "y": 25, "w": 30, "h": 32},
+      {"n": "Hambúrguer Chuletão Misto 56g", "p": "0,79", "u": "un (pix/dinheiro)", "x": 62, "y": 28, "w": 27, "h": 26}
+    ],
+    "Db0T9diEYT5_p9": [
+      {"n": "Hambúrguer Maturatta 180g", "p": "7,49", "u": "un (pix/dinheiro)", "x": 19, "y": 16, "w": 44, "h": 46}
+    ],
+    "Db0T9diEYT5_p10": [
+      {"n": "Filé de Peito Lar 1kg Cong. Bandeja ou Filezinho Sassami Lar 1kg Cong. Bandeja", "p": "15,99", "u": "un (pix/dinheiro)", "x": 29, "y": 11, "w": 44, "h": 46}
+    ]
+  }
+}

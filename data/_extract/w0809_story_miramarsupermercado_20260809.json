@@ -1,0 +1,94 @@
+{
+  "shortcode": "story_miramarsupermercado_20260809",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": null,
+  "fim": null,
+  "titulo": "Miramar Supermercado — Dia dos Pais, Vinhos e Ofertas (story)",
+  "pages": {
+    "story_miramarsupermercado_3959860570002543176": [
+      {"n":"Espuma de Barbear Nivea Tipos 200ml","p":"31,99","u":"cada","x":2,"y":30,"w":22,"h":9},
+      {"n":"Aparelho de Barbear Gillette (Leve 4 Pague 3)","p":"31,99","u":"pacote","x":26,"y":30,"w":22,"h":9},
+      {"n":"Shampoo Anticaspa Head & Shoulders Fragrâncias 400ml","p":"28,99","u":"cada","x":50,"y":30,"w":23,"h":9},
+      {"n":"Creme de Barbear Bozzano Fragrâncias 65g","p":"8,99","u":"cada","x":74,"y":30,"w":24,"h":9},
+      {"n":"Desodorante Aerossol Bozzano ou Monange Fragrâncias 150ml","p":"8,49","u":"cada","x":2,"y":40,"w":22,"h":11},
+      {"n":"Carga Gillette Mach3 com 2 Unidades","p":"25,99","u":"pacote","x":26,"y":40,"w":22,"h":11},
+      {"n":"Desodorante Aerossol Rexona Clinical Fragrâncias 150ml","p":"18,99","u":"cada","x":50,"y":40,"w":23,"h":11},
+      {"n":"Sabonete Protex Men Fragrâncias 85g","p":"2,89","u":"cada","x":74,"y":40,"w":24,"h":11},
+      {"n":"Sandálias Masculinas Havaianas Top Max Confort Tamanhos","p":"49,99","u":"par no app","x":2,"y":55,"w":22,"h":14},
+      {"n":"Sandálias Masculinas Cartago Montreal Tamanhos","p":"41,99","u":"par","x":26,"y":55,"w":22,"h":14},
+      {"n":"Whisky Johnnie Walker Red Label 1L","p":"74,90","u":"cada no app","x":50,"y":55,"w":23,"h":14},
+      {"n":"Cerveja Heineken Chopp Premium 5L (barril)","p":"109,99","u":"barril","x":74,"y":55,"w":24,"h":14},
+      {"n":"Cerveja Amstel Lager Puro Malte 350ml","p":"3,29","u":"cada","x":8,"y":73,"w":22,"h":14},
+      {"n":"Cachaça Matuta Fire Fresh, Banana e Green Apple e Mel 1L","p":"48,99","u":"cada no app","x":36,"y":73,"w":26,"h":15},
+      {"n":"Vinho Chilano Sabores 750ml","p":"22,99","u":"cada no app","x":62,"y":73,"w":26,"h":15}
+    ],
+    "story_miramarsupermercado_3959869517877815376": [],
+    "story_miramarsupermercado_3959923801291035135": [
+      {"n":"Espuma de Barbear Nivea Tipos 200ml","p":"31,99","u":"cada","x":2,"y":29,"w":22,"h":9},
+      {"n":"Aparelho de Barbear Gillette (Leve 4 Pague 3)","p":"31,99","u":"pacote","x":26,"y":29,"w":22,"h":9},
+      {"n":"Shampoo Anticaspa Head & Shoulders Fragrâncias 400ml","p":"28,99","u":"cada","x":50,"y":29,"w":23,"h":9},
+      {"n":"Creme de Barbear Bozzano Fragrâncias 65g","p":"8,99","u":"cada","x":74,"y":29,"w":24,"h":9},
+      {"n":"Desodorante Aerossol Bozzano ou Monange Fragrâncias 150ml","p":"8,49","u":"cada","x":2,"y":39,"w":22,"h":11},
+      {"n":"Carga Gillette Mach3 com 2 Unidades","p":"25,99","u":"pacote","x":26,"y":39,"w":22,"h":11},
+      {"n":"Desodorante Aerossol Rexona Clinical Fragrâncias 150ml","p":"18,99","u":"cada","x":50,"y":39,"w":23,"h":11},
+      {"n":"Sabonete Protex Men Fragrâncias 85g","p":"2,89","u":"cada","x":74,"y":39,"w":24,"h":11},
+      {"n":"Sandálias Masculinas Havaianas Top Max Confort Tamanhos","p":"49,99","u":"par no app","x":2,"y":54,"w":22,"h":14},
+      {"n":"Sandálias Masculinas Cartago Montreal Tamanhos","p":"41,99","u":"par","x":26,"y":54,"w":22,"h":14},
+      {"n":"Whisky Johnnie Walker Red Label 1L","p":"74,90","u":"cada no app","x":50,"y":54,"w":23,"h":14},
+      {"n":"Cerveja Heineken Chopp Premium 5L (barril)","p":"109,99","u":"barril","x":74,"y":54,"w":24,"h":14},
+      {"n":"Cerveja Amstel Lager Puro Malte 350ml","p":"3,29","u":"cada","x":2,"y":73,"w":20,"h":13},
+      {"n":"Cerveja Budweiser Multipack 12 Latas 350ml","p":"43,92","u":"pacote (cada lata 3,66)","x":24,"y":73,"w":24,"h":15},
+      {"n":"Cachaça Matuta Fire Fresh, Banana e Green Apple e Mel 1L","p":"48,99","u":"cada no app","x":50,"y":73,"w":24,"h":15},
+      {"n":"Vinho Chilano Sabores 750ml","p":"22,99","u":"cada no app","x":74,"y":73,"w":24,"h":15}
+    ],
+    "story_miramarsupermercado_3959958952460435804": [
+      {"n":"Vinho Grande Rio Suave 750ml","p":"14,99","u":"cada no app","x":3,"y":20,"w":30,"h":22},
+      {"n":"Vinho Concha y Toro Tipos 750ml","p":"39,99","u":"cada no app","x":35,"y":20,"w":30,"h":22},
+      {"n":"Vinho Cassillero del Diablo Tipos 750ml","p":"59,99","u":"cada no app","x":67,"y":20,"w":30,"h":22},
+      {"n":"Vinho Português Casal Garcia Tinto ou Branco 750ml","p":"74,99","u":"cada no app","x":3,"y":45,"w":30,"h":22},
+      {"n":"Vinho Yellow Tail Tipos 750ml","p":"49,99","u":"cada no app","x":35,"y":45,"w":30,"h":22},
+      {"n":"Vinho Cicconia Alentejo Tipos 750ml","p":"48,99","u":"cada no app","x":67,"y":45,"w":30,"h":22},
+      {"n":"Vinho Português EA Cartuxa Branco ou Tinto 750ml","p":"59,90","u":"cada no app","x":3,"y":70,"w":30,"h":22},
+      {"n":"Vinho Galiotto Tipos 2L","p":"34,90","u":"cada no app","x":35,"y":70,"w":30,"h":22},
+      {"n":"Vinho Quinta do Morgado Tipos (exceto Bordô) 750ml","p":"17,99","u":"cada no app","x":67,"y":70,"w":30,"h":22}
+    ],
+    "story_miramarsupermercado_3960025537179970742": [],
+    "story_miramarsupermercado_3960025980165502101": [],
+    "story_miramarsupermercado_3960097292200253094": [
+      {"n":"Óleo de Soja ABC 900ml","p":"7,49","u":"cada no app","x":3,"y":27,"w":45,"h":26},
+      {"n":"Carne Bovina Chã de Fora","p":"38,99","u":"kg no app","x":50,"y":27,"w":47,"h":26},
+      {"n":"Carne Bovina Patinho","p":"38,99","u":"kg no app","x":3,"y":54,"w":45,"h":26},
+      {"n":"Açúcar Alegre Triturado 1kg","p":"2,79","u":"cada no app","x":50,"y":54,"w":47,"h":26}
+    ],
+    "story_miramarsupermercado_3960097393861267324": [
+      {"n":"Fraldas Descartáveis Babysec Ultra Sequinha Shortinho Tamanhos","p":"27,99","u":"pacote no app","x":2,"y":22,"w":44,"h":28},
+      {"n":"Papel Higiênico Caprice Folha Dupla (Leve 12 Pague 11)","p":"9,99","u":"pacote no app","x":48,"y":22,"w":48,"h":28},
+      {"n":"Lava Roupas em Pó ALA Fragrâncias 400g","p":"2,69","u":"cada","x":2,"y":52,"w":45,"h":30},
+      {"n":"Água Sanitária Dragão 1L","p":"2,19","u":"cada","x":50,"y":52,"w":45,"h":30}
+    ],
+    "story_miramarsupermercado_3960097497376689147": [
+      {"n":"Batata Pré-frita Easychef Congelada Tradicional 2kg","p":"19,99","u":"cada","x":2,"y":18,"w":30,"h":16},
+      {"n":"Filezinho de Peito de Frango Perdigão 1kg","p":"17,99","u":"bandeja","x":33,"y":18,"w":32,"h":16},
+      {"n":"Salsicha Hot Dog Rara","p":"5,99","u":"kg no app","x":66,"y":18,"w":32,"h":16},
+      {"n":"Macarrão Bonsabor Spaghetti 400g","p":"1,99","u":"cada no app","x":2,"y":37,"w":30,"h":16},
+      {"n":"Farinha de Trigo Finna Tradicional 1kg","p":"3,99","u":"cada","x":33,"y":37,"w":32,"h":16},
+      {"n":"Leite UHT Parmalat Integral ou Desnatado 1L","p":"5,99","u":"cada no app","x":66,"y":37,"w":32,"h":16},
+      {"n":"Arroz Parboilizado Panelaço 1kg","p":"3,49","u":"cada","x":2,"y":58,"w":35,"h":22},
+      {"n":"Café São Braz Família Almofada ou A Vácuo 250g","p":"12,99","u":"cada no app","x":45,"y":58,"w":45,"h":22}
+    ],
+    "story_miramarsupermercado_3960185020144924559": [],
+    "story_miramarsupermercado_3960191465179342367": [
+      {"n":"Cerveja Budweiser Tradicional ou Zero 350ml","p":"3,79","u":"cada","x":5,"y":20,"w":28,"h":22},
+      {"n":"Cerveja Budweiser Multipack 12 Latas 350ml","p":"43,92","u":"pacote (cada lata 3,66)","x":33,"y":20,"w":33,"h":22},
+      {"n":"Cerveja Spaten 350ml","p":"4,49","u":"cada","x":68,"y":20,"w":28,"h":22},
+      {"n":"Cerveja Bohemia 350ml","p":"3,29","u":"cada","x":2,"y":45,"w":23,"h":20},
+      {"n":"Cerveja Michelob Ultra 350ml","p":"4,49","u":"cada","x":26,"y":45,"w":23,"h":20},
+      {"n":"Cerveja Corona Extra ou Cero Long Neck 330ml","p":"7,59","u":"cada","x":50,"y":45,"w":23,"h":20},
+      {"n":"Bebida Mista Skol Beats Long Neck Sabores 269ml","p":"7,49","u":"cada","x":74,"y":45,"w":24,"h":20},
+      {"n":"Refrigerante Pepsi 1L","p":"4,79","u":"cada","x":2,"y":70,"w":30,"h":22},
+      {"n":"Refrigerante Guaraná Antarctica Tradicional ou Zero 2L","p":"8,99","u":"cada","x":33,"y":70,"w":33,"h":22},
+      {"n":"Refrigerante Guaraná Antarctica Tradicional ou Zero 350ml","p":"2,69","u":"cada","x":68,"y":70,"w":30,"h":22}
+    ]
+  }
+}

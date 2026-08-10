@@ -17680,5 +17680,407 @@
   "b": "Creme de Leite Betânia 200g",
   "veredito": "diferente",
   "quando": "2026-08-09"
+ },
+ "file de peixe tilapia aurora congelado pacote 800g || file de peixe tilapia vitalmar congelado pacote com 800g": {
+  "a": "Filé de Peixe Tilápia Vitalmar Congelado Pacote com 800g",
+  "b": "Filé de Peixe Tilápia Aurora Congelado pacote 800g",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "bebida vegetal a tal da castanha 1l sabores || bebida vegetal tal da castanha 1l": {
+  "a": "Bebida Vegetal Tal da Castanha 1L",
+  "b": "Bebida Vegetal A Tal da Castanha 1L Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "det po ala sache 400g fragrancias || detergente em po ala sache 400g (fragrancias)": {
+  "a": "Det Pó Ala Sache 400g Fragrâncias",
+  "b": "Detergente em Pó Ala Sachê 400g (Fragrâncias)",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "vh tt chi concha y toro 750ml sabores || vinho tinto concha y toro 750ml sabores": {
+  "a": "Vinho Tinto Concha Y Toro 750ml Sabores",
+  "b": "VH TT CHI CONCHA Y TORO 750ML SABORES",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "arroz parboilizado tio manoel tipo 1 1kg || arroz parboilizado urbano tipo 1 1kg": {
+  "a": "Arroz Parboilizado Urbano Tipo 1 1kg",
+  "b": "Arroz Parboilizado Tio Manoel Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "carne bovina coxao mole || carne bovina coxao mole de sol": {
+  "a": "Carne Bovina Coxão Mole",
+  "b": "Carne Bovina Coxão Mole de Sol",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "file de peito de frango congelado || file de peito de frango congelado friato kg": {
+  "a": "Filé de Peito de Frango Congelado Friato kg",
+  "b": "Filé de Peito de Frango Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "vinho chileno chilano 750ml || vinho chileno dinamo 750ml": {
+  "a": "Vinho Chileno Dinamo 750ml",
+  "b": "Vinho Chileno Chilano 750ml",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "carne bovina patinho de sol kg || carne bovina patinho kg": {
+  "a": "Carne Bovina Patinho kg",
+  "b": "Carne Bovina Patinho de Sol Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "papel higienico caprice folha dupla leve 12 pague 11 || papel higienico noble folha dupla 20m leve 12 pague 11": {
+  "a": "Papel Higiênico Noble Folha Dupla 20m Leve 12 Pague 11",
+  "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "batata palha scrunch sao braz 500g sabores || batata palha scrusch sao braz 500g": {
+  "a": "Batata Palha Scrunch São Braz 500g Sabores",
+  "b": "Batata Palha Scrusch São Braz 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "file de peito de frango congelado || file de peito de frango jagua congelado pct": {
+  "a": "Filé de Peito de Frango Jaguá Congelado PCT",
+  "b": "Filé de Peito de Frango Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "figado bovino congelado || figado bovino friboi congelado": {
+  "a": "Fígado Bovino Friboi Congelado",
+  "b": "Fígado Bovino Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "vh tt nac collina 750ml seco ou suave || vinho tinto collina 750ml seco ou suave": {
+  "a": "Vinho Tinto Collina 750ml Seco ou Suave",
+  "b": "VH TT NAC COLLINA 750ML SECO OU SUAVE",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "refrigerante dore cola 2l || refrigerante dore pet com 2l": {
+  "a": "Refrigerante Dore Cola 2L",
+  "b": "Refrigerante Dore Pet com 2L",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "iogurte danone 160g c/proteina (sabores) || iogurte danone 160g c/proteina morango": {
+  "a": "Iogurte Danone 160g c/Proteína (sabores)",
+  "b": "Iogurte Danone 160g c/Proteína Morango",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "carne bovina coxao mole || carne bovina coxao mole friboi": {
+  "a": "Carne Bovina Coxão Mole Friboi",
+  "b": "Carne Bovina Coxão Mole",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "aperitivo bitter campari 998ml || aperitivo campari 998ml": {
+  "a": "Aperitivo Campari 998ml",
+  "b": "Aperitivo Bitter Campari 998ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "carne moida camara 500g || carne moida tubete camara 500g": {
+  "a": "Carne Moída CAMARÁ 500g",
+  "b": "Carne Moída Tubete Camará 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "papel higienico atualle neutro folha dupla 12 rolos 20m || papel higienico caprice neutro folha dupla 12 rolos": {
+  "a": "Papel Higiênico Caprice Neutro Folha Dupla 12 Rolos",
+  "b": "Papel Higiênico Atualle Neutro Folha Dupla 12 Rolos 20m",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "amaciante concentrado downy 500ml || amaciante de roupas concentrado downy 500ml": {
+  "a": "Amaciante Concentrado Downy 500ml",
+  "b": "Amaciante de Roupas Concentrado Downy 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "maionese hellmann's sache 200g || maionese hellmanns 200g": {
+  "a": "Maionese Hellmann's Sachê 200g",
+  "b": "Maionese Hellmanns 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "arroz branco tio manoel 1kg || arroz parbo tio manoel 1kg": {
+  "a": "Arroz Branco Tio Manoel 1kg",
+  "b": "Arroz Parbo Tio Manoel 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "batata palito pre-frita congelada mazid 2kg || batata palito pre-frita mazid 2kg": {
+  "a": "Batata Palito Pré-Frita Mazid 2kg",
+  "b": "Batata Palito Pré-Frita Congelada Mazid 2Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "creme para pentear hair fly ativador cachos/modelador cachos frasco com 500ml || creme para pentear hair fly ativador/modelador cachos 500ml": {
+  "a": "Creme para Pentear Hair Fly Ativador Cachos/Modelador Cachos Frasco com 500ml",
+  "b": "Creme para Pentear Hair Fly Ativador/Modelador Cachos 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "lava roupas liquido urca 3l || lava-roupas liquido omo 3l": {
+  "a": "Lava Roupas Líquido Urca 3L",
+  "b": "Lava-Roupas Líquido Omo 3L",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "carne bovina cha de dentro resfriada kg || carne bovina cha de fora resfriado kg": {
+  "a": "Carne Bovina Chã de Fora Resfriado Kg",
+  "b": "Carne Bovina Chã de Dentro Resfriada kg",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "papel higienico atualle folha dupla 20 metros pct c/12 || papel higienico mili folha tripla 20 metros pct c/12": {
+  "a": "Papel Higiênico Mili Folha Tripla 20 Metros Pct c/12",
+  "b": "Papel Higiênico Atualle Folha Dupla 20 Metros pct c/12",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "papel toalha felita home 2 rolos || papel toalha felita home c/2": {
+  "a": "Papel Toalha Felitá Home C/2",
+  "b": "Papel Toalha Felitá Home 2 rolos",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "refrigerante guarana antarctica ou pepsi 1l || refrigerante guarana antarctica zero pet com 1l": {
+  "a": "Refrigerante Guarana Antarctica ou Pepsi 1L",
+  "b": "Refrigerante Guaraná Antarctica Zero Pet com 1L",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "bebida mista mixed schweppes 269ml (sabores) || bebida mista schweppes lata 269ml (sabores)": {
+  "a": "Bebida Mista Mixed Schweppes 269ml (Sabores)",
+  "b": "Bebida Mista Schweppes Lata 269ml (sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "pao de forma center massas integral 400g || pao de forma center massas tradicional 400g": {
+  "a": "Pão de Forma Center Massas Tradicional 400g",
+  "b": "Pão de Forma Center Massas Integral 400G",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "molho de tomate palmeiron tradicional sc 300g || molho de tomate pomodoro tradicional pct 300g": {
+  "a": "Molho de Tomate Palmeiron Tradicional SC 300g",
+  "b": "Molho de Tomate Pomodoro Tradicional pct 300g",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "leite fermentado activia danone tb 800g || leite fermentado activia danone tradicional tb 800g": {
+  "a": "Leite Fermentado Activia Danone Tb 800g",
+  "b": "Leite Fermentado Activia Danone Tradicional tb 800g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "fiambre fatiado perdigao resfriado || fiambre perdigao resfriado": {
+  "a": "Fiambre Fatiado Perdigão Resfriado",
+  "b": "Fiambre Perdigão Resfriado",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "leite em po instantaneo integral betania sache 750g || leite em po integral betania sache 750g": {
+  "a": "Leite em Pó Instantâneo Integral Betânia Sachê 750g",
+  "b": "Leite em Pó Integral Betânia Sachê 750g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "leite em po integral betania sache 750g || leite em po integral nestle ninho sache 750g": {
+  "a": "Leite em Po Integral Nestle Ninho Sache 750g",
+  "b": "Leite em Pó Integral Betânia Sachê 750g",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "biscoito recheado mamma mia capricche 93,3g || biscoito recheado mammamia sabores 93,3g": {
+  "a": "Biscoito Recheado Mammamia Sabores 93,3g",
+  "b": "Biscoito Recheado Mamma Mia Capricche 93,3g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango com dorsal kg || coxa e sobrecoxa de frango lar com dorsal": {
+  "a": "Coxa com Sobrecoxa de Frango com Dorsal kg",
+  "b": "Coxa e Sobrecoxa de Frango Lar com Dorsal",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "requeijao cremoso davaca pote 200g || requeijao davaca pote 200g": {
+  "a": "Requeijão Davaca Pote 200g",
+  "b": "Requeijão Cremoso Davaca Pote 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "lava roupas liquido tanlux 3l || lava-roupas liquido absoluto! 3l": {
+  "a": "Lava-Roupas Líquido Absoluto! 3L",
+  "b": "Lava Roupas Líquido Tanlux 3L",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "morango nossa fruta congelado 1,02kg || morango nossa fruta congelado pacote com 1,02kg": {
+  "a": "Morango Nossa Fruta Congelado 1,02kg",
+  "b": "Morango Nossa Fruta Congelado Pacote com 1,02kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "queijo coalho clan tradicional || queijo coalho isis (tradicional)": {
+  "a": "Queijo Coalho Isis (Tradicional)",
+  "b": "Queijo Coalho Clan Tradicional",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "farinha de mandioca brejeira branca 1kg || farinha de mandioca brejeira fina branca pacote 1kg": {
+  "a": "Farinha de Mandioca Brejeira Branca 1kg",
+  "b": "Farinha de Mandioca Brejeira Fina Branca Pacote 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "papel higienico personal folha dupla 20m leve 12 pague 11 || papel higienico sublime folha dupla 30m leve 12 pague 11": {
+  "a": "Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11",
+  "b": "Papel Higiênico Sublime Folha Dupla 30m Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "queijo gouda fracionado regina || queijo reino fracionado regina": {
+  "a": "Queijo Gouda Fracionado Regina",
+  "b": "Queijo Reino Fracionado Regina",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "bisteca suina congelada frimesa || bisteca suina congelada sadia": {
+  "a": "Bisteca Suína Congelada Frimesa",
+  "b": "Bisteca Suína Congelada Sadia",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "cafe pilao 250g || cafe uniao 250g": {
+  "a": "Café Pilão 250g",
+  "b": "Café União 250g",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "molho de tomate palmeiron tradicional sc 300g || molho de tomate quero tradicional 300g": {
+  "a": "Molho de Tomate Palmeiron Tradicional SC 300g",
+  "b": "Molho de Tomate Quero Tradicional 300g",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "fralda desc. mamypoko jumbo || fralda descartavel mamypoko jumbo": {
+  "a": "Fralda Desc. Mamypoko Jumbo",
+  "b": "Fralda Descartável Mamypoko Jumbo",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "suco de uva integral oq 1l || suco de uva integral oq garrafa 1l": {
+  "a": "Suco de Uva Integral OQ 1L",
+  "b": "Suco de Uva Integral OQ garrafa 1L",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "fralda descartavel pants protecao acolchoada huggies || fralda descartavel pants protecao acolchoada huggies pacote/tamanhos": {
+  "a": "Fralda Descartável Pants Proteção Acolchoada Huggies Pacote/Tamanhos",
+  "b": "Fralda Descartável Pants Proteção Acolchoada Huggies",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "macarrao comum alianca espaguete pacote 400g || macarrao comum lili espaguete fino pacote 400g": {
+  "a": "Macarrão Comum Lili Espaguete Fino Pacote 400g",
+  "b": "Macarrão Comum Aliança Espaguete Pacote 400g",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "folha de aluminio globopack 30cm x 7,5m rolo || folha de aluminio wyda 30cm x 7,5m rolo": {
+  "a": "Folha de Alumínio Wyda 30cm x 7,5m Rolo",
+  "b": "Folha de Alumínio Globopack 30cm x 7,5m Rolo",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "carne bovina acem com osso reserva resfriada || carne bovina com osso paleta reserva resfriada": {
+  "a": "Carne Bovina Acém com Osso Reserva Resfriada",
+  "b": "Carne Bovina com Osso Paleta Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "whisky old parr 12 anos 1l || whisky old parr 12 anos garrafa 1l": {
+  "a": "Whisky Old Parr 12 Anos 1L",
+  "b": "Whisky Old Parr 12 Anos garrafa 1L",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "cerv budweiser sleek 350ml || cerveja budweiser sleek lata 350ml": {
+  "a": "Cerveja Budweiser Sleek Lata 350ml",
+  "b": "CERV BUDWEISER SLEEK 350ML",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "azeite de oliva extra virgem gallo vd 500ml || azeite de oliva extra virgem minos 500ml": {
+  "a": "Azeite de Oliva Extra Virgem Gallo vd 500ml",
+  "b": "Azeite de Oliva Extra Virgem Minos 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "ovos de codorna avine c/30 || ovos de codorna avine c/30 (bandeja)": {
+  "a": "Ovos de Codorna Avine C/30 (Bandeja)",
+  "b": "Ovos de Codorna Avine C/30",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "steak de frango empanado perdigao 100g || steak de frango perdigao 100g": {
+  "a": "Steak de Frango Empanado Perdigão 100g",
+  "b": "Steak de Frango Perdigão 100g",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
+ },
+ "refrigerante coca-cola pet com 1l || refrigerante pepsi cola pet com 1l": {
+  "a": "Refrigerante Pepsi Cola Pet com 1L",
+  "b": "Refrigerante Coca-Cola Pet com 1L",
+  "veredito": "diferente",
+  "quando": "2026-08-09"
+ },
+ "goma de mandioca delicia potiguar ou precioso 1kg || goma de mandioca delicia potiguar pacote com 1kg": {
+  "a": "Goma de Mandioca Delícia Potiguar ou Precioso 1kg",
+  "b": "Goma de Mandioca Delícia Potiguar Pacote com 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-09",
+  "aplicado": true
  }
 }
