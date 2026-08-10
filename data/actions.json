@@ -13407,5 +13407,61 @@
   "adicionado_em": "2026-08-09",
   "fonte": "story",
   "link": ""
+ },
+ {
+  "id": "assai_169637-572",
+  "perfil": "assai.com.br",
+  "titulo": "Assaí — Ofertas (10 a 13/08)",
+  "banner": "Assaí Atacadista",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-10",
+  "fim": "2026-08-13",
+  "carrossel": true,
+  "shortcode": "assai_169637-572",
+  "caption": "Preços válidos de 10/08/2026 até 13/08/2026",
+  "paginas": [
+   "assai_169637-572_p1.jpg",
+   "assai_169637-572_p2.jpg"
+  ],
+  "adicionado_em": "2026-08-10",
+  "fonte": "web",
+  "link": "https://www.assai.com.br/ofertas/rio-grande-do-norte/assai-natal"
+ },
+ {
+  "id": "atacadao_42df8556e0",
+  "perfil": "atacadao.com.br",
+  "titulo": "Atacadão — Boa do Dia (10/08)",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-10",
+  "fim": "2026-08-10",
+  "carrossel": false,
+  "shortcode": "atacadao_42df8556e0",
+  "caption": "Boa do Dia",
+  "paginas": [
+   "atacadao_42df8556e0_p1.jpg"
+  ],
+  "adicionado_em": "2026-08-10",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "Db15SifG3a6",
+  "perfil": "marvermelhoatacado",
+  "titulo": "Mar Vermelho Atacado - Festival de Saudáveis (10/08 a 06/09)",
+  "banner": "Mar Vermelho Atacado",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-10",
+  "fim": "2026-09-06",
+  "carrossel": true,
+  "shortcode": "Db15SifG3a6",
+  "caption": "Cuidar da alimentação também é uma forma de cuidar de quem você ama. Aproveite o Festival de Saudáveis e leve mais qualidade para a sua rotina gastando menos 🥗\n\n✅ Ofertas válidas de 10/08 a 06/09 ou enquanto durarem os estoques.\n\n#marvermelhoatacado #saudáveis #economia #ofertas #mesdospais",
+  "paginas": [
+   "Db15SifG3a6_p1.jpg",
+   "Db15SifG3a6_p2.jpg"
+  ],
+  "adicionado_em": "2026-08-10",
+  "fonte": "feed",
+  "link": ""
  }
 ]

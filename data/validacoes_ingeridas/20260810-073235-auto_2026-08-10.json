@@ -1,0 +1,309 @@
+{
+ "validacoes": [
+  {
+   "a": "Salgadinho Pippo's Anime 60g (sabores)",
+   "b": "Salgadinho Pippos Anime 60g (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aparelho de Barbear Gillette Prestobarba 3 Regular, Sensitive ou Carbono 2 unids",
+   "b": "Aparelho de Barbear Gillette Prestobarba 3 Regular/Sensitive/Carbono 2 unids",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Toalhas Umedecidas Felitá Baby C/ 48",
+   "b": "Toalha Umedecida Felitá Baby C/48",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refresco Adoçado Dafruta 1L Sabores",
+   "b": "Refresco Adocado Dafruta CX 1L Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Avelã Nutella pt 375g",
+   "b": "Creme de Avelã Nutella 375g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bolo Chocolate Queiroz Kg",
+   "b": "Bolo de Chocolate Queiroz kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cobertor Rolim Conftex Liso 1,40x2,00 Solteiro/Canelado",
+   "b": "Cobertor Rolinho Conftex Liso 1,40x2,00 Solt/Canelado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Polpa Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo",
+   "b": "Polpa de Frutas Sterbom 400g (Caju/Goiaba/Manga/Tamarindo)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Óleo Sérum Bifásico Dove Uv Repair E Glow Ferúlico 110ml",
+   "b": "Oleo Serum Bifasico Dove UV Repair E Glycolic 110ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó Nescau 550g",
+   "b": "Achocolatado em Pó Nescau 550g (Sachê)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Domblá peça ou pedaço kg",
+   "b": "Queijo Mussarela Bom Sabor Peca ou Pedaco kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Caçarola Ramos Nº 22 Polida unid",
+   "b": "Cacarola Ramos No 22 Polida Unid",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sardinha Robinson Crusoe Lata 125g Óleo",
+   "b": "Sardinha Robinson Crusoe LT 125g Oleo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ração Champ Sachê 85g ou Ração Úmida Gatos Kitekat Sachê 70g Sabores",
+   "b": "Racao Champ Sache 85g ou Racao Omida Gatos Kitekat SCH 70g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Íntimo Topz Fresh, Hidrata ou Suave 200ml",
+   "b": "Sabonete Intimo Topz Fresh/Hidrata/Suave 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Glic Granado Bebe Cx 90g Fragrancias",
+   "b": "Sabonete Glicerina Granado Bebê Cx 90g (fragrâncias)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Suína para Churrasco Aurora",
+   "b": "Linguiça Suína Churrasco Aurora",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Petra Puro Malte 350ml Sleek",
+   "b": "Cerveja Império Puro Malte 350ml (Sleek)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Copo Baixo Casablanca VD 355ML",
+   "b": "Copo Alto Casablanca VD 355ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Toalha Umedecida Mili Baby c/48",
+   "b": "Toalha Umedecida Felitá Baby C/48",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Lata 350ml Tradicional ou Zero",
+   "b": "Refrigerante Guaraná Antárctica 350ml (Lata - Tradicional/Zero)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cafeteira Ramos Nº 2 unid",
+   "b": "Cafeteira Ramos No 2 Unid",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Body Splash Ekopure 200ml Fragrâncias",
+   "b": "Body Splash Exopure 200ml Fragrancias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupa Líquido Lumii Maxx 3L Fragrâncias",
+   "b": "Lava Roupas Liquido Lume Maxx 3L Fragrancias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frigideira Brinox GARLIC VERMELHO 16CM",
+   "b": "Frigideira Brinox Garlic Vermelho 20cm",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Colonia Johnsons Baby Fr 200ml Lavanda",
+   "b": "Colônia Johnson's Baby Frasco 200ml Lavanda",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Inseticida Aerosol Raid 420ml Leve+ Pague-",
+   "b": "Inseticida Aerosol Raid FR 420ml Lev Pag",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Glic Granado Bebe Cx 90g Fragrancias",
+   "b": "Sabonete Glicerina Granado Bebê Caixa 90g Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mini Kibe Felitá Chef 810g (Congelado - Tradicional/Com Requeijão)",
+   "b": "Mini Kibe Felitá Chef 810g (Tradicional/Com Requeijão)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Vermelho Avine C/20 (Bandeja)",
+   "b": "Ovo Vermelho Grande Avine C/20 (Bandeja)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa e Sobrecoxa sem Dorsal kg",
+   "b": "Coxa Sobrecoxa c/ Dorsal kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carga Gillette Mach 3 Regular Leve 4 e Pague 3",
+   "b": "Carga Gillette Mach 3 Regular Leve 4 Pague 3",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Paleta Dianteira c/ Osso",
+   "b": "Carne Bovina Paleta Dianteira com Osso",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea UHT Nescau 180ml Chocolate",
+   "b": "Bebida Lactea UHT Nescau CX 180ml Chocolate",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Rodo Multilar 30 CM SEM CABO UNID",
+   "b": "Rodo Multilar 60cm sem Cabo unid",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Detergente Limpol 500ml Fragrâncias",
+   "b": "Detergente Limpol SQ2 500ml Fragrancias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fraldas Descartáveis Personal Baby P. Total Pants (Tamanhos)",
+   "b": "Fraldas Descartáveis Personal Baby Proteção Total Pants (Tamanhos)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vodka Absolut GF 1L Tradicional",
+   "b": "Vodka Absolut Garrafa 1L Tradicional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salg Batata Pringles 104g Sabores",
+   "b": "Batata Pringles 104g (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Milho Verde Oderich SC 170g",
+   "b": "Milho Verde Odorich Sache 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Virame GF 750ml sabores",
+   "b": "Vinho Dinamo GF 750ml Sabores",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Água Sanitária Clorito Galão 5L",
+   "b": "Agua Sanitaria Clorito 5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Fugini Sachê 300g Tradicional",
+   "b": "Molho de Tomate Fugini SCH 300g Tradicional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Máscara de Tratamento Dove 10 em 1 Reconstrução, Hidratação ou Nutrição 270g",
+   "b": "Mascara de Tratamento Dove 10 em 1 Reconstrucao/Hidratacao/Nutricao 270g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Vermelhos Grandes Avine C/20 (Bandeja)",
+   "b": "Ovo Vermelho Grande Avine C/20 (Bandeja)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Corona LN 330ml Tradicional ou Zero",
+   "b": "Cerveja Corona GF 330ml Tradicional ou Zero",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Licor Fino Jack Daniel's GF 700ml sabores",
+   "b": "Licor Fino Jack Daniel's Garrafa 700ml Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Frango Sassami Aurora 1kg (Bandeja)",
+   "b": "Filezinho de Frango Sassami Sadia 1kg (Bandeja)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Rum Bacardi GF 700ml Sabores",
+   "b": "Rum Bacardi Garrafa 700ml Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme para Assadura Xuxinha 90g",
+   "b": "Creme Assadura Xuxinha 90g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Sadia 1kg",
+   "b": "File de Peito Frango Sadia PCT 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido Alice 3L Fragrâncias",
+   "b": "Lava Roupas Liquido Coala FR 3L Fragrancias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bule Ramos Nº 2 unid",
+   "b": "Bule Ramos No 2 Unid",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Glicerina Granado Bebê Cx 90g (fragrâncias)",
+   "b": "Sabonete Glicerina Granado Bebê Caixa 90g Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "COXA SOBRECOXA S/DORSAL KG",
+   "b": "Coxa Sobrecoxa c/ Dorsal kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Polpa de Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo",
+   "b": "Polpa de Frutas Sterbom 400g (Caju/Goiaba/Manga/Tamarindo)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fiambre Bovino Kitut 320g",
+   "b": "Fiambre Bovino Kitut LT 320g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa c/Dorsal kg",
+   "b": "Coxa Sobrecoxa c/ Dorsal kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Bom Sabor/Freezer Peça ou Pedaço kg",
+   "b": "Queijo Mussarela Bom Sabor Peca ou Pedaco kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Colônia Johnson's Baby 200ml Lavanda",
+   "b": "Colônia Johnson's Baby Frasco 200ml Lavanda",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Descartavel Personal Baby Jumbo",
+   "b": "Fralda Descartável Personal Baby Jumbo (tamanhos)",
+   "veredito": "mesmo"
+  }
+ ]
+}
