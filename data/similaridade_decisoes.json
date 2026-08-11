@@ -18865,5 +18865,396 @@
   "b": "Feijão Carioca Compadre Zé Tipo 1 1kg",
   "veredito": "diferente",
   "quando": "2026-08-10"
+ },
+ "chocolate barra hershey's tradicionais 75/77/82g sabores || chocolate barra hershey's tradicionais 76/77/82g sabores": {
+  "a": "Chocolate Barra HERSHEY'S Tradicionais 76/77/82g Sabores",
+  "b": "Chocolate Barra HERSHEY'S Tradicionais 75/77/82g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "pipoca de microondas vita pop 100g sabores || pipoca microondas vita pop 100g sabores": {
+  "a": "Pipoca Microondas Vita Pop 100g Sabores",
+  "b": "Pipoca de Microondas VITA POP 100g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "empanitos de frango lar 700g/tirinha de frango empanada lar iqf 700g || empanitos de frango lar 700g/tirinhas de frango empanadas lar 700g": {
+  "a": "Empanitos de Frango Lar 700g/Tirinha de Frango Empanada Lar IQF 700g",
+  "b": "Empanitos de Frango LAR 700g/Tirinhas de Frango Empanadas LAR 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "azeite extra virgem cocinero 500ml || azeite extra virgem cocinero arg 500ml": {
+  "a": "Azeite Extra Virgem Cocinero Arg 500ml",
+  "b": "Azeite Extra Virgem COCINERO 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "queijo mussarela domilac || queijo mussarela domilac kg": {
+  "a": "Queijo Mussarela Domilac",
+  "b": "Queijo Mussarela DOMILAC kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "detergente liquido alice 500ml fragrancias || detergente liquido guarani 500ml fragrancias": {
+  "a": "Detergente Líquido Alice 500ml Fragrâncias",
+  "b": "Detergente Líquido GUARANI 500ml Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "coxa com sobrecoxa de frango com dorsal ferreira kg || coxa com sobrecoxa de frango com dorsal kg": {
+  "a": "Coxa com Sobrecoxa de Frango com Dorsal kg",
+  "b": "Coxa com Sobrecoxa de Frango com Dorsal FERREIRA kg",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "linguica de frango ou suina churrasco aurora kg || linguica de frango/churrasco aurora kg": {
+  "a": "Linguica de Frango ou Suina Churrasco Aurora kg",
+  "b": "Linguiça de Frango/Churrasco AURORA kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "cerveja amstel lata 350ml || cerveja amstel ultra lata 350ml": {
+  "a": "Cerveja Amstel Lata 350ml",
+  "b": "Cerveja AMSTEL ULTRA Lata 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "cupim bovino || cupim bovino kg": {
+  "a": "Cupim Bovino",
+  "b": "Cupim Bovino kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "fralda descartavel cremer jumbo shortinho || fralda descartavel cremer jumbo shortinho (m/g/xg/xxg)": {
+  "a": "Fralda Descartável CREMER Jumbo Shortinho (M/G/XG/XXG)",
+  "b": "Fralda Descartável CREMER Jumbo Shortinho",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "azeite extra virgem cocinero 500ml || azeite extra virgem lindouro 500ml": {
+  "a": "Azeite Extra Virgem Lindouro 500ml",
+  "b": "Azeite Extra Virgem COCINERO 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "refrigerante fanta lata 350ml laranja zero || refrigerante fys lata 350ml guarana zero": {
+  "a": "Refrigerante Fanta Lata 350ml Laranja Zero",
+  "b": "Refrigerante FYS Lata 350ml Guaraná Zero",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "coxa de frango bom todo 1kg bdj || sobrecoxa de frango bom todo 1kg bandeja": {
+  "a": "Coxa de Frango Bom Todo 1kg BDJ",
+  "b": "Sobrecoxa de Frango BOM TODO 1kg Bandeja",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "fralda descartavel cremer jumbo shortinho || fraldas descartaveis cremer shortinho": {
+  "a": "Fraldas Descartáveis Cremer Shortinho",
+  "b": "Fralda Descartável CREMER Jumbo Shortinho",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "azeite de oliva extra virgem cocineiro 500ml || azeite extra virgem cocinero 500ml": {
+  "a": "Azeite de Oliva Extra Virgem Cocineiro 500ml",
+  "b": "Azeite Extra Virgem COCINERO 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "vinagre alcool sadio 500ml tradicional || vinagre de alcool leto 500ml tradicional": {
+  "a": "Vinagre Álcool Sadio 500ml Tradicional",
+  "b": "Vinagre de Álcool LETO 500ml Tradicional",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "cerveja corona long neck 330ml || cerveja sol zero long neck 330ml": {
+  "a": "Cerveja Sol Zero Long Neck 330ml",
+  "b": "Cerveja CORONA Long Neck 330ml",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "cerveja amstel sleek lata 350ml || cerveja amstel ultra lata 350ml": {
+  "a": "Cerveja Amstel Sleek lata 350ml",
+  "b": "Cerveja AMSTEL ULTRA Lata 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "tintura creme maxton cores || tintura maxton cores": {
+  "a": "Tintura Maxton Cores",
+  "b": "Tintura Creme MAXTON Cores",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "hidratante nivea 200ml fragrancias || hidratante paixao 200ml fragrancias": {
+  "a": "Hidratante Paixão 200ml Fragrâncias",
+  "b": "Hidratante NIVEA 200ml Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "peito de frango bom todo 1kg (bandeja) || sobrecoxa de frango bom todo 1kg bandeja": {
+  "a": "Peito de Frango Bom Todo 1kg (Bandeja)",
+  "b": "Sobrecoxa de Frango BOM TODO 1kg Bandeja",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "azeite extra virgem allegro 500ml || azeite extra virgem cocinero 500ml": {
+  "a": "Azeite Extra Virgem Allegro 500ml",
+  "b": "Azeite Extra Virgem COCINERO 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "limp becker m uso 500ml bamboo || limpador becker multiuso 500ml bamboo": {
+  "a": "Limp Becker M Uso 500ml Bamboo",
+  "b": "Limpador Becker Multiuso 500ml Bamboo",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "sabonete liq inf baruel 210ml || sabonete liquido infantil baruel 210ml": {
+  "a": "Sabonete Líq Inf Baruel 210ml",
+  "b": "Sabonete Líquido Infantil Baruel 210ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "goma de mandioca compadre ze pct 1kg || goma de tapioca compadre ze 1kg": {
+  "a": "Goma de Tapioca Compadre Zé 1kg",
+  "b": "Goma de Mandioca Compadre Zé PCT 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "carne bovina cha de fora resfriado kg || carne cha de fora resfriada kg": {
+  "a": "Carne Cha de Fora Resfriada kg",
+  "b": "Carne Bovina Chã de Fora Resfriado Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "cerveja heineken puro malte lata 350ml || cerveja spaten puro malte lata 350ml": {
+  "a": "Cerveja Spaten Puro Malte Lata 350ml",
+  "b": "Cerveja Heineken Puro Malte Lata 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "biscoito rosquinhas vitarella 300g (sabores) || rosquinha vitarella 300g sabores": {
+  "a": "Rosquinha VITARELLA 300g Sabores",
+  "b": "Biscoito Rosquinhas Vitarella 300g (sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "cerveja stella artois lata 350ml || cerveja stella artois pure gold lata 350ml": {
+  "a": "Cerveja STELLA ARTOIS Pure Gold Lata 350ml",
+  "b": "Cerveja Stella Artois lata 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "vh bc port virame frizante gf 750ml || vinho branco port virame frizante 750ml": {
+  "a": "Vinho Branco Port Virame Frizante 750ml",
+  "b": "VH BC PORT VIRAME FRIZANTE GF 750ML",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "creme dental sorriso edicao kolynos tb 90g || creme dental sorriso kolynos 90g": {
+  "a": "Creme Dental Sorriso Kolynos 90g",
+  "b": "Creme Dental Sorriso Edição Kolynos tb 90g",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "lava-roupas liquido nordestao ativ lavanda tb 3 litros || lava-roupas liquido nordestao ativ multipla acao 3 litros": {
+  "a": "Lava-Roupas Líquido Nordestão Ativ Lavanda Tb 3 Litros",
+  "b": "Lava-Roupas Líquido Nordestão Ativ Múltipla Ação 3 Litros",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "azeite de oliva extra virgem gomes da costa vidro 500ml || azeite de oliva extra virgem sacciali vidro 500ml": {
+  "a": "Azeite de Oliva Extra Virgem Gomes da Costa Vidro 500ml",
+  "b": "Azeite De Oliva Extra Virgem Sacciali Vidro 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "carne bovina acem com osso reserva resfriada friboi || carne bovina peito com osso reserva resfriada (friboi reserva)": {
+  "a": "Carne Bovina Peito com Osso Reserva Resfriada (Friboi Reserva)",
+  "b": "Carne Bovina Acém com Osso Reserva Resfriada Friboi",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "cerveja puro malte bohemia lata 350ml || cerveja puro malte devassa lata 350ml": {
+  "a": "Cerveja Puro Malte Devassa Lata 350ml",
+  "b": "Cerveja Puro Malte Bohemia Lata 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "requeijao cremoso clan 200g sabores || requeijao cremoso natville 200g sabores": {
+  "a": "Requeijão Cremoso Clan 200g Sabores",
+  "b": "Requeijão Cremoso Natville 200g Sabores",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "desodorante aerosol nivea fragrancias frasco 200ml || desodorante aerossol dove varias fragrancias frasco com 200ml": {
+  "a": "Desodorante Aerosol Nivea Fragrâncias Frasco 200ml",
+  "b": "Desodorante Aerossol Dove Várias fragrâncias Frasco com 200ml",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "amaciante de roupa downy concentrado 500ml fragrancias || amaciante de roupas concentrado comfort 500ml fragrancias": {
+  "a": "Amaciante de Roupa Downy Concentrado 500ml Fragrâncias",
+  "b": "Amaciante de Roupas Concentrado Comfort 500ml Fragrancias",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "sab liq baruel baby 400ml fragrancias || shampoo baruel baby 400ml fragrancias": {
+  "a": "Shampoo Baruel Baby 400ml Fragrâncias",
+  "b": "Sab Liq Baruel Baby 400ml Fragrancias",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "detergente liquido guarani varios tipos frasco com 500ml || detergente liquido ype varios tipos frasco 500ml": {
+  "a": "Detergente Líquido Guarani Vários tipos Frasco com 500ml",
+  "b": "Detergente Líquido Ypê Vários Tipos Frasco 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "kit shampoo seda 300ml + condicionador 190ml cachos definidos || kit shampoo seda 300ml + condicionador 190ml ceramidas": {
+  "a": "Kit Shampoo Seda 300ml + Condicionador 190ml Ceramidas",
+  "b": "Kit Shampoo Seda 300ml + Condicionador 190ml Cachos Definidos",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "file de peito de frango congelado seara bandeja 1kg || file de peito de frango lar congelado bandeja com 1kg": {
+  "a": "Filé de Peito de Frango Congelado Seara Bandeja 1kg",
+  "b": "File de Peito de Frango Lar Congelado Bandeja com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "carne bovina lagarto friboi resfriada || carne bovina maminha friboi resfriada": {
+  "a": "Carne Bovina Maminha Friboi Resfriada",
+  "b": "Carne Bovina Lagarto Friboi Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "farinha de trigo dona benta com fermento pacote com 1kg || farinha de trigo dona benta tipo 1 pacote com 1kg": {
+  "a": "Farinha de Trigo Dona Benta Tipo 1 Pacote com 1kg",
+  "b": "Farinha de Trigo Dona Benta Com Fermento Pacote com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "lava roupas liquido +ekonomico 3l || lava-roupas liquido + ekonomico becker tb 3l": {
+  "a": "Lava-roupas Líquido + eKonomico Becker tb 3L",
+  "b": "Lava Roupas Líquido +eKonômico 3L",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "pao bom de massa 400g forma tradicional integral leite || pao de forma bom de massa 400g (tradicional/integral/leite)": {
+  "a": "Pão Bom de Massa 400g Forma Tradicional Integral Leite",
+  "b": "Pão de Forma Bom de Massa 400g (Tradicional/Integral/Leite)",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "requeijao cremoso catupiry tradicional ou light pt 200g || requeijao cremoso nordestao tradicional ou light pt 200g": {
+  "a": "Requeijão Cremoso Catupiry Tradicional ou Light pt 200g",
+  "b": "Requeijão Cremoso Nordestão Tradicional ou Light pt 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "agua mineral sterbom 510ml sem gas || agua mineral sterbom garrafa 510ml s/gas": {
+  "a": "Água Mineral Sterbom Garrafa 510ml S/Gas",
+  "b": "Água Mineral Sterbom 510ml sem gás",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "farinha de trigo do padeiro saco 25kg || farinha de trigo dona maria saco 25kg": {
+  "a": "Farinha de Trigo Do Padeiro Saco 25kg",
+  "b": "Farinha de Trigo Dona Maria Saco 25kg",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "achocolatado em po nescau cilindro 200g || achocolatado em po nescau lata 200g": {
+  "a": "Achocolatado em Pó Nescau Cilindro 200g",
+  "b": "Achocolatado em Pó Nescau lata 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "ovos brancos grandes almeida bandeja c/30 unidades || ovos brancos grandes granja regina bandeja 30 unidades": {
+  "a": "Ovos Brancos Grandes Granja Regina bandeja 30 unidades",
+  "b": "Ovos Brancos Grandes Almeida Bandeja C/30 Unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "azeitonas verdes com carocos vale fertil 500g || azeitonas verdes com carocos vale fertil vidro 500g drenado": {
+  "a": "Azeitonas Verdes com Caroços Vale Fértil Vidro 500g Drenado",
+  "b": "Azeitonas Verdes com Caroços Vale Fértil 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "auroggets de frango aurora 275g sabores || iscas de frango aurora 275g (sabores)": {
+  "a": "Auroggets de Frango Aurora 275g Sabores",
+  "b": "Iscas de Frango Aurora 275g (Sabores)",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "arroz parboilizado fazenda tipo 1 1kg || arroz parboilizado mariano tipo 1 1kg": {
+  "a": "Arroz Parboilizado Mariano Tipo 1 1kg",
+  "b": "Arroz Parboilizado Fazenda Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "suco de uva aurora 1l tinto integral || suco de uva galiotto 1l (tinto - integral)": {
+  "a": "Suco de Uva Aurora 1L Tinto Integral",
+  "b": "Suco de Uva Galiotto 1L (Tinto - Integral)",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "file de peito de frango congelado natto bandeja 1kg || file de peito de frango lar congelado bandeja com 1kg": {
+  "a": "Filé de Peito de Frango Congelado Natto Bandeja 1kg",
+  "b": "File de Peito de Frango Lar Congelado Bandeja com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "escova oval para cabelo disney desenhos || escova oval para cabelo disney unid": {
+  "a": "Escova Oval para Cabelo Disney Desenhos",
+  "b": "Escova Oval para Cabelo Disney unid",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
+ },
+ "frango a passarinho lar iqf 700g || frango a passarinho lar temperado iqf 700g": {
+  "a": "Frango a Passarinho LAR IQF 700g",
+  "b": "Frango a Passarinho Lar Temperado IQF 700g",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "arroz parboilizado agrodez tipo 1 1kg || arroz parboilizado fazenda tipo 1 1kg": {
+  "a": "Arroz Parboilizado Fazenda Tipo 1 1kg",
+  "b": "Arroz Parboilizado AGRODEZ Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-11"
+ },
+ "amaciante de roupas sonho 1,5l fragrancias || amaciante sonho 1,5l (fragrancias)": {
+  "a": "Amaciante de Roupas Sonho 1,5L Fragrâncias",
+  "b": "Amaciante Sonho 1,5L (Fragrâncias)",
+  "veredito": "mesmo",
+  "quando": "2026-08-11",
+  "aplicado": true
  }
 }

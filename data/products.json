@@ -222865,5 +222865,153 @@
    "w": 27,
    "h": 22
   }
+ ],
+ "atacadao_e69adbc2cb_p1": [
+  {
+   "n": "Batata Lavada kg",
+   "p": "5,49",
+   "u": "kg",
+   "x": 4,
+   "y": 22,
+   "w": 44,
+   "h": 18
+  },
+  {
+   "n": "Uva Rubi Bandeja com 500g",
+   "p": "6,49",
+   "u": "cada",
+   "x": 52,
+   "y": 22,
+   "w": 44,
+   "h": 18
+  },
+  {
+   "n": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+   "p": "7,99",
+   "u": "kg",
+   "x": 4,
+   "y": 43,
+   "w": 44,
+   "h": 18
+  },
+  {
+   "n": "Café São Braz Extra Forte Almofada/Vácuo Pacote com 250g",
+   "p": "11,28",
+   "u": "cada",
+   "x": 52,
+   "y": 43,
+   "w": 44,
+   "h": 18
+  },
+  {
+   "n": "Aveia Yoki Flocos Finos/Flocos Caixeta 170g",
+   "p": "2,59",
+   "u": "cada",
+   "x": 4,
+   "y": 63,
+   "w": 44,
+   "h": 19
+  },
+  {
+   "n": "Lava Roupas em Pó Omo Lavagem Perfeita Pacote com 400g",
+   "p": "5,99",
+   "u": "cada",
+   "x": 52,
+   "y": 63,
+   "w": 44,
+   "h": 19
+  }
+ ],
+ "atacadao_c8e12894e5_p1": [
+  {
+   "n": "Coxa de Frango Resfriada kg",
+   "p": "11,79",
+   "u": "kg",
+   "x": 4,
+   "y": 26,
+   "w": 45,
+   "h": 9
+  },
+  {
+   "n": "Frango Inteiro Resfriado kg",
+   "p": "10,49",
+   "u": "kg",
+   "x": 50,
+   "y": 26,
+   "w": 47,
+   "h": 9
+  },
+  {
+   "n": "Peito de Frango com Osso Resfriado kg",
+   "p": "14,90",
+   "u": "kg",
+   "x": 4,
+   "y": 35,
+   "w": 45,
+   "h": 9
+  },
+  {
+   "n": "Sobrecoxa de Frango Resfriada kg",
+   "p": "11,90",
+   "u": "kg",
+   "x": 50,
+   "y": 35,
+   "w": 47,
+   "h": 9
+  },
+  {
+   "n": "Carne Bovina Bisteca de Acém Reserva Resfriada kg",
+   "p": "28,90",
+   "u": "kg",
+   "x": 4,
+   "y": 44,
+   "w": 45,
+   "h": 9
+  },
+  {
+   "n": "Carne Bovina Costela Ripa Reserva Resfriada kg",
+   "p": "27,90",
+   "u": "kg",
+   "x": 50,
+   "y": 44,
+   "w": 47,
+   "h": 9
+  },
+  {
+   "n": "Carne Bovina Paleta sem Osso Reserva Resfriada kg",
+   "p": "39,90",
+   "u": "kg",
+   "x": 4,
+   "y": 54,
+   "w": 45,
+   "h": 9
+  },
+  {
+   "n": "Carne Bovina Paleta com Osso Reserva Resfriada kg",
+   "p": "29,90",
+   "u": "kg",
+   "x": 50,
+   "y": 54,
+   "w": 47,
+   "h": 9
+  },
+  {
+   "n": "Jerked Beef Ponta de Agulha Friboi kg",
+   "p": "42,90",
+   "u": "kg",
+   "x": 4,
+   "y": 73,
+   "w": 45,
+   "h": 12
+  },
+  {
+   "n": "Queijo Mussarela Fatiado Lactowal kg",
+   "p": "43,90",
+   "u": "kg",
+   "x": 50,
+   "y": 73,
+   "w": 47,
+   "h": 12
+  }
  ]
 }
