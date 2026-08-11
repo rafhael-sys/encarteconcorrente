@@ -1,0 +1,289 @@
+{
+ "validacoes": [
+  {
+   "a": "Peito de Frango com Osso Congelado Mauricéa",
+   "b": "Peito de Frango com Osso Congelado Mauricéa kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Lar Congelada",
+   "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Peito de Frango Temperado Congelado Seara Pacote IQF Zip 1kg",
+   "b": "Filé de Peito de Frango Temperado Congelado Seara Pacote IQF Zip 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Tipo Calabresa Defumada Seara pacote 2,5kg",
+   "b": "Linguiça Tipo Calabresa Defumada Sadia Pacote 2,5kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Congelada Kg",
+   "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Folha de Alumínio Wyda Rolo 30cmx4m",
+   "b": "Folha de Alumínio Wyda Rolo 30cmx7,5m",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cesta Básica Assaí Kit 1 com 11 Itens",
+   "b": "Cesta Básica Assaí Kit 1 - 11 Itens",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerossol Dove Fragrâncias Frasco 200ml",
+   "b": "Desodorante Aerossol Monange Fragrâncias Frasco 200ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Massa para Pastel Industrial Massa Forte 500g",
+   "b": "Massa para Pastel Industrial Massa Forte Pacote 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Parboilizado Tipo 1 Rampinelli 1kg",
+   "b": "Arroz Parboilizado Tipo 1 Rampinelli Pacote 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Tipo 1 Rosa Branca 1kg",
+   "b": "Farinha de Trigo Tipo 1 Rosa Branca Pacote 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Congelada",
+   "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Macarrão Espaguete Fino Vitarella 400g",
+   "b": "Macarrão Espaguete Fino Vitarella Pacote 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerosol Nivea Fragrâncias Frasco 200ml",
+   "b": "Desodorante Aerossol Monange Fragrâncias Frasco 200ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava-Roupas Líquido Absoluto! 3L",
+   "b": "Lava-Roupas Líquido Absoluto! Galão 3L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Congelada +Fininha McCain 1,5kg",
+   "b": "Batata Congelada +Fininhas McCain Pacote 1,5kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lenços Umedecidos Piquitucho 48 Unidades",
+   "b": "Lenços Umedecidos Piquitucho Pack 4x60 Unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito de Frango com Osso Congelado kg",
+   "b": "Peito de Frango com Osso Congelado Mauricéa kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite em Pó Ninho 575g Sachê Integral Instantâneo ou Integral",
+   "b": "Leite em Pó Ninho 575g (Sachê - Integral/Instantâneo)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerossol Mood 150ml (Fragrâncias)",
+   "b": "Desodorante Aerossol Herbíssimo 150ml (Fragrâncias)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Mauricéa Congelada",
+   "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas Líquido Alice 3L Fragrâncias",
+   "b": "Lava Roupas Alice 3L (Fragrâncias)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Friato Congelada",
+   "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Jerked Beef Ponta de Agulha",
+   "b": "Jerked Beef Goiano (Ponta de Agulha)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava-Louças Ypê Fragrâncias Frasco 500ml",
+   "b": "Lava-Louças Marilux Fragrâncias Frasco 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Vinho Collina GF 750ml Sabores",
+   "b": "Vinho Dinamo GF 750ml Sabores",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito Bovino com Osso Resfriado Masterboi",
+   "b": "Acém Bovino com Osso Resfriado Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Amstel Puro Malte 350ml (Sleek)",
+   "b": "Cerveja Império Puro Malte 350ml (Sleek)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Copacol Congelada",
+   "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Pré-frita EasyChef Congelada Tradicional 2kg",
+   "b": "Batata Frita Easychef Congelada 2kg Tradicional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupa Liquido OMO 3L Fragrancias",
+   "b": "Lava Roupas Liquido Coala FR 3L Fragrancias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sabonete Naturals Palmolive Fragrâncias Embalagem 85g",
+   "b": "Sabonete Naturals Palmolive Fragrâncias Pack 4x85g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava-Louças Limpol Fragrâncias Frasco 500ml",
+   "b": "Lava-Louças Marilux Fragrâncias Frasco 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Achocolatado em Pó Chocolatto 200g",
+   "b": "Achocolatado em Po Chocolatto SCH 200g Refil",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa de Frango Sadia IQF Congelada 1kg",
+   "b": "Coxas de Frango Sadia 1kg (IQF - Congeladas)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido Guarani 3L Fragrâncias",
+   "b": "Lava Roupas Liquido Coala FR 3L Fragrancias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Flocos De Milho Para Cuscuz Livre D Não Transgênicos 500g",
+   "b": "Flocos de Milho Livre D Não Transgênico 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Mauricéa kg",
+   "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filezinho de Frango Sassami Temperado Congelado Seara Pacote IQF Zip 1kg",
+   "b": "Filé de Peito de Frango Temperado Congelado Seara Pacote IQF Zip 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Aerosol Above 150ml (fragrâncias)",
+   "b": "Desodorante Aerossol Herbíssimo 150ml (Fragrâncias)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Aerossol Dove 150ml Fragrancias",
+   "b": "Desodorante Aerossol Herbíssimo 150ml (Fragrâncias)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creme Dental Sorriso Tripla Limpeza Completa 70g",
+   "b": "Creme Dental Sorriso CX 70g Trilha Limpeza Completa",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Kume 1kg",
+   "b": "Feijão Carioca Kumê Pacote 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bolacha Tieta do Sertão São Miguel 200g",
+   "b": "Bolacha Tieta do Sertão São Miguel Amanteigada 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Branco Nordestão Extra Com 30",
+   "b": "Ovos Branco Nordestão Grande C/30",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite Extra Virgem Lindouro 500ml",
+   "b": "Azeite Extra Virgem Allegro 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Absorvente Sempre Livre Adapt Suave c/ Abas Leve8 Pague7",
+   "b": "Absorvente Sempre Livre Adapt Suave LV8 P7",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Muito Mais Shampoo 1L + Condicionador 1L Vários Tipos",
+   "b": "Kit Muito Mais Shampoo 1L + Condicionador 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha da Asa de Frango Sadia Pct 1kg",
+   "b": "COXINHA ASA FGO SADIA PCT 1KG",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisteca Bovina Congelada Masterboi",
+   "b": "Língua Bovina Congelada Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Shampoo Seda 300ml + Cond 190ml",
+   "b": "Shampoo Seda 300ml + Condicionador 190ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Even 85g Fragrâncias",
+   "b": "Sabonete em Barra Even 85g (Fragrancias)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem La Rambla vd 500ml",
+   "b": "Azeite de Oliva Extra Virgem San Frediano Vd 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sabonete Suave Maran Várias Fragrâncias Unidade 80g",
+   "b": "Sabonete Bulnez várias fragrâncias unidade 80g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Salsicha Hot Dog Perdigão Resfriada",
+   "b": "Salsicha Hot Dog Natto Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Amaciante de Roupa Downy Concentrado 500ml Fragrâncias",
+   "b": "Amaciante de Roupas Downy 500ml Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca DuZé Tipo 1 1kg",
+   "b": "Feijão Carioca Compadre Zé Tipo 1 1kg",
+   "veredito": "diferente"
+  }
+ ]
+}

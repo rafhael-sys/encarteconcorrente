@@ -18498,5 +18498,372 @@
   "veredito": "mesmo",
   "quando": "2026-08-10",
   "aplicado": true
+ },
+ "peito de frango com osso congelado mauricea || peito de frango com osso congelado mauricea kg": {
+  "a": "Peito de Frango com Osso Congelado Mauricéa",
+  "b": "Peito de Frango com Osso Congelado Mauricéa kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango lar congelada || coxa com sobrecoxa de frango lar congelada kg": {
+  "a": "Coxa com Sobrecoxa de Frango Lar Congelada",
+  "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "file de peito de frango temperado congelado seara pacote iqf zip 1kg || filezinho de peito de frango temperado congelado seara pacote iqf zip 1kg": {
+  "a": "Filezinho de Peito de Frango Temperado Congelado Seara Pacote IQF Zip 1kg",
+  "b": "Filé de Peito de Frango Temperado Congelado Seara Pacote IQF Zip 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "linguica tipo calabresa defumada sadia pacote 2,5kg || linguica tipo calabresa defumada seara pacote 2,5kg": {
+  "a": "Linguiça Tipo Calabresa Defumada Seara pacote 2,5kg",
+  "b": "Linguiça Tipo Calabresa Defumada Sadia Pacote 2,5kg",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "coxa com sobrecoxa de frango congelada kg || coxa com sobrecoxa de frango lar congelada kg": {
+  "a": "Coxa com Sobrecoxa de Frango Congelada Kg",
+  "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "folha de aluminio wyda rolo 30cmx4m || folha de aluminio wyda rolo 30cmx7,5m": {
+  "a": "Folha de Alumínio Wyda Rolo 30cmx4m",
+  "b": "Folha de Alumínio Wyda Rolo 30cmx7,5m",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "cesta basica assai kit 1 - 11 itens || cesta basica assai kit 1 com 11 itens": {
+  "a": "Cesta Básica Assaí Kit 1 com 11 Itens",
+  "b": "Cesta Básica Assaí Kit 1 - 11 Itens",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "desodorante aerossol dove fragrancias frasco 200ml || desodorante aerossol monange fragrancias frasco 200ml": {
+  "a": "Desodorante Aerossol Dove Fragrâncias Frasco 200ml",
+  "b": "Desodorante Aerossol Monange Fragrâncias Frasco 200ml",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "massa para pastel industrial massa forte 500g || massa para pastel industrial massa forte pacote 500g": {
+  "a": "Massa para Pastel Industrial Massa Forte 500g",
+  "b": "Massa para Pastel Industrial Massa Forte Pacote 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "arroz parboilizado tipo 1 rampinelli 1kg || arroz parboilizado tipo 1 rampinelli pacote 1kg": {
+  "a": "Arroz Parboilizado Tipo 1 Rampinelli 1kg",
+  "b": "Arroz Parboilizado Tipo 1 Rampinelli Pacote 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "farinha de trigo tipo 1 rosa branca 1kg || farinha de trigo tipo 1 rosa branca pacote 1kg": {
+  "a": "Farinha de Trigo Tipo 1 Rosa Branca 1kg",
+  "b": "Farinha de Trigo Tipo 1 Rosa Branca Pacote 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango congelada || coxa com sobrecoxa de frango lar congelada kg": {
+  "a": "Coxa com Sobrecoxa de Frango Congelada",
+  "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "macarrao espaguete fino vitarella 400g || macarrao espaguete fino vitarella pacote 400g": {
+  "a": "Macarrão Espaguete Fino Vitarella 400g",
+  "b": "Macarrão Espaguete Fino Vitarella Pacote 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "desodorante aerosol nivea fragrancias frasco 200ml || desodorante aerossol monange fragrancias frasco 200ml": {
+  "a": "Desodorante Aerosol Nivea Fragrâncias Frasco 200ml",
+  "b": "Desodorante Aerossol Monange Fragrâncias Frasco 200ml",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "lava-roupas liquido absoluto! 3l || lava-roupas liquido absoluto! galao 3l": {
+  "a": "Lava-Roupas Líquido Absoluto! 3L",
+  "b": "Lava-Roupas Líquido Absoluto! Galão 3L",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "batata congelada +fininha mccain 1,5kg || batata congelada +fininhas mccain pacote 1,5kg": {
+  "a": "Batata Congelada +Fininha McCain 1,5kg",
+  "b": "Batata Congelada +Fininhas McCain Pacote 1,5kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "lencos umedecidos piquitucho 48 unidades || lencos umedecidos piquitucho pack 4x60 unidades": {
+  "a": "Lenços Umedecidos Piquitucho 48 Unidades",
+  "b": "Lenços Umedecidos Piquitucho Pack 4x60 Unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "peito de frango com osso congelado kg || peito de frango com osso congelado mauricea kg": {
+  "a": "Peito de Frango com Osso Congelado kg",
+  "b": "Peito de Frango com Osso Congelado Mauricéa kg",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "leite em po ninho 575g (sache - integral/instantaneo) || leite em po ninho 575g sache integral instantaneo ou integral": {
+  "a": "Leite em Pó Ninho 575g Sachê Integral Instantâneo ou Integral",
+  "b": "Leite em Pó Ninho 575g (Sachê - Integral/Instantâneo)",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "desodorante aerossol herbissimo 150ml (fragrancias) || desodorante aerossol mood 150ml (fragrancias)": {
+  "a": "Desodorante Aerossol Mood 150ml (Fragrâncias)",
+  "b": "Desodorante Aerossol Herbíssimo 150ml (Fragrâncias)",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "coxa com sobrecoxa de frango lar congelada kg || coxa com sobrecoxa de frango mauricea congelada": {
+  "a": "Coxa com Sobrecoxa de Frango Mauricéa Congelada",
+  "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "lava roupas alice 3l (fragrancias) || lava roupas liquido alice 3l fragrancias": {
+  "a": "Lava Roupas Líquido Alice 3L Fragrâncias",
+  "b": "Lava Roupas Alice 3L (Fragrâncias)",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango friato congelada || coxa com sobrecoxa de frango lar congelada kg": {
+  "a": "Coxa com Sobrecoxa de Frango Friato Congelada",
+  "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "jerked beef goiano (ponta de agulha) || jerked beef ponta de agulha": {
+  "a": "Jerked Beef Ponta de Agulha",
+  "b": "Jerked Beef Goiano (Ponta de Agulha)",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "lava-loucas marilux fragrancias frasco 500ml || lava-loucas ype fragrancias frasco 500ml": {
+  "a": "Lava-Louças Ypê Fragrâncias Frasco 500ml",
+  "b": "Lava-Louças Marilux Fragrâncias Frasco 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "vinho collina gf 750ml sabores || vinho dinamo gf 750ml sabores": {
+  "a": "Vinho Collina GF 750ml Sabores",
+  "b": "Vinho Dinamo GF 750ml Sabores",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "acem bovino com osso resfriado masterboi kg || peito bovino com osso resfriado masterboi": {
+  "a": "Peito Bovino com Osso Resfriado Masterboi",
+  "b": "Acém Bovino com Osso Resfriado Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "cerveja amstel puro malte 350ml (sleek) || cerveja imperio puro malte 350ml (sleek)": {
+  "a": "Cerveja Amstel Puro Malte 350ml (Sleek)",
+  "b": "Cerveja Império Puro Malte 350ml (Sleek)",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "coxa com sobrecoxa de frango copacol congelada || coxa com sobrecoxa de frango lar congelada kg": {
+  "a": "Coxa com Sobrecoxa de Frango Copacol Congelada",
+  "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "batata frita easychef congelada 2kg tradicional || batata pre-frita easychef congelada tradicional 2kg": {
+  "a": "Batata Pré-frita EasyChef Congelada Tradicional 2kg",
+  "b": "Batata Frita Easychef Congelada 2kg Tradicional",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "lava roupa liquido omo 3l fragrancias || lava roupas liquido coala fr 3l fragrancias": {
+  "a": "Lava Roupa Liquido OMO 3L Fragrancias",
+  "b": "Lava Roupas Liquido Coala FR 3L Fragrancias",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "sabonete naturals palmolive fragrancias embalagem 85g || sabonete naturals palmolive fragrancias pack 4x85g": {
+  "a": "Sabonete Naturals Palmolive Fragrâncias Embalagem 85g",
+  "b": "Sabonete Naturals Palmolive Fragrâncias Pack 4x85g",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "lava-loucas limpol fragrancias frasco 500ml || lava-loucas marilux fragrancias frasco 500ml": {
+  "a": "Lava-Louças Limpol Fragrâncias Frasco 500ml",
+  "b": "Lava-Louças Marilux Fragrâncias Frasco 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "achocolatado em po chocolatto 200g || achocolatado em po chocolatto sch 200g refil": {
+  "a": "Achocolatado em Pó Chocolatto 200g",
+  "b": "Achocolatado em Po Chocolatto SCH 200g Refil",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "coxa de frango sadia iqf congelada 1kg || coxas de frango sadia 1kg (iqf - congeladas)": {
+  "a": "Coxa de Frango Sadia IQF Congelada 1kg",
+  "b": "Coxas de Frango Sadia 1kg (IQF - Congeladas)",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "lava roupas liquido coala fr 3l fragrancias || lava roupas liquido guarani 3l fragrancias": {
+  "a": "Lava Roupas Líquido Guarani 3L Fragrâncias",
+  "b": "Lava Roupas Liquido Coala FR 3L Fragrancias",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "flocos de milho livre d nao transgenico 500g || flocos de milho para cuscuz livre d nao transgenicos 500g": {
+  "a": "Flocos De Milho Para Cuscuz Livre D Não Transgênicos 500g",
+  "b": "Flocos de Milho Livre D Não Transgênico 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango lar congelada kg || coxa com sobrecoxa de frango mauricea kg": {
+  "a": "Coxa com Sobrecoxa de Frango Mauricéa kg",
+  "b": "Coxa com Sobrecoxa de Frango Lar Congelada kg",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "file de peito de frango temperado congelado seara pacote iqf zip 1kg || filezinho de frango sassami temperado congelado seara pacote iqf zip 1kg": {
+  "a": "Filezinho de Frango Sassami Temperado Congelado Seara Pacote IQF Zip 1kg",
+  "b": "Filé de Peito de Frango Temperado Congelado Seara Pacote IQF Zip 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "desodorante aerosol above 150ml (fragrancias) || desodorante aerossol herbissimo 150ml (fragrancias)": {
+  "a": "Desodorante Aerosol Above 150ml (fragrâncias)",
+  "b": "Desodorante Aerossol Herbíssimo 150ml (Fragrâncias)",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "desodorante aerossol dove 150ml fragrancias || desodorante aerossol herbissimo 150ml (fragrancias)": {
+  "a": "Desodorante Aerossol Dove 150ml Fragrancias",
+  "b": "Desodorante Aerossol Herbíssimo 150ml (Fragrâncias)",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "creme dental sorriso cx 70g trilha limpeza completa || creme dental sorriso tripla limpeza completa 70g": {
+  "a": "Creme Dental Sorriso Tripla Limpeza Completa 70g",
+  "b": "Creme Dental Sorriso CX 70g Trilha Limpeza Completa",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "feijao carioca kume 1kg || feijao carioca kume pacote 1kg": {
+  "a": "Feijão Carioca Kume 1kg",
+  "b": "Feijão Carioca Kumê Pacote 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "bolacha tieta do sertao sao miguel 200g || bolacha tieta do sertao sao miguel amanteigada 200g": {
+  "a": "Bolacha Tieta do Sertão São Miguel 200g",
+  "b": "Bolacha Tieta do Sertão São Miguel Amanteigada 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "ovos branco nordestao extra com 30 || ovos branco nordestao grande c/30": {
+  "a": "Ovos Branco Nordestão Extra Com 30",
+  "b": "Ovos Branco Nordestão Grande C/30",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "azeite extra virgem allegro 500ml || azeite extra virgem lindouro 500ml": {
+  "a": "Azeite Extra Virgem Lindouro 500ml",
+  "b": "Azeite Extra Virgem Allegro 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "absorvente sempre livre adapt suave c/ abas leve8 pague7 || absorvente sempre livre adapt suave lv8 p7": {
+  "a": "Absorvente Sempre Livre Adapt Suave c/ Abas Leve8 Pague7",
+  "b": "Absorvente Sempre Livre Adapt Suave LV8 P7",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "kit muito mais shampoo 1l + condicionador 1l || kit muito mais shampoo 1l + condicionador 1l varios tipos": {
+  "a": "Kit Muito Mais Shampoo 1L + Condicionador 1L Vários Tipos",
+  "b": "Kit Muito Mais Shampoo 1L + Condicionador 1L",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "coxinha asa fgo sadia pct 1kg || coxinha da asa de frango sadia pct 1kg": {
+  "a": "Coxinha da Asa de Frango Sadia Pct 1kg",
+  "b": "COXINHA ASA FGO SADIA PCT 1KG",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "bisteca bovina congelada masterboi || lingua bovina congelada masterboi": {
+  "a": "Bisteca Bovina Congelada Masterboi",
+  "b": "Língua Bovina Congelada Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "shampoo seda 300ml + cond 190ml || shampoo seda 300ml + condicionador 190ml": {
+  "a": "Shampoo Seda 300ml + Cond 190ml",
+  "b": "Shampoo Seda 300ml + Condicionador 190ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "sabonete em barra even 85g (fragrancias) || sabonete even 85g fragrancias": {
+  "a": "Sabonete Even 85g Fragrâncias",
+  "b": "Sabonete em Barra Even 85g (Fragrancias)",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "azeite de oliva extra virgem la rambla vd 500ml || azeite de oliva extra virgem san frediano vd 500ml": {
+  "a": "Azeite de Oliva Extra Virgem La Rambla vd 500ml",
+  "b": "Azeite de Oliva Extra Virgem San Frediano Vd 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "sabonete bulnez varias fragrancias unidade 80g || sabonete suave maran varias fragrancias unidade 80g": {
+  "a": "Sabonete Suave Maran Várias Fragrâncias Unidade 80g",
+  "b": "Sabonete Bulnez várias fragrâncias unidade 80g",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "salsicha hot dog natto resfriada || salsicha hot dog perdigao resfriada": {
+  "a": "Salsicha Hot Dog Perdigão Resfriada",
+  "b": "Salsicha Hot Dog Natto Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
+ },
+ "amaciante de roupa downy concentrado 500ml fragrancias || amaciante de roupas downy 500ml fragrancias": {
+  "a": "Amaciante de Roupa Downy Concentrado 500ml Fragrâncias",
+  "b": "Amaciante de Roupas Downy 500ml Fragrâncias",
+  "veredito": "mesmo",
+  "quando": "2026-08-10",
+  "aplicado": true
+ },
+ "feijao carioca compadre ze tipo 1 1kg || feijao carioca duze tipo 1 1kg": {
+  "a": "Feijão Carioca DuZé Tipo 1 1kg",
+  "b": "Feijão Carioca Compadre Zé Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-10"
  }
 }
