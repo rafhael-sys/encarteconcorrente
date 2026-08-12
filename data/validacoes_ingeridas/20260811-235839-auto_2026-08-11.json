@@ -1,0 +1,289 @@
+{
+ "validacoes": [
+  {
+   "a": "Carne Bovina Lagarto Friboi Resfriada",
+   "b": "Carne Bovina Picanha Friboi Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Pré-frita McCain Congelada 2kg",
+   "b": "Batata Pré-frita McCain Clássicas 2kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lasanha Felitá Chef 500g (Congelada - Sabores)",
+   "b": "Lasanha Felitá Chef 500g (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão Instantâneo Lámen VITARELLA 74,3g Sabores",
+   "b": "Macarrão Lámen Vitarella 74,3g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maionese Vigor Pouch 200g",
+   "b": "Maionese Vigor 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Pet 1L",
+   "b": "Refrigerante Guaraná Antarctica PET 1L Tradicional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vassoura Bettanin Novica Varry 1000 e Original",
+   "b": "Vassoura Bettanin Noviça / Varry 1000",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Itambé Semidesnatado 395g",
+   "b": "Leite Condensado Betânia Semidesnatado cx 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pão de Forma Bauducco 390g Tradicional",
+   "b": "Pão de Forma Bauducco 390g (tradicional ou integral)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bov Capa Filé Resf KG a Vácuo",
+   "b": "Carne Bovina Capa de File Resfriada kg a Vacuo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Jucurutu Resfriado",
+   "b": "Queijo Mussarela Jucurutu Resfriado (kg na peça)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Da Casa Tipo 2 Pacote com 1kg",
+   "b": "Feijão Carioca Kicaldo Tipo 1 Pacote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Energético Baly lta 473ml",
+   "b": "Energ Baly LT 473ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Turma da Mônica Shortinho Jumbo",
+   "b": "Fralda Descartável Turma da Mônica Shortinho Jumbo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Damare Semidesnatado 395g",
+   "b": "Leite Condensado Betânia Semidesnatado cx 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Açúcar Ecoçúcar Triturado ou Refinado 1kg",
+   "b": "Acucar Ecocucar Triturado Extra Fino 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Líquido Invicto 500ml (fragrâncias)",
+   "b": "Detergente Líquido GUARANI 500ml Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Kika Parboilizado Tipo 1 Pacote 1kg",
+   "b": "Arroz Parboilizado Tipo 2 Pop Pacote 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha de Trigo Finna Tradicional 1kg",
+   "b": "Farinha de Trigo Dona Maria Tradicional 1Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Fraldinha Bovina kg",
+   "b": "Fraldinha Bovina kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Fatiado Sertão Jucurutu 500g",
+   "b": "Queijo Tipo Mussarela Fatiado Jucurutu 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salg Fandangos 160g",
+   "b": "Salgadinho Fandangos 160g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Tradicional Quero Sachê 340g",
+   "b": "Molho de Tomate Tradicional Sadio Quero 340g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão Comum Lili Espaguete Fino Pacote 400g",
+   "b": "Macarrão Comum Cipan Espaguete Pacote 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Achocolatado em Pó Nescau 550g (pague 500g)",
+   "b": "Achocolatado Nescau Leve 550g Pague 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Alimento para Cães Sabor Carne Domus Saco 15kg",
+   "b": "Alimento para Cães Carne Domus 15kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Congelada Kg",
+   "b": "Coxa com Sobrecoxa de Frango Mauricéa kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Salsicha Hot Dog Avivar",
+   "b": "Salsicha Hot Dog Rara",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Fraldinha Bov",
+   "b": "Carne Fraldinha Bovina kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Envelopada",
+   "b": "Coxa com Sobrecoxa de Frango Lar Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Louças Ypê 500ml",
+   "b": "Lava Louças Alice 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito de Frango Bom Todo Congelado Bandeja 1kg",
+   "b": "Peito de Frango Bom Todo 1kg Congelado BDJ",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Eu Kero Tipo 2 Pacote com 1kg",
+   "b": "Feijão Carioca Kicaldo Tipo 1 Pacote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bov Chambaril kg",
+   "b": "Carne Bovina Chambaril",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupa Liquido OMO 3L Fragrancias",
+   "b": "Lava Roupa Líquido Lumii Maxx 3L Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creme de Leite Italac Zero Lactose 200g",
+   "b": "Creme de Leite Nestlé Zero Lactose cx 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Espetinho de Contra Filé/Bife Ancho Congelado 300g Seridoense",
+   "b": "Espetinho de Contra Filé / Bife Ancho Cong. Seridoense 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Eu Kero Tipo 2 Pacote com 1kg",
+   "b": "Feijão Carioca Da Casa Tipo 2 Pacote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Original Ou Zero Açúcar 1L",
+   "b": "Refrigerante Pepsi ou Guaraná Antarctica Original ou Zero 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovos Brancos Grandes Almeida Bandeja 30un",
+   "b": "Ovos Brancos Grandes Granja Regina Bandeja 30un",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lavanda Johnsons Baby 200ml",
+   "b": "Cond Johnsons Baby 200ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Hambúrguer de Fraldinha Congelado 120g Seridoense",
+   "b": "Hambúrguer Fraldinha Congelado Seridoense 120g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Des Aer Nivea Men 150ml Double Effect ou Des Aer Nivea 150ml Derma Defende",
+   "b": "Desodorante Aerossol Nivea Men 150ml Double Effect ou Nivea 150ml Derma Defende",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Nivea Hid 85g",
+   "b": "Sabonete Nivea Hidratante 85g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Boa Sorte Tipo 1 Pacote com 1kg",
+   "b": "Farinha de Trigo Boa sorte Com Fermento Pacote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça Calabresa Sadia",
+   "b": "Linguiça Calabresa Perdigão",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Tilápia Aurora Congelado IQF Pct 800g",
+   "b": "Filé de Peixe Tilápia Aurora Congelado pacote 800g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Fofex C/12",
+   "b": "Papel Higiênico Rose C/16",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado Seara Bandeja 1kg",
+   "b": "Filé de Peito de Frango Congelado Seara IQF ZIP 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça Calabresa Perdigão",
+   "b": "Linguiça Calabresa Seara",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas Líquido Tanlux 3L (Comfort Blue)",
+   "b": "Lava Roupas Líquido Tanlux Ação Total Comfort Blue 3L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Heineken Lata 350ml",
+   "b": "Cerveja Schin Lata 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado Natville Semidesnatado TP 395g",
+   "b": "Leite Condensado Natville ou Betânia Semidesnatado 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Capa de Filé Resfriada",
+   "b": "Capa de Filé Bovina Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
+   "b": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Preto Camil Tipo 1 1kg",
+   "b": "Feijão Preto Camil 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito ou Acem Bovino com Osso",
+   "b": "Peito ou Acém com Osso",
+   "veredito": "mesmo"
+  }
+ ]
+}
