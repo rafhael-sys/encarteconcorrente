@@ -227484,5 +227484,515 @@
    "w": 30,
    "h": 18
   }
+ ],
+ "assai_169706-572_p1": [
+  {
+   "n": "Alface Crespa Unidade",
+   "p": "1,69",
+   "u": "cada",
+   "x": 4,
+   "y": 23,
+   "w": 17,
+   "h": 12
+  },
+  {
+   "n": "Coentro Maço",
+   "p": "1,69",
+   "u": "cada",
+   "x": 22,
+   "y": 23,
+   "w": 17,
+   "h": 12
+  },
+  {
+   "n": "Repolho Verde kg",
+   "p": "3,99",
+   "u": "kg",
+   "x": 40,
+   "y": 23,
+   "w": 17,
+   "h": 12
+  },
+  {
+   "n": "Pimentão Verde kg",
+   "p": "4,99",
+   "u": "kg",
+   "x": 58,
+   "y": 23,
+   "w": 17,
+   "h": 12
+  },
+  {
+   "n": "Batata Doce Rosa kg",
+   "p": "3,99",
+   "u": "kg",
+   "x": 77,
+   "y": 23,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Abacaxi Unidade",
+   "p": "2,89",
+   "u": "cada",
+   "x": 4,
+   "y": 37,
+   "w": 17,
+   "h": 12
+  },
+  {
+   "n": "Melão Amarelo kg",
+   "p": "2,99",
+   "u": "kg",
+   "x": 22,
+   "y": 37,
+   "w": 17,
+   "h": 12
+  },
+  {
+   "n": "Banana Pacovam kg",
+   "p": "3,79",
+   "u": "kg",
+   "x": 40,
+   "y": 37,
+   "w": 17,
+   "h": 12
+  },
+  {
+   "n": "Tangerina Murcote kg",
+   "p": "4,99",
+   "u": "kg",
+   "x": 58,
+   "y": 37,
+   "w": 17,
+   "h": 12
+  },
+  {
+   "n": "Ameixa Importada kg",
+   "p": "21,89",
+   "u": "kg",
+   "x": 77,
+   "y": 37,
+   "w": 18,
+   "h": 12
+  },
+  {
+   "n": "Tomate Rasteiro kg",
+   "p": "2,99",
+   "u": "kg",
+   "x": 4,
+   "y": 52,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Mamão Formosa kg",
+   "p": "3,89",
+   "u": "kg",
+   "x": 22,
+   "y": 52,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Uva Vitória Bandeja 500g",
+   "p": "4,49",
+   "u": "cada",
+   "x": 40,
+   "y": 52,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Cenoura kg",
+   "p": "6,79",
+   "u": "kg",
+   "x": 58,
+   "y": 52,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Alho a Granel kg",
+   "p": "16,99",
+   "u": "kg",
+   "x": 77,
+   "y": 52,
+   "w": 18,
+   "h": 13
+  },
+  {
+   "n": "Laranja Pera kg",
+   "p": "1,79",
+   "u": "kg",
+   "x": 4,
+   "y": 73,
+   "w": 17,
+   "h": 14
+  },
+  {
+   "n": "Goma de Mandioca para Tapioca Kumê ou Compre de Zé Pacote 1kg",
+   "p": "3,89",
+   "u": "cada",
+   "x": 22,
+   "y": 73,
+   "w": 18,
+   "h": 14
+  },
+  {
+   "n": "Batata Lavada kg",
+   "p": "4,89",
+   "u": "kg",
+   "x": 42,
+   "y": 73,
+   "w": 17,
+   "h": 14
+  },
+  {
+   "n": "Cebola Nacional kg",
+   "p": "4,89",
+   "u": "kg",
+   "x": 60,
+   "y": 73,
+   "w": 17,
+   "h": 14
+  },
+  {
+   "n": "Ovos Brancos Grandes Granja Regina Bandeja 30 Unidades",
+   "p": "13,89",
+   "u": "cada",
+   "x": 77,
+   "y": 73,
+   "w": 18,
+   "h": 14
+  }
+ ],
+ "assai_169706-572_p2": [
+  {
+   "n": "Costela Bovina Resfriada kg",
+   "p": "24,90",
+   "u": "kg (no app Meu Assaí; de R$ 27,90)",
+   "x": 3,
+   "y": 9,
+   "w": 18,
+   "h": 17
+  },
+  {
+   "n": "Acém Bovino com Osso Resfriado Masterboi kg",
+   "p": "26,90",
+   "u": "kg (no app Meu Assaí; de R$ 29,90)",
+   "x": 22,
+   "y": 9,
+   "w": 18,
+   "h": 17
+  },
+  {
+   "n": "Paleta Bovina Resfriada Masterboi kg",
+   "p": "35,90",
+   "u": "kg (no app Meu Assaí; de R$ 39,90)",
+   "x": 41,
+   "y": 9,
+   "w": 18,
+   "h": 17
+  },
+  {
+   "n": "Miolo da Alcatra Bovina Resfriada Masterboi kg",
+   "p": "44,90",
+   "u": "kg (no app Meu Assaí; de R$ 49,90)",
+   "x": 60,
+   "y": 9,
+   "w": 18,
+   "h": 17
+  },
+  {
+   "n": "Língua Bovina Congelada Masterboi kg",
+   "p": "22,90",
+   "u": "kg (no app Meu Assaí; de R$ 25,90)",
+   "x": 79,
+   "y": 9,
+   "w": 18,
+   "h": 17
+  },
+  {
+   "n": "Coxão Mole Bovino Resfriado a Vácuo Masterboi kg",
+   "p": "44,90",
+   "u": "kg",
+   "x": 3,
+   "y": 28,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Paleta com Osso Suína Resfriada Reserva kg",
+   "p": "15,90",
+   "u": "kg",
+   "x": 22,
+   "y": 28,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Peito Bovino Resfriado a Vácuo Masterboi kg",
+   "p": "39,90",
+   "u": "kg",
+   "x": 41,
+   "y": 28,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Fraldão Bovino Resfriado a Vácuo Master Grill Masterboi kg",
+   "p": "55,90",
+   "u": "kg",
+   "x": 60,
+   "y": 28,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Bife de Chorizo Bovino a Vácuo Master Grill Masterboi kg",
+   "p": "59,90",
+   "u": "kg",
+   "x": 79,
+   "y": 28,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Filé-Mignon Suíno Resfriado Reserva kg",
+   "p": "24,90",
+   "u": "kg",
+   "x": 3,
+   "y": 46,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Pernil Suíno com Osso Resfriado Reserva kg",
+   "p": "16,90",
+   "u": "kg",
+   "x": 22,
+   "y": 46,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+   "p": "39,90",
+   "u": "kg",
+   "x": 41,
+   "y": 46,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Jerked Beef Dianteiro Frinense Pacote 500g",
+   "p": "26,90",
+   "u": "cada",
+   "x": 60,
+   "y": 46,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Carne Moída Bovina Congelada Fortboi Embalagem 500g",
+   "p": "7,90",
+   "u": "cada",
+   "x": 79,
+   "y": 46,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Chambaril Bovino Resfriado Masterboi kg",
+   "p": "29,90",
+   "u": "kg",
+   "x": 3,
+   "y": 64,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Baço Bovino Congelado a Vácuo Masterboi kg",
+   "p": "6,90",
+   "u": "kg",
+   "x": 22,
+   "y": 64,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Sobrecoxa de Frango Resfriado Bom Todo kg",
+   "p": "11,90",
+   "u": "kg",
+   "x": 41,
+   "y": 64,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Filé de Peito de Frango Resfriado Bom Todo kg",
+   "p": "24,90",
+   "u": "kg",
+   "x": 60,
+   "y": 64,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Linguiça Suína Apimentada Fricó kg",
+   "p": "21,90",
+   "u": "kg",
+   "x": 79,
+   "y": 64,
+   "w": 18,
+   "h": 15
+  }
+ ],
+ "nosso_4b194e6429_p1": [
+  {
+   "n": "Carne Bovina Costela Ponta de Agulha kg",
+   "p": "22,48",
+   "u": "kg",
+   "x": 6,
+   "y": 34,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Carne Bovina Coxão Mole kg",
+   "p": "38,98",
+   "u": "kg",
+   "x": 24,
+   "y": 34,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Sobrepaleta Suína kg",
+   "p": "17,98",
+   "u": "kg",
+   "x": 42,
+   "y": 34,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Filé de Peito de Frango Canção kg",
+   "p": "14,48",
+   "u": "kg",
+   "x": 60,
+   "y": 34,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Lanche de Frango Aurora kg",
+   "p": "14,98",
+   "u": "kg",
+   "x": 78,
+   "y": 34,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Tomate Cajá ou Longa Vida kg",
+   "p": "3,98",
+   "u": "kg",
+   "x": 6,
+   "y": 48,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Alho a Granel 100g",
+   "p": "2,28",
+   "u": "100g",
+   "x": 21,
+   "y": 48,
+   "w": 13,
+   "h": 10
+  },
+  {
+   "n": "Uva Vitória Nosso Atacarejo 500g",
+   "p": "4,98",
+   "u": "cada",
+   "x": 33,
+   "y": 48,
+   "w": 15,
+   "h": 10
+  },
+  {
+   "n": "Goiaba kg",
+   "p": "3,98",
+   "u": "kg",
+   "x": 50,
+   "y": 48,
+   "w": 14,
+   "h": 10
+  },
+  {
+   "n": "Ovos Vermelhos Grande ou Extra Bandeja com 30",
+   "p": "16,98",
+   "u": "cada",
+   "x": 66,
+   "y": 48,
+   "w": 16,
+   "h": 10
+  },
+  {
+   "n": "Carne Fiambre Anglo 320g",
+   "p": "6,68",
+   "u": "cada",
+   "x": 4,
+   "y": 76,
+   "w": 14,
+   "h": 14
+  },
+  {
+   "n": "Leite Condensado Itambé 395g",
+   "p": "5,68",
+   "u": "cada",
+   "x": 19,
+   "y": 76,
+   "w": 14,
+   "h": 14
+  },
+  {
+   "n": "Arroz Dona Elza ou Safra Branco 1kg",
+   "p": "3,48",
+   "u": "cada",
+   "x": 34,
+   "y": 76,
+   "w": 14,
+   "h": 14
+  },
+  {
+   "n": "Flocão Dona Clara 500g",
+   "p": "1,38",
+   "u": "cada",
+   "x": 48,
+   "y": 76,
+   "w": 13,
+   "h": 14
+  },
+  {
+   "n": "Cachaça Quarto de Milho Premium Jequitibá 750ml",
+   "p": "39,98",
+   "u": "cada",
+   "x": 63,
+   "y": 76,
+   "w": 14,
+   "h": 14
+  },
+  {
+   "n": "Refrigerante Fanta 2L",
+   "p": "8,39",
+   "u": "cada",
+   "x": 79,
+   "y": 76,
+   "w": 15,
+   "h": 14
+  }
  ]
 }

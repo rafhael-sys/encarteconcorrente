@@ -1,0 +1,28 @@
+{
+ "shortcode": "nosso_4b194e6429",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-12",
+ "fim": "2026-08-13",
+ "titulo": "Nossa Quarta & Quinta",
+ "pages": {
+  "nosso_4b194e6429_p1": [
+   {"n": "Carne Bovina Costela Ponta de Agulha kg", "p": "22,48", "u": "kg", "x": 6, "y": 34, "w": 16, "h": 13},
+   {"n": "Carne Bovina Coxão Mole kg", "p": "38,98", "u": "kg", "x": 24, "y": 34, "w": 16, "h": 13},
+   {"n": "Sobrepaleta Suína kg", "p": "17,98", "u": "kg", "x": 42, "y": 34, "w": 16, "h": 13},
+   {"n": "Filé de Peito de Frango Canção kg", "p": "14,48", "u": "kg", "x": 60, "y": 34, "w": 16, "h": 13},
+   {"n": "Lanche de Frango Aurora kg", "p": "14,98", "u": "kg", "x": 78, "y": 34, "w": 16, "h": 13},
+   {"n": "Tomate Cajá ou Longa Vida kg", "p": "3,98", "u": "kg", "x": 6, "y": 48, "w": 15, "h": 10},
+   {"n": "Alho a Granel 100g", "p": "2,28", "u": "100g", "x": 21, "y": 48, "w": 13, "h": 10},
+   {"n": "Uva Vitória Nosso Atacarejo 500g", "p": "4,98", "u": "cada", "x": 33, "y": 48, "w": 15, "h": 10},
+   {"n": "Goiaba kg", "p": "3,98", "u": "kg", "x": 50, "y": 48, "w": 14, "h": 10},
+   {"n": "Ovos Vermelhos Grande ou Extra Bandeja com 30", "p": "16,98", "u": "cada", "x": 66, "y": 48, "w": 16, "h": 10},
+   {"n": "Carne Fiambre Anglo 320g", "p": "6,68", "u": "cada", "x": 4, "y": 76, "w": 14, "h": 14},
+   {"n": "Leite Condensado Itambé 395g", "p": "5,68", "u": "cada", "x": 19, "y": 76, "w": 14, "h": 14},
+   {"n": "Arroz Dona Elza ou Safra Branco 1kg", "p": "3,48", "u": "cada", "x": 34, "y": 76, "w": 14, "h": 14},
+   {"n": "Flocão Dona Clara 500g", "p": "1,38", "u": "cada", "x": 48, "y": 76, "w": 13, "h": 14},
+   {"n": "Cachaça Quarto de Milho Premium Jequitibá 750ml", "p": "39,98", "u": "cada", "x": 63, "y": 76, "w": 14, "h": 14},
+   {"n": "Refrigerante Fanta 2L", "p": "8,39", "u": "cada", "x": 79, "y": 76, "w": 15, "h": 14}
+  ]
+ }
+}

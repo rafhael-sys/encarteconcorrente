@@ -1,0 +1,314 @@
+{
+ "validacoes": [
+  {
+   "a": "Lava Roupas Po Ala 1,6kg Fragrancias",
+   "b": "Lava Roupa Pó Ala 1,6kg Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Goma de Mandioca Precioso 1kg",
+   "b": "Goma de Mandioca Preciso 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Alimento à Base de Manteiga e Creme Vegetal Favorita Com Sal PT 500g",
+   "b": "Alimento à Base de Manteiga e Creme Vegetal Favorita Com Sal 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitona Verde Rivoli Fatiada ou Sem Caroço Sachê 150g",
+   "b": "Azeitona Verde Rivoli Fatiada ou Sem Caroço SC 150g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vassoura Condor V 35 Varre Fácil, V9 Varre Muito",
+   "b": "Vassoura Condor V25 Varre Fácil, V9 Varre Muito",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Adapt 32un C/Abas",
+   "b": "Absorvente Sempre Livre Ad 32un c/Abas",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Polpa de Frutas Seridó Pct 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo",
+   "b": "Polpa de Fruta Seridó 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Shampoo Anti Caspa Clear Men L400 P330ml Fragrâncias",
+   "b": "Shampoo Anti Caspa Clear L400 P330ml Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cereal Mat Nescau SH 120g",
+   "b": "Cereal Mat Nescau 8h 120g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Peito ou Acém com Osso kg",
+   "b": "Carne Bovina Peito ou Acém com Osso",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Iana Grandes Brancos c/30und",
+   "b": "Ovos Iana Grandes Brancos com 30 und",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Amanteigado Amidovil Sortidos 270g",
+   "b": "Biscoitos Amanteigados Amidomil Sortidos 270g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Iog Clan Des Nat 150g Leit/Ferm",
+   "b": "Iog Clan de 8 Nat 150g Leit/Ferm",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite em Pó Aurora Integral 200g",
+   "b": "Leite Pó Aurora Integral 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Caipira, Vermelho, Ômegas ou Branco Livre de Gaiola C/20 Avine",
+   "b": "Ovo Caipira/Vermelho Ômega3/Branco Livre de Gaiola c/20 Avine",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Omo Ciclo Rápido 750ml",
+   "b": "Lava Roupas Líq Omo Ciclo Rápido 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "PATINHO BOV RESFRIADO KG",
+   "b": "Patinho Bovino Resfriado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Patinho Bovino Resfriado",
+   "b": "Patinho Bovino Resfriado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Quero Tradicional pouch 240g",
+   "b": "Molho de Tomate Quero Tradicional SC 240g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisteca Suína Congelada Kg",
+   "b": "Bisteca Suína Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mac Inst Nissin Lamen 85g (Sabores)",
+   "b": "Macarrão Inst Nissin Lámen 85g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Mineral Sterbom Com gás",
+   "b": "Água Mineral Sterbom Sem gás",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Água Mineral Sterbom GF 500ml c/gás",
+   "b": "Água Mineral Sterbom 500ml com Gás",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente em Pó Ala Sachê 400g (Fragrâncias)",
+   "b": "Detergente em Pó Ala 400g Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Beb Lac Sache Betânia 900ml Sabores",
+   "b": "Bebida Láctea Sachê Betânia 900ml Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado",
+   "b": "Filé de Peito de Frango Seara Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Achocolatado em Pó Italac Chocky 700g",
+   "b": "Achocolatado em Pó Italac Chocky 700g Sachet",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Friato Congelado",
+   "b": "Filé de Peito de Frango Seara Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava-roupas Líquido Ação Total Omo tb 750ml",
+   "b": "Lava-roupas Líquido Ação Total Omo diversos tb 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda-Calça Mamypoko Vários tamanhos Pacotes",
+   "b": "Fralda Calça Mamypoko Vários tamanhos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Quero Tradicional Pouch com 240g",
+   "b": "Molho de Tomate Quero Tradicional SC 240g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ameixa Fresca",
+   "b": "Ameixa Fresca kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Santa Clara 250g (Extraforte - Almofada/A Vácuo)",
+   "b": "Café São Braz 250g Extra Forte Almofada/a Vácuo",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Achocolatado em Pó Nescau 550g",
+   "b": "Achocolatado em Pó Nescau 550g Sachet",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupa Pó Brilhante 1,6kg Fragrâncias",
+   "b": "Lava Roupa Pó Ala 1,6kg Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bisteca Suina Seara",
+   "b": "Bisteca Suína Sadia",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Polpa de Fruta Seridó Abacaxi, Caju, Goiaba, Manga ou Tamarindo 1kg",
+   "b": "Polpa de Fruta Seridó 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Goma de Mandioca Caicó 1kg",
+   "b": "Goma de Mandioca Preciso 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Ave Nova Congelado",
+   "b": "Filé de Peito de Frango Seara Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Amaciante concentrado Comfort 500ml",
+   "b": "Amaciante Conc Comfort 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Regina Com Sal PT 200g",
+   "b": "Manteiga Elegê com Sal pt 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bisteca Suína Congelada Sadia",
+   "b": "Bisteca Suína Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Filé Mignon Do Chef Resfriada (kg na peça)",
+   "b": "Carne Bovina Filé Mignon Do Chef Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Carne Suína Saudali Congelada",
+   "b": "Linguiça Carne Suína Seara Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pão Forma Cadice 400g s/ Açúcar",
+   "b": "Pão Forma Cadice 400g Trad ou S/Açúcar",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado kg",
+   "b": "Filé de Peito de Frango Seara Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva Vitória Delly 500g",
+   "b": "Uva Vitória Delly Fruit 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Asa de Frango Perdigão Congelada",
+   "b": "Steak de Frango Perdigão Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupa Liquido OMO 3L Fragrancias",
+   "b": "Lava Roupa Omo 3L Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Jaguá Congelado PCT",
+   "b": "Filé de Peito de Frango Seara Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Goma Para Tapioca CAICÓ 1kg",
+   "b": "Goma para Tapioca Precioso 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Cream Cracker Estrela Tradicional 350g",
+   "b": "Biscoito Cream Cracker 3 de Maio Tradicional 350g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café Solúvel São Braz 40g Família/Extra Forte",
+   "b": "Café Solúvel São Braz 40g Ext Forte",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Polpa de Frutas Ster Bom 400g (abacaxi, caju, goiaba, manga ou tamarindo)",
+   "b": "Polpa de Fruta Sterbom 400g Caju/Goiaba/Manga/Tamarindo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Personal Vip c/12",
+   "b": "Papel Higiênico Personal Vip LV12 PG11",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa de Frango Sadia IQF Congelada 1kg",
+   "b": "Coxas de Frango Sadia Congeladas IQF 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Unalac Peça ou Pedaço",
+   "b": "Queijo Mussarela Jucurutu Peça ou Pedaço",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Polpa Ster Bom 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo",
+   "b": "Polpa de Fruta Seridó 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Banana Prata ou Pacovan",
+   "b": "Banana Prata/Pacovan kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salgadinho Torcida 60g Sabores",
+   "b": "Salgadinho Torcida 60g Sabores Variados",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Banana Anã",
+   "b": "Banana Anã kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sardinha Cabo Verde 125g Óleo ou Tomate",
+   "b": "Sardinha Coqueiro 125g Óleo ou Tomate",
+   "veredito": "diferente"
+  }
+ ]
+}

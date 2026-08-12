@@ -2939,3 +2939,65 @@
 - MESMO: «Vassoura Bettanin Novica Varry 1000 e Original» == «Vassoura Bettanin Noviça / Varry 1000»
 - MESMO: «Vinho Branco Port Virame Frizante 750ml» == «VH BC PORT VIRAME FRIZANTE GF 750ML»
 - DIFERENTES: «Vinagre Álcool Sadio 500ml Tradicional» != «Vinagre de Álcool LETO 500ml Tradicional»
+- MESMO: «Absorvente Sempre Livre Adapt 32un C/Abas» == «Absorvente Sempre Livre Ad 32un c/Abas»
+- MESMO: «Achocolatado em Pó Italac Chocky 700g» == «Achocolatado em Pó Italac Chocky 700g Sachet»
+- MESMO: «Achocolatado em Pó Nescau 550g» == «Achocolatado em Pó Nescau 550g Sachet»
+- MESMO: «Água Mineral Sterbom GF 500ml c/gás» == «Água Mineral Sterbom 500ml com Gás»
+- DIFERENTES: «Água Mineral Sterbom Com gás» != «Água Mineral Sterbom Sem gás»
+- MESMO: «Alimento à Base de Manteiga e Creme Vegetal Favorita Com Sal PT 500g» == «Alimento à Base de Manteiga e Creme Vegetal Favorita Com Sal 500g»
+- MESMO: «Amaciante concentrado Comfort 500ml» == «Amaciante Conc Comfort 500ml»
+- MESMO: «Ameixa Fresca» == «Ameixa Fresca kg»
+- DIFERENTES: «Asa de Frango Perdigão Congelada» != «Steak de Frango Perdigão Congelado»
+- MESMO: «Azeitona Verde Rivoli Fatiada ou Sem Caroço Sachê 150g» == «Azeitona Verde Rivoli Fatiada ou Sem Caroço SC 150g»
+- MESMO: «Banana Anã» == «Banana Anã kg»
+- MESMO: «Banana Prata ou Pacovan» == «Banana Prata/Pacovan kg»
+- MESMO: «Beb Lac Sache Betânia 900ml Sabores» == «Bebida Láctea Sachê Betânia 900ml Sabores»
+- MESMO: «Biscoito Amanteigado Amidovil Sortidos 270g» == «Biscoitos Amanteigados Amidomil Sortidos 270g»
+- DIFERENTES: «Biscoito Cream Cracker Estrela Tradicional 350g» != «Biscoito Cream Cracker 3 de Maio Tradicional 350g»
+- MESMO: «Bisteca Suína Congelada Kg» == «Bisteca Suína Congelada»
+- DIFERENTES: «Bisteca Suína Congelada Sadia» != «Bisteca Suína Congelada»
+- DIFERENTES: «Bisteca Suina Seara» != «Bisteca Suína Sadia»
+- DIFERENTES: «Café Santa Clara 250g (Extraforte - Almofada/A Vácuo)» != «Café São Braz 250g Extra Forte Almofada/a Vácuo»
+- MESMO: «Café Solúvel São Braz 40g Família/Extra Forte» == «Café Solúvel São Braz 40g Ext Forte»
+- MESMO: «Carne Bovina Filé Mignon Do Chef Resfriada (kg na peça)» == «Carne Bovina Filé Mignon Do Chef Resfriada»
+- MESMO: «Carne Bovina Peito ou Acém com Osso kg» == «Carne Bovina Peito ou Acém com Osso»
+- MESMO: «Cereal Mat Nescau SH 120g» == «Cereal Mat Nescau 8h 120g»
+- MESMO: «Coxa de Frango Sadia IQF Congelada 1kg» == «Coxas de Frango Sadia Congeladas IQF 1kg»
+- MESMO: «Detergente em Pó Ala Sachê 400g (Fragrâncias)» == «Detergente em Pó Ala 400g Fragrâncias»
+- DIFERENTES: «Filé de Peito de Frango Ave Nova Congelado» != «Filé de Peito de Frango Seara Congelado»
+- DIFERENTES: «Filé de Peito de Frango Congelado kg» != «Filé de Peito de Frango Seara Congelado»
+- DIFERENTES: «Filé de Peito de Frango Congelado» != «Filé de Peito de Frango Seara Congelado»
+- DIFERENTES: «Filé de Peito de Frango Friato Congelado» != «Filé de Peito de Frango Seara Congelado»
+- DIFERENTES: «Filé de Peito de Frango Jaguá Congelado PCT» != «Filé de Peito de Frango Seara Congelado»
+- MESMO: «Fralda-Calça Mamypoko Vários tamanhos Pacotes» == «Fralda Calça Mamypoko Vários tamanhos»
+- DIFERENTES: «Goma de Mandioca Caicó 1kg» != «Goma de Mandioca Preciso 1kg»
+- MESMO: «Goma de Mandioca Precioso 1kg» == «Goma de Mandioca Preciso 1kg»
+- DIFERENTES: «Goma Para Tapioca CAICÓ 1kg» != «Goma para Tapioca Precioso 1kg»
+- MESMO: «Iog Clan Des Nat 150g Leit/Ferm» == «Iog Clan de 8 Nat 150g Leit/Ferm»
+- MESMO: «Lava Roupa Liquido OMO 3L Fragrancias» == «Lava Roupa Omo 3L Fragrâncias»
+- DIFERENTES: «Lava Roupa Pó Brilhante 1,6kg Fragrâncias» != «Lava Roupa Pó Ala 1,6kg Fragrâncias»
+- MESMO: «Lava Roupas Po Ala 1,6kg Fragrancias» == «Lava Roupa Pó Ala 1,6kg Fragrâncias»
+- MESMO: «Lava Roupas Omo Ciclo Rápido 750ml» == «Lava Roupas Líq Omo Ciclo Rápido 750ml»
+- MESMO: «Lava-roupas Líquido Ação Total Omo tb 750ml» == «Lava-roupas Líquido Ação Total Omo diversos tb 750ml»
+- MESMO: «Leite em Pó Aurora Integral 200g» == «Leite Pó Aurora Integral 200g»
+- DIFERENTES: «Linguiça de Carne Suína Saudali Congelada» != «Linguiça Carne Suína Seara Congelada»
+- MESMO: «Mac Inst Nissin Lamen 85g (Sabores)» == «Macarrão Inst Nissin Lámen 85g Sabores»
+- DIFERENTES: «Manteiga Regina Com Sal PT 200g» != «Manteiga Elegê com Sal pt 200g»
+- MESMO: «Molho de Tomate Quero Tradicional pouch 240g» == «Molho de Tomate Quero Tradicional SC 240g»
+- MESMO: «Molho de Tomate Quero Tradicional Pouch com 240g» == «Molho de Tomate Quero Tradicional SC 240g»
+- MESMO: «Ovo Caipira, Vermelho, Ômegas ou Branco Livre de Gaiola C/20 Avine» == «Ovo Caipira/Vermelho Ômega3/Branco Livre de Gaiola c/20 Avine»
+- MESMO: «Ovos Iana Grandes Brancos c/30und» == «Ovos Iana Grandes Brancos com 30 und»
+- MESMO: «Pão Forma Cadice 400g s/ Açúcar» == «Pão Forma Cadice 400g Trad ou S/Açúcar»
+- MESMO: «Papel Higiênico Personal Vip c/12» == «Papel Higiênico Personal Vip LV12 PG11»
+- MESMO: «PATINHO BOV RESFRIADO KG» == «Patinho Bovino Resfriado kg»
+- MESMO: «Patinho Bovino Resfriado» == «Patinho Bovino Resfriado kg»
+- MESMO: «Polpa de Fruta Seridó Abacaxi, Caju, Goiaba, Manga ou Tamarindo 1kg» == «Polpa de Fruta Seridó 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo»
+- MESMO: «Polpa de Frutas Seridó Pct 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo» == «Polpa de Fruta Seridó 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo»
+- DIFERENTES: «Polpa Ster Bom 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo» != «Polpa de Fruta Seridó 1kg Abacaxi/Caju/Goiaba/Manga/Tamarindo»
+- MESMO: «Polpa de Frutas Ster Bom 400g (abacaxi, caju, goiaba, manga ou tamarindo)» == «Polpa de Fruta Sterbom 400g Caju/Goiaba/Manga/Tamarindo»
+- DIFERENTES: «Queijo Mussarela Unalac Peça ou Pedaço» != «Queijo Mussarela Jucurutu Peça ou Pedaço»
+- MESMO: «Salgadinho Torcida 60g Sabores» == «Salgadinho Torcida 60g Sabores Variados»
+- DIFERENTES: «Sardinha Cabo Verde 125g Óleo ou Tomate» != «Sardinha Coqueiro 125g Óleo ou Tomate»
+- MESMO: «Shampoo Anti Caspa Clear Men L400 P330ml Fragrâncias» == «Shampoo Anti Caspa Clear L400 P330ml Fragrâncias»
+- MESMO: «Uva Vitória Delly 500g» == «Uva Vitória Delly Fruit 500g»
+- MESMO: «Vassoura Condor V 35 Varre Fácil, V9 Varre Muito» == «Vassoura Condor V25 Varre Fácil, V9 Varre Muito»
