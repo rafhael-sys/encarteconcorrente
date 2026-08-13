@@ -14132,5 +14132,42 @@
   "adicionado_em": "2026-08-12",
   "fonte": "web",
   "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "assai_169764-572",
+  "perfil": "assai.com.br",
+  "titulo": "Especial App Meu Assaí",
+  "banner": "Assaí Atacadista",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-13",
+  "fim": "2026-08-19",
+  "carrossel": true,
+  "shortcode": "assai_169764-572",
+  "caption": "Preços válidos de 13/08/2026 até 19/08/2026",
+  "paginas": [
+   "assai_169764-572_p1.jpg",
+   "assai_169764-572_p2.jpg"
+  ],
+  "adicionado_em": "2026-08-13",
+  "fonte": "web",
+  "link": "https://www.assai.com.br/ofertas/rio-grande-do-norte/assai-natal"
+ },
+ {
+  "id": "atacadao_7ffe8171cc",
+  "perfil": "atacadao.com.br",
+  "titulo": "Boa do Dia",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-13",
+  "fim": "2026-08-13",
+  "carrossel": false,
+  "shortcode": "atacadao_7ffe8171cc",
+  "caption": "Boa do Dia",
+  "paginas": [
+   "atacadao_7ffe8171cc_p1.jpg"
+  ],
+  "adicionado_em": "2026-08-13",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
  }
 ]

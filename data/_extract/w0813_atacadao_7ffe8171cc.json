@@ -1,0 +1,20 @@
+{
+ "shortcode": "atacadao_7ffe8171cc",
+ "discard": false,
+ "discard_reason": "",
+ "inicio": "2026-08-13",
+ "fim": "2026-08-13",
+ "titulo": "Boa do Dia",
+ "pages": {
+  "atacadao_7ffe8171cc_p1": [
+   {"n": "Ovo Branco Grande PVC Bandeja com 30 unidades", "p": "13,59", "u": "un", "x": 4, "y": 37, "w": 46, "h": 15},
+   {"n": "Cebola Branca kg", "p": "4,79", "u": "kg", "x": 51, "y": 37, "w": 46, "h": 15},
+   {"n": "Coxa com Sobrecoxa de Frango Lar Congelada kg", "p": "7,79", "u": "kg", "x": 4, "y": 53, "w": 46, "h": 14},
+   {"n": "Hambúrguer Rezende Congelado Aves/Suíno Caixeta 36x56g", "p": "31,90", "u": "un", "x": 51, "y": 53, "w": 46, "h": 14},
+   {"n": "Flocão de Milho Fortemilho 400g", "p": "0,89", "u": "un", "x": 4, "y": 67, "w": 46, "h": 13},
+   {"n": "Leite Condensado Piracanjuba Semidesnatado TP 395g", "p": "5,79", "u": "un", "x": 51, "y": 67, "w": 46, "h": 13},
+   {"n": "Lava Roupas em Pó Omo Lavagem Perfeita 2,4kg", "p": "24,90", "u": "un", "x": 4, "y": 80, "w": 46, "h": 13},
+   {"n": "Detergente Líquido Minuano Vários Tipos 500ml", "p": "1,99", "u": "un", "x": 51, "y": 80, "w": 46, "h": 13}
+  ]
+ }
+}

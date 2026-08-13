@@ -20044,5 +20044,400 @@
   "b": "Sardinha Coqueiro 125g Óleo ou Tomate",
   "veredito": "diferente",
   "quando": "2026-08-12"
+ },
+ "fralda mamypoko super protc m34/g28/xg24/xxg22 || fralda mamypoko super protec m34/g28/xg24/xxg22": {
+  "a": "Fralda Mamypoko Super Protec M34/G28/XG24/XXG22",
+  "b": "Fralda Mamypoko Super Protc M34/G28/XG24/XXG22",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "mamao formosa processado em cubos kg || mamao formosa processados em cubos kg": {
+  "a": "Mamão Formosa Processado em Cubos kg",
+  "b": "Mamão Formosa Processados em Cubos Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "fralda mamypoko super protc m34/g28/xg24/xxg21 || fralda mamypoko super protc m34/g28/xg24/xxg22": {
+  "a": "Fralda Mamypoko Super Protc M34/G28/XG24/XXG21",
+  "b": "Fralda Mamypoko Super Protc M34/G28/XG24/XXG22",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "frango passarinho temp iqf bom todo 1kg || frango passarinho temp iqf bon todo 1kg": {
+  "a": "Frango Passarinho Temp IQF Bon Todo 1kg",
+  "b": "Frango Passarinho Temp IQF Bom Todo 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "achocolatado liquido toddynho 200ml chocolate ou levinho || achocolatado liquido toddynho 200ml chocolate/levinho": {
+  "a": "Achocolatado Líquido Toddynho 200ml Chocolate ou Levinho",
+  "b": "Achocolatado Líquido Toddynho 200ml Chocolate/Levinho",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "leite uht natville integral ou desnatado 1l || leite uht natville integral ou desnatado cx 1l": {
+  "a": "Leite UHT Natville Integral ou Desnatado 1L",
+  "b": "Leite UHT Natville Integral ou Desnatado Cx 1L",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "file de peito de frango resfriado bom todo || file de peito de frango resfriado bom todo kg": {
+  "a": "Filé de Peito de Frango Resfriado Bom Todo",
+  "b": "Filé de Peito de Frango Resfriado Bom Todo kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "azeite de oliva extra virgem o-live 450ml || azeite de oliva extra virgem o-live vd 450ml": {
+  "a": "Azeite de Oliva Extra Virgem O-Live vd 450ml",
+  "b": "Azeite de Oliva Extra Virgem O-Live 450ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "uva vitoria cappellaro sem sementes 500g || uva vitoria cappellaro sem sementes cb 500g": {
+  "a": "Uva Vitória Cappellaro sem Sementes cb 500g",
+  "b": "Uva Vitória Cappellaro Sem Sementes 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "baco bovino congelado a vacuo masterboi || baco bovino congelado a vacuo masterboi kg": {
+  "a": "Baço Bovino Congelado a Vácuo Masterboi",
+  "b": "Baço Bovino Congelado a Vácuo Masterboi kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "filezinho sassami de frango lar congelado bandeja 1kg || filezinho sassami de frango seara congelado bandeja 1kg": {
+  "a": "Filezinho Sassami de Frango Seara Congelado Bandeja 1kg",
+  "b": "Filezinho Sassami De Frango Lar Congelado Bandeja 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "pernil suino com osso resfriado reserva || pernil suino com osso resfriado reserva kg": {
+  "a": "Pernil Suíno com Osso Resfriado Reserva",
+  "b": "Pernil Suíno com Osso Resfriado Reserva kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "chambaril bovino resfriado masterboi || chambaril bovino resfriado masterboi kg": {
+  "a": "Chambaril Bovino Resfriado Masterboi",
+  "b": "Chambaril Bovino Resfriado Masterboi kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "lingua bovina congelada masterboi || lingua bovina congelada masterboi kg": {
+  "a": "Língua Bovina Congelada Masterboi",
+  "b": "Língua Bovina Congelada Masterboi kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "filezinho sassami de frango aurora congelado bandeja 1kg || filezinho sassami de frango lar congelado bandeja 1kg": {
+  "a": "Filezinho Sassami de Frango Aurora Congelado Bandeja 1kg",
+  "b": "Filezinho Sassami De Frango Lar Congelado Bandeja 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "linguica p/ churrasco aurora || linguica p/ churrasco aurora kg": {
+  "a": "Linguiça p/ Churrasco Aurora KG",
+  "b": "Linguiça P/ Churrasco Aurora",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "steak de frango seara pct 100g || steak frango seara pct 100g": {
+  "a": "Steak Frango Seara PCT 100g",
+  "b": "Steak de Frango Seara Pct 100g",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "feijao preto camil tipo 1 pacote 1kg || feijao preto camil tipo 1 pacote com 1kg": {
+  "a": "Feijão Preto Camil Tipo 1 Pacote com 1kg",
+  "b": "Feijão Preto Camil Tipo 1 Pacote 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "file de peito de frango lar 1kg || file de peito de frango lar 1kg iqf": {
+  "a": "Filé de Peito de Frango LAR 1kg",
+  "b": "Filé De Peito De Frango Lar 1kg IQF",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "camarao cinza a granel || camarao cinza a granel kg": {
+  "a": "Camarão Cinza a Granel KG",
+  "b": "Camarão Cinza A Granel",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "queijo mussarela proc caico pc ou pdc || queijo mussarela proc calco pc ou pdc kg": {
+  "a": "Queijo Mussarela Proc Calco Pç ou Pdç KG",
+  "b": "Queijo Mussarela Proc Caicó Pç Ou Pdç",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "uva verde seleta sem semente 500g || uva vermelha seleta sem semente 500g": {
+  "a": "Uva Verde Seleta Sem Semente 500g",
+  "b": "Uva Vermelha Seleta Sem Semente 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "batata lisa inglesa || batata lisa inglesa kg": {
+  "a": "Batata Lisa Inglesa",
+  "b": "Batata Lisa Inglesa Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa bom todo bdj || coxa com sobrecoxa bon todo bdj kg": {
+  "a": "Coxa com Sobrecoxa Bon Todo Bdj KG",
+  "b": "Coxa Com Sobrecoxa Bom Todo Bdj",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "paleta bovina resfriada a vacuo masterboi kg || picanha bovina resfriada a vacuo masterboi kg": {
+  "a": "Picanha Bovina Resfriada a Vácuo Masterboi KG",
+  "b": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "frango a passarinho temp bom todo 1kg || frango passarinho temp iqf bom todo 1kg": {
+  "a": "Frango a Passarinho Temp Bom Todo 1kg",
+  "b": "Frango Passarinho Temp IQF Bom Todo 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "carne suina carre || carne suina carre kg": {
+  "a": "Carne Suína Carré",
+  "b": "Carne Suína Carré Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "filezinho de frango lar congelado bandeja 1kg || filezinho sassami de frango lar congelado bandeja 1kg": {
+  "a": "Filezinho de Frango Lar Congelado Bandeja 1kg",
+  "b": "Filezinho Sassami De Frango Lar Congelado Bandeja 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "achocolatado liquido toddynho 200ml chocolate || achocolatado liquido toddynho 200ml chocolate/levinho": {
+  "a": "Achocolatado Líquido Toddynho 200ml Chocolate/Levinho",
+  "b": "Achocolatado Líquido Toddynho 200ml Chocolate",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "ameixa importada || ameixa importada kg": {
+  "a": "Ameixa Importada",
+  "b": "Ameixa Importada kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "linguica de frango aurora 700g || linguica de frango lar 700g": {
+  "a": "Linguiça de Frango Lar 700g",
+  "b": "Linguiça de Frango Aurora 700g",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "uva preta seleta sem semente 500g || uva verde seleta sem semente 500g": {
+  "a": "Uva Preta Seleta Sem Semente 500g",
+  "b": "Uva Verde Seleta Sem Semente 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "linguica tipo calabresa perdigao pacote 2,5kg || linguica tipo calabresa perdigao reta pacote com 2,5kg": {
+  "a": "Linguiça tipo Calabresa Perdigão Reta Pacote com 2,5kg",
+  "b": "Linguiça Tipo Calabresa Perdigão Pacote 2,5kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "limao siciliano || limao siciliano kg": {
+  "a": "Limão Siciliano",
+  "b": "Limão Siciliano Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "desodorante aerossol above 150ml || desodorante aerossol nivea 150ml": {
+  "a": "Desodorante Aerossol Above 150ml",
+  "b": "Desodorante Aerossol Nivea 150ml",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "file de peito de frango cancao kg || file de peito de frango rara kg": {
+  "a": "Filé de Peito de Frango Rara kg",
+  "b": "Filé de Peito de Frango Canção kg",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "cerveja lokal bier lata 350ml || cerveja lokal lata 350ml": {
+  "a": "Cerveja Lokal Bier Lata 350ml",
+  "b": "Cerveja Lokal Lata 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "file de peito de frango lar 1kg iqf || file peito frango lar 1kg iqf": {
+  "a": "Filé Peito Frango Lar 1kg IQF",
+  "b": "Filé De Peito De Frango Lar 1kg IQF",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "banana pacovam kg || banana-pacovam": {
+  "a": "Banana-Pacovam",
+  "b": "Banana Pacovam kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "jerked beef dianteiro friboi pacote 500g || jerked beef dianteiro frinense pacote 500g": {
+  "a": "Jerked Beef Dianteiro Friboi Pacote 500g",
+  "b": "Jerked Beef Dianteiro Frinense Pacote 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "azeite de oliva extra virgem condesa antunes 500ml || azeite extra virgem condesa antunes 500ml": {
+  "a": "Azeite Extra Virgem Condesa Antunes 500ml",
+  "b": "Azeite De Oliva Extra Virgem Condesa Antunes 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "paleta bovina resfriada a vacuo masterboi kg || paleta bovina resfriada masterboi kg": {
+  "a": "Paleta Bovina Resfriada Masterboi kg",
+  "b": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "cafe torrado e moido sao braz extra forte 250g || cafe torrado e moido sao braz extraforte almofada 250g": {
+  "a": "Café Torrado e Moído São Braz Extra Forte 250g",
+  "b": "Café Torrado e Moído São Braz Extraforte Almofada 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "desodorante dove aerosol 150ml || desodorante mood aerosol 150ml": {
+  "a": "Desodorante Dove Aerosol 150ml",
+  "b": "Desodorante Mood Aerosol 150ml",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "farinha de trigo finna pct 1kg || farinha de trigo finna s/f 1kg": {
+  "a": "Farinha de Trigo Finna pct 1kg",
+  "b": "Farinha De Trigo Finna S/F 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "locao repelente baruel kids 100ml || repelente baruel kids 100ml": {
+  "a": "Repelente Baruel Kids 100ml",
+  "b": "Loção Repelente Baruel Kids 100ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "bebida mista ice lemon pego 300ml || bebida mista ice pego 300ml": {
+  "a": "Bebida Mista Ice Pego 300ml",
+  "b": "Bebida Mista Ice Lemon Pego 300ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "molho de tomate trad sadio 300g || molho de tomate tradicional sadio 300g": {
+  "a": "Molho de Tomate Tradicional Sadio 300g",
+  "b": "Molho De Tomate Trad Sadio 300g",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "uva preta seleta sem semente 500g || uva vermelha seleta sem semente 500g": {
+  "a": "Uva Preta Seleta Sem Semente 500g",
+  "b": "Uva Vermelha Seleta Sem Semente 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "salsicha hot dog avinar kg || salsicha hot dog avivar": {
+  "a": "Salsicha Hot Dog Avivar",
+  "b": "Salsicha Hot Dog Avinar Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "paleta bovina resfriada a vacuo masterboi kg || peito bovino resfriado a vacuo masterboi kg": {
+  "a": "Peito Bovino Resfriado a Vácuo Masterboi kg",
+  "b": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "maca vermelha || maca vermelha kg": {
+  "a": "Maçã Vermelha",
+  "b": "Maçã Vermelha Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "requeijao trad da clan 200g || requeijao trad da davaca 200g": {
+  "a": "Requeijão Trad da Clan 200g",
+  "b": "Requeijão Trad Da Davaca 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "cupim bovino resfriado a vacuo masterboi || peito bovino resfriado a vacuo masterboi kg": {
+  "a": "Cupim Bovino Resfriado a Vácuo Masterboi",
+  "b": "Peito Bovino Resfriado a Vácuo Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "uva preta seleta sem semente 500g || uva preta seleta sem semente bandeja 500g": {
+  "a": "Uva Preta Seleta Sem Semente Bandeja 500g",
+  "b": "Uva Preta Seleta Sem Semente 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
+ },
+ "file de peito de frango cancao kg || file de peito de frango jagua kg": {
+  "a": "File de Peito de Frango Jagua kg",
+  "b": "Filé de Peito de Frango Canção kg",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "desodorante aerossol nivea 150ml || desodorante aerossol rexona 150ml": {
+  "a": "Desodorante Aerossol Rexona 150ml",
+  "b": "Desodorante Aerossol Nivea 150ml",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "feijao carioca camil tipo 1 pacote 1kg || feijao preto camil tipo 1 pacote 1kg": {
+  "a": "Feijão Carioca Camil Tipo 1 Pacote 1kg",
+  "b": "Feijão Preto Camil Tipo 1 Pacote 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-13"
+ },
+ "achocolatado liquido toddynho 200ml chocolate || achocolatado liquido toddynho 200ml chocolate ou levinho": {
+  "a": "Achocolatado Líquido Toddynho 200ml Chocolate ou Levinho",
+  "b": "Achocolatado Líquido Toddynho 200ml Chocolate",
+  "veredito": "mesmo",
+  "quando": "2026-08-13",
+  "aplicado": true
  }
 }

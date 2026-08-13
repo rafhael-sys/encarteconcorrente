@@ -1,0 +1,299 @@
+{
+ "validacoes": [
+  {
+   "a": "Fralda Mamypoko Super Protec M34/G28/XG24/XXG22",
+   "b": "Fralda Mamypoko Super Protc M34/G28/XG24/XXG22",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mamão Formosa Processado em Cubos kg",
+   "b": "Mamão Formosa Processados em Cubos Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Mamypoko Super Protc M34/G28/XG24/XXG21",
+   "b": "Fralda Mamypoko Super Protc M34/G28/XG24/XXG22",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango Passarinho Temp IQF Bon Todo 1kg",
+   "b": "Frango Passarinho Temp IQF Bom Todo 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado Líquido Toddynho 200ml Chocolate ou Levinho",
+   "b": "Achocolatado Líquido Toddynho 200ml Chocolate/Levinho",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite UHT Natville Integral ou Desnatado 1L",
+   "b": "Leite UHT Natville Integral ou Desnatado Cx 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Resfriado Bom Todo",
+   "b": "Filé de Peito de Frango Resfriado Bom Todo kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem O-Live vd 450ml",
+   "b": "Azeite de Oliva Extra Virgem O-Live 450ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Vitória Cappellaro sem Sementes cb 500g",
+   "b": "Uva Vitória Cappellaro Sem Sementes 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Baço Bovino Congelado a Vácuo Masterboi",
+   "b": "Baço Bovino Congelado a Vácuo Masterboi kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho Sassami de Frango Seara Congelado Bandeja 1kg",
+   "b": "Filezinho Sassami De Frango Lar Congelado Bandeja 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pernil Suíno com Osso Resfriado Reserva",
+   "b": "Pernil Suíno com Osso Resfriado Reserva kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chambaril Bovino Resfriado Masterboi",
+   "b": "Chambaril Bovino Resfriado Masterboi kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Língua Bovina Congelada Masterboi",
+   "b": "Língua Bovina Congelada Masterboi kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho Sassami de Frango Aurora Congelado Bandeja 1kg",
+   "b": "Filezinho Sassami De Frango Lar Congelado Bandeja 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça p/ Churrasco Aurora KG",
+   "b": "Linguiça P/ Churrasco Aurora",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Steak Frango Seara PCT 100g",
+   "b": "Steak de Frango Seara Pct 100g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Preto Camil Tipo 1 Pacote com 1kg",
+   "b": "Feijão Preto Camil Tipo 1 Pacote 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango LAR 1kg",
+   "b": "Filé De Peito De Frango Lar 1kg IQF",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Camarão Cinza a Granel KG",
+   "b": "Camarão Cinza A Granel",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Proc Calco Pç ou Pdç KG",
+   "b": "Queijo Mussarela Proc Caicó Pç Ou Pdç",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Verde Seleta Sem Semente 500g",
+   "b": "Uva Vermelha Seleta Sem Semente 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Lisa Inglesa",
+   "b": "Batata Lisa Inglesa Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa Bon Todo Bdj KG",
+   "b": "Coxa Com Sobrecoxa Bom Todo Bdj",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Picanha Bovina Resfriada a Vácuo Masterboi KG",
+   "b": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Frango a Passarinho Temp Bom Todo 1kg",
+   "b": "Frango Passarinho Temp IQF Bom Todo 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Suína Carré",
+   "b": "Carne Suína Carré Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Frango Lar Congelado Bandeja 1kg",
+   "b": "Filezinho Sassami De Frango Lar Congelado Bandeja 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado Líquido Toddynho 200ml Chocolate/Levinho",
+   "b": "Achocolatado Líquido Toddynho 200ml Chocolate",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ameixa Importada",
+   "b": "Ameixa Importada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Lar 700g",
+   "b": "Linguiça de Frango Aurora 700g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva Preta Seleta Sem Semente 500g",
+   "b": "Uva Verde Seleta Sem Semente 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça tipo Calabresa Perdigão Reta Pacote com 2,5kg",
+   "b": "Linguiça Tipo Calabresa Perdigão Pacote 2,5kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limão Siciliano",
+   "b": "Limão Siciliano Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerossol Above 150ml",
+   "b": "Desodorante Aerossol Nivea 150ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Rara kg",
+   "b": "Filé de Peito de Frango Canção kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Lokal Bier Lata 350ml",
+   "b": "Cerveja Lokal Lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé Peito Frango Lar 1kg IQF",
+   "b": "Filé De Peito De Frango Lar 1kg IQF",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Banana-Pacovam",
+   "b": "Banana Pacovam kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Jerked Beef Dianteiro Friboi Pacote 500g",
+   "b": "Jerked Beef Dianteiro Frinense Pacote 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite Extra Virgem Condesa Antunes 500ml",
+   "b": "Azeite De Oliva Extra Virgem Condesa Antunes 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Paleta Bovina Resfriada Masterboi kg",
+   "b": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café Torrado e Moído São Braz Extra Forte 250g",
+   "b": "Café Torrado e Moído São Braz Extraforte Almofada 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Dove Aerosol 150ml",
+   "b": "Desodorante Mood Aerosol 150ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha de Trigo Finna pct 1kg",
+   "b": "Farinha De Trigo Finna S/F 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Repelente Baruel Kids 100ml",
+   "b": "Loção Repelente Baruel Kids 100ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Mista Ice Pego 300ml",
+   "b": "Bebida Mista Ice Lemon Pego 300ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Tradicional Sadio 300g",
+   "b": "Molho De Tomate Trad Sadio 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Preta Seleta Sem Semente 500g",
+   "b": "Uva Vermelha Seleta Sem Semente 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Salsicha Hot Dog Avivar",
+   "b": "Salsicha Hot Dog Avinar Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito Bovino Resfriado a Vácuo Masterboi kg",
+   "b": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Maçã Vermelha",
+   "b": "Maçã Vermelha Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Trad da Clan 200g",
+   "b": "Requeijão Trad Da Davaca 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cupim Bovino Resfriado a Vácuo Masterboi",
+   "b": "Peito Bovino Resfriado a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva Preta Seleta Sem Semente Bandeja 500g",
+   "b": "Uva Preta Seleta Sem Semente 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "File de Peito de Frango Jagua kg",
+   "b": "Filé de Peito de Frango Canção kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Aerossol Rexona 150ml",
+   "b": "Desodorante Aerossol Nivea 150ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca Camil Tipo 1 Pacote 1kg",
+   "b": "Feijão Preto Camil Tipo 1 Pacote 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Achocolatado Líquido Toddynho 200ml Chocolate ou Levinho",
+   "b": "Achocolatado Líquido Toddynho 200ml Chocolate",
+   "veredito": "mesmo"
+  }
+ ]
+}

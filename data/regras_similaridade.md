@@ -3001,3 +3001,62 @@
 - MESMO: «Shampoo Anti Caspa Clear Men L400 P330ml Fragrâncias» == «Shampoo Anti Caspa Clear L400 P330ml Fragrâncias»
 - MESMO: «Uva Vitória Delly 500g» == «Uva Vitória Delly Fruit 500g»
 - MESMO: «Vassoura Condor V 35 Varre Fácil, V9 Varre Muito» == «Vassoura Condor V25 Varre Fácil, V9 Varre Muito»
+- MESMO: «Achocolatado Líquido Toddynho 200ml Chocolate ou Levinho» == «Achocolatado Líquido Toddynho 200ml Chocolate/Levinho»
+- MESMO: «Achocolatado Líquido Toddynho 200ml Chocolate ou Levinho» == «Achocolatado Líquido Toddynho 200ml Chocolate»
+- MESMO: «Achocolatado Líquido Toddynho 200ml Chocolate/Levinho» == «Achocolatado Líquido Toddynho 200ml Chocolate»
+- MESMO: «Ameixa Importada» == «Ameixa Importada kg»
+- MESMO: «Azeite Extra Virgem Condesa Antunes 500ml» == «Azeite De Oliva Extra Virgem Condesa Antunes 500ml»
+- MESMO: «Azeite de Oliva Extra Virgem O-Live vd 450ml» == «Azeite de Oliva Extra Virgem O-Live 450ml»
+- MESMO: «Baço Bovino Congelado a Vácuo Masterboi» == «Baço Bovino Congelado a Vácuo Masterboi kg»
+- MESMO: «Banana-Pacovam» == «Banana Pacovam kg»
+- MESMO: «Batata Lisa Inglesa» == «Batata Lisa Inglesa Kg»
+- MESMO: «Bebida Mista Ice Pego 300ml» == «Bebida Mista Ice Lemon Pego 300ml»
+- MESMO: «Café Torrado e Moído São Braz Extra Forte 250g» == «Café Torrado e Moído São Braz Extraforte Almofada 250g»
+- MESMO: «Camarão Cinza a Granel KG» == «Camarão Cinza A Granel»
+- MESMO: «Carne Suína Carré» == «Carne Suína Carré Kg»
+- MESMO: «Cerveja Lokal Bier Lata 350ml» == «Cerveja Lokal Lata 350ml»
+- MESMO: «Chambaril Bovino Resfriado Masterboi» == «Chambaril Bovino Resfriado Masterboi kg»
+- MESMO: «Coxa com Sobrecoxa Bon Todo Bdj KG» == «Coxa Com Sobrecoxa Bom Todo Bdj»
+- DIFERENTES: «Cupim Bovino Resfriado a Vácuo Masterboi» != «Peito Bovino Resfriado a Vácuo Masterboi kg»
+- DIFERENTES: «Desodorante Aerossol Above 150ml» != «Desodorante Aerossol Nivea 150ml»
+- DIFERENTES: «Desodorante Aerossol Rexona 150ml» != «Desodorante Aerossol Nivea 150ml»
+- DIFERENTES: «Desodorante Dove Aerosol 150ml» != «Desodorante Mood Aerosol 150ml»
+- MESMO: «Farinha de Trigo Finna pct 1kg» == «Farinha De Trigo Finna S/F 1kg»
+- DIFERENTES: «Feijão Carioca Camil Tipo 1 Pacote 1kg» != «Feijão Preto Camil Tipo 1 Pacote 1kg»
+- MESMO: «Feijão Preto Camil Tipo 1 Pacote com 1kg» == «Feijão Preto Camil Tipo 1 Pacote 1kg»
+- DIFERENTES: «File de Peito de Frango Jagua kg» != «Filé de Peito de Frango Canção kg»
+- DIFERENTES: «Filé de Peito de Frango Rara kg» != «Filé de Peito de Frango Canção kg»
+- MESMO: «Filé Peito Frango Lar 1kg IQF» == «Filé De Peito De Frango Lar 1kg IQF»
+- MESMO: «Filé de Peito de Frango LAR 1kg» == «Filé De Peito De Frango Lar 1kg IQF»
+- MESMO: «Filé de Peito de Frango Resfriado Bom Todo» == «Filé de Peito de Frango Resfriado Bom Todo kg»
+- MESMO: «Filezinho de Frango Lar Congelado Bandeja 1kg» == «Filezinho Sassami De Frango Lar Congelado Bandeja 1kg»
+- DIFERENTES: «Filezinho Sassami de Frango Aurora Congelado Bandeja 1kg» != «Filezinho Sassami De Frango Lar Congelado Bandeja 1kg»
+- DIFERENTES: «Filezinho Sassami de Frango Seara Congelado Bandeja 1kg» != «Filezinho Sassami De Frango Lar Congelado Bandeja 1kg»
+- MESMO: «Fralda Mamypoko Super Protc M34/G28/XG24/XXG21» == «Fralda Mamypoko Super Protc M34/G28/XG24/XXG22»
+- MESMO: «Fralda Mamypoko Super Protec M34/G28/XG24/XXG22» == «Fralda Mamypoko Super Protc M34/G28/XG24/XXG22»
+- MESMO: «Frango a Passarinho Temp Bom Todo 1kg» == «Frango Passarinho Temp IQF Bom Todo 1kg»
+- MESMO: «Frango Passarinho Temp IQF Bon Todo 1kg» == «Frango Passarinho Temp IQF Bom Todo 1kg»
+- DIFERENTES: «Jerked Beef Dianteiro Friboi Pacote 500g» != «Jerked Beef Dianteiro Frinense Pacote 500g»
+- MESMO: «Leite UHT Natville Integral ou Desnatado 1L» == «Leite UHT Natville Integral ou Desnatado Cx 1L»
+- MESMO: «Limão Siciliano» == «Limão Siciliano Kg»
+- MESMO: «Língua Bovina Congelada Masterboi» == «Língua Bovina Congelada Masterboi kg»
+- DIFERENTES: «Linguiça de Frango Lar 700g» != «Linguiça de Frango Aurora 700g»
+- MESMO: «Linguiça p/ Churrasco Aurora KG» == «Linguiça P/ Churrasco Aurora»
+- MESMO: «Linguiça tipo Calabresa Perdigão Reta Pacote com 2,5kg» == «Linguiça Tipo Calabresa Perdigão Pacote 2,5kg»
+- MESMO: «Repelente Baruel Kids 100ml» == «Loção Repelente Baruel Kids 100ml»
+- MESMO: «Maçã Vermelha» == «Maçã Vermelha Kg»
+- MESMO: «Mamão Formosa Processado em Cubos kg» == «Mamão Formosa Processados em Cubos Kg»
+- MESMO: «Molho de Tomate Tradicional Sadio 300g» == «Molho De Tomate Trad Sadio 300g»
+- DIFERENTES: «Paleta Bovina Resfriada Masterboi kg» != «Paleta Bovina Resfriada a Vácuo Masterboi kg»
+- DIFERENTES: «Peito Bovino Resfriado a Vácuo Masterboi kg» != «Paleta Bovina Resfriada a Vácuo Masterboi kg»
+- DIFERENTES: «Picanha Bovina Resfriada a Vácuo Masterboi KG» != «Paleta Bovina Resfriada a Vácuo Masterboi kg»
+- MESMO: «Pernil Suíno com Osso Resfriado Reserva» == «Pernil Suíno com Osso Resfriado Reserva kg»
+- MESMO: «Queijo Mussarela Proc Calco Pç ou Pdç KG» == «Queijo Mussarela Proc Caicó Pç Ou Pdç»
+- DIFERENTES: «Requeijão Trad da Clan 200g» != «Requeijão Trad Da Davaca 200g»
+- MESMO: «Salsicha Hot Dog Avivar» == «Salsicha Hot Dog Avinar Kg»
+- MESMO: «Steak Frango Seara PCT 100g» == «Steak de Frango Seara Pct 100g»
+- MESMO: «Uva Preta Seleta Sem Semente Bandeja 500g» == «Uva Preta Seleta Sem Semente 500g»
+- DIFERENTES: «Uva Preta Seleta Sem Semente 500g» != «Uva Verde Seleta Sem Semente 500g»
+- DIFERENTES: «Uva Preta Seleta Sem Semente 500g» != «Uva Vermelha Seleta Sem Semente 500g»
+- DIFERENTES: «Uva Verde Seleta Sem Semente 500g» != «Uva Vermelha Seleta Sem Semente 500g»
+- MESMO: «Uva Vitória Cappellaro sem Sementes cb 500g» == «Uva Vitória Cappellaro Sem Sementes 500g»
