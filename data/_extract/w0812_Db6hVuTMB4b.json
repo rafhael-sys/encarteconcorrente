@@ -1,0 +1,28 @@
+{
+ "shortcode": "Db6hVuTMB4b", "discard": false, "discard_reason": "",
+ "inicio": "2026-08-12", "fim": "2026-08-13", "titulo": "Hortifruti — Quarta e Quinta",
+ "pages": {
+  "Db6hVuTMB4b_p1": [
+   {"n": "Ovos Brancos Nordestão Tipo Grande Ou Extra Bd C/30", "p": "15,99", "u": "cada", "x": 5, "y": 31, "w": 23, "h": 16},
+   {"n": "Alho A Granel", "p": "16,99", "u": "kg", "x": 28, "y": 31, "w": 13, "h": 16},
+   {"n": "Uva Vitória Cappellaro Sem Sementes 500g", "p": "6,99", "u": "cada", "x": 42, "y": 31, "w": 15, "h": 16},
+   {"n": "Banana Prata Kg", "p": "3,99", "u": "kg", "x": 59, "y": 31, "w": 16, "h": 16},
+   {"n": "Maçã Vermelha Kg", "p": "8,99", "u": "kg", "x": 80, "y": 31, "w": 17, "h": 16},
+   {"n": "Salsa, Alface Crespa Ou Coentro", "p": "2,59", "u": "maço", "x": 5, "y": 48, "w": 18, "h": 15},
+   {"n": "Jerimum Leite Kg", "p": "2,49", "u": "kg", "x": 24, "y": 48, "w": 16, "h": 15},
+   {"n": "Macaxeira Kg", "p": "3,79", "u": "kg", "x": 42, "y": 48, "w": 15, "h": 15},
+   {"n": "Tomate Santa Adélia, Tomate Italiano E Beterraba Kg", "p": "4,59", "u": "kg", "x": 58, "y": 48, "w": 17, "h": 15},
+   {"n": "Goma Fresca Prata Fina 1kg", "p": "4,89", "u": "cada", "x": 78, "y": 48, "w": 18, "h": 15},
+   {"n": "Cebola Branca Kg", "p": "5,59", "u": "kg", "x": 5, "y": 64, "w": 16, "h": 15},
+   {"n": "Batata Lisa Inglesa Kg", "p": "5,79", "u": "kg", "x": 22, "y": 64, "w": 16, "h": 15},
+   {"n": "Repolho Branco Kg", "p": "6,59", "u": "kg", "x": 39, "y": 64, "w": 17, "h": 15},
+   {"n": "Cenoura Kg", "p": "7,99", "u": "kg", "x": 62, "y": 64, "w": 14, "h": 15},
+   {"n": "Morango 200g", "p": "7,99", "u": "cada", "x": 78, "y": 64, "w": 18, "h": 15},
+   {"n": "Abacate Kg", "p": "3,98", "u": "kg", "x": 5, "y": 80, "w": 14, "h": 15},
+   {"n": "Melão Espanhol Kg", "p": "3,99", "u": "kg", "x": 20, "y": 80, "w": 16, "h": 15},
+   {"n": "Mamão Formosa Kg", "p": "3,99", "u": "kg", "x": 38, "y": 80, "w": 18, "h": 15},
+   {"n": "Limão Siciliano Kg", "p": "10,99", "u": "kg", "x": 58, "y": 80, "w": 16, "h": 15},
+   {"n": "Maçã Turma Da Mônica Nacional 1kg", "p": "17,99", "u": "cada", "x": 76, "y": 80, "w": 20, "h": 15}
+  ]
+ }
+}

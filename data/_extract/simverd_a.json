@@ -1,0 +1,33 @@
+{
+ "validacoes": [
+  {"a": "Filé de Peito de Frango Resfriado Bom Todo", "b": "Filé de Peito de Frango Resfriado Bom Todo kg", "veredito": "mesmo"},
+  {"a": "Baço Bovino Congelado a Vácuo Masterboi", "b": "Baço Bovino Congelado a Vácuo Masterboi kg", "veredito": "mesmo"},
+  {"a": "Pernil Suíno com Osso Resfriado Reserva", "b": "Pernil Suíno com Osso Resfriado Reserva kg", "veredito": "mesmo"},
+  {"a": "Chambaril Bovino Resfriado Masterboi", "b": "Chambaril Bovino Resfriado Masterboi kg", "veredito": "mesmo"},
+  {"a": "Língua Bovina Congelada Masterboi", "b": "Língua Bovina Congelada Masterboi kg", "veredito": "mesmo"},
+  {"a": "Picanha Bovina Resfriada a Vácuo Masterboi KG", "b": "Paleta Bovina Resfriada a Vácuo Masterboi kg", "veredito": "diferente"},
+  {"a": "Ameixa Importada", "b": "Ameixa Importada kg", "veredito": "mesmo"},
+  {"a": "Filé de Peito de Frango Rara kg", "b": "Filé de Peito de Frango Canção kg", "veredito": "diferente"},
+  {"a": "Banana-Pacovam", "b": "Banana Pacovam kg", "veredito": "mesmo"},
+  {"a": "Jerked Beef Dianteiro Friboi Pacote 500g", "b": "Jerked Beef Dianteiro Frinense Pacote 500g", "veredito": "diferente"},
+  {"a": "Paleta Bovina Resfriada Masterboi kg", "b": "Paleta Bovina Resfriada a Vácuo Masterboi kg", "veredito": "diferente"},
+  {"a": "Peito Bovino Resfriado a Vácuo Masterboi kg", "b": "Paleta Bovina Resfriada a Vácuo Masterboi kg", "veredito": "diferente"},
+  {"a": "Cupim Bovino Resfriado a Vácuo Masterboi", "b": "Peito Bovino Resfriado a Vácuo Masterboi kg", "veredito": "diferente"},
+  {"a": "File de Peito de Frango Jagua kg", "b": "Filé de Peito de Frango Canção kg", "veredito": "diferente"},
+  {"a": "Cupim Bovino Congelado a Vácuo Masterboi", "b": "Baço Bovino Congelado a Vácuo Masterboi kg", "veredito": "diferente"},
+  {"a": "Coxão Mole Bovino Resfriado Masterboi", "b": "Coxão Mole Bovino Resfriado a Vácuo Masterboi kg", "veredito": "diferente"},
+  {"a": "Papel Higiênico Fofex Folha Dupla 20m 12 unids", "b": "Papel Higiênico Fofex Folha Dupla 30m", "veredito": "diferente"},
+  {"a": "Biscoito Maria 3 de Maio Tradicional 350g", "b": "Biscoito Cream Cracker 3 de Maio Tradicional 350g", "veredito": "diferente"},
+  {"a": "Ovos Brancos Grandes ou Extras Bandeja com 30", "b": "Ovos Vermelhos Grande ou Extra Bandeja com 30", "veredito": "diferente"},
+  {"a": "Filé de Peito de Frango Envelopado Congelado", "b": "Filé de Peito de Frango Seara Congelado", "veredito": "diferente"},
+  {"a": "Pernil Suíno com Osso Reserva kg", "b": "Pernil Suíno com Osso Resfriado Reserva kg", "veredito": "mesmo"},
+  {"a": "Whisky Jack Daniel's Gfa 1 Litro", "b": "Whisky Jack Daniel's tennessee gfa 1 litro", "veredito": "mesmo"},
+  {"a": "Picanha Bovina Resfriada a Vácuo Masterboi KG", "b": "Peito Bovino Resfriado a Vácuo Masterboi kg", "veredito": "diferente"},
+  {"a": "Fraldinha Bovina Resfriada a Vácuo Masterboi", "b": "Paleta Bovina Resfriada a Vácuo Masterboi kg", "veredito": "diferente"},
+  {"a": "Filé Peito Frango Levo Alim BDJ 1kg", "b": "Filé de Peito de Frango Levo Alimentos BDJ 1kg", "veredito": "mesmo"},
+  {"a": "Cerveja Skol Pilsen 350ml", "b": "Cerveja Schin Pilsen 350ml", "veredito": "diferente"},
+  {"a": "Hidratante Facial Garnier 85g", "b": "Hidratante Garnier 85g", "veredito": "mesmo"},
+  {"a": "Desinfetante Becker 3L", "b": "Desinfetante Becker Floral 3L", "veredito": "mesmo"},
+  {"a": "Linguiça Calabresa Seara", "b": "Linguiça Calabresa Sadia kg", "veredito": "diferente"}
+ ]
+}

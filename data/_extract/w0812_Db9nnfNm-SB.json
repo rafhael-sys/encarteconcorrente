@@ -1,0 +1,20 @@
+{
+ "shortcode": "Db9nnfNm-SB", "discard": false, "discard_reason": "",
+ "inicio": "2026-08-13", "fim": "2026-08-17", "titulo": "Festival de Frios e Fatiados",
+ "pages": {
+  "Db9nnfNm-SB_p1": [
+   {"n": "Blanquet de Peru Sadia Peça ou Fatiado kg", "p": "42,90", "u": "kg", "x": 1, "y": 34, "w": 24, "h": 15},
+   {"n": "Apresuntado Perdigão Fatiado 200g", "p": "6,79", "u": "un", "x": 26, "y": 34, "w": 24, "h": 15},
+   {"n": "Filé Mignon Suíno Sadia Cozido Fatiado 180g", "p": "7,99", "u": "un", "x": 51, "y": 34, "w": 23, "h": 15},
+   {"n": "Mortadela Perdigão Ouro 200g", "p": "6,99", "u": "un", "x": 74, "y": 34, "w": 25, "h": 15},
+   {"n": "Salame Aurora Fatiado 100g", "p": "9,98", "u": "un", "x": 1, "y": 51, "w": 24, "h": 16},
+   {"n": "Embutido de Peito de Frango Aurora Bem Leve", "p": "26,90", "u": "un", "x": 26, "y": 51, "w": 24, "h": 16},
+   {"n": "Lombo Suíno Aurora Bem Leve Peça ou Fatiado kg", "p": "20,49", "u": "kg", "x": 51, "y": 51, "w": 23, "h": 16},
+   {"n": "Queijo Parmesão Galbani Cilindro 180g", "p": "24,79", "u": "un", "x": 74, "y": 51, "w": 25, "h": 16},
+   {"n": "Mortadela Defumada Seara Gourmet Peça ou Fatiada kg", "p": "22,49", "u": "kg", "x": 1, "y": 69, "w": 24, "h": 17},
+   {"n": "Salame Pepperoni Seara Fatiado 100g", "p": "10,79", "u": "un", "x": 26, "y": 69, "w": 24, "h": 17},
+   {"n": "Peito de Peru Defumado Seara Peça ou Fatiado kg", "p": "51,90", "u": "kg", "x": 51, "y": 69, "w": 23, "h": 17},
+   {"n": "Queijo Cheddar Polenghi Fatiado kg", "p": "49,98", "u": "kg", "x": 74, "y": 69, "w": 25, "h": 17}
+  ]
+ }
+}

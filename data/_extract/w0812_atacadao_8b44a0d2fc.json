@@ -1,0 +1,14 @@
+{
+ "shortcode": "atacadao_8b44a0d2fc", "discard": false, "discard_reason": "",
+ "inicio": "2026-08-12", "fim": "2026-08-12", "titulo": "Boa do Dia",
+ "pages": {
+  "atacadao_8b44a0d2fc_p1": [
+   {"n": "Tomate Italiano", "p": "3,89", "u": "kg", "x": 4, "y": 25, "w": 46, "h": 22},
+   {"n": "Melão Amarelo", "p": "3,59", "u": "kg", "x": 51, "y": 25, "w": 46, "h": 22},
+   {"n": "Filezinho Sassami De Frango Lar Congelado Bandeja 1kg", "p": "15,99", "u": "un", "x": 4, "y": 49, "w": 46, "h": 22},
+   {"n": "Linguiça Tipo Calabresa Perdigão Pacote 2,5kg", "p": "56,90", "u": "pacote 2,5kg", "x": 51, "y": 49, "w": 46, "h": 22},
+   {"n": "Feijão Preto Camil Tipo 1 Pacote 1kg", "p": "5,89", "u": "un", "x": 4, "y": 72, "w": 46, "h": 20},
+   {"n": "Biscoito Cream Cracker Vitarella Tradicional 350g", "p": "3,99", "u": "un", "x": 51, "y": 72, "w": 46, "h": 20}
+  ]
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "shortcode": "Db8SbV6MFIu", "discard": false, "discard_reason": "",
+ "inicio": "2026-08-12", "fim": "2026-08-13", "titulo": "Hortifruti",
+ "pages": {
+  "Db8SbV6MFIu_p1": [
+   {"n": "Batata Inglesa Kg", "p": "4,89", "u": "kg", "x": 5, "y": 43, "w": 22, "h": 18},
+   {"n": "Laranja Pêra Kg", "p": "2,49", "u": "kg", "x": 28, "y": 43, "w": 22, "h": 18},
+   {"n": "Uva Vitória Marcelo Frazão 500g", "p": "4,98", "u": "und", "x": 50, "y": 43, "w": 22, "h": 18},
+   {"n": "Ovo Branco Grande Iana / Enavis Bdj C/30", "p": "15,98", "u": "bdj", "x": 73, "y": 43, "w": 24, "h": 18},
+   {"n": "Cebola Branca Kg", "p": "3,98", "u": "kg", "x": 5, "y": 63, "w": 22, "h": 16},
+   {"n": "Alho À Granel Kg", "p": "22,90", "u": "und", "x": 26, "y": 63, "w": 24, "h": 16},
+   {"n": "Tomate Kg", "p": "3,79", "u": "kg", "x": 52, "y": 63, "w": 20, "h": 16},
+   {"n": "Cenoura Kg", "p": "5,99", "u": "kg", "x": 73, "y": 63, "w": 24, "h": 16},
+   {"n": "Banana Pacovan / Prata Kg", "p": "2,99", "u": "kg", "x": 3, "y": 80, "w": 20, "h": 15},
+   {"n": "Maçã Nacional Kg", "p": "7,99", "u": "kg", "x": 22, "y": 80, "w": 20, "h": 15},
+   {"n": "Mamão Formosa Kg", "p": "3,99", "u": "kg", "x": 40, "y": 80, "w": 20, "h": 15},
+   {"n": "Goma Tapioca Ouro Fino 1kg", "p": "4,29", "u": "kg", "x": 58, "y": 80, "w": 20, "h": 15},
+   {"n": "Sacola Retornável", "p": "5,89", "u": "und", "x": 78, "y": 80, "w": 20, "h": 15}
+  ]
+ }
+}

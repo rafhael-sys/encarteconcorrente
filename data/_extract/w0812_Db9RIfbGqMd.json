@@ -1,0 +1,33 @@
+{
+ "shortcode": "Db9RIfbGqMd", "discard": false, "discard_reason": "",
+ "inicio": "2026-08-13", "fim": "2026-08-13", "titulo": "Quinta Verde",
+ "pages": {
+  "Db9RIfbGqMd_p1": [
+   {"n": "Abacate Kg", "p": "4,49", "u": "kg", "x": 10, "y": 30, "w": 40, "h": 22},
+   {"n": "Banana Pacovan Ou Banana Prata Kg", "p": "3,99", "u": "kg", "x": 5, "y": 52, "w": 42, "h": 24},
+   {"n": "Batata Inglesa Kg", "p": "4,49", "u": "kg", "x": 5, "y": 76, "w": 42, "h": 22},
+   {"n": "Cebola Branca Ou Cebola Roxa Kg", "p": "4,49", "u": "kg", "x": 45, "y": 40, "w": 30, "h": 22},
+   {"n": "Cenoura Kg", "p": "6,49", "u": "kg", "x": 72, "y": 45, "w": 27, "h": 18},
+   {"n": "Goiaba Kg", "p": "4,99", "u": "kg", "x": 46, "y": 72, "w": 28, "h": 22},
+   {"n": "Goma De Mandioca 1kg", "p": "4,49", "u": "cada", "x": 73, "y": 72, "w": 26, "h": 22}
+  ],
+  "Db9RIfbGqMd_p2": [
+   {"n": "Inhame Cará Kg", "p": "4,99", "u": "kg", "x": 10, "y": 30, "w": 40, "h": 22},
+   {"n": "Jerimum De Leite Kg", "p": "2,49", "u": "kg", "x": 5, "y": 52, "w": 42, "h": 24},
+   {"n": "Melão Espanhol Ou Japonês Kg", "p": "3,99", "u": "kg", "x": 5, "y": 78, "w": 42, "h": 20},
+   {"n": "Laranja Kg", "p": "1,99", "u": "kg", "x": 45, "y": 50, "w": 28, "h": 20},
+   {"n": "Tangerina Kg", "p": "4,99", "u": "kg", "x": 72, "y": 50, "w": 27, "h": 20},
+   {"n": "Maçã Nacional Kg", "p": "6,99", "u": "kg", "x": 45, "y": 78, "w": 28, "h": 20},
+   {"n": "Mamão Formosa Kg", "p": "3,99", "u": "kg", "x": 72, "y": 78, "w": 27, "h": 20}
+  ],
+  "Db9RIfbGqMd_p3": [
+   {"n": "Ovos Brancos Bandeja Com 30 Unidades", "p": "14,99", "u": "cada", "x": 8, "y": 28, "w": 40, "h": 22},
+   {"n": "Uva Preta Seleta Sem Semente 500g", "p": "5,99", "u": "cada", "x": 8, "y": 50, "w": 40, "h": 24},
+   {"n": "Uva Verde Seleta Sem Semente 500g", "p": "9,99", "u": "cada", "x": 8, "y": 75, "w": 40, "h": 22},
+   {"n": "Uva Vermelha Seleta Sem Semente 500g", "p": "8,49", "u": "cada", "x": 45, "y": 45, "w": 30, "h": 25},
+   {"n": "Uva Vitória Seleção Mimo Sem Semente 400g", "p": "8,99", "u": "cada", "x": 72, "y": 45, "w": 27, "h": 25},
+   {"n": "Uva Verde Seleção Mimo Sem Semente 500g", "p": "11,99", "u": "cada", "x": 44, "y": 78, "w": 32, "h": 20},
+   {"n": "Uva Vitória Turma Da Mônica 250g", "p": "4,99", "u": "cada", "x": 72, "y": 78, "w": 27, "h": 20}
+  ]
+ }
+}

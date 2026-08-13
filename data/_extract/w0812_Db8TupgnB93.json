@@ -1,0 +1,21 @@
+{
+ "shortcode": "Db8TupgnB93", "discard": false, "discard_reason": "",
+ "inicio": "2026-08-12", "fim": "2026-08-13", "titulo": "Quarta e Quinta Verde",
+ "pages": {
+  "Db8TupgnB93_p1": [
+   {"n": "Laranja Pera Kg", "p": "1,99", "u": "kg", "x": 34, "y": 66, "w": 30, "h": 25}
+  ],
+  "Db8TupgnB93_p2": [
+   {"n": "Maçã Galaxy Nectar Bag 850g", "p": "6,79", "u": "un", "x": 8, "y": 2, "w": 30, "h": 40}
+  ],
+  "Db8TupgnB93_p3": [
+   {"n": "Banana Ana Kg", "p": "2,49", "u": "kg", "x": 40, "y": 0, "w": 27, "h": 44}
+  ],
+  "Db8TupgnB93_p4": [
+   {"n": "Uva Vitória S/Semente 500g", "p": "3,99", "u": "un", "x": 39, "y": 4, "w": 30, "h": 42}
+  ],
+  "Db8TupgnB93_p5": [
+   {"n": "Abacate Kg", "p": "3,79", "u": "kg", "x": 30, "y": 4, "w": 32, "h": 45}
+  ]
+ }
+}

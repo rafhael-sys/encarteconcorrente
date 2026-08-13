@@ -1,0 +1,42 @@
+{
+ "shortcode": "Db9TFhPn0tA", "discard": false, "discard_reason": "",
+ "inicio": "2026-08-13", "fim": "2026-08-14", "titulo": "Hortifruti",
+ "pages": {
+  "Db9TFhPn0tA_p1": [
+   {"n": "Alface Crespa, Coentro, Couve, Hortelã ou Rúcula", "p": "1,49", "u": "un", "x": 2, "y": 42, "w": 23, "h": 16},
+   {"n": "Abobrinha, Pepino ou Berinjela", "p": "3,79", "u": "kg", "x": 26, "y": 42, "w": 23, "h": 16},
+   {"n": "Batata Doce Roxa", "p": "3,49", "u": "kg", "x": 51, "y": 42, "w": 22, "h": 16},
+   {"n": "Batatinha", "p": "4,59", "u": "kg", "x": 75, "y": 42, "w": 23, "h": 16},
+   {"n": "Beterraba", "p": "3,89", "u": "kg", "x": 2, "y": 60, "w": 23, "h": 15},
+   {"n": "Cará", "p": "4,98", "u": "kg", "x": 26, "y": 60, "w": 23, "h": 15},
+   {"n": "Cebola Branca", "p": "4,29", "u": "kg", "x": 51, "y": 60, "w": 22, "h": 15},
+   {"n": "Cebola Roxa", "p": "6,95", "u": "kg", "x": 75, "y": 60, "w": 23, "h": 15},
+   {"n": "Cenoura", "p": "6,49", "u": "kg", "x": 2, "y": 77, "w": 23, "h": 16},
+   {"n": "Chuchu", "p": "2,49", "u": "kg", "x": 26, "y": 77, "w": 23, "h": 16},
+   {"n": "Jerimum Leite", "p": "1,89", "u": "kg", "x": 51, "y": 77, "w": 22, "h": 16},
+   {"n": "Macaxeira", "p": "2,29", "u": "kg", "x": 75, "y": 77, "w": 23, "h": 16}
+  ],
+  "Db9TFhPn0tA_p2": [
+   {"n": "Pimentão Verde", "p": "4,98", "u": "kg", "x": 2, "y": 5, "w": 23, "h": 14},
+   {"n": "Repolho Branco", "p": "3,89", "u": "kg", "x": 26, "y": 5, "w": 23, "h": 14},
+   {"n": "Repolho Roxo", "p": "7,89", "u": "kg", "x": 51, "y": 5, "w": 22, "h": 14},
+   {"n": "Tomate", "p": "3,89", "u": "kg", "x": 75, "y": 5, "w": 23, "h": 14},
+   {"n": "Abacate", "p": "3,59", "u": "kg", "x": 2, "y": 22, "w": 23, "h": 15},
+   {"n": "Abacaxi", "p": "3,49", "u": "un", "x": 26, "y": 22, "w": 23, "h": 15},
+   {"n": "Banana Prata ou Pacovan", "p": "3,89", "u": "kg", "x": 51, "y": 22, "w": 22, "h": 15},
+   {"n": "Goiaba", "p": "4,29", "u": "kg", "x": 75, "y": 22, "w": 23, "h": 15},
+   {"n": "Ameixa Fresca ou Kiwi", "p": "24,89", "u": "kg", "x": 2, "y": 40, "w": 23, "h": 17},
+   {"n": "Laranja Pera", "p": "1,78", "u": "kg", "x": 26, "y": 40, "w": 23, "h": 17},
+   {"n": "Laranja Murcote", "p": "4,49", "u": "kg", "x": 51, "y": 40, "w": 22, "h": 17},
+   {"n": "Limão Taiti", "p": "5,29", "u": "kg", "x": 75, "y": 40, "w": 23, "h": 17},
+   {"n": "Maçã Vermelha Nacional", "p": "5,99", "u": "kg", "x": 2, "y": 60, "w": 23, "h": 16},
+   {"n": "Mamão Formosa", "p": "3,49", "u": "kg", "x": 26, "y": 60, "w": 23, "h": 16},
+   {"n": "Melancia Baby ou Melão Espanhol", "p": "2,79", "u": "kg", "x": 51, "y": 60, "w": 22, "h": 16},
+   {"n": "Melão Japonês", "p": "3,29", "u": "kg", "x": 75, "y": 60, "w": 23, "h": 16},
+   {"n": "Melão Português, Orange ou Gália", "p": "3,89", "u": "kg", "x": 2, "y": 79, "w": 23, "h": 16},
+   {"n": "Pera Importada ou Limão Siciliano", "p": "11,98", "u": "kg", "x": 26, "y": 79, "w": 23, "h": 16},
+   {"n": "Tangerina Importada", "p": "9,89", "u": "kg", "x": 51, "y": 79, "w": 22, "h": 16},
+   {"n": "Uva Vitória sem Sementes bdj 500g", "p": "4,49", "u": "un", "x": 75, "y": 79, "w": 23, "h": 16}
+  ]
+ }
+}
