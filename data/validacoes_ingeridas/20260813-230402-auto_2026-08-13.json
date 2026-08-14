@@ -1,0 +1,304 @@
+{
+ "validacoes": [
+  {
+   "a": "Leite Condensado Piracanjuba Semidesnatado TP com 395g",
+   "b": "Leite Condensado Piracanjuba Semidesnatado TP 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Folha Dupla Personal VIP Leve 16 Pague 15 Rolos de 30m",
+   "b": "Papel Higiênico Folha Dupla Personal Vip Leve 24 Pague 22 Rolos 30m",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café Solúvel Nescafé Vários tipos Sachê 40g",
+   "b": "Café Solúvel Nescafé Tipos Sachê 40g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Vitória Turma da Mônica 250g Bandeja",
+   "b": "Uva Vitória Turma Da Mônica 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Solúvel Nescafé Dolca Sachê 40g",
+   "b": "Café Solúvel Nescafé Tipos Sachê 40g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva Verde Seleta Sem Semente 500g",
+   "b": "Uva Verde Seleção Mimo Sem Semente 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Aerossol Rexona Fragrâncias 2x200ml",
+   "b": "Desodorante Aerossol Bozzano Fragrâncias 200ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Aerossol One Above 150ml",
+   "b": "Desodorante Aerossol Nivea 150ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovo Branco Grande Enavis Bandeja C/30",
+   "b": "Ovo Branco Grande Iana / Enavis Bdj C/30",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mortadela Defumada Seara Gourmet Peça, Pedaço ou Fatiado",
+   "b": "Mortadela Defumada Seara Gourmet Peça ou Fatiada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café São Braz 250g",
+   "b": "Café São Braz Trad 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chocolate em Barra Hershey's 82g ao Leite",
+   "b": "Chocolate em Barra Hersheys 82g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11",
+   "b": "Papel Higiênico Deluxe Cotton Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Achocolatado em Po Felita Chef 400g",
+   "b": "Achocolatado em Pó Italac Sachê 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Deluxe Folha Dupla Leve 12 Pague 11 (20m)",
+   "b": "Papel Higiênico Deluxe Cotton Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Cond Italac Semidesn 395g",
+   "b": "Leite Cond Damare Semidesn 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxão Mole Bovino Resfriado Masterboi",
+   "b": "Coxão Mole Bovino Resfriado a Vácuo Masterboi kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Fofex Folha Dupla 20m 12 unids",
+   "b": "Papel Higiênico Fofex Folha Dupla 30m",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Envelopado Congelado",
+   "b": "Filé de Peito de Frango Seara Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Maria 3 de Maio Tradicional 350g",
+   "b": "Biscoito Cream Cracker 3 de Maio Tradicional 350g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovos Brancos Grandes ou Extras Bandeja com 30",
+   "b": "Ovos Vermelhos Grande ou Extra Bandeja com 30",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé Peito Frango Levo Alim BDJ 1kg",
+   "b": "Filé de Peito de Frango Levo Alimentos BDJ 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fraldinha Bovina Resfriada a Vácuo Masterboi",
+   "b": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Picanha Bovina Resfriada a Vácuo Masterboi KG",
+   "b": "Peito Bovino Resfriado a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito de Frango Envelopado",
+   "b": "Peito de Frango Congelado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Skol Pilsen 350ml",
+   "b": "Cerveja Schin Pilsen 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Hidratante Facial Garnier 85g",
+   "b": "Hidratante Garnier 85g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Calabresa Seara",
+   "b": "Linguiça Calabresa Sadia kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas Pó Sonho 400g",
+   "b": "Lava Roupas em Pó Sonho Frag 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Multiuso Perfumado UAU 500ml",
+   "b": "Limpador Perfumado UAU 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca Dubom Tipo 1 1kg",
+   "b": "Feijão Carioca Kumê Tipo 1 PCT 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Noble Folha Dupla 20m Leve 12 Pague 11",
+   "b": "Papel Higiênico Deluxe Cotton Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bolinho Bauducco 40g Sabores",
+   "b": "Bolinho Recheado Bauducco 40g (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Deluxe Folha Dupla Leve 12 Pague 11 (20m)",
+   "b": "Papel Higiênico Noble Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Conjunto de Panelas Panelux C/5",
+   "b": "Jogo de Panelas Panelux C/5",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Regina Com Sal PT 200g",
+   "b": "Manteiga Nordestão com Sal pt 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite Extra Virgem Almaha 500ml",
+   "b": "Azeite Extra Virgem Allegro 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Galinha Pequena Q'Delícia Cong kg",
+   "b": "Galinha Pequena Q Delícia",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Isis Sabores 540g",
+   "b": "Bebida Láctea Betânia Sabores 540g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite em Pó Itambé Zero Lactose 300g",
+   "b": "Leite em Pó Itambé Nolac 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Parmesão Galbani Cilindro 180g",
+   "b": "Queijo Parmesão Galbani 180g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Iogurte Isis 150g Natural",
+   "b": "Iogurte Isis 150g Natural / Laranja",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Mateus GF 750ml Sabores",
+   "b": "Vinho Virame GF 750ml sabores",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pernil Suíno Congelado kg",
+   "b": "Bisteca Pernil Suíno Congelado KG",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Suco de Uva Integral OQ 1L",
+   "b": "Suco de Uva Integral Galiotto 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Chã de Fora kg",
+   "b": "Carne Bovina Chã de Fora de Sol",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cachaça Matura 1L Cristal",
+   "b": "Cachaça Matuta Garrafa 1L Cristal",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Folha Dupla Caprice Neutro 12 Rolos 20m",
+   "b": "Papel Higiênico Paloma Folha Dupla Neutro 12 Rolos 20m",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado Italac 395g",
+   "b": "Leite Condensado Integral Italac 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maionese Quero Pouch com 200g",
+   "b": "Maionese Vigor Pouch com 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11",
+   "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Frango Bom Todo Congelado",
+   "b": "Frango Inteiro Bom Todo Congelado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Vitória Seleta 500g S/Sementes",
+   "b": "Uva Verde Seleta 500g s/ Semente",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Iogurte ISIS 170g Sabores",
+   "b": "Iogurte Natural Isis 170g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Purif Ar Glade 360ml 20% Desc",
+   "b": "Purificador de Ar Glade 360ml 20% Desc",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Lombo Serrado kg",
+   "b": "Carne Bovina Peito Serrado Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Colônia Baruel Kids Lavanda 400ml",
+   "b": "Colônia Baruel Kids 400ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Pepsi Tb 2 Litros",
+   "b": "Refrigerante Pepsi Black tb 1 litro",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Absorvente Noturno Sym Suave com Abas Pacote com 8 Unidades",
+   "b": "Absorvente Noturno Always Seca/Suave com Abas pacote 48 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva da Hora Doce Mel Bandeja 250g",
+   "b": "Uva Doce Mel Bandeja 250g",
+   "veredito": "mesmo"
+  }
+ ]
+}
