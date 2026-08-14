@@ -20825,5 +20825,403 @@
   "veredito": "mesmo",
   "quando": "2026-08-13",
   "aplicado": true
+ },
+ "desodorante aerosol monange / bozzano 150ml || desodorante aerossol monange / bozzano 150ml": {
+  "a": "Desodorante Aerossol Monange / Bozzano 150ml",
+  "b": "Desodorante Aerosol Monange / Bozzano 150ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "farinha de mandioca baiana amarela 1kg || farinha mandioca baiana amarela 1kg": {
+  "a": "Farinha Mandioca Baiana Amarela 1kg",
+  "b": "Farinha de Mandioca Baiana Amarela 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "file de peito de frango lar congelado || file de peito de frango seara congelado": {
+  "a": "Filé de Peito de Frango Seara Congelado",
+  "b": "Filé de Peito de Frango Lar Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "pizza perdigao congelada varios sabores caixeta com 460g || pizza sadia congelada varios sabores caixeta com 460g": {
+  "a": "Pizza Perdigão Congelada Vários Sabores Caixeta com 460g",
+  "b": "Pizza Sadia Congelada Vários sabores Caixeta com 460g",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "mistura lactea condensada mococa 395g || mistura lactea condensada mococa tp com 395g": {
+  "a": "Mistura Láctea Condensada Mococa 395g",
+  "b": "Mistura Láctea Condensada Mococa TP com 395g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "refrigerante guarana antarctica original/zero pet com 200ml || refrigerante guarana antarctica tradicional/zero tpet com 200ml": {
+  "a": "Refrigerante Guaraná Antarctica Original/Zero Pet com 200ml",
+  "b": "Refrigerante Guaraná Antarctica Tradicional/Zero TPet com 200ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "leite condensado moca semidesnatado tp com 395g || leite condensado piracanjuba semidesnatado tp com 395g": {
+  "a": "Leite Condensado Piracanjuba Semidesnatado TP com 395g",
+  "b": "Leite Condensado Moça Semidesnatado TP com 395g",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "leite uht triangulo integral 1l || leite uht triangulo mineiro 1l": {
+  "a": "Leite UHT Triângulo Integral 1L",
+  "b": "Leite UHT Triângulo Mineiro 1L",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "bebida mista crystal ice 275ml (long neck - caju) || bebida mista crystal ice 275ml caju": {
+  "a": "Bebida Mista Crystal Ice 275ml (Long Neck - Caju)",
+  "b": "Bebida Mista Crystal Ice 275ml Caju",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "energetico tnt focus zero acucar lata com 473ml || energetico tnt maca verde zero acucar lata com 473ml": {
+  "a": "Energético TNT Focus Zero Açúcar Lata com 473ml",
+  "b": "Energético TNT Maçã Verde Zero Açúcar Lata com 473ml",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "kit refrigerante coca-cola zero 2l + sprite zero 2l || kit refrigerante coca-cola zero/sprite zero 2l": {
+  "a": "Kit Refrigerante COCA-COLA Zero/SPRITE Zero 2L",
+  "b": "Kit Refrigerante Coca-Cola Zero 2L + Sprite Zero 2L",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "papel toalha malu 50 folhas pacote 2 rolos || papel toalha malu 50 folhas pacote com 2 rolos": {
+  "a": "Papel Toalha Malu 50 Folhas Pacote 2 rolos",
+  "b": "Papel Toalha Malu 50 Folhas Pacote com 2 rolos",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "cerveja eisenbahn pilsen lata 350ml || cerveja eisenbahn pilsen lata com 350ml": {
+  "a": "Cerveja Eisenbahn Pilsen Lata 350ml",
+  "b": "Cerveja Eisenbahn Pilsen Lata com 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "paleta suina sem osso || paleta suina sem osso kg": {
+  "a": "Paleta Suína Sem Osso kg",
+  "b": "Paleta Suína Sem Osso",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "pizza perdigao congelada varios sabores caixeta 460g || pizza sadia congelada varios sabores caixeta com 460g": {
+  "a": "Pizza Perdigão Congelada Vários Sabores Caixeta 460g",
+  "b": "Pizza Sadia Congelada Vários sabores Caixeta com 460g",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "papel higienico rose folha dupla 20m pacote 12 rolos || papel higienico rose folha simples 20m pacote com 12 rolos": {
+  "a": "Papel Higiênico Rose Folha Dupla 20m Pacote 12 Rolos",
+  "b": "Papel Higiênico Rose Folha Simples 20m Pacote com 12 rolos",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "mortadela tony de frango ou sem toucinho kg || mortadela tony frango/sem toucinho": {
+  "a": "Mortadela Tony de Frango ou sem Toucinho kg",
+  "b": "Mortadela Tony Frango/Sem toucinho",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "file de peito de frango jagua congelado pct || file de peito de frango lar congelado": {
+  "a": "Filé de Peito de Frango Jaguá Congelado PCT",
+  "b": "Filé de Peito de Frango Lar Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "vinho chilano sabores 750ml || vinho colina sabores 750ml": {
+  "a": "Vinho Chilano Sabores 750ml",
+  "b": "Vinho Colina Sabores 750ml",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "agua perfumada phytoderm varias fragrancias frasco 250ml || agua perfumada phytoderm varias fragrancias frasco com 250ml": {
+  "a": "Água Perfumada Phytoderm Várias Fragrâncias Frasco 250ml",
+  "b": "Água Perfumada Phytoderm Várias fragrâncias Frasco com 250ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "carne suina bisteca fatiada congelada reserva || carne suina bisteca fatiada congelada seara": {
+  "a": "Carne Suína Bisteca Fatiada Congelada Reserva",
+  "b": "Carne Suína Bisteca Fatiada Congelada Seara",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "file de peito de frango congelado || file de peito de frango lar congelado": {
+  "a": "Filé de Peito de Frango Congelado",
+  "b": "Filé de Peito de Frango Lar Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "campari bitter garrafa 998ml || campari bitter garrafa com 998ml": {
+  "a": "Campari Bitter Garrafa 998ml",
+  "b": "Campari Bitter Garrafa com 998ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "requeijao cremoso tirolez resfriado tradicional/light copo com 200g || requeijao nestle resfriado tradicional/light copo com 200g": {
+  "a": "Requeijão Nestlé Resfriado Tradicional/Light Copo com 200g",
+  "b": "Requeijão Cremoso Tirolez Resfriado Tradicional/Light Copo com 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "creme de tratamento novex varios tipos pote com 1kg || creme de tratamento para cabelo novex varios tipos pote com 1kg": {
+  "a": "Creme de Tratamento para Cabelo Novex Vários tipos Pote com 1kg",
+  "b": "Creme de Tratamento Novex Vários tipos Pote com 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "cerveja heineken long neck 330ml || cerveja heineken premium long neck 330ml": {
+  "a": "Cerveja Heineken Long Neck 330ml",
+  "b": "Cerveja Heineken Premium Long Neck 330ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "goma de mandioca delicia potiguar fresca 1kg || goma de mandioca delicia potiguar ou precioso 1kg": {
+  "a": "Goma de Mandioca Delícia Potiguar ou Precioso 1kg",
+  "b": "Goma de Mandioca Delícia Potiguar Fresca 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "pao de forma plusvita tradicional 480g || pao de forma plusvita tradicional pacote com 480g": {
+  "a": "Pão de Forma Plusvita Tradicional 480g",
+  "b": "Pão de Forma Plusvita Tradicional Pacote com 480g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "creme dental colgate maxima protecao anticaries tubo 180g || creme dental colgate maxima protecao anticaries tubo com 180g": {
+  "a": "Creme Dental Colgate Máxima Proteção Anticáries Tubo 180g",
+  "b": "Creme Dental Colgate Máxima Proteção Anticáries Tubo com 180g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "feijao carioca turquesa tipo 1 pacote 1kg || feijao carioca turquesa tipo 1 pacote com 1kg": {
+  "a": "Feijão Carioca Turquesa Tipo 1 Pacote 1kg",
+  "b": "Feijão Carioca Turquesa Tipo 1 Pacote com 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "nutella creme de avela pote 140g || nutella creme de avela pote com 140g": {
+  "a": "Nutella Creme de Avelã Pote 140g",
+  "b": "Nutella Creme de Avelã Pote com 140g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "carne bovina peito com osso friboi reserva resfriada || carne bovina peito com osso reserva resfriada": {
+  "a": "Carne Bovina Peito com Osso Reserva Resfriada",
+  "b": "Carne Bovina Peito com Osso Friboi Reserva Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "file de peito de frango friato congelado || file de peito de frango lar congelado": {
+  "a": "Filé de Peito de Frango Friato Congelado",
+  "b": "Filé de Peito de Frango Lar Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "leite fermentado chamyto resfriado varios sabores pack 480g || leite fermentado itambe resfriado varios sabores pack com 480g": {
+  "a": "Leite Fermentado Chamyto Resfriado Vários Sabores Pack 480g",
+  "b": "Leite Fermentado Itambé Resfriado Vários sabores Pack com 480g",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "lava roupas liquido omo varios tipos bombona com 5l || lava roupas liquido urca varios tipos bombona 5l": {
+  "a": "Lava Roupas Líquido Urca Vários Tipos Bombona 5L",
+  "b": "Lava Roupas Líquido Omo Vários tipos Bombona com 5L",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "cerveja devassa puro malte lata 350ml cx/12 || cerveja devassa puro malte lata com 350ml": {
+  "a": "Cerveja Devassa Puro Malte Lata 350ml Cx/12",
+  "b": "Cerveja Devassa Puro Malte Lata com 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "coxa e sobrecoxa de frango resfriada mauricea || coxa e sobrecoxa de frango resfriada natto": {
+  "a": "Coxa e Sobrecoxa de Frango Resfriada Natto",
+  "b": "Coxa e Sobrecoxa de Frango Resfriada Mauricéa",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "tira manchas em gel vanish tradicional/white refil 500ml || tira manchas em gel vanish tradicional/white refil com 500ml": {
+  "a": "Tira Manchas em Gel Vanish Tradicional/White refil 500ml",
+  "b": "Tira Manchas em Gel Vanish Tradicional/White Refil com 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "linguica tipo calabresa perdigao pacote com 2,5kg || linguica tipo calabresa perdigao reta pacote com 2,5kg": {
+  "a": "Linguiça tipo Calabresa Perdigão Reta Pacote com 2,5kg",
+  "b": "Linguiça Tipo Calabresa Perdigão Pacote com 2,5kg",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "mistura de leite mococa tp 200g || mistura de leite mococa tp com 200g": {
+  "a": "Mistura de Leite Mococa TP 200g",
+  "b": "Mistura de Leite Mococa TP com 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "file de peito de frango congelado kg || file de peito de frango lar congelado": {
+  "a": "Filé de Peito de Frango Congelado kg",
+  "b": "Filé de Peito de Frango Lar Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "desodorizador aerossol bom ar varias fragrancias tubo com 360ml || desodorizador aerossol glade varias fragrancias tubo 360ml": {
+  "a": "Desodorizador Aerossol Glade Várias Fragrâncias Tubo 360ml",
+  "b": "Desodorizador Aerossol Bom Ar Várias fragrâncias Tubo com 360ml",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "file de peito de frango envelopado congelado || file de peito de frango lar congelado": {
+  "a": "Filé de Peito de Frango Envelopado Congelado",
+  "b": "Filé de Peito de Frango Lar Congelado",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "amaciante de roupas concentrado comfort fragrancias frasco 500ml || amaciante para roupas concentrado comfort varias fragrancias frasco com 500ml": {
+  "a": "Amaciante de Roupas Concentrado Comfort Fragrâncias Frasco 500ml",
+  "b": "Amaciante para Roupas Concentrado Comfort Várias fragrâncias Frasco com 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "chocolate granulado mavalerio 1,010kg || chocolate granulado mavalerio pacote com 1,010kg": {
+  "a": "Chocolate Granulado Mavalério 1,010kg",
+  "b": "Chocolate Granulado Mavalério Pacote com 1,010kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "papel higienico rose folha simples 20m pacote 12 rolos || papel higienico rose folha simples 20m pacote com 12 rolos": {
+  "a": "Papel Higiênico Rose Folha Simples 20m Pacote 12 rolos",
+  "b": "Papel Higiênico Rose Folha Simples 20m Pacote com 12 rolos",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "chocolate lacta favoritos caixa 250,6g || chocolate lacta favoritos caixa com 250,6g": {
+  "a": "Chocolate Lacta Favoritos Caixa 250,6g",
+  "b": "Chocolate Lacta Favoritos Caixa com 250,6g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "maionese hellmann's sache 200g || maionese hellmann's sache com 200g": {
+  "a": "Maionese Hellmann's Sachê 200g",
+  "b": "Maionese Hellmann's Sachê com 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "suco de uva integral felita chef 1,5l || suco de uva integral felita chef tinto 1,5l": {
+  "a": "Suco de Uva Integral Felitá Chef Tinto 1,5L",
+  "b": "Suco de Uva Integral Felitá Chef 1,5L",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "creme de tratamento novex varios tipos pote com 1kg || creme para tratamento tanox varios tipos pote com 1kg": {
+  "a": "Creme para Tratamento Tanox Vários tipos Pote com 1kg",
+  "b": "Creme de Tratamento Novex Vários tipos Pote com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "acucar alegre cristal pacote com 1kg || acucar alegre triturado pacote com 1kg": {
+  "a": "Açúcar Alegre Cristal Pacote com 1kg",
+  "b": "Açúcar Alegre Triturado Pacote com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "cerveja bohemia puro malte lata com 350ml || cerveja devassa puro malte lata com 350ml": {
+  "a": "Cerveja Bohemia Puro Malte Lata com 350ml",
+  "b": "Cerveja Devassa Puro Malte Lata com 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "cafe sao braz familia almofada/vacuo pacote 250g || cafe sao braz familia almofada/vacuo pacote com 250g": {
+  "a": "Café São Braz Família Almofada/Vácuo Pacote 250g",
+  "b": "Café São Braz Família Almofada/Vácuo Pacote com 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "refrigerante fanta laranja pet com 2l || refrigerante fanta laranja/uva pet com 2l": {
+  "a": "Refrigerante Fanta Laranja/Uva Pet com 2L",
+  "b": "Refrigerante Fanta Laranja Pet com 2L",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "creme emporio acai tradicional 2 litros || creme emporio do acai tradicional 5 litros": {
+  "a": "Creme Empório Açaí Tradicional 2 Litros",
+  "b": "Creme Empório do Açaí Tradicional 5 litros",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "carne bovina musculo friboi reserva resfriada || carne bovina musculo reserva resfriada": {
+  "a": "Carne Bovina Músculo Reserva Resfriada",
+  "b": "Carne Bovina Músculo Friboi Reserva Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "alimento para caes adultos dog chow racas medias/grandes saco com 10,1kg || alimento para caes adultos dog chow racas medias/grandes/pequenas 10,1kg": {
+  "a": "Alimento para Cães Adultos Dog Chow Raças Médias/Grandes/Pequenas 10,1kg",
+  "b": "Alimento para Cães Adultos Dog Chow Raças Médias/Grandes Saco com 10,1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "frigideira funda tramontina 28cm cores || frigideira wok tramontina 28cm cores": {
+  "a": "Frigideira Funda Tramontina 28cm Cores",
+  "b": "Frigideira Wok Tramontina 28cm Cores",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "file de peito de frango ave nova congelado || file de peito de frango lar congelado": {
+  "a": "Filé de Peito de Frango Ave Nova Congelado",
+  "b": "Filé de Peito de Frango Lar Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "aparelho de barbear gillette prestobarba 2 ultragrip blister 2 unidades || aparelho de barbear gillette prestobarba3 ultragrip pacote com 4 unidades": {
+  "a": "Aparelho de Barbear Gillette Prestobarba 2 UltraGrip Blister 2 unidades",
+  "b": "Aparelho de Barbear Gillette Prestobarba3 UltraGrip Pacote com 4 unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "agua sanitaria brilux bombona com 5l || agua sanitaria ype bombona com 5l": {
+  "a": "Água Sanitária Brilux Bombona com 5L",
+  "b": "Água Sanitária Ypê Bombona com 5L",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
  }
 }

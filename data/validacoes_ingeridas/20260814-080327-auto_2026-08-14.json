@@ -1,0 +1,309 @@
+{
+ "validacoes": [
+  {
+   "a": "Desodorante Aerossol Monange / Bozzano 150ml",
+   "b": "Desodorante Aerosol Monange / Bozzano 150ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha Mandioca Baiana Amarela 1kg",
+   "b": "Farinha de Mandioca Baiana Amarela 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Seara Congelado",
+   "b": "Filé de Peito de Frango Lar Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pizza Perdigão Congelada Vários Sabores Caixeta com 460g",
+   "b": "Pizza Sadia Congelada Vários sabores Caixeta com 460g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mistura Láctea Condensada Mococa 395g",
+   "b": "Mistura Láctea Condensada Mococa TP com 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Original/Zero Pet com 200ml",
+   "b": "Refrigerante Guaraná Antarctica Tradicional/Zero TPet com 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Piracanjuba Semidesnatado TP com 395g",
+   "b": "Leite Condensado Moça Semidesnatado TP com 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite UHT Triângulo Integral 1L",
+   "b": "Leite UHT Triângulo Mineiro 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Mista Crystal Ice 275ml (Long Neck - Caju)",
+   "b": "Bebida Mista Crystal Ice 275ml Caju",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Energético TNT Focus Zero Açúcar Lata com 473ml",
+   "b": "Energético TNT Maçã Verde Zero Açúcar Lata com 473ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Kit Refrigerante COCA-COLA Zero/SPRITE Zero 2L",
+   "b": "Kit Refrigerante Coca-Cola Zero 2L + Sprite Zero 2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Toalha Malu 50 Folhas Pacote 2 rolos",
+   "b": "Papel Toalha Malu 50 Folhas Pacote com 2 rolos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Eisenbahn Pilsen Lata 350ml",
+   "b": "Cerveja Eisenbahn Pilsen Lata com 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Paleta Suína Sem Osso kg",
+   "b": "Paleta Suína Sem Osso",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pizza Perdigão Congelada Vários Sabores Caixeta 460g",
+   "b": "Pizza Sadia Congelada Vários sabores Caixeta com 460g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Rose Folha Dupla 20m Pacote 12 Rolos",
+   "b": "Papel Higiênico Rose Folha Simples 20m Pacote com 12 rolos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mortadela Tony de Frango ou sem Toucinho kg",
+   "b": "Mortadela Tony Frango/Sem toucinho",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Jaguá Congelado PCT",
+   "b": "Filé de Peito de Frango Lar Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Vinho Chilano Sabores 750ml",
+   "b": "Vinho Colina Sabores 750ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Água Perfumada Phytoderm Várias Fragrâncias Frasco 250ml",
+   "b": "Água Perfumada Phytoderm Várias fragrâncias Frasco com 250ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Suína Bisteca Fatiada Congelada Reserva",
+   "b": "Carne Suína Bisteca Fatiada Congelada Seara",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado",
+   "b": "Filé de Peito de Frango Lar Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Campari Bitter Garrafa 998ml",
+   "b": "Campari Bitter Garrafa com 998ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Nestlé Resfriado Tradicional/Light Copo com 200g",
+   "b": "Requeijão Cremoso Tirolez Resfriado Tradicional/Light Copo com 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creme de Tratamento para Cabelo Novex Vários tipos Pote com 1kg",
+   "b": "Creme de Tratamento Novex Vários tipos Pote com 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Heineken Long Neck 330ml",
+   "b": "Cerveja Heineken Premium Long Neck 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Goma de Mandioca Delícia Potiguar ou Precioso 1kg",
+   "b": "Goma de Mandioca Delícia Potiguar Fresca 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pão de Forma Plusvita Tradicional 480g",
+   "b": "Pão de Forma Plusvita Tradicional Pacote com 480g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme Dental Colgate Máxima Proteção Anticáries Tubo 180g",
+   "b": "Creme Dental Colgate Máxima Proteção Anticáries Tubo com 180g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Turquesa Tipo 1 Pacote 1kg",
+   "b": "Feijão Carioca Turquesa Tipo 1 Pacote com 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Nutella Creme de Avelã Pote 140g",
+   "b": "Nutella Creme de Avelã Pote com 140g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Peito com Osso Reserva Resfriada",
+   "b": "Carne Bovina Peito com Osso Friboi Reserva Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Friato Congelado",
+   "b": "Filé de Peito de Frango Lar Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Fermentado Chamyto Resfriado Vários Sabores Pack 480g",
+   "b": "Leite Fermentado Itambé Resfriado Vários sabores Pack com 480g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas Líquido Urca Vários Tipos Bombona 5L",
+   "b": "Lava Roupas Líquido Omo Vários tipos Bombona com 5L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Devassa Puro Malte Lata 350ml Cx/12",
+   "b": "Cerveja Devassa Puro Malte Lata com 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa e Sobrecoxa de Frango Resfriada Natto",
+   "b": "Coxa e Sobrecoxa de Frango Resfriada Mauricéa",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Tira Manchas em Gel Vanish Tradicional/White refil 500ml",
+   "b": "Tira Manchas em Gel Vanish Tradicional/White Refil com 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça tipo Calabresa Perdigão Reta Pacote com 2,5kg",
+   "b": "Linguiça Tipo Calabresa Perdigão Pacote com 2,5kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mistura de Leite Mococa TP 200g",
+   "b": "Mistura de Leite Mococa TP com 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado kg",
+   "b": "Filé de Peito de Frango Lar Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorizador Aerossol Glade Várias Fragrâncias Tubo 360ml",
+   "b": "Desodorizador Aerossol Bom Ar Várias fragrâncias Tubo com 360ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Envelopado Congelado",
+   "b": "Filé de Peito de Frango Lar Congelado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante de Roupas Concentrado Comfort Fragrâncias Frasco 500ml",
+   "b": "Amaciante para Roupas Concentrado Comfort Várias fragrâncias Frasco com 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chocolate Granulado Mavalério 1,010kg",
+   "b": "Chocolate Granulado Mavalério Pacote com 1,010kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Rose Folha Simples 20m Pacote 12 rolos",
+   "b": "Papel Higiênico Rose Folha Simples 20m Pacote com 12 rolos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chocolate Lacta Favoritos Caixa 250,6g",
+   "b": "Chocolate Lacta Favoritos Caixa com 250,6g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maionese Hellmann's Sachê 200g",
+   "b": "Maionese Hellmann's Sachê com 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Suco de Uva Integral Felitá Chef Tinto 1,5L",
+   "b": "Suco de Uva Integral Felitá Chef 1,5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme para Tratamento Tanox Vários tipos Pote com 1kg",
+   "b": "Creme de Tratamento Novex Vários tipos Pote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Açúcar Alegre Cristal Pacote com 1kg",
+   "b": "Açúcar Alegre Triturado Pacote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Bohemia Puro Malte Lata com 350ml",
+   "b": "Cerveja Devassa Puro Malte Lata com 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café São Braz Família Almofada/Vácuo Pacote 250g",
+   "b": "Café São Braz Família Almofada/Vácuo Pacote com 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Fanta Laranja/Uva Pet com 2L",
+   "b": "Refrigerante Fanta Laranja Pet com 2L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creme Empório Açaí Tradicional 2 Litros",
+   "b": "Creme Empório do Açaí Tradicional 5 litros",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Músculo Reserva Resfriada",
+   "b": "Carne Bovina Músculo Friboi Reserva Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Alimento para Cães Adultos Dog Chow Raças Médias/Grandes/Pequenas 10,1kg",
+   "b": "Alimento para Cães Adultos Dog Chow Raças Médias/Grandes Saco com 10,1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Frigideira Funda Tramontina 28cm Cores",
+   "b": "Frigideira Wok Tramontina 28cm Cores",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Ave Nova Congelado",
+   "b": "Filé de Peito de Frango Lar Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Aparelho de Barbear Gillette Prestobarba 2 UltraGrip Blister 2 unidades",
+   "b": "Aparelho de Barbear Gillette Prestobarba3 UltraGrip Pacote com 4 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Água Sanitária Brilux Bombona com 5L",
+   "b": "Água Sanitária Ypê Bombona com 5L",
+   "veredito": "diferente"
+  }
+ ]
+}
