@@ -21223,5 +21223,358 @@
   "b": "Água Sanitária Ypê Bombona com 5L",
   "veredito": "diferente",
   "quando": "2026-08-14"
+ },
+ "vodka nacional orloff 1,75l || vodka nacional smirnoff 1,75l": {
+  "a": "Vodka Nacional Smirnoff 1,75L",
+  "b": "Vodka Nacional Orloff 1,75L",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "cafe soluvel santa clara classico refil 40g || cafe soluvel santa clara classico sache com 40g": {
+  "a": "Café Solúvel Santa Clara Clássico Refil 40g",
+  "b": "Café Solúvel Santa Clara Clássico Sachê com 40g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "cerveja devassa puro malte lata com 350ml || cerveja spaten puro malte lata com 350ml": {
+  "a": "Cerveja Devassa Puro Malte Lata com 350ml",
+  "b": "Cerveja Spaten Puro Malte Lata com 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "cerveja bohemia puro malte lata com 350ml || cerveja spaten puro malte lata com 350ml": {
+  "a": "Cerveja Bohemia Puro Malte Lata com 350ml",
+  "b": "Cerveja Spaten Puro Malte Lata com 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "refrigerante coca-cola + guarana kuat pack 2x2l || refrigerante coca-cola e kuat pack com 2x2l": {
+  "a": "Refrigerante Coca-Cola + Guaraná Kuat Pack 2x2L",
+  "b": "Refrigerante Coca-Cola e Kuat Pack com 2x2L",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "file de peito de frango resfriado mauricea || file de peito de frango resfriado natto": {
+  "a": "Filé de Peito de Frango Resfriado Natto",
+  "b": "Filé de Peito de Frango Resfriado Mauricéa",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "salgadinho elma chips cebolitos/cheetos/fandangos pacote com 21g || salgadinho elma chips cebolitos/cheetos/fandangos varios sabores pacote 21g": {
+  "a": "Salgadinho Elma Chips Cebolitos/Cheetos/Fandangos Vários Sabores Pacote 21g",
+  "b": "Salgadinho Elma Chips Cebolitos/Cheetos/Fandangos Pacote com 21g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "sabao em pedaco guarani varios tipos pacote 5x160g || sabao em pedaco minuano varios tipos pack com 5x160g": {
+  "a": "Sabão em Pedaço Guarani Vários Tipos Pacote 5x160g",
+  "b": "Sabão em Pedaço Minuano Vários tipos Pack com 5x160g",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "racao pedigree 100g r peq frg molho ou racao whiskas sh 85g ad molho frango || racao pedigree 100g raca pequena frango ao molho ou racao whiskas 85g adulto ao molho frango": {
+  "a": "Ração Pedigree 100g R Peq Frg Molho ou Ração Whiskas Sh 85g Ad Molho Frango",
+  "b": "Ração Pedigree 100g Raça Pequena Frango Ao Molho Ou Ração Whiskas 85g Adulto Ao Molho Frango",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "file de peito de frango super frango congelado bdj 1kg || filezinho de peito de frango perdigao congelado bdj 1kg": {
+  "a": "Filé de Peito de Frango Super Frango Congelado BDJ 1kg",
+  "b": "Filezinho de Peito de Frango Perdigão Congelado BDJ 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "amendoim pippos sao braz sem pele 30g || amendoim sao braz s/ pele 30g": {
+  "a": "Amendoim São Braz s/ Pele 30g",
+  "b": "Amendoim Pippos São Braz Sem Pele 30g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "tempero completo leto 500ml || tempero completo supercop 500ml": {
+  "a": "Tempero Completo Leto 500ml",
+  "b": "Tempero Completo Supercop 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "inseticida aerossol raid multi insetos - base agua/multi insetos eucalipto - base agua frasco com 420ml || inseticida aerossol raid multi insetos eucalipto base agua frasco com 420ml": {
+  "a": "Inseticida Aerossol Raid Multi Insetos - Base Água/Multi Insetos Eucalipto - Base Água Frasco com 420ml",
+  "b": "Inseticida Aerossol Raid Multi Insetos Eucalipto Base Água Frasco com 420ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "margarina puro sabor 250g || margarina puro sabor com sal 250g": {
+  "a": "Margarina Puro Sabor com Sal 250g",
+  "b": "Margarina Puro Sabor 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "queijo mussarela natville || queijo tipo mussarela natville kg": {
+  "a": "Queijo Mussarela Natville",
+  "b": "Queijo Tipo Mussarela Natville kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "coxinha da asa de frango resfriada || meio da asa de frango resfriada": {
+  "a": "Coxinha da Asa de Frango Resfriada",
+  "b": "Meio da Asa de Frango Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "amac roupa sonho 2l magic || amaciante de roupa sonho 2l magic": {
+  "a": "Amac Roupa Sonho 2L Magic",
+  "b": "Amaciante de Roupa Sonho 2L Magic",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "margarina puro sabor 500g || margarina puro sabor com sal 500g": {
+  "a": "Margarina Puro Sabor com Sal 500g",
+  "b": "Margarina Puro Sabor 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "sabonete cremoso hariop 1l || sabonete cremoso harrop 1l refil": {
+  "a": "Sabonete Cremoso Harrop 1L Refil",
+  "b": "Sabonete Cremoso Hariop 1L",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "hamburguer sadia ave e bovino 56g || hamburguer tony ave e bovino 56g": {
+  "a": "Hambúrguer Sadia Ave e Bovino 56g",
+  "b": "Hambúrguer Tony Ave e Bovino 56g",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "requeijao trad da clan 200g || requeijao tradicional clan 200g": {
+  "a": "Requeijão Trad da Clan 200g",
+  "b": "Requeijão Tradicional Clan 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "leite em po ccgl integral 200g || leite em po confianca integral 200g": {
+  "a": "Leite em Pó Confiança Integral 200g",
+  "b": "Leite em Pó CCGL Integral 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "desodorante aerossol above 150ml || desodorante aerossol rexona 150ml": {
+  "a": "Desodorante Aerossol Above 150ml",
+  "b": "Desodorante Aerossol Rexona 150ml",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "papel higienico caprice folha dupla leve 12 pague 11 || papel higienico personal vip folha dupla leve 12 pague 11": {
+  "a": "Papel Higiênico Personal Vip Folha Dupla Leve 12 Pague 11",
+  "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "file de peito de frango levo 1kg || file de peito de frango sadia 1kg": {
+  "a": "Filé de Peito de Frango Sadia 1kg",
+  "b": "Filé de Peito de Frango Levo 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "lava roupas em po brilhante 400g || lava-roupas em po brilux pct 400g": {
+  "a": "Lava Roupas em Pó Brilhante 400g",
+  "b": "Lava-roupas em Pó Brilux pct 400g",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "centro de mesa galata vd 26cm || centro de mesa karnak vd 26cm": {
+  "a": "Centro de Mesa Galata VD 26CM",
+  "b": "Centro de Mesa Karnak VD 26cm",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "creatina integralmedica 300g || creatina integralmedica hardcore 300g": {
+  "a": "Creatina Integralmedica 300g",
+  "b": "Creatina Integralmédica Hardcore 300g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "disco de algodao nathy 50 unidades || disco de algodao nathy pacote com 50 unidades": {
+  "a": "Disco de Algodão Nathy Pacote com 50 unidades",
+  "b": "Disco de Algodão Nathy 50 unidades",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "feijao carioca bulnez tipo 1 pacote 1kg || feijao carioca kicaldo tipo 1 pacote 1kg": {
+  "a": "Feijão Carioca Bulnez Tipo 1 Pacote 1kg",
+  "b": "Feijão Carioca Kicaldo Tipo 1 Pacote 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "bebida mista beats lata 269ml sabores || bebida mista beats long neck 269ml sabores": {
+  "a": "Bebida Mista Beats Lata 269ml Sabores",
+  "b": "Bebida Mista Beats Long Neck 269ml sabores",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "lava roupa liquido omo 3l fragrancias || lava roupas liquido guarani 3l fragrancias": {
+  "a": "Lava Roupa Liquido OMO 3L Fragrancias",
+  "b": "Lava Roupas Líquido Guarani 3L Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "figado de frango perdigao congelado 1kg || figado de frango perdigao pct 1kg": {
+  "a": "Fígado de Frango Perdigão Pct 1kg",
+  "b": "Fígado de Frango Perdigão congelado 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "leite condensado moca nestle caixa 395g || leite condensado nestle moca 395g": {
+  "a": "Leite Condensado Moça Nestlé Caixa 395g",
+  "b": "Leite Condensado Nestlé Moça 395g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "vh rs nac frisante randon 750ml || vinho rose nacional frisante randon 750ml": {
+  "a": "Vinho Rosé Nacional Frisante Randon 750ml",
+  "b": "VH RS NAC FRISANTE RANDON 750ML",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "achocolatado liquido italakinho 200ml || achocolatado liquido pirakids 200ml": {
+  "a": "Achocolatado Líquido Italakinho 200ml",
+  "b": "Achocolatado Líquido Pirakids 200ml",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "achocolatado em po chocolatto 200g || achocolatado em po chocolatto 3 coracoes 200g": {
+  "a": "Achocolatado em Pó Chocolatto 200g",
+  "b": "Achocolatado em Pó Chocolatto 3 Corações 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "farinha de trigo farina 1kg sem fermento || farinha de trigo finna sem fermento 1kg": {
+  "a": "Farinha de Trigo Finna sem Fermento 1kg",
+  "b": "Farinha de Trigo Farina 1Kg sem Fermento",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "bisc amant marilan 280g sabores || biscoito amanteigado marilan 280g (sabores)": {
+  "a": "Bisc Amant Marilan 280g Sabores",
+  "b": "Biscoito Amanteigado Marilan 280g (Sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "feijao carioca camil tipo 1 pacote 1kg || feijao carioca kume tipo 1 pct 1kg": {
+  "a": "Feijão Carioca Kumê Tipo 1 PCT 1kg",
+  "b": "Feijão Carioca Camil Tipo 1 Pacote 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "vinho concha y toro (tipos) 750ml || vinho concha y toro reservado tipos 750ml": {
+  "a": "Vinho Concha y Toro (tipos) 750ml",
+  "b": "Vinho Concha y Toro Reservado Tipos 750ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "achocolatado em po chocky sache 400g || achocolatado em po italac sache 400g": {
+  "a": "Achocolatado em Po Chocky Sache 400g",
+  "b": "Achocolatado em Pó Italac Sachê 400g",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "vinho tinto galiotto gf 1l suave ou seco || vinho tinto pergola gf 1l suave ou seco": {
+  "a": "Vinho Tinto Pergola GF 1L Suave ou Seco",
+  "b": "Vinho Tinto Galiotto GF 1L Suave ou Seco",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "linguica de carne suina saudali || linguica de carne suina saudali congelada": {
+  "a": "Linguiça de Carne Suína Saudali Congelada",
+  "b": "Linguiça de Carne Suína Saudali",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "linguica de frango aurora congelada || linguica de frango seara churrasco congelada": {
+  "a": "Linguiça de Frango Aurora congelada",
+  "b": "Linguiça de Frango Seara Churrasco Congelada",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "refrigerante cajuina sao geraldo zero 2l || refrigerante de caju sao geraldo pet 2l": {
+  "a": "Refrigerante de Caju São Geraldo PET 2L",
+  "b": "Refrigerante Cajuína São Geraldo Zero 2L",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "queijo mussarela dombla peca ou pedaco kg || queijo mussarela unalac peca ou pedaco": {
+  "a": "Queijo Mussarela Unalac Peça ou Pedaço",
+  "b": "Queijo Mussarela Domblá peça ou pedaço kg",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "feijao carioca camil tipo 1 pacote 1kg || feijao carioca turquesa tipo 1 pacote 1kg": {
+  "a": "Feijão Carioca Turquesa Tipo 1 Pacote 1kg",
+  "b": "Feijão Carioca Camil Tipo 1 Pacote 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "achocolatado liquido italakinho 200ml || achocolatado liquido toddynho 200ml": {
+  "a": "Achocolatado Líquido Toddynho 200ml",
+  "b": "Achocolatado Líquido Italakinho 200ml",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "garrafa termica union home 1 litro || garrafa termica union home chumbo gfa 1 litro": {
+  "a": "Garrafa Térmica Union Home 1 litro",
+  "b": "Garrafa Térmica Union Home Chumbo gfa 1 litro",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "queijo mussarela isis fatiado 150g || queijo mussarela itacoldy fatiado 150g": {
+  "a": "Queijo Mussarela Isis Fatiado 150g",
+  "b": "Queijo Mussarela Itacoldy Fatiado 150g",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "uva vitoria marcelo frazao 500g || uva vitoria marcelo frazao 500g s/semente": {
+  "a": "Uva Vitória Marcelo Frazão 500g s/Semente",
+  "b": "Uva Vitória Marcelo Frazão 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "peito de frango super frango congelado kg || peito de frango super frango kg": {
+  "a": "Peito de Frango Super Frango Congelado KG",
+  "b": "Peito de Frango Super Frango kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-14",
+  "aplicado": true
+ },
+ "lava-roupas liquido absoluto! 3 litros || lava-roupas liquido omo tb 3 litros": {
+  "a": "Lava-roupas Líquido Omo tb 3 litros",
+  "b": "Lava-roupas Líquido Absoluto! 3 litros",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
+ },
+ "azeite de oliva extra virgem fioz 500ml || azeite de oliva gallo extra virgem 500ml": {
+  "a": "Azeite de Oliva Extra Virgem Fioz 500ml",
+  "b": "Azeite de Oliva Gallo Extra Virgem 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-14"
  }
 }

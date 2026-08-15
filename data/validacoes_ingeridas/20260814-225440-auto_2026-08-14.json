@@ -1,0 +1,279 @@
+{
+ "validacoes": [
+  {
+   "a": "Vodka Nacional Smirnoff 1,75L",
+   "b": "Vodka Nacional Orloff 1,75L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café Solúvel Santa Clara Clássico Refil 40g",
+   "b": "Café Solúvel Santa Clara Clássico Sachê com 40g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Devassa Puro Malte Lata com 350ml",
+   "b": "Cerveja Spaten Puro Malte Lata com 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Bohemia Puro Malte Lata com 350ml",
+   "b": "Cerveja Spaten Puro Malte Lata com 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Coca-Cola + Guaraná Kuat Pack 2x2L",
+   "b": "Refrigerante Coca-Cola e Kuat Pack com 2x2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Resfriado Natto",
+   "b": "Filé de Peito de Frango Resfriado Mauricéa",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Salgadinho Elma Chips Cebolitos/Cheetos/Fandangos Vários Sabores Pacote 21g",
+   "b": "Salgadinho Elma Chips Cebolitos/Cheetos/Fandangos Pacote com 21g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabão em Pedaço Guarani Vários Tipos Pacote 5x160g",
+   "b": "Sabão em Pedaço Minuano Vários tipos Pack com 5x160g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ração Pedigree 100g R Peq Frg Molho ou Ração Whiskas Sh 85g Ad Molho Frango",
+   "b": "Ração Pedigree 100g Raça Pequena Frango Ao Molho Ou Ração Whiskas 85g Adulto Ao Molho Frango",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Super Frango Congelado BDJ 1kg",
+   "b": "Filezinho de Peito de Frango Perdigão Congelado BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Amendoim São Braz s/ Pele 30g",
+   "b": "Amendoim Pippos São Braz Sem Pele 30g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Tempero Completo Leto 500ml",
+   "b": "Tempero Completo Supercop 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Inseticida Aerossol Raid Multi Insetos - Base Água/Multi Insetos Eucalipto - Base Água Frasco com 420ml",
+   "b": "Inseticida Aerossol Raid Multi Insetos Eucalipto Base Água Frasco com 420ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Margarina Puro Sabor com Sal 250g",
+   "b": "Margarina Puro Sabor 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Natville",
+   "b": "Queijo Tipo Mussarela Natville kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha da Asa de Frango Resfriada",
+   "b": "Meio da Asa de Frango Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Amac Roupa Sonho 2L Magic",
+   "b": "Amaciante de Roupa Sonho 2L Magic",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Margarina Puro Sabor com Sal 500g",
+   "b": "Margarina Puro Sabor 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Cremoso Harrop 1L Refil",
+   "b": "Sabonete Cremoso Hariop 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Hambúrguer Sadia Ave e Bovino 56g",
+   "b": "Hambúrguer Tony Ave e Bovino 56g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Requeijão Trad da Clan 200g",
+   "b": "Requeijão Tradicional Clan 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite em Pó Confiança Integral 200g",
+   "b": "Leite em Pó CCGL Integral 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Aerossol Above 150ml",
+   "b": "Desodorante Aerossol Rexona 150ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Personal Vip Folha Dupla Leve 12 Pague 11",
+   "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Sadia 1kg",
+   "b": "Filé de Peito de Frango Levo 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas em Pó Brilhante 400g",
+   "b": "Lava-roupas em Pó Brilux pct 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Centro de Mesa Galata VD 26CM",
+   "b": "Centro de Mesa Karnak VD 26cm",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creatina Integralmedica 300g",
+   "b": "Creatina Integralmédica Hardcore 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Disco de Algodão Nathy Pacote com 50 unidades",
+   "b": "Disco de Algodão Nathy 50 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Bulnez Tipo 1 Pacote 1kg",
+   "b": "Feijão Carioca Kicaldo Tipo 1 Pacote 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Mista Beats Lata 269ml Sabores",
+   "b": "Bebida Mista Beats Long Neck 269ml sabores",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupa Liquido OMO 3L Fragrancias",
+   "b": "Lava Roupas Líquido Guarani 3L Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Fígado de Frango Perdigão Pct 1kg",
+   "b": "Fígado de Frango Perdigão congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Moça Nestlé Caixa 395g",
+   "b": "Leite Condensado Nestlé Moça 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Rosé Nacional Frisante Randon 750ml",
+   "b": "VH RS NAC FRISANTE RANDON 750ML",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado Líquido Italakinho 200ml",
+   "b": "Achocolatado Líquido Pirakids 200ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Achocolatado em Pó Chocolatto 200g",
+   "b": "Achocolatado em Pó Chocolatto 3 Corações 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Finna sem Fermento 1kg",
+   "b": "Farinha de Trigo Farina 1Kg sem Fermento",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bisc Amant Marilan 280g Sabores",
+   "b": "Biscoito Amanteigado Marilan 280g (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Kumê Tipo 1 PCT 1kg",
+   "b": "Feijão Carioca Camil Tipo 1 Pacote 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Vinho Concha y Toro (tipos) 750ml",
+   "b": "Vinho Concha y Toro Reservado Tipos 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Po Chocky Sache 400g",
+   "b": "Achocolatado em Pó Italac Sachê 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Vinho Tinto Pergola GF 1L Suave ou Seco",
+   "b": "Vinho Tinto Galiotto GF 1L Suave ou Seco",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça de Carne Suína Saudali Congelada",
+   "b": "Linguiça de Carne Suína Saudali",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Aurora congelada",
+   "b": "Linguiça de Frango Seara Churrasco Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante de Caju São Geraldo PET 2L",
+   "b": "Refrigerante Cajuína São Geraldo Zero 2L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Mussarela Unalac Peça ou Pedaço",
+   "b": "Queijo Mussarela Domblá peça ou pedaço kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca Turquesa Tipo 1 Pacote 1kg",
+   "b": "Feijão Carioca Camil Tipo 1 Pacote 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Achocolatado Líquido Toddynho 200ml",
+   "b": "Achocolatado Líquido Italakinho 200ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Garrafa Térmica Union Home 1 litro",
+   "b": "Garrafa Térmica Union Home Chumbo gfa 1 litro",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Isis Fatiado 150g",
+   "b": "Queijo Mussarela Itacoldy Fatiado 150g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva Vitória Marcelo Frazão 500g s/Semente",
+   "b": "Uva Vitória Marcelo Frazão 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango Super Frango Congelado KG",
+   "b": "Peito de Frango Super Frango kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava-roupas Líquido Omo tb 3 litros",
+   "b": "Lava-roupas Líquido Absoluto! 3 litros",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem Fioz 500ml",
+   "b": "Azeite de Oliva Gallo Extra Virgem 500ml",
+   "veredito": "diferente"
+  }
+ ]
+}
