@@ -1,87 +1,87 @@
 {
  "Rede Mais": {
   "ultima_coleta_ok": "2026-08-11 23:26",
-  "ultimo_erro": "2026-08-14 22:09: 'data'",
+  "ultimo_erro": "2026-08-15 07:29: 'data'",
   "ultimo_story_ok": "2026-08-10 07:09"
  },
  "Rede Super Show": {
   "ultima_coleta_ok": "2026-08-14 22:09",
-  "ultimo_erro": null
+  "ultimo_erro": "2026-08-15 07:29: 'data'"
  },
  "Favorito Super / Atacado Favorito": {
   "ultima_coleta_ok": "2026-08-12 23:17",
-  "ultimo_erro": "2026-08-14 22:09: 'data'",
+  "ultimo_erro": "2026-08-15 07:29: 'data'",
   "ultimo_story_ok": "2026-08-10 07:09"
  },
  "Queiroz Atacadão": {
   "ultima_coleta_ok": "2026-08-12 23:17",
-  "ultimo_erro": "2026-08-14 22:09: 'data'",
+  "ultimo_erro": "2026-08-15 07:29: 'data'",
   "ultimo_story_ok": "2026-08-10 07:09"
  },
  "SuperFácil Atacado": {
   "ultima_coleta_ok": "2026-08-12 23:17",
-  "ultimo_erro": "2026-08-14 22:09: 'data'",
+  "ultimo_erro": "2026-08-15 07:29: 'data'",
   "ultimo_story_ok": "2026-08-08 07:26"
  },
  "SuperFácil Vale do Sol": {
   "ultima_coleta_ok": "2026-08-12 23:17",
-  "ultimo_erro": "2026-08-14 22:09: 'data'",
+  "ultimo_erro": "2026-08-15 07:29: 'data'",
   "ultimo_story_ok": "2026-08-09 07:18"
  },
  "Mar Vermelho Atacado": {
   "ultima_coleta_ok": "2026-08-12 23:17",
-  "ultimo_erro": "2026-08-14 22:09: 'data'",
+  "ultimo_erro": "2026-08-15 07:29: 'data'",
   "ultimo_story_ok": "2026-08-10 07:09"
  },
  "Leva Mais Atacarejo": {
   "ultima_coleta_ok": "2026-08-12 23:17",
-  "ultimo_erro": "2026-08-14 22:09: 'data'",
+  "ultimo_erro": "2026-08-15 07:29: 'data'",
   "ultimo_story_ok": "2026-08-08 07:26"
  },
  "Miramar Supermercado": {
-  "ultima_coleta_ok": "2026-08-14 22:09",
+  "ultima_coleta_ok": "2026-08-15 07:29",
   "ultimo_erro": null
  },
  "Mirassol Atacado": {
   "ultima_coleta_ok": "2026-08-12 23:17",
-  "ultimo_erro": "2026-08-14 22:09: 'data'",
+  "ultimo_erro": "2026-08-15 07:29: 'data'",
   "ultimo_story_ok": "2026-08-09 07:18"
  },
  "Super Nordestão": {
   "ultima_coleta_ok": "2026-08-12 23:17",
-  "ultimo_erro": "2026-08-14 22:09: 'data'",
+  "ultimo_erro": "2026-08-15 07:29: 'data'",
   "ultimo_story_ok": "2026-08-10 07:09"
  },
  "Assaí Atacadista": {
-  "ultima_coleta_ok": "2026-08-14 22:33",
+  "ultima_coleta_ok": "2026-08-15 07:54",
   "ultimo_erro": null
  },
  "Atacadão": {
-  "ultima_coleta_ok": "2026-08-14 22:33",
+  "ultima_coleta_ok": "2026-08-15 07:54",
   "ultimo_erro": null
  },
  "Leva Mais Atacarejo João Câmara": {
   "ultima_coleta_ok": "2026-08-12 23:17",
-  "ultimo_erro": "2026-08-14 22:09: 'data'",
+  "ultimo_erro": "2026-08-15 07:29: 'data'",
   "ultimo_story_ok": "2026-08-09 07:18"
  },
  "Atacarejo Santo Antônio": {
   "ultima_coleta_ok": "2026-08-12 23:17",
-  "ultimo_erro": "2026-08-14 22:09: 'data'",
+  "ultimo_erro": "2026-08-15 07:29: 'data'",
   "ultimo_story_ok": "2026-08-10 07:09"
  },
  "Nosso Atacarejo": {
-  "ultima_coleta_ok": "2026-08-14 22:33",
+  "ultima_coleta_ok": "2026-08-15 07:54",
   "ultimo_erro": null
  },
  "Rede Supercop": {
   "ultima_coleta_ok": "2026-08-12 23:17",
-  "ultimo_erro": "2026-08-14 22:09: 'data'",
+  "ultimo_erro": "2026-08-15 07:29: 'data'",
   "ultimo_story_ok": "2026-08-10 07:09"
  },
  "Corte Fácil Atacarejo": {
   "ultima_coleta_ok": "2026-08-12 23:17",
-  "ultimo_erro": "2026-08-14 22:09: 'data'",
+  "ultimo_erro": "2026-08-15 07:29: 'data'",
   "ultimo_story_ok": "2026-08-10 07:09"
  }
 }

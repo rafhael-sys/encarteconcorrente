@@ -14326,5 +14326,23 @@
   "adicionado_em": "2026-08-14",
   "fonte": "web",
   "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_a98f80a6b6",
+  "perfil": "atacadao.com.br",
+  "titulo": "Boa do Dia",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-15",
+  "fim": "2026-08-15",
+  "carrossel": false,
+  "shortcode": "atacadao_a98f80a6b6",
+  "caption": "Boa do Dia",
+  "paginas": [
+   "atacadao_a98f80a6b6_p1.jpg"
+  ],
+  "adicionado_em": "2026-08-15",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
  }
 ]

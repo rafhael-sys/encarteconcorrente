@@ -1,0 +1,304 @@
+{
+ "validacoes": [
+  {
+   "a": "Carne Bovina Músculo Reserva Resfriada",
+   "b": "Carne Bovina Cupim Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Picanha Reserva Resfriada",
+   "b": "Carne Bovina Cupim Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Rabo Reserva Resfriada",
+   "b": "Carne Bovina Cupim Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Maminha Reserva Resfriada",
+   "b": "Carne Bovina Cupim Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Tira Manchas Gel Vanish Refil 500ml",
+   "b": "Tira-Manchas Vanish Tipos Refil 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Shampoo OX Vários tipos Frasco com 400ml",
+   "b": "Shampoo Clear Vários Tipos Frasco 400ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito de Frango Bom Todo Congelado",
+   "b": "Peito de Frango Lar com Osso Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sabonete Líquido Nivea Creme Care Refil 200ml",
+   "b": "Sabonete Liquido Nivea Refil 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Parboilizado Urbano Tipo 1 1kg",
+   "b": "Arroz Parboilizado CORADINI TP 1 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Palha Zuppa Tradicional pct 800g",
+   "b": "Batata Palha Boa Tradicional 800g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Mussarela Proc Peça ou Ped Caicó",
+   "b": "Queijo Mussarela Ouro Bom Peça ou Pedaço",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Aerossol Rexona Fragrâncias 250ml",
+   "b": "Desodorante Aerossol Old Spice Fragrâncias 250ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Patinho Friboi Porcionada Resfriada",
+   "b": "Carne Bovina Contra Filé Friboi Porcionada Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Congelado Lar KG",
+   "b": "Filé de Peito de Frango Congelado Super Frango",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pão de Forma Center Massas Tradicional 400g",
+   "b": "Pão de Forma Center Massas ou Cadice Integral 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina com Osso Paleta Reserva Resfriada Friboi Kg",
+   "b": "Carne Bovina Acém com Osso Reserva Resfriada Friboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sardinha Robinson Crusoe Lata 125g Óleo",
+   "b": "Sardinha Robinson Crusoe Lt 125g Óleo ou Tomate",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerosol Rexona 150ml Fragrâncias",
+   "b": "Desodorante Aerossol Herbíssimo 150ml (Fragrâncias)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pão de Forma Cadice Integral ou Aveia 400G",
+   "b": "Pão de Forma Cadice Integral Sem Açúcar 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite Extra Virgem LA ESPAÑOLA 500ml",
+   "b": "Azeite Especial Extra Virgem La Española vd 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Escova Dental Colgate Classic Clean Media Leve3Pague2",
+   "b": "Escova Dental Colgate Classic Clean L3P2",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Fofex Folha Dupla 20m 12 unids",
+   "b": "Papel Higiênico Sublime Folha Dupla 20m 4 unids",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem Monini vd 500ml",
+   "b": "Azeite de Oliva Extravirgem Andorinha Vidro 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creme para Pentear Seda Frasco com 300ml",
+   "b": "Creme para Pentear Seda Vários tipos Frasco com 300ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Tilápia Oceani Congelado pct 800g",
+   "b": "Filé de Tilápia Aurora Congelado IQF Pct 800g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Requeijão Cremoso Nestlé Tradicional/Light pt 200g",
+   "b": "Requeijão Cremoso Danone Tradicional ou Light 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Salgado Club Social 141/144g Sabores",
+   "b": "Biscoito Integral/Recheado CLUB SOCIAL 141/144g Sabores",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem Monini vd 500ml",
+   "b": "Azeite De Oliva Extra Virgem Sacciali Vidro 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Requeijão Cremoso Clan Tradicional/Light 200g",
+   "b": "Requeijão Cremoso Catupiry Tradicional ou Light pt 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite UHT Natville Integral ou Desnatado 1L",
+   "b": "Leite UHT Parmalat Integral ou Desnatado 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Corte Fino Congelada McCain pacote 1,5kg",
+   "b": "Batata Canoa ou Fininha Congelada McCain pacote 1,5kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Atualle Folha Dupla 20m c/12",
+   "b": "Papel Higiênico Atualle Folha Dupla 12x20m (neutro)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabão em Barra São Marcos Glicerinado 5x160g",
+   "b": "Sabão em Barra Absoluto Glicerinado 5x160g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite UHT Ninho Nestlé Integral ou Semidesnatado cx 1 litro",
+   "b": "Leite UHT Elege Integral ou Desnatado cx 1 litro",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Paleta sem Osso Reserva Resfriada",
+   "b": "Carne Bovina Ponta de Peito sem Osso Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Mussarela Girolanda Resfriado Fatiado",
+   "b": "Queijo Mussarela Carinho Resfriado Fatiado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Maminha Bovina Resfriada a Vácuo Masterboi",
+   "b": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem PALERMO 500ml",
+   "b": "Azeite de Oliva Extra Virgem Monini vd 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Absorvente Always Super Proteção com Abas c/32",
+   "b": "Absorvente Always Super Proteção pct c/8",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Requeijão Cremoso Clan Tradicional/Light 200g",
+   "b": "Requeijão Clan Cremoso Tradicional ou Light 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Wafer Hershey's Mais Sabores Pacote 102g",
+   "b": "Biscoito Wafer Hershey's Sabores 102g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Deluxe Folha Dupla Leve 12 Pague 11 (20m)",
+   "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lasanha Seara Congelada Bolonhesa 1kg",
+   "b": "Lasanha Seara Congelada Bolonhesa Caixeta com 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lenço Umedecido Piquitucho 120 unidades",
+   "b": "Lenços Umedecidos Piquitucho Pack 4x60 Unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mant Ouro Bom 500g Primeira Qualidade",
+   "b": "Manteiga Ouro Bom 500g com Sal Primeira Qualidade",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabão em Pedaço Absoluto Vários Tipos Pacote com 5x160g",
+   "b": "Sabão em Pedaço Minuano Vários tipos Pack com 5x160g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Fralda Descartável Huggies Rápida Absorção Vários tamanhos Pacote",
+   "b": "Fralda Descartável Huggies Rápida Absorção Pacote",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem Gallo vd 500ml",
+   "b": "Azeite de Oliva Extra Virgem San Frediano Vd 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Cream Cracker Vitarella Tradicional 350g",
+   "b": "Biscoito Cream Cracker Vitarella 350g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aparelho de Barbear Gillette Prestobarba Ultra Grip c/2",
+   "b": "Aparelho de Barbear Gillette Prestobarba Carbono C/2",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Bisteca de Acém Reserva Resfriada (Friboi Reserva)",
+   "b": "Carne Bovina Bisteca de Acém Reserva Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante Roupas Sonho FR 1,5L Fragrâncias",
+   "b": "Amaciante de Roupas Comfort 1,5L Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Cookies Bauducco 100g Original ou Cookies Max 96g Dentadura",
+   "b": "Biscoito Cookies Bauducco Original 100g ou Max 96g Dentadura",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Hig Neve Supreme L12 P11 ou Papel Hig Neve L12 P11 Toq Seda",
+   "b": "Papel Higienico Neve Supreme L12 P11 ou Neve L12 P11 Toque Seda",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Aurora kg",
+   "b": "Linguiça de Frango Aurora congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Po Ala 1,6kg Fragrancias",
+   "b": "Lava Roupa Pó Brilhante 1,6kg Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado Natville Semidesnatado 395g",
+   "b": "Leite Condensado UHT LeitBom Semidesnatado 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Frita Easychef Congelado 2kg Tradicional",
+   "b": "Batata Pré-frita EasyChef Congelada Tradicional 2kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Mili Love Care Pants Jumbo (M/G/XG/XXG)",
+   "b": "Fralda Mili Love & Care Pants Jumbo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Proc Peça ou Ped Caicó",
+   "b": "Queijo Mussarela Unalac Peça ou Pedaço",
+   "veredito": "diferente"
+  }
+ ]
+}

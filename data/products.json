@@ -235969,5 +235969,70 @@
    "w": 42,
    "h": 28
   }
+ ],
+ "atacadao_a98f80a6b6_p1": [
+  {
+   "n": "Banana Pacovan",
+   "p": "3,79",
+   "u": "kg",
+   "x": 5,
+   "y": 22,
+   "w": 44,
+   "h": 19
+  },
+  {
+   "n": "Cenoura",
+   "p": "6,39",
+   "u": "kg",
+   "x": 50,
+   "y": 22,
+   "w": 45,
+   "h": 19
+  },
+  {
+   "n": "Filé de Peito de Frango Lar Congelado",
+   "p": "14,99",
+   "u": "kg",
+   "x": 4,
+   "y": 43,
+   "w": 45,
+   "h": 18
+  },
+  {
+   "n": "Salsicha Hot Dog Perdigão Congelada Pacote 5kg",
+   "p": "59,90",
+   "u": "pct 5kg",
+   "x": 50,
+   "y": 43,
+   "w": 46,
+   "h": 18
+  },
+  {
+   "n": "Refrigerante Refri Indaiá Vários sabores Pet com 2L",
+   "p": "3,99",
+   "u": "un",
+   "x": 6,
+   "y": 63,
+   "w": 32,
+   "h": 19
+  },
+  {
+   "n": "Cerveja Heineken Long Neck 330ml",
+   "p": "5,99",
+   "u": "un",
+   "x": 34,
+   "y": 63,
+   "w": 30,
+   "h": 19
+  },
+  {
+   "n": "Creme Dental Even Vários tipos",
+   "p": "1,85",
+   "u": "Tubo com 70g",
+   "x": 66,
+   "y": 62,
+   "w": 31,
+   "h": 19
+  }
  ]
 }

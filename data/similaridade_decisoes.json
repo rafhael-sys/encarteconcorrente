@@ -21576,5 +21576,384 @@
   "b": "Azeite de Oliva Gallo Extra Virgem 500ml",
   "veredito": "diferente",
   "quando": "2026-08-14"
+ },
+ "carne bovina cupim reserva resfriada || carne bovina musculo reserva resfriada": {
+  "a": "Carne Bovina Músculo Reserva Resfriada",
+  "b": "Carne Bovina Cupim Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "carne bovina cupim reserva resfriada || carne bovina picanha reserva resfriada": {
+  "a": "Carne Bovina Picanha Reserva Resfriada",
+  "b": "Carne Bovina Cupim Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "carne bovina cupim reserva resfriada || carne bovina rabo reserva resfriada": {
+  "a": "Carne Bovina Rabo Reserva Resfriada",
+  "b": "Carne Bovina Cupim Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "carne bovina cupim reserva resfriada || carne bovina maminha reserva resfriada": {
+  "a": "Carne Bovina Maminha Reserva Resfriada",
+  "b": "Carne Bovina Cupim Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "tira manchas gel vanish refil 500ml || tira-manchas vanish tipos refil 500ml": {
+  "a": "Tira Manchas Gel Vanish Refil 500ml",
+  "b": "Tira-Manchas Vanish Tipos Refil 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "shampoo clear varios tipos frasco 400ml || shampoo ox varios tipos frasco com 400ml": {
+  "a": "Shampoo OX Vários tipos Frasco com 400ml",
+  "b": "Shampoo Clear Vários Tipos Frasco 400ml",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "peito de frango bom todo congelado || peito de frango lar com osso congelado": {
+  "a": "Peito de Frango Bom Todo Congelado",
+  "b": "Peito de Frango Lar com Osso Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "sabonete liquido nivea creme care refil 200ml || sabonete liquido nivea refil 200ml": {
+  "a": "Sabonete Líquido Nivea Creme Care Refil 200ml",
+  "b": "Sabonete Liquido Nivea Refil 200ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "arroz parboilizado coradini tp 1 1kg || arroz parboilizado urbano tipo 1 1kg": {
+  "a": "Arroz Parboilizado Urbano Tipo 1 1kg",
+  "b": "Arroz Parboilizado CORADINI TP 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "batata palha boa tradicional 800g || batata palha zuppa tradicional pct 800g": {
+  "a": "Batata Palha Zuppa Tradicional pct 800g",
+  "b": "Batata Palha Boa Tradicional 800g",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "queijo mussarela ouro bom peca ou pedaco || queijo mussarela proc peca ou ped caico": {
+  "a": "Queijo Mussarela Proc Peça ou Ped Caicó",
+  "b": "Queijo Mussarela Ouro Bom Peça ou Pedaço",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "desodorante aerossol old spice fragrancias 250ml || desodorante aerossol rexona fragrancias 250ml": {
+  "a": "Desodorante Aerossol Rexona Fragrâncias 250ml",
+  "b": "Desodorante Aerossol Old Spice Fragrâncias 250ml",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "carne bovina contra file friboi porcionada resfriada || carne bovina patinho friboi porcionada resfriada": {
+  "a": "Carne Bovina Patinho Friboi Porcionada Resfriada",
+  "b": "Carne Bovina Contra Filé Friboi Porcionada Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "file de peito de frango congelado lar kg || file de peito de frango congelado super frango": {
+  "a": "Filé de Peito de Frango Congelado Lar KG",
+  "b": "Filé de Peito de Frango Congelado Super Frango",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "pao de forma center massas ou cadice integral 400g || pao de forma center massas tradicional 400g": {
+  "a": "Pão de Forma Center Massas Tradicional 400g",
+  "b": "Pão de Forma Center Massas ou Cadice Integral 400g",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "carne bovina acem com osso reserva resfriada friboi || carne bovina com osso paleta reserva resfriada friboi kg": {
+  "a": "Carne Bovina com Osso Paleta Reserva Resfriada Friboi Kg",
+  "b": "Carne Bovina Acém com Osso Reserva Resfriada Friboi",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "sardinha robinson crusoe lata 125g oleo || sardinha robinson crusoe lt 125g oleo ou tomate": {
+  "a": "Sardinha Robinson Crusoe Lata 125g Óleo",
+  "b": "Sardinha Robinson Crusoe Lt 125g Óleo ou Tomate",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "desodorante aerosol rexona 150ml fragrancias || desodorante aerossol herbissimo 150ml (fragrancias)": {
+  "a": "Desodorante Aerosol Rexona 150ml Fragrâncias",
+  "b": "Desodorante Aerossol Herbíssimo 150ml (Fragrâncias)",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "pao de forma cadice integral ou aveia 400g || pao de forma cadice integral sem acucar 400g": {
+  "a": "Pão de Forma Cadice Integral ou Aveia 400G",
+  "b": "Pão de Forma Cadice Integral Sem Açúcar 400g",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "azeite especial extra virgem la espanola vd 500ml || azeite extra virgem la espanola 500ml": {
+  "a": "Azeite Extra Virgem LA ESPAÑOLA 500ml",
+  "b": "Azeite Especial Extra Virgem La Española vd 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "escova dental colgate classic clean l3p2 || escova dental colgate classic clean media leve3pague2": {
+  "a": "Escova Dental Colgate Classic Clean Media Leve3Pague2",
+  "b": "Escova Dental Colgate Classic Clean L3P2",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "papel higienico fofex folha dupla 20m 12 unids || papel higienico sublime folha dupla 20m 4 unids": {
+  "a": "Papel Higiênico Fofex Folha Dupla 20m 12 unids",
+  "b": "Papel Higiênico Sublime Folha Dupla 20m 4 unids",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "azeite de oliva extra virgem monini vd 500ml || azeite de oliva extravirgem andorinha vidro 500ml": {
+  "a": "Azeite de Oliva Extra Virgem Monini vd 500ml",
+  "b": "Azeite de Oliva Extravirgem Andorinha Vidro 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "creme para pentear seda frasco com 300ml || creme para pentear seda varios tipos frasco com 300ml": {
+  "a": "Creme para Pentear Seda Frasco com 300ml",
+  "b": "Creme para Pentear Seda Vários tipos Frasco com 300ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "file de tilapia aurora congelado iqf pct 800g || file de tilapia oceani congelado pct 800g": {
+  "a": "Filé de Tilápia Oceani Congelado pct 800g",
+  "b": "Filé de Tilápia Aurora Congelado IQF Pct 800g",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "requeijao cremoso danone tradicional ou light 200g || requeijao cremoso nestle tradicional/light pt 200g": {
+  "a": "Requeijão Cremoso Nestlé Tradicional/Light pt 200g",
+  "b": "Requeijão Cremoso Danone Tradicional ou Light 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "biscoito integral/recheado club social 141/144g sabores || biscoito salgado club social 141/144g sabores": {
+  "a": "Biscoito Salgado Club Social 141/144g Sabores",
+  "b": "Biscoito Integral/Recheado CLUB SOCIAL 141/144g Sabores",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "azeite de oliva extra virgem monini vd 500ml || azeite de oliva extra virgem sacciali vidro 500ml": {
+  "a": "Azeite de Oliva Extra Virgem Monini vd 500ml",
+  "b": "Azeite De Oliva Extra Virgem Sacciali Vidro 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "requeijao cremoso catupiry tradicional ou light pt 200g || requeijao cremoso clan tradicional/light 200g": {
+  "a": "Requeijão Cremoso Clan Tradicional/Light 200g",
+  "b": "Requeijão Cremoso Catupiry Tradicional ou Light pt 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "leite uht natville integral ou desnatado 1l || leite uht parmalat integral ou desnatado 1l": {
+  "a": "Leite UHT Natville Integral ou Desnatado 1L",
+  "b": "Leite UHT Parmalat Integral ou Desnatado 1L",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "batata canoa ou fininha congelada mccain pacote 1,5kg || batata corte fino congelada mccain pacote 1,5kg": {
+  "a": "Batata Corte Fino Congelada McCain pacote 1,5kg",
+  "b": "Batata Canoa ou Fininha Congelada McCain pacote 1,5kg",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "papel higienico atualle folha dupla 12x20m (neutro) || papel higienico atualle folha dupla 20m c/12": {
+  "a": "Papel Higiênico Atualle Folha Dupla 20m c/12",
+  "b": "Papel Higiênico Atualle Folha Dupla 12x20m (neutro)",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "sabao em barra absoluto glicerinado 5x160g || sabao em barra sao marcos glicerinado 5x160g": {
+  "a": "Sabão em Barra São Marcos Glicerinado 5x160g",
+  "b": "Sabão em Barra Absoluto Glicerinado 5x160g",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "leite uht elege integral ou desnatado cx 1 litro || leite uht ninho nestle integral ou semidesnatado cx 1 litro": {
+  "a": "Leite UHT Ninho Nestlé Integral ou Semidesnatado cx 1 litro",
+  "b": "Leite UHT Elege Integral ou Desnatado cx 1 litro",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "carne bovina paleta sem osso reserva resfriada || carne bovina ponta de peito sem osso reserva resfriada": {
+  "a": "Carne Bovina Paleta sem Osso Reserva Resfriada",
+  "b": "Carne Bovina Ponta de Peito sem Osso Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "queijo mussarela carinho resfriado fatiado || queijo mussarela girolanda resfriado fatiado": {
+  "a": "Queijo Mussarela Girolanda Resfriado Fatiado",
+  "b": "Queijo Mussarela Carinho Resfriado Fatiado",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "maminha bovina resfriada a vacuo masterboi || paleta bovina resfriada a vacuo masterboi kg": {
+  "a": "Maminha Bovina Resfriada a Vácuo Masterboi",
+  "b": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "azeite de oliva extra virgem monini vd 500ml || azeite de oliva extra virgem palermo 500ml": {
+  "a": "Azeite de Oliva Extra Virgem PALERMO 500ml",
+  "b": "Azeite de Oliva Extra Virgem Monini vd 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "absorvente always super protecao com abas c/32 || absorvente always super protecao pct c/8": {
+  "a": "Absorvente Always Super Proteção com Abas c/32",
+  "b": "Absorvente Always Super Proteção pct c/8",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "requeijao clan cremoso tradicional ou light 200g || requeijao cremoso clan tradicional/light 200g": {
+  "a": "Requeijão Cremoso Clan Tradicional/Light 200g",
+  "b": "Requeijão Clan Cremoso Tradicional ou Light 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "biscoito wafer hershey's mais sabores pacote 102g || biscoito wafer hershey's sabores 102g": {
+  "a": "Biscoito Wafer Hershey's Mais Sabores Pacote 102g",
+  "b": "Biscoito Wafer Hershey's Sabores 102g",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "papel higienico caprice folha dupla leve 12 pague 11 || papel higienico deluxe folha dupla leve 12 pague 11 (20m)": {
+  "a": "Papel Higiênico Deluxe Folha Dupla Leve 12 Pague 11 (20m)",
+  "b": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "lasanha seara congelada bolonhesa 1kg || lasanha seara congelada bolonhesa caixeta com 1kg": {
+  "a": "Lasanha Seara Congelada Bolonhesa 1kg",
+  "b": "Lasanha Seara Congelada Bolonhesa Caixeta com 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "lenco umedecido piquitucho 120 unidades || lencos umedecidos piquitucho pack 4x60 unidades": {
+  "a": "Lenço Umedecido Piquitucho 120 unidades",
+  "b": "Lenços Umedecidos Piquitucho Pack 4x60 Unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "mant ouro bom 500g primeira qualidade || manteiga ouro bom 500g com sal primeira qualidade": {
+  "a": "Mant Ouro Bom 500g Primeira Qualidade",
+  "b": "Manteiga Ouro Bom 500g com Sal Primeira Qualidade",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "sabao em pedaco absoluto varios tipos pacote com 5x160g || sabao em pedaco minuano varios tipos pack com 5x160g": {
+  "a": "Sabão em Pedaço Absoluto Vários Tipos Pacote com 5x160g",
+  "b": "Sabão em Pedaço Minuano Vários tipos Pack com 5x160g",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "fralda descartavel huggies rapida absorcao pacote || fralda descartavel huggies rapida absorcao varios tamanhos pacote": {
+  "a": "Fralda Descartável Huggies Rápida Absorção Vários tamanhos Pacote",
+  "b": "Fralda Descartável Huggies Rápida Absorção Pacote",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "azeite de oliva extra virgem gallo vd 500ml || azeite de oliva extra virgem san frediano vd 500ml": {
+  "a": "Azeite de Oliva Extra Virgem Gallo vd 500ml",
+  "b": "Azeite de Oliva Extra Virgem San Frediano Vd 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "biscoito cream cracker vitarella 350g || biscoito cream cracker vitarella tradicional 350g": {
+  "a": "Biscoito Cream Cracker Vitarella Tradicional 350g",
+  "b": "Biscoito Cream Cracker Vitarella 350g",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "aparelho de barbear gillette prestobarba carbono c/2 || aparelho de barbear gillette prestobarba ultra grip c/2": {
+  "a": "Aparelho de Barbear Gillette Prestobarba Ultra Grip c/2",
+  "b": "Aparelho de Barbear Gillette Prestobarba Carbono C/2",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "carne bovina bisteca de acem reserva resfriada || carne bovina bisteca de acem reserva resfriada (friboi reserva)": {
+  "a": "Carne Bovina Bisteca de Acém Reserva Resfriada (Friboi Reserva)",
+  "b": "Carne Bovina Bisteca de Acém Reserva Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "amaciante de roupas comfort 1,5l fragrancias || amaciante roupas sonho fr 1,5l fragrancias": {
+  "a": "Amaciante Roupas Sonho FR 1,5L Fragrâncias",
+  "b": "Amaciante de Roupas Comfort 1,5L Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "biscoito cookies bauducco 100g original ou cookies max 96g dentadura || biscoito cookies bauducco original 100g ou max 96g dentadura": {
+  "a": "Biscoito Cookies Bauducco 100g Original ou Cookies Max 96g Dentadura",
+  "b": "Biscoito Cookies Bauducco Original 100g ou Max 96g Dentadura",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "papel hig neve supreme l12 p11 ou papel hig neve l12 p11 toq seda || papel higienico neve supreme l12 p11 ou neve l12 p11 toque seda": {
+  "a": "Papel Hig Neve Supreme L12 P11 ou Papel Hig Neve L12 P11 Toq Seda",
+  "b": "Papel Higienico Neve Supreme L12 P11 ou Neve L12 P11 Toque Seda",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "linguica de frango aurora congelada || linguica de frango aurora kg": {
+  "a": "Linguiça de Frango Aurora kg",
+  "b": "Linguiça de Frango Aurora congelada",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "lava roupa po brilhante 1,6kg fragrancias || lava roupas po ala 1,6kg fragrancias": {
+  "a": "Lava Roupas Po Ala 1,6kg Fragrancias",
+  "b": "Lava Roupa Pó Brilhante 1,6kg Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "leite condensado natville semidesnatado 395g || leite condensado uht leitbom semidesnatado 395g": {
+  "a": "Leite Condensado Natville Semidesnatado 395g",
+  "b": "Leite Condensado UHT LeitBom Semidesnatado 395g",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "batata frita easychef congelado 2kg tradicional || batata pre-frita easychef congelada tradicional 2kg": {
+  "a": "Batata Frita Easychef Congelado 2kg Tradicional",
+  "b": "Batata Pré-frita EasyChef Congelada Tradicional 2kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "fralda mili love & care pants jumbo || fralda mili love care pants jumbo (m/g/xg/xxg)": {
+  "a": "Fralda Mili Love Care Pants Jumbo (M/G/XG/XXG)",
+  "b": "Fralda Mili Love & Care Pants Jumbo",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "queijo mussarela proc peca ou ped caico || queijo mussarela unalac peca ou pedaco": {
+  "a": "Queijo Mussarela Proc Peça ou Ped Caicó",
+  "b": "Queijo Mussarela Unalac Peça ou Pedaço",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
  }
 }
