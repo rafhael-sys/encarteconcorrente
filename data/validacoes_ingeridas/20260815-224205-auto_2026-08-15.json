@@ -1,0 +1,264 @@
+{
+ "validacoes": [
+  {
+   "a": "Leite UHT Integral Elegê 1L",
+   "b": "Leite UHT Integral LeitBom 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca Dubom Tipo 1 1kg",
+   "b": "Feijão Carioca Catolé Tipo 1 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café em Cápsulas 3 Corações com 10 und Sabores",
+   "b": "Café em Cápsula 3 Corações 10 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz São Joaquim 1kg",
+   "b": "Arroz Tipo 1 São Joaquim 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Emocoes 1kg (Parboilizado/Branco)",
+   "b": "Arroz Tio Manoel 1kg (Parboilizado/Branco)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Stella Artois Pure Gold 330ml",
+   "b": "Cerveja Stella Pure Gold LN 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Calabresa Sadia",
+   "b": "Linguiça Calabresa Sadia Reta kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lenço Umedecido Neve Dermacare Embalagem com 48 unidades",
+   "b": "Lenço Umedecido Neve Dermacare 48 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Amstel Lata 350ml",
+   "b": "Cerveja Spaten lta 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bombom Garoto Caixa 220g",
+   "b": "Bombom Garoto 220g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Sanitária Clorito Bombona com 5L",
+   "b": "Água Sanitária Ypê Bombona com 5L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça para Churrasco ou de Frango Aurora kg",
+   "b": "LINGUIÇA DE CHURRASCO OU FRANGO AURORA",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango Bom Todo com Miúdos com KG",
+   "b": "Frango Bom Todo c/ Miúdos Congelado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Condicionador Elseve 200ml Cachos dos Sonhos",
+   "b": "Cond Elseve 200ml Cachos D Sonhos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Italac 395g",
+   "b": "Leite Condensado Glória 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Granola Biosoft Diet Multicereais 230g",
+   "b": "Granola Biosoft 230g Diet Multi Cereais",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Líquido Lux Refil 200ml Fragrâncias",
+   "b": "Sabonete Líquido Corpo Dourado Refil 200ml Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça de Frango Lar kg",
+   "b": "Linguiça de Frango Seara",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem La Rambla vd 500ml",
+   "b": "Azeite de Oliva Extra Virgem Ouro da Terra Vd 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Peito com Osso Reserva Resfriada",
+   "b": "Carne Bovina com Osso Paleta Reserva Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Maminha Bovina Friboi",
+   "b": "Picanha Bovina Friboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Pop Parboilizado Tipo 2 Pacote com 1kg",
+   "b": "Arroz Parboilizado Tipo 2 Pop Pacote 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maionese Hellmann's Doypack 400g",
+   "b": "Maionese Hellmann's 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Itaipava Pilsen 350ml",
+   "b": "Cerveja Itaipava Lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Eu Kero Tipo 2 Pacote com 1kg",
+   "b": "Feijão Carioca Eu Kero Tipo 2 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "PNEU ARO 15 185/65 XBRI FASTWAY UNIDADE",
+   "b": "Pneu Aro 15 185/60 XBRI Fastway",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado Glória 395g",
+   "b": "Leite Condensado Itambé 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Patinho Resfriado Kg",
+   "b": "Carne Bovina Patinho de Sol Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Detergente Líquido Brilux 500ml",
+   "b": "Detergente Líquido Minuano 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Achocolatado em Pó Chocolatto 3 Corações Pacote 700g",
+   "b": "Achocolatado Chocolatto 3 Corações 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pão Bom de Massa 400g Forma Tradicional Integral Leite",
+   "b": "Pão Bom de Massa 400g Forma Tradicional, Leite ou Integral",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Girolando Resfriado",
+   "b": "Queijo Mussarela Carinho Resfriado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Peito com Osso Reserva Resfriada (Friboi Reserva)",
+   "b": "Carne Bovina Peito com Osso Reserva Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cond Dove 250ml Bond Repair",
+   "b": "Condicionador Dove 250ml Bond Repair",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café São Braz 250g",
+   "b": "Café Moído São Braz 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sandália Rider Street (Adulto)",
+   "b": "Sandália Rider Street",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mortadela Defumada Seara",
+   "b": "Mortadela Defumada Seara Fatiada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas +Ekonomico 3L",
+   "b": "Lava Roupas Líquido +eKonômico 3L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Misto Perdigão 56g",
+   "b": "Hambúrguer Misto Fribol 56g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Pré-frita EasyChef Congelada Tradicional 2kg",
+   "b": "Batata Pré-frita Easy Chef Congelada 2kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça de Frango Avivar",
+   "b": "Linguiça de Frango Seara",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Coxão Mole Resfriado",
+   "b": "Carne Bovina Coxão Mole de Sol",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Água Sanitária OLIMPO 5L",
+   "b": "Agua Sanitaria Clorito 5L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Coradini ou Rampinelli Branco 1kg",
+   "b": "Arroz Fazenda ou Rampinelli Branco 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sardinha Cabo Verde 125g",
+   "b": "Sardinha em Óleo Cabo Verde 125g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Líquido Tanlux 500ml",
+   "b": "Detergente Líquido Minuano 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sabonete Even 85g Fragrâncias",
+   "b": "Sabonete Palmolive 85g Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Fralda Cremer Jumbo Calça MD",
+   "b": "FR CREMER JUMBO CALCA",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Avelã Nutella pt 140g",
+   "b": "Creme de Avelã Nutella PT 140g Chocolate",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Italac 395g",
+   "b": "Leite Condensado Damare 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Tempero Completo REDEMAIS 500ml",
+   "b": "Tempero Completo Predileto 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Salg Fandangos 35g",
+   "b": "Salgadinho Fandangos 35g",
+   "veredito": "mesmo"
+  }
+ ]
+}

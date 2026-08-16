@@ -21955,5 +21955,344 @@
   "b": "Queijo Mussarela Unalac Peça ou Pedaço",
   "veredito": "diferente",
   "quando": "2026-08-15"
+ },
+ "leite uht integral elege 1l || leite uht integral leitbom 1l": {
+  "a": "Leite UHT Integral Elegê 1L",
+  "b": "Leite UHT Integral LeitBom 1L",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "feijao carioca catole tipo 1 1kg || feijao carioca dubom tipo 1 1kg": {
+  "a": "Feijão Carioca Dubom Tipo 1 1kg",
+  "b": "Feijão Carioca Catolé Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "cafe em capsula 3 coracoes 10 unidades || cafe em capsulas 3 coracoes com 10 und sabores": {
+  "a": "Café em Cápsulas 3 Corações com 10 und Sabores",
+  "b": "Café em Cápsula 3 Corações 10 unidades",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "arroz sao joaquim 1kg || arroz tipo 1 sao joaquim 1kg": {
+  "a": "Arroz São Joaquim 1kg",
+  "b": "Arroz Tipo 1 São Joaquim 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "arroz emocoes 1kg (parboilizado/branco) || arroz tio manoel 1kg (parboilizado/branco)": {
+  "a": "Arroz Emocoes 1kg (Parboilizado/Branco)",
+  "b": "Arroz Tio Manoel 1kg (Parboilizado/Branco)",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "cerveja stella artois pure gold 330ml || cerveja stella pure gold ln 330ml": {
+  "a": "Cerveja Stella Artois Pure Gold 330ml",
+  "b": "Cerveja Stella Pure Gold LN 330ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "linguica calabresa sadia || linguica calabresa sadia reta kg": {
+  "a": "Linguiça Calabresa Sadia",
+  "b": "Linguiça Calabresa Sadia Reta kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "lenco umedecido neve dermacare 48 unidades || lenco umedecido neve dermacare embalagem com 48 unidades": {
+  "a": "Lenço Umedecido Neve Dermacare Embalagem com 48 unidades",
+  "b": "Lenço Umedecido Neve Dermacare 48 unidades",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "cerveja amstel lata 350ml || cerveja spaten lta 350ml": {
+  "a": "Cerveja Amstel Lata 350ml",
+  "b": "Cerveja Spaten lta 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "bombom garoto 220g || bombom garoto caixa 220g": {
+  "a": "Bombom Garoto Caixa 220g",
+  "b": "Bombom Garoto 220g",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "agua sanitaria clorito bombona com 5l || agua sanitaria ype bombona com 5l": {
+  "a": "Água Sanitária Clorito Bombona com 5L",
+  "b": "Água Sanitária Ypê Bombona com 5L",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "linguica de churrasco ou frango aurora || linguica para churrasco ou de frango aurora kg": {
+  "a": "Linguiça para Churrasco ou de Frango Aurora kg",
+  "b": "LINGUIÇA DE CHURRASCO OU FRANGO AURORA",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "frango bom todo c/ miudos congelado kg || frango bom todo com miudos com kg": {
+  "a": "Frango Bom Todo com Miúdos com KG",
+  "b": "Frango Bom Todo c/ Miúdos Congelado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "cond elseve 200ml cachos d sonhos || condicionador elseve 200ml cachos dos sonhos": {
+  "a": "Condicionador Elseve 200ml Cachos dos Sonhos",
+  "b": "Cond Elseve 200ml Cachos D Sonhos",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "leite condensado gloria 395g || leite condensado italac 395g": {
+  "a": "Leite Condensado Italac 395g",
+  "b": "Leite Condensado Glória 395g",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "granola biosoft 230g diet multi cereais || granola biosoft diet multicereais 230g": {
+  "a": "Granola Biosoft Diet Multicereais 230g",
+  "b": "Granola Biosoft 230g Diet Multi Cereais",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "sabonete liquido corpo dourado refil 200ml fragrancias || sabonete liquido lux refil 200ml fragrancias": {
+  "a": "Sabonete Líquido Lux Refil 200ml Fragrâncias",
+  "b": "Sabonete Líquido Corpo Dourado Refil 200ml Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "linguica de frango lar kg || linguica de frango seara": {
+  "a": "Linguiça de Frango Lar kg",
+  "b": "Linguiça de Frango Seara",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "azeite de oliva extra virgem la rambla vd 500ml || azeite de oliva extra virgem ouro da terra vd 500ml": {
+  "a": "Azeite de Oliva Extra Virgem La Rambla vd 500ml",
+  "b": "Azeite de Oliva Extra Virgem Ouro da Terra Vd 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "carne bovina com osso paleta reserva resfriada || carne bovina peito com osso reserva resfriada": {
+  "a": "Carne Bovina Peito com Osso Reserva Resfriada",
+  "b": "Carne Bovina com Osso Paleta Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "maminha bovina friboi || picanha bovina friboi": {
+  "a": "Maminha Bovina Friboi",
+  "b": "Picanha Bovina Friboi",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "arroz parboilizado tipo 2 pop pacote 1kg || arroz pop parboilizado tipo 2 pacote com 1kg": {
+  "a": "Arroz Pop Parboilizado Tipo 2 Pacote com 1kg",
+  "b": "Arroz Parboilizado Tipo 2 Pop Pacote 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "maionese hellmann's 400g || maionese hellmann's doypack 400g": {
+  "a": "Maionese Hellmann's Doypack 400g",
+  "b": "Maionese Hellmann's 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "cerveja itaipava lata 350ml || cerveja itaipava pilsen 350ml": {
+  "a": "Cerveja Itaipava Pilsen 350ml",
+  "b": "Cerveja Itaipava Lata 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "feijao carioca eu kero tipo 2 1kg || feijao carioca eu kero tipo 2 pacote com 1kg": {
+  "a": "Feijão Carioca Eu Kero Tipo 2 Pacote com 1kg",
+  "b": "Feijão Carioca Eu Kero Tipo 2 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "pneu aro 15 185/60 xbri fastway || pneu aro 15 185/65 xbri fastway unidade": {
+  "a": "PNEU ARO 15 185/65 XBRI FASTWAY UNIDADE",
+  "b": "Pneu Aro 15 185/60 XBRI Fastway",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "leite condensado gloria 395g || leite condensado itambe 395g": {
+  "a": "Leite Condensado Glória 395g",
+  "b": "Leite Condensado Itambé 395g",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "carne bovina patinho de sol kg || carne bovina patinho resfriado kg": {
+  "a": "Carne Bovina Patinho Resfriado Kg",
+  "b": "Carne Bovina Patinho de Sol Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "detergente liquido brilux 500ml || detergente liquido minuano 500ml": {
+  "a": "Detergente Líquido Brilux 500ml",
+  "b": "Detergente Líquido Minuano 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "achocolatado chocolatto 3 coracoes 700g || achocolatado em po chocolatto 3 coracoes pacote 700g": {
+  "a": "Achocolatado em Pó Chocolatto 3 Corações Pacote 700g",
+  "b": "Achocolatado Chocolatto 3 Corações 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "pao bom de massa 400g forma tradicional integral leite || pao bom de massa 400g forma tradicional, leite ou integral": {
+  "a": "Pão Bom de Massa 400g Forma Tradicional Integral Leite",
+  "b": "Pão Bom de Massa 400g Forma Tradicional, Leite ou Integral",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "queijo mussarela carinho resfriado || queijo mussarela girolando resfriado": {
+  "a": "Queijo Mussarela Girolando Resfriado",
+  "b": "Queijo Mussarela Carinho Resfriado",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "carne bovina peito com osso reserva resfriada || carne bovina peito com osso reserva resfriada (friboi reserva)": {
+  "a": "Carne Bovina Peito com Osso Reserva Resfriada (Friboi Reserva)",
+  "b": "Carne Bovina Peito com Osso Reserva Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "cond dove 250ml bond repair || condicionador dove 250ml bond repair": {
+  "a": "Cond Dove 250ml Bond Repair",
+  "b": "Condicionador Dove 250ml Bond Repair",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "cafe moido sao braz 250g || cafe sao braz 250g": {
+  "a": "Café São Braz 250g",
+  "b": "Café Moído São Braz 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "sandalia rider street || sandalia rider street (adulto)": {
+  "a": "Sandália Rider Street (Adulto)",
+  "b": "Sandália Rider Street",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "mortadela defumada seara || mortadela defumada seara fatiada": {
+  "a": "Mortadela Defumada Seara",
+  "b": "Mortadela Defumada Seara Fatiada",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "lava roupas +ekonomico 3l || lava roupas liquido +ekonomico 3l": {
+  "a": "Lava Roupas +Ekonomico 3L",
+  "b": "Lava Roupas Líquido +eKonômico 3L",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "hamburguer misto fribol 56g || hamburguer misto perdigao 56g": {
+  "a": "Hambúrguer Misto Perdigão 56g",
+  "b": "Hambúrguer Misto Fribol 56g",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "batata pre-frita easy chef congelada 2kg || batata pre-frita easychef congelada tradicional 2kg": {
+  "a": "Batata Pré-frita EasyChef Congelada Tradicional 2kg",
+  "b": "Batata Pré-frita Easy Chef Congelada 2kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "linguica de frango avivar || linguica de frango seara": {
+  "a": "Linguiça de Frango Avivar",
+  "b": "Linguiça de Frango Seara",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "carne bovina coxao mole de sol || carne bovina coxao mole resfriado": {
+  "a": "Carne Bovina Coxão Mole Resfriado",
+  "b": "Carne Bovina Coxão Mole de Sol",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "agua sanitaria clorito 5l || agua sanitaria olimpo 5l": {
+  "a": "Água Sanitária OLIMPO 5L",
+  "b": "Agua Sanitaria Clorito 5L",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "arroz coradini ou rampinelli branco 1kg || arroz fazenda ou rampinelli branco 1kg": {
+  "a": "Arroz Coradini ou Rampinelli Branco 1kg",
+  "b": "Arroz Fazenda ou Rampinelli Branco 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "sardinha cabo verde 125g || sardinha em oleo cabo verde 125g": {
+  "a": "Sardinha Cabo Verde 125g",
+  "b": "Sardinha em Óleo Cabo Verde 125g",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "detergente liquido minuano 500ml || detergente liquido tanlux 500ml": {
+  "a": "Detergente Líquido Tanlux 500ml",
+  "b": "Detergente Líquido Minuano 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "sabonete even 85g fragrancias || sabonete palmolive 85g fragrancias": {
+  "a": "Sabonete Even 85g Fragrâncias",
+  "b": "Sabonete Palmolive 85g Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "fr cremer jumbo calca || fralda cremer jumbo calca md": {
+  "a": "Fralda Cremer Jumbo Calça MD",
+  "b": "FR CREMER JUMBO CALCA",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "creme de avela nutella pt 140g || creme de avela nutella pt 140g chocolate": {
+  "a": "Creme de Avelã Nutella pt 140g",
+  "b": "Creme de Avelã Nutella PT 140g Chocolate",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
+ },
+ "leite condensado damare 395g || leite condensado italac 395g": {
+  "a": "Leite Condensado Italac 395g",
+  "b": "Leite Condensado Damare 395g",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "tempero completo predileto 500ml || tempero completo redemais 500ml": {
+  "a": "Tempero Completo REDEMAIS 500ml",
+  "b": "Tempero Completo Predileto 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-15"
+ },
+ "salg fandangos 35g || salgadinho fandangos 35g": {
+  "a": "Salg Fandangos 35g",
+  "b": "Salgadinho Fandangos 35g",
+  "veredito": "mesmo",
+  "quando": "2026-08-15",
+  "aplicado": true
  }
 }
