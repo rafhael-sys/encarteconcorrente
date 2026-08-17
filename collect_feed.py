@@ -198,20 +198,24 @@ def main() -> None:
         collect.save_json(UIDS_PATH, cache)
 
     # Coleta PERSISTENTE e gentil: o objetivo é pegar TODOS os perfis por rodada.
-    # - ordem embaralhada e ritmo humano (10-15s) reduzem a cara de robô;
-    # - quando o IG pede para esperar (RateLimit), NÃO martela: dorme o COOLDOWN
-    #   e RETOMA o mesmo perfil — assim ninguém fica de fora por um bloqueio
-    #   passageiro, sem piorar o rate-limit;
+    # - ordem embaralhada e ritmo humano (15-25s) reduzem a cara de robô;
+    # - quando o IG pede para esperar (RateLimit), NÃO martela: dorme e RETOMA o
+    #   mesmo perfil. A espera é ESCALONADA (5, 10, 15 min...) porque conta muito
+    #   limitada precisa de mais tempo para liberar — insistir com pouca espera só
+    #   prolonga o castigo. O contador zera a cada perfil que passa;
     # - erro que não é rate-limit é re-tentado até MAX_TENT vezes;
-    # - tudo dentro de um ORCAMENTO de tempo, para não segurar a janela sem fim.
-    COOLDOWN = 240           # espera após "wait a few minutes" (4 min)
-    ORCAMENTO_S = 25 * 60    # teto total da coleta do feed
+    # - orçamento GENEROSO (45 min): a rodada é de madrugada/noite, sem pressa, e
+    #   completar os 16 vale mais que terminar rápido. O que faltar entra na próxima.
+    COOLDOWN_BASE = 300      # 1º passo de espera após rate-limit (5 min)
+    COOLDOWN_MAX = 900       # teto por espera (15 min)
+    ORCAMENTO_S = 45 * 60    # teto total da coleta do feed
     MAX_TENT = 3             # tentativas por perfil em erro que NÃO é rate-limit
     inicio = time.monotonic()
 
     pendentes = list(profiles)
     random.shuffle(pendentes)
     tentativas: dict[str, int] = {}
+    rl_seguidas = 0          # rate-limits consecutivos (escalona a espera)
     novos = ok = 0
 
     while pendentes and (time.monotonic() - inicio) < ORCAMENTO_S:
@@ -221,26 +225,28 @@ def main() -> None:
             sucesso, n = processa(p, seen, fila, status, agora, cache)
         except RateLimit:
             pendentes.insert(0, p)  # retoma este mesmo perfil depois de esperar
+            rl_seguidas += 1
             restante = ORCAMENTO_S - (time.monotonic() - inicio)
-            espera = int(min(COOLDOWN, restante))
+            espera = int(min(COOLDOWN_BASE * rl_seguidas, COOLDOWN_MAX, restante))
             if espera <= 0:
                 break
             print(f'[feed] IG pediu para esperar — aguardando {espera}s e retomando '
-                  f'({len(pendentes)} perfil(is) na fila)', file=sys.stderr)
+                  f'({len(pendentes)} perfil(is) na fila, espera #{rl_seguidas})', file=sys.stderr)
             _salva()
             time.sleep(espera)
             continue
 
+        rl_seguidas = 0  # passou um perfil: a conta liberou, zera a escalada
         novos += n
         ok += sucesso
         _salva()
         if sucesso:
-            time.sleep(random.uniform(10, 15))  # ritmo humano entre perfis OK
+            time.sleep(random.uniform(15, 25))  # ritmo humano entre perfis OK
         else:
             tentativas[user] = tentativas.get(user, 0) + 1
             if tentativas[user] < MAX_TENT:
                 pendentes.append(p)  # erro comum: tenta de novo mais tarde
-            time.sleep(random.uniform(8, 15))
+            time.sleep(random.uniform(10, 18))
 
     faltaram = [p['username'] for p in pendentes]
     if faltaram:
