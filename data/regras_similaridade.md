@@ -3348,3 +3348,57 @@
 - DIFERENTES: «Shampoo OX Vários tipos Frasco com 400ml» != «Shampoo Clear Vários Tipos Frasco 400ml»
 - DIFERENTES: «Tempero Completo REDEMAIS 500ml» != «Tempero Completo Predileto 500ml»
 - MESMO: «Tira Manchas Gel Vanish Refil 500ml» == «Tira-Manchas Vanish Tipos Refil 500ml»
+- MESMO: «Achocolatado em Pó Apti Power Pacote com 1kg» == «Achocolatado em Pó Apti Power 1kg»
+- MESMO: «Achocolatado Pó Chocky Italac 400g» == «Achocolatado em Po Chocky Sache 400g»
+- MESMO: «Alvejante Vanish Refil 500ml» == «Alvejante Vanish Sachê 500ml»
+- DIFERENTES: «Amaciante Concentrado Downy 500ml» != «Amaciante Concentrado Mon Bijou 500ml»
+- DIFERENTES: «Arroz Parboilizado AGRODEZ Tipo 1 1kg» != «Arroz Parboilizado Tio Manoel Tipo 1 1kg»
+- DIFERENTES: «Azeite de Oliva Borges Extra Virgem VD 500ml» != «Azeite de Oliva Gallo Extra Virgem 500ml»
+- DIFERENTES: «Azeite de Oliva Extra Virgem Fioz 500ml» != «Azeite de Oliva Extra Virgem Kristal vd 500ml»
+- MESMO: «Capa de Filé Bovino» == «Capa de Filé Bovina»
+- MESMO: «Cappuccino em Pó Santa Clara Pt 200g» == «Cappuccino Santa Clara 200g»
+- DIFERENTES: «Carne Bovina Acém com Osso Reserva Resfriada» != «Carne Bovina Patinho sem Osso Reserva Resfriada»
+- DIFERENTES: «Carne Bovina Acém sem Osso Reserva Resfriada» != «Carne Bovina Ponta de Peito sem Osso Reserva Resfriada»
+- DIFERENTES: «Carne bovina coxão mole de sol kg» != «Carne Bovina Coxão Duro de Sol»
+- DIFERENTES: «Carne Bovina Coxão Mole kg» != «Carne Bovina Coxão Mole de Sol»
+- DIFERENTES: «Carne Bovina Coxão Mole Reserva Resfriada» != «Carne Bovina Cupim Reserva Resfriada»
+- MESMO: «Carne Moída Dianteira Bovina» == «Carne Moída Dianteira»
+- DIFERENTES: «Cerveja Eisenbahn Pilsen Lata 350ml» != «Cerveja Budweiser Pilsen Lata 350ml»
+- DIFERENTES: «Coxa de Frango Bom Todo kg Resfriada» != «Sobrecoxa de Frango Bom Todo Resfriada kg»
+- MESMO: «Creme Dental Colgate Tripla Ação Menta Original 90g» == «Creme Dental Colgate Tripla Ação Hortelã/Menta Original Tubo com 90g»
+- MESMO: «Creme Dental Sorriso Kolynos 90g» == «Creme Dental Sorriso 90g»
+- DIFERENTES: «Desodorante Aerosol Rexona 150ml Fragrâncias» != «Desodorante Aerosol Old Spice 150ml Fragrâncias»
+- MESMO: «Empada de Frango QTZ x Suco Unidade» == «Empada de Frango QRZ + Suco Un»
+- MESMO: «Esmalte Risqué 8ml Cores» == «Esmalte Risque 8ml»
+- DIFERENTES: «Extrato de Tomate Fugini Sachê 300g» != «Extrato de Tomate Tambaú Sachê 300g»
+- DIFERENTES: «Feijão Preto Duzé 1kg» != «Feijão Preto Biju 1kg»
+- MESMO: «Fiambre Kitut 320g» == «Fiambre Misto Kitut 320g»
+- DIFERENTES: «Filé de Peito de Frango Aurora congelado BDJ 1kg» != «Filé de Peito de Frango Super Frango Congelado 1kg»
+- MESMO: «Filé de Peito de Frango Envelopado KG» == «Filé de Peito de Frango Congelado»
+- DIFERENTES: «Filé de Peito de Frango Friato Congelado» != «Filé de Peito de Frango Envelopado Congelado»
+- MESMO: «Filezinho Sassomi Lar Envelopado kg» == «Filezinho Sassami Lar Envelopado»
+- DIFERENTES: «Flocão de Milho Bomilho Pacote com 500g» != «Flocão de Milho Maratá Pacote com 500g»
+- MESMO: «Fralda Turma da Mônica Baby tamanhos» == «Fralda Turma da Mônica Baby Short Jumbo (Tamanhos)»
+- MESMO: «Fralda Turma da Mônica G22/XG20/XG18» == «Fralda Turma da Mônica G/XG»
+- DIFERENTES: «Frango Passarinho Seara 1kg» != «Frango Passarinho Lar 1kg IQF»
+- DIFERENTES: «Lava Roupas Líquido Marilux 3L» != «Lava-Roupas Líquido Omo 3L»
+- DIFERENTES: «Leite UHT Integral Ninho 1L» != «Leite UHT Integral LeitBom 1L»
+- DIFERENTES: «Linguiça Calabresa Tony kg» != «Linguiça Calabresa Chuletao kg»
+- DIFERENTES: «Linguiça Calabresa Império KG» != «Linguiça Calabresa Lebon Kg»
+- DIFERENTES: «Linguiça de Frango Aurora kg» != «Linguiça de Frango Avivar kg»
+- MESMO: «Linguiça de Frango Avivar Congelada» == «Linguiça de Frango Avivar kg»
+- MESMO: «Linguiça de Frango Bom Todo Congelada kg» == «Linguiça de Frango Bom Todo kg»
+- DIFERENTES: «Macarrão Espaguete Bonsabor 400g» != «Macarrão Espaguete GOSTOSO 400g»
+- DIFERENTES: «Manteiga Itambé com Sal 500g» != «Manteiga D'Nata com Sal 500g»
+- DIFERENTES: «Manteiga Itambé Resfriada com sal pote 500g» != «Manteiga Tirolez Resfriada com sal Pote com 500g»
+- MESMO: «Manteiga Sertão Jugurutu» == «Manteiga Sertão Jugurutu com Sal»
+- DIFERENTES: «Óleo de Soja Soya 900ml» != «Óleo de Soja Cocamar 900ml»
+- MESMO: «Papel Higiênico Caprice Neutro 20m Folha Dupla LV12PG11» == «Papel Higiênico Caprice Neutro 20m Folha Dupla»
+- DIFERENTES: «Papel Higiênico Caprice Neutro Folha Dupla 12 Rolos» != «Papel Higiênico Floral Neutro Folha Dupla 12 Rolos 20m»
+- MESMO: «Papel Higiênico Fofex 12 unids» == «Papel Higiênico Fofex C/12»
+- DIFERENTES: «Papel Higiênico Sublime Folha Dupla 30m Leve 12 Pague 11» != «Papel Higiênico Mimmo Folha Dupla Compacto 30m Leve 12 Pague 11»
+- MESMO: «Papel Toalha Folha Dupla Leve Mais c/02» == «Papel Toalha Folha Dupla Leve Mais 2 Unidades»
+- DIFERENTES: «Queijo Ralado ITALAC 40g» != «Queijo Ralado IPANEMA 40g»
+- MESMO: «Salgadinho PIRAQUÊ 50g Sabores» == «Salgadinho Di Buteco Piraquê 50g Sabores»
+- MESMO: «Vassoura Condor V 200 Madri Pop c/ Cabo» == «Vassoura Condor V200 Madri Pop c/Cabo»
+- DIFERENTES: «Vinho Tinto Pergola GF 1L Suave ou Seco» != «Vinho Tinto Casa de Pedra GF 1L Suave ou Seco»

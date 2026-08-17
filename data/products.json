@@ -236373,5 +236373,290 @@
    "w": 86,
    "h": 60
   }
+ ],
+ "atacadao_60fd9b12f1_p1": [
+  {
+   "n": "Cebola Branca Quilo",
+   "p": "4,79",
+   "u": "kg",
+   "x": 3,
+   "y": 21,
+   "w": 46,
+   "h": 19
+  },
+  {
+   "n": "Mamão Comum Quilo",
+   "p": "3,79",
+   "u": "kg",
+   "x": 50,
+   "y": 21,
+   "w": 47,
+   "h": 19
+  },
+  {
+   "n": "Frango Mauricéa Congelado (preço por quilo na peça)",
+   "p": "8,99",
+   "u": "kg",
+   "x": 3,
+   "y": 40,
+   "w": 46,
+   "h": 19
+  },
+  {
+   "n": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango Caixeta com 36x56g",
+   "p": "19,90",
+   "u": "un",
+   "x": 50,
+   "y": 40,
+   "w": 47,
+   "h": 19
+  },
+  {
+   "n": "Farinha de Trigo Dona Benta Com Fermento Pacote com 1kg",
+   "p": "3,79",
+   "u": "pct",
+   "x": 2,
+   "y": 60,
+   "w": 31,
+   "h": 20
+  },
+  {
+   "n": "Lava Roupas Líquido Dragão Azul Bombona com 3L",
+   "p": "14,90",
+   "u": "un",
+   "x": 34,
+   "y": 60,
+   "w": 31,
+   "h": 20
+  },
+  {
+   "n": "Lava Roupas em Pó Assim Triplação Bicarbonato Pacote com 1,6kg",
+   "p": "14,90",
+   "u": "pct",
+   "x": 66,
+   "y": 60,
+   "w": 31,
+   "h": 20
+  }
+ ],
+ "atacadao_b8d9c8fea0_p1": [
+  {
+   "n": "Biscoito para Cães Pedigree Biscrock Filhotes Pacote com 300g",
+   "p": "14,90",
+   "u": "pct",
+   "x": 3,
+   "y": 17,
+   "w": 30,
+   "h": 18
+  },
+  {
+   "n": "Alimento para Cães Champ Carne e Cereal Saco com 18kg",
+   "p": "89,00",
+   "u": "pct",
+   "x": 34,
+   "y": 17,
+   "w": 31,
+   "h": 18
+  },
+  {
+   "n": "Alimento para Cães Pedigree Carne e Frango Pacote com 2,7kg",
+   "p": "37,90",
+   "u": "pct",
+   "x": 66,
+   "y": 17,
+   "w": 31,
+   "h": 18
+  },
+  {
+   "n": "Alimento para Cães Pedigree Carne Lata com 280g",
+   "p": "8,90",
+   "u": "un",
+   "x": 3,
+   "y": 36,
+   "w": 30,
+   "h": 18
+  },
+  {
+   "n": "Alimento para Cães Pedigree Nutrição Essencial Leite Pacote com 900g",
+   "p": "12,90",
+   "u": "pct",
+   "x": 34,
+   "y": 36,
+   "w": 31,
+   "h": 18
+  },
+  {
+   "n": "Alimento para Gatos Whiskas Carne Saco com 10,1kg",
+   "p": "99,00",
+   "u": "pct",
+   "x": 66,
+   "y": 36,
+   "w": 31,
+   "h": 18
+  },
+  {
+   "n": "Alimento para Gatos KiteKat Carne/Peixe Sachê com 70g",
+   "p": "1,99",
+   "u": "un",
+   "x": 3,
+   "y": 55,
+   "w": 30,
+   "h": 18
+  },
+  {
+   "n": "Alimento para Cães Bonzo Carne e Cereais Pacote com 15kg",
+   "p": "119,00",
+   "u": "pct",
+   "x": 34,
+   "y": 55,
+   "w": 31,
+   "h": 18
+  },
+  {
+   "n": "Alimento para Cães Adultos Dog Chow Raças Pequenas Pacote com 2,5kg",
+   "p": "39,90",
+   "u": "pct",
+   "x": 66,
+   "y": 55,
+   "w": 31,
+   "h": 18
+  },
+  {
+   "n": "Alimento para Cães Filhotes Dog Chow Pequenos Pacote com 10,1kg",
+   "p": "115,00",
+   "u": "pct",
+   "x": 3,
+   "y": 74,
+   "w": 30,
+   "h": 18
+  },
+  {
+   "n": "Alimento para Gatos Friskies Frango/Frutos do Mar Pacote com 2,5kg",
+   "p": "39,90",
+   "u": "pct",
+   "x": 34,
+   "y": 74,
+   "w": 31,
+   "h": 18
+  },
+  {
+   "n": "Alimento para Gatos Gatsy Carne Pacote com 1kg",
+   "p": "17,90",
+   "u": "pct",
+   "x": 66,
+   "y": 74,
+   "w": 31,
+   "h": 18
+  }
+ ],
+ "atacadao_b8d9c8fea0_p2": [
+  {
+   "n": "Bifinho para Cães Filezitos Pedigree Carne Pacote com 60g",
+   "p": "4,49",
+   "u": "pct",
+   "x": 3,
+   "y": 20,
+   "w": 30,
+   "h": 17
+  },
+  {
+   "n": "Alimento para Cães Pedigree Dentastix Pacote com 3 unidades",
+   "p": "6,90",
+   "u": "pct",
+   "x": 34,
+   "y": 20,
+   "w": 31,
+   "h": 17
+  },
+  {
+   "n": "Petisco para Gatos Dreamies Carne Sachê com 40g",
+   "p": "4,39",
+   "u": "un",
+   "x": 66,
+   "y": 20,
+   "w": 31,
+   "h": 17
+  },
+  {
+   "n": "Alimento para Cães Champ Carne/Frango Sachê com 85g",
+   "p": "1,99",
+   "u": "un",
+   "x": 3,
+   "y": 37,
+   "w": 30,
+   "h": 17
+  },
+  {
+   "n": "Alimento para Cães Pedigree Raças Pequenas Vários sabores Sachê com 100g",
+   "p": "2,29",
+   "u": "un",
+   "x": 34,
+   "y": 37,
+   "w": 31,
+   "h": 17
+  },
+  {
+   "n": "Alimento para Gatos Whiskas Carne Sachê com 85g",
+   "p": "2,29",
+   "u": "un",
+   "x": 66,
+   "y": 37,
+   "w": 31,
+   "h": 17
+  },
+  {
+   "n": "Bifinho para Cães Doguitos Vários sabores Pacote com 65g",
+   "p": "4,99",
+   "u": "pct",
+   "x": 3,
+   "y": 54,
+   "w": 30,
+   "h": 17
+  },
+  {
+   "n": "Petisco para Gatos Friskies Carne Pacote com 40g",
+   "p": "4,89",
+   "u": "pct",
+   "x": 34,
+   "y": 54,
+   "w": 31,
+   "h": 17
+  },
+  {
+   "n": "Alimento para Cães Bonzo Carne & Cereais Pacote com 1kg",
+   "p": "15,90",
+   "u": "pct",
+   "x": 66,
+   "y": 54,
+   "w": 31,
+   "h": 17
+  },
+  {
+   "n": "Alimento para Gatos Filhotes Friskies Carne Sachê com 85g",
+   "p": "2,39",
+   "u": "un",
+   "x": 3,
+   "y": 71,
+   "w": 30,
+   "h": 17
+  },
+  {
+   "n": "Alimento para Cães Pedigree Carne Lata com 280g",
+   "p": "8,90",
+   "u": "un",
+   "x": 34,
+   "y": 71,
+   "w": 31,
+   "h": 17
+  },
+  {
+   "n": "Alimento para Gatos Castrados Chanin Carne e Frango/Filhotes Carne, Peixe e Frango Pacote com 1kg",
+   "p": "10,90",
+   "u": "pct",
+   "x": 66,
+   "y": 71,
+   "w": 31,
+   "h": 17
+  }
  ]
 }

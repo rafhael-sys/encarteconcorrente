@@ -14443,5 +14443,42 @@
   ],
   "fonte": "web",
   "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_60fd9b12f1",
+  "perfil": "atacadao.com.br",
+  "titulo": "Boa do Dia",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-17",
+  "fim": "2026-08-17",
+  "carrossel": false,
+  "shortcode": "atacadao_60fd9b12f1",
+  "caption": "Boa do Dia",
+  "paginas": [
+   "atacadao_60fd9b12f1_p1.jpg"
+  ],
+  "adicionado_em": "2026-08-16",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_b8d9c8fea0",
+  "perfil": "atacadao.com.br",
+  "titulo": "Festival Linha Pet",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-17",
+  "fim": "2026-08-23",
+  "carrossel": true,
+  "shortcode": "atacadao_b8d9c8fea0",
+  "caption": "Festival Linha Pet",
+  "paginas": [
+   "atacadao_b8d9c8fea0_p1.jpg",
+   "atacadao_b8d9c8fea0_p2.jpg"
+  ],
+  "adicionado_em": "2026-08-16",
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
  }
 ]

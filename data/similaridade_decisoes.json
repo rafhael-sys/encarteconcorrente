@@ -22294,5 +22294,352 @@
   "veredito": "mesmo",
   "quando": "2026-08-15",
   "aplicado": true
+ },
+ "vassoura condor v 200 madri pop c/ cabo || vassoura condor v200 madri pop c/cabo": {
+  "a": "Vassoura Condor V 200 Madri Pop c/ Cabo",
+  "b": "Vassoura Condor V200 Madri Pop c/Cabo",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "capa de file bovina || capa de file bovino": {
+  "a": "Capa de Filé Bovino",
+  "b": "Capa de Filé Bovina",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "filezinho sassami lar envelopado || filezinho sassomi lar envelopado kg": {
+  "a": "Filezinho Sassomi Lar Envelopado kg",
+  "b": "Filezinho Sassami Lar Envelopado",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "papel higienico caprice neutro 20m folha dupla || papel higienico caprice neutro 20m folha dupla lv12pg11": {
+  "a": "Papel Higiênico Caprice Neutro 20m Folha Dupla LV12PG11",
+  "b": "Papel Higiênico Caprice Neutro 20m Folha Dupla",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "vinho tinto casa de pedra gf 1l suave ou seco || vinho tinto pergola gf 1l suave ou seco": {
+  "a": "Vinho Tinto Pergola GF 1L Suave ou Seco",
+  "b": "Vinho Tinto Casa de Pedra GF 1L Suave ou Seco",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "papel toalha folha dupla leve mais 2 unidades || papel toalha folha dupla leve mais c/02": {
+  "a": "Papel Toalha Folha Dupla Leve Mais c/02",
+  "b": "Papel Toalha Folha Dupla Leve Mais 2 Unidades",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "creme dental sorriso 90g || creme dental sorriso kolynos 90g": {
+  "a": "Creme Dental Sorriso Kolynos 90g",
+  "b": "Creme Dental Sorriso 90g",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "creme dental colgate tripla acao hortela/menta original tubo com 90g || creme dental colgate tripla acao menta original 90g": {
+  "a": "Creme Dental Colgate Tripla Ação Menta Original 90g",
+  "b": "Creme Dental Colgate Tripla Ação Hortelã/Menta Original Tubo com 90g",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "carne bovina coxao mole de sol || carne bovina coxao mole kg": {
+  "a": "Carne Bovina Coxão Mole kg",
+  "b": "Carne Bovina Coxão Mole de Sol",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "manteiga sertao jugurutu || manteiga sertao jugurutu com sal": {
+  "a": "Manteiga Sertão Jugurutu",
+  "b": "Manteiga Sertão Jugurutu com Sal",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "alvejante vanish refil 500ml || alvejante vanish sache 500ml": {
+  "a": "Alvejante Vanish Refil 500ml",
+  "b": "Alvejante Vanish Sachê 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "manteiga d'nata com sal 500g || manteiga itambe com sal 500g": {
+  "a": "Manteiga Itambé com Sal 500g",
+  "b": "Manteiga D'Nata com Sal 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "achocolatado em po apti power 1kg || achocolatado em po apti power pacote com 1kg": {
+  "a": "Achocolatado em Pó Apti Power Pacote com 1kg",
+  "b": "Achocolatado em Pó Apti Power 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "oleo de soja cocamar 900ml || oleo de soja soya 900ml": {
+  "a": "Óleo de Soja Soya 900ml",
+  "b": "Óleo de Soja Cocamar 900ml",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "azeite de oliva extra virgem fioz 500ml || azeite de oliva extra virgem kristal vd 500ml": {
+  "a": "Azeite de Oliva Extra Virgem Fioz 500ml",
+  "b": "Azeite de Oliva Extra Virgem Kristal vd 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "achocolatado em po chocky sache 400g || achocolatado po chocky italac 400g": {
+  "a": "Achocolatado Pó Chocky Italac 400g",
+  "b": "Achocolatado em Po Chocky Sache 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "queijo ralado ipanema 40g || queijo ralado italac 40g": {
+  "a": "Queijo Ralado ITALAC 40g",
+  "b": "Queijo Ralado IPANEMA 40g",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "file de peito de frango aurora congelado bdj 1kg || file de peito de frango super frango congelado 1kg": {
+  "a": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+  "b": "Filé de Peito de Frango Super Frango Congelado 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "leite uht integral leitbom 1l || leite uht integral ninho 1l": {
+  "a": "Leite UHT Integral Ninho 1L",
+  "b": "Leite UHT Integral LeitBom 1L",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "carne moida dianteira || carne moida dianteira bovina": {
+  "a": "Carne Moída Dianteira Bovina",
+  "b": "Carne Moída Dianteira",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "file de peito de frango envelopado congelado || file de peito de frango friato congelado": {
+  "a": "Filé de Peito de Frango Friato Congelado",
+  "b": "Filé de Peito de Frango Envelopado Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "linguica de frango bom todo congelada kg || linguica de frango bom todo kg": {
+  "a": "Linguiça de Frango Bom Todo Congelada kg",
+  "b": "Linguiça de Frango Bom Todo kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "carne bovina acem com osso reserva resfriada || carne bovina patinho sem osso reserva resfriada": {
+  "a": "Carne Bovina Acém com Osso Reserva Resfriada",
+  "b": "Carne Bovina Patinho sem Osso Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "papel higienico caprice neutro folha dupla 12 rolos || papel higienico floral neutro folha dupla 12 rolos 20m": {
+  "a": "Papel Higiênico Caprice Neutro Folha Dupla 12 Rolos",
+  "b": "Papel Higiênico Floral Neutro Folha Dupla 12 Rolos 20m",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "linguica calabresa chuletao kg || linguica calabresa tony kg": {
+  "a": "Linguiça Calabresa Tony kg",
+  "b": "Linguiça Calabresa Chuletao kg",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "empada de frango qrz + suco un || empada de frango qtz x suco unidade": {
+  "a": "Empada de Frango QTZ x Suco Unidade",
+  "b": "Empada de Frango QRZ + Suco Un",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "fralda turma da monica g/xg || fralda turma da monica g22/xg20/xg18": {
+  "a": "Fralda Turma da Mônica G22/XG20/XG18",
+  "b": "Fralda Turma da Mônica G/XG",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "linguica de frango avivar congelada || linguica de frango avivar kg": {
+  "a": "Linguiça de Frango Avivar Congelada",
+  "b": "Linguiça de Frango Avivar kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "manteiga itambe resfriada com sal pote 500g || manteiga tirolez resfriada com sal pote com 500g": {
+  "a": "Manteiga Itambé Resfriada com sal pote 500g",
+  "b": "Manteiga Tirolez Resfriada com sal Pote com 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "fralda turma da monica baby short jumbo (tamanhos) || fralda turma da monica baby tamanhos": {
+  "a": "Fralda Turma da Mônica Baby tamanhos",
+  "b": "Fralda Turma da Mônica Baby Short Jumbo (Tamanhos)",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "azeite de oliva borges extra virgem vd 500ml || azeite de oliva gallo extra virgem 500ml": {
+  "a": "Azeite de Oliva Borges Extra Virgem VD 500ml",
+  "b": "Azeite de Oliva Gallo Extra Virgem 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "carne bovina coxao duro de sol || carne bovina coxao mole de sol kg": {
+  "a": "Carne bovina coxão mole de sol kg",
+  "b": "Carne Bovina Coxão Duro de Sol",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "cappuccino em po santa clara pt 200g || cappuccino santa clara 200g": {
+  "a": "Cappuccino em Pó Santa Clara Pt 200g",
+  "b": "Cappuccino Santa Clara 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "fiambre kitut 320g || fiambre misto kitut 320g": {
+  "a": "Fiambre Kitut 320g",
+  "b": "Fiambre Misto Kitut 320g",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "flocao de milho bomilho pacote com 500g || flocao de milho marata pacote com 500g": {
+  "a": "Flocão de Milho Bomilho Pacote com 500g",
+  "b": "Flocão de Milho Maratá Pacote com 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "feijao preto biju 1kg || feijao preto duze 1kg": {
+  "a": "Feijão Preto Duzé 1kg",
+  "b": "Feijão Preto Biju 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "carne bovina coxao mole reserva resfriada || carne bovina cupim reserva resfriada": {
+  "a": "Carne Bovina Coxão Mole Reserva Resfriada",
+  "b": "Carne Bovina Cupim Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "coxa de frango bom todo kg resfriada || sobrecoxa de frango bom todo resfriada kg": {
+  "a": "Coxa de Frango Bom Todo kg Resfriada",
+  "b": "Sobrecoxa de Frango Bom Todo Resfriada kg",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "cerveja budweiser pilsen lata 350ml || cerveja eisenbahn pilsen lata 350ml": {
+  "a": "Cerveja Eisenbahn Pilsen Lata 350ml",
+  "b": "Cerveja Budweiser Pilsen Lata 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "file de peito de frango congelado || file de peito de frango envelopado kg": {
+  "a": "Filé de Peito de Frango Envelopado KG",
+  "b": "Filé de Peito de Frango Congelado",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "lava roupas liquido marilux 3l || lava-roupas liquido omo 3l": {
+  "a": "Lava Roupas Líquido Marilux 3L",
+  "b": "Lava-Roupas Líquido Omo 3L",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "desodorante aerosol old spice 150ml fragrancias || desodorante aerosol rexona 150ml fragrancias": {
+  "a": "Desodorante Aerosol Rexona 150ml Fragrâncias",
+  "b": "Desodorante Aerosol Old Spice 150ml Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "arroz parboilizado agrodez tipo 1 1kg || arroz parboilizado tio manoel tipo 1 1kg": {
+  "a": "Arroz Parboilizado AGRODEZ Tipo 1 1kg",
+  "b": "Arroz Parboilizado Tio Manoel Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "linguica de frango aurora kg || linguica de frango avivar kg": {
+  "a": "Linguiça de Frango Aurora kg",
+  "b": "Linguiça de Frango Avivar kg",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "extrato de tomate fugini sache 300g || extrato de tomate tambau sache 300g": {
+  "a": "Extrato de Tomate Fugini Sachê 300g",
+  "b": "Extrato de Tomate Tambaú Sachê 300g",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "macarrao espaguete bonsabor 400g || macarrao espaguete gostoso 400g": {
+  "a": "Macarrão Espaguete Bonsabor 400g",
+  "b": "Macarrão Espaguete GOSTOSO 400g",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "esmalte risque 8ml || esmalte risque 8ml cores": {
+  "a": "Esmalte Risqué 8ml Cores",
+  "b": "Esmalte Risque 8ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "frango passarinho lar 1kg iqf || frango passarinho seara 1kg": {
+  "a": "Frango Passarinho Seara 1kg",
+  "b": "Frango Passarinho Lar 1kg IQF",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "carne bovina acem sem osso reserva resfriada || carne bovina ponta de peito sem osso reserva resfriada": {
+  "a": "Carne Bovina Acém sem Osso Reserva Resfriada",
+  "b": "Carne Bovina Ponta de Peito sem Osso Reserva Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "amaciante concentrado downy 500ml || amaciante concentrado mon bijou 500ml": {
+  "a": "Amaciante Concentrado Downy 500ml",
+  "b": "Amaciante Concentrado Mon Bijou 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "linguica calabresa imperio kg || linguica calabresa lebon kg": {
+  "a": "Linguiça Calabresa Império KG",
+  "b": "Linguiça Calabresa Lebon Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "papel higienico mimmo folha dupla compacto 30m leve 12 pague 11 || papel higienico sublime folha dupla 30m leve 12 pague 11": {
+  "a": "Papel Higiênico Sublime Folha Dupla 30m Leve 12 Pague 11",
+  "b": "Papel Higiênico Mimmo Folha Dupla Compacto 30m Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-16"
+ },
+ "salgadinho di buteco piraque 50g sabores || salgadinho piraque 50g sabores": {
+  "a": "Salgadinho PIRAQUÊ 50g Sabores",
+  "b": "Salgadinho Di Buteco Piraquê 50g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
+ },
+ "papel higienico fofex 12 unids || papel higienico fofex c/12": {
+  "a": "Papel Higiênico Fofex 12 unids",
+  "b": "Papel Higiênico Fofex C/12",
+  "veredito": "mesmo",
+  "quando": "2026-08-16",
+  "aplicado": true
  }
 }
