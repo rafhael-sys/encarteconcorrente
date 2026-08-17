@@ -22641,5 +22641,396 @@
   "veredito": "mesmo",
   "quando": "2026-08-16",
   "aplicado": true
+ },
+ "petisco para gatos dreamies carne 40g || petisco para gatos friskies carne 40g": {
+  "a": "Petisco para Gatos Dreamies Carne 40g",
+  "b": "Petisco para Gatos Friskies Carne 40g",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "margarina puro sabor 1kg || margarina puro sabor 1kg (com sal)": {
+  "a": "Margarina Puro Sabor 1kg",
+  "b": "Margarina Puro Sabor 1kg (Com Sal)",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "hamburguer bovino friboi 56g || hamburguer friboi 56g": {
+  "a": "Hambúrguer Bovino Friboi 56g",
+  "b": "Hambúrguer Friboi 56g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "oleo de soja liza 900ml || oleo de soja vitaliv 900ml": {
+  "a": "Óleo de Soja Liza 900ml",
+  "b": "Oleo de Soja Vitaliv 900ml",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "linguica calabresa imperio kg || linguica calabresa perdigao": {
+  "a": "Linguiça Calabresa Império KG",
+  "b": "Linguiça Calabresa Perdigão",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "lavanda johnsons baby 200ml || lavanda johnsons baby infantil 200ml": {
+  "a": "Lavanda Johnsons Baby 200ml",
+  "b": "Lavanda Johnsons Baby Infantil 200ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "papel higienico floral folha dupla 12x20m (neutro) || papel higienico floral folha dupla 20m c/12": {
+  "a": "Papel Higiênico Floral Folha Dupla 20m c/12",
+  "b": "Papel Higiênico Floral Folha Dupla 12X20m (neutro)",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "refrigerante coca-cola e kuat || refrigerante coca-cola zero": {
+  "a": "Refrigerante Coca-Cola e Kuat",
+  "b": "Refrigerante Coca-Cola Zero",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "chambaril bovino resfriado masterboi || lagarto bovino resfriado masterboi": {
+  "a": "Chambaril Bovino Resfriado Masterboi",
+  "b": "Lagarto Bovino Resfriado Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "requeijao cremoso catupiry tradicional ou light pt 200g || requeijao cremoso nestle tradicional/light pt 200g": {
+  "a": "Requeijão Cremoso Nestlé Tradicional/Light pt 200g",
+  "b": "Requeijão Cremoso Catupiry Tradicional ou Light pt 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "detergente limpol 500ml fragrancias || detergente liquido alice 500ml fragrancias": {
+  "a": "Detergente Líquido Alice 500ml Fragrâncias",
+  "b": "Detergente Limpol 500ml Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "maionese hellmann's doy pack 400g || maionese hellmann's sache 400g": {
+  "a": "Maionese Hellmann's Doy Pack 400g",
+  "b": "Maionese Hellmann's Sachê 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "file de peito de frango lar congelado bandeja com 1kg || filezinho de frango lar congelado bandeja 1kg": {
+  "a": "Filezinho de Frango Lar Congelado Bandeja 1kg",
+  "b": "File de Peito de Frango Lar Congelado Bandeja com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "mac estrela semola estrela parafuso 400g || macarrao semola estrela parafuso 400g": {
+  "a": "Macarrão Sêmola Estrela Parafuso 400g",
+  "b": "Mac Estrela Sêmola Estrela Parafuso 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "maca nacional gala || maca nacional gala quilo": {
+  "a": "Maçã Nacional Gala Quilo",
+  "b": "Maçã Nacional Gala",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "arroz parboilizado pop pct 1kg || arroz parboilizado tipo 2 pop pacote 1kg": {
+  "a": "Arroz Parboilizado Pop pct 1kg",
+  "b": "Arroz Parboilizado Tipo 2 Pop Pacote 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "cafe santa clara extra forte 250g || cafe sao braz extra forte 250g": {
+  "a": "Café São Braz Extra Forte 250g",
+  "b": "Café Santa Clara Extra Forte 250g",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "uva verde sem semente selecao mimo bandeja 500g || uva vermelha sem semente seleta bandeja 500g": {
+  "a": "Uva Vermelha Sem Semente Seleta Bandeja 500g",
+  "b": "Uva Verde sem Semente Seleção Mimo Bandeja 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "pernil suino com osso kg || pernil suino com osso reserva kg": {
+  "a": "Pernil Suíno com Osso Reserva kg",
+  "b": "Pernil Suíno com Osso kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "filezinho de frango aurora 1kg || filezinho de frango aurora congelado 1kg": {
+  "a": "Filezinho de Frango Aurora 1kg",
+  "b": "Filezinho de Frango Aurora Congelado 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "vinho casillero del diablo 750ml sabores || vinho chileno casillero diablo 750ml sabores": {
+  "a": "Vinho Casillero Del Diablo 750ml Sabores",
+  "b": "Vinho Chileno Casillero Diablo 750ml Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "fr desc pampers pants mega m c/30 || fralda descartavel pampers pants mega m c/30": {
+  "a": "FR Desc Pampers Pants Mega M c/30",
+  "b": "Fralda Descartavel Pampers Pants Mega M c/30",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "coxas e sobrecoxas de frango aurora congeladas kg || coxas e sobrecoxas de frango congeladas friato kg": {
+  "a": "Coxas e Sobrecoxas de Frango Congeladas Friato KG",
+  "b": "Coxas e Sobrecoxas de Frango Aurora Congeladas kg",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "coracao de frango resfriado || coracao de frango resfriado mauricea": {
+  "a": "Coração de Frango Resfriado Mauricéa",
+  "b": "Coração de Frango Resfriado",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "detergente liquido limpol 500ml || detergente liquido minuano 500ml": {
+  "a": "Detergente Líquido Limpol 500ml",
+  "b": "Detergente Líquido Minuano 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "filezinho sassami de frango sadia congelado pct ou bd 1kg || filezinho sassami de frango seara congelado bandeja 1kg": {
+  "a": "Filezinho Sassami de Frango Sadia Congelado pct ou bd 1kg",
+  "b": "Filezinho Sassami de Frango Seara Congelado Bandeja 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "linguica de frango aurora || linguica de frango sadia": {
+  "a": "Linguiça de Frango Aurora",
+  "b": "Linguiça de Frango Sadia",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "ovos bra. grande almeida c/30 || ovos brancos grande almeida bdj/30": {
+  "a": "Ovos Brancos Grande Almeida BDJ/30",
+  "b": "OVOS BRA. GRANDE ALMEIDA C/30",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "azeite de oliva extra virgem la rambla vd 500ml || azeite de oliva extra virgem monini vd 500ml": {
+  "a": "Azeite de Oliva Extra Virgem La Rambla vd 500ml",
+  "b": "Azeite de Oliva Extra Virgem Monini vd 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "arroz branco sao joaquim 1kg || arroz sao joaquim 1kg": {
+  "a": "Arroz Branco São Joaquim 1kg",
+  "b": "Arroz São Joaquim 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "jerked beef dianteiro || jerked beef dianteiro friboi": {
+  "a": "Jerked Beef Dianteiro",
+  "b": "Jerked Beef Dianteiro Friboi",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "flocao de milho marata 500g || flocao de milho sao braz 500g": {
+  "a": "Flocão de Milho São Braz 500g",
+  "b": "Flocão de Milho Marata 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "azeite de oliva extra virgem palermo 500ml || azeite de oliva extra virgem sacciali vidro 500ml": {
+  "a": "Azeite de Oliva Extra Virgem PALERMO 500ml",
+  "b": "Azeite De Oliva Extra Virgem Sacciali Vidro 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "requeijao cremoso catupiry tradicional ou light pt 200g || requeijao cremoso danone tradicional ou light 200g": {
+  "a": "Requeijão Cremoso Catupiry Tradicional ou Light pt 200g",
+  "b": "Requeijão Cremoso Danone Tradicional ou Light 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "lava roupas po ala 400g fragrancias || lava roupas po brilux pct 400g fragrancias": {
+  "a": "Lava Roupas Pó Brilux PCT 400g Fragrâncias",
+  "b": "Lava Roupas Pó Ala 400g Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "cafe em po santa clara classico pct 250g || cafe santa clara classico 250g": {
+  "a": "Café Santa Clara Clássico 250g",
+  "b": "Café em Pó Santa Clara Clássico pct 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "agua sanitaria clorito 1l || agua sanitaria olimpo 1l": {
+  "a": "Água Sanitária Clorito 1L",
+  "b": "Água Sanitária Olimpo 1L",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "lava roupas liquido tanlux 3l || lava roupas liquido urca 3l": {
+  "a": "Lava Roupas Líquido Urca 3L",
+  "b": "Lava Roupas Líquido Tanlux 3L",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "maca gala kg || maca-gala": {
+  "a": "Maçã-Gala",
+  "b": "Maçã Gala kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "absorvente lady suave com abas pacote com 32 unidades || absorvente noturno sym suave com abas pacote com 8 unidades": {
+  "a": "Absorvente Noturno Sym Suave com Abas Pacote com 8 Unidades",
+  "b": "Absorvente Lady Suave com Abas Pacote com 32 unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "maca royal gala || maca royal kg": {
+  "a": "Maçã Royal kg",
+  "b": "Maçã Royal Gala",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "lava loucas limpol 500ml || lava loucas liquido limpol 500ml": {
+  "a": "Lava Louças Líquido Limpol 500ml",
+  "b": "Lava Louças Limpol 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "cerveja heineken long neck 330ml || heineken long neck 330ml": {
+  "a": "Cerveja Heineken Long Neck 330ml",
+  "b": "Heineken Long Neck 330ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "morango 200g || morango bdj 200g": {
+  "a": "Morango 200g",
+  "b": "Morango BDJ 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "arroz parboilizado emocoes 1kg || arroz parboilizado ou branco emocoes 1kg": {
+  "a": "Arroz Parboilizado Emoções 1kg",
+  "b": "Arroz Parboilizado ou Branco Emoções 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "absorvente sempre livre conforto noturno leve + pague - suave com abas/seca com abas pacote com 32 unidades || absorvente sempre livre conforto noturno seca com abas pacote com 32 unidades": {
+  "a": "Absorvente Sempre Livre Conforto Noturno Leve + pague - Suave com abas/Seca com abas Pacote com 32 unidades",
+  "b": "Absorvente Sempre Livre Conforto Noturno Seca com abas Pacote com 32 unidades",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "carne bovina bife de patinho/patinho sem osso reserva resfriada || carne bovina patinho sem osso reserva resfriada": {
+  "a": "Carne Bovina Bife de Patinho/Patinho sem Osso Reserva Resfriada",
+  "b": "Carne Bovina Patinho sem Osso Reserva Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "coxa e sobrecoxa de frango lar com dorsal congelada kg || coxas e sobrecoxas de frango com dorso congeladas guibon": {
+  "a": "Coxa e Sobrecoxa de Frango Lar com Dorsal Congelada kg",
+  "b": "Coxas e Sobrecoxas de Frango com Dorso Congeladas Guibon",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "linguica de frango congelada bom todo sabores 600g || linguica de frango congelada top grill bom todo sabores pacote 600g": {
+  "a": "Linguiça de Frango Congelada Top Grill Bom Todo Sabores pacote 600g",
+  "b": "Linguiça de Frango Congelada Bom Todo Sabores 600g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "leite uht natville integral ou desnatado cx 1 litro || leite uht ninho nestle integral ou semidesnatado cx 1 litro": {
+  "a": "Leite UHT Natville Integral ou Desnatado cx 1 litro",
+  "b": "Leite UHT Ninho Nestlé Integral ou Semidesnatado cx 1 litro",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "lava roupas em po omo lavagem perfeita caixa ou bag 400g || lava roupas em po omo lavagem perfeita pacote com 400g": {
+  "a": "Lava Roupas em Pó Omo Lavagem Perfeita Pacote com 400g",
+  "b": "Lava Roupas em Pó Omo Lavagem Perfeita Caixa ou Bag 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "papel higienico neve folha dupla 30 metros pct leve 12 pague 11 || papel higienico noble folha dupla 20m leve 12 pague 11": {
+  "a": "Papel Higiênico Neve Folha Dupla 30 Metros Pct Leve 12 Pague 11",
+  "b": "Papel Higiênico Noble Folha Dupla 20m Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "coxa e sobrecoxa de frango lar com dorsal congelada kg || coxas e sobrecoxas de frango guibon com dorsal congelado": {
+  "a": "Coxa e Sobrecoxa de Frango Lar com Dorsal Congelada kg",
+  "b": "Coxas e Sobrecoxas de Frango Guibon com Dorsal Congelado",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "aparelho de barbear gillette prestobarba 2 2 unidades || aparelho de barbear gillette prestobarba 2 ultragrip blister 2 unidades": {
+  "a": "Aparelho de Barbear Gillette Prestobarba 2 UltraGrip Blister 2 unidades",
+  "b": "Aparelho de Barbear Gillette Prestobarba 2 2 unidades",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "absorvente sempre livre adapt suave c/ abas leve8 pague7 || absorvente sempre livre suave com abas leve 16 pague 14": {
+  "a": "Absorvente Sempre Livre Suave com Abas Leve 16 Pague 14",
+  "b": "Absorvente Sempre Livre Adapt Suave c/ Abas Leve8 Pague7",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "leite condensado ccgl semidesnatado 395g || leite condensado semidesnatado italac 395g": {
+  "a": "Leite Condensado Semidesnatado Italac 395g",
+  "b": "Leite Condensado CCGL Semidesnatado 395g",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "requeijao tirolez resfriado tradicional 400g || requeijao tirolez resfriado tradicional/light pote com 400g": {
+  "a": "Requeijão Tirolez Resfriado Tradicional 400g",
+  "b": "Requeijão Tirolez Resfriado Tradicional/Light Pote com 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "pao de queijo tradicional aurora pacote 400g || pao de queijo tradicional forno de minas pacote 400g": {
+  "a": "Pão de Queijo Tradicional Forno de Minas Pacote 400g",
+  "b": "Pão de Queijo Tradicional Aurora Pacote 400g",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "pao de alho bom todo congelado 400g || pao de alho bom todo congelado 400g tradicional": {
+  "a": "Pão de Alho Bom Todo Congelado 400g Tradicional",
+  "b": "Pão de Alho Bom Todo Congelado 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "biscoito maria/maizena estrela 307g || biscoito maria/maizena estrela tradicional 307g": {
+  "a": "Biscoito Maria/Maizena Estrela Tradicional 307g",
+  "b": "Biscoito Maria/Maizena Estrela 307g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
  }
 }

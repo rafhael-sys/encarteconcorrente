@@ -1,0 +1,304 @@
+{
+ "validacoes": [
+  {
+   "a": "Petisco para Gatos Dreamies Carne 40g",
+   "b": "Petisco para Gatos Friskies Carne 40g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Margarina Puro Sabor 1kg",
+   "b": "Margarina Puro Sabor 1kg (Com Sal)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Bovino Friboi 56g",
+   "b": "Hambúrguer Friboi 56g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Óleo de Soja Liza 900ml",
+   "b": "Oleo de Soja Vitaliv 900ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça Calabresa Império KG",
+   "b": "Linguiça Calabresa Perdigão",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lavanda Johnsons Baby 200ml",
+   "b": "Lavanda Johnsons Baby Infantil 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Floral Folha Dupla 20m c/12",
+   "b": "Papel Higiênico Floral Folha Dupla 12X20m (neutro)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Coca-Cola e Kuat",
+   "b": "Refrigerante Coca-Cola Zero",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Chambaril Bovino Resfriado Masterboi",
+   "b": "Lagarto Bovino Resfriado Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Requeijão Cremoso Nestlé Tradicional/Light pt 200g",
+   "b": "Requeijão Cremoso Catupiry Tradicional ou Light pt 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Detergente Líquido Alice 500ml Fragrâncias",
+   "b": "Detergente Limpol 500ml Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Maionese Hellmann's Doy Pack 400g",
+   "b": "Maionese Hellmann's Sachê 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Frango Lar Congelado Bandeja 1kg",
+   "b": "File de Peito de Frango Lar Congelado Bandeja com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Macarrão Sêmola Estrela Parafuso 400g",
+   "b": "Mac Estrela Sêmola Estrela Parafuso 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maçã Nacional Gala Quilo",
+   "b": "Maçã Nacional Gala",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Parboilizado Pop pct 1kg",
+   "b": "Arroz Parboilizado Tipo 2 Pop Pacote 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café São Braz Extra Forte 250g",
+   "b": "Café Santa Clara Extra Forte 250g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva Vermelha Sem Semente Seleta Bandeja 500g",
+   "b": "Uva Verde sem Semente Seleção Mimo Bandeja 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pernil Suíno com Osso Reserva kg",
+   "b": "Pernil Suíno com Osso kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Frango Aurora 1kg",
+   "b": "Filezinho de Frango Aurora Congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinho Casillero Del Diablo 750ml Sabores",
+   "b": "Vinho Chileno Casillero Diablo 750ml Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "FR Desc Pampers Pants Mega M c/30",
+   "b": "Fralda Descartavel Pampers Pants Mega M c/30",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxas e Sobrecoxas de Frango Congeladas Friato KG",
+   "b": "Coxas e Sobrecoxas de Frango Aurora Congeladas kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coração de Frango Resfriado Mauricéa",
+   "b": "Coração de Frango Resfriado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Líquido Limpol 500ml",
+   "b": "Detergente Líquido Minuano 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filezinho Sassami de Frango Sadia Congelado pct ou bd 1kg",
+   "b": "Filezinho Sassami de Frango Seara Congelado Bandeja 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça de Frango Aurora",
+   "b": "Linguiça de Frango Sadia",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovos Brancos Grande Almeida BDJ/30",
+   "b": "OVOS BRA. GRANDE ALMEIDA C/30",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem La Rambla vd 500ml",
+   "b": "Azeite de Oliva Extra Virgem Monini vd 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Branco São Joaquim 1kg",
+   "b": "Arroz São Joaquim 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Jerked Beef Dianteiro",
+   "b": "Jerked Beef Dianteiro Friboi",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Flocão de Milho São Braz 500g",
+   "b": "Flocão de Milho Marata 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite de Oliva Extra Virgem PALERMO 500ml",
+   "b": "Azeite De Oliva Extra Virgem Sacciali Vidro 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Requeijão Cremoso Catupiry Tradicional ou Light pt 200g",
+   "b": "Requeijão Cremoso Danone Tradicional ou Light 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas Pó Brilux PCT 400g Fragrâncias",
+   "b": "Lava Roupas Pó Ala 400g Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Café Santa Clara Clássico 250g",
+   "b": "Café em Pó Santa Clara Clássico pct 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Sanitária Clorito 1L",
+   "b": "Água Sanitária Olimpo 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas Líquido Urca 3L",
+   "b": "Lava Roupas Líquido Tanlux 3L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Maçã-Gala",
+   "b": "Maçã Gala kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Noturno Sym Suave com Abas Pacote com 8 Unidades",
+   "b": "Absorvente Lady Suave com Abas Pacote com 32 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Maçã Royal kg",
+   "b": "Maçã Royal Gala",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Louças Líquido Limpol 500ml",
+   "b": "Lava Louças Limpol 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Heineken Long Neck 330ml",
+   "b": "Heineken Long Neck 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Morango 200g",
+   "b": "Morango BDJ 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Parboilizado Emoções 1kg",
+   "b": "Arroz Parboilizado ou Branco Emoções 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Conforto Noturno Leve + pague - Suave com abas/Seca com abas Pacote com 32 unidades",
+   "b": "Absorvente Sempre Livre Conforto Noturno Seca com abas Pacote com 32 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Bife de Patinho/Patinho sem Osso Reserva Resfriada",
+   "b": "Carne Bovina Patinho sem Osso Reserva Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa e Sobrecoxa de Frango Lar com Dorsal Congelada kg",
+   "b": "Coxas e Sobrecoxas de Frango com Dorso Congeladas Guibon",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça de Frango Congelada Top Grill Bom Todo Sabores pacote 600g",
+   "b": "Linguiça de Frango Congelada Bom Todo Sabores 600g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite UHT Natville Integral ou Desnatado cx 1 litro",
+   "b": "Leite UHT Ninho Nestlé Integral ou Semidesnatado cx 1 litro",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas em Pó Omo Lavagem Perfeita Pacote com 400g",
+   "b": "Lava Roupas em Pó Omo Lavagem Perfeita Caixa ou Bag 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Neve Folha Dupla 30 Metros Pct Leve 12 Pague 11",
+   "b": "Papel Higiênico Noble Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa e Sobrecoxa de Frango Lar com Dorsal Congelada kg",
+   "b": "Coxas e Sobrecoxas de Frango Guibon com Dorsal Congelado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Aparelho de Barbear Gillette Prestobarba 2 UltraGrip Blister 2 unidades",
+   "b": "Aparelho de Barbear Gillette Prestobarba 2 2 unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Suave com Abas Leve 16 Pague 14",
+   "b": "Absorvente Sempre Livre Adapt Suave c/ Abas Leve8 Pague7",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado Semidesnatado Italac 395g",
+   "b": "Leite Condensado CCGL Semidesnatado 395g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Requeijão Tirolez Resfriado Tradicional 400g",
+   "b": "Requeijão Tirolez Resfriado Tradicional/Light Pote com 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pão de Queijo Tradicional Forno de Minas Pacote 400g",
+   "b": "Pão de Queijo Tradicional Aurora Pacote 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pão de Alho Bom Todo Congelado 400g Tradicional",
+   "b": "Pão de Alho Bom Todo Congelado 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Maria/Maizena Estrela Tradicional 307g",
+   "b": "Biscoito Maria/Maizena Estrela 307g",
+   "veredito": "mesmo"
+  }
+ ]
+}
