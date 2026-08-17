@@ -13,6 +13,7 @@ from __future__ import annotations
 import datetime
 import json
 import os
+import random
 import re
 import subprocess
 import sys
@@ -24,6 +25,11 @@ DATA = collect.DATA
 UIDS_PATH = os.path.join(DATA, 'ig_user_ids.json')
 UA_WEB = ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 '
           '(KHTML, like Gecko) Version/17.0 Safari/605.1.15')
+
+
+class RateLimit(Exception):
+    """O Instagram pediu para esperar ('Please wait a few minutes'). Não é para
+    re-tentar na hora — martelar só prolonga o bloqueio; o certo é aguardar."""
 
 
 def _sh(args: list[str]) -> str:
@@ -67,7 +73,8 @@ def fetch_feed(user_id: str, count: int = 12) -> list[dict]:
         Lista de items (formato da API v1). Vazia se a resposta não trouxe items.
 
     Raises:
-        ValueError: resposta vazia ou sem 'items' (rate-limit/cookie inválido).
+        RateLimit: o IG pediu para esperar ('Please wait a few minutes').
+        ValueError: resposta vazia ou sem 'items' (outro erro/cookie inválido).
     """
     body = _sh(['curl', '-sk', '--compressed', '-A', UA_WEB,
                 '-H', f'x-ig-app-id: {collect.APP_ID}',
@@ -78,7 +85,10 @@ def fetch_feed(user_id: str, count: int = 12) -> list[dict]:
     d = json.loads(body)
     items = d.get('items')
     if items is None:
-        raise ValueError(f'sem items (status={d.get("status")}, msg={d.get("message")})')
+        msg = str(d.get('message') or '')
+        if 'wait a few minutes' in msg.lower() or d.get('status') == 'fail' and 'wait' in msg.lower():
+            raise RateLimit(msg or 'rate-limit')
+        raise ValueError(f'sem items (status={d.get("status")}, msg={msg})')
     return items
 
 
@@ -113,6 +123,8 @@ def processa(p: dict, seen: set, fila: list, status: dict, agora: str,
         if not uid:
             raise ValueError('user_id não encontrado no HTML')
         items = fetch_feed(uid)
+    except RateLimit:
+        raise  # o main() aguarda e retoma este perfil — não é falha do perfil
     except Exception as e:
         print(f'[erro] {user}: {e}', file=sys.stderr)
         ent = status.get(fonte, {})
@@ -178,20 +190,64 @@ def main() -> None:
     cache = collect.load_json(UIDS_PATH, {})
     agora = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
 
-    novos = ok = 0
-    for p in profiles:
-        sucesso, n = processa(p, seen, fila, status, agora, cache)
-        novos += n
-        ok += sucesso
+    def _salva() -> None:
+        """Persiste o progresso — uma interrupção não perde o que já veio."""
         collect.save_json(seen_path, sorted(seen))
         collect.save_json(fila_path, fila)
         collect.save_json(status_path, status)
         collect.save_json(UIDS_PATH, cache)
-        time.sleep(4)  # ritmo autenticado moderado
 
+    # Coleta PERSISTENTE e gentil: o objetivo é pegar TODOS os perfis por rodada.
+    # - ordem embaralhada e ritmo humano (10-15s) reduzem a cara de robô;
+    # - quando o IG pede para esperar (RateLimit), NÃO martela: dorme o COOLDOWN
+    #   e RETOMA o mesmo perfil — assim ninguém fica de fora por um bloqueio
+    #   passageiro, sem piorar o rate-limit;
+    # - erro que não é rate-limit é re-tentado até MAX_TENT vezes;
+    # - tudo dentro de um ORCAMENTO de tempo, para não segurar a janela sem fim.
+    COOLDOWN = 240           # espera após "wait a few minutes" (4 min)
+    ORCAMENTO_S = 25 * 60    # teto total da coleta do feed
+    MAX_TENT = 3             # tentativas por perfil em erro que NÃO é rate-limit
+    inicio = time.monotonic()
+
+    pendentes = list(profiles)
+    random.shuffle(pendentes)
+    tentativas: dict[str, int] = {}
+    novos = ok = 0
+
+    while pendentes and (time.monotonic() - inicio) < ORCAMENTO_S:
+        p = pendentes.pop(0)
+        user = p['username']
+        try:
+            sucesso, n = processa(p, seen, fila, status, agora, cache)
+        except RateLimit:
+            pendentes.insert(0, p)  # retoma este mesmo perfil depois de esperar
+            restante = ORCAMENTO_S - (time.monotonic() - inicio)
+            espera = int(min(COOLDOWN, restante))
+            if espera <= 0:
+                break
+            print(f'[feed] IG pediu para esperar — aguardando {espera}s e retomando '
+                  f'({len(pendentes)} perfil(is) na fila)', file=sys.stderr)
+            _salva()
+            time.sleep(espera)
+            continue
+
+        novos += n
+        ok += sucesso
+        _salva()
+        if sucesso:
+            time.sleep(random.uniform(10, 15))  # ritmo humano entre perfis OK
+        else:
+            tentativas[user] = tentativas.get(user, 0) + 1
+            if tentativas[user] < MAX_TENT:
+                pendentes.append(p)  # erro comum: tenta de novo mais tarde
+            time.sleep(random.uniform(8, 15))
+
+    faltaram = [p['username'] for p in pendentes]
+    if faltaram:
+        print(f'[feed] {len(faltaram)} perfil(is) não coletados no orçamento '
+              f'(entram na próxima janela): {", ".join(faltaram)}', file=sys.stderr)
     print(f'[feed] {ok}/{len(profiles)} perfis coletados, {novos} post(s) novos na fila',
           file=sys.stderr)
-    # nenhum perfil veio: sinaliza falha para a rotina cair na reserva (collect.py)
     if ok == 0:
         sys.exit(1)
 

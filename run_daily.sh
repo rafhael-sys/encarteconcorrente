@@ -83,7 +83,14 @@ falha() {
   # internamente; se ainda assim falhar TUDO, é queda real do Instagram e
   # deixamos para o próximo tique (30 min) em vez de segurar a trava.
   touch "$LOCK"
-  /usr/bin/python3 collect_feed.py || /usr/bin/python3 collect.py || falha "coleta do Instagram"
+  # A falha do Instagram NÃO aborta a janela (era 'falha', que abortava e ainda
+  # re-tentava a janela 3x — martelando o rate-limit e deixando a WEB sem coletar).
+  # O collect_feed.py já é persistente (espera e retoma até pegar todos, dentro de
+  # um orçamento). Se mesmo assim não vier nada (rate-limit forte), segue para
+  # web/stories e os perfis do IG entram na próxima janela (o posts_vistos não
+  # perde nada). A reserva collect.py (anônima) foi retirada: o endpoint dela está
+  # com o bug de schema do IG desde jul/2026 e só somava martelada.
+  /usr/bin/python3 collect_feed.py || echo "[aviso] Instagram não coletou tudo nesta janela (rate-limit/queda) — segue com web/stories; o que faltou entra na próxima"
 
   /usr/bin/python3 collect_web.py || echo "[aviso] coleta web (Assaí/Atacadão/Nosso) falhou nesta janela"
 
