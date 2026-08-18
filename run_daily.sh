@@ -25,13 +25,12 @@ mkdir -p "$BASE/data"
 HOJE=$(date +%Y-%m-%d)
 HORA=$(( 10#$(date +%H) ))
 
-# janelas de atualização: 2x por dia, às 7h (manhã) e 22h (noite). O launchd
-# chama a cada 30 min; o script roda uma única vez por janela. A partir das 7h
-# roda a janela da manhã; a partir das 22h, a da noite. Se o Mac estiver
-# desligado na hora, roda na primeira meia hora depois que ele ligar. A coleta
-# da manhã NÃO refaz o que a da noite já pegou — o posts_vistos.json marca os
-# posts vistos, então só entra o que é novo (mesmo dedup para post e encarte).
-SLOTS=(7 22)
+# janela de atualização: 1x por dia, às 7h. A das 22h foi DESATIVADA em
+# 18/08/2026 para aliviar o rate-limit do Instagram (menos requisições/dia ajuda
+# a conta a se recuperar). O launchd chama a cada 30 min; o script roda uma única
+# vez por dia. Se o Mac estiver desligado às 7h, roda na primeira meia hora depois
+# que ligar. Para voltar a 2x/dia, use SLOTS=(7 22).
+SLOTS=(7)
 SLOT=""
 for h in $SLOTS; do (( HORA >= h )) && SLOT=$h; done
 [[ -z "$SLOT" ]] && exit 0                                          # antes das 7h
