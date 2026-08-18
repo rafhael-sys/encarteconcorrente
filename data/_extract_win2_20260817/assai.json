@@ -1,0 +1,22 @@
+[{"shortcode":"assai_169965-572","decision":"discard","reason":"Peca B2B 'Especial do Comerciante' dirigida a revenda/comercio ('GRANDES OFERTAS PARA O SEU COMERCIO LUCRAR MAIS'); regra: descartar ofertas do comerciante mesmo com preco.","titulo":"Assai Atacadista - Especial do Comerciante","inicio":"2026-08-17","fim":"2026-08-17","paginas":[{"key":"assai_169965-572_p1","produtos":[]}]},
+ {"shortcode":"assai_169974-572","decision":"keep","reason":"Especial Pet Assai - encarte de consumidor com precos de gondola.","titulo":"Assai Atacadista - Especial Pet","inicio":"2026-08-17","fim":"2026-08-21","paginas":[{"key":"assai_169974-572_p1","produtos":[
+   {"n":"Alimento Para Caes Sabor Carne & Cereal Champ Saco 18Kg","p":"89,99","u":"cada","x":5,"y":24,"w":17,"h":15},
+   {"n":"Alimento Para Gatos Whiskas Sabores Sache 85g","p":"2,69","u":"cada","x":23,"y":24,"w":16,"h":15},
+   {"n":"Alimento Para Caes Pedigree Sabores Sache 100g","p":"2,49","u":"cada","x":40,"y":24,"w":16,"h":15},
+   {"n":"Alimento Para Caes Nutricao Essencial Pedigree Sabores Pacote 900g","p":"15,48","u":"cada","x":56,"y":24,"w":16,"h":15},
+   {"n":"Alimento Para Agapornis E Calopsita Avitrin Pacote 500g","p":"17,89","u":"cada","x":5,"y":40,"w":17,"h":15},
+   {"n":"Alimento Para Caes Nutricao Essencial Pedigree Sabores Saco 10,1Kg","p":"109,00","u":"cada","x":23,"y":40,"w":16,"h":15},
+   {"n":"Alimento Para Gatos Kitekat Sabores Sache 70g","p":"2,35","u":"cada","x":40,"y":40,"w":16,"h":15},
+   {"n":"Alimento Para Caes Adultos Sabor Carne E Cereais Bonzo Saco 15Kg","p":"109,90","u":"cada","x":56,"y":40,"w":16,"h":15},
+   {"n":"Alimento Para Caes Sabor Carne Domus Saco 15Kg","p":"59,90","u":"cada","x":5,"y":57,"w":17,"h":15},
+   {"n":"Alimento Para Gatos Sabor Carne E Frango Mix Domus Cat Saco 10,1Kg","p":"69,90","u":"cada","x":23,"y":57,"w":16,"h":15},
+   {"n":"Alimento Para Gatos Sabor Carne E Frango Mix Domus Cat Pacote 1Kg","p":"9,90","u":"cada","x":40,"y":57,"w":16,"h":15},
+   {"n":"Petisco Tipo Creminho Sabor Atum Para Gatos Quality Pacote 60g","p":"19,45","u":"cada","x":56,"y":57,"w":16,"h":15},
+   {"n":"Eliminador De Odores Sanol Fragrancias Frasco 2L","p":"15,90","u":"cada","x":5,"y":74,"w":17,"h":15},
+   {"n":"Shampoo Para Caes Sanol Tipos Frasco 500ml","p":"17,90","u":"cada","x":23,"y":74,"w":16,"h":15},
+   {"n":"Tapetes Higienicos Tapet Pacote 30 Unidades 80x60cm","p":"59,90","u":"cada","x":40,"y":74,"w":16,"h":15},
+   {"n":"Arroz Para Cachorro Puppy Saco 5Kg","p":"16,90","u":"cada","x":56,"y":74,"w":16,"h":15},
+   {"n":"Areia Sanitaria Baw Waw Pacote 4Kg","p":"7,39","u":"no app, de R$ 8,19","x":74,"y":38,"w":24,"h":13},
+   {"n":"Petisco Tipo Bifinho Sabor Carne Bulldog Pacote 65g","p":"7,19","u":"no app, de R$ 7,29","x":74,"y":54,"w":24,"h":13},
+   {"n":"Alimento Para Gatos Dreamies Sabores Pacote 40g","p":"4,90","u":"no app, de R$ 5,90","x":74,"y":69,"w":24,"h":13}
+ ]}]}]

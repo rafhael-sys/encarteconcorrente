@@ -1,0 +1,112 @@
+[
+  {
+    "shortcode": "DcJbH7YG5_z",
+    "decision": "discard",
+    "reason": "repost idêntico de DcIx7E2G2LG (mesmos 6 produtos/preços, páginas reordenadas)",
+    "titulo": "Mar Vermelho Atacado — Mês dos Pais (14 a 20/08)",
+    "inicio": "2026-08-14",
+    "fim": "2026-08-20",
+    "paginas": []
+  },
+  {
+    "shortcode": "DcHmZ8Kn4p2",
+    "decision": "discard",
+    "reason": "repost idêntico de DcGGQ9Xm_b6 (mesmos 6 produtos/preços, páginas reordenadas)",
+    "titulo": "Mar Vermelho Atacado — Mês dos Pais (14 a 20/08)",
+    "inicio": "2026-08-14",
+    "fim": "2026-08-20",
+    "paginas": []
+  },
+  {
+    "shortcode": "DcIx7E2G2LG",
+    "decision": "keep",
+    "reason": "conteúdo distinto (flyer A do Mês dos Pais)",
+    "titulo": "Mar Vermelho Atacado — Mês dos Pais A (14 a 20/08)",
+    "inicio": "2026-08-14",
+    "fim": "2026-08-20",
+    "paginas": [
+      {
+        "key": "DcIx7E2G2LG_p1",
+        "produtos": [
+          {"n": "Queijo Mussarela Sertão Jucurutu Fatiado 500g", "p": "19,98", "u": "cada · exceto Ceasa", "x": 13, "y": 33, "w": 75, "h": 55}
+        ]
+      },
+      {
+        "key": "DcIx7E2G2LG_p2",
+        "produtos": [
+          {"n": "Café Moído Maratá Tradicional 250g", "p": "11,99", "u": "cada", "x": 15, "y": 33, "w": 70, "h": 52}
+        ]
+      },
+      {
+        "key": "DcIx7E2G2LG_p3",
+        "produtos": [
+          {"n": "Coxas e Sobrecoxas Bom Todo Congeladas 1kg", "p": "10,99", "u": "cada", "x": 14, "y": 32, "w": 72, "h": 56}
+        ]
+      },
+      {
+        "key": "DcIx7E2G2LG_p4",
+        "produtos": [
+          {"n": "Salsicha Hot Dog Rara", "p": "5,89", "u": "kg", "x": 14, "y": 32, "w": 72, "h": 55}
+        ]
+      },
+      {
+        "key": "DcIx7E2G2LG_p5",
+        "produtos": [
+          {"n": "Cerveja Budweiser Lata 350ml", "p": "3,69", "u": "cada", "x": 22, "y": 31, "w": 55, "h": 57}
+        ]
+      },
+      {
+        "key": "DcIx7E2G2LG_p6",
+        "produtos": [
+          {"n": "Detergente Líquido para Roupas Becker Versátil 5L", "p": "24,90", "u": "cada", "x": 30, "y": 30, "w": 45, "h": 58}
+        ]
+      }
+    ]
+  },
+  {
+    "shortcode": "DcGGQ9Xm_b6",
+    "decision": "keep",
+    "reason": "conteúdo distinto (flyer B do Mês dos Pais)",
+    "titulo": "Mar Vermelho Atacado — Mês dos Pais B (14 a 20/08)",
+    "inicio": "2026-08-14",
+    "fim": "2026-08-20",
+    "paginas": [
+      {
+        "key": "DcGGQ9Xm_b6_p1",
+        "produtos": [
+          {"n": "Costela Bovina Congelada", "p": "19,98", "u": "kg", "x": 13, "y": 33, "w": 72, "h": 52}
+        ]
+      },
+      {
+        "key": "DcGGQ9Xm_b6_p2",
+        "produtos": [
+          {"n": "Sobrecoxas Sadia Congeladas IQF 1kg", "p": "13,79", "u": "cada", "x": 14, "y": 32, "w": 72, "h": 55}
+        ]
+      },
+      {
+        "key": "DcGGQ9Xm_b6_p3",
+        "produtos": [
+          {"n": "Flocão de Milho Dona Clara Premium 500g", "p": "1,29", "u": "cada", "x": 14, "y": 34, "w": 72, "h": 52}
+        ]
+      },
+      {
+        "key": "DcGGQ9Xm_b6_p4",
+        "produtos": [
+          {"n": "Molho de Tomate Só Fruta Tradicional 300g", "p": "1,19", "u": "cada", "x": 14, "y": 34, "w": 72, "h": 52}
+        ]
+      },
+      {
+        "key": "DcGGQ9Xm_b6_p5",
+        "produtos": [
+          {"n": "Cerveja Stella Artois Long Neck 330ml", "p": "6,29", "u": "cada", "x": 30, "y": 31, "w": 45, "h": 57}
+        ]
+      },
+      {
+        "key": "DcGGQ9Xm_b6_p6",
+        "produtos": [
+          {"n": "Amaciante Concentrado para Roupas Brilux 500ml", "p": "7,49", "u": "cada", "x": 24, "y": 33, "w": 58, "h": 52}
+        ]
+      }
+    ]
+  }
+]

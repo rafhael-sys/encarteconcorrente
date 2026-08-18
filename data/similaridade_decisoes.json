@@ -23032,5 +23032,385 @@
   "veredito": "mesmo",
   "quando": "2026-08-17",
   "aplicado": true
+ },
+ "biscoito cream cracker vitarella tostadinha 350g || biscoito cream cracker vitarella tostatinha 350g": {
+  "a": "Biscoito Cream Cracker Vitarella Tostadinha 350g",
+  "b": "Biscoito Cream Cracker Vitarella Tostatinha 350g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "bolacha santo antonio amanteigada torrada ou amanteigada 250g || bolacha santo antonio amanteigada torrada/amanteigada 250g": {
+  "a": "Bolacha Santo Antônio Amanteigada Torrada/Amanteigada 250g",
+  "b": "Bolacha Santo Antônio Amanteigada Torrada ou Amanteigada 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "farinha de trigo finna s/ fermento 1kg || farinha de trigo finna sem fermento 1kg": {
+  "a": "Farinha de Trigo Finna sem Fermento 1kg",
+  "b": "Farinha de Trigo Finna s/ Fermento 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "presunto de peru perdigao/sadia peca, pedaco ou fatiado || presunto de peru perdigao/sadia peca, pedaco ou fatiado kg": {
+  "a": "Presunto de Peru Perdigão/Sadia Peça, Pedaço ou Fatiado kg",
+  "b": "Presunto de Peru Perdigão/Sadia Peça, Pedaço ou Fatiado",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "queijo mussarela freezer peca ou pedaco || queijo mussarela freezer peca ou pedaco kg": {
+  "a": "Queijo Mussarela Freezer Peça ou Pedaço kg",
+  "b": "Queijo Mussarela Freezer Peça ou Pedaço",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "coxa de frango bom todo kg resfriada || coxa de frango bom todo resfriada": {
+  "a": "Coxa de Frango Bom Todo kg Resfriada",
+  "b": "Coxa de Frango Bom Todo Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "file de peito de frango levo alimentos 1kg || file de peito de frango levo alimentos bdj 1kg": {
+  "a": "Filé de Peito de Frango Levo Alimentos BDJ 1kg",
+  "b": "Filé de Peito de Frango Levo Alimentos 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "frango jagua congelado c/ miudos || frango jagua kg congelado c/miudos": {
+  "a": "Frango Jagua kg Congelado c/Miudos",
+  "b": "Frango Jaguá Congelado c/ Miúdos",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "refrigerante sprite, fanta laranja ou uva 2l || refrigerante sprite/fanta laranja/uva 2l": {
+  "a": "Refrigerante Sprite/Fanta Laranja/Uva 2L",
+  "b": "Refrigerante Sprite, Fanta Laranja ou Uva 2L",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "coxa e sobrecoxa de frango com dorsal kg || coxa e sobrecoxa de frango sem dorsal kg": {
+  "a": "Coxa e Sobrecoxa de Frango com Dorsal kg",
+  "b": "Coxa e Sobrecoxa de Frango sem Dorsal kg",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "amido de milho kimimo 200g || amido de milho kimimo cx 200g": {
+  "a": "Amido de Milho Kimimo Cx 200g",
+  "b": "Amido de Milho Kimimo 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "carne bovina capa de file || carne bovina capa de file kg": {
+  "a": "Carne Bovina Capa de File",
+  "b": "Carne Bovina Capa de Filé kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "pao doce de coco queiroz || pao doce de coco queiroz kg": {
+  "a": "Pão Doce de Coco Queiroz kg",
+  "b": "Pão Doce de Coco Queiroz",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "agua sanitaria brilux 5l || agua sanitaria marilux 5l": {
+  "a": "Água Sanitária Brilux 5l",
+  "b": "Água Sanitária Marilux 5L",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "papel a4 suzano report 500 folhas || papel a4 suzano report 500fls": {
+  "a": "Papel A4 Suzano Report 500FLS",
+  "b": "Papel A4 Suzano Report 500 folhas",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "coxa e sobrecoxa de frango c/ dorsal || coxa e sobrecoxa de frango com dorsal kg": {
+  "a": "Coxa e Sobrecoxa de Frango com Dorsal kg",
+  "b": "Coxa e Sobrecoxa de Frango c/ Dorsal",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "coxa e sobrecoxa de frango com dorsal kg || coxas com sobrecoxas de frango com dorsal kg": {
+  "a": "Coxas com Sobrecoxas de Frango com Dorsal Kg",
+  "b": "Coxa e Sobrecoxa de Frango com Dorsal kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "coxa e sobrecoxa de frango com dorsal kg || coxa/sobrecoxa de frango lar com dorsal kg": {
+  "a": "COXA/SOBRECOXA DE FRANGO LAR COM DORSAL KG",
+  "b": "Coxa e Sobrecoxa de Frango com Dorsal kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "steak de frango sadia 100g || steak de frango seara 100g": {
+  "a": "Steak de Frango Sadia 100g",
+  "b": "Steak de Frango Seara 100g",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "steak de frango lar 100g || steak de frango seara 100g": {
+  "a": "Steak de Frango Lar 100g",
+  "b": "Steak de Frango Seara 100g",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "iogurte chambinho, chamyto ou ninho 100g || iogurte nestle chambinho, chamyto ou ninho 100g": {
+  "a": "Iogurte Chambinho, Chamyto ou Ninho 100g",
+  "b": "Iogurte Nestlé Chambinho, Chamyto ou Ninho 100g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango com dorsal || coxa e sobrecoxa de frango c/ dorsal": {
+  "a": "Coxa com Sobrecoxa de Frango com Dorsal",
+  "b": "Coxa e Sobrecoxa de Frango c/ Dorsal",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "file de peito de frango levo alimentos 1kg || file de peito frango levo alimentos bdj 1kg": {
+  "a": "Filé de Peito Frango Levo Alimentos BDJ 1kg",
+  "b": "Filé de Peito de Frango Levo Alimentos 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango com dorsal || coxa e sobrecoxa de frango com dorsal kg": {
+  "a": "Coxa com Sobrecoxa de Frango com Dorsal",
+  "b": "Coxa e Sobrecoxa de Frango com Dorsal kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "carne bovina capa de contra file congelada || carne bovina capa de file congelada": {
+  "a": "Carne Bovina Capa de Contra Filé Congelada",
+  "b": "Carne Bovina Capa de Filé Congelada",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "cafe soluvel santa clara 10% gratis classico/extraforte refil 40g || cafe soluvel santa clara classico/extra forte refil 40g": {
+  "a": "Café Solúvel SANTA CLARA 10% Grátis Clássico/Extraforte Refil 40g",
+  "b": "Café Solúvel Santa Clara Clássico/Extra Forte Refil 40g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "coxa e sobrecoxa de frango c/ dorsal || coxa e sobrecoxa de frango sem dorsal kg": {
+  "a": "Coxa e Sobrecoxa de Frango sem Dorsal kg",
+  "b": "Coxa e Sobrecoxa de Frango c/ Dorsal",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "biscoito maizena marilan 300g || biscoito maria/maizena marilan 300g": {
+  "a": "Biscoito Maria/Maizena MARILAN 300g",
+  "b": "Biscoito Maizena Marilan 300g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango com dorsal kg || coxa e sobrecoxa de frango sem dorsal kg": {
+  "a": "Coxa com Sobrecoxa de Frango com Dorsal kg",
+  "b": "Coxa e Sobrecoxa de Frango sem Dorsal kg",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "adocante liquido assugrin diet 100ml || adocante liquido magro diet 100ml": {
+  "a": "Adoçante Líquido Magro Diet 100ml",
+  "b": "Adoçante Líquido Assugrin Diet 100ml",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "arroz parboilizado branco fazenda 1kg || arroz parboilizado fazenda 1kg": {
+  "a": "Arroz Parboilizado Fazenda 1kg",
+  "b": "Arroz Parboilizado Branco Fazenda 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "presunto de peru perdigao/sadia peca, pedaco ou fatiado || presunto perdigao/sadia peca, pedaco ou fatiado kg": {
+  "a": "Presunto Perdigão/Sadia Peça, Pedaço ou Fatiado Kg",
+  "b": "Presunto de Peru Perdigão/Sadia Peça, Pedaço ou Fatiado",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "queijo mussarela bom sabor/freezer peca ou pedaco kg || queijo mussarela freezer peca ou pedaco kg": {
+  "a": "Queijo Mussarela Bom Sabor/Freezer Peça ou Pedaço kg",
+  "b": "Queijo Mussarela Freezer Peça ou Pedaço kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "farinha de trigo finna com ou sem fermento 1kg || farinha de trigo finna s/ fermento 1kg": {
+  "a": "Farinha de Trigo Finna com ou sem Fermento 1kg",
+  "b": "Farinha de Trigo Finna s/ Fermento 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "coxa de frango bom todo resfriada || sobrecoxa de frango bom todo resfriada kg": {
+  "a": "Sobrecoxa de Frango Bom Todo Resfriada kg",
+  "b": "Coxa de Frango Bom Todo Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "achocolatado em po powerlate sache 700g || achocolatado em po powerlate sao braz 700g": {
+  "a": "Achocolatado em Pó Powerlate São Braz 700g",
+  "b": "Achocolatado em Pó Powerlate Sachê 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "biscoito cream cracker vitarella tostatinha 350g || biscoito cream cracker vitarella tradicional 350g": {
+  "a": "Biscoito Cream Cracker Vitarella Tradicional 350g",
+  "b": "Biscoito Cream Cracker Vitarella Tostatinha 350g",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "coxa com sobrecoxa de frango com dorsal kg || coxa e sobrecoxa de frango c/ dorsal": {
+  "a": "Coxa com Sobrecoxa de Frango com Dorsal kg",
+  "b": "Coxa e Sobrecoxa de Frango c/ Dorsal",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "galinha pequena q delicia congelada || galinha pequena q'delicia cong kg": {
+  "a": "Galinha Pequena Q'Delícia Cong kg",
+  "b": "Galinha Pequena Q Delícia Congelada",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "file de peito de frango lar iqf 1kg || file de peito de frango sadia 1kg": {
+  "a": "Filé de Peito de Frango Sadia 1kg",
+  "b": "Filé de Peito de Frango Lar IQF 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "achocolatado em po powerlate instantaneo 700g || achocolatado em po powerlate sache 700g": {
+  "a": "Achocolatado em Pó Powerlate Instantâneo 700g",
+  "b": "Achocolatado em Pó Powerlate Sachê 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "coxa e sobrecoxa de frango sem dorsal kg || coxas com sobrecoxas de frango com dorsal kg": {
+  "a": "Coxas com Sobrecoxas de Frango com Dorsal Kg",
+  "b": "Coxa e Sobrecoxa de Frango sem Dorsal kg",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "cafe em po sao braz almofada extraforte 250g || cafe torrado sao braz almofada extra forte 250g": {
+  "a": "Cafe em Po Sao Braz Almofada Extraforte 250g",
+  "b": "Café Torrado São Braz Almofada Extra Forte 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "whisky escoces black & white 1l || whisky escoces black & white garrafa 1l": {
+  "a": "Whisky Escocês Black & White Garrafa 1L",
+  "b": "Whisky Escocês Black & White 1L",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "agua mineral crystal c/ gas 500ml || agua mineral nordestao c/gas 500ml": {
+  "a": "Água Mineral Nordestão c/Gás 500ml",
+  "b": "Água Mineral Crystal c/ Gás 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "coxa e sobrecoxa de frango sem dorsal kg || coxa/sobrecoxa de frango lar com dorsal kg": {
+  "a": "COXA/SOBRECOXA DE FRANGO LAR COM DORSAL KG",
+  "b": "Coxa e Sobrecoxa de Frango sem Dorsal kg",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "inseticida aerosol baygon 360ml acao total || inseticida aerosol baygon 360ml acao total tradicional": {
+  "a": "Inseticida Aerosol Baygon 360ml Ação Total",
+  "b": "Inseticida Aerosol Baygon 360ml Ação Total Tradicional",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "file de peito de frango lar iqf 1kg || filezinho de peito de frango lar 1kg": {
+  "a": "Filezinho de Peito de Frango Lar 1kg",
+  "b": "Filé de Peito de Frango Lar IQF 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "batata congelada uai 2kg || batata palito congelada uai 2kg": {
+  "a": "Batata Congelada Uai 2kg",
+  "b": "Batata Palito Congelada Uai 2kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "cerveja amstel ultra lata 350ml || cerveja amstel ultra s/ gluten lata 350ml": {
+  "a": "Cerveja AMSTEL ULTRA Lata 350ml",
+  "b": "Cerveja Amstel Ultra s/ Glúten Lata 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "carne de sol coxao duro || carne de sol coxao mole": {
+  "a": "Carne de Sol Coxão Duro",
+  "b": "Carne de Sol Coxão Mole",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "steak de frango seara 100g || steak frango seara pct 100g": {
+  "a": "Steak Frango Seara PCT 100g",
+  "b": "Steak de Frango Seara 100g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "linguica de frango bom todo congelada || linguica de frango bom todo kg": {
+  "a": "Linguiça de Frango Bom Todo kg",
+  "b": "Linguiça de Frango Bom Todo Congelada",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "file de peito de frango lar iqf 1kg || file de peito de frango levo 1kg": {
+  "a": "Filé de Peito de Frango Levo 1kg",
+  "b": "Filé de Peito de Frango Lar IQF 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
+ },
+ "file de peito de frango levo 1kg || file de peito de frango levo alimentos 1kg": {
+  "a": "Filé de Peito de Frango Levo 1kg",
+  "b": "Filé de Peito de Frango Levo Alimentos 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "chocolate em barra garoto sabores 80g || chocolate garoto sabores 80g": {
+  "a": "Chocolate Garoto Sabores 80g",
+  "b": "Chocolate em Barra Garoto Sabores 80g",
+  "veredito": "mesmo",
+  "quando": "2026-08-17",
+  "aplicado": true
+ },
+ "carne bovina coxao duro de sol || carne bovina coxao duro peca": {
+  "a": "Carne Bovina Coxão Duro de Sol",
+  "b": "Carne Bovina Coxão Duro Peça",
+  "veredito": "diferente",
+  "quando": "2026-08-17"
  }
 }

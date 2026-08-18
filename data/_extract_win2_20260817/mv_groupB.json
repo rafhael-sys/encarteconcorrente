@@ -1,0 +1,112 @@
+[
+  {
+    "shortcode": "DcHR-A_n3Tu",
+    "decision": "keep",
+    "reason": "Carrossel distinto (10 páginas). Páginas p3-p7 são idênticas a DcCc93in2DI_p6-p10 (byte a byte) e foram extraídas só aqui para não duplicar no mesmo período.",
+    "titulo": "Mar Vermelho Atacado - ofertas fim de semana (15 a 17/08)",
+    "inicio": "2026-08-15",
+    "fim": "2026-08-17",
+    "paginas": [
+      {
+        "key": "DcHR-A_n3Tu_p1",
+        "produtos": [
+          {"n": "Fralda Babysec Ultra Shortinho Mega (G/XG/XXG/XXXG)", "p": "25,99", "u": "cada, exceto Ceasa", "x": 27, "y": 26, "w": 63, "h": 60}
+        ]
+      },
+      {
+        "key": "DcHR-A_n3Tu_p2",
+        "produtos": [
+          {"n": "Tintura Cor & Ton Coloração Creme (cores)", "p": "12,99", "u": "cada", "x": 18, "y": 28, "w": 63, "h": 52}
+        ]
+      },
+      {
+        "key": "DcHR-A_n3Tu_p3",
+        "produtos": [
+          {"n": "Almôndega Chuletão Mista Congelada 1kg", "p": "12,99", "u": "cada", "x": 13, "y": 28, "w": 62, "h": 52}
+        ]
+      },
+      {
+        "key": "DcHR-A_n3Tu_p4",
+        "produtos": [
+          {"n": "Sorvete Ster Bom Dueto 1L (sabores)", "p": "11,90", "u": "cada", "x": 28, "y": 28, "w": 52, "h": 48}
+        ]
+      },
+      {
+        "key": "DcHR-A_n3Tu_p5",
+        "produtos": [
+          {"n": "Pão de Alho Boa Massa Tradicional 400g", "p": "10,99", "u": "cada", "x": 18, "y": 33, "w": 60, "h": 40}
+        ]
+      },
+      {
+        "key": "DcHR-A_n3Tu_p6",
+        "produtos": [
+          {"n": "Isca de Frango Tempurá Aurora 275g", "p": "6,99", "u": "cada, exclusivo Zona Norte", "x": 28, "y": 28, "w": 52, "h": 52}
+        ]
+      },
+      {
+        "key": "DcHR-A_n3Tu_p7",
+        "produtos": [
+          {"n": "Mortadela de Frango ou Sem Toucinho Tony (peça ou pedaço)", "p": "6,99", "u": "kg", "x": 35, "y": 26, "w": 36, "h": 62}
+        ]
+      },
+      {
+        "key": "DcHR-A_n3Tu_p8",
+        "produtos": [
+          {"n": "Refrigerante Indaiá Refri 2L (sabores)", "p": "4,18", "u": "cada", "x": 25, "y": 30, "w": 60, "h": 55}
+        ]
+      },
+      {
+        "key": "DcHR-A_n3Tu_p9",
+        "produtos": [
+          {"n": "Cerveja Petra Puro Malte Lata 350ml", "p": "3,18", "u": "cada", "x": 28, "y": 30, "w": 48, "h": 50}
+        ]
+      },
+      {
+        "key": "DcHR-A_n3Tu_p10",
+        "produtos": [
+          {"n": "Água Mineral Indaiá com Gás PET 500ml", "p": "1,55", "u": "cada", "x": 33, "y": 30, "w": 41, "h": 55}
+        ]
+      }
+    ]
+  },
+  {
+    "shortcode": "DcCc93in2DI",
+    "decision": "keep",
+    "reason": "Carrossel distinto: 5 páginas exclusivas (p1-p5). As páginas p6-p10 são idênticas a DcHR-A_n3Tu_p3-p7 (byte a byte) e não foram re-extraídas para evitar duplicação no mesmo período.",
+    "titulo": "Mar Vermelho Atacado - churrasco/fim de semana (15 a 17/08)",
+    "inicio": "2026-08-15",
+    "fim": "2026-08-17",
+    "paginas": [
+      {
+        "key": "DcCc93in2DI_p1",
+        "produtos": [
+          {"n": "Filé de Salmão Komdelli Premium", "p": "94,90", "u": "kg", "x": 33, "y": 26, "w": 41, "h": 58}
+        ]
+      },
+      {
+        "key": "DcCc93in2DI_p2",
+        "produtos": [
+          {"n": "Filé de Tilápia Aurora 800g", "p": "36,98", "u": "cada", "x": 24, "y": 26, "w": 56, "h": 52}
+        ]
+      },
+      {
+        "key": "DcCc93in2DI_p3",
+        "produtos": [
+          {"n": "Presunto de Peru Seara (peça ou fatiado)", "p": "26,99", "u": "kg", "x": 10, "y": 30, "w": 78, "h": 48}
+        ]
+      },
+      {
+        "key": "DcCc93in2DI_p4",
+        "produtos": [
+          {"n": "Linguiça Calabresa Sadia", "p": "26,48", "u": "kg", "x": 12, "y": 30, "w": 72, "h": 50}
+        ]
+      },
+      {
+        "key": "DcCc93in2DI_p5",
+        "produtos": [
+          {"n": "Linguiça de Frango Seara Congelada", "p": "15,98", "u": "kg", "x": 18, "y": 28, "w": 62, "h": 52}
+        ]
+      }
+    ]
+  }
+]

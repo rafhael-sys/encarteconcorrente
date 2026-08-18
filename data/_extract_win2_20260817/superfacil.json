@@ -1,0 +1,102 @@
+[
+  {
+    "shortcode": "DcI8Q35jolP",
+    "decision": "keep",
+    "reason": "RN (lojas SuperFácil do Rio Grande do Norte, exceto Mossoró)",
+    "titulo": "Fácil Economizar — Super Semana da Economia",
+    "inicio": "2026-08-17",
+    "fim": "2026-08-19",
+    "paginas": [
+      {
+        "key": "DcI8Q35jolP_p1",
+        "produtos": [
+          {"n": "Arroz Parboilizado Realengo Pct 1kg", "p": "3,49", "u": "cada", "x": 6, "y": 27, "w": 20, "h": 14},
+          {"n": "Feijão Preto Kumê Pct 1kg", "p": "5,49", "u": "cada", "x": 28, "y": 27, "w": 19, "h": 14},
+          {"n": "Óleo de Soja Soya Tb 900ml", "p": "6,98", "u": "cada", "x": 47, "y": 27, "w": 18, "h": 14},
+          {"n": "Biscoito Cream Cracker Vitarella Tostadinha Pct 350g", "p": "4,59", "u": "cada", "x": 66, "y": 27, "w": 17, "h": 14},
+          {"n": "Creme de Leite Italac Cx 200g", "p": "2,59", "u": "cada", "x": 84, "y": 27, "w": 15, "h": 14},
+          {"n": "Margarina Cremosa Primor com Sal Pt 500g", "p": "4,99", "u": "cada", "x": 5, "y": 55, "w": 18, "h": 14},
+          {"n": "Linguiça Calabresa Perdigão", "p": "27,99", "u": "", "x": 25, "y": 55, "w": 17, "h": 14},
+          {"n": "Filezinho Sassami de Frango Sadia Congelado Pct ou Bd 1kg", "p": "17,99", "u": "cada", "x": 42, "y": 55, "w": 18, "h": 14},
+          {"n": "Acém, Posta Gorda, Ossobuco e Peito Bovino Reserva com Osso", "p": "32,99", "u": "kg", "x": 60, "y": 55, "w": 19, "h": 14},
+          {"n": "Cerveja Lager Amstel Lta 350ml", "p": "3,29", "u": "cada", "x": 80, "y": 55, "w": 18, "h": 14},
+          {"n": "Massa Sêmola Estrela Parafuso Pct 400g", "p": "3,29", "u": "cada", "x": 5, "y": 64, "w": 18, "h": 14},
+          {"n": "Queijo Parmesão Ralado Regina Pct 50g", "p": "4,29", "u": "cada", "x": 24, "y": 64, "w": 18, "h": 14},
+          {"n": "Achocolatado em Pó Chocolatto 3 Corações Pct 700g", "p": "13,99", "u": "cada", "x": 43, "y": 64, "w": 18, "h": 14},
+          {"n": "Azeite Especial Extra Virgem La Española Vd 500ml", "p": "24,99", "u": "cada", "x": 62, "y": 64, "w": 18, "h": 14},
+          {"n": "Sobrecoxas de Frango Sadia Congeladas IQF Pct ou Bd 1kg", "p": "12,99", "u": "cada", "x": 81, "y": 64, "w": 18, "h": 14},
+          {"n": "Fígado Bovino Reserva Friboi Congelado Pedaço", "p": "16,99", "u": "kg", "x": 5, "y": 80, "w": 18, "h": 15},
+          {"n": "Cupim Bovino Congelado Porcionado", "p": "39,98", "u": "", "x": 24, "y": 80, "w": 18, "h": 15},
+          {"n": "Refrigerante Guaraná Antarctica Pack c/2x Tb 1 litro", "p": "8,99", "u": "cada", "x": 43, "y": 80, "w": 18, "h": 15},
+          {"n": "Cerveja Brahma Chopp Lta 350ml", "p": "2,99", "u": "cada", "x": 62, "y": 80, "w": 18, "h": 15},
+          {"n": "Whisky Black & White Gfa 1 litro", "p": "59,90", "u": "cada", "x": 81, "y": 80, "w": 18, "h": 15}
+        ]
+      },
+      {
+        "key": "DcI8Q35jolP_p2",
+        "produtos": [
+          {"n": "Cobertura Culinária Cremosa Tradicional Sabor Requeijão Pct 1,8kg", "p": "12,99", "u": "cada", "x": 4, "y": 13, "w": 18, "h": 13},
+          {"n": "Mostarda, Maionese ou Ketchup Mini Heinz Cx c/144x Pct 5g/7g", "p": "35,99", "u": "cada", "x": 22, "y": 13, "w": 19, "h": 13},
+          {"n": "Paçokinha Guimarães Rolha Cx 1,3kg", "p": "27,99", "u": "cada", "x": 42, "y": 13, "w": 19, "h": 13},
+          {"n": "Margarina Cremosa Puro Sabor com Sal Balde 3kg", "p": "27,79", "u": "cada", "x": 62, "y": 13, "w": 18, "h": 13},
+          {"n": "Farinha de Trigo Do Padeiro Saco 25kg", "p": "78,99", "u": "cada", "x": 82, "y": 13, "w": 17, "h": 13},
+          {"n": "Água Mineral Indaiá sem Gás Tb 5 litros", "p": "8,99", "u": "cada", "x": 5, "y": 27, "w": 18, "h": 13},
+          {"n": "Suco de Uva Integral Fazenda Doce Sol Vd 1 litro", "p": "17,99", "u": "cada", "x": 24, "y": 27, "w": 18, "h": 13},
+          {"n": "Aperitivo Aperol Gfa 750ml", "p": "49,90", "u": "cada", "x": 43, "y": 27, "w": 18, "h": 13},
+          {"n": "Whisky White Horse Gfa 1 litro", "p": "69,90", "u": "cada", "x": 62, "y": 27, "w": 18, "h": 13},
+          {"n": "Vinho Branco, Tinto ou Rosé Ravanal Gfa 750ml", "p": "19,99", "u": "cada", "x": 81, "y": 27, "w": 18, "h": 13},
+          {"n": "Steak de Frango Empanado Perdigão Pct 100g", "p": "1,59", "u": "cada", "x": 5, "y": 43, "w": 18, "h": 13},
+          {"n": "Creme Dental Colgate Tripla Ação (diversos) Tb 90g", "p": "5,99", "u": "cada", "x": 24, "y": 43, "w": 18, "h": 13},
+          {"n": "Desodorante Aerosol Bozzano ou Monange (diversos) Tb 90g", "p": "7,49", "u": "cada", "x": 43, "y": 43, "w": 18, "h": 13},
+          {"n": "Kit Elseve Shampoo Tb 375ml + Condicionador Tb 170ml (diversos)", "p": "29,98", "u": "cada", "x": 62, "y": 43, "w": 18, "h": 13},
+          {"n": "Lava-roupas em Pó Omo Lavagem Perfeita Pct 1,6kg", "p": "22,90", "u": "cada", "x": 81, "y": 43, "w": 18, "h": 13},
+          {"n": "Água Sanitária Dragão Tb 1 litro", "p": "1,98", "u": "cada", "x": 5, "y": 57, "w": 18, "h": 13},
+          {"n": "Lava-roupas em Pó Tixan Ypê Maciez ou Primavera Pct 400g", "p": "3,98", "u": "cada", "x": 24, "y": 57, "w": 18, "h": 13},
+          {"n": "Amaciante Ypê (diversos) Tb 2 litros", "p": "7,99", "u": "cada", "x": 43, "y": 57, "w": 18, "h": 13},
+          {"n": "Lava-roupas Sonho Fresh Tb 3 litros", "p": "21,99", "u": "cada", "x": 62, "y": 57, "w": 18, "h": 13},
+          {"n": "Papel Higiênico Neutro Max Pure Folha Dupla 30 Metros", "p": "14,99", "u": "leve 12 pague 11", "x": 81, "y": 57, "w": 18, "h": 13},
+          {"n": "Absorvente Always Super Proteção Pct c/8", "p": "3,89", "u": "cada", "x": 5, "y": 72, "w": 18, "h": 14},
+          {"n": "Toalhas de Papel Caprice Pct c/ 2x 50 Folhas", "p": "4,19", "u": "cada", "x": 24, "y": 72, "w": 18, "h": 14},
+          {"n": "Alimento Úmido para Gatos Friskies Pct 85g ou para Cães Dog Chow Pct 85g/100g", "p": "2,49", "u": "cada", "x": 43, "y": 72, "w": 18, "h": 14},
+          {"n": "Alimento para Cães Bonzo Adulto Pct 15kg", "p": "119,90", "u": "cada", "x": 62, "y": 72, "w": 18, "h": 14},
+          {"n": "Carvão Vegetal Jucurutu Pct 5kg", "p": "23,99", "u": "cada", "x": 81, "y": 72, "w": 18, "h": 14}
+        ]
+      }
+    ]
+  },
+  {
+    "shortcode": "Db9ISVyB7Yp",
+    "decision": "keep",
+    "reason": "RN (lojas SuperFácil do Rio Grande do Norte, exceto Mossoró)",
+    "titulo": "Feirão de Frutas, Legumes e Verduras — Fim de Semana de Ofertas",
+    "inicio": "2026-08-13",
+    "fim": "2026-08-15",
+    "paginas": [
+      {
+        "key": "Db9ISVyB7Yp_p1",
+        "produtos": [
+          {"n": "Alface Crespa ou Coentro", "p": "1,49", "u": "cada", "x": 8, "y": 40, "w": 18, "h": 13},
+          {"n": "Tomate Italiano", "p": "3,79", "u": "kg", "x": 27, "y": 40, "w": 18, "h": 13},
+          {"n": "Cebola Branca e Batata Lisa Inglesa", "p": "4,99", "u": "kg", "x": 45, "y": 40, "w": 18, "h": 13},
+          {"n": "Cenoura", "p": "7,59", "u": "kg", "x": 63, "y": 40, "w": 18, "h": 13},
+          {"n": "Alho a Granel", "p": "15,85", "u": "kg", "x": 81, "y": 40, "w": 18, "h": 13},
+          {"n": "Mamão Formosa", "p": "2,99", "u": "kg", "x": 8, "y": 53, "w": 18, "h": 13},
+          {"n": "Melão Espanhol", "p": "2,59", "u": "kg", "x": 27, "y": 53, "w": 18, "h": 13},
+          {"n": "Abacaxi", "p": "3,49", "u": "cada", "x": 45, "y": 53, "w": 18, "h": 13},
+          {"n": "Uva Vitória Marcelo Frazão sem Sementes Cb 500g", "p": "4,49", "u": "cada", "x": 63, "y": 53, "w": 18, "h": 13},
+          {"n": "Maçã Vermelha", "p": "5,89", "u": "kg", "x": 81, "y": 53, "w": 18, "h": 13},
+          {"n": "Goma Fresca Delícia Potiguar Pct 1kg", "p": "3,99", "u": "cada", "x": 8, "y": 66, "w": 18, "h": 13},
+          {"n": "Ovos Brancos Nordestão Tipo Grande ou Extra Bd c/30", "p": "14,99", "u": "cada", "x": 27, "y": 66, "w": 18, "h": 13},
+          {"n": "Arroz Parboilizado Realengo Pct 1kg", "p": "3,59", "u": "cada", "x": 45, "y": 66, "w": 18, "h": 13},
+          {"n": "Leite UHT Natville Integral ou Desnatado Cx 1 litro", "p": "5,89", "u": "cada", "x": 63, "y": 66, "w": 18, "h": 13},
+          {"n": "Queijo Mussarela Piracanjuba Fatiado, Peça ou Pedaço", "p": "38,90", "u": "kg", "x": 81, "y": 66, "w": 18, "h": 13},
+          {"n": "Linguiça de Frango Sadia a Granel", "p": "15,99", "u": "kg", "x": 8, "y": 80, "w": 18, "h": 14},
+          {"n": "Coxas e Sobrecoxas de Frango Lar com Porção Dorsal Congeladas", "p": "8,99", "u": "cada", "x": 27, "y": 80, "w": 18, "h": 14},
+          {"n": "Peito de Frango Ave Nova Envelopado Congelado", "p": "11,49", "u": "kg", "x": 45, "y": 80, "w": 18, "h": 14},
+          {"n": "Filé de Peixe Panga Oceani com Gordura Pct 500g", "p": "14,99", "u": "cada", "x": 63, "y": 80, "w": 18, "h": 14},
+          {"n": "Lava-roupas em Pó Ala (diversos) Pct 400g", "p": "2,49", "u": "cada", "x": 81, "y": 80, "w": 18, "h": 14}
+        ]
+      }
+    ]
+  }
+]

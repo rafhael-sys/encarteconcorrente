@@ -1,0 +1,13 @@
+[
+  {"shortcode":"DcHtEEgm6c-","decision":"discard","reason":"Mar Vermelho 'Ofertas do Comerciante' — peca B2B dirigida a revenda; descartar mesmo com preco","has_consumer_prices":false,"titulo":"","inicio":"","fim":"","paginas":[]},
+  {"shortcode":"DcIkHmDG-51","decision":"discard","reason":"Mar Vermelho 'Dia do Pao de Queijo' — receita/institucional, sem produto+preco","has_consumer_prices":false,"titulo":"","inicio":"","fim":"","paginas":[]},
+  {"shortcode":"DcIll0PGw-D","decision":"discard","reason":"Super Nordestao 'Oferta Surpresa do Dia' — produto borrado, sem preco, ativar no app","has_consumer_prices":false,"titulo":"","inicio":"","fim":"","paginas":[]},
+  {"shortcode":"DcGAxYlIJUT","decision":"discard","reason":"Super Nordestao 'Oferta Surpresa do Dia' (16/08) — produto borrado, sem preco, ativar no app","has_consumer_prices":false,"titulo":"","inicio":"","fim":"","paginas":[]},
+  {"shortcode":"DcDb94bm6Mj","decision":"discard","reason":"Super Nordestao 'Oferta Surpresa do Dia' (15/08) — produto borrado, sem preco, ativar no app","has_consumer_prices":false,"titulo":"","inicio":"","fim":"","paginas":[]},
+  {"shortcode":"DcA3infj8oZ","decision":"discard","reason":"Super Nordestao 'Oferta Surpresa do Dia' (14/08) — produto borrado, sem preco, ativar no app","has_consumer_prices":false,"titulo":"","inicio":"","fim":"","paginas":[]},
+  {"shortcode":"DcCM-AzxJOJ","decision":"discard","reason":"Super Nordestao 'Achou sua loja?' — caca-palavras institucional, sem produto+preco","has_consumer_prices":false,"titulo":"","inicio":"","fim":"","paginas":[]},
+  {"shortcode":"DcBpd0yloJp","decision":"discard","reason":"Super Nordestao 'Talentos 50+' — feirao de empregabilidade (vaga), sem produto+preco","has_consumer_prices":false,"titulo":"","inicio":"","fim":"","paginas":[]},
+  {"shortcode":"DcJOpHQIOus","decision":"discard","reason":"Rede Mais 'Carrinho Premiado' — sorteio/aniversario com regulamento, sem produto+preco","has_consumer_prices":false,"titulo":"","inicio":"","fim":"","paginas":[]},
+  {"shortcode":"DcGVVF1lExP","decision":"discard","reason":"Queiroz Atacadao teaser 'E amanha — Dia Q do Comerciante' — anuncio B2B, sem produto+preco","has_consumer_prices":false,"titulo":"","inicio":"","fim":"","paginas":[]},
+  {"shortcode":"DcBeB9emR5N","decision":"discard","reason":"Queiroz Atacadao teaser 'Faltam 3 dias — Dia Q do Comerciante' — anuncio B2B, sem produto+preco","has_consumer_prices":false,"titulo":"","inicio":"","fim":"","paginas":[]}
+]
