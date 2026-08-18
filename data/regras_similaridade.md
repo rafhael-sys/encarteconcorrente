@@ -3519,3 +3519,67 @@
 - DIFERENTES: «Uva Vermelha Sem Semente Seleta Bandeja 500g» != «Uva Verde sem Semente Seleção Mimo Bandeja 500g»
 - MESMO: «Vinho Casillero Del Diablo 750ml Sabores» == «Vinho Chileno Casillero Diablo 750ml Sabores»
 - MESMO: «Whisky Escocês Black & White Garrafa 1L» == «Whisky Escocês Black & White 1L»
+- MESMO: «Absorvente Noturno Always Seca/Suave com Abas pacote 48 unidades» == «Absorvente Noturno Always Seca / Suave com Abas Pacote com 48 Unidades»
+- MESMO: «Achocolatado em Po Chocolatto 560g» == «Achocolatado Po Chocolatto 560G»
+- MESMO: «Água Sanitária Dragão 5L» == «Agua Sanitaria Dragao GL 5L»
+- MESMO: «Alcatra Bovina Congelada» == «Alcatra Bovina Congelada Kg»
+- MESMO: «Alimento Úmido Gatos Friskies pct 85g ou Cães Dog Chow pct 85g/100g» == «Alimento Úmido para Gatos Friskies Pct 85g ou para Cães Dog Chow Pct 85g/100g»
+- MESMO: «Amaciante Confort Concentrado Sachê 700ml (fragrâncias)» == «Amaciante Comfort Concentrado Sachê 700ml (fragrâncias)»
+- MESMO: «Amaciante Roupa Fofo 900ml Fragrâncias» == «Amaciante de Roupa Fofo 900ml Fragrancias»
+- DIFERENTES: «Arroz Mariano Parboilizado Tipo 1 Pacote com 1kg» != «Arroz Urbano Parboilizado Tipo 1 Pacote com 1kg»
+- MESMO: «Arroz Parboilizado Panelaço 1Kg» == «Arroz Parbolizado Panelaço 1Kg»
+- MESMO: «Batata Palha Scrusch São Braz 105g (Tradicional ou Temperada)» == «Batata Palha Scrunsh São Braz 105g (tradicional ou temperada)»
+- MESMO: «Biscoito Choco Biscuit Bauducco 80g (sabores)» == «Biscoito Chocobiscuit Bauducco 80g Sabores»
+- MESMO: «Biscoito Recheado Maltado PIRAQUÊ 85g Sabores» == «Biscoito Recheado Leite Maltado Piraque 85g Sabores»
+- MESMO: «Bisteca de Pernil Suino» == «Bisteca de Pernil Suino Kg»
+- MESMO: «Café Moído Maratá Tradicional SC 250g» == «Café Moído Maratá Tradicional 250g»
+- MESMO: «Café Solúvel Nescafé Dolca Sachê 40g» == «Cafe Soluvel Nescafe Dolca Sache com 40g»
+- MESMO: «Carne Bovina Bisteca de Contrafilé Reserva Resfriada» == «Carne Bovina Bisteca de Contrafile Friboi Reserva Resfriada»
+- MESMO: «Carne Bovina Capa de Filé Congelada» == «Carne Bovina Capa de File kg Congelada»
+- MESMO: «Carne Bovina Capa de Filé KG Congelado» == «Carne Bovina Capa de File kg Congelada»
+- MESMO: «Carne Bovina Chambaril Dianteiro Reserva Resfriada» == «Carne Bovina Chambaril Dianteiro Friboi Reserva Resfriada»
+- MESMO: «Carne Bovina Posta Gorda c/ Osso Kg» == «Carne Bovina Posta Gorda c/ Osso»
+- MESMO: «Carne de Sol Dianteira kg» == «Carne de Sol Dianteira»
+- MESMO: «Cerveja Skol Pilsen 350ml» == «Cerveja Skol Pilsen Lt 350Ml»
+- MESMO: «Coxa c/ Sobrecoxa Congelada» == «Coxa c/ Sobrecoxa Congelada Kg»
+- MESMO: «Coxa com Sobrecoxa c/Dorsal kg» == «Coxa Sobrecoxa C/Dorsal kg»
+- DIFERENTES: «COXA SOBRECOXA S/DORSAL KG» != «Coxa Sobrecoxa C/Dorsal kg»
+- MESMO: «Creme de Leite UHT Leitbom 200g» == «Creme de Leite Leitbom 200g»
+- MESMO: «Creme Dental Sorriso Kolynos 90g» == «Creme Dental Sorriso Kolinos 90g»
+- MESMO: «Escova Dental Oral B 123 Leve3Pague2» == «Escova Dental Oral B 123 Leve 3 Pague 2»
+- MESMO: «Esponja Lã de Aço Bombril PCT 45g» == «Esponja La de Aco Boneril PCT 45g»
+- MESMO: «Farinha Láctea Nestlé Tradicional Sachê 160g» == «Farinha Lactea Nestle Tradicional 160g»
+- DIFERENTES: «File de Peito de Frango Lar Congelado Bandeja com 1kg» != «File de Peito de Frango Sadia Congelado Bandeja com 1kg»
+- DIFERENTES: «Filé de Peito de Frango Seara Congelado Bandeja com 1kg» != «File de Peito de Frango Sadia Congelado Bandeja com 1kg»
+- MESMO: «Galinha Pesada Somave Congelada» == «Galinha Pesada Somave Congelada Kg»
+- MESMO: «Inseticida Aerosol SBP 380ml Tipos» == «Inseticida Aerossol SBP 380ml Tipos»
+- MESMO: «Iogurte Betânia Resfriado Morango/Salada de Frutas Garrafa 1,25kg» == «Iogurte Betania Resfriado Morango / Salada de Frutas Garrafa com 1,25kg»
+- MESMO: «Lava Roupas Po Ala 1,6kg Fragrancias» == «Lava Roupa em Po Ala 1,6kg Fragrancias»
+- MESMO: «Lava Roupa Pó Brilhante 1,6kg Fragrâncias» == «Lava Roupa em Po Brilhante 1,6kg Fragrancias»
+- MESMO: «Lava Roupas em Po Omo Caixa 400g» == «Lava Roupas em Po Omo Cx 400G»
+- MESMO: «Lava Roupas em Pó Omo Lavagem Perfeita Pacote com 1,6kg» == «Lava-roupas em Pó Omo Lavagem Perfeita Pct 1,6kg»
+- MESMO: «Lava Roupas em Pó Omo Lavanderia Profissional Pacote 8kg» == «Lava Roupas em Po Omo Lavanderia Profissional Pacote com 8kg»
+- MESMO: «Limpa Pisos Cerâmica/Azulejos Azulim 1L Citrus ou Lavanda» == «Limpa Pisos Ceramica/Azulejo Azulim FR 1L Citrus ou Lavanda»
+- MESMO: «Limpeza Perfumada Casa Perfume 1V 1L PG 900ml Fragrâncias» == «Limpeza Perfumada Casa Perfume LV1L PG900ml Fragrancias»
+- MESMO: «Linguica Calabresa Sadia Reta» == «Linguica Calabresa Sadia Reta Kg»
+- MESMO: «Linguiça Suína Churrasco Aurora» == «Linguica Suina Churrasco Aurora kg»
+- MESMO: «Maionese Hellmanns Sache 400g» == «Maionese Hellmanns Sc 400G»
+- MESMO: «Mistura de Creme de Leite Mococa cx 200g» == «Mistura de Creme de Leite Mococa TP 200g»
+- MESMO: «Mortadela Bom Todo Tradicional» == «Mortadela Bom Todo Tradicional Kg»
+- MESMO: «Peito Bovino Serrado / Lombo Bovino Serrado» == «Peito Bovino Serrado / Lombo Bovino Serrado Kg»
+- MESMO: «Polpa de Fruta Canaã 1kg (Abacaxi/Caju/Goiaba/Manga/Tangerina)» == «Polpa Fruta Canaa PCT 1kg Abacaxi/Caju/Goiaba/Manga/Tangerina»
+- MESMO: «Presunto de Peru Seara peça ou fatiado kg» == «Presunto de Peru Seara (peça ou fatiado)»
+- MESMO: «Presunto Sem Capa de Gordura Saudali» == «Presunto Sem Capa de Gordura Saudali Kg»
+- MESMO: «Protetor Diario Mili Suave Sem Abas C/80» == «Protetor Diario Mili Suave S/ Abas C/80»
+- MESMO: «Queijo de Coalho Clan» == «Queijo de Coalho Clan Kg»
+- MESMO: «Queijo Gorgonzola Bella Italia» == «Queijo Gorgonzola Bella Italia Kg»
+- MESMO: «Queijo Mussarela Peça / Pedaço KG» == «Queijo Mussarela Peca/Pedaco»
+- MESMO: «Queijo Provolone Isis» == «Queijo Provolone Isis Kg»
+- MESMO: «Queijo Reino Regina» == «Queijo Reino Regina Kg»
+- MESMO: «Racao Dog Chow a Granel (Adulto/Medio/Pequenos Portes)» == «Racao Dog Chow a Granel Kg (Adulto / Medio / Pequenos Portes)»
+- MESMO: «Sabonete Íntimo Topz 200ml Leve2Pague1» == «Sabonete Intimo Topz 200Ml Leve 2 Pague 1»
+- MESMO: «Sabonete Líquido Harrop Erva Doce/Lavanda Frasco 2L» == «Sabonete Liquido Harrop Erva Doce / Lavanda Frasco com 2L»
+- DIFERENTES: «Salsicha Hot Dog Perdigão Resfriada Pacote com 500g» != «Salsicha Hot Dog Sadia Resfriada Pacote com 500g»
+- MESMO: «Salsicha Hot Dog Sadia Resfriada Pacote 500g» == «Salsicha Hot Dog Sadia Resfriada Pacote com 500g»
+- MESMO: «Sobrecoxas de Frango Sadia Congeladas IQF pct ou bd 1kg» == «Sobrecoxas De Frango Sadia Congelado IQF Pct Ou Bd 1kg»
+- MESMO: «Tempero em Pó Sazón 60g (sabores)» == «Tempero Po Sazon 60G Sabores»
