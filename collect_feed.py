@@ -32,6 +32,25 @@ class RateLimit(Exception):
     re-tentar na hora — martelar só prolonga o bloqueio; o certo é aguardar."""
 
 
+def carrega_contas() -> list[str]:
+    """Cookies das contas de coleta, para dividir a carga e não estourar o
+    rate-limit do IG. IG_COOKIE (env) força CONTA ÚNICA (runs manuais); senão usa
+    ~/.config/ig_cookie e ~/.config/ig_cookie_2 (as que existirem). Cada valor já
+    vem no formato de header ('sessionid=...')."""
+    env = (os.environ.get('IG_COOKIE') or '').strip()
+    if env:
+        return [env if '=' in env else f'sessionid={env}']
+    contas = []
+    for nome in ('ig_cookie', 'ig_cookie_2'):
+        try:
+            c = open(os.path.expanduser(f'~/.config/{nome}'), encoding='utf-8').read().strip()
+        except OSError:
+            continue
+        if c:
+            contas.append(c if '=' in c else f'sessionid={c}')
+    return contas
+
+
 def _sh(args: list[str]) -> str:
     """Roda um curl e devolve stdout (texto), com timeout curto."""
     return subprocess.run(args, capture_output=True, text=True, timeout=40).stdout
@@ -62,11 +81,12 @@ def get_user_id(username: str, cache: dict[str, str]) -> str | None:
     return None
 
 
-def fetch_feed(user_id: str, count: int = 12) -> list[dict]:
+def fetch_feed(user_id: str, cookie: str, count: int = 12) -> list[dict]:
     """Busca os posts recentes pelo endpoint autenticado feed/user/{id}.
 
     Args:
         user_id: id numérico do perfil.
+        cookie: cookie da conta a usar (header 'sessionid=...').
         count: quantos posts recentes pedir.
 
     Returns:
@@ -78,7 +98,7 @@ def fetch_feed(user_id: str, count: int = 12) -> list[dict]:
     """
     body = _sh(['curl', '-sk', '--compressed', '-A', UA_WEB,
                 '-H', f'x-ig-app-id: {collect.APP_ID}',
-                '-H', f'Cookie: {collect.COOKIE}',
+                '-H', f'Cookie: {cookie}',
                 f'https://i.instagram.com/api/v1/feed/user/{user_id}/?count={count}'])
     if not body.strip():
         raise ValueError('resposta vazia (rate-limit ou cookie inválido)')
@@ -114,17 +134,17 @@ def _urls_do_item(item: dict) -> list[str]:
 
 
 def processa(p: dict, seen: set, fila: list, status: dict, agora: str,
-             cache: dict[str, str]) -> tuple[bool, int]:
-    """Coleta um perfil pelo feed autenticado. Devolve (ok, novos)."""
+             cache: dict[str, str], cookie: str) -> tuple[bool, int]:
+    """Coleta um perfil pelo feed autenticado (na conta `cookie`). Devolve (ok, novos)."""
     user = p['username']
     fonte = p.get('banner', user)
     try:
         uid = get_user_id(user, cache)
         if not uid:
             raise ValueError('user_id não encontrado no HTML')
-        items = fetch_feed(uid)
+        items = fetch_feed(uid, cookie)
     except RateLimit:
-        raise  # o main() aguarda e retoma este perfil — não é falha do perfil
+        raise  # o main() tenta outra conta / aguarda — não é falha do perfil
     except Exception as e:
         print(f'[erro] {user}: {e}', file=sys.stderr)
         ent = status.get(fonte, {})
@@ -177,9 +197,10 @@ def processa(p: dict, seen: set, fila: list, status: dict, agora: str,
 
 
 def main() -> None:
-    """Percorre todos os perfis pelo feed autenticado e alimenta a fila."""
-    if not collect.COOKIE:
-        sys.exit('[feed] sem cookie (~/.config/ig_cookie) — este coletor exige login. Abortei.')
+    """Percorre todos os perfis pelo feed autenticado (2 contas) e alimenta a fila."""
+    contas = carrega_contas()
+    if not contas:
+        sys.exit('[feed] sem cookie (~/.config/ig_cookie ou ig_cookie_2) — exige login. Abortei.')
     profiles = json.load(open(os.path.join(collect.BASE, 'profiles.json')))
     seen_path = os.path.join(DATA, 'posts_vistos.json')
     fila_path = os.path.join(DATA, 'fila_novos.json')
@@ -197,16 +218,17 @@ def main() -> None:
         collect.save_json(status_path, status)
         collect.save_json(UIDS_PATH, cache)
 
-    # Coleta PERSISTENTE e gentil: o objetivo é pegar TODOS os perfis por rodada.
+    # Coleta PERSISTENTE, gentil e com DUAS CONTAS (divide a carga p/ não estourar
+    # o rate-limit do IG). Cada perfil tem uma conta PRIMÁRIA (repartida por igual);
+    # se ela estiver limitada, tenta a(s) outra(s) como FALLBACK — assim um perfil
+    # só falha se TODAS as contas estiverem limitadas.
     # - ordem embaralhada e ritmo humano (15-25s) reduzem a cara de robô;
-    # - quando o IG pede para esperar (RateLimit), NÃO martela: dorme e RETOMA o
-    #   mesmo perfil. A espera é ESCALONADA (5, 10, 15 min...) porque conta muito
-    #   limitada precisa de mais tempo para liberar — insistir com pouca espera só
-    #   prolonga o castigo. O contador zera a cada perfil que passa;
+    # - se TODAS as contas pedem para esperar, NÃO martela: dorme (espera escalonada
+    #   5, 10, 15 min) e RETOMA o mesmo perfil. O contador zera quando um perfil passa;
     # - erro que não é rate-limit é re-tentado até MAX_TENT vezes;
-    # - orçamento GENEROSO (45 min): a rodada é de madrugada/noite, sem pressa, e
-    #   completar os 16 vale mais que terminar rápido. O que faltar entra na próxima.
-    COOLDOWN_BASE = 300      # 1º passo de espera após rate-limit (5 min)
+    # - orçamento GENEROSO (45 min): a rodada é de madrugada, sem pressa, e completar
+    #   os 16 vale mais que terminar rápido. O que faltar entra na próxima janela.
+    COOLDOWN_BASE = 300      # 1º passo de espera quando TODAS as contas limitam (5 min)
     COOLDOWN_MAX = 900       # teto por espera (15 min)
     ORCAMENTO_S = 45 * 60    # teto total da coleta do feed
     MAX_TENT = 3             # tentativas por perfil em erro que NÃO é rate-limit
@@ -214,29 +236,43 @@ def main() -> None:
 
     pendentes = list(profiles)
     random.shuffle(pendentes)
+    # conta primária de cada perfil: reparte igualmente (perfil i -> conta i % N)
+    primaria = {p['username']: i % len(contas) for i, p in enumerate(profiles)}
     tentativas: dict[str, int] = {}
-    rl_seguidas = 0          # rate-limits consecutivos (escalona a espera)
+    rl_seguidas = 0          # rate-limits em TODAS as contas seguidos (escalona a espera)
     novos = ok = 0
+    print(f'[feed] {len(contas)} conta(s) de IG; dividindo {len(profiles)} perfis',
+          file=sys.stderr)
 
     while pendentes and (time.monotonic() - inicio) < ORCAMENTO_S:
         p = pendentes.pop(0)
         user = p['username']
-        try:
-            sucesso, n = processa(p, seen, fila, status, agora, cache)
-        except RateLimit:
-            pendentes.insert(0, p)  # retoma este mesmo perfil depois de esperar
+        # tenta a conta primária do perfil; se limitada, tenta as outras (fallback)
+        prim = primaria.get(user, 0)
+        ordem = [prim] + [i for i in range(len(contas)) if i != prim]
+        resultado = None
+        for idx in ordem:
+            try:
+                resultado = processa(p, seen, fila, status, agora, cache, contas[idx])
+                break  # a conta respondeu (sucesso ou erro comum) — não tenta outra
+            except RateLimit:
+                continue  # esta conta está limitada: tenta a próxima
+
+        if resultado is None:  # TODAS as contas limitadas para este perfil
+            pendentes.insert(0, p)
             rl_seguidas += 1
             restante = ORCAMENTO_S - (time.monotonic() - inicio)
             espera = int(min(COOLDOWN_BASE * rl_seguidas, COOLDOWN_MAX, restante))
             if espera <= 0:
                 break
-            print(f'[feed] IG pediu para esperar — aguardando {espera}s e retomando '
-                  f'({len(pendentes)} perfil(is) na fila, espera #{rl_seguidas})', file=sys.stderr)
+            print(f'[feed] todas as contas pediram para esperar — aguardando {espera}s e '
+                  f'retomando ({len(pendentes)} na fila, espera #{rl_seguidas})', file=sys.stderr)
             _salva()
             time.sleep(espera)
             continue
 
-        rl_seguidas = 0  # passou um perfil: a conta liberou, zera a escalada
+        rl_seguidas = 0  # passou um perfil: zera a escalada
+        sucesso, n = resultado
         novos += n
         ok += sucesso
         _salva()
