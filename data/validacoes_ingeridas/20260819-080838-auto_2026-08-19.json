@@ -1,0 +1,324 @@
+{
+ "validacoes": [
+  {
+   "a": "Café Santa Clara 250g a Vácuo/Almofada Classic/Extra Forte",
+   "b": "Café Santa Clara 250g A Vácuo/Almofada Clássico/Extra Forte",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Becker Lava Roupa Versátil 3L + Multiuso 500ml",
+   "b": "Kit Becker Lava Roupas Versátil 3L + Multiuso 500ML",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Fazenda ou Coradini Parboilizado 1kg",
+   "b": "Arroz Fazenda ou Coradini Parbolizado 1Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Adoçante Líquido Svili com Stévia 90ml",
+   "b": "Adoçante Líquido Svli com Stévia 90ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Po Nescau 550g Sachet",
+   "b": "Achocolatado em Pó Nescau 550g Sachê",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite em Pó Ninho SCH 750g Integral ou Instantâneo",
+   "b": "Leite em Pó Ninho Sachê 750g Integral ou Instantâneo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Racao Pedigree Adulto/Racas Pequenas/Filhote a Granel Sabores kg",
+   "b": "Ração Pedigree Adulto/Raças Pequenas/Filhote a Granel Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Adapt 32un C/Abas",
+   "b": "Absorvente Sempre Livre Adapt 32un Com Abas",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Tambaú Tradicional, Hot Dog ou Pizza SC 1,7kg",
+   "b": "Molho de Tomate Tambaú Tradicional, Hot Dog ou Pizza 1,7kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Galinha Pequena Q Delícia Congelada kg",
+   "b": "Galinha Pequena Q Delícia Congelado Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amendoim Torrado São Braz Sem Pele 200g",
+   "b": "Amendoim Torrado São Braz S/ Pele 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Floral Neutro Folha Dupla 20m 12 unidades",
+   "b": "Papel Higiênico Floral Neutro Folha Dupla 20m 12 Unids",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Racao Whiskas Adulto/Castrado/Filhote a Granel Sabores kg",
+   "b": "Ração Whiskas Adulto/Castrado/Filhote a Granel Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mortadela Bologna Aurora (Tradicional)",
+   "b": "Mortadela Bolonha Aurora (Tradicional)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Saco Para Lixo Brilhus 100l Com 15",
+   "b": "Saco para Lixo Brilhus 100L C/15",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Branco Extra Jana 30 Unidades",
+   "b": "Ovo Branco Extra Iana 30 Unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sobremesa Láctea Vitao Leite Condensado VD 200g",
+   "b": "Sobremesa Láctea Vitao Leite Condensado Vidro 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga D'Nata com Sal Pote 500g",
+   "b": "Manteiga D'Nata Com Sal PT 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Vitaclan ou Batclan sabores 900g",
+   "b": "Bebida Láctea Vitaclan ou Batclan Sabores SC 900g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Toalha Social Clean C/2",
+   "b": "Papel Toalha Social Clean Com 2",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Iogurte Clan Bi Camada Morango C/ Geleia 130g",
+   "b": "Iogurte Clan Bicamada Morango Com Geleia 130g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa e Sobrecoxa Com Dorsal kg",
+   "b": "Coxa e Sobrecoxa C/ Dorsal Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado CCGL Caixa 395g Semidesnatado",
+   "b": "Leite Condensado CCGL Cx 395g Semidesnatado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Granola Sabores do Campo Tradicional SC 200g",
+   "b": "Granola Sabores do Campo Tradicional 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Só Fruta Tradicional 300g",
+   "b": "Molho de Tomate Só Fruta Tradicional SC 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Margarina Claybom 1kg (Com Sal)",
+   "b": "Margarina Claybom 1kg (C/ Sal)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango Bom Todo com Miúdos kg",
+   "b": "Frango Bom Todo C/ Miúdos Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Costela P.A. kg",
+   "b": "Carne Bovina Costela Pá Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Paçoca Rolha DaColônia Zero Açúcar PT 170g",
+   "b": "Paçoca Rolha DaColônia Zero Açúcar 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higienico Mili Folha Dupla Neutro/Perfumado",
+   "b": "Papel Higiênico Mili 30m (Folha Dupla - Neutro/Perfumado)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Açucareiro Soho Cristal Eco VD 360ml",
+   "b": "Açucareiro Soho Cristal Eco Vidro 360ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida A Tal da Castanha Sabores TP 1L",
+   "b": "Bebida A Tal da Castanha Sabores 1l",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Picanha Bovina Congelada Maturatta kg",
+   "b": "Picanha Bovina Congelada Maturatta",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chocolate Barra Garoto 80g Sabores",
+   "b": "Chocolate em Barra Garoto 80g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó Diet Gold PT 200g",
+   "b": "Achocolatado em Pó Diet Gold 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Mili Folha Dupla 4X60m (neutro)",
+   "b": "Papel Higiênico Mili Max Folha Dupla 4x60m (neutro)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Zero Pet com 1L",
+   "b": "Refrigerante Guaraná Antarctica Zero PET 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Coalho ou Manteiga Seridó kg",
+   "b": "Queijo Coalho Ou Manteiga Seridó",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Cheddar Polenghi Fatiado kg",
+   "b": "Queijo Cheddar Polenghi Fatiado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Felitá Care 20m C/12 (Folha Dupla - Neutro)",
+   "b": "Papel Higiênico Folha Care 20m C/12 (Folha Dupla - Neutro)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Caipira/Vermelho Ômega3/Branco Livre De Gaiola Avine Com 20",
+   "b": "Ovo Caipira, Vermelho Ômega3 ou Branco Livre de Gaiola Avine C/20",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Saco p/Lixo Brilhus 100L c/15",
+   "b": "Saco para Lixo Brilhus 100L C/15",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Centro de Mesa Karnak VD 26cm",
+   "b": "Centro de Mesa Karnak Vidro 26cm",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Copo Alto Casablanca VD 355ml",
+   "b": "Copo Alto Casablanca Vidro 355ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Becker Lava Roupa Versátil 3L + Multiuso 500ml",
+   "b": "Kit Becker Lava Roupa Versátil 3l Mais Multiuso 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Regina Com Sal PT 200g",
+   "b": "Manteiga Regina com Sal 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga D'Nata com Sal 500g",
+   "b": "Manteiga D'Nata Com Sal PT 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vassoura Condor V 35 Varre Fácil, V9 Varre Muito",
+   "b": "Vassoura Condor V35 Varre Fácil Ou V9 Varre Muito",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bowl Mere Quadrado VD 125ml",
+   "b": "Bowl Mere Quadrado Vidro 125ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Leite Bendito 200g",
+   "b": "Creme de Leite Bendito TP 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme Dental Colgate Total Original Mint tubo 220g",
+   "b": "Creme Dental Colgate Total Original Mint 220g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sobrecoxas Sadia Congeladas BDJ 1kg",
+   "b": "Sobrecoxas Sadia Congeladas Bandeja 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Capa de Contra Filé Fribev kg",
+   "b": "Capa De Contra Filé Fribev",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Adoçante Líquido Svili com Stévia 90ml",
+   "b": "Adoçante Líquido Svili Stévia 90ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Betânia Sabores 540g",
+   "b": "Bebida Láctea Betânia Sabores BDJ 540g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Po Powerlate SCH 700g",
+   "b": "Achocolatado em Pó Powerlate 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filtro de Papel São Braz 103 30un",
+   "b": "Filtro de Papel São Braz 102/103 30un",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido BRILHANTE 700ml Limpeza Total",
+   "b": "Lava Roupas Líquido Brilhante 700ml (Refil - Limpeza Total)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Copo Casablanca VD 415ml",
+   "b": "Copo Casablanca Vidro 415ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne de Sol Contra Filé KG",
+   "b": "Carne De Sol Contra Filé",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Becker Lava Roupa Versátil 3l Mais Multiuso 500ml",
+   "b": "Kit Becker Lava Roupas Versátil 3L + Multiuso 500ML",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Presunto de Peru Perdigão/Sadia Peça, Pedaço ou Fatiado kg",
+   "b": "Presunto de Peru Perdigão ou Sadia Peça Pedaço ou Fatiado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sobrecoxas Sadia Congeladas IQF 1kg",
+   "b": "Sobrecoxas Sadia Congeladas 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sobrecoxas Sadia Congeladas BDJ 1kg",
+   "b": "Sobrecoxas Sadia Congeladas 1kg",
+   "veredito": "mesmo"
+  }
+ ]
+}
