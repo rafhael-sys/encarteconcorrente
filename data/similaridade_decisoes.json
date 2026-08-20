@@ -24302,5 +24302,433 @@
   "veredito": "mesmo",
   "quando": "2026-08-19",
   "aplicado": true
+ },
+ "ovo livre de gaiola ou vermelho chico bento/omegas/caipira avine c/10 || ovo livre de gaiola ou vermelho chico bento/omegas3/caipira avine c/10": {
+  "a": "Ovo Livre de Gaiola ou Vermelho Chico Bento/Ômegas/Caipira Avine C/10",
+  "b": "Ovo Livre de Gaiola ou Vermelho Chico Bento/Ômegas3/Caipira Avine C/10",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "vassoura condor v 200 madri pop c/ cabo || vassoura condor v 200 madri pop com cabo": {
+  "a": "Vassoura Condor V 200 Madri Pop c/ Cabo",
+  "b": "Vassoura Condor V 200 Madri Pop com Cabo",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "salgados pingo nordestino mini sabores 400g || salgados pingo nordestino mini sabores pc 400g": {
+  "a": "Salgados Pingo Nordestino Mini Sabores PC 400g",
+  "b": "Salgados Pingo Nordestino Mini Sabores 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "filezinho sassami de frango seara congelado bandeja 1kg || filezinho sassami de frango seara congelado bdj 1kg": {
+  "a": "Filezinho Sassami de Frango Seara Congelado Bandeja 1kg",
+  "b": "Filezinho Sassami de Frango Seara Congelado BDJ 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "bebida lactea batclan sabores bdj 540g || bebida lactea clan sabores bdj 540g": {
+  "a": "Bebida Lactea Clan Sabores BDJ 540g",
+  "b": "Bebida Láctea Batclan Sabores BDJ 540g",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "contra file congelado maturatta || contra file congelado maturatta kg": {
+  "a": "Contra Filé Congelado Maturatta",
+  "b": "Contra Filé Congelado Maturatta kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "coxa e sobrecoxa de frango lar com dorsal congelada kg || coxas e sobrecoxas de frango lar com dorsal congeladas": {
+  "a": "Coxa e Sobrecoxa de Frango Lar com Dorsal Congelada kg",
+  "b": "Coxas e Sobrecoxas de Frango Lar com Dorsal Congeladas",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "fralda descartavel personal baby total protecao tamanhos || fralda descartavel personal baby total protect pants (tamanhos)": {
+  "a": "Fralda Descartável Personal Baby Total Protect Pants (Tamanhos)",
+  "b": "Fralda Descartável Personal Baby Total Proteção Tamanhos",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "laranja bahia importada || laranja bahia importada kg": {
+  "a": "Laranja Bahia Importada",
+  "b": "Laranja Bahia Importada kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "creme de leite piracanjuba 200g || creme de leite uht piracanjuba 200g": {
+  "a": "Creme de Leite Piracanjuba 200g",
+  "b": "Creme de Leite UHT Piracanjuba 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "frango a passarinho cancao 1kg || frango a passarinho iqf cancao 1kg": {
+  "a": "Frango a Passarinho Canção 1Kg",
+  "b": "Frango a Passarinho IQF Canção 1Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "cupim bovino maturatta || cupim bovino maturatta kg": {
+  "a": "Cupim Bovino Maturatta kg",
+  "b": "Cupim Bovino Maturatta",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "salsicha aurora hotdog || salsicha aurora hotdog kg": {
+  "a": "Salsicha Aurora Hotdog Kg",
+  "b": "Salsicha Aurora Hotdog",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "presunto aurora cozido || presunto aurora cozido kg": {
+  "a": "Presunto Aurora Cozido KG",
+  "b": "Presunto Aurora Cozido",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "pera d'anjou importada || pera d'anjou importada kg": {
+  "a": "Pera d'Anjou Importada",
+  "b": "Pera d'Anjou Importada kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "morango inteiro easychef cong 1,20kg || morango inteiro easychef congelado 1,20kg": {
+  "a": "Morango Inteiro Easychef Cong 1,20kg",
+  "b": "Morango Inteiro Easychef Congelado 1,20Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "patinho bovino resfriado a vacuo masterboi kg || peito bovino resfriado a vacuo masterboi kg": {
+  "a": "Peito Bovino Resfriado a Vácuo Masterboi kg",
+  "b": "Patinho Bovino Resfriado a Vácuo Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-20"
+ },
+ "batata palha scrunch sao braz 500g sabores || batata palha scrusch sao braz pct 500g sabores": {
+  "a": "Batata Palha Scrunch São Braz 500g Sabores",
+  "b": "Batata Palha Scrusch São Braz Pct 500g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa c/dorsal kg || coxa e sobrecoxa c/ dorsal kg": {
+  "a": "Coxa com Sobrecoxa c/Dorsal kg",
+  "b": "Coxa e Sobrecoxa C/ Dorsal Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "coxa e sobrecoxa c/ dorsal kg || coxa e sobrecoxa sem dorsal kg": {
+  "a": "Coxa e Sobrecoxa sem Dorsal kg",
+  "b": "Coxa e Sobrecoxa C/ Dorsal Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-20"
+ },
+ "carne bovina com osso paleta friboi reserva resfriada || carne bovina com osso paleta reserva resfriada": {
+  "a": "Carne Bovina com Osso Paleta Reserva Resfriada",
+  "b": "Carne Bovina com Osso Paleta Friboi Reserva Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "agua mineral ster bom sem gas 500ml || agua mineral sterbom com gas 500ml": {
+  "a": "Água Mineral Ster Bom Sem Gás 500ml",
+  "b": "Água Mineral Sterbom Com Gás 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-20"
+ },
+ "desodorante aero dove 89g || desodorante aerossol dove 89g": {
+  "a": "Desodorante Aero Dove 89g",
+  "b": "Desodorante Aerossol Dove 89g",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "tomate santa adelia, italiano e beterraba kg || tomate santa adelia, tomate italiano e beterraba kg": {
+  "a": "Tomate Santa Adélia, Tomate Italiano E Beterraba Kg",
+  "b": "Tomate Santa Adélia, Italiano e Beterraba kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "coxa e sobrecoxa c/ dorsal kg || coxa sobrecoxa s/dorsal kg": {
+  "a": "COXA SOBRECOXA S/DORSAL KG",
+  "b": "Coxa e Sobrecoxa C/ Dorsal Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-20"
+ },
+ "file de peito de frango levo alimentos bandeja 1kg || file de peito frango levo alimentos bdj 1kg": {
+  "a": "Filé de Peito Frango Levo Alimentos BDJ 1kg",
+  "b": "Filé de Peito de Frango Levo Alimentos Bandeja 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "creme para pentear baruel baby 150ml || creme pentear baruel baby 150ml": {
+  "a": "Creme Pentear Baruel Baby 150ml",
+  "b": "Creme Para Pentear Baruel Baby 150ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "carne bovina paleta porcionada friboi resfriada || carne bovina peito porcionado friboi resfriada": {
+  "a": "Carne Bovina Paleta Porcionada Friboi Resfriada",
+  "b": "Carne Bovina Peito Porcionado Friboi Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-20"
+ },
+ "carne bovina costela ripa friboi reserva resfriada || carne bovina costela ripa reserva resfriada": {
+  "a": "Carne Bovina Costela Ripa Reserva Resfriada",
+  "b": "Carne Bovina Costela Ripa Friboi Reserva Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "creme de pentear seda 300ml fragrancias || creme para pentear seda 300ml fragrancias": {
+  "a": "Creme para Pentear SEDA 300ml Fragrâncias",
+  "b": "Creme de Pentear Seda 300ml Fragrancias",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "queijo mussarela davaca fatiado, peca e pedaco || queijo mussarela domilac fatiado, peca e pedaco": {
+  "a": "Queijo Mussarela Domilac Fatiado, Peça e Pedaço",
+  "b": "Queijo Mussarela Davaca Fatiado, Peca E Pedaco",
+  "veredito": "diferente",
+  "quando": "2026-08-20"
+ },
+ "sanduiche paulista || sanduiche paulista kg": {
+  "a": "Sanduíche Paulista kg",
+  "b": "Sanduiche Paulista",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "macarrao de semola pena galo 500g || macarrao semolado pena galo 500g": {
+  "a": "Macarrão de Sêmola Pena Galo 500g",
+  "b": "Macarrão Semolado Pena Galo 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "meio da asa de frango resfriada || meio da asa de frango resfriado kg": {
+  "a": "Meio da Asa de Frango Resfriada",
+  "b": "Meio da Asa de Frango Resfriado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "fralda desc babysec ultra shortinho g c/22 || fralda descartavel babysec ultra shortinho g c/22": {
+  "a": "Fralda Desc Babysec Ultra Shortinho G c/22",
+  "b": "Fralda Descartável Babysec Ultra Shortinho G C/22",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "absorvente sempre livre adapt suave c/ abas leve 8 pague 7 || absorvente sempre livre adapt suave com abas leve + pague c/16": {
+  "a": "Absorvente SEMPRE LIVRE Adapt Suave com Abas Leve + Pague c/16",
+  "b": "Absorvente Sempre Livre Adapt Suave c/ Abas Leve 8 Pague 7",
+  "veredito": "diferente",
+  "quando": "2026-08-20"
+ },
+ "queijo coalho clan || queijo de coalho clan": {
+  "a": "Queijo Coalho Clan",
+  "b": "Queijo de Coalho Clan",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "desodorante em creme herbissimo 55g (bisnaga - fragrancias) || desodorante em creme herbissimo 55g (fragrancias)": {
+  "a": "Desodorante em Creme Herbissimo 55g (Bisnaga - Fragrâncias)",
+  "b": "Desodorante em Creme Herbíssimo 55g (Fragrâncias)",
+  "veredito": "diferente",
+  "quando": "2026-08-20"
+ },
+ "ovo livre de gaiola ou vermelho chico bento/omega3/caipira c/10 avine || ovo livre de gaiola ou vermelho chico bento/omegas3/caipira avine c/10": {
+  "a": "Ovo Livre de Gaiola ou Vermelho Chico Bento/Ômega3/Caipira C/10 Avine",
+  "b": "Ovo Livre de Gaiola ou Vermelho Chico Bento/Ômegas3/Caipira Avine C/10",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "goma de mandioca compadre ze 1kg || goma de tapioca compadre ze 1kg": {
+  "a": "Goma de Tapioca Compadre Zé 1kg",
+  "b": "Goma de Mandioca Compadre Zé 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "carne bovina coxao mole friboi reserva resfriada || carne bovina coxao mole reserva resfriada": {
+  "a": "Carne Bovina Coxão Mole Reserva Resfriada",
+  "b": "Carne Bovina Coxão Mole Friboi Reserva Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "fraldas pampers pants megapacotao p c/32, m c/30, g c/28, xg c/22, xxg c/20 ou xxxg c/20 || fraldas pampers pants megapacotao p e/12, m e/30, g e/28, xg e/22, xxg e/20 ou xxxg e/20": {
+  "a": "Fraldas Pampers Pants Megapacotão P c/32, M c/30, G c/28, XG c/22, XXG c/20 ou XXXG c/20",
+  "b": "Fraldas Pampers Pants Megapacotao P E/12, M E/30, G E/28, XG E/22, XXG E/20 Ou XXXG E/20",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "iogurte chambinho, chamyto ou ninho 300g || iogurte nestle chambinho, chamyto ou ninho 300g": {
+  "a": "Iogurte Chambinho, Chamyto ou Ninho 300g",
+  "b": "Iogurte Nestlé Chambinho, Chamyto ou Ninho 300g",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "ovos brancos grandes granja regina 30 unidades || ovos brancos grandes granja regina bandeja 30 unidades": {
+  "a": "Ovos Brancos Grandes Granja Regina bandeja 30 unidades",
+  "b": "Ovos Brancos Grandes Granja Regina 30 Unidades",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "fralda descartavel personal baby total protect pants || fralda descartavel personal baby total protect pants (tamanhos)": {
+  "a": "Fralda Descartável PERSONAL Baby Total Protect Pants",
+  "b": "Fralda Descartável Personal Baby Total Protect Pants (Tamanhos)",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "uva vitoria frazao 500g || uva vitoria frazao bdj 500g": {
+  "a": "Uva Vitória Frazão BDJ 500g",
+  "b": "Uva Vitória Frazão 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "coxa c/ sobrecoxa de frango bom todo 1kg (bandeja) || sobrecoxa de frango bom todo 1kg bandeja": {
+  "a": "Sobrecoxa de Frango BOM TODO 1kg Bandeja",
+  "b": "Coxa C/ Sobrecoxa de Frango Bom Todo 1kg (Bandeja)",
+  "veredito": "diferente",
+  "quando": "2026-08-20"
+ },
+ "oleo de girassol / canola soya 900ml || oleo de girassol ou canola soya tb 900ml": {
+  "a": "Óleo de Girassol ou Canola Soya tb 900ml",
+  "b": "Oleo de Girassol / Canola Soya 900ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "costela bovina pa || costela bovina pa kg": {
+  "a": "Costela Bovina PA KG",
+  "b": "Costela Bovina Pá",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "contra file congelado maturatta kg || contra file congelado maturatta kgong kg": {
+  "a": "Contra Filé Congelado Maturatta Kgong kg",
+  "b": "Contra Filé Congelado Maturatta kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "bebida lactea batclan sache 900g (sabores) || bebida lactea clan sc 900g sabores": {
+  "a": "Bebida Lactea Clan SC 900g Sabores",
+  "b": "Bebida Láctea Batclan Sachê 900g (sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "achocolatado em po chocolatto 200g || achocolatado em po chocolatto sache 200g": {
+  "a": "Achocolatado em Pó Chocolatto 200g",
+  "b": "Achocolatado em Pó Chocolatto Sachê 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "absorvente naturalmente max com 10un com abas || absorvente naturalmente max com 10un noturno com abas": {
+  "a": "Absorvente Naturalmente Max com 10un com Abas",
+  "b": "Absorvente Naturalmente Max Com 10un Noturno Com Abas",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "peito de frango congelado kg || peito de frango congelado real kg": {
+  "a": "Peito de Frango Congelado kg",
+  "b": "Peito De Frango Congelado Real Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-20"
+ },
+ "acem bovino resfriado a vacuo masterboi kg || peito bovino resfriado a vacuo masterboi kg": {
+  "a": "Peito Bovino Resfriado a Vácuo Masterboi kg",
+  "b": "Acém Bovino Resfriado a Vácuo Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-20"
+ },
+ "salsicha aurora hot dog kg || salsicha aurora hotdog": {
+  "a": "Salsicha Aurora Hot Dog Kg",
+  "b": "Salsicha Aurora Hotdog",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "cafe soluvel santa clara classico/extra forte refil 40g || cafe soluvel santa clara classico/extraforte sache 40g": {
+  "a": "Café Solúvel Santa Clara Clássico/Extra Forte Refil 40g",
+  "b": "Café Solúvel Santa Clara Clássico/Extraforte Sachê 40g",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "leite em po gloria desnatado 260g || leite em po gloria desnatado sache 260g": {
+  "a": "Leite em Pó Glória Desnatado 260g",
+  "b": "Leite em Pó Glória Desnatado Sachê 260G",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "condicionador elseve varios tipos frasco com 400ml || condicionador ox varios tipos frasco com 400ml": {
+  "a": "Condicionador OX Vários tipos Frasco com 400ml",
+  "b": "Condicionador Elseve Varios Tipos Frasco com 400ml",
+  "veredito": "diferente",
+  "quando": "2026-08-20"
+ },
+ "lava roupas liquido omo ciclo acao antiodor rapido 750ml || lava roupas liquido omo ciclo acao total rapido 750ml": {
+  "a": "Lava Roupas Líquido Omo Ciclo Ação Total Rápido 750ml",
+  "b": "Lava Roupas Líquido Omo Ciclo Ação Antiodor Rápido 750ml",
+  "veredito": "diferente",
+  "quando": "2026-08-20"
+ },
+ "adocante liq sadio 100ml c/stevia ou c/sucralose || adocante liquido sadio 100ml stevia ou sucralose": {
+  "a": "Adoçante Líq Sadio 100ml c/Stevia ou c/Sucralose",
+  "b": "Adoçante Líquido Sadio 100ml Stevia Ou Sucralose",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "biscoito recheado passatempo pct 130g || biscoitos recheados passatempo 130g": {
+  "a": "Biscoito Recheado Passatempo pct 130g",
+  "b": "Biscoitos Recheados Passatempo 130g",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
+ },
+ "creme facial nivea 50g || creme facial nivea q10 50g": {
+  "a": "Creme Facial Nívea 50g",
+  "b": "Creme Facial Nivea Q10 50g",
+  "veredito": "mesmo",
+  "quando": "2026-08-20",
+  "aplicado": true
  }
 }

@@ -1,0 +1,319 @@
+{
+ "validacoes": [
+  {
+   "a": "Ovo Livre de Gaiola ou Vermelho Chico Bento/Ômegas/Caipira Avine C/10",
+   "b": "Ovo Livre de Gaiola ou Vermelho Chico Bento/Ômegas3/Caipira Avine C/10",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vassoura Condor V 200 Madri Pop c/ Cabo",
+   "b": "Vassoura Condor V 200 Madri Pop com Cabo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salgados Pingo Nordestino Mini Sabores PC 400g",
+   "b": "Salgados Pingo Nordestino Mini Sabores 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho Sassami de Frango Seara Congelado Bandeja 1kg",
+   "b": "Filezinho Sassami de Frango Seara Congelado BDJ 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Lactea Clan Sabores BDJ 540g",
+   "b": "Bebida Láctea Batclan Sabores BDJ 540g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Contra Filé Congelado Maturatta",
+   "b": "Contra Filé Congelado Maturatta kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa e Sobrecoxa de Frango Lar com Dorsal Congelada kg",
+   "b": "Coxas e Sobrecoxas de Frango Lar com Dorsal Congeladas",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Descartável Personal Baby Total Protect Pants (Tamanhos)",
+   "b": "Fralda Descartável Personal Baby Total Proteção Tamanhos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Laranja Bahia Importada",
+   "b": "Laranja Bahia Importada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Leite Piracanjuba 200g",
+   "b": "Creme de Leite UHT Piracanjuba 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango a Passarinho Canção 1Kg",
+   "b": "Frango a Passarinho IQF Canção 1Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cupim Bovino Maturatta kg",
+   "b": "Cupim Bovino Maturatta",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Aurora Hotdog Kg",
+   "b": "Salsicha Aurora Hotdog",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Presunto Aurora Cozido KG",
+   "b": "Presunto Aurora Cozido",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pera d'Anjou Importada",
+   "b": "Pera d'Anjou Importada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Morango Inteiro Easychef Cong 1,20kg",
+   "b": "Morango Inteiro Easychef Congelado 1,20Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito Bovino Resfriado a Vácuo Masterboi kg",
+   "b": "Patinho Bovino Resfriado a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Palha Scrunch São Braz 500g Sabores",
+   "b": "Batata Palha Scrusch São Braz Pct 500g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa c/Dorsal kg",
+   "b": "Coxa e Sobrecoxa C/ Dorsal Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa e Sobrecoxa sem Dorsal kg",
+   "b": "Coxa e Sobrecoxa C/ Dorsal Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina com Osso Paleta Reserva Resfriada",
+   "b": "Carne Bovina com Osso Paleta Friboi Reserva Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Mineral Ster Bom Sem Gás 500ml",
+   "b": "Água Mineral Sterbom Com Gás 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Aero Dove 89g",
+   "b": "Desodorante Aerossol Dove 89g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Tomate Santa Adélia, Tomate Italiano E Beterraba Kg",
+   "b": "Tomate Santa Adélia, Italiano e Beterraba kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "COXA SOBRECOXA S/DORSAL KG",
+   "b": "Coxa e Sobrecoxa C/ Dorsal Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito Frango Levo Alimentos BDJ 1kg",
+   "b": "Filé de Peito de Frango Levo Alimentos Bandeja 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme Pentear Baruel Baby 150ml",
+   "b": "Creme Para Pentear Baruel Baby 150ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Paleta Porcionada Friboi Resfriada",
+   "b": "Carne Bovina Peito Porcionado Friboi Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Costela Ripa Reserva Resfriada",
+   "b": "Carne Bovina Costela Ripa Friboi Reserva Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme para Pentear SEDA 300ml Fragrâncias",
+   "b": "Creme de Pentear Seda 300ml Fragrancias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Domilac Fatiado, Peça e Pedaço",
+   "b": "Queijo Mussarela Davaca Fatiado, Peca E Pedaco",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sanduíche Paulista kg",
+   "b": "Sanduiche Paulista",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão de Sêmola Pena Galo 500g",
+   "b": "Macarrão Semolado Pena Galo 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Meio da Asa de Frango Resfriada",
+   "b": "Meio da Asa de Frango Resfriado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Desc Babysec Ultra Shortinho G c/22",
+   "b": "Fralda Descartável Babysec Ultra Shortinho G C/22",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente SEMPRE LIVRE Adapt Suave com Abas Leve + Pague c/16",
+   "b": "Absorvente Sempre Livre Adapt Suave c/ Abas Leve 8 Pague 7",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Coalho Clan",
+   "b": "Queijo de Coalho Clan",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante em Creme Herbissimo 55g (Bisnaga - Fragrâncias)",
+   "b": "Desodorante em Creme Herbíssimo 55g (Fragrâncias)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovo Livre de Gaiola ou Vermelho Chico Bento/Ômega3/Caipira C/10 Avine",
+   "b": "Ovo Livre de Gaiola ou Vermelho Chico Bento/Ômegas3/Caipira Avine C/10",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Goma de Tapioca Compadre Zé 1kg",
+   "b": "Goma de Mandioca Compadre Zé 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Mole Reserva Resfriada",
+   "b": "Carne Bovina Coxão Mole Friboi Reserva Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fraldas Pampers Pants Megapacotão P c/32, M c/30, G c/28, XG c/22, XXG c/20 ou XXXG c/20",
+   "b": "Fraldas Pampers Pants Megapacotao P E/12, M E/30, G E/28, XG E/22, XXG E/20 Ou XXXG E/20",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Iogurte Chambinho, Chamyto ou Ninho 300g",
+   "b": "Iogurte Nestlé Chambinho, Chamyto ou Ninho 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Brancos Grandes Granja Regina bandeja 30 unidades",
+   "b": "Ovos Brancos Grandes Granja Regina 30 Unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Descartável PERSONAL Baby Total Protect Pants",
+   "b": "Fralda Descartável Personal Baby Total Protect Pants (Tamanhos)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Vitória Frazão BDJ 500g",
+   "b": "Uva Vitória Frazão 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sobrecoxa de Frango BOM TODO 1kg Bandeja",
+   "b": "Coxa C/ Sobrecoxa de Frango Bom Todo 1kg (Bandeja)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Óleo de Girassol ou Canola Soya tb 900ml",
+   "b": "Oleo de Girassol / Canola Soya 900ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Bovina PA KG",
+   "b": "Costela Bovina Pá",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Contra Filé Congelado Maturatta Kgong kg",
+   "b": "Contra Filé Congelado Maturatta kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Lactea Clan SC 900g Sabores",
+   "b": "Bebida Láctea Batclan Sachê 900g (sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó Chocolatto 200g",
+   "b": "Achocolatado em Pó Chocolatto Sachê 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Naturalmente Max com 10un com Abas",
+   "b": "Absorvente Naturalmente Max Com 10un Noturno Com Abas",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito de Frango Congelado kg",
+   "b": "Peito De Frango Congelado Real Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito Bovino Resfriado a Vácuo Masterboi kg",
+   "b": "Acém Bovino Resfriado a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Salsicha Aurora Hot Dog Kg",
+   "b": "Salsicha Aurora Hotdog",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Solúvel Santa Clara Clássico/Extra Forte Refil 40g",
+   "b": "Café Solúvel Santa Clara Clássico/Extraforte Sachê 40g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite em Pó Glória Desnatado 260g",
+   "b": "Leite em Pó Glória Desnatado Sachê 260G",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Condicionador OX Vários tipos Frasco com 400ml",
+   "b": "Condicionador Elseve Varios Tipos Frasco com 400ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas Líquido Omo Ciclo Ação Total Rápido 750ml",
+   "b": "Lava Roupas Líquido Omo Ciclo Ação Antiodor Rápido 750ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Adoçante Líq Sadio 100ml c/Stevia ou c/Sucralose",
+   "b": "Adoçante Líquido Sadio 100ml Stevia Ou Sucralose",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Recheado Passatempo pct 130g",
+   "b": "Biscoitos Recheados Passatempo 130g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme Facial Nívea 50g",
+   "b": "Creme Facial Nivea Q10 50g",
+   "veredito": "mesmo"
+  }
+ ]
+}
