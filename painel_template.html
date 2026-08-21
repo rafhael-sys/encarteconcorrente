@@ -137,6 +137,12 @@
   .rhead b{color:var(--text)}
   .rhint{margin-left:8px;color:var(--green);font-weight:500;font-size:13.5px}
   .rhint:hover{text-decoration:underline}
+  /* pré-filtro de período (Expirados e Incidência) */
+  .fltper{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:0 0 16px;font-size:13px;color:var(--text-3)}
+  .fchip{border:1px solid var(--border);border-radius:999px;padding:8px 15px;font-size:13px;font-weight:500;color:var(--text-2);background:var(--bg);white-space:nowrap}
+  .fchip:hover{border-color:var(--border-strong)}
+  .fchip.on{background:var(--green);border-color:var(--green);color:#fff}
+  .fltper + .seg-title{margin-top:2px}
   .rcard{border:1px solid var(--border);border-radius:var(--radius);background:var(--bg);overflow:hidden;margin-bottom:14px}
   .rcard-h{
     width:100%;display:flex;align-items:center;gap:12px;padding:13px 16px;text-align:left;
@@ -475,11 +481,15 @@ const isActive = a => status(a) !== 'off';
 // expirados só aparecem no painel (grade, contadores E busca) por 30 dias;
 // o histórico de preços deles continua íntegro na Incidência, que não usa este corte
 const naJanela = a => a.fim >= dISO(new Date(Date.now() - 30*864e5));
+// pré-filtro de período: encarte que esteve no ar nos últimos N dias
+const dentroPeriodo = a => !periodo || a.fim >= dISO(new Date(Date.now() - periodo*864e5));
 const linkDe = a => a.lk || `https://www.instagram.com/p/${a.sc}/`;
 const initials = b => b.split(/\s+/).filter(w=>w.length>2 || /^[A-Z]/.test(w)).slice(0,2).map(w=>w[0]).join('').toUpperCase();
 const SEGS = [['propria','Rede Mais — sua rede'],['varejo','Varejo'],['atacarejo','Atacarejo']];
 
 let tab = 'on';          // 'on' = ativos, 'off' = expirados
+let tabAnterior = tab;
+let periodo = 0;         // pré-filtro de período: 0 = sem filtro; 7, 15 ou 30 dias
 let query = '';
 
 /* ---------- saúde das fontes ---------- */
@@ -558,16 +568,26 @@ function dedupeOcc(occ){
   return kept;
 }
 
-const RANK = CANON.map(c => {
-  const occ = dedupeOcc(c.m.map(k => RES[k]).filter(Boolean));
-  const ps = occ.map(o => priceNum(o.prod.p)).filter(v => v > 0).sort((x,y) => x-y);
-  const freq = {}; ps.forEach(v => freq[v] = (freq[v]||0) + 1);
-  const mode = ps.length ? +Object.entries(freq).sort((a,b) => b[1]-a[1] || a[0]-b[0])[0][0] : 0;
-  return { c, occ, nEnc: new Set(occ.map(o => o.a.id)).size,
-           banners: [...new Set(occ.map(o => o.a.banner))],
-           min: ps[0]||0, max: ps[ps.length-1]||0, mode };
-}).filter(r => r.occ.length)
-  .sort((a,b) => b.nEnc - a.nEnc || b.occ.length - a.occ.length || a.c.n.localeCompare(b.c.n));
+function montaRank(dentro){
+  return CANON.map(c => {
+    const occ = dedupeOcc(c.m.map(k => RES[k]).filter(o => o && dentro(o.a)));
+    const ps = occ.map(o => priceNum(o.prod.p)).filter(v => v > 0).sort((x,y) => x-y);
+    const freq = {}; ps.forEach(v => freq[v] = (freq[v]||0) + 1);
+    const mode = ps.length ? +Object.entries(freq).sort((a,b) => b[1]-a[1] || a[0]-b[0])[0][0] : 0;
+    return { c, occ, nEnc: new Set(occ.map(o => o.a.id)).size,
+             banners: [...new Set(occ.map(o => o.a.banner))],
+             min: ps[0]||0, max: ps[ps.length-1]||0, mode };
+  }).filter(r => r.occ.length)
+    .sort((a,b) => b.nEnc - a.nEnc || b.occ.length - a.occ.length || a.c.n.localeCompare(b.c.n));
+}
+const RANK = montaRank(() => true);
+// o ranking de um período só é calculado quando você pede — e fica guardado
+const RANKS = {};
+function rankAtual(){
+  if(!periodo) return RANK;
+  if(!RANKS[periodo]) RANKS[periodo] = montaRank(dentroPeriodo);
+  return RANKS[periodo];
+}
 let rankShown = 100;
 
 /* ---------- aba preços agressivos ---------- */
@@ -621,13 +641,32 @@ function renderAgr(main){
   });
 }
 
+/* ---------- pré-filtro de período (Expirados e Incidência) ----------
+   nasce desligado; clicar no chip ativo desliga */
+function chipsPeriodo(){
+  const w = document.createElement('div'); w.className = 'fltper';
+  w.innerHTML = '<span>Últimos</span>' + [7, 15, 30].map(d =>
+    `<button class="fchip${periodo === d ? ' on' : ''}" data-d="${d}" aria-pressed="${periodo === d}">${d} dias${periodo === d ? ' ✕' : ''}</button>`).join('');
+  w.querySelectorAll('.fchip').forEach(b => b.addEventListener('click', () => {
+    const d = +b.dataset.d;
+    periodo = periodo === d ? 0 : d;
+    rankShown = 100;
+    render();
+  }));
+  return w;
+}
+
 /* ---------- render ---------- */
 function render(){
   atualizaChip();
+  // o pré-filtro de período nasce desligado toda vez que você entra na aba
+  if(tab !== tabAnterior){ periodo = 0; tabAnterior = tab; }
   const main = $('main');
-  const inTab = ACTIONS.filter(a => (tab==='on') === isActive(a) && (tab==='on' || naJanela(a)));
-  $('tabOn').textContent  = `Vigentes (${ACTIONS.filter(isActive).length})`;
-  $('tabOff').textContent = `Expirados (${ACTIONS.filter(a=>!isActive(a) && naJanela(a)).length})`;
+  const vigentes  = ACTIONS.filter(isActive);
+  const expirados = ACTIONS.filter(a => !isActive(a) && naJanela(a));
+  const inTab = tab==='on' ? vigentes : expirados.filter(dentroPeriodo);
+  $('tabOn').textContent  = `Vigentes (${vigentes.length})`;
+  $('tabOff').textContent = `Expirados (${(tab==='off' ? inTab : expirados).length})`;
   $('tabOn').setAttribute('aria-selected', tab==='on');
   $('tabOff').setAttribute('aria-selected', tab==='off');
   $('tabRank').setAttribute('aria-selected', tab==='rank');
@@ -645,6 +684,8 @@ function render(){
   }
 
   main.innerHTML = '';
+  if(tab === 'off') main.appendChild(chipsPeriodo());
+  const antes = main.children.length;
   // Rede Mais no topo; abaixo todos os concorrentes juntos (varejo e
   // atacarejo misturados), do mais novo ao mais antigo — ordem vinda dos dados
   [['propria','Rede Mais — sua rede'], [null,'Concorrentes']].forEach(([seg, label]) => {
@@ -655,8 +696,13 @@ function render(){
     list.forEach(a => g.appendChild(card(a)));
     main.appendChild(g);
   });
-  if(!main.children.length)
-    main.innerHTML = `<div class="empty">Nenhum encarte ${tab==='on'?'vigente':'expirado'} no momento.</div>`;
+  if(main.children.length === antes){
+    const e = document.createElement('div'); e.className = 'empty';
+    e.textContent = tab==='on' ? 'Nenhum encarte vigente no momento.'
+      : periodo ? `Nenhum encarte expirado nos últimos ${periodo} dias.`
+      : 'Nenhum encarte expirado no momento.';
+    main.appendChild(e);
+  }
 }
 
 function card(a){
@@ -707,11 +753,14 @@ function renderSearch(main, inTab){
   const exato = ACTIONS.some(a => norm(a.banner) === qNorm);
   const casaBanner = a => exato ? norm(a.banner) === qNorm : matches(norm(a.banner), query);
   const bannerHits = inTab.filter(casaBanner);
-  const bannerOther = ACTIONS.filter(a => !inTabIds.has(a.id) && naJanela(a)
-    && casaBanner(a)).length;
-  const other = hits.length - shown.length + bannerOther;
+  // "+N na outra aba" conta só a aba oposta: o que o pré-filtro de período
+  // esconde não pode virar promessa de resultado em outro lugar
+  const outraAba = a => isActive(a) !== (tab === 'on');
+  const bannerOther = ACTIONS.filter(a => outraAba(a) && naJanela(a) && casaBanner(a)).length;
+  const other = hits.filter(h => outraAba(h.a)).length + bannerOther;
 
   main.innerHTML = '';
+  if(tab === 'off') main.appendChild(chipsPeriodo());
   if(bannerHits.length){
     const t = document.createElement('div'); t.className = 'seg-title';
     t.textContent = 'Encartes de ' + [...new Set(bannerHits.map(a => a.banner))].join(' · ');
@@ -796,10 +845,12 @@ const compBadge = ci => !ci ? '' :
   `<span class="kbadge lose">você +${fmtPct(ci.gap)}</span>`;
 
 function renderRank(main){
+  const base = rankAtual();
   const rows = query.length >= 2
-    ? RANK.filter(r => matches(norm(r.c.n), query) || r.occ.some(o => matches(norm(o.prod.n), query)))
-    : RANK;
+    ? base.filter(r => matches(norm(r.c.n), query) || r.occ.some(o => matches(norm(o.prod.n), query)))
+    : base;
   main.innerHTML = '';
+  main.appendChild(chipsPeriodo());
   const head = document.createElement('div'); head.className = 'rhead';
   head.innerHTML = `<b>${rows.length}</b> produto${rows.length===1?'':'s'}, do que mais sai em encarte para o que menos sai`
     + (query.length >= 2 ? ` — filtrado por “<b>${esc(query)}</b>”` : '');
@@ -808,10 +859,12 @@ function renderRank(main){
 
   if(!rows.length){
     const e = document.createElement('div'); e.className = 'empty';
-    e.innerHTML = `Nenhum produto com “<b>${esc(query)}</b>”.`;
+    e.innerHTML = query.length >= 2
+      ? `Nenhum produto com “<b>${esc(query)}</b>”.`
+      : periodo ? `Nenhum produto nos últimos ${periodo} dias.` : 'Nenhum produto no histórico.';
     main.appendChild(e); return;
   }
-  rows.slice(0, rankShown).forEach(r => main.appendChild(krow(r, RANK.indexOf(r) + 1)));
+  rows.slice(0, rankShown).forEach(r => main.appendChild(krow(r, base.indexOf(r) + 1)));
   if(rows.length > rankShown){
     const m = document.createElement('button'); m.className = 'kmore';
     m.textContent = `Mostrar mais ${Math.min(150, rows.length - rankShown)} produtos`;
