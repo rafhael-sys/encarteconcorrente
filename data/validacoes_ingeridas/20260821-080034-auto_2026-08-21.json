@@ -1,0 +1,309 @@
+{
+ "validacoes": [
+  {
+   "a": "Uva Vitória Sem Semente Seleção Mimo Bandeja 400g",
+   "b": "Uva Vitória sem Sementes Seleção Mimo Bandeja 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Vitória Sem Semente Turma da Mônica Bandeja 250g",
+   "b": "Uva Vitória sem Sementes Turma da Mônica Bandeja 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Vermelha Sem Semente Seleta Bandeja 500g",
+   "b": "Uva Vermelha sem Sementes Seleta Bandeja 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Verde Sem Semente Seleta Bandeja 500g",
+   "b": "Uva Verde sem Sementes Seleta Bandeja 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Capa de Contra Filé Congelada",
+   "b": "Carne Bovina Capa de Contra Filé Congelado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peixe Panga Pescados da Cruz Congelado 800g",
+   "b": "Filé de Peixe Panga Pescados da Cruz Congelado PC 800G",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bombom Garoto Sortido Caixa 220g",
+   "b": "Bombom Garoto Sortido Caixeta 220g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerossol Dove Várias fragrâncias Frasco com 200ml",
+   "b": "Desodorante Aerossol Dove Várias Fragrâncias Frasco 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Velud Folha dupla 30m Pacote com 12 rolos",
+   "b": "Papel Higiênico Velud Folha Dupla 30m Pacote 12 Rolos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Suína Frimesa Serrada Kg Congelada",
+   "b": "Costela Suína Frimesa Serrada Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Original/Zero Pet com 2L",
+   "b": "Refrigerante Guaraná Antarctica Original/Zero Pet 2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Andorinha Extra Virgem Vidro com 500ml",
+   "b": "Azeite de Oliva Andorinha Extra Virgem Vidro 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mistura de Creme de Leite Mococa cx 200g",
+   "b": "Mistura de Creme de Leite Mococa 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mistura Láctea Condensada Mococa 395g",
+   "b": "Mistura Láctea Condensada Mococa Cx 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "File de Peito de Frango Lar Congelado Bandeja com 1kg",
+   "b": "Filé de Peito de Frango Lar Congelado Bandeja 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém ou Paleta com Osso kg",
+   "b": "Carne Bovina Acém ou Paleta com Osso",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Contra Filé Resfriado kg",
+   "b": "Carne Bovina Contra Filé Resfriado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Multiuso Veja Original Frasco com 500ml",
+   "b": "Limpador Multiuso Veja Original Frasco 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite em Pó Betânia 750g (Integral)",
+   "b": "Leite em Pó Betânia SH 750g Integral",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Santa Clara Almofada/Vácuo Pacote com 250g",
+   "b": "Café Santa Clara Almofada/Vácuo Pacote 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Moça Semidesnatado TP com 395g",
+   "b": "Leite Condensado Moça Semidesnatado TP 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Suco de Uva OQ Integral Tinto Garrafa com 1,5L",
+   "b": "Suco de Uva OQ Integral Tinto Garrafa 1,5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Lar BDJ 1kg",
+   "b": "Filé de Peito Frango Lar Bdj 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Suína Churrasco Saudali kg",
+   "b": "Linguiça Suína Churrasco Saudali",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Leite Piracanjuba 200g",
+   "b": "Creme de Leite Piracanjuba Cx 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Branco Grande PVC Bandeja com 30 unidades",
+   "b": "Ovo Branco Grande Bandeja com 30 Unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pera Importada Ou Limão Siciliano",
+   "b": "Pera Importada / Limão Siciliano",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Meio da Asa Bom Todo Resfriada Kg",
+   "b": "Meio da Asa Bom Todo Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ketchup Cepêra Minissachê Caixeta com 154x7g",
+   "b": "Ketchup Cepêra Minissachê Caixeta 154x7g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Tempero Sazón Vários sabores Pacote com 60g",
+   "b": "Tempero Sazón Vários Sabores Pacote 60g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pão de Queijo Mineiro Queiroz kg",
+   "b": "Pão de Queijo Mineiro Queiroz",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mistura Láctea Condensada Mococa Cx 395g",
+   "b": "Mistura Láctea Condensada Mococa TP 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bombom Lacta Sortidos 131,4g",
+   "b": "Bombom Lacta Sortidos Cx 131,4g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Capa de File Resfriada kg a Vacuo",
+   "b": "Carne Bovina Capa de Filé Resfriado à Vácuo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Farina Pacote com 1kg",
+   "b": "Farinha de Trigo Farina Pacote 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Verde sem Sementes Seleta Bandeja 500g",
+   "b": "Uva Vermelha sem Sementes Seleta Bandeja 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "COXA SOBRECOXA S/DORSAL KG",
+   "b": "Coxa Sobrecoxa s/Dorsal",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Itaipava Malzbier Long Neck 330ml",
+   "b": "Cerveja Itaipava Malzbier L.Neck 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha Panko Alfa 1kg",
+   "b": "Farinha Panko Alfa PC 1KG",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pudim de Leite Queiroz Kg",
+   "b": "Pudim de Leite Queiroz",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerossol Dove Fragrâncias Frasco 200ml",
+   "b": "Desodorante Aerossol Dove Várias Fragrâncias Frasco 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Original Ou Zero 2L",
+   "b": "Refrigerante Guaraná Antarctica Original/Zero Pet 2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Líquido Atol Vários Tipos Frasco 500ml",
+   "b": "Detergente Líquido Minuano Vários Tipos Frasco 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovo Branco Grande PVC Bandeja com 20 unidades",
+   "b": "Ovo Branco Grande Bandeja com 30 Unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva Vermelha Sem Semente Seleta Bandeja 500g",
+   "b": "Uva Verde sem Sementes Seleta Bandeja 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bolo Delícia Queiroz kg",
+   "b": "Bolo Delícia Queiroz",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Verde Sem Semente Seleta Bandeja 500g",
+   "b": "Uva Vermelha sem Sementes Seleta Bandeja 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Detergente Líquido Minuano Vários Tipos 500ml",
+   "b": "Detergente Líquido Minuano Vários Tipos Frasco 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão Instantâneo Nissin Lámen Sabores 85g",
+   "b": "Macarrão Instantâneo Nissin Lámen Vários Sabores 85g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Seara Congelado Bandeja com 1kg",
+   "b": "Filé de Peito de Frango Lar Congelado Bandeja 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Meio da Asa Bom Todo Resfriado KG",
+   "b": "Meio da Asa Bom Todo Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Filadélfia Grande Branco com 30 Und",
+   "b": "Ovos Filadélfia Grande Branco C/30",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito De Frango Congelado Real Kg",
+   "b": "Peito de Frango Cong Real kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mini Coxinha Felitá Chef 300g (Tradicional/Com Requeijão)",
+   "b": "Mini Kibe Felitá Chef 300g (Tradicional/Com Requeijão)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "CERV IMPERIO ULTRA LT 269ML",
+   "b": "Cerveja Império Ultra Lata 269ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Embutido de Peito de Frango Aurora Bem Leve",
+   "b": "Embutido de Peito de Frango Aurora Bem Leve Fatiado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Multiuso Becker Vários tipos Frasco com 500ml",
+   "b": "Limpador Multiuso Uau Varios Tipos Frasco com 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Lar IQF 1kg",
+   "b": "Filé de Peito de Frango Lar BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pernil Suíno com Osso Resfriado Reserva",
+   "b": "Pernil Suíno sem Osso Resfriado Reserva kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bombom AMOR CARIOCA 200g Sabores",
+   "b": "Bombom Amor Carioca Caixa 200g (sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pão de Forma Cadice Integral ou Integral Zero Açúcar 400G",
+   "b": "Pão de Forma Cadice Integral ou Zero Açúcar 400g",
+   "veredito": "mesmo"
+  }
+ ]
+}

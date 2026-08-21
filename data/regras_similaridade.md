@@ -3710,3 +3710,64 @@
 - MESMO: «Tomate Santa Adélia, Tomate Italiano E Beterraba Kg» == «Tomate Santa Adélia, Italiano e Beterraba kg»
 - MESMO: «Uva Vitória Frazão BDJ 500g» == «Uva Vitória Frazão 500g»
 - MESMO: «Vassoura Condor V 200 Madri Pop c/ Cabo» == «Vassoura Condor V 200 Madri Pop com Cabo»
+- MESMO: «Azeite de Oliva Andorinha Extra Virgem Vidro com 500ml» == «Azeite de Oliva Andorinha Extra Virgem Vidro 500ml»
+- MESMO: «Bolo Delícia Queiroz kg» == «Bolo Delícia Queiroz»
+- MESMO: «Bombom AMOR CARIOCA 200g Sabores» == «Bombom Amor Carioca Caixa 200g (sabores)»
+- MESMO: «Bombom Garoto Sortido Caixa 220g» == «Bombom Garoto Sortido Caixeta 220g»
+- MESMO: «Bombom Lacta Sortidos 131,4g» == «Bombom Lacta Sortidos Cx 131,4g»
+- MESMO: «Café Santa Clara Almofada/Vácuo Pacote com 250g» == «Café Santa Clara Almofada/Vácuo Pacote 250g»
+- MESMO: «Carne Bovina Acém ou Paleta com Osso kg» == «Carne Bovina Acém ou Paleta com Osso»
+- MESMO: «Carne Bovina Capa de Contra Filé Congelada» == «Carne Bovina Capa de Contra Filé Congelado»
+- MESMO: «Carne Bovina Capa de File Resfriada kg a Vacuo» == «Carne Bovina Capa de Filé Resfriado à Vácuo»
+- MESMO: «Carne Bovina Contra Filé Resfriado kg» == «Carne Bovina Contra Filé Resfriado»
+- MESMO: «CERV IMPERIO ULTRA LT 269ML» == «Cerveja Império Ultra Lata 269ml»
+- MESMO: «Cerveja Itaipava Malzbier Long Neck 330ml» == «Cerveja Itaipava Malzbier L.Neck 330ml»
+- MESMO: «Costela Suína Frimesa Serrada Kg Congelada» == «Costela Suína Frimesa Serrada Congelada»
+- MESMO: «COXA SOBRECOXA S/DORSAL KG» == «Coxa Sobrecoxa s/Dorsal»
+- MESMO: «Creme de Leite Piracanjuba 200g» == «Creme de Leite Piracanjuba Cx 200g»
+- MESMO: «Desodorante Aerossol Dove Fragrâncias Frasco 200ml» == «Desodorante Aerossol Dove Várias Fragrâncias Frasco 200ml»
+- MESMO: «Desodorante Aerossol Dove Várias fragrâncias Frasco com 200ml» == «Desodorante Aerossol Dove Várias Fragrâncias Frasco 200ml»
+- DIFERENTES: «Detergente Líquido Atol Vários Tipos Frasco 500ml» != «Detergente Líquido Minuano Vários Tipos Frasco 500ml»
+- MESMO: «Detergente Líquido Minuano Vários Tipos 500ml» == «Detergente Líquido Minuano Vários Tipos Frasco 500ml»
+- MESMO: «Embutido de Peito de Frango Aurora Bem Leve» == «Embutido de Peito de Frango Aurora Bem Leve Fatiado»
+- MESMO: «Farinha de Trigo Farina Pacote com 1kg» == «Farinha de Trigo Farina Pacote 1kg»
+- MESMO: «Farinha Panko Alfa 1kg» == «Farinha Panko Alfa PC 1KG»
+- DIFERENTES: «Filé de Peito de Frango Lar IQF 1kg» != «Filé de Peito de Frango Lar BDJ 1kg»
+- MESMO: «Filé de Peito de Frango Lar BDJ 1kg» == «Filé de Peito Frango Lar Bdj 1kg»
+- MESMO: «File de Peito de Frango Lar Congelado Bandeja com 1kg» == «Filé de Peito de Frango Lar Congelado Bandeja 1kg»
+- DIFERENTES: «Filé de Peito de Frango Seara Congelado Bandeja com 1kg» != «Filé de Peito de Frango Lar Congelado Bandeja 1kg»
+- MESMO: «Filé de Peixe Panga Pescados da Cruz Congelado 800g» == «Filé de Peixe Panga Pescados da Cruz Congelado PC 800G»
+- MESMO: «Ketchup Cepêra Minissachê Caixeta com 154x7g» == «Ketchup Cepêra Minissachê Caixeta 154x7g»
+- MESMO: «Leite Condensado Moça Semidesnatado TP com 395g» == «Leite Condensado Moça Semidesnatado TP 395g»
+- MESMO: «Leite em Pó Betânia 750g (Integral)» == «Leite em Pó Betânia SH 750g Integral»
+- DIFERENTES: «Limpador Multiuso Becker Vários tipos Frasco com 500ml» != «Limpador Multiuso Uau Varios Tipos Frasco com 500ml»
+- MESMO: «Limpador Multiuso Veja Original Frasco com 500ml» == «Limpador Multiuso Veja Original Frasco 500ml»
+- MESMO: «Linguiça Suína Churrasco Saudali kg» == «Linguiça Suína Churrasco Saudali»
+- MESMO: «Macarrão Instantâneo Nissin Lámen Sabores 85g» == «Macarrão Instantâneo Nissin Lámen Vários Sabores 85g»
+- MESMO: «Meio da Asa Bom Todo Resfriada Kg» == «Meio da Asa Bom Todo Resfriada»
+- MESMO: «Meio da Asa Bom Todo Resfriado KG» == «Meio da Asa Bom Todo Resfriada»
+- DIFERENTES: «Mini Coxinha Felitá Chef 300g (Tradicional/Com Requeijão)» != «Mini Kibe Felitá Chef 300g (Tradicional/Com Requeijão)»
+- MESMO: «Mistura de Creme de Leite Mococa cx 200g» == «Mistura de Creme de Leite Mococa 200g»
+- MESMO: «Mistura Láctea Condensada Mococa 395g» == «Mistura Láctea Condensada Mococa Cx 395g»
+- MESMO: «Mistura Láctea Condensada Mococa Cx 395g» == «Mistura Láctea Condensada Mococa TP 395g»
+- DIFERENTES: «Ovo Branco Grande PVC Bandeja com 20 unidades» != «Ovo Branco Grande Bandeja com 30 Unidades»
+- MESMO: «Ovo Branco Grande PVC Bandeja com 30 unidades» == «Ovo Branco Grande Bandeja com 30 Unidades»
+- MESMO: «Ovos Filadélfia Grande Branco com 30 Und» == «Ovos Filadélfia Grande Branco C/30»
+- MESMO: «Pão de Forma Cadice Integral ou Integral Zero Açúcar 400G» == «Pão de Forma Cadice Integral ou Zero Açúcar 400g»
+- MESMO: «Pão de Queijo Mineiro Queiroz kg» == «Pão de Queijo Mineiro Queiroz»
+- MESMO: «Papel Higiênico Velud Folha dupla 30m Pacote com 12 rolos» == «Papel Higiênico Velud Folha Dupla 30m Pacote 12 Rolos»
+- MESMO: «Peito De Frango Congelado Real Kg» == «Peito de Frango Cong Real kg»
+- MESMO: «Pera Importada Ou Limão Siciliano» == «Pera Importada / Limão Siciliano»
+- DIFERENTES: «Pernil Suíno com Osso Resfriado Reserva» != «Pernil Suíno sem Osso Resfriado Reserva kg»
+- MESMO: «Pudim de Leite Queiroz Kg» == «Pudim de Leite Queiroz»
+- MESMO: «Refrigerante Guaraná Antarctica Original Ou Zero 2L» == «Refrigerante Guaraná Antarctica Original/Zero Pet 2L»
+- MESMO: «Refrigerante Guaraná Antarctica Original/Zero Pet com 2L» == «Refrigerante Guaraná Antarctica Original/Zero Pet 2L»
+- MESMO: «Suco de Uva OQ Integral Tinto Garrafa com 1,5L» == «Suco de Uva OQ Integral Tinto Garrafa 1,5L»
+- MESMO: «Tempero Sazón Vários sabores Pacote com 60g» == «Tempero Sazón Vários Sabores Pacote 60g»
+- MESMO: «Uva Verde Sem Semente Seleta Bandeja 500g» == «Uva Verde sem Sementes Seleta Bandeja 500g»
+- DIFERENTES: «Uva Verde Sem Semente Seleta Bandeja 500g» != «Uva Vermelha sem Sementes Seleta Bandeja 500g»
+- DIFERENTES: «Uva Vermelha Sem Semente Seleta Bandeja 500g» != «Uva Verde sem Sementes Seleta Bandeja 500g»
+- DIFERENTES: «Uva Verde sem Sementes Seleta Bandeja 500g» != «Uva Vermelha sem Sementes Seleta Bandeja 500g»
+- MESMO: «Uva Vermelha Sem Semente Seleta Bandeja 500g» == «Uva Vermelha sem Sementes Seleta Bandeja 500g»
+- MESMO: «Uva Vitória Sem Semente Seleção Mimo Bandeja 400g» == «Uva Vitória sem Sementes Seleção Mimo Bandeja 400g»
+- MESMO: «Uva Vitória Sem Semente Turma da Mônica Bandeja 250g» == «Uva Vitória sem Sementes Turma da Mônica Bandeja 250g»
