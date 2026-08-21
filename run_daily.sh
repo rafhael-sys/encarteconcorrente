@@ -74,6 +74,16 @@ falha() {
   echo "=== $(date '+%Y-%m-%d %H:%M') iniciando (janela ${SLOT}h, tentativa $((T_N + 1))/3) ==="
   cd "$BASE" || falha "pasta do projeto não encontrada"
 
+  # código sempre atualizado ANTES de coletar: o único pull da rotina era o do
+  # envio dos dados, lá no fim — depois de o painel já estar montado —, então
+  # uma melhoria enviada ao GitHub só aparecia no painel na janela SEGUINTE.
+  # Falhar aqui (sem rede, conflito) não derruba a janela: segue com o código
+  # que já está no Mac. O corpo da rotina é um bloco { } — o zsh já leu o
+  # arquivo inteiro antes de executar, então atualizar este script no meio do
+  # caminho é seguro (a versão nova vale a partir da próxima janela).
+  git pull --rebase --autostash origin main \
+    || echo "[aviso] não consegui atualizar o código do GitHub — a janela roda com a versão local"
+
   # Feed do Instagram: coletor PRINCIPAL usa o endpoint AUTENTICADO
   # feed/user/{id} (com cookie) — contorna o bug intermitente do web_profile_info
   # ('ig_business_category_subvertical ... You cannot use this schema'), que
