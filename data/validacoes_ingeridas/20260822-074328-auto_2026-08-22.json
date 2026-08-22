@@ -1,0 +1,294 @@
+{
+ "validacoes": [
+  {
+   "a": "Uva Vitória sem Semente 500g",
+   "b": "Uva Vitória Sem Sementes 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Presunto Cozido Aurora Sem Gordura Peça ou Fatiado",
+   "b": "Presunto Cozido Aurora sem gordura peça ou fatiado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa e Sobrecoxa de Frango Resfriada Mauricéa",
+   "b": "Coxa e Sobrecoxa de Frango Resfriada Mauricéa kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo de Coalho Sertão Jucurutu Peça ou Mini",
+   "b": "Queijo de Coalho Sertão Jucurutu peça ou mini kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Resfriado Mauricéa",
+   "b": "Filé de Peito de Frango Resfriado Mauricéa kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Margarina Claybom 500g Com Sal",
+   "b": "Margarina CLAYBOM 500g c/Sal",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Suco de Uva Galiotto Tinto Integral 1,5L",
+   "b": "Suco de Uva Galiotto Tinto Integral VD 1,5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Capa de Filé Bovino Resfriada a Vácuo",
+   "b": "Capa de Filé Bovino Resfriada a vácuo kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Tambaú 300g (ervas finas, hot-dog, manjericão, pizza ou tradicional)",
+   "b": "Molho de Tomate Pronto Tambaú 300g (ervas finas, hot-dog, manjericão, pizza ou tradicional)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Melão Português, Orange ou Gália",
+   "b": "Melão Português, Orange ou Gália kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Asa de Frango Resfriada Mauricéa",
+   "b": "Asa de Frango Resfriada Mauricéa kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Tipo Calabresa Suinco",
+   "b": "Linguiça Tipo Calabresa Suinco kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisteca Suína Congelada Sadia",
+   "b": "Bisteca Suina Congelada Sadia kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha Láctea Nestlé SC 160g",
+   "b": "Farinha Láctea NESTLÉ Sachê 160g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Guaraná Antarctica PC 2 unids x 1L",
+   "b": "Kit Guaraná Antártica PC 2 unidades x 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Músculo Bovino (Congelado)",
+   "b": "Músculo Bovino Congelado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó 3 Corações Chocolatto Pacote 900g",
+   "b": "Achocolatado em Pó 3 Corações Chocolatto SC 900g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pão Bolachão Pancristal",
+   "b": "Pão Bolachão Pancristal kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pão Francês Pancristal",
+   "b": "Pão Francês Pancristal kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Vitória Sem Sementes BDJ 500g",
+   "b": "Uva Vitória Sem Sementes 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pão Recife Pancristal",
+   "b": "Pão Recife Pancristal kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maionese Quero SC 200g",
+   "b": "Maionese Quero 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Milho Verde ou Dueto Predilecta Pct 170g",
+   "b": "Milho Verde ou Dueto Predilecta Sachê 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas em Pó Ala 800g Fragrâncias",
+   "b": "Lava Roupas em Pó ALA 800g Fragrâncias Sachê",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Tilápia Lar 700g",
+   "b": "Filé de Tilápia LAR IQF 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Folha Dupla Neve Pacote Leve 12 Pague 11 Rolos de 30m",
+   "b": "Papel Higienico Folha Dupla Neve Leve 12 Pague 11 Rolos 30m",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Sukita GF 2L Laranja ou Uva",
+   "b": "Refrigerante SUKITA 2L Laranja/Uva",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante em Creme Herbíssimo 55g (Fragrâncias)",
+   "b": "Desodorante Creme HERBÍSSIMO 55g Fragrâncias Pote",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava-Louças Marilux Fragrâncias Frasco 500ml",
+   "b": "Lava-Loucas Marilux Fragrancias 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho De Tomate Passata Nor Foods 680g",
+   "b": "Molho De Tomate Passata Nor 680g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Tangerina Murcot KG",
+   "b": "Tangerina Murcot",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão Parafuso Vitarella Comum 400g",
+   "b": "Macarrão Parafuso Vitarella 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mini Kibe Felita Chef 300g (Congelado - Tradicional/Com Requeijao)",
+   "b": "Mini Kibe Felitá Chef 300g (Tradicional/Com Requeijão)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão Espaguete GOSTOSO 400g",
+   "b": "Macarrão Comum Espaguete Gostoso 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Caçarola Ramos Nº 22 Polida unid",
+   "b": "Caçarola Ramos N°22 Polida",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerosol Bozzano ou Monange tb 90g",
+   "b": "Desodorante Aerosol Bozzano ou Monange (diversos) Tb 90g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Chambaril Dianteiro Reserva Resfriada",
+   "b": "Carne Bovina Chambaril Dianteiro Reserva Resfriada Friboi kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete Lux Fragrâncias Leve Mais Pague Menos PC 6x85g",
+   "b": "Sabonete Lux Botanicals Fragrâncias Leve Mais Pague Menos PC 6x85g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Tilápia Lar PC 700G",
+   "b": "Filé de Tilápia LAR IQF 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Pó Nescau 550g",
+   "b": "Achocolatado em Pó Nescau 550g Sachê",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lombo Suíno LAR Kg",
+   "b": "Lombo Suíno Lar",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Naturalmente Mais Conforto Leve + Pague - com Abas c/24",
+   "b": "Absorvente NATURALMENTE Mais Conforto Suave com Abas c/24",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Picanha Bovina Maturatta Friboi Maturada Congelada kg",
+   "b": "Picanha Bovina Maturatta Friboi Congelada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Max Pure Neutro Folha Dupla 30m Leve 12 Pague 11",
+   "b": "Papel Higiênico Max Pure Neutro Folha Dupla 30m Leve 16 Pague 15",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Fralda Descartável Mili Love & Care Pants Jumbo (tamanhos)",
+   "b": "Fralda Descartável Mili Love & Care Jumbo (tamanhos)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Acém com Osso Reserva Resfriada Friboi",
+   "b": "Carne Bovina Acém sem Osso Reserva Resfriada Friboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sabonete Naturals Palmolive Fragrâncias Pack 4x85g",
+   "b": "Sabonete Naturals Palmolive Fragrancias 85g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Heineken LN 269ml",
+   "b": "Cerveja Heineken Lata 269ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Parboilizado Mariano Tipo 1 1kg",
+   "b": "Arroz Parboilizado Safra Tipo 1 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Acém com Osso Bovino Resfriado Masterboi",
+   "b": "Acem sem Osso Bovino Resfriado Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Cupim Porcionada Friboi Resfriada",
+   "b": "Carne Bovina Peito Porcionado Friboi Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Lactea Betania Sabores 900g",
+   "b": "Bebida Láctea Batclan Sabores 900g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lagarto Bovino Resfriado a Vácuo Masterboi kg",
+   "b": "Patinho Bovino Resfriado a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito Bovino Resfriado a Vácuo Masterboi kg",
+   "b": "Lagarto Bovino Resfriado a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Vinho Portugues Convento da Vila 750ml",
+   "b": "Vinho Portugues Convento da Serra 750ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Amaciante de Roupas Concentrado Brilux Fragrâncias 500ml",
+   "b": "Amaciante de Roupas Concentrado Fofo Fragrancias 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mingau Mucilon 180g Sabores",
+   "b": "Mingau Nutrilon 180g Sabores",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sardinha Palmeira com Oleo ou Molho de Tomate Lata 125G",
+   "b": "Sardinha Coqueiro com Óleo ou Molho de Tomate Lata 125g",
+   "veredito": "diferente"
+  }
+ ]
+}

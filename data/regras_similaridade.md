@@ -3771,3 +3771,61 @@
 - MESMO: «Uva Vermelha Sem Semente Seleta Bandeja 500g» == «Uva Vermelha sem Sementes Seleta Bandeja 500g»
 - MESMO: «Uva Vitória Sem Semente Seleção Mimo Bandeja 400g» == «Uva Vitória sem Sementes Seleção Mimo Bandeja 400g»
 - MESMO: «Uva Vitória Sem Semente Turma da Mônica Bandeja 250g» == «Uva Vitória sem Sementes Turma da Mônica Bandeja 250g»
+- MESMO: «Absorvente Naturalmente Mais Conforto Leve + Pague - com Abas c/24» == «Absorvente NATURALMENTE Mais Conforto Suave com Abas c/24»
+- DIFERENTES: «Acém com Osso Bovino Resfriado Masterboi» != «Acem sem Osso Bovino Resfriado Masterboi kg»
+- MESMO: «Achocolatado em Pó 3 Corações Chocolatto Pacote 900g» == «Achocolatado em Pó 3 Corações Chocolatto SC 900g»
+- MESMO: «Achocolatado em Pó Nescau 550g» == «Achocolatado em Pó Nescau 550g Sachê»
+- DIFERENTES: «Amaciante de Roupas Concentrado Brilux Fragrâncias 500ml» != «Amaciante de Roupas Concentrado Fofo Fragrancias 500ml»
+- DIFERENTES: «Arroz Parboilizado Mariano Tipo 1 1kg» != «Arroz Parboilizado Safra Tipo 1 1kg»
+- MESMO: «Asa de Frango Resfriada Mauricéa» == «Asa de Frango Resfriada Mauricéa kg»
+- DIFERENTES: «Bebida Lactea Betania Sabores 900g» != «Bebida Láctea Batclan Sabores 900g»
+- MESMO: «Bisteca Suína Congelada Sadia» == «Bisteca Suina Congelada Sadia kg»
+- MESMO: «Caçarola Ramos Nº 22 Polida unid» == «Caçarola Ramos N°22 Polida»
+- MESMO: «Capa de Filé Bovino Resfriada a Vácuo» == «Capa de Filé Bovino Resfriada a vácuo kg»
+- DIFERENTES: «Carne Bovina Acém com Osso Reserva Resfriada Friboi» != «Carne Bovina Acém sem Osso Reserva Resfriada Friboi kg»
+- MESMO: «Carne Bovina Chambaril Dianteiro Reserva Resfriada» == «Carne Bovina Chambaril Dianteiro Reserva Resfriada Friboi kg»
+- DIFERENTES: «Carne Bovina Cupim Porcionada Friboi Resfriada» != «Carne Bovina Peito Porcionado Friboi Resfriada»
+- DIFERENTES: «Cerveja Heineken LN 269ml» != «Cerveja Heineken Lata 269ml»
+- MESMO: «Coxa e Sobrecoxa de Frango Resfriada Mauricéa» == «Coxa e Sobrecoxa de Frango Resfriada Mauricéa kg»
+- MESMO: «Desodorante Aerosol Bozzano ou Monange tb 90g» == «Desodorante Aerosol Bozzano ou Monange (diversos) Tb 90g»
+- MESMO: «Desodorante em Creme Herbíssimo 55g (Fragrâncias)» == «Desodorante Creme HERBÍSSIMO 55g Fragrâncias Pote»
+- MESMO: «Farinha Láctea Nestlé SC 160g» == «Farinha Láctea NESTLÉ Sachê 160g»
+- MESMO: «Filé de Peito de Frango Resfriado Mauricéa» == «Filé de Peito de Frango Resfriado Mauricéa kg»
+- MESMO: «Filé de Tilápia Lar 700g» == «Filé de Tilápia LAR IQF 700g»
+- MESMO: «Filé de Tilápia Lar PC 700G» == «Filé de Tilápia LAR IQF 700g»
+- DIFERENTES: «Fralda Descartável Mili Love & Care Pants Jumbo (tamanhos)» != «Fralda Descartável Mili Love & Care Jumbo (tamanhos)»
+- MESMO: «Kit Guaraná Antarctica PC 2 unids x 1L» == «Kit Guaraná Antártica PC 2 unidades x 1L»
+- DIFERENTES: «Lagarto Bovino Resfriado a Vácuo Masterboi kg» != «Patinho Bovino Resfriado a Vácuo Masterboi kg»
+- DIFERENTES: «Peito Bovino Resfriado a Vácuo Masterboi kg» != «Lagarto Bovino Resfriado a Vácuo Masterboi kg»
+- MESMO: «Lava Roupas em Pó Ala 800g Fragrâncias» == «Lava Roupas em Pó ALA 800g Fragrâncias Sachê»
+- MESMO: «Lava-Louças Marilux Fragrâncias Frasco 500ml» == «Lava-Loucas Marilux Fragrancias 500ml»
+- MESMO: «Linguiça Tipo Calabresa Suinco» == «Linguiça Tipo Calabresa Suinco kg»
+- MESMO: «Lombo Suíno LAR Kg» == «Lombo Suíno Lar»
+- MESMO: «Macarrão Espaguete GOSTOSO 400g» == «Macarrão Comum Espaguete Gostoso 400g»
+- MESMO: «Macarrão Parafuso Vitarella Comum 400g» == «Macarrão Parafuso Vitarella 400g»
+- MESMO: «Maionese Quero SC 200g» == «Maionese Quero 200g»
+- MESMO: «Margarina Claybom 500g Com Sal» == «Margarina CLAYBOM 500g c/Sal»
+- MESMO: «Melão Português, Orange ou Gália» == «Melão Português, Orange ou Gália kg»
+- MESMO: «Milho Verde ou Dueto Predilecta Pct 170g» == «Milho Verde ou Dueto Predilecta Sachê 170g»
+- DIFERENTES: «Mingau Mucilon 180g Sabores» != «Mingau Nutrilon 180g Sabores»
+- MESMO: «Mini Kibe Felita Chef 300g (Congelado - Tradicional/Com Requeijao)» == «Mini Kibe Felitá Chef 300g (Tradicional/Com Requeijão)»
+- MESMO: «Molho De Tomate Passata Nor Foods 680g» == «Molho De Tomate Passata Nor 680g»
+- MESMO: «Molho de Tomate Tambaú 300g (ervas finas, hot-dog, manjericão, pizza ou tradicional)» == «Molho de Tomate Pronto Tambaú 300g (ervas finas, hot-dog, manjericão, pizza ou tradicional)»
+- MESMO: «Músculo Bovino (Congelado)» == «Músculo Bovino Congelado kg»
+- MESMO: «Pão Bolachão Pancristal» == «Pão Bolachão Pancristal kg»
+- MESMO: «Pão Francês Pancristal» == «Pão Francês Pancristal kg»
+- MESMO: «Pão Recife Pancristal» == «Pão Recife Pancristal kg»
+- MESMO: «Papel Higiênico Folha Dupla Neve Pacote Leve 12 Pague 11 Rolos de 30m» == «Papel Higienico Folha Dupla Neve Leve 12 Pague 11 Rolos 30m»
+- DIFERENTES: «Papel Higiênico Max Pure Neutro Folha Dupla 30m Leve 12 Pague 11» != «Papel Higiênico Max Pure Neutro Folha Dupla 30m Leve 16 Pague 15»
+- MESMO: «Picanha Bovina Maturatta Friboi Maturada Congelada kg» == «Picanha Bovina Maturatta Friboi Congelada kg»
+- MESMO: «Presunto Cozido Aurora Sem Gordura Peça ou Fatiado» == «Presunto Cozido Aurora sem gordura peça ou fatiado kg»
+- MESMO: «Queijo de Coalho Sertão Jucurutu Peça ou Mini» == «Queijo de Coalho Sertão Jucurutu peça ou mini kg»
+- MESMO: «Refrigerante Sukita GF 2L Laranja ou Uva» == «Refrigerante SUKITA 2L Laranja/Uva»
+- MESMO: «Sabonete Lux Fragrâncias Leve Mais Pague Menos PC 6x85g» == «Sabonete Lux Botanicals Fragrâncias Leve Mais Pague Menos PC 6x85g»
+- DIFERENTES: «Sabonete Naturals Palmolive Fragrâncias Pack 4x85g» != «Sabonete Naturals Palmolive Fragrancias 85g»
+- DIFERENTES: «Sardinha Palmeira com Oleo ou Molho de Tomate Lata 125G» != «Sardinha Coqueiro com Óleo ou Molho de Tomate Lata 125g»
+- MESMO: «Suco de Uva Galiotto Tinto Integral 1,5L» == «Suco de Uva Galiotto Tinto Integral VD 1,5L»
+- MESMO: «Tangerina Murcot KG» == «Tangerina Murcot»
+- MESMO: «Uva Vitória sem Semente 500g» == «Uva Vitória Sem Sementes 500g»
+- MESMO: «Uva Vitória Sem Sementes BDJ 500g» == «Uva Vitória Sem Sementes 500g»
+- DIFERENTES: «Vinho Portugues Convento da Vila 750ml» != «Vinho Portugues Convento da Serra 750ml»
