@@ -25538,5 +25538,396 @@
   "b": "Sardinha Coqueiro com Óleo ou Molho de Tomate Lata 125g",
   "veredito": "diferente",
   "quando": "2026-08-22"
+ },
+ "file de peito de frango aurora congelado bandeja 1kg || file de peito de frango aurora congelado bdj 1kg": {
+  "a": "Filé de Peito de Frango Aurora congelado BDJ 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado Bandeja 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "costela bovina ponta de agulha || costela bovina ponta de agulha kg": {
+  "a": "Costela Bovina Ponta de Agulha kg",
+  "b": "Costela Bovina Ponta de Agulha",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "carne bovina bisteca paulista || carne bovina bisteca paulista kg": {
+  "a": "Carne Bovina Bisteca Paulista KG",
+  "b": "Carne Bovina Bisteca Paulista",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "lombo suino aurora congelado || lombo suino aurora congelado kg": {
+  "a": "Lombo Suíno Aurora Congelado",
+  "b": "Lombo Suíno Aurora Congelado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "cerveja michellob ultra 350ml || cerveja michelob lata 350ml": {
+  "a": "Cerveja Michellob Ultra 350ml",
+  "b": "Cerveja Michelob Lata 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "fralda natural baby premium mega || fralda natural baby premium mega baby": {
+  "a": "Fralda Natural Baby Premium Mega",
+  "b": "Fralda Natural Baby Premium Mega Baby",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "coxa e sobrecoxa lar com dorsal || coxa sobrecoxa lar kg com dorsal": {
+  "a": "Coxa Sobrecoxa Lar Kg com Dorsal",
+  "b": "Coxa e Sobrecoxa Lar com Dorsal",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "oleo de soja coamo 900ml || oleo de soja cocamar 900ml": {
+  "a": "Óleo de Soja Cocamar 900ml",
+  "b": "Óleo de Soja Coamo 900ml",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "file de peito de frango aurora congelado bandeja 1kg || file de peito de frango seara congelado bandeja com 1kg": {
+  "a": "Filé de Peito de Frango Seara Congelado Bandeja com 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado Bandeja 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "file de peito de frango aurora congelado bandeja 1kg || file de peito de frango lar congelado bandeja com 1kg": {
+  "a": "File de Peito de Frango Lar Congelado Bandeja com 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado Bandeja 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "mingau mucilon 600g sabores || mingau nutrilon 600g sabores": {
+  "a": "Mingau Nutrilon 600g Sabores",
+  "b": "Mingau Mucilon 600g Sabores",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "linguica p/ churrasco aurora kg || linguica suina churrasco aurora kg": {
+  "a": "Linguiça p/ Churrasco Aurora KG",
+  "b": "Linguica Suina Churrasco Aurora kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "carne bovina acem com osso reserva resfriada friboi || carne bovina peito com osso reserva resfriada friboi kg": {
+  "a": "Carne Bovina Acém com Osso Reserva Resfriada Friboi",
+  "b": "Carne Bovina Peito com Osso Reserva Resfriada Friboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "empanado de frango nobre 100g || empanado de frango nobre 100g steak": {
+  "a": "Empanado de Frango Nobre 100g Steak",
+  "b": "Empanado de Frango Nobre 100g",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "sabonete barra dove 90g fragrancias || sabonete dove 90g fragrancias": {
+  "a": "Sabonete Dove 90g Fragrâncias",
+  "b": "Sabonete Barra Dove 90g Fragrancias",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "aguardente 51 lata 350ml || aguardente 51 ouro lata 350ml": {
+  "a": "Aguardente 51 Ouro lata 350ml",
+  "b": "Aguardente 51 Lata 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "linguica calabresa sadia || linguica calabresa sadia reta": {
+  "a": "Linguiça Calabresa Sadia",
+  "b": "Linguica Calabresa Sadia Reta",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "queijo mussarela piracanjuba fatiado, peca ou pedaco || queijo mussarela piracanjuba peca ou pedaco": {
+  "a": "Queijo Mussarela Piracanjuba Peça ou Pedaço",
+  "b": "Queijo Mussarela Piracanjuba Fatiado, Peça ou Pedaço",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "shampoo elseve varios tipos frasco com 400ml || shampoo ox varios tipos frasco com 400ml": {
+  "a": "Shampoo OX Vários tipos Frasco com 400ml",
+  "b": "Shampoo Elseve Varios Tipos Frasco com 400ml",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "refrigerante pepsi cola 1l tradicional || refrigerante pepsi cola garrafa 1l tradicional": {
+  "a": "Refrigerante Pepsi Cola 1L Tradicional",
+  "b": "Refrigerante Pepsi Cola Garrafa 1L Tradicional",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "coxas e sobrecoxas bom todo congeladas bdj 1kg || sobrecoxas bom todo congeladas bdj 1kg": {
+  "a": "Sobrecoxas Bom Todo congeladas BDJ 1kg",
+  "b": "Coxas e Sobrecoxas Bom Todo Congeladas BDJ 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "feijao preto camil tipo 1 pacote com 1kg || feijao preto camil tipo 1 pct 1kg": {
+  "a": "Feijão Preto Camil Tipo 1 Pacote com 1kg",
+  "b": "Feijão Preto Camil Tipo 1 PCT 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "pao de forma 400g ou bisnaguinhas 300g center massas || pao de leite 400g ou bisnaguinhas 300g center massas": {
+  "a": "Pão de Leite 400g ou Bisnaguinhas 300g Center Massas",
+  "b": "Pão de Forma 400g ou Bisnaguinhas 300g Center Massas",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "amaciante concentrado comfort 700ml (fragrancias) || amaciante de roupas concentrado comfort 700ml fragrancias": {
+  "a": "Amaciante Concentrado Comfort 700ml (Fragrâncias)",
+  "b": "Amaciante de Roupas Concentrado COMFORT 700ml Fragrâncias",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "oleo de soja liza pet com 900ml || oleo de soja soya pet com 900ml": {
+  "a": "Óleo de Soja Liza Pet com 900ml",
+  "b": "Oleo de Soja Soya Pet com 900ml",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "mortadela defumada seara gourmet peca, pedaco ou fatiado || mortadela seara gurmet peca, pedaco ou fatiado": {
+  "a": "Mortadela Defumada Seara Gourmet Peça, Pedaço ou Fatiado",
+  "b": "Mortadela Seara Gurmet Peça, Pedaço ou Fatiado",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "vinho portugues calamares tipos 750ml || vinho portugues calamares tipos garrafa 750ml": {
+  "a": "Vinho Português Calamares Tipos Garrafa 750ml",
+  "b": "Vinho Portugues Calamares Tipos 750ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "frango a passarinho bom todo congelado bdj 1kg || frango a passarinho bom todo temperado congelado bdj 1kg": {
+  "a": "Frango à Passarinho Bom Todo Congelado BDJ 1kg",
+  "b": "Frango a Passarinho Bom Todo Temperado Congelado BDJ 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "inseticida aerosol poderoso 400ml (fragrancias) || inseticida poderoso 400ml (fragrancias)": {
+  "a": "Inseticida Poderoso 400ml (fragrâncias)",
+  "b": "Inseticida Aerosol Poderoso 400ml (fragrâncias)",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "acem bovino resfriado a vacuo masterboi kg || cupim bovino resfriado a vacuo masterboi": {
+  "a": "Cupim Bovino Resfriado a Vácuo Masterboi",
+  "b": "Acém Bovino Resfriado a Vácuo Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "margarina cremosa deline sadia balde 3kg || margarina cremosa deline sadia com sal 3kg": {
+  "a": "Margarina Cremosa Deline Sadia balde 3kg",
+  "b": "Margarina Cremosa Deline Sadia com Sal 3kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "coxas e sobrecoxas bom todo congeladas bdj 1kg || coxas e sobrecoxas de frango bom todo congeladas bdj 1kg": {
+  "a": "Coxas e Sobrecoxas Bom Todo Congeladas BDJ 1kg",
+  "b": "Coxas e Sobrecoxas de Frango Bom Todo Congeladas BDJ 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "bebida lactea polpa isis 540g (bandeja - sabores) || bebida lactea polpa isis 540g (sabores)": {
+  "a": "Bebida Lactea Polpa Isis 540g (Bandeja - Sabores)",
+  "b": "Bebida Láctea Polpa Isis 540g (Sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "polpa de fruta sterbom 400g caju/goiaba/manga/tamarindo || polpa de frutas sterbom caju/goiaba/manga/tamarindo 400g": {
+  "a": "Polpa De Fruta Sterbom 400g Caju/Goiaba/Manga/Tamarindo",
+  "b": "Polpa de Frutas Sterbom Caju/Goiaba/Manga/Tamarindo 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "file de peito de frango lar congelado iqf 1kg || filezinho de peito de frango lar congelado 1kg": {
+  "a": "Filé de Peito de Frango Lar Congelado IQF 1kg",
+  "b": "Filezinho de Peito de Frango Lar Congelado 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "agua sanitaria brilux frasco leve 1l e pague 900ml || agua sanitaria brilux leve 1l pague 900ml": {
+  "a": "Água Sanitária Brilux Frasco Leve 1L e Pague 900ml",
+  "b": "Agua Sanitaria Brilux Leve 1L Pague 900Ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "lava-roupas liquido de coco ou multiacao absoluto refil 700ml || lava-roupas liquido multiacao absoluto refil 700ml": {
+  "a": "Lava-Roupas Líquido Multiação Absoluto Refil 700ml",
+  "b": "Lava-Roupas Liquido de Coco ou Multiacao Absoluto Refil 700ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "sorvete ster bom pt 2 litros (sabores) ou batata palha easychef pct 2kg || sorvete ster bom pt 2 litros ou batata palito easychef pct 2kg": {
+  "a": "Sorvete Ster Bom pt 2 litros ou Batata Palito EasyChef pct 2kg",
+  "b": "Sorvete Ster Bom Pt 2 Litros (Sabores) Ou Batata Palha Easychef Pct 2kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "frango a passarinho bom todo 1kg iqf temperado || frango a passarinho bomtodo 1kg temperado iqf": {
+  "a": "Frango à Passarinho Bom Todo 1kg IQF Temperado",
+  "b": "Frango a Passarinho Bomtodo 1kg Temperado IQF",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "petit suisse isinho morango 320g || queijo petit suisse isinho morango 320g": {
+  "a": "Queijo Petit Suisse Isinho Morango 320g",
+  "b": "Petit Suisse Isinho Morango 320g",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "arroz parboilizado safra tipo 1 1kg || arroz parboilizado urbano tipo 1 1kg": {
+  "a": "Arroz Parboilizado Urbano Tipo 1 1kg",
+  "b": "Arroz Parboilizado Safra Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "arroz parboilizado laguna tipo 1 1kg || arroz parboilizado safra tipo 1 1kg": {
+  "a": "Arroz Parboilizado Laguna Tipo 1 1kg",
+  "b": "Arroz Parboilizado Safra Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "refrigerante coca-cola zero 2,5l || refrigerante coca-cola zero acucar 2,5l": {
+  "a": "Refrigerante Coca-Cola Zero Açúcar 2,5L",
+  "b": "Refrigerante Coca-Cola Zero 2,5L",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "copa-lombo suina resfriada reserva || copa-lombo suino resfriado reserva kg": {
+  "a": "Copa-Lombo Suína Resfriada Reserva",
+  "b": "Copa-Lombo Suíno Resfriado Reserva kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "carne bovina peito com osso reserva resfriada || carne bovina peito com osso reserva resfriada friboi kg": {
+  "a": "Carne Bovina Peito com Osso Reserva Resfriada",
+  "b": "Carne Bovina Peito com Osso Reserva Resfriada Friboi kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "cerveja heineken lata 269ml || cerveja heineken lata sleek 269ml": {
+  "a": "Cerveja Heineken Lata Sleek 269ml",
+  "b": "Cerveja Heineken Lata 269ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "detergente liquido para roupa urca fragrancias 3l || detergente liquido para roupas sonho fragrancias 3l": {
+  "a": "Detergente Líquido para Roupa Urca Fragrâncias 3L",
+  "b": "Detergente Líquido para Roupas Sonho Fragrâncias 3L",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "margarina primor resfriada com sal pote 500g || margarina primor resfriada pote 500g": {
+  "a": "Margarina Primor Resfriada Com Sal Pote 500g",
+  "b": "Margarina Primor Resfriada Pote 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "cerveja heineken shot 250ml || cerveja heineken shot lager 250ml": {
+  "a": "Cerveja Heineken Shot Lager 250ml",
+  "b": "Cerveja Heineken Shot 250ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "papel higienico clear luxo folha dupla 20m || papel higienico deluxe folha dupla 20m": {
+  "a": "Papel Higiênico Clear Luxo Folha Dupla 20m",
+  "b": "Papel Higiênico Deluxe Folha Dupla 20m",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "file de panga bom todo 500g || file de peixe panga bom todo 500g": {
+  "a": "Filé de Panga Bom Todo 500g",
+  "b": "Filé de Peixe Panga Bom Todo 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "filezinho sassami jagua iqf 1kg || filezinho sassami lar iqf 1kg": {
+  "a": "Filezinho Sassami JAGUÁ IQF 1kg",
+  "b": "Filezinho Sassami LAR IQF 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "linguica de frango lar congelada kg || linguica de frango seara congelada": {
+  "a": "Linguiça de Frango Lar Congelada kg",
+  "b": "Linguiça de Frango Seara Congelada",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "ovo branco grande pvc bandeja com 20 unidades || ovo branco medio pvc bandeja com 20 unidades": {
+  "a": "Ovo Branco Grande PVC Bandeja com 20 unidades",
+  "b": "Ovo Branco Medio PVC Bandeja com 20 Unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "carne bovina acem sem osso reserva resfriada friboi kg || carne bovina peito com osso reserva resfriada friboi kg": {
+  "a": "Carne Bovina Peito com Osso Reserva Resfriada Friboi kg",
+  "b": "Carne Bovina Acém sem Osso Reserva Resfriada Friboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "papel higienico max pure folha dupla 30m || papel higienico max pure folha dupla 30m 12 rolos": {
+  "a": "Papel Higiênico Max Pure Folha Dupla 30m 12 Rolos",
+  "b": "Papel Higienico Max Pure Folha Dupla 30m",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
+ },
+ "linguica de frango avivar congelada || linguica de frango seara congelada": {
+  "a": "Linguiça de Frango Avivar Congelada",
+  "b": "Linguiça de Frango Seara Congelada",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "linguica suina churrasco aurora kg || linguica suina churrasco saudali kg": {
+  "a": "Linguiça Suína Churrasco Saudali kg",
+  "b": "Linguica Suina Churrasco Aurora kg",
+  "veredito": "diferente",
+  "quando": "2026-08-23"
+ },
+ "linguica para churrasco saudali kg || linguica suina churrasco saudali kg": {
+  "a": "Linguiça Suína Churrasco Saudali kg",
+  "b": "Linguiça para Churrasco Saudali Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-23",
+  "aplicado": true
  }
 }

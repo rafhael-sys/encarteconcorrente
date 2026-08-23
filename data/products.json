@@ -268912,5 +268912,598 @@
    "w": 23,
    "h": 13
   }
+ ],
+ "atacadao_ba8b3e364a_p1": [
+  {
+   "n": "Batata Lavada",
+   "p": "5,29",
+   "u": "kg (de R$ 6,29)",
+   "x": 4,
+   "y": 32,
+   "w": 46,
+   "h": 17
+  },
+  {
+   "n": "Alho a Granel",
+   "p": "17,89",
+   "u": "kg (de R$ 20,90)",
+   "x": 50,
+   "y": 32,
+   "w": 48,
+   "h": 17
+  },
+  {
+   "n": "Frango Mauricéa Congelado",
+   "p": "8,79",
+   "u": "kg na peça (de R$ 10,99)",
+   "x": 4,
+   "y": 50,
+   "w": 46,
+   "h": 17
+  },
+  {
+   "n": "Margarina Claybom Resfriada com Sal 1kg",
+   "p": "10,29",
+   "u": "pote 1kg (de R$ 11,98)",
+   "x": 50,
+   "y": 50,
+   "w": 48,
+   "h": 17
+  },
+  {
+   "n": "Macarrão Espaguete Comum Cipan 400g",
+   "p": "1,79",
+   "u": "pacote 400g (de R$ 2,79)",
+   "x": 4,
+   "y": 68,
+   "w": 46,
+   "h": 19
+  },
+  {
+   "n": "Refrigerante Coca-Cola Original 12x350ml",
+   "p": "38,90",
+   "u": "pack 12x350ml (de R$ 41,49)",
+   "x": 50,
+   "y": 68,
+   "w": 48,
+   "h": 19
+  }
+ ],
+ "DcYH01RG13f_p1": [
+  {
+   "n": "Coxas e Sobrecoxas Chesini, Guibon ou Ave Nova com Dorsal Congeladas kg",
+   "p": "7,29",
+   "u": "kg",
+   "x": 8,
+   "y": 25,
+   "w": 84,
+   "h": 60
+  }
+ ],
+ "DcYH01RG13f_p2": [
+  {
+   "n": "Frango a Passarinho Bom Todo Temperado Congelado BDJ 1kg",
+   "p": "11,98",
+   "u": "cada",
+   "x": 10,
+   "y": 28,
+   "w": 80,
+   "h": 58
+  }
+ ],
+ "DcYH01RG13f_p3": [
+  {
+   "n": "Biscoito Cream Cracker Estrela Tradicional 350g",
+   "p": "3,69",
+   "u": "cada",
+   "x": 12,
+   "y": 30,
+   "w": 78,
+   "h": 52
+  }
+ ],
+ "DcYH01RG13f_p4": [
+  {
+   "n": "Açúcar Ecoçúcar Triturado 1kg",
+   "p": "2,59",
+   "u": "cada",
+   "x": 12,
+   "y": 30,
+   "w": 78,
+   "h": 52
+  }
+ ],
+ "DcYH01RG13f_p5": [
+  {
+   "n": "Refresco em Pó MID Sabores 20g",
+   "p": "0,79",
+   "u": "cada (exceto Ceasa)",
+   "x": 12,
+   "y": 28,
+   "w": 78,
+   "h": 55
+  }
+ ],
+ "DcYH01RG13f_p6": [
+  {
+   "n": "Sabão em Barra Absoluto Fragrâncias 5x160g",
+   "p": "5,49",
+   "u": "cada",
+   "x": 12,
+   "y": 28,
+   "w": 70,
+   "h": 52
+  }
+ ],
+ "DcXDO9-Gy6n_p1": [
+  {
+   "n": "Queijo de Coalho Sertão Jucurutu Peça ou Mini kg",
+   "p": "38,99",
+   "u": "kg",
+   "x": 8,
+   "y": 26,
+   "w": 84,
+   "h": 58
+  }
+ ],
+ "DcXDO9-Gy6n_p2": [
+  {
+   "n": "Queijo Mussarela La Paulina Peça, Pedaço ou Fatiado kg",
+   "p": "33,90",
+   "u": "kg",
+   "x": 8,
+   "y": 30,
+   "w": 84,
+   "h": 55
+  }
+ ],
+ "DcXDO9-Gy6n_p3": [
+  {
+   "n": "Flocão de Milho Fortemilho 400g",
+   "p": "0,99",
+   "u": "cada",
+   "x": 8,
+   "y": 30,
+   "w": 84,
+   "h": 55
+  }
+ ],
+ "DcXDO9-Gy6n_p4": [
+  {
+   "n": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+   "p": "16,79",
+   "u": "cada",
+   "x": 8,
+   "y": 30,
+   "w": 84,
+   "h": 55
+  }
+ ],
+ "DcXDO9-Gy6n_p5": [
+  {
+   "n": "Creme Dental Even Tripla Proteção 70g",
+   "p": "2,09",
+   "u": "cada",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 50
+  }
+ ],
+ "DcXDO9-Gy6n_p6": [
+  {
+   "n": "Kit Guaraná Antarctica 2x1L",
+   "p": "8,99",
+   "u": "cada (leve 2)",
+   "x": 8,
+   "y": 28,
+   "w": 84,
+   "h": 58
+  }
+ ],
+ "DcW8bblGyEl_p1": [
+  {
+   "n": "Chã de Fora (Coxão Duro) Bovino Resfriado Peça ou Pedaço kg",
+   "p": "35,99",
+   "u": "kg",
+   "x": 8,
+   "y": 30,
+   "w": 84,
+   "h": 58
+  }
+ ],
+ "DcW8bblGyEl_p2": [
+  {
+   "n": "Camarão Inteiro 60/70 Camanor Congelado kg",
+   "p": "35,79",
+   "u": "kg (exceto Ceasa)",
+   "x": 8,
+   "y": 28,
+   "w": 84,
+   "h": 60
+  }
+ ],
+ "DcW8bblGyEl_p3": [
+  {
+   "n": "Carne Moída Chuletão Bovina Congelada 500g",
+   "p": "7,49",
+   "u": "pacote 500g",
+   "x": 8,
+   "y": 30,
+   "w": 84,
+   "h": 58
+  }
+ ],
+ "DcW8bblGyEl_p4": [
+  {
+   "n": "Campari Bitter 998ml",
+   "p": "60,98",
+   "u": "cada",
+   "x": 10,
+   "y": 28,
+   "w": 82,
+   "h": 60
+  }
+ ],
+ "DcW8bblGyEl_p5": [
+  {
+   "n": "Aperitivo Aperol 750ml",
+   "p": "54,99",
+   "u": "cada",
+   "x": 10,
+   "y": 30,
+   "w": 82,
+   "h": 58
+  }
+ ],
+ "DcW8bblGyEl_p6": [
+  {
+   "n": "Suco de Uva Campo Largo Integral 900ml",
+   "p": "11,98",
+   "u": "cada (exceto Ceasa)",
+   "x": 8,
+   "y": 30,
+   "w": 84,
+   "h": 58
+  }
+ ],
+ "DcW8bblGyEl_p7": [
+  {
+   "n": "Cerveja Corona Extra Long Neck 330ml",
+   "p": "6,59",
+   "u": "cada",
+   "x": 8,
+   "y": 30,
+   "w": 84,
+   "h": 58
+  }
+ ],
+ "DcW8bblGyEl_p8": [
+  {
+   "n": "Cerveja Império Puro Malte Lata 350ml",
+   "p": "3,15",
+   "u": "cada",
+   "x": 8,
+   "y": 30,
+   "w": 84,
+   "h": 58
+  }
+ ],
+ "DcW8bblGyEl_p9": [
+  {
+   "n": "Kit Elseve Shampoo 375ml + Condicionador 170ml",
+   "p": "28,90",
+   "u": "kit",
+   "x": 10,
+   "y": 28,
+   "w": 82,
+   "h": 60
+  }
+ ],
+ "DcW8bblGyEl_p10": [
+  {
+   "n": "Creme de Pentear Elseve 250ml",
+   "p": "13,99",
+   "u": "cada",
+   "x": 8,
+   "y": 30,
+   "w": 84,
+   "h": 58
+  }
+ ],
+ "DcV6JLLnHMk_p1": [
+  {
+   "n": "Bacon Defumado Aurora kg",
+   "p": "48,99",
+   "u": "kg (de R$ 53,99)",
+   "x": 35,
+   "y": 15,
+   "w": 58,
+   "h": 51
+  }
+ ],
+ "DcV6JLLnHMk_p2": [
+  {
+   "n": "Coxinha da Asa Interfolhada kg",
+   "p": "13,99",
+   "u": "kg (de R$ 19,99)",
+   "x": 22,
+   "y": 41,
+   "w": 50,
+   "h": 42
+  }
+ ],
+ "DcV6JLLnHMk_p3": [
+  {
+   "n": "Capa de Contra Filé Fribev kg",
+   "p": "29,99",
+   "u": "kg (de R$ 38,99)",
+   "x": 19,
+   "y": 28,
+   "w": 68,
+   "h": 55
+  }
+ ],
+ "DcV6JLLnHMk_p4": [
+  {
+   "n": "Costela Bovina Pá kg",
+   "p": "27,99",
+   "u": "kg (de R$ 29,80)",
+   "x": 28,
+   "y": 44,
+   "w": 48,
+   "h": 43
+  }
+ ],
+ "DcV6JLLnHMk_p5": [
+  {
+   "n": "Acém Bovino com Osso kg",
+   "p": "29,99",
+   "u": "kg (de R$ 33,90)",
+   "x": 17,
+   "y": 24,
+   "w": 72,
+   "h": 61
+  }
+ ],
+ "DcV6AcTHE0Y_p1": [
+  {
+   "n": "Queijo Coalho Lanche Isis kg",
+   "p": "39,98",
+   "u": "kg (de R$ 49,90)",
+   "x": 3,
+   "y": 0,
+   "w": 68,
+   "h": 68
+  }
+ ],
+ "DcV6AcTHE0Y_p2": [
+  {
+   "n": "Peito de Frango Congelado kg",
+   "p": "8,99",
+   "u": "kg (de R$ 17,99)",
+   "x": 42,
+   "y": 0,
+   "w": 58,
+   "h": 55
+  }
+ ],
+ "DcV6AcTHE0Y_p3": [
+  {
+   "n": "Almôndega Bovina Chuletão 1kg",
+   "p": "14,99",
+   "u": "cada (de R$ 18,99)",
+   "x": 33,
+   "y": 0,
+   "w": 67,
+   "h": 58
+  }
+ ],
+ "DcV6AcTHE0Y_p4": [
+  {
+   "n": "Whisky Ballantines Finest 1L",
+   "p": "69,90",
+   "u": "cada (de R$ 94,90)",
+   "x": 54,
+   "y": 18,
+   "w": 46,
+   "h": 42
+  }
+ ],
+ "DcWZx6vkUW2_p1": [],
+ "DcWZx6vkUW2_p2": [],
+ "DcWZx6vkUW2_p3": [
+  {
+   "n": "Vinho Dom Bosco Tinto Suave 750ml",
+   "p": "14,99",
+   "u": "750ml",
+   "x": 1,
+   "y": 70,
+   "w": 17,
+   "h": 7
+  }
+ ],
+ "DcWZx6vkUW2_p4": [
+  {
+   "n": "Vinho Chileno Montes Alpha 750ml",
+   "p": "169,99",
+   "u": "750ml",
+   "x": 1,
+   "y": 22,
+   "w": 14,
+   "h": 6
+  },
+  {
+   "n": "Vinho Chileno Perez Cruz 750ml",
+   "p": "109,99",
+   "u": "750ml",
+   "x": 31,
+   "y": 27,
+   "w": 14,
+   "h": 5
+  }
+ ],
+ "DcWZx6vkUW2_p5": [
+  {
+   "n": "Vinho Chileno Marques de Casa Concha Chardonnay 750ml",
+   "p": "99,99",
+   "u": "750ml (de R$ 179,99)",
+   "x": 3,
+   "y": 25,
+   "w": 33,
+   "h": 13
+  },
+  {
+   "n": "Vinho Chileno Loma Negra Gran Reserva Pinot Noir 750ml",
+   "p": "49,99",
+   "u": "750ml",
+   "x": 1,
+   "y": 66,
+   "w": 13,
+   "h": 5
+  }
+ ],
+ "DcWZx6vkUW2_p6": [
+  {
+   "n": "Vinho Uruguaio Luigi Bosca Insignia Malbec 750ml",
+   "p": "299,99",
+   "u": "750ml",
+   "x": 1,
+   "y": 35,
+   "w": 15,
+   "h": 6
+  },
+  {
+   "n": "Vinho Uruguaio Bodegas Carrau Single Vineyard Merlot 750ml",
+   "p": "94,99",
+   "u": "750ml",
+   "x": 1,
+   "y": 40,
+   "w": 13,
+   "h": 5
+  },
+  {
+   "n": "Vinho Uruguaio Bodegas Carrau Single Vineyard Tannat 750ml",
+   "p": "94,99",
+   "u": "750ml",
+   "x": 33,
+   "y": 40,
+   "w": 14,
+   "h": 5
+  },
+  {
+   "n": "Vinho Uruguaio Juan Carrau Gran Reserva Tannat/Cabernet 750ml",
+   "p": "99,99",
+   "u": "750ml",
+   "x": 27,
+   "y": 73,
+   "w": 16,
+   "h": 5
+  }
+ ],
+ "DcWZx6vkUW2_p7": [
+  {
+   "n": "Vinho Uruguaio Amat Tannat 750ml",
+   "p": "69,99",
+   "u": "750ml",
+   "x": 6,
+   "y": 68,
+   "w": 15,
+   "h": 6
+  },
+  {
+   "n": "Vinho Uruguaio Bodegas Carrau Single Vineyard Merlot 750ml",
+   "p": "94,99",
+   "u": "750ml",
+   "x": 1,
+   "y": 26,
+   "w": 14,
+   "h": 6
+  },
+  {
+   "n": "Vinho Uruguaio Bodegas Carrau Single Vineyard Tannat 750ml",
+   "p": "94,99",
+   "u": "750ml",
+   "x": 19,
+   "y": 26,
+   "w": 15,
+   "h": 6
+  }
+ ],
+ "DcWZx6vkUW2_p8": [
+  {
+   "n": "Vinho Argentino Kaiken Rosé Seco 750ml",
+   "p": "169,99",
+   "u": "750ml",
+   "x": 0,
+   "y": 31,
+   "w": 13,
+   "h": 5
+  },
+  {
+   "n": "Vinho Argentino Salentein Reserva Cabernet Sauvignon 750ml",
+   "p": "119,99",
+   "u": "750ml",
+   "x": 21,
+   "y": 36,
+   "w": 15,
+   "h": 5
+  },
+  {
+   "n": "Vinho Argentino Bodegas Alandes Paradoux 750ml",
+   "p": "179,99",
+   "u": "750ml",
+   "x": 30,
+   "y": 37,
+   "w": 14,
+   "h": 5
+  },
+  {
+   "n": "Vinho Argentino Crios Chardonnay 750ml",
+   "p": "99,99",
+   "u": "750ml",
+   "x": 0,
+   "y": 80,
+   "w": 13,
+   "h": 5
+  },
+  {
+   "n": "Vinho Argentino Norton D.O.C. Malbec 750ml",
+   "p": "79,99",
+   "u": "750ml",
+   "x": 20,
+   "y": 79,
+   "w": 13,
+   "h": 5
+  },
+  {
+   "n": "Vinho Argentino Colinas de Los Andes Cabernet 750ml",
+   "p": "54,99",
+   "u": "750ml",
+   "x": 33,
+   "y": 79,
+   "w": 13,
+   "h": 5
+  }
+ ],
+ "DcWZx6vkUW2_p9": [
+  {
+   "n": "Vinho Argentino Norton D.O.C. Malbec 750ml",
+   "p": "79,99",
+   "u": "750ml",
+   "x": 8,
+   "y": 79,
+   "w": 13,
+   "h": 5
+  },
+  {
+   "n": "Vinho Argentino Colinas de Los Andes Cabernet 750ml",
+   "p": "54,99",
+   "u": "750ml",
+   "x": 22,
+   "y": 79,
+   "w": 13,
+   "h": 5
+  }
  ]
 }
