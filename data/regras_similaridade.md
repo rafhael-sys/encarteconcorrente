@@ -3888,3 +3888,64 @@
 - DIFERENTES: «Shampoo OX Vários tipos Frasco com 400ml» != «Shampoo Elseve Varios Tipos Frasco com 400ml»
 - MESMO: «Sorvete Ster Bom pt 2 litros ou Batata Palito EasyChef pct 2kg» == «Sorvete Ster Bom Pt 2 Litros (Sabores) Ou Batata Palha Easychef Pct 2kg»
 - MESMO: «Vinho Português Calamares Tipos Garrafa 750ml» == «Vinho Portugues Calamares Tipos 750ml»
+- DIFERENTES: «Acém Bovino Resfriado a Vácuo Masterboi kg» != «Coxão Mole Bovino Resfriado a Vácuo Masterboi kg»
+- DIFERENTES: «Acém Bovino Resfriado a Vácuo Masterboi kg» != «Lagarto Bovino Resfriado a Vácuo Masterboi kg»
+- DIFERENTES: «Acém Bovino Resfriado a Vácuo Masterboi kg» != «Patinho Bovino Resfriado a Vácuo Masterboi kg»
+- MESMO: «Água Mineral Sterbom Com gás Pet com 500ml» == «Água Mineral Sterbom Com Gás 500ml»
+- MESMO: «Almôndegas Bovina Chuletão 1kg» == «Almôndega Bovina Chuletão 1kg»
+- MESMO: «Almôndegas Bovinas CHULETÃO 1kg» == «Almôndega Bovina Chuletão 1kg»
+- MESMO: «Amaciante Roupa Comfort 1L Conc Fragrâncias» == «Amaciante de Roupa Comfort 1L Concentrado Fragrancias»
+- DIFERENTES: «Arroz Branco Tio Manoel 1kg» != «Arroz Branco Tio Urbano 1kg»
+- MESMO: «ARROZ FAZENDA PARBOLIZADO 1KG» == «Arroz Fazenda Parbolizado Branco 1kg»
+- DIFERENTES: «Arroz Parboilizado AGRODEZ Tipo 1 1kg» != «Arroz Parboilizado Safra Tipo 1 1kg»
+- DIFERENTES: «Arroz Parboilizado Fazenda Tipo 1 1kg» != «Arroz Parboilizado Safra Tipo 1 1kg»
+- DIFERENTES: «Arroz Tio João Parboilizado Tipo 1 Pacote com 1kg» != «Arroz Urbano Parboilizado Tipo 1 Pacote com 1kg»
+- MESMO: «Aveia Quaker Flocos Finos/Flocos Regular Caixeta com 165g» == «Aveia Quaker Flocos Finos/Regular Caixeta 165g»
+- MESMO: «Carne Bovina Acém sem Osso Reserva Resfriada» == «Carne Bovina Acém sem Osso Reserva Resfriada Friboi kg»
+- MESMO: «Carne Moída Bovina Congelada Fortboi Embalagem 500g» == «Carne Moída Bovina Congelada Fortboi 500g»
+- MESMO: «Costela Suína kg» == «Costela Suína»
+- MESMO: «Creme de Leite Bendito TP 200g» == «Creme de Leite Bendito Tetra Pak 200g»
+- MESMO: «Creme para Pentear Elseve 250ml» == «Creme de Pentear Elseve 250ml»
+- MESMO: «Creme Dental Triple Close Up Tipos Caixeta 70g» == «Creme Dental Triple Closeup Tipos 70g»
+- DIFERENTES: «Desodorante Aerossol Bozzano Fragrâncias 200ml» != «Desodorante Aerossol Francis Fragrancias 200ml»
+- DIFERENTES: «Empanado de Frango Lar 100g» != «Empanado de Frango Nobre 100g»
+- MESMO: «Escova Dental ORAL-B 123 Clean» == «Escova Dental Oral B 123»
+- MESMO: «File de Coxa com Sobrecoxa de Frango/Filezinho Sassami Empanado Lar 700g» == «Filé de Coxa com Sobrecoxa de Frango Empanado LAR 700g/Filezinho Sassami Empanado LAR 700g»
+- MESMO: «Filé de Peito Frango Levo Alimentos BDJ 1kg» == «Filé de Peito de Frango Levo Alim. Bdj 1Kg»
+- DIFERENTES: «Filezinho de Peito de Frango Sadia Congelado BDJ 1kg» != «Filezinho de Peito de Frango Lar Congelado 1kg»
+- MESMO: «Fralda BabySec Ultra Shortinho Mega (xg ou xxg)» == «Fralda Babysec Ultra Shortinho Mega (G/XG/XXG/XXXG)»
+- MESMO: «Fralda Descartável Ultra Babysec Pacote/Tamanhos» == «Fralda Descartavel Ultrasec Babysec Tamanhos»
+- MESMO: «Fralda Huggies Tripla Proteção (G=28 XG=24 XXG=22)» == «Fralda Huggies Tripla Protecao (G/XG/XXG)»
+- DIFERENTES: «Hambúrguer Sadia Ave e Bovino 56g» != «Hambúrguer Perdigão Ave e Bovino 56g»
+- MESMO: «Inseticida Aero Raid 300ml GR 150ml» == «Inseticida Aerossol Raid 300ml + Grátis 150ml»
+- MESMO: «Iogurte Integral CLAN com Geleia de Morango 130g» == «Iogurte Clan com Geleia de Morango 130g»
+- MESMO: «Lava Roupas em Pó Omo Lavagem Perfeita 2,4kg» == «Lava Roupas em Po Omo Lavagem Perfeita Pacote com 2,4kg»
+- MESMO: «Lava Roupas Omo Ciclo Rápido 750ml» == «Lava Roupas Líquido Omo Ciclo Rápido 750ML»
+- MESMO: «Leite UHT Desnatado Molico 1L» == «Leite UHT Desnatado Molico Nestlé 1L»
+- DIFERENTES: «Limpador Multiuso Ypê Vários Tipos Frasco 500ml» != «Limpador Multiuso Uau Varios Tipos Frasco com 500ml»
+- DIFERENTES: «Linguiça Calabresa Sadia kg» != «Linguica Calabresa Sadia Reta»
+- DIFERENTES: «Linguiça de Carne Suína Saudali Congelada» != «Linguiça de Carne Suína Seara Congelada kg»
+- MESMO: «Linguiça p/ Churrasco Aurora KG» == «Linguiça de Churrasco Aurora»
+- MESMO: «Linguiça de Frango LAR 1kg Grossa/Fininha» == «Linguiça de Frango Lar 1kg Regular/Fininha»
+- DIFERENTES: «Manteiga Itambé com sal PT 500g» != «Manteiga Itacolomy Com Sal Pt 500g»
+- DIFERENTES: «Manteiga Tirolez Resfriada com sal Pote com 500g» != «Manteiga Itacolomy Resfriada Com Sal Pote com 500g»
+- MESMO: «Margarina Claybom Resfriada com sal Pote com 1kg» == «Margarina Claybom Resfriada com Sal 1kg»
+- DIFERENTES: «Margarina Qualy Resfriada com Sal 1kg» != «Margarina Claybom Resfriada com Sal 1kg»
+- MESMO: «Mocotó Bovino kg» == «Mocotó Bovino»
+- DIFERENTES: «Óleo de Soja Soya 900ml» != «Óleo de Soja Coamo 900ml»
+- MESMO: «Paleta Suína Congelada kg» == «Paleta Suína Congelado»
+- MESMO: «Panceta Suíno Jucurutu kg» == «Panceta Suína Jucurutu»
+- MESMO: «Papel Higiênico Deluxe Folha Dupla 20m 12 Rolos» == «Papel Higiênico Deluxe Folha Dupla 20m»
+- DIFERENTES: «Papel Higiênico Fofex Folha Dupla» != «Papel Higiênico Neve Folha Dupla»
+- DIFERENTES: «Papel Higiênico Neutro Mimmo Folha Dupla 30 Metros» != «Papel Higiênico Neutro Max Pure Folha Dupla 30 Metros»
+- MESMO: «Queijo Mussarela La Paulina peça/pedaço/fatiado kg» == «Queijo Mussarela La Paulina Peça, Pedaço ou Fatiado kg»
+- MESMO: «Refrigerante Coca-Cola Original Pack com 12x350ml» == «Refrigerante Coca-Cola Original 12x350ml»
+- MESMO: «Refrigerante Coca-Cola Zero Açúcar 2,5L» == «Refrigerante Coca-Cola sem Açúcar Pet 2,5L»
+- MESMO: «Refrigerante Refri Indaiá Mini Sabores Pet 250ml» == «Refrigerante Refri Indaia Mini Varios Sabores Pet com 250ml»
+- MESMO: «Sabonete Naturals Palmolive Fragrâncias Embalagem 85g» == «Sabonete Naturals Palmolive Fragrancias 85g»
+- MESMO: «Saco para Lixo Diva 15L ou 30L» == «Saco de Lixo Diva 15L ou 30L»
+- MESMO: «Shampoo Elseve 375ml + Condicionador 170ml Fragrâncias» == «Shampoo Elseve 375ml + Condicionador 170ml Fragrâncias (preço clube)»
+- MESMO: «Uva Verde Seleta 500g» == «Uva Verde Seleta Band 500g»
+- DIFERENTES: «Uva Vitória Turma da Mônica 250g Bandeja» != «Uva Verde Turma da Mônica 250g Bandeja»
+- DIFERENTES: «Vinho Uruguaio Bodegas Carrau Single Vineyard Merlot 750ml» != «Vinho Uruguaio Bodegas Carrau Single Vineyard Tannat 750ml»
+- MESMO: «Whisky Ballantines Scotch Finest 1L» == «Whisky Ballantines Finest 1L»
