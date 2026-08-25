@@ -1,0 +1,197 @@
+{
+ "acoes": [
+  {
+   "action": {
+    "id": "assai_170312-572",
+    "titulo": "Assaí — Giro da Economia Nestlé (24 a 28/08)",
+    "banner": "Assaí Atacadista",
+    "segmento": "atacarejo",
+    "inicio": "2026-08-24",
+    "fim": "2026-08-28"
+   },
+   "products": {
+    "assai_170312-572_p1": [
+     {"n": "Café Solúvel Nescafé Tipos Sachê 40g", "p": "3,99", "u": "un", "x": 2, "y": 23, "w": 18, "h": 16},
+     {"n": "Farinha Láctea Nestlé Pacote 170g", "p": "8,19", "u": "un", "x": 22, "y": 23, "w": 18, "h": 16},
+     {"n": "Biscoito Recheado Negresco Sabores Pacote 90g", "p": "2,29", "u": "un", "x": 41, "y": 23, "w": 18, "h": 16},
+     {"n": "Biscoito Recheado Bono Sabores Pacote 90g", "p": "2,29", "u": "un", "x": 60, "y": 23, "w": 18, "h": 16},
+     {"n": "Composto Lácteo Prebio Fases 1+ ou Fases 3+ Ninho Nestlé Lata 400g", "p": "24,99", "u": "un", "x": 79, "y": 23, "w": 19, "h": 16},
+     {"n": "Neston 3 Cereais Nestlé Pacote 600g", "p": "15,90", "u": "un", "x": 2, "y": 39, "w": 18, "h": 15},
+     {"n": "Aveia em Flocos Regulares ou Finos Nestlé Caixeta 170g", "p": "3,49", "u": "un", "x": 22, "y": 39, "w": 18, "h": 15},
+     {"n": "Farinha de Aveia Nestlé Caixeta 170g", "p": "3,49", "u": "un", "x": 41, "y": 39, "w": 18, "h": 15},
+     {"n": "Snack Infantil Meu Lanchinho Mucilon Nestlé Sabores Pacote 35g", "p": "5,19", "u": "un", "x": 60, "y": 39, "w": 18, "h": 15},
+     {"n": "Chocolate Recheado Nestlé Sabores Tablete 90g", "p": "8,99", "u": "un", "x": 79, "y": 39, "w": 19, "h": 15},
+     {"n": "Chocolate Talento Garoto Sabores Pacote 85g", "p": "8,49", "u": "un", "x": 2, "y": 54, "w": 18, "h": 16},
+     {"n": "Leite em Pó Desnatado Rico em Cálcio Molico Nestlé Pacote 500g", "p": "29,99", "u": "un", "x": 22, "y": 54, "w": 18, "h": 16},
+     {"n": "Cápsula Dolce Gusto Nestlé Sabores Caixeta 10un", "p": "17,99", "u": "un", "x": 41, "y": 54, "w": 18, "h": 16},
+     {"n": "Cápsula Nescafé Nestlé Sabores Caixeta 10x44g/46g", "p": "18,99", "u": "un", "x": 60, "y": 54, "w": 18, "h": 16},
+     {"n": "Bebida Láctea Nestlé Sabores PET 270ml/280ml", "p": "6,49", "u": "un", "x": 79, "y": 54, "w": 19, "h": 16}
+    ]
+   }
+  },
+  {
+   "action": {
+    "id": "assai_170319-572",
+    "titulo": "Assaí — Giro da Economia Últimos Dias (24 a 27/08)",
+    "banner": "Assaí Atacadista",
+    "segmento": "atacarejo",
+    "inicio": "2026-08-24",
+    "fim": "2026-08-27"
+   },
+   "products": {
+    "assai_170319-572_p1": [
+     {"n": "Leite em Pó Integral CCGL Pacote 200g", "p": "6,49", "u": "un", "x": 2, "y": 24, "w": 23, "h": 13},
+     {"n": "Leite Condensado Betânia TP 395g", "p": "5,39", "u": "un", "x": 26, "y": 24, "w": 23, "h": 13},
+     {"n": "Creme de Leite Betânia TP 200g", "p": "2,59", "u": "un", "x": 49, "y": 24, "w": 23, "h": 13},
+     {"n": "Macarrão Spaghetti Bonsabor Pacote 400g", "p": "1,99", "u": "un", "x": 72, "y": 24, "w": 26, "h": 13},
+     {"n": "Coxão Mole Bovino Resfriado a Vácuo Masterboi Kg", "p": "39,90", "u": "kg", "x": 2, "y": 37, "w": 23, "h": 12},
+     {"n": "Queijo Tipo Mussarela Sertão Jucurutu Kg (preço do quilo na peça)", "p": "38,90", "u": "kg", "x": 26, "y": 37, "w": 23, "h": 12},
+     {"n": "Lava-Roupas Líquido Action Dragão Galão 3L", "p": "13,99", "u": "un", "x": 49, "y": 37, "w": 23, "h": 12},
+     {"n": "Papel Higiênico Folha Dupla Velud VIP Pacote 12 Rolos de 30m", "p": "12,90", "u": "un", "x": 72, "y": 37, "w": 26, "h": 12},
+     {"n": "Biscoito Cream Cracker Estrela 350g", "p": "3,99", "u": "un", "x": 2, "y": 49, "w": 21, "h": 17},
+     {"n": "Biscoito Recheado de Morango ou Chocolate Treloso Vitarella 74g", "p": "1,29", "u": "un", "x": 23, "y": 49, "w": 19, "h": 17},
+     {"n": "Biscoito Maizena Tradicional Estrela 307g", "p": "3,99", "u": "un", "x": 42, "y": 49, "w": 18, "h": 17},
+     {"n": "Cerveja Amstel Lata Sleek 350ml", "p": "3,09", "u": "un", "x": 60, "y": 49, "w": 16, "h": 17},
+     {"n": "Refrigerante de Caju Tradicional ou Zero Açúcar São Geraldo PET 1L", "p": "5,79", "u": "un", "x": 76, "y": 49, "w": 22, "h": 17},
+     {"n": "Café Clássico Santa Clara Pacote Almofada ou a Vácuo 250g", "p": "12,95", "u": "un", "x": 2, "y": 70, "w": 16, "h": 25},
+     {"n": "Flocão de Milho Gostosin Pacote 400g", "p": "0,95", "u": "un", "x": 18, "y": 70, "w": 15, "h": 25},
+     {"n": "Molho de Tomate Tradicional Quero Sachê 240g", "p": "1,49", "u": "un", "x": 33, "y": 70, "w": 15, "h": 25},
+     {"n": "Acém Bovino com Osso Resfriado Masterboi Kg", "p": "26,90", "u": "kg", "x": 48, "y": 70, "w": 16, "h": 25},
+     {"n": "Filé de Peito de Frango Congelado Seara Bandeja 1Kg", "p": "16,90", "u": "un", "x": 64, "y": 70, "w": 16, "h": 25},
+     {"n": "Coxas e Sobrecoxas de Frango com Porção Dorsal Congeladas Lar Kg", "p": "7,99", "u": "kg", "x": 80, "y": 70, "w": 18, "h": 25}
+    ],
+    "assai_170319-572_p2": [
+     {"n": "Farinha de Trigo Tipo 1 Profissional Dona Benta Saco 25Kg", "p": "84,90", "u": "un", "x": 27, "y": 3, "w": 17, "h": 16},
+     {"n": "Cesta Básica Assaí NE Kit 1 - 11 Itens", "p": "55,90", "u": "un", "x": 45, "y": 3, "w": 17, "h": 16},
+     {"n": "Margarina com Sal 60% de Gordura Primor Balde 3Kg", "p": "27,90", "u": "un", "x": 62, "y": 3, "w": 17, "h": 16},
+     {"n": "Molho de Tomate Tradicional Tarantella TP 1,06Kg/Sachê 1,02Kg", "p": "6,89", "u": "un", "x": 80, "y": 3, "w": 18, "h": 16},
+     {"n": "Paçoca Paçoquita Santa Helena Pacote 216g", "p": "7,95", "u": "un", "x": 2, "y": 24, "w": 17, "h": 10},
+     {"n": "Café Solúvel Forte e Encorpado Kimimo Sachê 40g", "p": "4,59", "u": "un", "x": 27, "y": 20, "w": 17, "h": 15},
+     {"n": "Farinha Láctea Nestlé Pacote 210g", "p": "7,99", "u": "un", "x": 45, "y": 20, "w": 17, "h": 15},
+     {"n": "Bebida Láctea Whey Protein Piracanjuba Sabores TP 250ml", "p": "7,19", "u": "un", "x": 62, "y": 20, "w": 17, "h": 15},
+     {"n": "Aveia em Flocos Regulares ou Finos Yoki Caixeta 170g", "p": "2,89", "u": "un", "x": 80, "y": 20, "w": 18, "h": 15},
+     {"n": "Pipoca Doce Bokus Pacote 45g", "p": "1,49", "u": "un", "x": 2, "y": 36, "w": 17, "h": 10},
+     {"n": "Azeite de Oliva Extravirgem Fiorentini ou Manosalba Vidro 500ml", "p": "25,90", "u": "un", "x": 27, "y": 35, "w": 17, "h": 15},
+     {"n": "Azeitonas Verdes com Caroços La Preferida Vidro 500g Drenado", "p": "12,90", "u": "un", "x": 45, "y": 35, "w": 17, "h": 15},
+     {"n": "Vinagre de Álcool Predileto PET 500ml", "p": "1,09", "u": "un", "x": 62, "y": 35, "w": 17, "h": 15},
+     {"n": "Milho-Verde ou Dueto Quero Lata ou Sachê 170g Drenado", "p": "2,89", "u": "un", "x": 80, "y": 35, "w": 18, "h": 15},
+     {"n": "Chocolate Hershey's+ Sabores Tablete 102g", "p": "4,79", "u": "un", "x": 2, "y": 50, "w": 17, "h": 10},
+     {"n": "Ketchup Tradicional Heinz Garrafa 567g", "p": "12,90", "u": "un", "x": 27, "y": 51, "w": 17, "h": 15},
+     {"n": "Maionese Tradicional Liza Sachê 196g", "p": "1,99", "u": "un", "x": 45, "y": 51, "w": 17, "h": 15},
+     {"n": "Atum em Pedaços ao Natural ou em Óleo 88 Lata 98g Drenado", "p": "7,99", "u": "un", "x": 62, "y": 51, "w": 17, "h": 15},
+     {"n": "Patê de Atum Gomes da Costa Sabores Sachê 170g", "p": "7,69", "u": "un", "x": 80, "y": 51, "w": 18, "h": 15},
+     {"n": "Chocolate Choco Trio Nestlé Sabores Tablete 90g", "p": "7,99", "u": "un", "x": 2, "y": 60, "w": 17, "h": 10},
+     {"n": "Macarrão Instantâneo Lámen Nissin Sabores Pacote 85g", "p": "1,89", "u": "un", "x": 27, "y": 67, "w": 17, "h": 15},
+     {"n": "Pó para Refresco Tang Sabores Sachê 18g", "p": "0,75", "u": "un", "x": 45, "y": 67, "w": 17, "h": 15},
+     {"n": "Água Mineral sem Gás San Valle PET 500ml", "p": "0,69", "u": "un", "x": 62, "y": 67, "w": 17, "h": 15},
+     {"n": "Bebida Energética Mormaii PET 2L", "p": "8,59", "u": "un", "x": 80, "y": 62, "w": 18, "h": 20},
+     {"n": "Suco de Uva Integral Canção Garrafa 1L", "p": "10,90", "u": "un", "x": 2, "y": 84, "w": 20, "h": 14},
+     {"n": "Vodka Kovak Ice Sabores Long Neck 275ml", "p": "4,79", "u": "un", "x": 36, "y": 85, "w": 16, "h": 13},
+     {"n": "Whisky Nacional Passport Scotch Garrafa 1L", "p": "39,90", "u": "un", "x": 53, "y": 85, "w": 16, "h": 13},
+     {"n": "Vinho Chileno Chilano Tipos Garrafa 750ml", "p": "22,90", "u": "un", "x": 69, "y": 85, "w": 14, "h": 13},
+     {"n": "Cachaça Caranguejo Lata 350ml", "p": "3,09", "u": "un", "x": 83, "y": 85, "w": 15, "h": 13}
+    ],
+    "assai_170319-572_p3": [
+     {"n": "Frango Congelado Bom Todo Kg", "p": "8,99", "u": "kg", "x": 2, "y": 4, "w": 17, "h": 15},
+     {"n": "Bisteca Suína Congelada Sadia Kg", "p": "14,90", "u": "kg", "x": 20, "y": 4, "w": 17, "h": 15},
+     {"n": "Filé de Tilápia Congelado Seara Pacote 600g", "p": "33,90", "u": "un", "x": 38, "y": 4, "w": 17, "h": 15},
+     {"n": "Linguiça de Frango Congelada Bom Todo Sabores Pacote 600g", "p": "13,90", "u": "un", "x": 56, "y": 4, "w": 17, "h": 15},
+     {"n": "Steak de Frango Empanado Rezende Pacote 100g", "p": "1,39", "u": "un", "x": 2, "y": 19, "w": 17, "h": 16},
+     {"n": "Hambúrguer de Carne de Frango e Suína Tradicional Congelado Rezende Caixeta 36x56g", "p": "32,90", "u": "un", "x": 20, "y": 19, "w": 17, "h": 16},
+     {"n": "Linguiça Tipo Calabresa Defumada Seara Pacote 2,5Kg", "p": "59,90", "u": "un", "x": 38, "y": 19, "w": 17, "h": 16},
+     {"n": "Salsicha para Hot-Dog Congelada Nobre Pacote 3Kg", "p": "25,90", "u": "un", "x": 56, "y": 19, "w": 17, "h": 16},
+     {"n": "Bebida Láctea Batclan Sabores Saco 900g", "p": "4,79", "u": "un", "x": 2, "y": 36, "w": 17, "h": 15},
+     {"n": "Iogurte Líquido Danone Sabores PET 1,25Kg", "p": "14,99", "u": "un", "x": 20, "y": 36, "w": 17, "h": 15},
+     {"n": "Iogurte Natural Danone Sabores Copo 160g", "p": "2,99", "u": "un", "x": 38, "y": 36, "w": 17, "h": 15},
+     {"n": "Bebida Láctea Sabor Morango Clan Bandeja 540g", "p": "5,39", "u": "un", "x": 56, "y": 36, "w": 17, "h": 15},
+     {"n": "Pizza Congelada Rezende Sabores Caixeta 400g", "p": "12,79", "u": "un", "x": 2, "y": 51, "w": 17, "h": 15},
+     {"n": "Lasanha Congelada Seara Sabores Pacote 600g", "p": "14,90", "u": "un", "x": 20, "y": 51, "w": 17, "h": 15},
+     {"n": "Polpa de Fruta Congelada de Caju, Goiaba ou Manga Canaã Embalagem 100g", "p": "0,69", "u": "un", "x": 38, "y": 51, "w": 17, "h": 15},
+     {"n": "Açaí Natural Fruta Nobre Caixeta 5L", "p": "49,90", "u": "un", "x": 56, "y": 51, "w": 17, "h": 15},
+     {"n": "Pão de Forma Tradicional Massas Nordestinas Pacote 400g", "p": "4,99", "u": "un", "x": 2, "y": 66, "w": 17, "h": 15},
+     {"n": "Manteiga com Sal Clan Pote 200g", "p": "10,99", "u": "un", "x": 20, "y": 66, "w": 17, "h": 15},
+     {"n": "Requeijão Cremoso Tradicional Clan Pote 400g", "p": "12,90", "u": "un", "x": 38, "y": 66, "w": 17, "h": 15},
+     {"n": "Sorvete Cremosíssimo Kibon Sabores Pote 1,5L", "p": "21,90", "u": "un", "x": 56, "y": 66, "w": 17, "h": 15},
+     {"n": "Batata Congelada +Fininhas McCain Pacote 1,5Kg", "p": "22,90", "u": "un", "x": 2, "y": 81, "w": 17, "h": 16},
+     {"n": "Pão de Queijo Tradicional Jeito de Minas Pacote 1Kg", "p": "18,90", "u": "un", "x": 20, "y": 81, "w": 17, "h": 16},
+     {"n": "Preparação Alimentícia Sabor Parmesão Parme Pacote 40g", "p": "2,49", "u": "un", "x": 38, "y": 81, "w": 17, "h": 16},
+     {"n": "Massa para Pastel Massa Forte Pacote 200g", "p": "2,79", "u": "un", "x": 56, "y": 81, "w": 17, "h": 16},
+     {"n": "Queijo Tipo Coalho Clan Kg (preço do quilo na peça)", "p": "39,90", "u": "kg", "x": 68, "y": 84, "w": 30, "h": 14}
+    ],
+    "assai_170319-572_p4": [
+     {"n": "Lava-Roupas em Pó Sonho Fragrâncias Pacote 800g", "p": "5,69", "u": "un", "x": 2, "y": 3, "w": 18, "h": 15},
+     {"n": "Sabão em Barra Guarani Fragrâncias Pack 5x160g", "p": "6,99", "u": "un", "x": 21, "y": 3, "w": 18, "h": 15},
+     {"n": "Amaciante de Roupas Urca Fragrâncias Frasco 2L", "p": "5,99", "u": "un", "x": 40, "y": 3, "w": 18, "h": 15},
+     {"n": "Água Sanitária Clorito Frasco 2L", "p": "2,99", "u": "un", "x": 59, "y": 3, "w": 18, "h": 15},
+     {"n": "Lava-Louças Ypê Fragrâncias Frasco 500ml", "p": "1,99", "u": "un", "x": 78, "y": 3, "w": 20, "h": 15},
+     {"n": "Desinfetante Dragão Fragrâncias Frasco 2L", "p": "4,49", "u": "un", "x": 2, "y": 18, "w": 18, "h": 15},
+     {"n": "Limpador Multiúso Dragão Fragrâncias Frasco 500ml", "p": "3,49", "u": "un", "x": 21, "y": 18, "w": 18, "h": 15},
+     {"n": "Esponja de Aço Bombril Pacote 45g", "p": "1,49", "u": "un", "x": 40, "y": 18, "w": 18, "h": 15},
+     {"n": "Inseticida Aerossol Ação Total Baygon Tipos Frasco 360ml", "p": "11,90", "u": "un", "x": 59, "y": 18, "w": 18, "h": 15},
+     {"n": "Papel-Toalha Caprice Pacote 2 Unidades com 50 Folhas", "p": "3,29", "u": "un", "x": 78, "y": 18, "w": 20, "h": 15},
+     {"n": "Absorvente Noturno com Abas Delicacy Tipos Pacote 30 Unidades", "p": "16,90", "u": "un", "x": 2, "y": 33, "w": 18, "h": 15},
+     {"n": "Lenços Umedecidos Piquitucho Pacote 48 Unidades", "p": "4,29", "u": "un", "x": 21, "y": 33, "w": 18, "h": 15},
+     {"n": "Fralda Descartável Hiper Cremer Pacote/Tamanhos", "p": "49,90", "u": "un", "x": 40, "y": 33, "w": 18, "h": 15},
+     {"n": "Shampoo Naturals Palmolive Tipos Frasco 350ml", "p": "7,95", "u": "un", "x": 59, "y": 33, "w": 18, "h": 15},
+     {"n": "Sabonete Botanicals Lux Fragrâncias Embalagem 85g", "p": "1,89", "u": "un", "x": 78, "y": 33, "w": 20, "h": 15},
+     {"n": "Desodorante Aerossol Monange Fragrâncias Frasco 200ml", "p": "9,35", "u": "un", "x": 2, "y": 48, "w": 18, "h": 15},
+     {"n": "Creme Dental Tripla Ação Colgate Caixeta 180g", "p": "8,99", "u": "un", "x": 21, "y": 48, "w": 18, "h": 15},
+     {"n": "Enxaguante Bucal Colgate Plax Tipos Frasco 500ml", "p": "12,50", "u": "un", "x": 40, "y": 48, "w": 18, "h": 15},
+     {"n": "Copo Americano Nadir Unidade 190ml", "p": "1,25", "u": "un", "x": 59, "y": 48, "w": 18, "h": 15},
+     {"n": "Fósforo Olho Fiat Lux Pacote 10 Unidades", "p": "3,49", "u": "un", "x": 78, "y": 48, "w": 20, "h": 15},
+     {"n": "Saco para Lixo Brilhus Pacote 30 Unidades de 50L", "p": "11,90", "u": "un", "x": 2, "y": 63, "w": 18, "h": 17},
+     {"n": "Vassoura com Cabo Multiúso Fácil Unidade", "p": "6,99", "u": "un", "x": 21, "y": 63, "w": 18, "h": 17},
+     {"n": "Mop com Balde Compacto Brilhus Unidade 10L", "p": "59,90", "u": "un", "x": 40, "y": 63, "w": 18, "h": 17},
+     {"n": "Fritadeira Elétrica Air Fryer Oven Britânia 11L 220V", "p": "469,90", "u": "un", "x": 59, "y": 63, "w": 18, "h": 17},
+     {"n": "Pneu Aro 14 175/75 XBRI Fastway Unidade", "p": "219,90", "u": "un", "x": 78, "y": 63, "w": 20, "h": 17}
+    ]
+   }
+  },
+  {
+   "action": {
+    "id": "assai_170320-572",
+    "titulo": "Assaí — Giro da Economia Vanish e Veja (24 a 28/08)",
+    "banner": "Assaí Atacadista",
+    "segmento": "atacarejo",
+    "inicio": "2026-08-24",
+    "fim": "2026-08-28"
+   },
+   "products": {
+    "assai_170320-572_p1": [
+     {"n": "Limpador Multiúso Veja Fragrâncias Frasco 750ml", "p": "6,49", "u": "un", "x": 2, "y": 20, "w": 18, "h": 17},
+     {"n": "Limpador Multiúso Veja Fragrâncias Frasco 500ml", "p": "7,90", "u": "un", "x": 21, "y": 20, "w": 18, "h": 17},
+     {"n": "Limpador Desengordurante para Cozinha Veja Fragrâncias Frasco Spray 500ml", "p": "15,49", "u": "un", "x": 40, "y": 20, "w": 18, "h": 17},
+     {"n": "Limpador Desengordurante para Cozinha Veja Fragrâncias Refil 400ml", "p": "8,90", "u": "un", "x": 59, "y": 20, "w": 18, "h": 17},
+     {"n": "Limpador para Banheiro Oxi Veja Tipos Refil 400ml", "p": "10,90", "u": "un", "x": 78, "y": 20, "w": 20, "h": 17},
+     {"n": "Limpador Perfumado Veja Fragrâncias Frasco 2L", "p": "12,90", "u": "un", "x": 2, "y": 38, "w": 18, "h": 16},
+     {"n": "Desinfetante Harpic Tipos Frasco 200ml", "p": "6,99", "u": "un", "x": 21, "y": 38, "w": 18, "h": 16},
+     {"n": "Desinfetante Harpic Tipos Frasco 500ml", "p": "12,90", "u": "un", "x": 40, "y": 38, "w": 18, "h": 16},
+     {"n": "Desinfetante em Gel Adesivo Flores de Verão ou Brisa do Mar Harpic Caixeta 3x15g", "p": "13,90", "u": "un", "x": 59, "y": 38, "w": 18, "h": 16},
+     {"n": "Bloco Sanitário Higiênico Harpic Fragrâncias Cartela 26g", "p": "10,90", "u": "un", "x": 78, "y": 38, "w": 20, "h": 16},
+     {"n": "Pedra Sanitária Harpic Aroma Plus Fragrâncias Caixeta 20g", "p": "3,39", "u": "un", "x": 2, "y": 55, "w": 18, "h": 16},
+     {"n": "Bloco para Caixa Acoplada Marine Harpic Cartela Leve 3 Pague 2 Blocos", "p": "24,90", "u": "un", "x": 21, "y": 55, "w": 18, "h": 16},
+     {"n": "Tira-Manchas em Gel Vanish Tipos Refil 1,2L", "p": "19,90", "u": "un", "x": 40, "y": 55, "w": 18, "h": 16},
+     {"n": "Tira-Manchas em Pó Oxi Action Vanish Tipos Pacote 1,2Kg", "p": "44,90", "u": "un", "x": 59, "y": 55, "w": 18, "h": 16},
+     {"n": "Tira-Manchas em Pó Vanish Tipos Pacote 400g", "p": "16,90", "u": "un", "x": 78, "y": 55, "w": 20, "h": 16}
+    ]
+   }
+  },
+  {
+   "action": {
+    "id": "assai_170328-572",
+    "titulo": "Assaí — Giro da Economia Cafés L'Or (24 a 28/08)",
+    "banner": "Assaí Atacadista",
+    "segmento": "atacarejo",
+    "inicio": "2026-08-24",
+    "fim": "2026-08-28"
+   },
+   "products": {
+    "assai_170328-572_p1": [
+     {"n": "Café Tradicional ou Extraforte Pilão Pacote Almofada ou a Vácuo 250g", "p": "13,49", "u": "un", "x": 2, "y": 23, "w": 30, "h": 40},
+     {"n": "Café Tradicional Maratá Pacote Almofada 250g", "p": "12,99", "u": "un", "x": 33, "y": 23, "w": 29, "h": 40},
+     {"n": "Cápsula para Café Espresso Nº12 Pilão Caixeta 20x5,4g", "p": "34,99", "u": "un", "x": 62, "y": 23, "w": 36, "h": 40}
+    ]
+   }
+  }
+ ]
+}

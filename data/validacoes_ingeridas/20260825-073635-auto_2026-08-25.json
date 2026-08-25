@@ -1,0 +1,299 @@
+{
+ "validacoes": [
+  {
+   "a": "Papel Higiênico Noble Folha Dupla 20m Leve 12 Pague 11",
+   "b": "Papel Higiênico Rose Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Confeito de Chocolate Chococandy Dori 500g",
+   "b": "Confeito de Chocolate Chococandy 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Sublime Folha Dupla 30m Leve 12 Pague 11",
+   "b": "Papel Higiênico Rose Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Óleo Composto Maria Tradicional PET 500ml",
+   "b": "Óleo Composto Olívia Tradicional PET 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11",
+   "b": "Papel Higiênico Rose Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bala de Gelatina Fini Sabores 60g",
+   "b": "Bala de Gelatina Dori Sabores 60g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bolacha Taboleiro Torrada Amanteigada 250g",
+   "b": "Bolacha Taboleiro Amanteigada 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+   "b": "Papel Higiênico Rose Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cafe Soluvel Sao Braz Extra Forte Refil 40g",
+   "b": "Café Solúvel São Braz Extraforte Sachê 40g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bolacha Taboleiro Manteiga da Terra 250g",
+   "b": "Bolacha Taboleiro Amanteigada 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Picanha Bovina Resfriada a Vácuo Masterboi KG",
+   "b": "Patinho Bovino Resfriado a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Toalha Umedecida Piquitucho c/60",
+   "b": "Toalha Umedecida Piquitucho Premium C/60",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Rosquinhas 3 de Maio 300g (sabores)",
+   "b": "Biscoito Rosquinhas Galo 300g (sabores)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito Rosquinhas Vitarella 300g (sabores)",
+   "b": "Biscoito Rosquinhas Galo 300g (sabores)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Achocolatado em Pó Powerlate São Braz 700g",
+   "b": "Achocolatado em Po Powerlate SCH 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vassoura Original Novica Unidade (Sem Cabo)",
+   "b": "Vassoura Facil Novica Unidade (Sem Cabo)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Uva Melodia Cappellaro Sem Semente 500g",
+   "b": "Uva Vitória Cappellaro Sem Sementes 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Choc Barra Hersheys 75g/77g e 82g",
+   "b": "Chocolate Barra Hershey's 75g/77g/82g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café em Pó Santa Clara Clássico Almofada pct 250g",
+   "b": "Café Santa Clara Clássico Almofada 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mini Tangerinas Pick & Nicky Cumbuca 500g",
+   "b": "Mini Tangerinas Pick & Nicky 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Itacolomy 500g",
+   "b": "Manteiga Itacolomy 500g (C/ Sal)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Lays 30g Sabores",
+   "b": "Batata Frita Lays 30g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango a Passarinho Cox/Sobrecox Lar 700g Temperado",
+   "b": "Frango a Passarinho Coxa/Sobrecoxa Lar Temperado 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Vinagre de Álcool Leto 500ml",
+   "b": "Vinagre de Álcool Palmeiron 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+   "b": "Acém Bovino Resfriado a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cafeteira Ramos Nº 2 unid",
+   "b": "Cafeteira Ramos N°2",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pernil Suíno kg c/ Osso",
+   "b": "Pernil Suíno com Osso",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Organizador de Ovos ou Clear Fresh 18u NT",
+   "b": "Organizador De Ovos Ou Clear Fresh Brinox 18u",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aguardente 51 Ouro 965ml",
+   "b": "Aguardente 51 965ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Aveia em Flocos Allnutri Finos/Tradicional 170g",
+   "b": "Aveia em Flocos All Nutri 170g Finos/Tradicional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cha de Fora Resf kg",
+   "b": "Chã de Fora Resfriado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha da Asa de Frango Jaguá Resfriada kg",
+   "b": "Coxinha da Asa de Frango Mauricea Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito de Frango com Osso Resfriado",
+   "b": "Peito de Frango com Osso Mauricea Resfriado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha da Asa de Frango Resfriada",
+   "b": "Coxinha da Asa de Frango Mauricea Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Picanha Bovina Australiana Congelada",
+   "b": "Picanha Bovina Fatiada Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Manteiga Itambé Resfriada com sal pote 500g",
+   "b": "Manteiga Itacolomy Resfriada Com Sal Pote com 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa e Sobrecoxa de Frango Bom Todo Bd 1kg",
+   "b": "Coxas com Sobrecoxas de Frango Bom Todo Bandeja 1Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerossol Rexona Fragrâncias 2x200ml",
+   "b": "Desodorante Aerossol Francis Fragrancias 200ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bisteca Suína Resfriada Reserva kg",
+   "b": "Barriga Suína Resfriada Reserva kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cachaça Caranguejo Ouro 980ml",
+   "b": "Cachaça Caranguejo Limão 980ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite UHT Desnatado Leitbom 1L",
+   "b": "Leite UHT Desnatado Molico 1L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Palha Gratícia Pacote com 400g",
+   "b": "Batata Palha Graticia Culinaria Pacote com 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Costela Ponta de Agulha kg",
+   "b": "Costela Bovina Ponta de Agulha kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante de Roupas Concentrado Comfort Fragrâncias Frasco 500ml",
+   "b": "Amaciante de Roupas Concentrado Fofo Fragrancias 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Galinha Pequena Q'Delícia Cong kg",
+   "b": "Galinha Pequena Delícia Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxinha da Asa de Frango LAR Resfriada kg",
+   "b": "Coxinha da Asa de Frango Mauricea Resfriada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite UHT ITALAC 1L Integral/Desnatado",
+   "b": "Leite UHT Elegê 1L (Integral/Desnatado)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Condicionador Monange 325ml Fragrâncias",
+   "b": "Condicionador Seda 325ml Fragrancias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bolacha Taboleiro Manteiga do Sertão 250g",
+   "b": "Bolacha Taboleiro Amanteigada 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante Concentrado para Roupas Downy 500ml",
+   "b": "Amaciante Concentrado para Roupas Brilux 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Toalha Mili Folha Dupla 2 Rolos",
+   "b": "Papel Toalha Mili F/D 2 Rolos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Whisky Escocês Black & White Garrafa 1L",
+   "b": "Whisky Black & White Garrafa 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peixe Panga Pescados da Cruz Congelado 800g",
+   "b": "Filé de Peixe Merluza Pescados da Cruz Congelado PC 800g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+   "b": "File de Peito de Frango Sadia Congelado Bandeja com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Purificador de Ar Glade 360ml 20% Desc",
+   "b": "Purificador de Ar Glade 360ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxas com Sobrecoxas de Frango Bom Todo Bandeja 1Kg",
+   "b": "Coxa C/ Sobrecoxa de Frango Bom Todo 1kg (Bandeja)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Congelada Kg",
+   "b": "Coxa com Sobrecoxa de Frango Resfriada kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filezinho de Peito de Frango Lar 1kg",
+   "b": "Filezinho de Peito de Frango Lar Congelado 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Finna 1kg com Fermento",
+   "b": "Farinha de Trigo Finna 1kg Papel S/Fermento",
+   "veredito": "diferente"
+  }
+ ]
+}

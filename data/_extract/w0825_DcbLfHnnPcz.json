@@ -1,0 +1,27 @@
+{
+ "action": {
+  "id": "DcbLfHnnPcz",
+  "titulo": "Favoritaço Gôndola — Parnamirim e Macaíba (19 a 25/08)",
+  "banner": "Favorito Super / Atacado Favorito",
+  "segmento": "varejo",
+  "inicio": "2026-08-19",
+  "fim": "2026-08-25"
+ },
+ "products": {
+  "DcbLfHnnPcz_p1": [
+   {"n": "Leite Condensado Italac Semidesnatado 395g", "p": "5,99", "u": "un", "x": 53, "y": 26, "w": 30, "h": 27}
+  ],
+  "DcbLfHnnPcz_p2": [
+   {"n": "Creme de Leite Italac 200g", "p": "2,59", "u": "un", "x": 48, "y": 26, "w": 32, "h": 33}
+  ],
+  "DcbLfHnnPcz_p3": [
+   {"n": "Ovo Branco da Gema Grande C/30", "p": "15,89", "u": "un", "x": 48, "y": 9, "w": 40, "h": 38}
+  ],
+  "DcbLfHnnPcz_p4": [
+   {"n": "Bombom Garoto Sortido 220g", "p": "12,99", "u": "un", "x": 34, "y": 30, "w": 49, "h": 40}
+  ],
+  "DcbLfHnnPcz_p5": [
+   {"n": "Leite UHT Elegê Integral 1L", "p": "5,89", "u": "un", "x": 50, "y": 22, "w": 44, "h": 47}
+  ]
+ }
+}

@@ -26334,5 +26334,388 @@
   "b": "Papel Higiênico Neutro Max Pure Folha Dupla 30 Metros",
   "veredito": "diferente",
   "quando": "2026-08-24"
+ },
+ "papel higienico noble folha dupla 20m leve 12 pague 11 || papel higienico rose folha dupla 20m leve 12 pague 11": {
+  "a": "Papel Higiênico Noble Folha Dupla 20m Leve 12 Pague 11",
+  "b": "Papel Higiênico Rose Folha Dupla 20m Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "confeito de chocolate chococandy 500g || confeito de chocolate chococandy dori 500g": {
+  "a": "Confeito de Chocolate Chococandy Dori 500g",
+  "b": "Confeito de Chocolate Chococandy 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "papel higienico rose folha dupla 20m leve 12 pague 11 || papel higienico sublime folha dupla 30m leve 12 pague 11": {
+  "a": "Papel Higiênico Sublime Folha Dupla 30m Leve 12 Pague 11",
+  "b": "Papel Higiênico Rose Folha Dupla 20m Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "oleo composto maria tradicional pet 500ml || oleo composto olivia tradicional pet 500ml": {
+  "a": "Óleo Composto Maria Tradicional PET 500ml",
+  "b": "Óleo Composto Olívia Tradicional PET 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "papel higienico personal folha dupla 20m leve 12 pague 11 || papel higienico rose folha dupla 20m leve 12 pague 11": {
+  "a": "Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11",
+  "b": "Papel Higiênico Rose Folha Dupla 20m Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "bala de gelatina dori sabores 60g || bala de gelatina fini sabores 60g": {
+  "a": "Bala de Gelatina Fini Sabores 60g",
+  "b": "Bala de Gelatina Dori Sabores 60g",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "bolacha taboleiro amanteigada 250g || bolacha taboleiro torrada amanteigada 250g": {
+  "a": "Bolacha Taboleiro Torrada Amanteigada 250g",
+  "b": "Bolacha Taboleiro Amanteigada 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "papel higienico caprice folha dupla leve 12 pague 11 || papel higienico rose folha dupla 20m leve 12 pague 11": {
+  "a": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+  "b": "Papel Higiênico Rose Folha Dupla 20m Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "cafe soluvel sao braz extra forte refil 40g || cafe soluvel sao braz extraforte sache 40g": {
+  "a": "Cafe Soluvel Sao Braz Extra Forte Refil 40g",
+  "b": "Café Solúvel São Braz Extraforte Sachê 40g",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "bolacha taboleiro amanteigada 250g || bolacha taboleiro manteiga da terra 250g": {
+  "a": "Bolacha Taboleiro Manteiga da Terra 250g",
+  "b": "Bolacha Taboleiro Amanteigada 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "patinho bovino resfriado a vacuo masterboi kg || picanha bovina resfriada a vacuo masterboi kg": {
+  "a": "Picanha Bovina Resfriada a Vácuo Masterboi KG",
+  "b": "Patinho Bovino Resfriado a Vácuo Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "toalha umedecida piquitucho c/60 || toalha umedecida piquitucho premium c/60": {
+  "a": "Toalha Umedecida Piquitucho c/60",
+  "b": "Toalha Umedecida Piquitucho Premium C/60",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "biscoito rosquinhas 3 de maio 300g (sabores) || biscoito rosquinhas galo 300g (sabores)": {
+  "a": "Biscoito Rosquinhas 3 de Maio 300g (sabores)",
+  "b": "Biscoito Rosquinhas Galo 300g (sabores)",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "biscoito rosquinhas galo 300g (sabores) || biscoito rosquinhas vitarella 300g (sabores)": {
+  "a": "Biscoito Rosquinhas Vitarella 300g (sabores)",
+  "b": "Biscoito Rosquinhas Galo 300g (sabores)",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "achocolatado em po powerlate sao braz 700g || achocolatado em po powerlate sch 700g": {
+  "a": "Achocolatado em Pó Powerlate São Braz 700g",
+  "b": "Achocolatado em Po Powerlate SCH 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "vassoura facil novica unidade (sem cabo) || vassoura original novica unidade (sem cabo)": {
+  "a": "Vassoura Original Novica Unidade (Sem Cabo)",
+  "b": "Vassoura Facil Novica Unidade (Sem Cabo)",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "uva melodia cappellaro sem semente 500g || uva vitoria cappellaro sem sementes 500g": {
+  "a": "Uva Melodia Cappellaro Sem Semente 500g",
+  "b": "Uva Vitória Cappellaro Sem Sementes 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "choc barra hersheys 75g/77g e 82g || chocolate barra hershey's 75g/77g/82g": {
+  "a": "Choc Barra Hersheys 75g/77g e 82g",
+  "b": "Chocolate Barra Hershey's 75g/77g/82g",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "cafe em po santa clara classico almofada pct 250g || cafe santa clara classico almofada 250g": {
+  "a": "Café em Pó Santa Clara Clássico Almofada pct 250g",
+  "b": "Café Santa Clara Clássico Almofada 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "mini tangerinas pick & nicky 500g || mini tangerinas pick & nicky cumbuca 500g": {
+  "a": "Mini Tangerinas Pick & Nicky Cumbuca 500g",
+  "b": "Mini Tangerinas Pick & Nicky 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "manteiga itacolomy 500g || manteiga itacolomy 500g (c/ sal)": {
+  "a": "Manteiga Itacolomy 500g",
+  "b": "Manteiga Itacolomy 500g (C/ Sal)",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "batata frita lays 30g sabores || batata lays 30g sabores": {
+  "a": "Batata Lays 30g Sabores",
+  "b": "Batata Frita Lays 30g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "frango a passarinho cox/sobrecox lar 700g temperado || frango a passarinho coxa/sobrecoxa lar temperado 700g": {
+  "a": "Frango a Passarinho Cox/Sobrecox Lar 700g Temperado",
+  "b": "Frango a Passarinho Coxa/Sobrecoxa Lar Temperado 700g",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "vinagre de alcool leto 500ml || vinagre de alcool palmeiron 500ml": {
+  "a": "Vinagre de Álcool Leto 500ml",
+  "b": "Vinagre de Álcool Palmeiron 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "acem bovino resfriado a vacuo masterboi kg || paleta bovina resfriada a vacuo masterboi kg": {
+  "a": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+  "b": "Acém Bovino Resfriado a Vácuo Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "cafeteira ramos n°2 || cafeteira ramos nº 2 unid": {
+  "a": "Cafeteira Ramos Nº 2 unid",
+  "b": "Cafeteira Ramos N°2",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "pernil suino com osso || pernil suino kg c/ osso": {
+  "a": "Pernil Suíno kg c/ Osso",
+  "b": "Pernil Suíno com Osso",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "organizador de ovos ou clear fresh 18u nt || organizador de ovos ou clear fresh brinox 18u": {
+  "a": "Organizador de Ovos ou Clear Fresh 18u NT",
+  "b": "Organizador De Ovos Ou Clear Fresh Brinox 18u",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "aguardente 51 965ml || aguardente 51 ouro 965ml": {
+  "a": "Aguardente 51 Ouro 965ml",
+  "b": "Aguardente 51 965ml",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "aveia em flocos all nutri 170g finos/tradicional || aveia em flocos allnutri finos/tradicional 170g": {
+  "a": "Aveia em Flocos Allnutri Finos/Tradicional 170g",
+  "b": "Aveia em Flocos All Nutri 170g Finos/Tradicional",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "cha de fora resf kg || cha de fora resfriado kg": {
+  "a": "Cha de Fora Resf kg",
+  "b": "Chã de Fora Resfriado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "coxinha da asa de frango jagua resfriada kg || coxinha da asa de frango mauricea resfriada": {
+  "a": "Coxinha da Asa de Frango Jaguá Resfriada kg",
+  "b": "Coxinha da Asa de Frango Mauricea Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "peito de frango com osso mauricea resfriado || peito de frango com osso resfriado": {
+  "a": "Peito de Frango com Osso Resfriado",
+  "b": "Peito de Frango com Osso Mauricea Resfriado",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "coxinha da asa de frango mauricea resfriada || coxinha da asa de frango resfriada": {
+  "a": "Coxinha da Asa de Frango Resfriada",
+  "b": "Coxinha da Asa de Frango Mauricea Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "picanha bovina australiana congelada || picanha bovina fatiada congelada": {
+  "a": "Picanha Bovina Australiana Congelada",
+  "b": "Picanha Bovina Fatiada Congelada",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "manteiga itacolomy resfriada com sal pote com 500g || manteiga itambe resfriada com sal pote 500g": {
+  "a": "Manteiga Itambé Resfriada com sal pote 500g",
+  "b": "Manteiga Itacolomy Resfriada Com Sal Pote com 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "coxa e sobrecoxa de frango bom todo bd 1kg || coxas com sobrecoxas de frango bom todo bandeja 1kg": {
+  "a": "Coxa e Sobrecoxa de Frango Bom Todo Bd 1kg",
+  "b": "Coxas com Sobrecoxas de Frango Bom Todo Bandeja 1Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "desodorante aerossol francis fragrancias 200ml || desodorante aerossol rexona fragrancias 2x200ml": {
+  "a": "Desodorante Aerossol Rexona Fragrâncias 2x200ml",
+  "b": "Desodorante Aerossol Francis Fragrancias 200ml",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "barriga suina resfriada reserva kg || bisteca suina resfriada reserva kg": {
+  "a": "Bisteca Suína Resfriada Reserva kg",
+  "b": "Barriga Suína Resfriada Reserva kg",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "cachaca caranguejo limao 980ml || cachaca caranguejo ouro 980ml": {
+  "a": "Cachaça Caranguejo Ouro 980ml",
+  "b": "Cachaça Caranguejo Limão 980ml",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "leite uht desnatado leitbom 1l || leite uht desnatado molico 1l": {
+  "a": "Leite UHT Desnatado Leitbom 1L",
+  "b": "Leite UHT Desnatado Molico 1L",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "batata palha graticia culinaria pacote com 400g || batata palha graticia pacote com 400g": {
+  "a": "Batata Palha Gratícia Pacote com 400g",
+  "b": "Batata Palha Graticia Culinaria Pacote com 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "costela bovina ponta de agulha kg || costela ponta de agulha kg": {
+  "a": "Costela Ponta de Agulha kg",
+  "b": "Costela Bovina Ponta de Agulha kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "amaciante de roupas concentrado comfort fragrancias frasco 500ml || amaciante de roupas concentrado fofo fragrancias 500ml": {
+  "a": "Amaciante de Roupas Concentrado Comfort Fragrâncias Frasco 500ml",
+  "b": "Amaciante de Roupas Concentrado Fofo Fragrancias 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "galinha pequena delicia kg || galinha pequena q'delicia cong kg": {
+  "a": "Galinha Pequena Q'Delícia Cong kg",
+  "b": "Galinha Pequena Delícia Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "coxinha da asa de frango lar resfriada kg || coxinha da asa de frango mauricea resfriada": {
+  "a": "Coxinha da Asa de Frango LAR Resfriada kg",
+  "b": "Coxinha da Asa de Frango Mauricea Resfriada",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "leite uht elege 1l (integral/desnatado) || leite uht italac 1l integral/desnatado": {
+  "a": "Leite UHT ITALAC 1L Integral/Desnatado",
+  "b": "Leite UHT Elegê 1L (Integral/Desnatado)",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "condicionador monange 325ml fragrancias || condicionador seda 325ml fragrancias": {
+  "a": "Condicionador Monange 325ml Fragrâncias",
+  "b": "Condicionador Seda 325ml Fragrancias",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "bolacha taboleiro amanteigada 250g || bolacha taboleiro manteiga do sertao 250g": {
+  "a": "Bolacha Taboleiro Manteiga do Sertão 250g",
+  "b": "Bolacha Taboleiro Amanteigada 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "amaciante concentrado para roupas brilux 500ml || amaciante concentrado para roupas downy 500ml": {
+  "a": "Amaciante Concentrado para Roupas Downy 500ml",
+  "b": "Amaciante Concentrado para Roupas Brilux 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "papel toalha mili f/d 2 rolos || papel toalha mili folha dupla 2 rolos": {
+  "a": "Papel Toalha Mili Folha Dupla 2 Rolos",
+  "b": "Papel Toalha Mili F/D 2 Rolos",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "whisky black & white garrafa 1l || whisky escoces black & white garrafa 1l": {
+  "a": "Whisky Escocês Black & White Garrafa 1L",
+  "b": "Whisky Black & White Garrafa 1L",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "file de peixe merluza pescados da cruz congelado pc 800g || file de peixe panga pescados da cruz congelado 800g": {
+  "a": "Filé de Peixe Panga Pescados da Cruz Congelado 800g",
+  "b": "Filé de Peixe Merluza Pescados da Cruz Congelado PC 800g",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "file de peito de frango sadia congelado bandeja com 1kg || filezinho de peito de frango sadia congelado bdj 1kg": {
+  "a": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+  "b": "File de Peito de Frango Sadia Congelado Bandeja com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "purificador de ar glade 360ml || purificador de ar glade 360ml 20% desc": {
+  "a": "Purificador de Ar Glade 360ml 20% Desc",
+  "b": "Purificador de Ar Glade 360ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "coxa c/ sobrecoxa de frango bom todo 1kg (bandeja) || coxas com sobrecoxas de frango bom todo bandeja 1kg": {
+  "a": "Coxas com Sobrecoxas de Frango Bom Todo Bandeja 1Kg",
+  "b": "Coxa C/ Sobrecoxa de Frango Bom Todo 1kg (Bandeja)",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango congelada kg || coxa com sobrecoxa de frango resfriada kg": {
+  "a": "Coxa com Sobrecoxa de Frango Congelada Kg",
+  "b": "Coxa com Sobrecoxa de Frango Resfriada kg",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
+ },
+ "filezinho de peito de frango lar 1kg || filezinho de peito de frango lar congelado 1kg": {
+  "a": "Filezinho de Peito de Frango Lar 1kg",
+  "b": "Filezinho de Peito de Frango Lar Congelado 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-25",
+  "aplicado": true
+ },
+ "farinha de trigo finna 1kg com fermento || farinha de trigo finna 1kg papel s/fermento": {
+  "a": "Farinha de Trigo Finna 1kg com Fermento",
+  "b": "Farinha de Trigo Finna 1kg Papel S/Fermento",
+  "veredito": "diferente",
+  "quando": "2026-08-25"
  }
 }

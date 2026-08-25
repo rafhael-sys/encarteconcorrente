@@ -1,0 +1,170 @@
+{
+ "acoes": [
+  {
+   "action": {
+    "id": "atacadao_6d5c7af181",
+    "titulo": "Atacadão — Boa do Dia (só terça 25/08)",
+    "banner": "Atacadão",
+    "segmento": "atacarejo",
+    "inicio": "2026-08-25",
+    "fim": "2026-08-25"
+   },
+   "products": {
+    "atacadao_6d5c7af181_p1": [
+     {"n": "Melão Amarelo Kg", "p": "3,59", "u": "kg", "x": 2, "y": 26, "w": 47, "h": 24},
+     {"n": "Cebola Branca Kg", "p": "4,69", "u": "kg", "x": 51, "y": 26, "w": 47, "h": 24},
+     {"n": "Coxa com Sobrecoxa de Frango Lar Congelada Kg (preço por quilo no pacote)", "p": "7,99", "u": "kg", "x": 2, "y": 51, "w": 47, "h": 23},
+     {"n": "Linguiça Tipo Calabresa Perdigão Pacote com 2,5Kg", "p": "63,90", "u": "un", "x": 51, "y": 51, "w": 47, "h": 23},
+     {"n": "Chocolate Lacta Favoritos Caixa com 250,6g", "p": "10,99", "u": "un", "x": 2, "y": 74, "w": 47, "h": 22},
+     {"n": "Mistura de Leite Mococa TP com 200g", "p": "1,59", "u": "un", "x": 51, "y": 74, "w": 47, "h": 22}
+    ]
+   }
+  },
+  {
+   "action": {
+    "id": "atacadao_4c8425a1c1",
+    "titulo": "Atacadão — Açougue, Frios e Fatiados (25 a 27/08)",
+    "banner": "Atacadão",
+    "segmento": "atacarejo",
+    "inicio": "2026-08-25",
+    "fim": "2026-08-27"
+   },
+   "products": {
+    "atacadao_4c8425a1c1_p1": [
+     {"n": "Coxa de Frango Resfriada Mauricéa Kg", "p": "10,90", "u": "kg", "x": 2, "y": 19, "w": 31, "h": 9},
+     {"n": "Peito de Frango com Osso Resfriado Mauricéa Kg", "p": "13,90", "u": "kg", "x": 35, "y": 19, "w": 31, "h": 9},
+     {"n": "Sobrecoxa de Frango Resfriada Mauricéa Kg", "p": "11,59", "u": "kg", "x": 68, "y": 19, "w": 30, "h": 9},
+     {"n": "Carne Bovina Acém com Osso Reserva Resfriada Friboi Kg", "p": "24,98", "u": "kg", "x": 2, "y": 29, "w": 31, "h": 9},
+     {"n": "Carne Suína Bisteca Fatiada Congelada Seara Kg", "p": "13,89", "u": "kg", "x": 35, "y": 29, "w": 31, "h": 9},
+     {"n": "Fígado Bovino Reserva Resfriado Friboi Kg", "p": "10,99", "u": "kg", "x": 68, "y": 29, "w": 30, "h": 9},
+     {"n": "Queijo Mussarela Girolanda Fatiado Kg", "p": "47,90", "u": "kg", "x": 2, "y": 44, "w": 96, "h": 15},
+     {"n": "Salsicha Hot Dog Perdigão Resfriada Kg", "p": "14,90", "u": "kg", "x": 2, "y": 60, "w": 96, "h": 15}
+    ]
+   }
+  },
+  {
+   "action": {
+    "id": "atacadao_eae9c63c05",
+    "titulo": "Atacadão — Super Ofertas (25 a 27/08)",
+    "banner": "Atacadão",
+    "segmento": "atacarejo",
+    "inicio": "2026-08-25",
+    "fim": "2026-08-27"
+   },
+   "products": {
+    "atacadao_eae9c63c05_p1": [
+     {"n": "Cebola Branca Kg", "p": "4,69", "u": "kg", "x": 4, "y": 24, "w": 18, "h": 14},
+     {"n": "Tomate Italiano Kg", "p": "3,29", "u": "kg", "x": 23, "y": 24, "w": 18, "h": 14},
+     {"n": "Beterraba Kg", "p": "3,99", "u": "kg", "x": 42, "y": 24, "w": 18, "h": 14},
+     {"n": "Pimentão Verde Kg", "p": "4,99", "u": "kg", "x": 61, "y": 24, "w": 18, "h": 14},
+     {"n": "Melão Amarelo Kg", "p": "3,59", "u": "kg", "x": 79, "y": 24, "w": 19, "h": 14},
+     {"n": "Pera Importada Kg", "p": "14,59", "u": "kg", "x": 4, "y": 38, "w": 18, "h": 14},
+     {"n": "Maçã Nacional Gala Kg", "p": "6,79", "u": "kg", "x": 23, "y": 38, "w": 18, "h": 14},
+     {"n": "Abacaxi Tropical Unidade", "p": "2,99", "u": "un", "x": 42, "y": 38, "w": 18, "h": 14},
+     {"n": "Banana Nanica Kg", "p": "2,99", "u": "kg", "x": 61, "y": 38, "w": 18, "h": 14},
+     {"n": "Batata Doce Kg", "p": "3,99", "u": "kg", "x": 79, "y": 38, "w": 19, "h": 14},
+     {"n": "Carne Bovina Costela em Tira Friboi Congelada Kg (preço por quilo na peça)", "p": "31,90", "u": "kg", "x": 4, "y": 57, "w": 18, "h": 19},
+     {"n": "Carne Bovina Coxão Mole Friboi Porcionada Resfriada Kg", "p": "48,90", "u": "kg", "x": 23, "y": 57, "w": 18, "h": 19},
+     {"n": "Carne Bovina Cupim Porcionada Friboi Resfriada Kg", "p": "29,90", "u": "kg", "x": 42, "y": 57, "w": 18, "h": 19},
+     {"n": "Fígado Bovino Friboi Congelado Kg", "p": "11,90", "u": "kg", "x": 61, "y": 57, "w": 18, "h": 19},
+     {"n": "Carne Bovina Lagarto Friboi Porcionada Resfriada Kg", "p": "43,90", "u": "kg", "x": 79, "y": 57, "w": 19, "h": 19}
+    ],
+    "atacadao_eae9c63c05_p2": [
+     {"n": "Galinha Somave Congelada Kg (preço por quilo na peça)", "p": "8,39", "u": "kg", "x": 4, "y": 16, "w": 18, "h": 19},
+     {"n": "Peito de Frango Natto Congelado Bandeja com 1Kg", "p": "14,99", "u": "un", "x": 23, "y": 16, "w": 18, "h": 19},
+     {"n": "Frango à Passarinho Lar IQF Congelado Pacote com 1Kg", "p": "9,99", "u": "un", "x": 42, "y": 16, "w": 18, "h": 19},
+     {"n": "Hambúrguer Texas Burger Congelado Misto Caixeta com 36x56g", "p": "36,90", "u": "un", "x": 61, "y": 16, "w": 18, "h": 19},
+     {"n": "Linguiça Tipo Calabresa Mista Fina Sadia Pacote com 215g", "p": "6,49", "u": "un", "x": 79, "y": 16, "w": 19, "h": 19},
+     {"n": "Margarina Claybom Resfriada com Sal Pote com 250g", "p": "2,39", "u": "un", "x": 4, "y": 37, "w": 18, "h": 20},
+     {"n": "Leite Longa Vida Natville com Tampa Integral/Desnatado TP com 1L", "p": "5,99", "u": "un", "x": 23, "y": 37, "w": 18, "h": 20},
+     {"n": "Margarina Primor 60% Lipídios com Sal Balde com 3Kg", "p": "28,90", "u": "un", "x": 42, "y": 37, "w": 18, "h": 20},
+     {"n": "Batata Pré-Frita McCain Congelada Pacote com 2Kg", "p": "25,89", "u": "un", "x": 61, "y": 37, "w": 18, "h": 20},
+     {"n": "Açaí Fruta Pluss Congelado Tradicional/Morango Pote com 900ml", "p": "17,98", "u": "un", "x": 79, "y": 37, "w": 19, "h": 20},
+     {"n": "Filé de Merluza Fish Congelado Pacote com 800g", "p": "29,98", "u": "un", "x": 4, "y": 58, "w": 18, "h": 20},
+     {"n": "Polpa de Fruta Canaã Congelada Cajá/Graviola Unidade com 100g", "p": "1,49", "u": "un", "x": 23, "y": 58, "w": 18, "h": 20},
+     {"n": "Leite Fermentado Itambé Resfriado Vários Sabores Pack com 480g", "p": "5,69", "u": "un", "x": 42, "y": 58, "w": 18, "h": 20},
+     {"n": "Requeijão Danone Resfriado Copo com 200g", "p": "8,29", "u": "un", "x": 61, "y": 58, "w": 18, "h": 20},
+     {"n": "Iogurte Danone Resfriado Vários Sabores Garrafa com 1,25Kg", "p": "15,90", "u": "un", "x": 79, "y": 58, "w": 19, "h": 20}
+    ],
+    "atacadao_eae9c63c05_p3": [
+     {"n": "Açúcar Demerara Petribu Pacote com 1Kg", "p": "3,79", "u": "un", "x": 4, "y": 15, "w": 18, "h": 16},
+     {"n": "Arroz Mariano Parboilizado Tipo 1 Pacote com 1Kg", "p": "3,99", "u": "un", "x": 23, "y": 15, "w": 18, "h": 16},
+     {"n": "Farinha de Trigo Finna Tipo 1 Pacote com 1Kg", "p": "3,79", "u": "un", "x": 42, "y": 15, "w": 18, "h": 16},
+     {"n": "Feijão Preto Camil Tipo 1 Pacote com 1Kg", "p": "5,99", "u": "un", "x": 61, "y": 15, "w": 18, "h": 16},
+     {"n": "Óleo de Soja Soya PET com 900ml", "p": "7,69", "u": "un", "x": 79, "y": 15, "w": 19, "h": 16},
+     {"n": "Biscoito Wafer Bauducco Vários Sabores Pacote com 70g", "p": "1,59", "u": "un", "x": 4, "y": 31, "w": 18, "h": 16},
+     {"n": "Bolacha São Francisco Manteiguinha Pingo Pacote com 250g", "p": "4,59", "u": "un", "x": 23, "y": 31, "w": 18, "h": 16},
+     {"n": "Leite em Pó Itambé Desnatado Pouch com 200g", "p": "7,59", "u": "un", "x": 42, "y": 31, "w": 18, "h": 16},
+     {"n": "Café Bom Jesus Tradicional/Extra Forte Pacote com 250g", "p": "9,98", "u": "un", "x": 61, "y": 31, "w": 18, "h": 16},
+     {"n": "Café Solúvel Nescafé Dolca Sachê com 40g", "p": "4,59", "u": "un", "x": 79, "y": 31, "w": 19, "h": 16},
+     {"n": "Chocolate Lacta Vários Sabores Unidade com 80g", "p": "9,49", "u": "un", "x": 4, "y": 47, "w": 18, "h": 16},
+     {"n": "Chocolate em Pó Sicao 50% Cacau Pacote com 1,01Kg", "p": "49,90", "u": "un", "x": 23, "y": 47, "w": 18, "h": 16},
+     {"n": "Nutella Creme de Avelã Pote com 140g", "p": "11,99", "u": "un", "x": 42, "y": 47, "w": 18, "h": 16},
+     {"n": "Maionese Quero Pouch com 200g", "p": "2,49", "u": "un", "x": 61, "y": 47, "w": 18, "h": 16},
+     {"n": "Molho de Tomate Quero Tradicional Pouch com 240g", "p": "1,59", "u": "un", "x": 79, "y": 47, "w": 19, "h": 16},
+     {"n": "Salgadinho Elma Chips Cebolitos/Cheetos/Fandangos Pacote com 21g", "p": "0,89", "u": "un", "x": 4, "y": 63, "w": 18, "h": 17},
+     {"n": "Flocão de Milho Maratá Pacote com 500g", "p": "1,38", "u": "un", "x": 23, "y": 63, "w": 18, "h": 17},
+     {"n": "Batata Palha Gratícia Pacote com 400g", "p": "12,99", "u": "un", "x": 42, "y": 63, "w": 18, "h": 17},
+     {"n": "Pão Artesano Plusvita Pão na Chapa Pacote com 500g", "p": "12,90", "u": "un", "x": 61, "y": 63, "w": 18, "h": 17},
+     {"n": "Ketchup Cepêra Minissachê Caixeta com 154x7g", "p": "12,90", "u": "un", "x": 79, "y": 63, "w": 19, "h": 17}
+    ],
+    "atacadao_eae9c63c05_p4": [
+     {"n": "Energético Red Bull Energy Drink Lata com 250ml", "p": "8,39", "u": "un", "x": 4, "y": 15, "w": 18, "h": 21},
+     {"n": "Refresco Líquido Kapo Vários Sabores TP com 200ml", "p": "2,09", "u": "un", "x": 23, "y": 15, "w": 18, "h": 21},
+     {"n": "Refrigerante Coca-Cola Original/Sem Açúcar PET com 1L", "p": "6,99", "u": "un", "x": 42, "y": 15, "w": 18, "h": 21},
+     {"n": "Refrigerante Guaraná Antarctica PET com 2,5L", "p": "7,49", "u": "un", "x": 61, "y": 15, "w": 18, "h": 21},
+     {"n": "Água Mineral Sterbom sem Gás PET com 510ml", "p": "0,78", "u": "un", "x": 79, "y": 15, "w": 19, "h": 21},
+     {"n": "Refrigerante Pepsi Cola PET com 1L", "p": "4,39", "u": "un", "x": 4, "y": 36, "w": 18, "h": 21},
+     {"n": "Refrigerante Guaraná Antarctica Lata com 350ml", "p": "2,79", "u": "un", "x": 23, "y": 36, "w": 18, "h": 21},
+     {"n": "Suco Fazenda Doce Sol Uva Integral Garrafa com 1,35L", "p": "11,90", "u": "un", "x": 42, "y": 36, "w": 18, "h": 21},
+     {"n": "Cachaça Matuta Mel e Limão Garrafa com 1L", "p": "37,90", "u": "un", "x": 61, "y": 36, "w": 18, "h": 21},
+     {"n": "Cachaça Ypióca 150 Garrafa com 700ml", "p": "47,90", "u": "un", "x": 79, "y": 36, "w": 19, "h": 21},
+     {"n": "Cerveja Amstel Sleek Lata com 350ml", "p": "3,29", "u": "un", "x": 4, "y": 57, "w": 18, "h": 23},
+     {"n": "Licor Amarula Garrafa com 750ml", "p": "89,90", "u": "un", "x": 23, "y": 57, "w": 18, "h": 23},
+     {"n": "Tequila Jose Cuervo Gold Garrafa com 750ml", "p": "124,90", "u": "un", "x": 42, "y": 57, "w": 18, "h": 23},
+     {"n": "Vodka Orloff Garrafa com 1L", "p": "24,90", "u": "un", "x": 61, "y": 57, "w": 18, "h": 23},
+     {"n": "Vinho Adega do Vale Vários Tipos Garrafa com 750ml", "p": "16,90", "u": "un", "x": 79, "y": 57, "w": 19, "h": 23}
+    ],
+    "atacadao_eae9c63c05_p5": [
+     {"n": "Desodorante Aerossol Above Clinical Men Frasco com 200ml", "p": "6,99", "u": "un", "x": 4, "y": 15, "w": 18, "h": 13},
+     {"n": "Absorvente Noturno Always Seca/Suave com Abas Pacote com 32 Unidades", "p": "19,90", "u": "un", "x": 23, "y": 15, "w": 18, "h": 13},
+     {"n": "Sabonete Suave Even Várias Fragrâncias Unidade com 85g", "p": "1,59", "u": "un", "x": 42, "y": 15, "w": 18, "h": 13},
+     {"n": "Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades", "p": "12,90", "u": "un", "x": 61, "y": 15, "w": 18, "h": 13},
+     {"n": "Enxaguante Bucal Colgate Plax Fresh Mint/Ice Infinity Frasco com 250ml", "p": "9,50", "u": "un", "x": 79, "y": 15, "w": 19, "h": 13},
+     {"n": "Creme Dental Colgate Tripla Ação Hortelã Tubo com 90g", "p": "4,99", "u": "un", "x": 4, "y": 28, "w": 18, "h": 13},
+     {"n": "Fralda Descartável Fofura Baby Hiper XXG Pacote com 50 Unidades", "p": "49,90", "u": "un", "x": 23, "y": 28, "w": 18, "h": 13},
+     {"n": "Fralda Descartável Fofura Short Mega M Pacote com 28 Unidades", "p": "24,90", "u": "un", "x": 42, "y": 28, "w": 18, "h": 13},
+     {"n": "Papel Higiênico Familiar Soft Folha Simples 30m Pacote com 4 Rolos", "p": "2,60", "u": "un", "x": 61, "y": 28, "w": 18, "h": 13},
+     {"n": "Sabonete Líquido Granado Bebê Várias Fragrâncias Frasco com 500ml", "p": "25,50", "u": "un", "x": 79, "y": 28, "w": 19, "h": 13},
+     {"n": "Shampoo Infantil Granado Bebê Tradicional/Camomila Frasco com 250ml", "p": "13,50", "u": "un", "x": 4, "y": 41, "w": 18, "h": 13},
+     {"n": "Sabonete Líquido Dove Nutrição Profunda/Pele Sensível Frasco com 250ml", "p": "11,90", "u": "un", "x": 23, "y": 41, "w": 18, "h": 13},
+     {"n": "Aparelho de Barbear Bic Flex 3 Blíster com 4 Unidades", "p": "17,90", "u": "un", "x": 42, "y": 41, "w": 18, "h": 13},
+     {"n": "Condicionador Novex Recarga de Queratina Unidade com 80g", "p": "13,90", "u": "un", "x": 61, "y": 41, "w": 18, "h": 13},
+     {"n": "Creme de Tratamento para Cabelo Elseve Vários Tipos Pote com 300g", "p": "24,90", "u": "un", "x": 79, "y": 41, "w": 19, "h": 13},
+     {"n": "Detergente Líquido Atol Vários Tipos Frasco com 500ml", "p": "1,39", "u": "un", "x": 4, "y": 57, "w": 18, "h": 11},
+     {"n": "Lava Roupas em Pó Omo Lavagem Perfeita Pacote com 400g", "p": "5,99", "u": "un", "x": 23, "y": 57, "w": 18, "h": 11},
+     {"n": "Lava Roupas Líquido Omo Vários Tipos Frasco com 750ml", "p": "11,90", "u": "un", "x": 42, "y": 57, "w": 18, "h": 11},
+     {"n": "Limpador Perfumado Brilux Vários Tipos Frasco com 500ml", "p": "4,99", "u": "un", "x": 61, "y": 57, "w": 18, "h": 11},
+     {"n": "Água Sanitária Brilux Frasco com 2L", "p": "4,89", "u": "un", "x": 79, "y": 57, "w": 19, "h": 11},
+     {"n": "Kit Tira Manchas em Gel Vanish Pacote com 2x1,2L", "p": "39,90", "u": "un", "x": 4, "y": 68, "w": 18, "h": 12},
+     {"n": "Desodorizador Sanitário Pedra Harpic Flores/Lavanda Unidade com 20g", "p": "3,99", "u": "un", "x": 23, "y": 68, "w": 18, "h": 12},
+     {"n": "Desodorizador Aerossol Glade Várias Fragrâncias Tubo com 360ml", "p": "16,90", "u": "un", "x": 42, "y": 68, "w": 18, "h": 12},
+     {"n": "Desengordurante Veja Vários Tipos Refil com 400ml", "p": "9,90", "u": "un", "x": 61, "y": 68, "w": 18, "h": 12},
+     {"n": "Repelente Off Family Loção Frasco com 200ml", "p": "20,90", "u": "un", "x": 79, "y": 68, "w": 19, "h": 12}
+    ],
+    "atacadao_eae9c63c05_p6": [
+     {"n": "Copo Descartável Copobras ABNT Transparente 180ml Pacote com 100 Unidades", "p": "3,99", "u": "un", "x": 2, "y": 13, "w": 47, "h": 12},
+     {"n": "Toalha de Papel Caprice Pacote com 2x50 Folhas", "p": "3,69", "u": "un", "x": 51, "y": 13, "w": 47, "h": 12},
+     {"n": "Aditivo para Radiador Proauto Prorad Frasco com 1L", "p": "13,90", "u": "un", "x": 2, "y": 25, "w": 47, "h": 13},
+     {"n": "Cadeira Bistrô Movemba Preta Unidade", "p": "44,00", "u": "un", "x": 51, "y": 25, "w": 47, "h": 13},
+     {"n": "Garrafa Térmica Invicta VG Preta/Vermelha 750ml Unidade", "p": "26,00", "u": "un", "x": 2, "y": 38, "w": 47, "h": 13},
+     {"n": "Lâmpada Ledvance 12W Bivolt Unidade", "p": "3,09", "u": "un", "x": 51, "y": 38, "w": 47, "h": 13},
+     {"n": "Pá de Lixo Plástica Noviça com Cabo Unidade", "p": "21,90", "u": "un", "x": 2, "y": 51, "w": 47, "h": 13},
+     {"n": "Balde de Plástico Noviça 10L Unidade", "p": "22,90", "u": "un", "x": 51, "y": 51, "w": 47, "h": 13},
+     {"n": "Biscoito para Cães Pedigree Biscrock Filhotes Pacote com 300g", "p": "12,90", "u": "un", "x": 2, "y": 64, "w": 47, "h": 14},
+     {"n": "Alimento para Gatos Whiskas Carne Sachê com 85g", "p": "2,25", "u": "un", "x": 51, "y": 64, "w": 47, "h": 14}
+    ]
+   }
+  }
+ ]
+}

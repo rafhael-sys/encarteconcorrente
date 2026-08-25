@@ -1,0 +1,32 @@
+{
+ "action": {
+  "id": "Dcb-bnuIKl9",
+  "titulo": "Terça da Carne (25/08)",
+  "banner": "Atacarejo Santo Antônio",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-25",
+  "fim": "2026-08-25"
+ },
+ "products": {
+  "Dcb-bnuIKl9_p1": [
+   {"n": "Carne Bovina Contra Filé Kg", "p": "41,98", "u": "kg", "x": 1, "y": 48, "w": 24, "h": 23},
+   {"n": "Carne Bovina Alcatra Kg", "p": "39,98", "u": "kg", "x": 26, "y": 48, "w": 24, "h": 23},
+   {"n": "Carne Bovina Chã de Dentro Kg", "p": "35,98", "u": "kg", "x": 51, "y": 48, "w": 24, "h": 23},
+   {"n": "Carne Bovina Chã de Fora Kg", "p": "34,98", "u": "kg", "x": 76, "y": 48, "w": 24, "h": 23},
+   {"n": "Carne Bovina Bisteca Contra Filé Kg", "p": "35,98", "u": "kg", "x": 1, "y": 71, "w": 24, "h": 23},
+   {"n": "Carne Bovina Costela P.A Kg", "p": "23,98", "u": "kg", "x": 26, "y": 71, "w": 24, "h": 23},
+   {"n": "Carne Bovina Chambaril Kg", "p": "25,98", "u": "kg", "x": 51, "y": 71, "w": 24, "h": 23},
+   {"n": "Carne Bovina Lombo Serrado Kg", "p": "25,98", "u": "kg", "x": 76, "y": 71, "w": 24, "h": 23}
+  ],
+  "Dcb-bnuIKl9_p2": [
+   {"n": "Galinha Leve Qdelícia Kg", "p": "5,98", "u": "kg", "x": 1, "y": 48, "w": 24, "h": 23},
+   {"n": "Filé de Frango Jaguá Bandeja 1Kg", "p": "15,98", "u": "un", "x": 26, "y": 48, "w": 24, "h": 23},
+   {"n": "Camarão Grande a Granel Kg", "p": "34,98", "u": "kg", "x": 51, "y": 48, "w": 24, "h": 23},
+   {"n": "Fígado Bovino Congelado Kg", "p": "14,98", "u": "kg", "x": 76, "y": 48, "w": 24, "h": 23},
+   {"n": "Ovos Brancos Grandes Bandeja c/30", "p": "13,49", "u": "un", "x": 1, "y": 71, "w": 24, "h": 23},
+   {"n": "Carne Moída Camará 500g", "p": "6,49", "u": "un", "x": 26, "y": 71, "w": 24, "h": 23},
+   {"n": "Linguiça Churrasco ou Frango Aurora Kg", "p": "15,98", "u": "kg", "x": 51, "y": 71, "w": 24, "h": 23},
+   {"n": "Empanado de Frango Lar 100g", "p": "1,29", "u": "un", "x": 76, "y": 71, "w": 24, "h": 23}
+  ]
+ }
+}

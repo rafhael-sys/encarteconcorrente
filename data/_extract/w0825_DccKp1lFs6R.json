@@ -1,0 +1,57 @@
+{
+ "action": {
+  "id": "DccKp1lFs6R",
+  "titulo": "Terça da Carne + Super Ofertas (25/08)",
+  "banner": "Rede Supercop",
+  "segmento": "varejo",
+  "inicio": "2026-08-25",
+  "fim": "2026-08-25"
+ },
+ "products": {
+  "DccKp1lFs6R_p1": [
+   {"n": "Carne Bovina Chã de Fora Resfriado Kg", "p": "37,99", "u": "kg", "x": 2, "y": 32, "w": 42, "h": 28},
+   {"n": "Carne Bovina Músculo Kg", "p": "29,99", "u": "kg", "x": 2, "y": 61, "w": 42, "h": 30},
+   {"n": "Coxas com Sobrecoxas de Frango com Dorsal Kg", "p": "7,49", "u": "kg", "x": 45, "y": 27, "w": 26, "h": 22},
+   {"n": "Fígado Bovino Congelado Kg", "p": "13,99", "u": "kg", "x": 72, "y": 27, "w": 26, "h": 22},
+   {"n": "Costela Bovina P. A. Kg", "p": "23,99", "u": "kg", "x": 45, "y": 50, "w": 26, "h": 22},
+   {"n": "Carne Bovina Lombo Serrado Kg", "p": "27,99", "u": "kg", "x": 72, "y": 50, "w": 26, "h": 22},
+   {"n": "Carne Bovina Cupim Resfriado Kg", "p": "37,99", "u": "kg", "x": 45, "y": 73, "w": 26, "h": 22},
+   {"n": "Pernil Suíno Kg", "p": "13,89", "u": "kg", "x": 72, "y": 73, "w": 26, "h": 22}
+  ],
+  "DccKp1lFs6R_p2": [
+   {"n": "Linguiça Suína para Churrasco Suinco Kg", "p": "13,99", "u": "kg", "x": 2, "y": 30, "w": 42, "h": 28},
+   {"n": "Frango a Passarinho IQF Canção 1Kg", "p": "10,99", "u": "un", "x": 2, "y": 60, "w": 42, "h": 30},
+   {"n": "Salsicha Hot-Dog Avivar Kg", "p": "5,49", "u": "kg", "x": 45, "y": 25, "w": 26, "h": 22},
+   {"n": "Coxinha da Asa Canção IQF 1Kg", "p": "12,99", "u": "un", "x": 72, "y": 25, "w": 26, "h": 22},
+   {"n": "Coração de Frango Lar 700g", "p": "29,99", "u": "un", "x": 45, "y": 48, "w": 26, "h": 24},
+   {"n": "Presunto sem Capa Saudali Kg", "p": "19,99", "u": "kg", "x": 72, "y": 48, "w": 26, "h": 24},
+   {"n": "Batata Pré-Frita Crinkle Bem Brasil 1,05Kg", "p": "16,99", "u": "un", "x": 45, "y": 72, "w": 26, "h": 24},
+   {"n": "Batata Palito Pré-Frita EasyChef 2Kg", "p": "18,99", "u": "un", "x": 72, "y": 72, "w": 26, "h": 24}
+  ],
+  "DccKp1lFs6R_p3": [
+   {"n": "Vinho San Telmo 750ml (tipos)", "p": "32,99", "u": "un", "x": 5, "y": 28, "w": 38, "h": 34},
+   {"n": "Energético Infinity Drink 1L", "p": "8,49", "u": "un", "x": 4, "y": 62, "w": 20, "h": 32},
+   {"n": "Refrigerante Indaiá 2L (sabores)", "p": "4,59", "u": "un", "x": 24, "y": 62, "w": 22, "h": 32},
+   {"n": "Manteiga com Sal Ipanema 200g", "p": "8,99", "u": "un", "x": 48, "y": 26, "w": 24, "h": 24},
+   {"n": "Queijo Mussarela Fatiado Ipanema 150g", "p": "7,49", "u": "un", "x": 74, "y": 26, "w": 24, "h": 24},
+   {"n": "Requeijão Cremoso Ipanema 180g (tradicional ou light)", "p": "5,99", "u": "un", "x": 48, "y": 52, "w": 24, "h": 24},
+   {"n": "Água Mineral Ster Bom sem Gás 510ml", "p": "0,99", "u": "un", "x": 74, "y": 52, "w": 24, "h": 24},
+   {"n": "Hambúrguer Misto Chuletão 56g", "p": "0,75", "u": "un", "x": 50, "y": 76, "w": 48, "h": 20}
+  ],
+  "DccKp1lFs6R_p4": [
+   {"n": "Leite UHT Piracanjuba Zero Lactose ou Desnatado Molico 1L", "p": "7,99", "u": "un", "x": 4, "y": 26, "w": 40, "h": 34},
+   {"n": "Biscoito Cream Cracker Integral Marilan 335g", "p": "4,49", "u": "un", "x": 3, "y": 60, "w": 40, "h": 36},
+   {"n": "Biscoito Wafer Marilan 70g (sabores)", "p": "1,49", "u": "un", "x": 40, "y": 24, "w": 28, "h": 24},
+   {"n": "Creme de Leite Natville ou Glória 200g", "p": "2,39", "u": "un", "x": 72, "y": 24, "w": 26, "h": 24},
+   {"n": "Arroz Parboilizado Panelaço 1Kg", "p": "3,49", "u": "un", "x": 44, "y": 50, "w": 26, "h": 28},
+   {"n": "Macarrão Parafuso Comum Brandini 500g", "p": "3,99", "u": "un", "x": 72, "y": 50, "w": 26, "h": 28},
+   {"n": "Leite em Pó Integral Bom Gosto 200g", "p": "6,49", "u": "un", "x": 52, "y": 79, "w": 44, "h": 18}
+  ],
+  "DccKp1lFs6R_p5": [
+   {"n": "Papel Higiênico Caprice Folha Dupla 20m Leve 12 Pague 11 (neutro)", "p": "9,99", "u": "un", "x": 2, "y": 30, "w": 46, "h": 28},
+   {"n": "Água Sanitária Dragão 1L", "p": "1,99", "u": "un", "x": 54, "y": 30, "w": 44, "h": 28},
+   {"n": "Desinfetante Dragão 1L (fragrâncias)", "p": "3,49", "u": "un", "x": 8, "y": 62, "w": 40, "h": 30},
+   {"n": "Lava Roupas Líquido Top Clear 3L (fragrâncias)", "p": "12,99", "u": "un", "x": 50, "y": 60, "w": 48, "h": 34}
+  ]
+ }
+}
