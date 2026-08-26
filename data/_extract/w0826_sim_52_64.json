@@ -1,0 +1,19 @@
+{
+ "certos": [
+  {"k": "biscoito para caes pedigree biscrock filhotes 300g || biscoito para caes pedigree biscrock filhotes pacote com 300g", "a": "Biscoito para Cães Pedigree Biscrock Filhotes 300g", "b": "Biscoito para Cães Pedigree Biscrock Filhotes Pacote com 300g", "veredito": "mesmo"},
+  {"k": "requeijao cremoso tradicional clan pote 400g || requeijao cremoso tradicional tirolez pote 400g", "a": "Requeijão Cremoso Tradicional Tirolez Pote 400g", "b": "Requeijão Cremoso Tradicional Clan Pote 400g", "veredito": "diferente"},
+  {"k": "creme de leite bendito tp 200g || creme de leite betania tp 200g", "a": "Creme de Leite Bendito TP 200g", "b": "Creme de Leite Betânia TP 200g", "veredito": "diferente"},
+  {"k": "sabonete liquido clean level varias fragrancias frasco com 500ml || sabonete liquido granado bebe varias fragrancias frasco com 500ml", "a": "Sabonete Líquido Clean Level Várias fragrâncias Frasco com 500ml", "b": "Sabonete Líquido Granado Bebê Várias Fragrâncias Frasco com 500ml", "veredito": "diferente"},
+  {"k": "carne bovina acem com osso reserva resfriada || carne bovina acem com osso reserva resfriada friboi kg", "a": "Carne Bovina Acém com Osso Reserva Resfriada", "b": "Carne Bovina Acém com Osso Reserva Resfriada Friboi Kg", "veredito": "mesmo"},
+  {"k": "banana nanica || banana nanica kg", "a": "Banana Nanica", "b": "Banana Nanica Kg", "veredito": "mesmo"},
+  {"k": "energetico red bull energy drink 250ml || energetico red bull energy drink lata com 250ml", "a": "Energético Red Bull Energy Drink 250ml", "b": "Energético Red Bull Energy Drink Lata com 250ml", "veredito": "mesmo"},
+  {"k": "desodorizador aerossol bom ar varias fragrancias tubo 360ml || desodorizador aerossol glade varias fragrancias tubo com 360ml", "a": "Desodorizador Aerossol Bom Ar Várias Fragrâncias Tubo 360ml", "b": "Desodorizador Aerossol Glade Várias Fragrâncias Tubo com 360ml", "veredito": "diferente"},
+  {"k": "figado bovino friboi congelado (kg na peca) || figado bovino friboi congelado kg", "a": "Fígado Bovino Friboi Congelado (kg na peça)", "b": "Fígado Bovino Friboi Congelado Kg", "veredito": "mesmo"},
+  {"k": "manteiga com sal betania pote 200g || manteiga com sal clan pote 200g", "a": "Manteiga com Sal Betânia Pote 200g", "b": "Manteiga com Sal Clan Pote 200g", "veredito": "diferente"},
+  {"k": "coxa de frango resfriada mauricea || sobrecoxa de frango resfriada mauricea kg", "a": "Coxa de Frango Resfriada Mauricéa", "b": "Sobrecoxa de Frango Resfriada Mauricéa Kg", "veredito": "diferente"},
+  {"k": "file de tilapia congelado seara iqf 600g || file de tilapia congelado seara pacote 600g", "a": "Filé de Tilápia Congelado Seara IQF 600g", "b": "Filé de Tilápia Congelado Seara Pacote 600g", "veredito": "mesmo"}
+ ],
+ "incertos": [
+  "bisteca suina congelada kg || bisteca suina congelada sadia kg"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "certos": [
+  {"k": "farinha de trigo tipo 1 profissional dona benta saca 25kg || farinha de trigo tipo 1 profissional dona benta saco 25kg", "a": "Farinha de Trigo Tipo 1 Profissional Dona Benta saca 25kg", "b": "Farinha de Trigo Tipo 1 Profissional Dona Benta Saco 25Kg", "veredito": "mesmo"},
+  {"k": "carne bovina costela em tira friboi congelada (preco por quilo na peca) || carne bovina costela em tira friboi congelada kg (preco por quilo na peca)", "a": "Carne Bovina Costela em Tira Friboi Congelada (preço por quilo na peça)", "b": "Carne Bovina Costela em Tira Friboi Congelada Kg (preço por quilo na peça)", "veredito": "mesmo"},
+  {"k": "coxas e sobrecoxas de frango com porcao dorsal congeladas lar || coxas e sobrecoxas de frango com porcao dorsal congeladas lar kg", "a": "Coxas e Sobrecoxas de Frango com Porção Dorsal Congeladas Lar", "b": "Coxas e Sobrecoxas de Frango com Porção Dorsal Congeladas Lar Kg", "veredito": "mesmo"},
+  {"k": "bebida lactea whey protein piracanjuba sabores 250ml || bebida lactea whey protein piracanjuba sabores tp 250ml", "a": "Bebida Láctea Whey Protein Piracanjuba Sabores 250ml", "b": "Bebida Láctea Whey Protein Piracanjuba Sabores TP 250ml", "veredito": "mesmo"},
+  {"k": "carne bovina coxao mole friboi porcionada resfriada || carne bovina coxao mole friboi porcionada resfriada kg", "a": "Carne Bovina Coxão Mole Friboi Porcionada Resfriada", "b": "Carne Bovina Coxão Mole Friboi Porcionada Resfriada Kg", "veredito": "mesmo"},
+  {"k": "carne bovina acem com osso reserva resfriada friboi || carne bovina acem com osso reserva resfriada friboi kg", "a": "Carne Bovina Acém com Osso Reserva Resfriada Friboi", "b": "Carne Bovina Acém com Osso Reserva Resfriada Friboi Kg", "veredito": "mesmo"},
+  {"k": "carne bovina lagarto friboi porcionada resfriada || carne bovina lagarto friboi porcionada resfriada kg", "a": "Carne Bovina Lagarto Friboi Porcionada Resfriada", "b": "Carne Bovina Lagarto Friboi Porcionada Resfriada Kg", "veredito": "mesmo"},
+  {"k": "carne bovina cupim porcionada friboi resfriada || carne bovina cupim porcionada friboi resfriada kg", "a": "Carne Bovina Cupim Porcionada Friboi Resfriada", "b": "Carne Bovina Cupim Porcionada Friboi Resfriada Kg", "veredito": "mesmo"},
+  {"k": "carne suina bisteca fatiada congelada seara || carne suina bisteca fatiada congelada seara kg", "a": "Carne Suína Bisteca Fatiada Congelada Seara", "b": "Carne Suína Bisteca Fatiada Congelada Seara Kg", "veredito": "mesmo"},
+  {"k": "enxaguante bucal colgate plax fresh mint / plax ice infinity frasco com 250ml || enxaguante bucal colgate plax fresh mint/ice infinity frasco com 250ml", "a": "Enxaguante Bucal Colgate Plax Fresh Mint / Plax Ice Infinity Frasco com 250ml", "b": "Enxaguante Bucal Colgate Plax Fresh Mint/Ice Infinity Frasco com 250ml", "veredito": "mesmo"},
+  {"k": "cafe bom jesus tradicional/extra forte pacote 250g || cafe bom jesus tradicional/extra forte pacote com 250g", "a": "Café Bom Jesus Tradicional/Extra Forte pacote 250g", "b": "Café Bom Jesus Tradicional/Extra Forte Pacote com 250g", "veredito": "mesmo"},
+  {"k": "figado bovino reserva resfriado friboi || figado bovino reserva resfriado friboi kg", "a": "Fígado Bovino Reserva Resfriado Friboi", "b": "Fígado Bovino Reserva Resfriado Friboi Kg", "veredito": "mesmo"},
+  {"k": "detergente liquido atol varios tipos frasco 500ml || detergente liquido atol varios tipos frasco com 500ml", "a": "Detergente Líquido Atol Vários Tipos Frasco 500ml", "b": "Detergente Líquido Atol Vários Tipos Frasco com 500ml", "veredito": "mesmo"}
+ ],
+ "incertos": []
+}

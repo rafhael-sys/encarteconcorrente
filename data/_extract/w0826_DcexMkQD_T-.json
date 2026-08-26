@@ -1,0 +1,33 @@
+{
+  "shortcode": "DcexMkQD_T-",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-26",
+  "fim": "2026-08-27",
+  "titulo": "Super Feirão de Aniversário — hortifruti (qua e qui)",
+  "pages": {
+    "DcexMkQD_T-_p1": [
+      {"n": "Ovo Branco Grande Granja Almeida C/ 30", "p": "12,99", "u": "cada", "x": 5, "y": 26, "w": 22, "h": 25},
+      {"n": "Batata Inglesa", "p": "3,48", "u": "kg", "x": 28, "y": 26, "w": 22, "h": 25},
+      {"n": "Cebola Branca", "p": "3,38", "u": "kg", "x": 51, "y": 26, "w": 22, "h": 25},
+      {"n": "Goma para Tapioca Kumê 1kg", "p": "3,99", "u": "cada", "x": 74, "y": 26, "w": 22, "h": 25},
+      {"n": "Uva Vitória Seleta 500g (Bandeja)", "p": "4,98", "u": "cada", "x": 4, "y": 53, "w": 15, "h": 17},
+      {"n": "Laranja Pera", "p": "1,98", "u": "kg", "x": 20, "y": 53, "w": 14, "h": 17},
+      {"n": "Banana Prata ou Pacovan", "p": "2,98", "u": "kg", "x": 35, "y": 53, "w": 15, "h": 17},
+      {"n": "Alho (A Granel)", "p": "1,58", "u": "100g", "x": 50, "y": 53, "w": 14, "h": 17},
+      {"n": "Cenoura", "p": "5,48", "u": "kg", "x": 64, "y": 53, "w": 14, "h": 17},
+      {"n": "Maçã Nacional", "p": "7,98", "u": "kg", "x": 79, "y": 53, "w": 15, "h": 17},
+      {"n": "Melancia Baby", "p": "2,98", "u": "kg", "x": 4, "y": 71, "w": 12, "h": 12},
+      {"n": "Melão Espanhol", "p": "3,48", "u": "kg", "x": 17, "y": 71, "w": 12, "h": 12},
+      {"n": "Melão Japonês", "p": "3,98", "u": "kg", "x": 30, "y": 71, "w": 12, "h": 12},
+      {"n": "Pera D'Anjour", "p": "12,98", "u": "kg", "x": 43, "y": 71, "w": 13, "h": 12},
+      {"n": "Uva Verde Seleta 500g (Bandeja)", "p": "8,48", "u": "cada", "x": 56, "y": 71, "w": 14, "h": 12},
+      {"n": "Ameixa Fresca", "p": "21,98", "u": "kg", "x": 70, "y": 71, "w": 13, "h": 12},
+      {"n": "Kiwi (A Granel)", "p": "2,88", "u": "100g", "x": 83, "y": 71, "w": 13, "h": 12}
+    ],
+    "DcexMkQD_T-_p2": [
+      {"n": "Ovo Branco Grande Granja Almeida C/ 30", "p": "12,99", "u": "cada", "x": 13, "y": 22, "w": 74, "h": 62}
+    ],
+    "DcexMkQD_T-_p3": []
+  }
+}

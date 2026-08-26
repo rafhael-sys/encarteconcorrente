@@ -1,0 +1,40 @@
+{
+  "shortcode": "Dcer4JtmkZc",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-26",
+  "fim": "2026-08-27",
+  "titulo": "Corta Preço — ofertas 26 e 27/08",
+  "pages": {
+    "Dcer4JtmkZc_p1": [],
+    "Dcer4JtmkZc_p2": [
+      {"n": "Queijo Tipo Mussarela Nutrilac Peça/Pedaço", "p": "33,99", "u": "kg", "x": 8, "y": 5, "w": 30, "h": 55},
+      {"n": "Leite em Pó Integral Aurora Pacote 200g", "p": "5,99", "u": "un", "x": 37, "y": 8, "w": 26, "h": 50},
+      {"n": "Filé de Peito de Frango Envelopado Lar Congelado", "p": "13,99", "u": "kg", "x": 62, "y": 5, "w": 32, "h": 55},
+      {"n": "Carne Bovina Acem com Osso", "p": "24,99", "u": "kg", "x": 8, "y": 55, "w": 40, "h": 35},
+      {"n": "Carne Bovina Capa Contra Filé Resfriado", "p": "29,99", "u": "kg", "x": 50, "y": 55, "w": 45, "h": 35}
+    ],
+    "Dcer4JtmkZc_p3": [
+      {"n": "Café São Braz Almofada Extraforte Pacote 250g", "p": "11,59", "u": "un", "x": 7, "y": 5, "w": 40, "h": 25},
+      {"n": "Pernil Suíno Seara Congelado", "p": "12,99", "u": "kg", "x": 52, "y": 5, "w": 40, "h": 25},
+      {"n": "Coxas e Sobrecoxas de Frango Lar com Porção Dorsal Congelado", "p": "6,79", "u": "kg", "x": 7, "y": 30, "w": 43, "h": 26},
+      {"n": "Bebida Láctea UHT Natville Choconat 200ml", "p": "0,89", "u": "un", "x": 52, "y": 30, "w": 40, "h": 26},
+      {"n": "Manteiga D'Nata com Sal Pote 500g", "p": "15,99", "u": "un", "x": 7, "y": 58, "w": 42, "h": 28},
+      {"n": "Feijão Preto DuBom Tipo 1 Pacote 1kg", "p": "5,59", "u": "un", "x": 50, "y": 58, "w": 42, "h": 28}
+    ],
+    "Dcer4JtmkZc_p4": [
+      {"n": "Cebola Branca", "p": "2,99", "u": "kg", "x": 14, "y": 26, "w": 32, "h": 32},
+      {"n": "Laranja Pera", "p": "1,29", "u": "kg", "x": 52, "y": 26, "w": 36, "h": 32},
+      {"n": "Banana Pacovan", "p": "1,99", "u": "kg", "x": 12, "y": 58, "w": 33, "h": 32},
+      {"n": "Ovos Grande Branco Granja Filadélfia Bandeja com 30 Unidades", "p": "13,49", "u": "un", "x": 47, "y": 57, "w": 46, "h": 33}
+    ],
+    "Dcer4JtmkZc_p5": [
+      {"n": "Macarrão Espaguete Bonsabor Pacote 400g", "p": "1,89", "u": "un", "x": 8, "y": 5, "w": 40, "h": 27},
+      {"n": "Leite UHT LeitBom Semidesnatado 1L", "p": "4,59", "u": "un", "x": 52, "y": 5, "w": 40, "h": 27},
+      {"n": "Farinha de Trigo Finna sem Fermento Pacote 1kg", "p": "3,59", "u": "un", "x": 8, "y": 33, "w": 42, "h": 29},
+      {"n": "Detergente em Pó ALA Sachê 400g Fragrâncias", "p": "2,39", "u": "un", "x": 52, "y": 33, "w": 40, "h": 29},
+      {"n": "Lava Roupas Líquido Becker + Ekonomico 3 Litros", "p": "9,99", "u": "un", "x": 8, "y": 62, "w": 42, "h": 28},
+      {"n": "Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11", "p": "10,49", "u": "pct, leve 12 pague 11", "x": 52, "y": 62, "w": 42, "h": 28}
+    ]
+  }
+}

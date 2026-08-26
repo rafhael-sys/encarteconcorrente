@@ -4008,3 +4008,65 @@
 - DIFERENTES: «Vassoura Original Novica Unidade (Sem Cabo)» != «Vassoura Facil Novica Unidade (Sem Cabo)»
 - DIFERENTES: «Vinagre de Álcool Leto 500ml» != «Vinagre de Álcool Palmeiron 500ml»
 - MESMO: «Whisky Escocês Black & White Garrafa 1L» == «Whisky Black & White Garrafa 1L»
+- DIFERENTES: «Absorvente Lady Suave com Abas Pacote com 32 unidades» != «Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades»
+- MESMO: «Absorvente Noturno Always Seca com Abas Pacote 32 unidades» == «Absorvente Noturno Always Seca/Suave com Abas Pacote com 32 Unidades»
+- DIFERENTES: «Absorvente Noturno Always Seca/Suave com Abas pacote 48 unidades» != «Absorvente Noturno Always Seca/Suave com Abas Pacote com 32 Unidades»
+- DIFERENTES: «Absorvente Noturno Always Seca/Suave com Abas Pacote com 32 Unidades» != «Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades»
+- DIFERENTES: «Absorvente Noturno Sym Suave com Abas Pacote com 8 Unidades» != «Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades»
+- DIFERENTES: «Amaciante de Roupas Dragão Fragrâncias Frasco 2L» != «Amaciante de Roupas Urca Fragrâncias Frasco 2L»
+- DIFERENTES: «Aveia em Flocos Regulares ou Finos Yoki Caixeta 170g» != «Aveia em Flocos Regulares ou Finos Nestlé Caixeta 170g»
+- MESMO: «Azeite Extravirgem Fiorentini ou Manos Alba Vidro 500ml» == «Azeite de Oliva Extravirgem Fiorentini ou Manosalba Vidro 500ml»
+- MESMO: «Azeitonas Verdes com Caroços La Preferida vidro 500g peso drenado» == «Azeitonas Verdes com Caroços La Preferida Vidro 500g Drenado»
+- MESMO: «Banana Nanica» == «Banana Nanica Kg»
+- DIFERENTES: «Batata Pré-Frita Masterboi Congelada Pacote com 2kg» != «Batata Pré-Frita McCain Congelada Pacote com 2Kg»
+- DIFERENTES: «Bebida Láctea Clan Sabores Sachê 900g» != «Bebida Láctea Batclan Sabores Saco 900g»
+- MESMO: «Bebida Láctea Whey Protein Piracanjuba Sabores 250ml» == «Bebida Láctea Whey Protein Piracanjuba Sabores TP 250ml»
+- MESMO: «Biscoito para Cães Pedigree Biscrock Filhotes 300g» == «Biscoito para Cães Pedigree Biscrock Filhotes Pacote com 300g»
+- MESMO: «Café Bom Jesus Tradicional/Extra Forte pacote 250g» == «Café Bom Jesus Tradicional/Extra Forte Pacote com 250g»
+- MESMO: «Carne Bovina Acém com Osso Reserva Resfriada Friboi» == «Carne Bovina Acém com Osso Reserva Resfriada Friboi Kg»
+- MESMO: «Carne Bovina Acém com Osso Reserva Resfriada» == «Carne Bovina Acém com Osso Reserva Resfriada Friboi Kg»
+- MESMO: «Carne Bovina Bisteca do Contra Filé» == «Carne Bovina Bisteca Contra Filé Kg»
+- MESMO: «Carne Bovina Costela em Tira Friboi Congelada (preço por quilo na peça)» == «Carne Bovina Costela em Tira Friboi Congelada Kg (preço por quilo na peça)»
+- DIFERENTES: «Carne Bovina Coxão Duro Friboi Porcionada Resfriada» != «Carne Bovina Coxão Mole Friboi Porcionada Resfriada Kg»
+- MESMO: «Carne Bovina Coxão Mole Friboi Porcionada Resfriada» == «Carne Bovina Coxão Mole Friboi Porcionada Resfriada Kg»
+- MESMO: «Carne Bovina Cupim Porcionada Friboi Resfriada» == «Carne Bovina Cupim Porcionada Friboi Resfriada Kg»
+- MESMO: «Carne Bovina Lagarto Friboi Porcionada Resfriada» == «Carne Bovina Lagarto Friboi Porcionada Resfriada Kg»
+- MESMO: «Carne Suína Bisteca Fatiada Congelada Reserva» == «Carne Suína Bisteca Fatiada Congelada Seara Kg»
+- MESMO: «Carne Suína Bisteca Fatiada Congelada Seara» == «Carne Suína Bisteca Fatiada Congelada Seara Kg»
+- MESMO: «Cesta Básica Assaí Kit 1 com 11 Itens» == «Cesta Básica Assaí NE Kit 1 - 11 Itens»
+- DIFERENTES: «Coxa com Sobrecoxa de Frango Copacol Congelada Preço por quilo no pacote» != «Coxa com Sobrecoxa de Frango Lar Congelada Kg (preço por quilo no pacote)»
+- DIFERENTES: «Coxa com Sobrecoxa de Frango Mauricéa Congelada (preço por quilo no pacote)» != «Coxa com Sobrecoxa de Frango Lar Congelada Kg (preço por quilo no pacote)»
+- DIFERENTES: «Coxa de Frango Resfriada Mauricéa Kg» != «Sobrecoxa de Frango Resfriada Mauricéa Kg»
+- MESMO: «Coxa de Frango Resfriada Mauricéa» == «Coxa de Frango Resfriada Mauricéa Kg»
+- DIFERENTES: «Coxa de Frango Resfriada Mauricéa» != «Sobrecoxa de Frango Resfriada Mauricéa Kg»
+- MESMO: «Coxas e Sobrecoxas de Frango com Porção Dorsal Congeladas Lar» == «Coxas e Sobrecoxas de Frango com Porção Dorsal Congeladas Lar Kg»
+- DIFERENTES: «Creme de Leite Bendito TP 200g» != «Creme de Leite Betânia TP 200g»
+- MESMO: «Creme de Leite Betânia 200g» == «Creme de Leite Betânia TP 200g»
+- MESMO: «Desengordurante Veja Vários Tipos Refil 400ml» == «Desengordurante Veja Vários Tipos Refil com 400ml»
+- DIFERENTES: «Desodorizador Aerossol Bom Ar Várias Fragrâncias Tubo 360ml» != «Desodorizador Aerossol Glade Várias Fragrâncias Tubo com 360ml»
+- DIFERENTES: «Desodorizador Aerossol Bom Ar Várias fragrâncias Tubo com 360ml» != «Desodorizador Aerossol Glade Várias Fragrâncias Tubo com 360ml»
+- MESMO: «Detergente Líquido Atol Vários Tipos Frasco 500ml» == «Detergente Líquido Atol Vários Tipos Frasco com 500ml»
+- DIFERENTES: «Detergente Líquido Dragão Vários Tipos Frasco 500ml» != «Detergente Líquido Atol Vários Tipos Frasco com 500ml»
+- DIFERENTES: «Detergente Líquido Guarani Vários tipos Frasco com 500ml» != «Detergente Líquido Atol Vários Tipos Frasco com 500ml»
+- DIFERENTES: «Detergente Líquido Limpol Vários tipos Frasco com 500ml» != «Detergente Líquido Atol Vários Tipos Frasco com 500ml»
+- MESMO: «Energético Red Bull Energy Drink 250ml» == «Energético Red Bull Energy Drink Lata com 250ml»
+- MESMO: «Enxaguante Bucal Colgate Plax Fresh Mint / Plax Ice Infinity Frasco com 250ml» == «Enxaguante Bucal Colgate Plax Fresh Mint/Ice Infinity Frasco com 250ml»
+- DIFERENTES: «Farinha de Trigo Dona Benta Tipo 1 Pacote com 1kg» != «Farinha de Trigo Finna Tipo 1 Pacote com 1Kg»
+- MESMO: «Farinha de Trigo Finna Tipo 1 Pacote 1kg» == «Farinha de Trigo Finna Tipo 1 Pacote com 1Kg»
+- MESMO: «Farinha de Trigo Tipo 1 Profissional Dona Benta saca 25kg» == «Farinha de Trigo Tipo 1 Profissional Dona Benta Saco 25Kg»
+- MESMO: «Fígado Bovino Friboi Congelado (kg na peça)» == «Fígado Bovino Friboi Congelado Kg»
+- MESMO: «Fígado Bovino Reserva Resfriado Friboi» == «Fígado Bovino Reserva Resfriado Friboi Kg»
+- MESMO: «Filé de Tilápia Congelado Seara IQF 600g» == «Filé de Tilápia Congelado Seara Pacote 600g»
+- MESMO: «Hambúrguer Texas Burger Seara Congelado Misto Caixeta com 36x56g» == «Hambúrguer Texas Burger Congelado Misto Caixeta com 36x56g»
+- MESMO: «Inseticida Aerossol Ação Total Baygon Tipos 360ml» == «Inseticida Aerossol Ação Total Baygon Tipos Frasco 360ml»
+- DIFERENTES: «Limpador Multiuso Dragão Fragrâncias Frasco 500ml» != «Limpador Multiúso Veja Fragrâncias Frasco 500ml»
+- DIFERENTES: «Manteiga com Sal Betânia Pote 200g» != «Manteiga com Sal Clan Pote 200g»
+- MESMO: «Margarina Primor 60% Lipídios com Sal Balde 3kg» == «Margarina Primor 60% Lipídios com Sal Balde com 3Kg»
+- MESMO: «Refrigerante de Caju Tradicional ou Zero Açúcares São Geraldo 1L» == «Refrigerante de Caju Tradicional ou Zero Açúcar São Geraldo PET 1L»
+- MESMO: «Refrigerante Guaraná Antarctica Lata 350ml» == «Refrigerante Guaraná Antarctica Lata com 350ml»
+- DIFERENTES: «Requeijão Cremoso Tradicional Tirolez Pote 400g» != «Requeijão Cremoso Tradicional Clan Pote 400g»
+- MESMO: «Requeijão Danone Resfriado Copo 200g» == «Requeijão Danone Resfriado Copo com 200g»
+- DIFERENTES: «Sabonete Líquido Clean Level Várias fragrâncias Frasco com 500ml» != «Sabonete Líquido Granado Bebê Várias Fragrâncias Frasco com 500ml»
+- MESMO: «Salsicha Hot Dog Perdigão Resfriada» == «Salsicha Hot Dog Perdigão Resfriada Kg»
+- MESMO: «Toalha de Papel Caprice Pacote 2x50 folhas» == «Toalha de Papel Caprice Pacote com 2x50 Folhas»
+- MESMO: «Toalhas de Papel Caprice Pct c/ 2x 50 Folhas» == «Toalha de Papel Caprice Pacote com 2x50 Folhas»

@@ -1,0 +1,28 @@
+{
+  "shortcode": "Dcf2NUmGjba",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-21",
+  "fim": "2026-08-27",
+  "titulo": "Mês dos Pais Mar Vermelho Atacado",
+  "pages": {
+    "Dcf2NUmGjba_p1": [
+      {"n": "Creme de Goiaba Tambaú Balde 4,8kg", "p": "43,99", "u": "cada", "x": 13, "y": 31, "w": 72, "h": 50}
+    ],
+    "Dcf2NUmGjba_p2": [
+      {"n": "Óleo de Soja Vila Velha 900ml", "p": "6,99", "u": "cada", "x": 27, "y": 32, "w": 52, "h": 51}
+    ],
+    "Dcf2NUmGjba_p3": [
+      {"n": "Creme de Leite Piracanjuba TP 200g", "p": "2,39", "u": "cada", "x": 13, "y": 34, "w": 74, "h": 44}
+    ],
+    "Dcf2NUmGjba_p4": [
+      {"n": "Hambúrguer Sadia Misto Ave e Bovino 56g", "p": "0,89", "u": "cada", "x": 13, "y": 33, "w": 74, "h": 45}
+    ],
+    "Dcf2NUmGjba_p5": [
+      {"n": "Cachaça Caranguejo Prata Latão 473ml", "p": "4,09", "u": "cada", "x": 21, "y": 32, "w": 56, "h": 46}
+    ],
+    "Dcf2NUmGjba_p6": [
+      {"n": "Amaciante Concentrado Downy Refil 750ml", "p": "14,99", "u": "cada", "x": 17, "y": 30, "w": 68, "h": 49}
+    ]
+  }
+}

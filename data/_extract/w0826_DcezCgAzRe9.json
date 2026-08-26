@@ -1,0 +1,32 @@
+{
+  "shortcode": "DcezCgAzRe9",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-26",
+  "fim": "2026-08-27",
+  "titulo": "Favoritaço — Quarta e Quinta Verde",
+  "pages": {
+    "DcezCgAzRe9_p1": [
+      {"n": "Cebola Branca kg", "p": "2,99", "u": "kg", "x": 2, "y": 29, "w": 22, "h": 12},
+      {"n": "Tangerina kg", "p": "9,99", "u": "kg", "x": 26, "y": 29, "w": 21, "h": 12},
+      {"n": "Brócolis 300g", "p": "5,99", "u": "cada", "x": 50, "y": 29, "w": 22, "h": 12},
+      {"n": "Maçã Nacional kg", "p": "6,99", "u": "kg", "x": 73, "y": 29, "w": 24, "h": 12},
+      {"n": "Abacaxi und", "p": "2,99", "u": "cada", "x": 2, "y": 42, "w": 22, "h": 14},
+      {"n": "Pera Argentina Danju kg", "p": "10,99", "u": "kg", "x": 26, "y": 42, "w": 22, "h": 14},
+      {"n": "Ameixa Fresca kg", "p": "19,99", "u": "kg", "x": 50, "y": 42, "w": 22, "h": 14},
+      {"n": "Tomate kg", "p": "2,99", "u": "kg", "x": 74, "y": 42, "w": 23, "h": 14},
+      {"n": "Morango Especial Reis Fruit 250g", "p": "6,79", "u": "cada", "x": 3, "y": 57, "w": 20, "h": 15},
+      {"n": "Uva Vitória sem Semente Marcelo Frazão 500g", "p": "3,99", "u": "cada", "x": 27, "y": 56, "w": 22, "h": 16},
+      {"n": "Tâmara Deglet Nour Quinta Semente 200g", "p": "4,99", "u": "cada", "x": 50, "y": 56, "w": 22, "h": 16},
+      {"n": "Ovo Caipira, Vermelho Ômega3 ou Branco Livre de Gaiola c/20 Avine", "p": "12,99", "u": "cada", "x": 72, "y": 55, "w": 26, "h": 17},
+      {"n": "Bolacha Jucurutu Maragogi 250g", "p": "7,49", "u": "cada", "x": 20, "y": 71, "w": 16, "h": 11},
+      {"n": "Pão Bisnaguinhas 300g ou Pão de Forma 400g Center Massas", "p": "6,49", "u": "cada", "x": 38, "y": 71, "w": 20, "h": 11},
+      {"n": "Bolo de Rolo Unirella Goiaba 350g", "p": "10,79", "u": "cada", "x": 59, "y": 71, "w": 18, "h": 11},
+      {"n": "Bolacha Torrada Taboleiro 250g 100% Mant Terra", "p": "5,99", "u": "cada", "x": 78, "y": 71, "w": 20, "h": 11},
+      {"n": "Biscoito Água e Sal 03 de Maio 300g", "p": "3,99", "u": "cada", "x": 4, "y": 84, "w": 18, "h": 12},
+      {"n": "Composto em Pó Ninho Zero Lactose 380g", "p": "24,99", "u": "cada", "x": 26, "y": 84, "w": 20, "h": 12},
+      {"n": "Leite UHT Piracanjuba Zero Lactose 1L", "p": "7,49", "u": "cada", "x": 50, "y": 84, "w": 20, "h": 12},
+      {"n": "Bebida Láctea Parmalat Wheyfit 250ml (sabores)", "p": "5,99", "u": "cada", "x": 73, "y": 84, "w": 23, "h": 12}
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+ "certos": [
+  {"k": "absorvente noturno always seca/suave com abas pacote 48 unidades || absorvente noturno always seca/suave com abas pacote com 32 unidades", "a": "Absorvente Noturno Always Seca/Suave com Abas pacote 48 unidades", "b": "Absorvente Noturno Always Seca/Suave com Abas Pacote com 32 Unidades", "veredito": "diferente"},
+  {"k": "amaciante de roupas dragao fragrancias frasco 2l || amaciante de roupas urca fragrancias frasco 2l", "a": "Amaciante de Roupas Dragão Fragrâncias Frasco 2L", "b": "Amaciante de Roupas Urca Fragrâncias Frasco 2L", "veredito": "diferente"},
+  {"k": "coxa de frango resfriada mauricea kg || sobrecoxa de frango resfriada mauricea kg", "a": "Coxa de Frango Resfriada Mauricéa Kg", "b": "Sobrecoxa de Frango Resfriada Mauricéa Kg", "veredito": "diferente"},
+  {"k": "inseticida aerossol acao total baygon tipos 360ml || inseticida aerossol acao total baygon tipos frasco 360ml", "a": "Inseticida Aerossol Ação Total Baygon Tipos 360ml", "b": "Inseticida Aerossol Ação Total Baygon Tipos Frasco 360ml", "veredito": "mesmo"},
+  {"k": "absorvente noturno lady suave com abas pacote com 32 unidades || absorvente noturno sym suave com abas pacote com 8 unidades", "a": "Absorvente Noturno Sym Suave com Abas Pacote com 8 Unidades", "b": "Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades", "veredito": "diferente"},
+  {"k": "coxa com sobrecoxa de frango lar congelada kg (preco por quilo no pacote) || coxa com sobrecoxa de frango mauricea congelada (preco por quilo no pacote)", "a": "Coxa com Sobrecoxa de Frango Mauricéa Congelada (preço por quilo no pacote)", "b": "Coxa com Sobrecoxa de Frango Lar Congelada Kg (preço por quilo no pacote)", "veredito": "diferente"},
+  {"k": "absorvente lady suave com abas pacote com 32 unidades || absorvente noturno lady suave com abas pacote com 32 unidades", "a": "Absorvente Lady Suave com Abas Pacote com 32 unidades", "b": "Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades", "veredito": "diferente"},
+  {"k": "desodorizador aerossol bom ar varias fragrancias tubo com 360ml || desodorizador aerossol glade varias fragrancias tubo com 360ml", "a": "Desodorizador Aerossol Bom Ar Várias fragrâncias Tubo com 360ml", "b": "Desodorizador Aerossol Glade Várias Fragrâncias Tubo com 360ml", "veredito": "diferente"},
+  {"k": "carne suina bisteca fatiada congelada reserva || carne suina bisteca fatiada congelada seara kg", "a": "Carne Suína Bisteca Fatiada Congelada Reserva", "b": "Carne Suína Bisteca Fatiada Congelada Seara Kg", "veredito": "mesmo"},
+  {"k": "coxa com sobrecoxa de frango copacol congelada preco por quilo no pacote || coxa com sobrecoxa de frango lar congelada kg (preco por quilo no pacote)", "a": "Coxa com Sobrecoxa de Frango Copacol Congelada Preço por quilo no pacote", "b": "Coxa com Sobrecoxa de Frango Lar Congelada Kg (preço por quilo no pacote)", "veredito": "diferente"},
+  {"k": "bebida lactea batclan sabores saco 900g || bebida lactea clan sabores sache 900g", "a": "Bebida Láctea Clan Sabores Sachê 900g", "b": "Bebida Láctea Batclan Sabores Saco 900g", "veredito": "diferente"},
+  {"k": "toalha de papel caprice pacote com 2x50 folhas || toalhas de papel caprice pct c/ 2x 50 folhas", "a": "Toalhas de Papel Caprice Pct c/ 2x 50 Folhas", "b": "Toalha de Papel Caprice Pacote com 2x50 Folhas", "veredito": "mesmo"}
+ ],
+ "incertos": [
+  "bebida lactea batclan sabores 900g || bebida lactea batclan sabores saco 900g"
+ ]
+}

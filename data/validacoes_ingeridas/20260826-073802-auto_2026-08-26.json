@@ -1,0 +1,314 @@
+{
+ "validacoes": [
+  {
+   "a": "Farinha de Trigo Tipo 1 Profissional Dona Benta saca 25kg",
+   "b": "Farinha de Trigo Tipo 1 Profissional Dona Benta Saco 25Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Costela em Tira Friboi Congelada (preço por quilo na peça)",
+   "b": "Carne Bovina Costela em Tira Friboi Congelada Kg (preço por quilo na peça)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxas e Sobrecoxas de Frango com Porção Dorsal Congeladas Lar",
+   "b": "Coxas e Sobrecoxas de Frango com Porção Dorsal Congeladas Lar Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Whey Protein Piracanjuba Sabores 250ml",
+   "b": "Bebida Láctea Whey Protein Piracanjuba Sabores TP 250ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Mole Friboi Porcionada Resfriada",
+   "b": "Carne Bovina Coxão Mole Friboi Porcionada Resfriada Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém com Osso Reserva Resfriada Friboi",
+   "b": "Carne Bovina Acém com Osso Reserva Resfriada Friboi Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Lagarto Friboi Porcionada Resfriada",
+   "b": "Carne Bovina Lagarto Friboi Porcionada Resfriada Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Cupim Porcionada Friboi Resfriada",
+   "b": "Carne Bovina Cupim Porcionada Friboi Resfriada Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Suína Bisteca Fatiada Congelada Seara",
+   "b": "Carne Suína Bisteca Fatiada Congelada Seara Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Enxaguante Bucal Colgate Plax Fresh Mint / Plax Ice Infinity Frasco com 250ml",
+   "b": "Enxaguante Bucal Colgate Plax Fresh Mint/Ice Infinity Frasco com 250ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café Bom Jesus Tradicional/Extra Forte pacote 250g",
+   "b": "Café Bom Jesus Tradicional/Extra Forte Pacote com 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fígado Bovino Reserva Resfriado Friboi",
+   "b": "Fígado Bovino Reserva Resfriado Friboi Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Líquido Atol Vários Tipos Frasco 500ml",
+   "b": "Detergente Líquido Atol Vários Tipos Frasco com 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeitonas Verdes com Caroços La Preferida vidro 500g peso drenado",
+   "b": "Azeitonas Verdes com Caroços La Preferida Vidro 500g Drenado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salsicha Hot Dog Perdigão Resfriada",
+   "b": "Salsicha Hot Dog Perdigão Resfriada Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Margarina Primor 60% Lipídios com Sal Balde 3kg",
+   "b": "Margarina Primor 60% Lipídios com Sal Balde com 3Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desengordurante Veja Vários Tipos Refil 400ml",
+   "b": "Desengordurante Veja Vários Tipos Refil com 400ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa de Frango Resfriada Mauricéa",
+   "b": "Coxa de Frango Resfriada Mauricéa Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Toalha de Papel Caprice Pacote 2x50 folhas",
+   "b": "Toalha de Papel Caprice Pacote com 2x50 Folhas",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica Lata 350ml",
+   "b": "Refrigerante Guaraná Antarctica Lata com 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante de Caju Tradicional ou Zero Açúcares São Geraldo 1L",
+   "b": "Refrigerante de Caju Tradicional ou Zero Açúcar São Geraldo PET 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Finna Tipo 1 Pacote 1kg",
+   "b": "Farinha de Trigo Finna Tipo 1 Pacote com 1Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Texas Burger Seara Congelado Misto Caixeta com 36x56g",
+   "b": "Hambúrguer Texas Burger Congelado Misto Caixeta com 36x56g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Leite Betânia 200g",
+   "b": "Creme de Leite Betânia TP 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Danone Resfriado Copo 200g",
+   "b": "Requeijão Danone Resfriado Copo com 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Líquido Limpol Vários tipos Frasco com 500ml",
+   "b": "Detergente Líquido Atol Vários Tipos Frasco com 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Absorvente Noturno Always Seca/Suave com Abas pacote 48 unidades",
+   "b": "Absorvente Noturno Always Seca/Suave com Abas Pacote com 32 Unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Amaciante de Roupas Dragão Fragrâncias Frasco 2L",
+   "b": "Amaciante de Roupas Urca Fragrâncias Frasco 2L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa de Frango Resfriada Mauricéa Kg",
+   "b": "Sobrecoxa de Frango Resfriada Mauricéa Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Inseticida Aerossol Ação Total Baygon Tipos 360ml",
+   "b": "Inseticida Aerossol Ação Total Baygon Tipos Frasco 360ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Noturno Sym Suave com Abas Pacote com 8 Unidades",
+   "b": "Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Mauricéa Congelada (preço por quilo no pacote)",
+   "b": "Coxa com Sobrecoxa de Frango Lar Congelada Kg (preço por quilo no pacote)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Absorvente Lady Suave com Abas Pacote com 32 unidades",
+   "b": "Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorizador Aerossol Bom Ar Várias fragrâncias Tubo com 360ml",
+   "b": "Desodorizador Aerossol Glade Várias Fragrâncias Tubo com 360ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Suína Bisteca Fatiada Congelada Reserva",
+   "b": "Carne Suína Bisteca Fatiada Congelada Seara Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango Copacol Congelada Preço por quilo no pacote",
+   "b": "Coxa com Sobrecoxa de Frango Lar Congelada Kg (preço por quilo no pacote)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Láctea Clan Sabores Sachê 900g",
+   "b": "Bebida Láctea Batclan Sabores Saco 900g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Toalhas de Papel Caprice Pct c/ 2x 50 Folhas",
+   "b": "Toalha de Papel Caprice Pacote com 2x50 Folhas",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Noturno Always Seca com Abas Pacote 32 unidades",
+   "b": "Absorvente Noturno Always Seca/Suave com Abas Pacote com 32 Unidades",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Líquido Guarani Vários tipos Frasco com 500ml",
+   "b": "Detergente Líquido Atol Vários Tipos Frasco com 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Limpador Multiuso Dragão Fragrâncias Frasco 500ml",
+   "b": "Limpador Multiúso Veja Fragrâncias Frasco 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Azeite Extravirgem Fiorentini ou Manos Alba Vidro 500ml",
+   "b": "Azeite de Oliva Extravirgem Fiorentini ou Manosalba Vidro 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Noturno Always Seca/Suave com Abas Pacote com 32 Unidades",
+   "b": "Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Bisteca do Contra Filé",
+   "b": "Carne Bovina Bisteca Contra Filé Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Duro Friboi Porcionada Resfriada",
+   "b": "Carne Bovina Coxão Mole Friboi Porcionada Resfriada Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Pré-Frita Masterboi Congelada Pacote com 2kg",
+   "b": "Batata Pré-Frita McCain Congelada Pacote com 2Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Aveia em Flocos Regulares ou Finos Yoki Caixeta 170g",
+   "b": "Aveia em Flocos Regulares ou Finos Nestlé Caixeta 170g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Detergente Líquido Dragão Vários Tipos Frasco 500ml",
+   "b": "Detergente Líquido Atol Vários Tipos Frasco com 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cesta Básica Assaí Kit 1 com 11 Itens",
+   "b": "Cesta Básica Assaí NE Kit 1 - 11 Itens",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Dona Benta Tipo 1 Pacote com 1kg",
+   "b": "Farinha de Trigo Finna Tipo 1 Pacote com 1Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Biscoito para Cães Pedigree Biscrock Filhotes 300g",
+   "b": "Biscoito para Cães Pedigree Biscrock Filhotes Pacote com 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Cremoso Tradicional Tirolez Pote 400g",
+   "b": "Requeijão Cremoso Tradicional Clan Pote 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creme de Leite Bendito TP 200g",
+   "b": "Creme de Leite Betânia TP 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sabonete Líquido Clean Level Várias fragrâncias Frasco com 500ml",
+   "b": "Sabonete Líquido Granado Bebê Várias Fragrâncias Frasco com 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Acém com Osso Reserva Resfriada",
+   "b": "Carne Bovina Acém com Osso Reserva Resfriada Friboi Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Banana Nanica",
+   "b": "Banana Nanica Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Energético Red Bull Energy Drink 250ml",
+   "b": "Energético Red Bull Energy Drink Lata com 250ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorizador Aerossol Bom Ar Várias Fragrâncias Tubo 360ml",
+   "b": "Desodorizador Aerossol Glade Várias Fragrâncias Tubo com 360ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Fígado Bovino Friboi Congelado (kg na peça)",
+   "b": "Fígado Bovino Friboi Congelado Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga com Sal Betânia Pote 200g",
+   "b": "Manteiga com Sal Clan Pote 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa de Frango Resfriada Mauricéa",
+   "b": "Sobrecoxa de Frango Resfriada Mauricéa Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Tilápia Congelado Seara IQF 600g",
+   "b": "Filé de Tilápia Congelado Seara Pacote 600g",
+   "veredito": "mesmo"
+  }
+ ]
+}

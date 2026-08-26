@@ -1,0 +1,21 @@
+{
+  "shortcode": "DcfF83bjdr6",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-26",
+  "fim": "2026-08-31",
+  "titulo": "Festival de Molhos & Sabores",
+  "pages": {
+    "DcfF83bjdr6_p1": [
+      {"n": "Macarrão Tricolor Galo Parafuso ou Pena Sêmola 500g", "p": "4,99", "u": "cada", "x": 3, "y": 31, "w": 30, "h": 21},
+      {"n": "Passata de Tomate Pomarola Chef SC 300g", "p": "4,49", "u": "cada", "x": 35, "y": 31, "w": 30, "h": 21},
+      {"n": "Molho de Tomate Pomarola Tradicional SC 200g", "p": "2,29", "u": "cada", "x": 67, "y": 31, "w": 30, "h": 21},
+      {"n": "Extrato de Tomate Pomodoro TP 265g", "p": "2,19", "u": "cada", "x": 3, "y": 52, "w": 30, "h": 21},
+      {"n": "Extrato de Tomate Elefante Sabores PT 300g", "p": "6,99", "u": "cada", "x": 35, "y": 52, "w": 30, "h": 21},
+      {"n": "Molho Pesto Pomarola Chef VD 190g", "p": "20,79", "u": "cada", "x": 67, "y": 52, "w": 30, "h": 21},
+      {"n": "Molho de Salada Liza Sabores 234ml", "p": "8,99", "u": "cada", "x": 3, "y": 73, "w": 30, "h": 21},
+      {"n": "Molho de Tomate Tarantella Sabores SC 1,7kg", "p": "10,79", "u": "cada", "x": 35, "y": 73, "w": 30, "h": 21},
+      {"n": "Molho Madeira Tambaú SC 300g", "p": "2,79", "u": "cada", "x": 67, "y": 73, "w": 30, "h": 21}
+    ]
+  }
+}

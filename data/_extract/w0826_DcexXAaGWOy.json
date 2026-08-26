@@ -1,0 +1,24 @@
+{
+  "shortcode": "DcexXAaGWOy",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-26",
+  "fim": "2026-08-26",
+  "titulo": "Quarta da Padaria (exceto Ceasa)",
+  "pages": {
+    "DcexXAaGWOy_p1": [
+      {"n": "Salgadinho Dunas 90g", "p": "1,99", "u": "cada", "x": 2, "y": 32, "w": 23, "h": 20},
+      {"n": "Coxinha de Frango ou Carne de Sol, Enroladinho de Salsicha ou Queijada Formosa Unid", "p": "4,89", "u": "cada", "x": 26, "y": 32, "w": 23, "h": 20},
+      {"n": "Pão de Forma Nordestino Tradicional 350g", "p": "4,89", "u": "cada", "x": 50, "y": 32, "w": 23, "h": 20},
+      {"n": "Soda Preta Dunas Zero Lactose 300g", "p": "4,99", "u": "cada", "x": 74, "y": 32, "w": 24, "h": 20},
+      {"n": "Croissant de Presunto e Queijo, Carne de Sol ou Frango Unid", "p": "4,99", "u": "cada", "x": 2, "y": 52, "w": 23, "h": 20},
+      {"n": "Pão de Forma Cadice Tradicional ou de Leite 400g", "p": "5,99", "u": "cada", "x": 26, "y": 52, "w": 23, "h": 20},
+      {"n": "Pão de Forma Center Massas Integral 400g", "p": "5,99", "u": "cada", "x": 50, "y": 52, "w": 23, "h": 20},
+      {"n": "Pão Hot Dog Center Baby ou Big 400g", "p": "6,98", "u": "cada", "x": 74, "y": 52, "w": 24, "h": 20},
+      {"n": "Salgados Pingo Nordestino Mini Sabores PC 400g", "p": "14,99", "u": "cada", "x": 2, "y": 72, "w": 23, "h": 19},
+      {"n": "Bolo de Macaxeira, Laranja, Queijo ou Chocolate Formosa", "p": "24,90", "u": "kg", "x": 26, "y": 72, "w": 23, "h": 19},
+      {"n": "Requeijão Cremoso Sertão Jucurutu Tradicional 400g", "p": "13,49", "u": "cada", "x": 50, "y": 72, "w": 23, "h": 19},
+      {"n": "Pão de Queijo Aurora Tradicional 400g", "p": "7,99", "u": "cada", "x": 74, "y": 72, "w": 24, "h": 19}
+    ]
+  }
+}

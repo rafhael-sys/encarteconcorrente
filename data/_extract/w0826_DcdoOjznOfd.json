@@ -1,0 +1,37 @@
+{
+  "shortcode": "DcdoOjznOfd",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-25",
+  "fim": "2026-08-26",
+  "titulo": "Ofertas Especiais Mês dos Pais — frios e congelados",
+  "pages": {
+    "DcdoOjznOfd_p1": [
+      {"n": "Charque Friboi Dianteiro 500g", "p": "27,99", "u": "cada", "x": 8, "y": 32, "w": 84, "h": 52}
+    ],
+    "DcdoOjznOfd_p2": [
+      {"n": "Presunto de Peru Perdigão Peça ou Fatiado", "p": "26,90", "u": "kg, exclusivo BR-Natal e Zona Norte", "x": 8, "y": 30, "w": 84, "h": 54}
+    ],
+    "DcdoOjznOfd_p3": [
+      {"n": "Filé de Peito de Frango Sadia Congelado IQF 1kg", "p": "17,99", "u": "cada", "x": 8, "y": 30, "w": 84, "h": 54}
+    ],
+    "DcdoOjznOfd_p4": [
+      {"n": "Almôndega Chuletão Bovina Congelada 1kg", "p": "17,90", "u": "cada", "x": 8, "y": 30, "w": 84, "h": 54}
+    ],
+    "DcdoOjznOfd_p5": [
+      {"n": "Filézinho de Frango Aurora Bandeja 1kg", "p": "16,49", "u": "cada", "x": 8, "y": 30, "w": 84, "h": 54}
+    ],
+    "DcdoOjznOfd_p6": [
+      {"n": "Manteiga Itacolomy Comum com Sal Pote 200g", "p": "11,90", "u": "cada", "x": 8, "y": 32, "w": 84, "h": 52}
+    ],
+    "DcdoOjznOfd_p7": [
+      {"n": "Sobrecoxas Sadia Congeladas IQF 1kg", "p": "13,79", "u": "cada", "x": 8, "y": 28, "w": 84, "h": 56}
+    ],
+    "DcdoOjznOfd_p8": [
+      {"n": "Coxas e Sobrecoxas Bom Todo Congeladas Bandeja 1kg", "p": "10,99", "u": "cada", "x": 8, "y": 30, "w": 84, "h": 54}
+    ],
+    "DcdoOjznOfd_p9": [
+      {"n": "Queijo Processado Sabor Requeijão Supremo Cremoso 200g", "p": "4,69", "u": "cada", "x": 8, "y": 28, "w": 84, "h": 56}
+    ]
+  }
+}

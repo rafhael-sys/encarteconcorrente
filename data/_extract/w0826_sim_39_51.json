@@ -1,0 +1,19 @@
+{
+ "certos": [
+  {"k": "absorvente noturno always seca com abas pacote 32 unidades || absorvente noturno always seca/suave com abas pacote com 32 unidades", "a": "Absorvente Noturno Always Seca com Abas Pacote 32 unidades", "b": "Absorvente Noturno Always Seca/Suave com Abas Pacote com 32 Unidades", "veredito": "mesmo"},
+  {"k": "detergente liquido atol varios tipos frasco com 500ml || detergente liquido guarani varios tipos frasco com 500ml", "a": "Detergente Líquido Guarani Vários tipos Frasco com 500ml", "b": "Detergente Líquido Atol Vários Tipos Frasco com 500ml", "veredito": "diferente"},
+  {"k": "limpador multiuso dragao fragrancias frasco 500ml || limpador multiuso veja fragrancias frasco 500ml", "a": "Limpador Multiuso Dragão Fragrâncias Frasco 500ml", "b": "Limpador Multiúso Veja Fragrâncias Frasco 500ml", "veredito": "diferente"},
+  {"k": "azeite de oliva extravirgem fiorentini ou manosalba vidro 500ml || azeite extravirgem fiorentini ou manos alba vidro 500ml", "a": "Azeite Extravirgem Fiorentini ou Manos Alba Vidro 500ml", "b": "Azeite de Oliva Extravirgem Fiorentini ou Manosalba Vidro 500ml", "veredito": "mesmo"},
+  {"k": "absorvente noturno always seca/suave com abas pacote com 32 unidades || absorvente noturno lady suave com abas pacote com 32 unidades", "a": "Absorvente Noturno Always Seca/Suave com Abas Pacote com 32 Unidades", "b": "Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades", "veredito": "diferente"},
+  {"k": "carne bovina bisteca contra file kg || carne bovina bisteca do contra file", "a": "Carne Bovina Bisteca do Contra Filé", "b": "Carne Bovina Bisteca Contra Filé Kg", "veredito": "mesmo"},
+  {"k": "carne bovina coxao duro friboi porcionada resfriada || carne bovina coxao mole friboi porcionada resfriada kg", "a": "Carne Bovina Coxão Duro Friboi Porcionada Resfriada", "b": "Carne Bovina Coxão Mole Friboi Porcionada Resfriada Kg", "veredito": "diferente"},
+  {"k": "batata pre-frita masterboi congelada pacote com 2kg || batata pre-frita mccain congelada pacote com 2kg", "a": "Batata Pré-Frita Masterboi Congelada Pacote com 2kg", "b": "Batata Pré-Frita McCain Congelada Pacote com 2Kg", "veredito": "diferente"},
+  {"k": "aveia em flocos regulares ou finos nestle caixeta 170g || aveia em flocos regulares ou finos yoki caixeta 170g", "a": "Aveia em Flocos Regulares ou Finos Yoki Caixeta 170g", "b": "Aveia em Flocos Regulares ou Finos Nestlé Caixeta 170g", "veredito": "diferente"},
+  {"k": "detergente liquido atol varios tipos frasco com 500ml || detergente liquido dragao varios tipos frasco 500ml", "a": "Detergente Líquido Dragão Vários Tipos Frasco 500ml", "b": "Detergente Líquido Atol Vários Tipos Frasco com 500ml", "veredito": "diferente"},
+  {"k": "cesta basica assai kit 1 com 11 itens || cesta basica assai ne kit 1 - 11 itens", "a": "Cesta Básica Assaí Kit 1 com 11 Itens", "b": "Cesta Básica Assaí NE Kit 1 - 11 Itens", "veredito": "mesmo"},
+  {"k": "farinha de trigo dona benta tipo 1 pacote com 1kg || farinha de trigo finna tipo 1 pacote com 1kg", "a": "Farinha de Trigo Dona Benta Tipo 1 Pacote com 1kg", "b": "Farinha de Trigo Finna Tipo 1 Pacote com 1Kg", "veredito": "diferente"}
+ ],
+ "incertos": [
+  "linguica de frango congelada bom todo sabores pacote 600g || linguica de frango congelada top grill bom todo sabores pacote 600g"
+ ]
+}

@@ -26717,5 +26717,415 @@
   "b": "Farinha de Trigo Finna 1kg Papel S/Fermento",
   "veredito": "diferente",
   "quando": "2026-08-25"
+ },
+ "farinha de trigo tipo 1 profissional dona benta saca 25kg || farinha de trigo tipo 1 profissional dona benta saco 25kg": {
+  "a": "Farinha de Trigo Tipo 1 Profissional Dona Benta saca 25kg",
+  "b": "Farinha de Trigo Tipo 1 Profissional Dona Benta Saco 25Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "carne bovina costela em tira friboi congelada (preco por quilo na peca) || carne bovina costela em tira friboi congelada kg (preco por quilo na peca)": {
+  "a": "Carne Bovina Costela em Tira Friboi Congelada (preço por quilo na peça)",
+  "b": "Carne Bovina Costela em Tira Friboi Congelada Kg (preço por quilo na peça)",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "coxas e sobrecoxas de frango com porcao dorsal congeladas lar || coxas e sobrecoxas de frango com porcao dorsal congeladas lar kg": {
+  "a": "Coxas e Sobrecoxas de Frango com Porção Dorsal Congeladas Lar",
+  "b": "Coxas e Sobrecoxas de Frango com Porção Dorsal Congeladas Lar Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "bebida lactea whey protein piracanjuba sabores 250ml || bebida lactea whey protein piracanjuba sabores tp 250ml": {
+  "a": "Bebida Láctea Whey Protein Piracanjuba Sabores 250ml",
+  "b": "Bebida Láctea Whey Protein Piracanjuba Sabores TP 250ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "carne bovina coxao mole friboi porcionada resfriada || carne bovina coxao mole friboi porcionada resfriada kg": {
+  "a": "Carne Bovina Coxão Mole Friboi Porcionada Resfriada",
+  "b": "Carne Bovina Coxão Mole Friboi Porcionada Resfriada Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "carne bovina acem com osso reserva resfriada friboi || carne bovina acem com osso reserva resfriada friboi kg": {
+  "a": "Carne Bovina Acém com Osso Reserva Resfriada Friboi",
+  "b": "Carne Bovina Acém com Osso Reserva Resfriada Friboi Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "carne bovina lagarto friboi porcionada resfriada || carne bovina lagarto friboi porcionada resfriada kg": {
+  "a": "Carne Bovina Lagarto Friboi Porcionada Resfriada",
+  "b": "Carne Bovina Lagarto Friboi Porcionada Resfriada Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "carne bovina cupim porcionada friboi resfriada || carne bovina cupim porcionada friboi resfriada kg": {
+  "a": "Carne Bovina Cupim Porcionada Friboi Resfriada",
+  "b": "Carne Bovina Cupim Porcionada Friboi Resfriada Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "carne suina bisteca fatiada congelada seara || carne suina bisteca fatiada congelada seara kg": {
+  "a": "Carne Suína Bisteca Fatiada Congelada Seara",
+  "b": "Carne Suína Bisteca Fatiada Congelada Seara Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "enxaguante bucal colgate plax fresh mint / plax ice infinity frasco com 250ml || enxaguante bucal colgate plax fresh mint/ice infinity frasco com 250ml": {
+  "a": "Enxaguante Bucal Colgate Plax Fresh Mint / Plax Ice Infinity Frasco com 250ml",
+  "b": "Enxaguante Bucal Colgate Plax Fresh Mint/Ice Infinity Frasco com 250ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "cafe bom jesus tradicional/extra forte pacote 250g || cafe bom jesus tradicional/extra forte pacote com 250g": {
+  "a": "Café Bom Jesus Tradicional/Extra Forte pacote 250g",
+  "b": "Café Bom Jesus Tradicional/Extra Forte Pacote com 250g",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "figado bovino reserva resfriado friboi || figado bovino reserva resfriado friboi kg": {
+  "a": "Fígado Bovino Reserva Resfriado Friboi",
+  "b": "Fígado Bovino Reserva Resfriado Friboi Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "detergente liquido atol varios tipos frasco 500ml || detergente liquido atol varios tipos frasco com 500ml": {
+  "a": "Detergente Líquido Atol Vários Tipos Frasco 500ml",
+  "b": "Detergente Líquido Atol Vários Tipos Frasco com 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "azeitonas verdes com carocos la preferida vidro 500g drenado || azeitonas verdes com carocos la preferida vidro 500g peso drenado": {
+  "a": "Azeitonas Verdes com Caroços La Preferida vidro 500g peso drenado",
+  "b": "Azeitonas Verdes com Caroços La Preferida Vidro 500g Drenado",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "salsicha hot dog perdigao resfriada || salsicha hot dog perdigao resfriada kg": {
+  "a": "Salsicha Hot Dog Perdigão Resfriada",
+  "b": "Salsicha Hot Dog Perdigão Resfriada Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "margarina primor 60% lipidios com sal balde 3kg || margarina primor 60% lipidios com sal balde com 3kg": {
+  "a": "Margarina Primor 60% Lipídios com Sal Balde 3kg",
+  "b": "Margarina Primor 60% Lipídios com Sal Balde com 3Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "desengordurante veja varios tipos refil 400ml || desengordurante veja varios tipos refil com 400ml": {
+  "a": "Desengordurante Veja Vários Tipos Refil 400ml",
+  "b": "Desengordurante Veja Vários Tipos Refil com 400ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "coxa de frango resfriada mauricea || coxa de frango resfriada mauricea kg": {
+  "a": "Coxa de Frango Resfriada Mauricéa",
+  "b": "Coxa de Frango Resfriada Mauricéa Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "toalha de papel caprice pacote 2x50 folhas || toalha de papel caprice pacote com 2x50 folhas": {
+  "a": "Toalha de Papel Caprice Pacote 2x50 folhas",
+  "b": "Toalha de Papel Caprice Pacote com 2x50 Folhas",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "refrigerante guarana antarctica lata 350ml || refrigerante guarana antarctica lata com 350ml": {
+  "a": "Refrigerante Guaraná Antarctica Lata 350ml",
+  "b": "Refrigerante Guaraná Antarctica Lata com 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "refrigerante de caju tradicional ou zero acucar sao geraldo pet 1l || refrigerante de caju tradicional ou zero acucares sao geraldo 1l": {
+  "a": "Refrigerante de Caju Tradicional ou Zero Açúcares São Geraldo 1L",
+  "b": "Refrigerante de Caju Tradicional ou Zero Açúcar São Geraldo PET 1L",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "farinha de trigo finna tipo 1 pacote 1kg || farinha de trigo finna tipo 1 pacote com 1kg": {
+  "a": "Farinha de Trigo Finna Tipo 1 Pacote 1kg",
+  "b": "Farinha de Trigo Finna Tipo 1 Pacote com 1Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "hamburguer texas burger congelado misto caixeta com 36x56g || hamburguer texas burger seara congelado misto caixeta com 36x56g": {
+  "a": "Hambúrguer Texas Burger Seara Congelado Misto Caixeta com 36x56g",
+  "b": "Hambúrguer Texas Burger Congelado Misto Caixeta com 36x56g",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "creme de leite betania 200g || creme de leite betania tp 200g": {
+  "a": "Creme de Leite Betânia 200g",
+  "b": "Creme de Leite Betânia TP 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "requeijao danone resfriado copo 200g || requeijao danone resfriado copo com 200g": {
+  "a": "Requeijão Danone Resfriado Copo 200g",
+  "b": "Requeijão Danone Resfriado Copo com 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "detergente liquido atol varios tipos frasco com 500ml || detergente liquido limpol varios tipos frasco com 500ml": {
+  "a": "Detergente Líquido Limpol Vários tipos Frasco com 500ml",
+  "b": "Detergente Líquido Atol Vários Tipos Frasco com 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "absorvente noturno always seca/suave com abas pacote 48 unidades || absorvente noturno always seca/suave com abas pacote com 32 unidades": {
+  "a": "Absorvente Noturno Always Seca/Suave com Abas pacote 48 unidades",
+  "b": "Absorvente Noturno Always Seca/Suave com Abas Pacote com 32 Unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "amaciante de roupas dragao fragrancias frasco 2l || amaciante de roupas urca fragrancias frasco 2l": {
+  "a": "Amaciante de Roupas Dragão Fragrâncias Frasco 2L",
+  "b": "Amaciante de Roupas Urca Fragrâncias Frasco 2L",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "coxa de frango resfriada mauricea kg || sobrecoxa de frango resfriada mauricea kg": {
+  "a": "Coxa de Frango Resfriada Mauricéa Kg",
+  "b": "Sobrecoxa de Frango Resfriada Mauricéa Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "inseticida aerossol acao total baygon tipos 360ml || inseticida aerossol acao total baygon tipos frasco 360ml": {
+  "a": "Inseticida Aerossol Ação Total Baygon Tipos 360ml",
+  "b": "Inseticida Aerossol Ação Total Baygon Tipos Frasco 360ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "absorvente noturno lady suave com abas pacote com 32 unidades || absorvente noturno sym suave com abas pacote com 8 unidades": {
+  "a": "Absorvente Noturno Sym Suave com Abas Pacote com 8 Unidades",
+  "b": "Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "coxa com sobrecoxa de frango lar congelada kg (preco por quilo no pacote) || coxa com sobrecoxa de frango mauricea congelada (preco por quilo no pacote)": {
+  "a": "Coxa com Sobrecoxa de Frango Mauricéa Congelada (preço por quilo no pacote)",
+  "b": "Coxa com Sobrecoxa de Frango Lar Congelada Kg (preço por quilo no pacote)",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "absorvente lady suave com abas pacote com 32 unidades || absorvente noturno lady suave com abas pacote com 32 unidades": {
+  "a": "Absorvente Lady Suave com Abas Pacote com 32 unidades",
+  "b": "Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "desodorizador aerossol bom ar varias fragrancias tubo com 360ml || desodorizador aerossol glade varias fragrancias tubo com 360ml": {
+  "a": "Desodorizador Aerossol Bom Ar Várias fragrâncias Tubo com 360ml",
+  "b": "Desodorizador Aerossol Glade Várias Fragrâncias Tubo com 360ml",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "carne suina bisteca fatiada congelada reserva || carne suina bisteca fatiada congelada seara kg": {
+  "a": "Carne Suína Bisteca Fatiada Congelada Reserva",
+  "b": "Carne Suína Bisteca Fatiada Congelada Seara Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "coxa com sobrecoxa de frango copacol congelada preco por quilo no pacote || coxa com sobrecoxa de frango lar congelada kg (preco por quilo no pacote)": {
+  "a": "Coxa com Sobrecoxa de Frango Copacol Congelada Preço por quilo no pacote",
+  "b": "Coxa com Sobrecoxa de Frango Lar Congelada Kg (preço por quilo no pacote)",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "bebida lactea batclan sabores saco 900g || bebida lactea clan sabores sache 900g": {
+  "a": "Bebida Láctea Clan Sabores Sachê 900g",
+  "b": "Bebida Láctea Batclan Sabores Saco 900g",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "toalha de papel caprice pacote com 2x50 folhas || toalhas de papel caprice pct c/ 2x 50 folhas": {
+  "a": "Toalhas de Papel Caprice Pct c/ 2x 50 Folhas",
+  "b": "Toalha de Papel Caprice Pacote com 2x50 Folhas",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "absorvente noturno always seca com abas pacote 32 unidades || absorvente noturno always seca/suave com abas pacote com 32 unidades": {
+  "a": "Absorvente Noturno Always Seca com Abas Pacote 32 unidades",
+  "b": "Absorvente Noturno Always Seca/Suave com Abas Pacote com 32 Unidades",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "detergente liquido atol varios tipos frasco com 500ml || detergente liquido guarani varios tipos frasco com 500ml": {
+  "a": "Detergente Líquido Guarani Vários tipos Frasco com 500ml",
+  "b": "Detergente Líquido Atol Vários Tipos Frasco com 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "limpador multiuso dragao fragrancias frasco 500ml || limpador multiuso veja fragrancias frasco 500ml": {
+  "a": "Limpador Multiuso Dragão Fragrâncias Frasco 500ml",
+  "b": "Limpador Multiúso Veja Fragrâncias Frasco 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "azeite de oliva extravirgem fiorentini ou manosalba vidro 500ml || azeite extravirgem fiorentini ou manos alba vidro 500ml": {
+  "a": "Azeite Extravirgem Fiorentini ou Manos Alba Vidro 500ml",
+  "b": "Azeite de Oliva Extravirgem Fiorentini ou Manosalba Vidro 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "absorvente noturno always seca/suave com abas pacote com 32 unidades || absorvente noturno lady suave com abas pacote com 32 unidades": {
+  "a": "Absorvente Noturno Always Seca/Suave com Abas Pacote com 32 Unidades",
+  "b": "Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "carne bovina bisteca contra file kg || carne bovina bisteca do contra file": {
+  "a": "Carne Bovina Bisteca do Contra Filé",
+  "b": "Carne Bovina Bisteca Contra Filé Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "carne bovina coxao duro friboi porcionada resfriada || carne bovina coxao mole friboi porcionada resfriada kg": {
+  "a": "Carne Bovina Coxão Duro Friboi Porcionada Resfriada",
+  "b": "Carne Bovina Coxão Mole Friboi Porcionada Resfriada Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "batata pre-frita masterboi congelada pacote com 2kg || batata pre-frita mccain congelada pacote com 2kg": {
+  "a": "Batata Pré-Frita Masterboi Congelada Pacote com 2kg",
+  "b": "Batata Pré-Frita McCain Congelada Pacote com 2Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "aveia em flocos regulares ou finos nestle caixeta 170g || aveia em flocos regulares ou finos yoki caixeta 170g": {
+  "a": "Aveia em Flocos Regulares ou Finos Yoki Caixeta 170g",
+  "b": "Aveia em Flocos Regulares ou Finos Nestlé Caixeta 170g",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "detergente liquido atol varios tipos frasco com 500ml || detergente liquido dragao varios tipos frasco 500ml": {
+  "a": "Detergente Líquido Dragão Vários Tipos Frasco 500ml",
+  "b": "Detergente Líquido Atol Vários Tipos Frasco com 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "cesta basica assai kit 1 com 11 itens || cesta basica assai ne kit 1 - 11 itens": {
+  "a": "Cesta Básica Assaí Kit 1 com 11 Itens",
+  "b": "Cesta Básica Assaí NE Kit 1 - 11 Itens",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "farinha de trigo dona benta tipo 1 pacote com 1kg || farinha de trigo finna tipo 1 pacote com 1kg": {
+  "a": "Farinha de Trigo Dona Benta Tipo 1 Pacote com 1kg",
+  "b": "Farinha de Trigo Finna Tipo 1 Pacote com 1Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "biscoito para caes pedigree biscrock filhotes 300g || biscoito para caes pedigree biscrock filhotes pacote com 300g": {
+  "a": "Biscoito para Cães Pedigree Biscrock Filhotes 300g",
+  "b": "Biscoito para Cães Pedigree Biscrock Filhotes Pacote com 300g",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "requeijao cremoso tradicional clan pote 400g || requeijao cremoso tradicional tirolez pote 400g": {
+  "a": "Requeijão Cremoso Tradicional Tirolez Pote 400g",
+  "b": "Requeijão Cremoso Tradicional Clan Pote 400g",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "creme de leite bendito tp 200g || creme de leite betania tp 200g": {
+  "a": "Creme de Leite Bendito TP 200g",
+  "b": "Creme de Leite Betânia TP 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "sabonete liquido clean level varias fragrancias frasco com 500ml || sabonete liquido granado bebe varias fragrancias frasco com 500ml": {
+  "a": "Sabonete Líquido Clean Level Várias fragrâncias Frasco com 500ml",
+  "b": "Sabonete Líquido Granado Bebê Várias Fragrâncias Frasco com 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "carne bovina acem com osso reserva resfriada || carne bovina acem com osso reserva resfriada friboi kg": {
+  "a": "Carne Bovina Acém com Osso Reserva Resfriada",
+  "b": "Carne Bovina Acém com Osso Reserva Resfriada Friboi Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "banana nanica || banana nanica kg": {
+  "a": "Banana Nanica",
+  "b": "Banana Nanica Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "energetico red bull energy drink 250ml || energetico red bull energy drink lata com 250ml": {
+  "a": "Energético Red Bull Energy Drink 250ml",
+  "b": "Energético Red Bull Energy Drink Lata com 250ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "desodorizador aerossol bom ar varias fragrancias tubo 360ml || desodorizador aerossol glade varias fragrancias tubo com 360ml": {
+  "a": "Desodorizador Aerossol Bom Ar Várias Fragrâncias Tubo 360ml",
+  "b": "Desodorizador Aerossol Glade Várias Fragrâncias Tubo com 360ml",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "figado bovino friboi congelado (kg na peca) || figado bovino friboi congelado kg": {
+  "a": "Fígado Bovino Friboi Congelado (kg na peça)",
+  "b": "Fígado Bovino Friboi Congelado Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
+ },
+ "manteiga com sal betania pote 200g || manteiga com sal clan pote 200g": {
+  "a": "Manteiga com Sal Betânia Pote 200g",
+  "b": "Manteiga com Sal Clan Pote 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "coxa de frango resfriada mauricea || sobrecoxa de frango resfriada mauricea kg": {
+  "a": "Coxa de Frango Resfriada Mauricéa",
+  "b": "Sobrecoxa de Frango Resfriada Mauricéa Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-26"
+ },
+ "file de tilapia congelado seara iqf 600g || file de tilapia congelado seara pacote 600g": {
+  "a": "Filé de Tilápia Congelado Seara IQF 600g",
+  "b": "Filé de Tilápia Congelado Seara Pacote 600g",
+  "veredito": "mesmo",
+  "quando": "2026-08-26",
+  "aplicado": true
  }
 }

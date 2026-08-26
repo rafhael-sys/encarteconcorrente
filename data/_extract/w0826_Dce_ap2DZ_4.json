@@ -1,0 +1,40 @@
+{
+  "shortcode": "Dce_ap2DZ_4",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-25",
+  "fim": "2026-08-26",
+  "titulo": "Ofertas Especiais — Mês dos Pais",
+  "pages": {
+    "Dce_ap2DZ_4_p1": [
+      {"n": "Leite em Pó Nestlé Molico Desnatado Lata 280g", "p": "18,99", "u": "cada", "x": 8, "y": 31, "w": 86, "h": 55}
+    ],
+    "Dce_ap2DZ_4_p2": [
+      {"n": "Pastilha Freegells Sabores 27,9g x 12 Unidades", "p": "10,68", "u": "cada", "x": 6, "y": 31, "w": 88, "h": 55}
+    ],
+    "Dce_ap2DZ_4_p3": [
+      {"n": "Kit Promocional Especial Leto PC 4x500ml", "p": "7,49", "u": "cada", "x": 5, "y": 30, "w": 90, "h": 56}
+    ],
+    "Dce_ap2DZ_4_p4": [
+      {"n": "Doce de Leite Mu-Mu Tradicional ou com Chocolate PT 350g", "p": "8,99", "u": "cada", "x": 5, "y": 32, "w": 90, "h": 55}
+    ],
+    "Dce_ap2DZ_4_p5": [
+      {"n": "Goma Fini Tubes Sabores 80g", "p": "5,99", "u": "cada", "x": 6, "y": 30, "w": 89, "h": 56}
+    ],
+    "Dce_ap2DZ_4_p6": [
+      {"n": "Chiclete Buzzy Croc Sabores CX 40 Unidades", "p": "4,99", "u": "cada", "x": 6, "y": 28, "w": 89, "h": 58}
+    ],
+    "Dce_ap2DZ_4_p7": [
+      {"n": "Geleia de Mocotó Indali Sabores TP 220g", "p": "2,99", "u": "cada", "x": 6, "y": 32, "w": 89, "h": 54}
+    ],
+    "Dce_ap2DZ_4_p8": [
+      {"n": "Dueto de Milho Verde e Ervilha Fugini SC 170g", "p": "2,79", "u": "cada", "x": 6, "y": 30, "w": 89, "h": 56}
+    ],
+    "Dce_ap2DZ_4_p9": [
+      {"n": "Maionese Fugini Original SC 180g", "p": "1,89", "u": "cada", "x": 6, "y": 30, "w": 89, "h": 56}
+    ],
+    "Dce_ap2DZ_4_p10": [
+      {"n": "Biscoito Recheado Treloso Sabores 37g", "p": "0,75", "u": "cada", "x": 6, "y": 28, "w": 89, "h": 58}
+    ]
+  }
+}

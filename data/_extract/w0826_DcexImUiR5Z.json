@@ -1,0 +1,28 @@
+{
+  "shortcode": "DcexImUiR5Z",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-26",
+  "fim": "2026-08-27",
+  "titulo": "Feirão RedeMAIS — Aniversário 26 Anos",
+  "pages": {
+    "DcexImUiR5Z_p1": [
+      {"n": "Tomate", "p": "2,98", "u": "kg", "x": 6, "y": 33, "w": 17, "h": 16},
+      {"n": "Laranja Pera", "p": "1,99", "u": "kg", "x": 25, "y": 33, "w": 16, "h": 16},
+      {"n": "Batata Inglesa", "p": "3,99", "u": "kg", "x": 42, "y": 33, "w": 16, "h": 16},
+      {"n": "Cebola Branca", "p": "3,49", "u": "kg", "x": 59, "y": 33, "w": 16, "h": 16},
+      {"n": "Banana Prata/Pacovan", "p": "2,98", "u": "kg", "x": 76, "y": 33, "w": 17, "h": 17},
+      {"n": "Uva Vitória Luvvi Reserva Sem Semente 400g", "p": "5,89", "u": "cada", "x": 8, "y": 50, "w": 20, "h": 18},
+      {"n": "Cenoura", "p": "5,98", "u": "kg", "x": 30, "y": 50, "w": 18, "h": 17},
+      {"n": "Uva Verde Delly Fruit Sem Semente 500g", "p": "8,98", "u": "cada", "x": 50, "y": 50, "w": 20, "h": 18},
+      {"n": "Alho a granel 100g", "p": "2,29", "u": "100g", "x": 72, "y": 50, "w": 19, "h": 17},
+      {"n": "Morango Premium 250g", "p": "6,49", "u": "cada", "x": 7, "y": 68, "w": 19, "h": 17},
+      {"n": "Melão Japonês/Espanhol/Português", "p": "3,98", "u": "kg", "x": 28, "y": 68, "w": 20, "h": 18},
+      {"n": "Pera Danjou", "p": "12,98", "u": "kg", "x": 51, "y": 68, "w": 18, "h": 17},
+      {"n": "Tangerina Importada", "p": "10,99", "u": "kg", "x": 70, "y": 68, "w": 21, "h": 17}
+    ],
+    "DcexImUiR5Z_p2": [
+      {"n": "Sacola Retornável RedeMAIS", "p": "5,98", "u": "un", "x": 15, "y": 37, "w": 65, "h": 45}
+    ]
+  }
+}

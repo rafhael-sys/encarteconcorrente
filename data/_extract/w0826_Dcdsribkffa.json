@@ -1,0 +1,28 @@
+{
+  "shortcode": "Dcdsribkffa",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-21",
+  "fim": "2026-08-27",
+  "titulo": "Mês dos Pais Mar Vermelho Atacado",
+  "pages": {
+    "Dcdsribkffa_p1": [
+      {"n": "Achocolatado em Pó 3 Corações Chocolatto SC 900g", "p": "16,99", "u": "cada", "x": 13, "y": 33, "w": 74, "h": 52}
+    ],
+    "Dcdsribkffa_p2": [
+      {"n": "Linguiça de Carne Suína Seara Congelada", "p": "15,49", "u": "kg", "x": 13, "y": 28, "w": 74, "h": 57}
+    ],
+    "Dcdsribkffa_p3": [
+      {"n": "Café União Tradicional ou Extraforte a Vácuo ou Pouch 250g", "p": "10,99", "u": "cada", "x": 12, "y": 33, "w": 76, "h": 52}
+    ],
+    "Dcdsribkffa_p4": [
+      {"n": "Margarina Deline com Sal 500g", "p": "4,79", "u": "cada", "x": 13, "y": 34, "w": 74, "h": 51}
+    ],
+    "Dcdsribkffa_p5": [
+      {"n": "Vinho Tinto Galiotto Cabernet Sauvignon Suave 750ml", "p": "19,39", "u": "cada, exceto Ceasa", "x": 12, "y": 29, "w": 76, "h": 56}
+    ],
+    "Dcdsribkffa_p6": [
+      {"n": "Detergente Líquido para Roupas Sonho Fragrâncias 3L", "p": "21,99", "u": "cada", "x": 12, "y": 31, "w": 76, "h": 54}
+    ]
+  }
+}

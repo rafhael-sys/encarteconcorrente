@@ -1,0 +1,18 @@
+{
+ "certos": [
+  {"k": "azeitonas verdes com carocos la preferida vidro 500g drenado || azeitonas verdes com carocos la preferida vidro 500g peso drenado", "a": "Azeitonas Verdes com Caroços La Preferida vidro 500g peso drenado", "b": "Azeitonas Verdes com Caroços La Preferida Vidro 500g Drenado", "veredito": "mesmo"},
+  {"k": "salsicha hot dog perdigao resfriada || salsicha hot dog perdigao resfriada kg", "a": "Salsicha Hot Dog Perdigão Resfriada", "b": "Salsicha Hot Dog Perdigão Resfriada Kg", "veredito": "mesmo"},
+  {"k": "margarina primor 60% lipidios com sal balde 3kg || margarina primor 60% lipidios com sal balde com 3kg", "a": "Margarina Primor 60% Lipídios com Sal Balde 3kg", "b": "Margarina Primor 60% Lipídios com Sal Balde com 3Kg", "veredito": "mesmo"},
+  {"k": "desengordurante veja varios tipos refil 400ml || desengordurante veja varios tipos refil com 400ml", "a": "Desengordurante Veja Vários Tipos Refil 400ml", "b": "Desengordurante Veja Vários Tipos Refil com 400ml", "veredito": "mesmo"},
+  {"k": "coxa de frango resfriada mauricea || coxa de frango resfriada mauricea kg", "a": "Coxa de Frango Resfriada Mauricéa", "b": "Coxa de Frango Resfriada Mauricéa Kg", "veredito": "mesmo"},
+  {"k": "toalha de papel caprice pacote 2x50 folhas || toalha de papel caprice pacote com 2x50 folhas", "a": "Toalha de Papel Caprice Pacote 2x50 folhas", "b": "Toalha de Papel Caprice Pacote com 2x50 Folhas", "veredito": "mesmo"},
+  {"k": "refrigerante guarana antarctica lata 350ml || refrigerante guarana antarctica lata com 350ml", "a": "Refrigerante Guaraná Antarctica Lata 350ml", "b": "Refrigerante Guaraná Antarctica Lata com 350ml", "veredito": "mesmo"},
+  {"k": "refrigerante de caju tradicional ou zero acucar sao geraldo pet 1l || refrigerante de caju tradicional ou zero acucares sao geraldo 1l", "a": "Refrigerante de Caju Tradicional ou Zero Açúcares São Geraldo 1L", "b": "Refrigerante de Caju Tradicional ou Zero Açúcar São Geraldo PET 1L", "veredito": "mesmo"},
+  {"k": "farinha de trigo finna tipo 1 pacote 1kg || farinha de trigo finna tipo 1 pacote com 1kg", "a": "Farinha de Trigo Finna Tipo 1 Pacote 1kg", "b": "Farinha de Trigo Finna Tipo 1 Pacote com 1Kg", "veredito": "mesmo"},
+  {"k": "hamburguer texas burger congelado misto caixeta com 36x56g || hamburguer texas burger seara congelado misto caixeta com 36x56g", "a": "Hambúrguer Texas Burger Seara Congelado Misto Caixeta com 36x56g", "b": "Hambúrguer Texas Burger Congelado Misto Caixeta com 36x56g", "veredito": "mesmo"},
+  {"k": "creme de leite betania 200g || creme de leite betania tp 200g", "a": "Creme de Leite Betânia 200g", "b": "Creme de Leite Betânia TP 200g", "veredito": "mesmo"},
+  {"k": "requeijao danone resfriado copo 200g || requeijao danone resfriado copo com 200g", "a": "Requeijão Danone Resfriado Copo 200g", "b": "Requeijão Danone Resfriado Copo com 200g", "veredito": "mesmo"},
+  {"k": "detergente liquido atol varios tipos frasco com 500ml || detergente liquido limpol varios tipos frasco com 500ml", "a": "Detergente Líquido Limpol Vários tipos Frasco com 500ml", "b": "Detergente Líquido Atol Vários Tipos Frasco com 500ml", "veredito": "diferente"}
+ ],
+ "incertos": []
+}
