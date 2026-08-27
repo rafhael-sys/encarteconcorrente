@@ -27127,5 +27127,394 @@
   "veredito": "mesmo",
   "quando": "2026-08-26",
   "aplicado": true
+ },
+ "chocolate em barra hershey's 75g/77g/82g (sabores) || chocolate em barra hersheys 75g/77g/82g (sabores)": {
+  "a": "Chocolate em Barra Hersheys 75g/77g/82g (Sabores)",
+  "b": "Chocolate em Barra Hershey's 75g/77g/82g (Sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "biscoito cookies piraque 80g (sabores) || biscoitos cookies piraque 80g (sabores)": {
+  "a": "Biscoitos Cookies Piraquê 80g (sabores)",
+  "b": "Biscoito Cookies Piraquê 80g (Sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "ovo caipira vermelho omega 3 ou branco livre de gaiola c/20 avine || ovo caipira, vermelho omega3 ou branco livre de gaiola c/20 avine": {
+  "a": "Ovo Caipira, Vermelho Ômega3 ou Branco Livre de Gaiola c/20 Avine",
+  "b": "Ovo Caipira Vermelho Ômega 3 ou Branco Livre de Gaiola c/20 Avine",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "bebida proteica italac s/lactose 15g 250ml (sabores) || bebida proteica italac sem lactose 15g 250ml sabores": {
+  "a": "Bebida Proteica Italac sem Lactose 15g 250ml Sabores",
+  "b": "Bebida Proteica Italac S/Lactose 15g 250ml (Sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "ovos brancos grande bandeja c30 || ovos brancos grandes bandeja c/30": {
+  "a": "Ovos Brancos Grandes Bandeja c/30",
+  "b": "Ovos Brancos Grande Bandeja C30",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "paleta bovina resfriada a vacuo masterboi || paleta bovina resfriada a vacuo masterboi kg": {
+  "a": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+  "b": "Paleta Bovina Resfriada a Vácuo Masterboi",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "pernil suino sem osso resfriado reserva || pernil suino sem osso resfriado reserva kg": {
+  "a": "Pernil Suíno sem Osso Resfriado Reserva kg",
+  "b": "Pernil Suíno sem Osso Resfriado Reserva",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "creatina max titanium 300g || creatine max titanium 300g": {
+  "a": "Creatina Max Titanium 300g",
+  "b": "Creatine Max Titanium 300g",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "ovo caipira vermelho omega 3 ou branco livre de gaiola c/20 avine || ovo caipira, vermelho, omegas ou branco livre de gaiola c/20 avine": {
+  "a": "Ovo Caipira, Vermelho, Ômegas ou Branco Livre de Gaiola C/20 Avine",
+  "b": "Ovo Caipira Vermelho Ômega 3 ou Branco Livre de Gaiola c/20 Avine",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "racao para caes pedigree (a granel - filhote/frango/carne e cereais ad/ao leite ad/racas pequenas) || racao para caes pedigree a granel (filhote/frango/carne e cereais adulto/ao leite adulto/racas pequenas)": {
+  "a": "Ração para Cães Pedigree (A Granel - Filhote/Frango/Carne E Cereais Ad/Ao Leite Ad/Raças Pequenas)",
+  "b": "Ração para Cães Pedigree A Granel (Filhote/Frango/Carne e Cereais Adulto/Ao Leite Adulto/Raças Pequenas)",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "picanha bovina maturatta resfriada || picanha bovina maturatta resfriada kg": {
+  "a": "Picanha Bovina Maturatta Resfriada",
+  "b": "Picanha Bovina Maturatta Resfriada KG",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "panceta suina a granel kg || panceta suina granel kg": {
+  "a": "Panceta Suína Granel Kg",
+  "b": "Panceta Suína a Granel KG",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "polpa de fruta sterbom 400g caju, goiaba, manga ou tamarindo || polpa de fruta sterbom 400g caju/goiaba/manga/tamarindo": {
+  "a": "Polpa De Fruta Sterbom 400g Caju/Goiaba/Manga/Tamarindo",
+  "b": "Polpa de Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "refrigerante guarana antarctica 200ml (tradicional/zero) || refrigerante guarana antarctica gf 200ml tradicional e zero": {
+  "a": "Refrigerante Guaraná Antarctica GF 200ml Tradicional e Zero",
+  "b": "Refrigerante Guaraná Antarctica 200ml (Tradicional/Zero)",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "racao para gatos kitekat 70g/racao para caes champ 85g (sabores) || racao para gatos kitekat 70g/racao para caes champ 85g (sache - sabores)": {
+  "a": "Racao para Gatos Kitekat 70g/Racao para Caes Champ 85g (Sache - Sabores)",
+  "b": "Ração para Gatos Kitekat 70g/Ração para Cães Champ 85g (Sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "creme de goiaba tambau balde 4,8kg || creme de goiaba tambau bd 4,8kg": {
+  "a": "Creme de Goiaba Tambau BD 4,8kg",
+  "b": "Creme de Goiaba Tambaú Balde 4,8kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "manteiga de 1ª qualidade sertao jucurutu com sal 500g || manteiga de 1ª qualidade sertao jucurutu com sal pote 500g": {
+  "a": "Manteiga de 1ª Qualidade Sertão Jucurutu com Sal Pote 500g",
+  "b": "Manteiga de 1ª Qualidade Sertão Jucurutu com Sal 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "bisc coberto bis lacta 100,8g sabores || biscoito coberto bis lacta 100,8g (sabores)": {
+  "a": "Bisc Coberto Bis Lacta 100,8g Sabores",
+  "b": "Biscoito Coberto Bis Lacta 100,8g (Sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "pernil suino com osso resfriado reserva || pernil suino sem osso resfriado reserva": {
+  "a": "Pernil Suíno com Osso Resfriado Reserva",
+  "b": "Pernil Suíno sem Osso Resfriado Reserva",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "milho de pipoca precioso 500g || milho pipoca precioso 500g": {
+  "a": "Milho Pipoca Precioso 500g",
+  "b": "Milho de Pipoca Precioso 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "copa-lombo suina resfriada reserva || copa-lombo suino resfriado reserva": {
+  "a": "Copa-Lombo Suína Resfriada Reserva",
+  "b": "Copa-Lombo Suíno Resfriado Reserva",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "baco bovino congelado a vacuo masterboi || coracao bovino congelado a vacuo masterboi": {
+  "a": "Baço Bovino Congelado a Vácuo Masterboi",
+  "b": "Coração Bovino Congelado a Vácuo Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "vinho tinto galiotto cabernet sauvignon 750ml || vinho tinto galiotto cabernet sauvignon suave 750ml": {
+  "a": "Vinho Tinto Galiotto Cabernet Sauvignon 750ml",
+  "b": "Vinho Tinto Galiotto Cabernet Sauvignon Suave 750ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "refrigerante guarana antarctica 2l (tradicional/zero) || refrigerante guarana antarctica pet 2l tradicional ou zero": {
+  "a": "Refrigerante Guaraná Antarctica PET 2L Tradicional ou Zero",
+  "b": "Refrigerante Guaraná Antarctica 2L (Tradicional/Zero)",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "refrigerante pepsi cola 2l (tradicional/zero) || refrigerante pepsi cola gf 2l tradicional ou zero": {
+  "a": "Refrigerante Pepsi Cola GF 2L Tradicional ou Zero",
+  "b": "Refrigerante Pepsi Cola 2L (Tradicional/Zero)",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "cerveja corona 330ml || cerveja corona ln 330ml": {
+  "a": "Cerveja Corona LN 330ml",
+  "b": "Cerveja Corona 330ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "filezinho de frango aurora bandeja 1kg || filezinho de peito frango aurora bandeja 1kg": {
+  "a": "Filezinho de Peito Frango Aurora Bandeja 1kg",
+  "b": "Filézinho de Frango Aurora Bandeja 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "beb proteica italac s/lac 15g 250ml sabores || bebida proteica italac s/lactose 15g 250ml (sabores)": {
+  "a": "Beb Proteica Italac S/Lac 15g 250ml Sabores",
+  "b": "Bebida Proteica Italac S/Lactose 15g 250ml (Sabores)",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "maminha bovina maturatta resfriada kg || picanha bovina maturatta resfriada kg": {
+  "a": "Maminha Bovina Maturatta Resfriada kg",
+  "b": "Picanha Bovina Maturatta Resfriada KG",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "refrigerante sprite 2l (tradicional/zero acucar) || refrigerante sprite 2l (tradicional/zero)": {
+  "a": "Refrigerante Sprite 2L (Tradicional/Zero Açúcar)",
+  "b": "Refrigerante Sprite 2L (Tradicional/Zero)",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "hamburguer sadia ave e bovino 56g || hamburguer sadia misto ave e bovino 56g": {
+  "a": "Hambúrguer Sadia Ave e Bovino 56g",
+  "b": "Hambúrguer Sadia Misto Ave e Bovino 56g",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "faqueiro riviera brinox 24 pecas || faqueiro riviera brinox 24 pecas preto": {
+  "a": "Faqueiro Riviera Brinox 24 Peças",
+  "b": "Faqueiro Riviera Brinox 24 Peças Preto",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "coxas e sobrecoxas bom todo congeladas 1kg || coxas e sobrecoxas bom todo congeladas bandeja 1kg": {
+  "a": "Coxas e Sobrecoxas Bom Todo Congeladas 1kg",
+  "b": "Coxas e Sobrecoxas Bom Todo Congeladas Bandeja 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "papel higienico clear luxo folha dupla 20m leve 12 pague 11 || papel higienico rose folha dupla 20m leve 12 pague 11": {
+  "a": "Papel Higiênico Rose Folha Dupla 20m Leve 12 Pague 11",
+  "b": "Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "vodka smirnoff 998ml || vodka smirnoff gfa 998ml": {
+  "a": "Vodka Smirnoff gfa 998ml",
+  "b": "Vodka Smirnoff 998ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "coxas e sobrecoxas de frango com porcao dorsal congeladas lar || coxas e sobrecoxas de frango lar com porcao dorsal congelado": {
+  "a": "Coxas e Sobrecoxas de Frango com Porção Dorsal Congeladas Lar",
+  "b": "Coxas e Sobrecoxas de Frango Lar com Porção Dorsal Congelado",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "pao hot dog center baby ou big 400g || pao hot dog center massas baby ou big 400g": {
+  "a": "Pão Hot Dog Center Massas Baby ou Big 400G",
+  "b": "Pão Hot Dog Center Baby ou Big 400g",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "cachaca caranguejo latao 473ml || cachaca caranguejo prata latao 473ml": {
+  "a": "Cachaça Caranguejo Latão 473ml",
+  "b": "Cachaça Caranguejo Prata Latão 473ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "peito bovino com osso resfriado masterboi || peito com osso resfriado masterboi": {
+  "a": "Peito Bovino com Osso Resfriado Masterboi",
+  "b": "Peito com Osso Resfriado Masterboi",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "rim bovino congelado masterboi || rins bovino congelado masterboi kg": {
+  "a": "Rins Bovino Congelado Masterboi kg",
+  "b": "Rim Bovino Congelado Masterboi",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "queijo mussarela ipanema 150g fatiado || queijo mussarela itambe 150g fatiado": {
+  "a": "Queijo Mussarela IPANEMA 150g Fatiado",
+  "b": "Queijo Mussarela Itambé 150g Fatiado",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "papel higienico clear luxo folha dupla 20m leve 12 pague 11 || papel higienico noble folha dupla 20m leve 12 pague 11": {
+  "a": "Papel Higiênico Noble Folha Dupla 20m Leve 12 Pague 11",
+  "b": "Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "ovo branco grande granja almeida c/ 30 || ovo branco grande granja almeida c/ 30 (bandeja)": {
+  "a": "Ovo Branco Grande Granja Almeida c/ 30 (Bandeja)",
+  "b": "Ovo Branco Grande Granja Almeida C/ 30",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "melao japones, espanhol ou portugues kg || melao japones/espanhol/portugues": {
+  "a": "Melão Japonês, Espanhol ou Português kg",
+  "b": "Melão Japonês/Espanhol/Português",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "file de peixe tilapia aurora 800g || file de tilapia aurora 800g": {
+  "a": "Filé de Tilápia Aurora 800g",
+  "b": "Filé de Peixe Tilápia Aurora 800g",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "papel higienico clear luxo folha dupla 20m leve 12 pague 11 || papel higienico personal folha dupla 20m leve 12 pague 11": {
+  "a": "Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11",
+  "b": "Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "file de peixe tilapia aurora 800g || file de peixe tilapia riviera 800g": {
+  "a": "Filé de Peixe Tilápia Riviera 800g",
+  "b": "Filé de Peixe Tilápia Aurora 800g",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "carne bovina capa contra file resfriado || carne bovina contra file resfriado kg": {
+  "a": "Carne Bovina Contra Filé Resfriado kg",
+  "b": "Carne Bovina Capa Contra Filé Resfriado",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "coxinha da asa de frango sadia 1kg (iqf) || coxinha da asa de frango sadia pct 1kg": {
+  "a": "Coxinha da Asa de Frango Sadia Pct 1kg",
+  "b": "Coxinha da Asa de Frango Sadia 1kg (IQF)",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "fraldinha bovina resfriada a vacuo masterboi || paleta bovina resfriada a vacuo masterboi": {
+  "a": "Fraldinha Bovina Resfriada a Vácuo Masterboi",
+  "b": "Paleta Bovina Resfriada a Vácuo Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "mingau allnutri 600g (sabores) || mingau nutrilon 600g sabores": {
+  "a": "Mingau Nutrilon 600g Sabores",
+  "b": "Mingau AllNutri 600g (Sabores)",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "maminha bovina resfriada a vacuo masterboi || paleta bovina resfriada a vacuo masterboi": {
+  "a": "Maminha Bovina Resfriada a Vácuo Masterboi",
+  "b": "Paleta Bovina Resfriada a Vácuo Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "peito de frango com osso congelado mauricea kg || peito de frango com osso resfriado mauricea kg": {
+  "a": "Peito de Frango com Osso Congelado Mauricéa kg",
+  "b": "Peito de Frango com Osso Resfriado Mauricéa Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "mocoto bovino congelado masterboi || rim bovino congelado masterboi": {
+  "a": "Mocotó Bovino Congelado Masterboi",
+  "b": "Rim Bovino Congelado Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "bala fini tubes sabores 80g || goma fini tubes sabores 80g": {
+  "a": "Bala Fini Tubes Sabores 80g",
+  "b": "Goma Fini Tubes Sabores 80g",
+  "veredito": "mesmo",
+  "quando": "2026-08-27",
+  "aplicado": true
+ },
+ "desodorante aerosol monange 90g || desodorante aerosol rexona 90g": {
+  "a": "Desodorante Aerosol Monange 90g",
+  "b": "Desodorante Aerosol Rexona 90g",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "coxa e sobrecoxa de frango resfriada mauricea || sobrecoxa de frango resfriada mauricea kg": {
+  "a": "Coxa e Sobrecoxa de Frango Resfriada Mauricéa",
+  "b": "Sobrecoxa de Frango Resfriada Mauricéa Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
+ },
+ "paleta bovina resfriada a vacuo masterboi || picanha bovina resfriada a vacuo masterboi kg": {
+  "a": "Picanha Bovina Resfriada a Vácuo Masterboi KG",
+  "b": "Paleta Bovina Resfriada a Vácuo Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-08-27"
  }
 }

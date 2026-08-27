@@ -4070,3 +4070,61 @@
 - MESMO: «Salsicha Hot Dog Perdigão Resfriada» == «Salsicha Hot Dog Perdigão Resfriada Kg»
 - MESMO: «Toalha de Papel Caprice Pacote 2x50 folhas» == «Toalha de Papel Caprice Pacote com 2x50 Folhas»
 - MESMO: «Toalhas de Papel Caprice Pct c/ 2x 50 Folhas» == «Toalha de Papel Caprice Pacote com 2x50 Folhas»
+- DIFERENTES: «Baço Bovino Congelado a Vácuo Masterboi» != «Coração Bovino Congelado a Vácuo Masterboi»
+- MESMO: «Bala Fini Tubes Sabores 80g» == «Goma Fini Tubes Sabores 80g»
+- MESMO: «Beb Proteica Italac S/Lac 15g 250ml Sabores» == «Bebida Proteica Italac S/Lactose 15g 250ml (Sabores)»
+- MESMO: «Bebida Proteica Italac sem Lactose 15g 250ml Sabores» == «Bebida Proteica Italac S/Lactose 15g 250ml (Sabores)»
+- MESMO: «Bisc Coberto Bis Lacta 100,8g Sabores» == «Biscoito Coberto Bis Lacta 100,8g (Sabores)»
+- MESMO: «Biscoitos Cookies Piraquê 80g (sabores)» == «Biscoito Cookies Piraquê 80g (Sabores)»
+- MESMO: «Cachaça Caranguejo Latão 473ml» == «Cachaça Caranguejo Prata Latão 473ml»
+- DIFERENTES: «Carne Bovina Contra Filé Resfriado kg» != «Carne Bovina Capa Contra Filé Resfriado»
+- MESMO: «Cerveja Corona LN 330ml» == «Cerveja Corona 330ml»
+- MESMO: «Chocolate em Barra Hersheys 75g/77g/82g (Sabores)» == «Chocolate em Barra Hershey's 75g/77g/82g (Sabores)»
+- MESMO: «Copa-Lombo Suína Resfriada Reserva» == «Copa-Lombo Suíno Resfriado Reserva»
+- DIFERENTES: «Coxa e Sobrecoxa de Frango Resfriada Mauricéa» != «Sobrecoxa de Frango Resfriada Mauricéa Kg»
+- MESMO: «Coxas e Sobrecoxas Bom Todo Congeladas 1kg» == «Coxas e Sobrecoxas Bom Todo Congeladas Bandeja 1kg»
+- MESMO: «Coxas e Sobrecoxas de Frango com Porção Dorsal Congeladas Lar» == «Coxas e Sobrecoxas de Frango Lar com Porção Dorsal Congelado»
+- MESMO: «Coxinha da Asa de Frango Sadia Pct 1kg» == «Coxinha da Asa de Frango Sadia 1kg (IQF)»
+- MESMO: «Creatina Max Titanium 300g» == «Creatine Max Titanium 300g»
+- MESMO: «Creme de Goiaba Tambau BD 4,8kg» == «Creme de Goiaba Tambaú Balde 4,8kg»
+- DIFERENTES: «Desodorante Aerosol Monange 90g» != «Desodorante Aerosol Rexona 90g»
+- MESMO: «Faqueiro Riviera Brinox 24 Peças» == «Faqueiro Riviera Brinox 24 Peças Preto»
+- DIFERENTES: «Filé de Peixe Tilápia Riviera 800g» != «Filé de Peixe Tilápia Aurora 800g»
+- MESMO: «Filé de Tilápia Aurora 800g» == «Filé de Peixe Tilápia Aurora 800g»
+- MESMO: «Filezinho de Peito Frango Aurora Bandeja 1kg» == «Filézinho de Frango Aurora Bandeja 1kg»
+- DIFERENTES: «Fraldinha Bovina Resfriada a Vácuo Masterboi» != «Paleta Bovina Resfriada a Vácuo Masterboi»
+- MESMO: «Hambúrguer Sadia Ave e Bovino 56g» == «Hambúrguer Sadia Misto Ave e Bovino 56g»
+- DIFERENTES: «Maminha Bovina Maturatta Resfriada kg» != «Picanha Bovina Maturatta Resfriada KG»
+- DIFERENTES: «Maminha Bovina Resfriada a Vácuo Masterboi» != «Paleta Bovina Resfriada a Vácuo Masterboi»
+- MESMO: «Manteiga de 1ª Qualidade Sertão Jucurutu com Sal Pote 500g» == «Manteiga de 1ª Qualidade Sertão Jucurutu com Sal 500g»
+- MESMO: «Melão Japonês, Espanhol ou Português kg» == «Melão Japonês/Espanhol/Português»
+- MESMO: «Milho Pipoca Precioso 500g» == «Milho de Pipoca Precioso 500g»
+- DIFERENTES: «Mingau Nutrilon 600g Sabores» != «Mingau AllNutri 600g (Sabores)»
+- DIFERENTES: «Mocotó Bovino Congelado Masterboi» != «Rim Bovino Congelado Masterboi»
+- MESMO: «Ovo Branco Grande Granja Almeida c/ 30 (Bandeja)» == «Ovo Branco Grande Granja Almeida C/ 30»
+- MESMO: «Ovo Caipira, Vermelho Ômega3 ou Branco Livre de Gaiola c/20 Avine» == «Ovo Caipira Vermelho Ômega 3 ou Branco Livre de Gaiola c/20 Avine»
+- MESMO: «Ovo Caipira, Vermelho, Ômegas ou Branco Livre de Gaiola C/20 Avine» == «Ovo Caipira Vermelho Ômega 3 ou Branco Livre de Gaiola c/20 Avine»
+- MESMO: «Ovos Brancos Grandes Bandeja c/30» == «Ovos Brancos Grande Bandeja C30»
+- MESMO: «Paleta Bovina Resfriada a Vácuo Masterboi kg» == «Paleta Bovina Resfriada a Vácuo Masterboi»
+- DIFERENTES: «Picanha Bovina Resfriada a Vácuo Masterboi KG» != «Paleta Bovina Resfriada a Vácuo Masterboi»
+- MESMO: «Panceta Suína Granel Kg» == «Panceta Suína a Granel KG»
+- MESMO: «Pão Hot Dog Center Massas Baby ou Big 400G» == «Pão Hot Dog Center Baby ou Big 400g»
+- DIFERENTES: «Papel Higiênico Noble Folha Dupla 20m Leve 12 Pague 11» != «Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11»
+- DIFERENTES: «Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11» != «Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11»
+- DIFERENTES: «Papel Higiênico Rose Folha Dupla 20m Leve 12 Pague 11» != «Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11»
+- MESMO: «Peito Bovino com Osso Resfriado Masterboi» == «Peito com Osso Resfriado Masterboi»
+- DIFERENTES: «Peito de Frango com Osso Congelado Mauricéa kg» != «Peito de Frango com Osso Resfriado Mauricéa Kg»
+- DIFERENTES: «Pernil Suíno com Osso Resfriado Reserva» != «Pernil Suíno sem Osso Resfriado Reserva»
+- MESMO: «Pernil Suíno sem Osso Resfriado Reserva kg» == «Pernil Suíno sem Osso Resfriado Reserva»
+- MESMO: «Picanha Bovina Maturatta Resfriada» == «Picanha Bovina Maturatta Resfriada KG»
+- MESMO: «Polpa De Fruta Sterbom 400g Caju/Goiaba/Manga/Tamarindo» == «Polpa de Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo»
+- DIFERENTES: «Queijo Mussarela IPANEMA 150g Fatiado» != «Queijo Mussarela Itambé 150g Fatiado»
+- MESMO: «Ração para Cães Pedigree (A Granel - Filhote/Frango/Carne E Cereais Ad/Ao Leite Ad/Raças Pequenas)» == «Ração para Cães Pedigree A Granel (Filhote/Frango/Carne e Cereais Adulto/Ao Leite Adulto/Raças Pequenas)»
+- MESMO: «Racao para Gatos Kitekat 70g/Racao para Caes Champ 85g (Sache - Sabores)» == «Ração para Gatos Kitekat 70g/Ração para Cães Champ 85g (Sabores)»
+- MESMO: «Refrigerante Guaraná Antarctica GF 200ml Tradicional e Zero» == «Refrigerante Guaraná Antarctica 200ml (Tradicional/Zero)»
+- MESMO: «Refrigerante Guaraná Antarctica PET 2L Tradicional ou Zero» == «Refrigerante Guaraná Antarctica 2L (Tradicional/Zero)»
+- MESMO: «Refrigerante Pepsi Cola GF 2L Tradicional ou Zero» == «Refrigerante Pepsi Cola 2L (Tradicional/Zero)»
+- MESMO: «Refrigerante Sprite 2L (Tradicional/Zero Açúcar)» == «Refrigerante Sprite 2L (Tradicional/Zero)»
+- MESMO: «Rins Bovino Congelado Masterboi kg» == «Rim Bovino Congelado Masterboi»
+- MESMO: «Vinho Tinto Galiotto Cabernet Sauvignon 750ml» == «Vinho Tinto Galiotto Cabernet Sauvignon Suave 750ml»
+- MESMO: «Vodka Smirnoff gfa 998ml» == «Vodka Smirnoff 998ml»

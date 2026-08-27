@@ -17619,5 +17619,41 @@
   ],
   "fonte": "web",
   "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_0e495fefcf",
+  "perfil": "atacadao.com.br",
+  "titulo": "Atacadão — Boa do Dia (só quinta 27/08)",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-27",
+  "fim": "2026-08-27",
+  "carrossel": false,
+  "shortcode": "atacadao_0e495fefcf",
+  "caption": "Boa do Dia",
+  "adicionado_em": "2026-08-27",
+  "paginas": [
+   "atacadao_0e495fefcf_p1.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "nosso_30e7fcdcf9",
+  "perfil": "nossoatacarejo.com.br",
+  "titulo": "Nossa Quarta & Quinta (26 e 27/08)",
+  "banner": "Nosso Atacarejo",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-26",
+  "fim": "2026-08-27",
+  "carrossel": false,
+  "shortcode": "nosso_30e7fcdcf9",
+  "caption": "Nossa Quarta & Quinta",
+  "adicionado_em": "2026-08-27",
+  "paginas": [
+   "nosso_30e7fcdcf9_p1.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.nossoatacarejo.com.br/encarte/quarta-e-quinta-rn/5"
  }
 ]

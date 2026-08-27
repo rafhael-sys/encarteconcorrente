@@ -1,0 +1,294 @@
+{
+ "validacoes": [
+  {
+   "a": "Chocolate em Barra Hersheys 75g/77g/82g (Sabores)",
+   "b": "Chocolate em Barra Hershey's 75g/77g/82g (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoitos Cookies Piraquê 80g (sabores)",
+   "b": "Biscoito Cookies Piraquê 80g (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Caipira, Vermelho Ômega3 ou Branco Livre de Gaiola c/20 Avine",
+   "b": "Ovo Caipira Vermelho Ômega 3 ou Branco Livre de Gaiola c/20 Avine",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Proteica Italac sem Lactose 15g 250ml Sabores",
+   "b": "Bebida Proteica Italac S/Lactose 15g 250ml (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Brancos Grandes Bandeja c/30",
+   "b": "Ovos Brancos Grande Bandeja C30",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+   "b": "Paleta Bovina Resfriada a Vácuo Masterboi",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pernil Suíno sem Osso Resfriado Reserva kg",
+   "b": "Pernil Suíno sem Osso Resfriado Reserva",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creatina Max Titanium 300g",
+   "b": "Creatine Max Titanium 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Caipira, Vermelho, Ômegas ou Branco Livre de Gaiola C/20 Avine",
+   "b": "Ovo Caipira Vermelho Ômega 3 ou Branco Livre de Gaiola c/20 Avine",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ração para Cães Pedigree (A Granel - Filhote/Frango/Carne E Cereais Ad/Ao Leite Ad/Raças Pequenas)",
+   "b": "Ração para Cães Pedigree A Granel (Filhote/Frango/Carne e Cereais Adulto/Ao Leite Adulto/Raças Pequenas)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Picanha Bovina Maturatta Resfriada",
+   "b": "Picanha Bovina Maturatta Resfriada KG",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Panceta Suína Granel Kg",
+   "b": "Panceta Suína a Granel KG",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Polpa De Fruta Sterbom 400g Caju/Goiaba/Manga/Tamarindo",
+   "b": "Polpa de Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica GF 200ml Tradicional e Zero",
+   "b": "Refrigerante Guaraná Antarctica 200ml (Tradicional/Zero)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Racao para Gatos Kitekat 70g/Racao para Caes Champ 85g (Sache - Sabores)",
+   "b": "Ração para Gatos Kitekat 70g/Ração para Cães Champ 85g (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Goiaba Tambau BD 4,8kg",
+   "b": "Creme de Goiaba Tambaú Balde 4,8kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga de 1ª Qualidade Sertão Jucurutu com Sal Pote 500g",
+   "b": "Manteiga de 1ª Qualidade Sertão Jucurutu com Sal 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisc Coberto Bis Lacta 100,8g Sabores",
+   "b": "Biscoito Coberto Bis Lacta 100,8g (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pernil Suíno com Osso Resfriado Reserva",
+   "b": "Pernil Suíno sem Osso Resfriado Reserva",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Milho Pipoca Precioso 500g",
+   "b": "Milho de Pipoca Precioso 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Copa-Lombo Suína Resfriada Reserva",
+   "b": "Copa-Lombo Suíno Resfriado Reserva",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Baço Bovino Congelado a Vácuo Masterboi",
+   "b": "Coração Bovino Congelado a Vácuo Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Vinho Tinto Galiotto Cabernet Sauvignon 750ml",
+   "b": "Vinho Tinto Galiotto Cabernet Sauvignon Suave 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Guaraná Antarctica PET 2L Tradicional ou Zero",
+   "b": "Refrigerante Guaraná Antarctica 2L (Tradicional/Zero)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Pepsi Cola GF 2L Tradicional ou Zero",
+   "b": "Refrigerante Pepsi Cola 2L (Tradicional/Zero)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Corona LN 330ml",
+   "b": "Cerveja Corona 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Peito Frango Aurora Bandeja 1kg",
+   "b": "Filézinho de Frango Aurora Bandeja 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Beb Proteica Italac S/Lac 15g 250ml Sabores",
+   "b": "Bebida Proteica Italac S/Lactose 15g 250ml (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Maminha Bovina Maturatta Resfriada kg",
+   "b": "Picanha Bovina Maturatta Resfriada KG",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Refrigerante Sprite 2L (Tradicional/Zero Açúcar)",
+   "b": "Refrigerante Sprite 2L (Tradicional/Zero)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Sadia Ave e Bovino 56g",
+   "b": "Hambúrguer Sadia Misto Ave e Bovino 56g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Faqueiro Riviera Brinox 24 Peças",
+   "b": "Faqueiro Riviera Brinox 24 Peças Preto",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxas e Sobrecoxas Bom Todo Congeladas 1kg",
+   "b": "Coxas e Sobrecoxas Bom Todo Congeladas Bandeja 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Rose Folha Dupla 20m Leve 12 Pague 11",
+   "b": "Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Vodka Smirnoff gfa 998ml",
+   "b": "Vodka Smirnoff 998ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxas e Sobrecoxas de Frango com Porção Dorsal Congeladas Lar",
+   "b": "Coxas e Sobrecoxas de Frango Lar com Porção Dorsal Congelado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pão Hot Dog Center Massas Baby ou Big 400G",
+   "b": "Pão Hot Dog Center Baby ou Big 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cachaça Caranguejo Latão 473ml",
+   "b": "Cachaça Caranguejo Prata Latão 473ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Peito Bovino com Osso Resfriado Masterboi",
+   "b": "Peito com Osso Resfriado Masterboi",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Rins Bovino Congelado Masterboi kg",
+   "b": "Rim Bovino Congelado Masterboi",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela IPANEMA 150g Fatiado",
+   "b": "Queijo Mussarela Itambé 150g Fatiado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Noble Folha Dupla 20m Leve 12 Pague 11",
+   "b": "Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovo Branco Grande Granja Almeida c/ 30 (Bandeja)",
+   "b": "Ovo Branco Grande Granja Almeida C/ 30",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Melão Japonês, Espanhol ou Português kg",
+   "b": "Melão Japonês/Espanhol/Português",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Tilápia Aurora 800g",
+   "b": "Filé de Peixe Tilápia Aurora 800g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico PERSONAL Folha Dupla 20M Leve 12 Pague 11",
+   "b": "Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peixe Tilápia Riviera 800g",
+   "b": "Filé de Peixe Tilápia Aurora 800g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Contra Filé Resfriado kg",
+   "b": "Carne Bovina Capa Contra Filé Resfriado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxinha da Asa de Frango Sadia Pct 1kg",
+   "b": "Coxinha da Asa de Frango Sadia 1kg (IQF)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fraldinha Bovina Resfriada a Vácuo Masterboi",
+   "b": "Paleta Bovina Resfriada a Vácuo Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mingau Nutrilon 600g Sabores",
+   "b": "Mingau AllNutri 600g (Sabores)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Maminha Bovina Resfriada a Vácuo Masterboi",
+   "b": "Paleta Bovina Resfriada a Vácuo Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Peito de Frango com Osso Congelado Mauricéa kg",
+   "b": "Peito de Frango com Osso Resfriado Mauricéa Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mocotó Bovino Congelado Masterboi",
+   "b": "Rim Bovino Congelado Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bala Fini Tubes Sabores 80g",
+   "b": "Goma Fini Tubes Sabores 80g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Aerosol Monange 90g",
+   "b": "Desodorante Aerosol Rexona 90g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa e Sobrecoxa de Frango Resfriada Mauricéa",
+   "b": "Sobrecoxa de Frango Resfriada Mauricéa Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Picanha Bovina Resfriada a Vácuo Masterboi KG",
+   "b": "Paleta Bovina Resfriada a Vácuo Masterboi",
+   "veredito": "diferente"
+  }
+ ]
+}
