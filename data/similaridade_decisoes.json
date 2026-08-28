@@ -27516,5 +27516,375 @@
   "b": "Paleta Bovina Resfriada a Vácuo Masterboi",
   "veredito": "diferente",
   "quando": "2026-08-27"
+ },
+ "body splash ekopure 200ml fragrancias || body splash xerosa 200ml fragrancias": {
+  "a": "Body Splash Ekopure 200ml Fragrâncias",
+  "b": "Body Splash Xerosa 200ml Fragrancias",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "absorvente sempre livre adapt suave c/ abas leve 8 pague 7 || absorvente sempre livre suave com abas leve 16 pague 14": {
+  "a": "Absorvente Sempre Livre Suave com Abas Leve 16 Pague 14",
+  "b": "Absorvente Sempre Livre Adapt Suave c/ Abas Leve 8 Pague 7",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "linguica de frango seara churrasco congelada || linguica de frango seara congelada": {
+  "a": "Linguiça de Frango Seara Churrasco Congelada",
+  "b": "Linguiça de Frango Seara Congelada",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "molho de tomate fugini tradicional 300g || molho de tomate so fruta tradicional 300g": {
+  "a": "Molho de Tomate Fugini Tradicional 300g",
+  "b": "Molho de Tomate Só Fruta Tradicional 300g",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "cerveja amstel lata 350ml || cerveja lager amstel lta 350ml": {
+  "a": "Cerveja Amstel Lata 350ml",
+  "b": "Cerveja Lager Amstel Lta 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "requeijao cremoso ipanema 180g (tradicional ou light) || requeijao cremoso itacolomy 180g (tradicional/light)": {
+  "a": "Requeijão Cremoso Ipanema 180g (tradicional ou light)",
+  "b": "Requeijão Cremoso Itacolomy 180g (Tradicional/Light)",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "file de tilapia riviera 400g || iscas de tilapia riviera 400g": {
+  "a": "Iscas de Tilápia Riviera 400g",
+  "b": "Filé de Tilápia Riviera 400g",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "coxinha da asa cancao iqf 1kg || coxinha da asa jagua iqf 1kg": {
+  "a": "Coxinha da asa Jaguá IQF 1kg",
+  "b": "Coxinha da Asa Canção IQF 1Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "coxinha da asa cancao iqf 1kg || coxinha da asa lar iqf 1kg": {
+  "a": "Coxinha da Asa Lar IQF 1kg",
+  "b": "Coxinha da Asa Canção IQF 1Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "coxinha da asa cancao iqf 1kg || coxinha da asa seara iqf 1kg": {
+  "a": "Coxinha da Asa Seara IQF 1kg",
+  "b": "Coxinha da Asa Canção IQF 1Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "arroz para caes amigaco 5kg || racao para caes amigacao 5kg": {
+  "a": "Arroz para Cães Amigaço 5kg",
+  "b": "Ração para Cães Amigação 5kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "bebida lactea batclan sabores 900g || bebida lactea clan sabores sache 900g": {
+  "a": "Bebida Láctea Clan Sabores Sachê 900g",
+  "b": "Bebida Láctea Batclan Sabores 900g",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "bisc rosquinha rancheiro zero lactose 300g (sabores) || biscoito rosquinha rancheiro zero lactose 300g": {
+  "a": "Bisc Rosquinha Rancheiro Zero Lactose 300g (Sabores)",
+  "b": "Biscoito Rosquinha Rancheiro Zero Lactose 300g",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "file de peito de frango lar bdj 1kg || filezinho de peito de frango lar 1kg": {
+  "a": "Filezinho de Peito de Frango Lar 1kg",
+  "b": "Filé de Peito de Frango Lar BDJ 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "batata inglesa kg || batata lisa inglesa kg": {
+  "a": "Batata Inglesa kg",
+  "b": "Batata Lisa Inglesa kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "queijo do reino ilda lata ou fracionado || queijo reino tirolez lata ou fracionado": {
+  "a": "Queijo do Reino Ilda Lata ou Fracionado",
+  "b": "Queijo Reino Tirolez Lata ou Fracionado",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "mortadela mista natto kg || mortadela mista nobre kg": {
+  "a": "Mortadela Mista Natto Kg",
+  "b": "Mortadela Mista NOBRE kg",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "margarina primor 500g || margarina primor 500g (c/ sal)": {
+  "a": "Margarina Primor 500g",
+  "b": "Margarina Primor 500g (c/ Sal)",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "leite em po aurora integral 200g || leite em po italac integral 200g": {
+  "a": "Leite em Pó Aurora Integral 200g",
+  "b": "Leite em Pó Italac Integral 200g",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "camarao inteiro 60/70 camanor congelado kg || camarao inteiro tamanho 60/70 camanor congelado": {
+  "a": "Camarão Inteiro Tamanho 60/70 Camanor Congelado",
+  "b": "Camarão Inteiro 60/70 Camanor Congelado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "file de frango jagua bandeja 1kg || file de peito de frango jagua bandeja 1kg": {
+  "a": "Filé de Peito de Frango Jaguá Bandeja 1kg",
+  "b": "Filé de Frango Jaguá Bandeja 1Kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "carne bovina cupim resfriado kg || carne bovina patinho resfriado kg": {
+  "a": "Carne Bovina Patinho Resfriado Kg",
+  "b": "Carne Bovina Cupim Resfriado Kg",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "lava roupas liquido coala fr 3l fragrancias || lava roupas liquido top clear 3l (fragrancias)": {
+  "a": "Lava Roupas Liquido Coala FR 3L Fragrancias",
+  "b": "Lava Roupas Líquido Top Clear 3L (fragrâncias)",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "lava roupa liquido +ekonomico 3l || lava-roupas liquido omo 3l": {
+  "a": "Lava-Roupas Líquido Omo 3L",
+  "b": "Lava Roupa Líquido +eKonomico 3L",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "salgadinho pippo's sao braz sabores 60g || salgadinho pippos sao braz anime 60g": {
+  "a": "Salgadinho Pippo's São Braz Sabores 60g",
+  "b": "Salgadinho Pippos São Braz Anime 60g",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "biscoito recheado oreo 90g (sabores variados) || biscoito recheado oreo 90g sabores": {
+  "a": "Biscoito Recheado Oreo 90g sabores",
+  "b": "Biscoito Recheado Oreo 90g (Sabores Variados)",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "hamburguer friboi 56g || hamburguer friboi misto 56g": {
+  "a": "Hambúrguer Friboi 56g",
+  "b": "Hambúrguer Friboi Misto 56g",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "bebida mista ice pego 300ml || bebida mista icepego lemon 300ml": {
+  "a": "Bebida Mista Ice Pego 300ml",
+  "b": "Bebida Mista Icepego Lemon 300ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "biscoito leite maltado coberto piraque 80g || biscoito leite maltado com cobertura piraque pct 80g": {
+  "a": "Biscoito Leite Maltado com Cobertura Piraquê pct 80g",
+  "b": "Biscoito Leite Maltado Coberto Piraquê 80g",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "cafe sao braz 250g extra forte almofada/a vacuo || cafe sao braz extraforte 250g (almofada/a vacuo)": {
+  "a": "Café São Braz 250g Extra Forte Almofada/a Vácuo",
+  "b": "Café São Braz Extraforte 250g (Almofada/A Vácuo)",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "kit de temperos leto c/4 500ml (emb. promocional) || kit temperos leto 500ml c/4 (emb. promocional)": {
+  "a": "Kit Temperos Leto 500ml C/4 (Emb. Promocional)",
+  "b": "Kit de Temperos Leto C/4 500ml (Emb. Promocional)",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "pera danjou || pera danjou kg": {
+  "a": "Pera Danjou kg",
+  "b": "Pera Danjou",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "paleta bovina resfriada a vacuo masterboi kg || patinho bovino resfriado a vacuo masterboi kg": {
+  "a": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+  "b": "Patinho Bovino Resfriado a Vácuo Masterboi kg",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "atum em pedacos ao natural ou em oleo 88 98g || atum em pedacos ao natural ou em oleo 88 lata 98g drenado": {
+  "a": "Atum em Pedaços ao Natural ou em Óleo 88 98g",
+  "b": "Atum em Pedaços ao Natural ou em Óleo 88 Lata 98g Drenado",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "pneu aro 14 175/75 xbri fastway unidade || pneu aro 15 185/65 xbri fastway unidade": {
+  "a": "PNEU ARO 15 185/65 XBRI FASTWAY UNIDADE",
+  "b": "Pneu Aro 14 175/75 XBRI Fastway Unidade",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "desinfetante dragao fragrancias frasco 2l || desinfetante dragao varias fragrancias frasco com 2l": {
+  "a": "Desinfetante Dragão Várias fragrâncias Frasco com 2L",
+  "b": "Desinfetante Dragão Fragrâncias Frasco 2L",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "limpador multiuso uau varias fragrancias frasco 500ml || limpador multiuso veja fragrancias frasco 500ml": {
+  "a": "Limpador Multiuso Uau Várias Fragrâncias Frasco 500ml",
+  "b": "Limpador Multiúso Veja Fragrâncias Frasco 500ml",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "bucho bovino resfriado masterboi || patinho bovino resfriado masterboi": {
+  "a": "Patinho Bovino Resfriado Masterboi",
+  "b": "Bucho Bovino Resfriado Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "coracao bovino congelado a vacuo masterboi || cupim bovino congelado a vacuo masterboi": {
+  "a": "Cupim Bovino Congelado a Vácuo Masterboi",
+  "b": "Coração Bovino Congelado a Vácuo Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "acem com osso bovino resfriado masterboi || contra file com osso bovino resfriado masterboi": {
+  "a": "Acém com Osso Bovino Resfriado Masterboi",
+  "b": "Contra Filé com Osso Bovino Resfriado Masterboi",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "lava roupas em po ala varios tipos pacote 400g || lava-roupas em po assim tipos pacote 400g": {
+  "a": "Lava-Roupas em Pó Assim Tipos Pacote 400g",
+  "b": "Lava Roupas em Pó Ala Vários Tipos Pacote 400g",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "lava roupas em po ala varios tipos pacote 400g || lava roupas em po sonho varios tipos pacote com 400g": {
+  "a": "Lava Roupas em Pó Sonho Vários tipos Pacote com 400g",
+  "b": "Lava Roupas em Pó Ala Vários Tipos Pacote 400g",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "manteiga itacolomy resfriada com sal 200g || manteiga itacolomy resfriada com sal pote 200g": {
+  "a": "Manteiga Itacolomy Resfriada com Sal 200g",
+  "b": "Manteiga Itacolomy Resfriada com Sal Pote 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "manteiga itacolomy resfriada com sal pote 200g || manteiga itacolomy resfriada com sal pote com 200g": {
+  "a": "Manteiga Itacolomy Resfriada Com Sal Pote com 200g",
+  "b": "Manteiga Itacolomy Resfriada com Sal Pote 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "ovo branco grande pvc bandeja com 30 unidades || ovo branco medio pvc bandeja com 20 unidades": {
+  "a": "Ovo Branco Grande PVC Bandeja com 30 unidades",
+  "b": "Ovo Branco Medio PVC Bandeja com 20 Unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "agua sanitaria clorito bombona com 5l || agua sanitaria dragao bombona com 5l": {
+  "a": "Água Sanitária Clorito Bombona com 5L",
+  "b": "Agua Sanitaria Dragao Bombona com 5L",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "absorvente noturno always seca com abas pacote 32 unidades || absorvente noturno lady suave com abas pacote com 32 unidades": {
+  "a": "Absorvente Noturno Always Seca com Abas Pacote 32 unidades",
+  "b": "Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "creme dental colgate tripla acao hortela tubo com 90g || creme dental colgate tripla acao menta original / hortela tubo com 90g": {
+  "a": "Creme Dental Colgate Tripla Acao Menta Original / Hortela Tubo com 90g",
+  "b": "Creme Dental Colgate Tripla Ação Hortelã Tubo com 90g",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "lava roupas liquido omo varias fragrancias frasco com 750ml || lava roupas liquido omo varios tipos frasco com 750ml": {
+  "a": "Lava Roupas Líquido Omo Várias fragrâncias Frasco com 750ml",
+  "b": "Lava Roupas Líquido Omo Vários Tipos Frasco com 750ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "carne bovina coxao duro kg || carne bovina coxao mole kg": {
+  "a": "Carne Bovina Coxão Mole kg",
+  "b": "Carne Bovina Coxão Duro kg",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "ovos brancos grande ou extra bandeja c/30 || ovos brancos grandes ou extras bandeja com 30": {
+  "a": "Ovos Brancos Grandes ou Extras Bandeja com 30",
+  "b": "Ovos Brancos Grande ou Extra Bandeja c/30",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "margarina puro sabor com sal 3kg || margarina puro sabor com sal pote com 3kg": {
+  "a": "Margarina Puro Sabor com Sal Pote com 3kg",
+  "b": "Margarina Puro Sabor com Sal 3kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "patinho bovino de sol resfriado || patinho bovino resfriado": {
+  "a": "Patinho Bovino de Sol Resfriado",
+  "b": "Patinho Bovino Resfriado",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "file de peito de frango envelopado || file de peito de frango envelopado congelado": {
+  "a": "Filé de Peito de Frango Envelopado Congelado",
+  "b": "Filé De Peito De Frango Envelopado",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "mortadela perdigao ouro 200g || mortadela perdigao ouro fatiada 200g": {
+  "a": "Mortadela Perdigão Ouro 200g",
+  "b": "Mortadela Perdigão Ouro Fatiada 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
+ },
+ "acem com osso bovino reserva || peito com osso bovino reserva": {
+  "a": "Acem com Osso Bovino Reserva",
+  "b": "Peito com Osso Bovino Reserva",
+  "veredito": "diferente",
+  "quando": "2026-08-28"
+ },
+ "carne moida bovina resfriada || carne moida bovina resfriada bandeja": {
+  "a": "Carne Moída Bovina Resfriada",
+  "b": "Carne Moída Bovina Resfriada Bandeja",
+  "veredito": "mesmo",
+  "quando": "2026-08-28",
+  "aplicado": true
  }
 }

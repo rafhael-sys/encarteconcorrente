@@ -55,11 +55,11 @@
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "Assaí Atacadista": {
-  "ultima_coleta_ok": "2026-08-26 07:17",
-  "ultimo_erro": "2026-08-27 07:57: JSON de ofertas do Assaí indisponível/inválido (curl 3x)"
+  "ultima_coleta_ok": "2026-08-28 08:04",
+  "ultimo_erro": null
  },
  "Atacadão": {
-  "ultima_coleta_ok": "2026-08-27 07:57",
+  "ultima_coleta_ok": "2026-08-28 08:04",
   "ultimo_erro": null
  },
  "Leva Mais Atacarejo João Câmara": {
@@ -73,7 +73,7 @@
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "Nosso Atacarejo": {
-  "ultima_coleta_ok": "2026-08-27 07:57",
+  "ultima_coleta_ok": "2026-08-28 08:04",
   "ultimo_erro": null
  },
  "Rede Supercop": {

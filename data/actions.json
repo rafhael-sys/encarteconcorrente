@@ -17655,5 +17655,61 @@
   ],
   "fonte": "web",
   "link": "https://www.nossoatacarejo.com.br/encarte/quarta-e-quinta-rn/5"
+ },
+ {
+  "id": "assai_170483-572",
+  "perfil": "assai.com.br",
+  "titulo": "Assaí — Especial App Meu Assaí (27/08 a 02/09)",
+  "banner": "Assaí Atacadista",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-27",
+  "fim": "2026-09-02",
+  "carrossel": true,
+  "shortcode": "assai_170483-572",
+  "caption": "Preços válidos de 27/08/2026 até 02/09/2026",
+  "adicionado_em": "2026-08-28",
+  "paginas": [
+   "assai_170483-572_p1.jpg",
+   "assai_170483-572_p2.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.assai.com.br/ofertas/rio-grande-do-norte/assai-natal"
+ },
+ {
+  "id": "assai_170568-572",
+  "perfil": "assai.com.br",
+  "titulo": "Assaí — Plantão da Economia (28 a 30/08)",
+  "banner": "Assaí Atacadista",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-28",
+  "fim": "2026-08-30",
+  "carrossel": true,
+  "shortcode": "assai_170568-572",
+  "caption": "Preços válidos de 28/08/2026 até 30/08/2026",
+  "adicionado_em": "2026-08-28",
+  "paginas": [
+   "assai_170568-572_p1.jpg",
+   "assai_170568-572_p2.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.assai.com.br/ofertas/rio-grande-do-norte/assai-natal"
+ },
+ {
+  "id": "atacadao_a252143faa",
+  "perfil": "atacadao.com.br",
+  "titulo": "Atacadão — Açougue, Frios e Padaria (28 a 31/08)",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-28",
+  "fim": "2026-08-31",
+  "carrossel": false,
+  "shortcode": "atacadao_a252143faa",
+  "caption": "Açougue / Padaria / Frios e Fatiados",
+  "adicionado_em": "2026-08-28",
+  "paginas": [
+   "atacadao_a252143faa_p1.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
  }
 ]

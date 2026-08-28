@@ -1,0 +1,289 @@
+{
+ "validacoes": [
+  {
+   "a": "Body Splash Ekopure 200ml Fragrâncias",
+   "b": "Body Splash Xerosa 200ml Fragrancias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Absorvente Sempre Livre Suave com Abas Leve 16 Pague 14",
+   "b": "Absorvente Sempre Livre Adapt Suave c/ Abas Leve 8 Pague 7",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça de Frango Seara Churrasco Congelada",
+   "b": "Linguiça de Frango Seara Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Fugini Tradicional 300g",
+   "b": "Molho de Tomate Só Fruta Tradicional 300g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Amstel Lata 350ml",
+   "b": "Cerveja Lager Amstel Lta 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Requeijão Cremoso Ipanema 180g (tradicional ou light)",
+   "b": "Requeijão Cremoso Itacolomy 180g (Tradicional/Light)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Iscas de Tilápia Riviera 400g",
+   "b": "Filé de Tilápia Riviera 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxinha da asa Jaguá IQF 1kg",
+   "b": "Coxinha da Asa Canção IQF 1Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxinha da Asa Lar IQF 1kg",
+   "b": "Coxinha da Asa Canção IQF 1Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxinha da Asa Seara IQF 1kg",
+   "b": "Coxinha da Asa Canção IQF 1Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz para Cães Amigaço 5kg",
+   "b": "Ração para Cães Amigação 5kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Clan Sabores Sachê 900g",
+   "b": "Bebida Láctea Batclan Sabores 900g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisc Rosquinha Rancheiro Zero Lactose 300g (Sabores)",
+   "b": "Biscoito Rosquinha Rancheiro Zero Lactose 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Peito de Frango Lar 1kg",
+   "b": "Filé de Peito de Frango Lar BDJ 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Inglesa kg",
+   "b": "Batata Lisa Inglesa kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo do Reino Ilda Lata ou Fracionado",
+   "b": "Queijo Reino Tirolez Lata ou Fracionado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mortadela Mista Natto Kg",
+   "b": "Mortadela Mista NOBRE kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Margarina Primor 500g",
+   "b": "Margarina Primor 500g (c/ Sal)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite em Pó Aurora Integral 200g",
+   "b": "Leite em Pó Italac Integral 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Camarão Inteiro Tamanho 60/70 Camanor Congelado",
+   "b": "Camarão Inteiro 60/70 Camanor Congelado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filé de Peito de Frango Jaguá Bandeja 1kg",
+   "b": "Filé de Frango Jaguá Bandeja 1Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Patinho Resfriado Kg",
+   "b": "Carne Bovina Cupim Resfriado Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas Liquido Coala FR 3L Fragrancias",
+   "b": "Lava Roupas Líquido Top Clear 3L (fragrâncias)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava-Roupas Líquido Omo 3L",
+   "b": "Lava Roupa Líquido +eKonomico 3L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Salgadinho Pippo's São Braz Sabores 60g",
+   "b": "Salgadinho Pippos São Braz Anime 60g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Recheado Oreo 90g sabores",
+   "b": "Biscoito Recheado Oreo 90g (Sabores Variados)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Hambúrguer Friboi 56g",
+   "b": "Hambúrguer Friboi Misto 56g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Mista Ice Pego 300ml",
+   "b": "Bebida Mista Icepego Lemon 300ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Leite Maltado com Cobertura Piraquê pct 80g",
+   "b": "Biscoito Leite Maltado Coberto Piraquê 80g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Café São Braz 250g Extra Forte Almofada/a Vácuo",
+   "b": "Café São Braz Extraforte 250g (Almofada/A Vácuo)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit Temperos Leto 500ml C/4 (Emb. Promocional)",
+   "b": "Kit de Temperos Leto C/4 500ml (Emb. Promocional)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pera Danjou kg",
+   "b": "Pera Danjou",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Paleta Bovina Resfriada a Vácuo Masterboi kg",
+   "b": "Patinho Bovino Resfriado a Vácuo Masterboi kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Atum em Pedaços ao Natural ou em Óleo 88 98g",
+   "b": "Atum em Pedaços ao Natural ou em Óleo 88 Lata 98g Drenado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "PNEU ARO 15 185/65 XBRI FASTWAY UNIDADE",
+   "b": "Pneu Aro 14 175/75 XBRI Fastway Unidade",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desinfetante Dragão Várias fragrâncias Frasco com 2L",
+   "b": "Desinfetante Dragão Fragrâncias Frasco 2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Multiuso Uau Várias Fragrâncias Frasco 500ml",
+   "b": "Limpador Multiúso Veja Fragrâncias Frasco 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Patinho Bovino Resfriado Masterboi",
+   "b": "Bucho Bovino Resfriado Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cupim Bovino Congelado a Vácuo Masterboi",
+   "b": "Coração Bovino Congelado a Vácuo Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Acém com Osso Bovino Resfriado Masterboi",
+   "b": "Contra Filé com Osso Bovino Resfriado Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava-Roupas em Pó Assim Tipos Pacote 400g",
+   "b": "Lava Roupas em Pó Ala Vários Tipos Pacote 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupas em Pó Sonho Vários tipos Pacote com 400g",
+   "b": "Lava Roupas em Pó Ala Vários Tipos Pacote 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Manteiga Itacolomy Resfriada com Sal 200g",
+   "b": "Manteiga Itacolomy Resfriada com Sal Pote 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Itacolomy Resfriada Com Sal Pote com 200g",
+   "b": "Manteiga Itacolomy Resfriada com Sal Pote 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovo Branco Grande PVC Bandeja com 30 unidades",
+   "b": "Ovo Branco Medio PVC Bandeja com 20 Unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Água Sanitária Clorito Bombona com 5L",
+   "b": "Agua Sanitaria Dragao Bombona com 5L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Absorvente Noturno Always Seca com Abas Pacote 32 unidades",
+   "b": "Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creme Dental Colgate Tripla Acao Menta Original / Hortela Tubo com 90g",
+   "b": "Creme Dental Colgate Tripla Ação Hortelã Tubo com 90g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido Omo Várias fragrâncias Frasco com 750ml",
+   "b": "Lava Roupas Líquido Omo Vários Tipos Frasco com 750ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Coxão Mole kg",
+   "b": "Carne Bovina Coxão Duro kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovos Brancos Grandes ou Extras Bandeja com 30",
+   "b": "Ovos Brancos Grande ou Extra Bandeja c/30",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Margarina Puro Sabor com Sal Pote com 3kg",
+   "b": "Margarina Puro Sabor com Sal 3kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Patinho Bovino de Sol Resfriado",
+   "b": "Patinho Bovino Resfriado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Envelopado Congelado",
+   "b": "Filé De Peito De Frango Envelopado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mortadela Perdigão Ouro 200g",
+   "b": "Mortadela Perdigão Ouro Fatiada 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Acem com Osso Bovino Reserva",
+   "b": "Peito com Osso Bovino Reserva",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Moída Bovina Resfriada",
+   "b": "Carne Moída Bovina Resfriada Bandeja",
+   "veredito": "mesmo"
+  }
+ ]
+}
