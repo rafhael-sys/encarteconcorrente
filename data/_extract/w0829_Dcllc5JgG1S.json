@@ -1,0 +1,22 @@
+{
+  "shortcode": "Dcllc5JgG1S",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-28",
+  "fim": "2026-08-30",
+  "titulo": "Ofertas do Açougue Leva Mais — João Câmara e Macau",
+  "pages": {
+    "Dcllc5JgG1S_p1": [
+      {"n": "Peito Serrado", "p": "26,49", "u": "kg", "x": 2, "y": 36, "w": 22, "h": 18},
+      {"n": "Lombo Serrado", "p": "26,98", "u": "kg", "x": 26, "y": 36, "w": 22, "h": 18},
+      {"n": "Carne Bovina Posta Gorda c/ Osso", "p": "28,98", "u": "kg", "x": 50, "y": 36, "w": 23, "h": 18},
+      {"n": "Carne Dianteira de Sol", "p": "36,98", "u": "kg", "x": 75, "y": 36, "w": 22, "h": 18},
+      {"n": "Carne Moída Dianteira", "p": "27,98", "u": "kg", "x": 5, "y": 55, "w": 27, "h": 20},
+      {"n": "Fígado Bovino Congelada", "p": "14,98", "u": "kg", "x": 37, "y": 55, "w": 27, "h": 20},
+      {"n": "Costela Ponta de Agulha", "p": "21,98", "u": "kg", "x": 68, "y": 55, "w": 28, "h": 20},
+      {"n": "Carne Bisteca de Pernil Suíno", "p": "11,98", "u": "kg", "x": 5, "y": 75, "w": 27, "h": 19},
+      {"n": "Capa de Filé do Chef", "p": "37,98", "u": "kg", "x": 37, "y": 75, "w": 27, "h": 19},
+      {"n": "Linguiça de Frango / Churrasco Avivar", "p": "11,98", "u": "kg", "x": 68, "y": 75, "w": 28, "h": 19}
+    ]
+  }
+}

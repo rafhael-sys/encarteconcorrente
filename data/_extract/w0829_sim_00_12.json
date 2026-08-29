@@ -1,0 +1,83 @@
+{
+ "certos": [
+  {
+   "k": "fralda descartavel ultra babysec pacote/tamanhos || fralda descartavel ultrasec babysec pacote/tamanhos",
+   "a": "Fralda Descartável Ultra Babysec Pacote/Tamanhos",
+   "b": "Fralda Descartável Ultrasec Babysec Pacote/Tamanhos",
+   "veredito": "mesmo"
+  },
+  {
+   "k": "papel higienico folha dupla personal vip leve 12 pague 11 rolos 30m || papel higienico folha dupla personal vip leve 24 pague 22 rolos 30m",
+   "a": "Papel Higiênico Folha Dupla Personal Vip Leve 24 Pague 22 Rolos 30m",
+   "b": "Papel Higiênico Folha Dupla Personal Vip Leve 12 Pague 11 Rolos 30m",
+   "veredito": "diferente"
+  },
+  {
+   "k": "papel higienico folha dupla personal vip leve 12 pague 11 rolos 30m || papel higienico folha dupla personal vip leve 16 pague 15 rolos de 30m",
+   "a": "Papel Higiênico Folha Dupla Personal VIP Leve 16 Pague 15 Rolos de 30m",
+   "b": "Papel Higiênico Folha Dupla Personal Vip Leve 12 Pague 11 Rolos 30m",
+   "veredito": "diferente"
+  },
+  {
+   "k": "queijo mussarela girolanda fatiado kg || queijo tipo mussarela girolanda fatiado/kg",
+   "a": "Queijo Tipo Mussarela Girolanda Fatiado/kg",
+   "b": "Queijo Mussarela Girolanda Fatiado Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "k": "desodorante aerossol monange fragrancias frasco 200ml || desodorante aerossol rexona fragrancias frasco 200ml",
+   "a": "Desodorante Aerossol Monange Fragrâncias Frasco 200ml",
+   "b": "Desodorante Aerossol Rexona Fragrâncias Frasco 200ml",
+   "veredito": "diferente"
+  },
+  {
+   "k": "desodorante aerosol nivea fragrancias frasco 200ml || desodorante aerossol rexona fragrancias frasco 200ml",
+   "a": "Desodorante Aerosol Nivea Fragrâncias Frasco 200ml",
+   "b": "Desodorante Aerossol Rexona Fragrâncias Frasco 200ml",
+   "veredito": "diferente"
+  },
+  {
+   "k": "queijo mussarela girolanda kg || queijo tipo mussarela girolanda kg",
+   "a": "Queijo Mussarela Girolanda Kg",
+   "b": "Queijo Tipo Mussarela Girolanda Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "k": "cafe soluvel nescafe nestle tipos sache 40g || cafe soluvel nescafe tipos sache 40g",
+   "a": "Café Solúvel Nescafé Tipos Sachê 40g",
+   "b": "Café Solúvel Nescafé Nestlé Tipos Sachê 40g",
+   "veredito": "mesmo"
+  },
+  {
+   "k": "papel higienico folha dupla personal vip leve 16 pague 15 rolos de 30m || papel higienico folha dupla velud vip leve 16 pague 15 rolos 30m",
+   "a": "Papel Higiênico Folha Dupla Personal VIP Leve 16 Pague 15 Rolos de 30m",
+   "b": "Papel Higiênico Folha Dupla Velud Vip Leve 16 Pague 15 Rolos 30m",
+   "veredito": "diferente"
+  },
+  {
+   "k": "desodorante aerossol rexona fragrancias 2x200ml || desodorante aerossol rexona fragrancias frasco 200ml",
+   "a": "Desodorante Aerossol Rexona Fragrâncias 2x200ml",
+   "b": "Desodorante Aerossol Rexona Fragrâncias Frasco 200ml",
+   "veredito": "diferente"
+  },
+  {
+   "k": "carne bovina paleta sem osso reserva resfriada || carne bovina paleta sem osso reserva resfriada friboi kg",
+   "a": "Carne Bovina Paleta sem Osso Reserva Resfriada",
+   "b": "Carne Bovina Paleta sem Osso Reserva Resfriada Friboi Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "k": "papel higienico folha dupla personal vip leve 12 pague 11 rolos 30m || papel higienico folha dupla velud vip leve 16 pague 15 rolos 30m",
+   "a": "Papel Higiênico Folha Dupla Personal Vip Leve 12 Pague 11 Rolos 30m",
+   "b": "Papel Higiênico Folha Dupla Velud Vip Leve 16 Pague 15 Rolos 30m",
+   "veredito": "diferente"
+  }
+ ],
+ "incertos": [
+  {
+   "k": "file de tilapia congelado seara 600g || file de tilapia congelado seara iqf 600g",
+   "a": "Filé de Tilápia Congelado Seara IQF 600g",
+   "b": "Filé de Tilápia Congelado Seara 600g"
+  }
+ ]
+}

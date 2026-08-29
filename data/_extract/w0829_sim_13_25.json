@@ -1,0 +1,19 @@
+{
+  "certos": [
+    {"k": "papel higienico folha dupla max pure leve 16 pague 15 rolos 30m || papel higienico folha dupla velud vip leve 16 pague 15 rolos 30m", "a": "Papel Higiênico Folha Dupla Max Pure Leve 16 Pague 15 Rolos 30m", "b": "Papel Higiênico Folha Dupla Velud Vip Leve 16 Pague 15 Rolos 30m", "veredito": "diferente"},
+    {"k": "queijo tipo mussarela girolanda fatiado/kg || queijo tipo mussarela girolanda kg", "a": "Queijo Tipo Mussarela Girolanda Fatiado/kg", "b": "Queijo Tipo Mussarela Girolanda Kg", "veredito": "diferente"},
+    {"k": "refrigerante de caju tradicional ou zero acucares sao geraldo 1l || refrigerante de caju tradicional ou zero sao geraldo pet 1l", "a": "Refrigerante de Caju Tradicional ou Zero Açúcares São Geraldo 1L", "b": "Refrigerante de Caju Tradicional ou Zero São Geraldo PET 1L", "veredito": "mesmo"},
+    {"k": "maionese julieta pouch 200g || maionese julieta sache 200g", "a": "Maionese Julieta Pouch 200g", "b": "Maionese Julieta Sachê 200g", "veredito": "mesmo"},
+    {"k": "cafe soluvel nescafe nestle tipos sache 40g || cafe soluvel nescafe varios tipos sache 40g", "a": "Café Solúvel Nescafé Vários tipos Sachê 40g", "b": "Café Solúvel Nescafé Nestlé Tipos Sachê 40g", "veredito": "mesmo"},
+    {"k": "whisky escoces 12 anos old parr 1l || whisky escoces 2 anos old parr garrafa 1l", "a": "Whisky Escocês 12 Anos Old Parr 1L", "b": "Whisky Escocês 2 Anos Old Parr Garrafa 1L", "veredito": "mesmo"},
+    {"k": "carne bovina acem com osso reserva resfriada friboi || carne bovina paleta sem osso reserva resfriada friboi kg", "a": "Carne Bovina Acém com Osso Reserva Resfriada Friboi", "b": "Carne Bovina Paleta sem Osso Reserva Resfriada Friboi Kg", "veredito": "diferente"},
+    {"k": "queijo mussarela girolanda fatiado kg || queijo mussarela girolanda kg", "a": "Queijo Mussarela Girolanda Kg", "b": "Queijo Mussarela Girolanda Fatiado Kg", "veredito": "diferente"},
+    {"k": "chocolate em po sicao 50% cacau 1,01kg || chocolate em po sicao 50% cacau pacote com 1,01kg", "a": "Chocolate em Pó Sicao 50% Cacau 1,01kg", "b": "Chocolate em Pó Sicao 50% Cacau Pacote com 1,01Kg", "veredito": "mesmo"},
+    {"k": "cupim bovino resfriado a vacuo masterboi || patinho bovino resfriado a vacuo masterboi kg", "a": "Cupim Bovino Resfriado a Vácuo Masterboi", "b": "Patinho Bovino Resfriado a Vácuo Masterboi kg", "veredito": "diferente"},
+    {"k": "leite em po ccgl integral 200g || leite em po italac integral 200g", "a": "Leite em Pó CCGL Integral 200g", "b": "Leite em Pó Italac Integral 200g", "veredito": "diferente"},
+    {"k": "acai natural fruta nobre 5l || acai natural fruta nobre caixeta 5l", "a": "Açaí Natural Fruta Nobre 5L", "b": "Açaí Natural Fruta Nobre Caixeta 5L", "veredito": "mesmo"}
+  ],
+  "incertos": [
+    {"k": "galinha grande somave congelada || galinha pesada somave congelada", "a": "Galinha Grande Somave Congelada", "b": "Galinha Pesada Somave Congelada"}
+  ]
+}

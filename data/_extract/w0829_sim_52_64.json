@@ -1,0 +1,19 @@
+{
+  "certos": [
+    {"k": "kit refrigerante coca-cola zero acucar + sprite zero acucar 2l || kit refrigerante coca-cola zero/sprite zero 2l", "a": "Kit Refrigerante COCA-COLA Zero/SPRITE Zero 2L", "b": "Kit Refrigerante Coca-Cola Zero Acucar + Sprite Zero Acucar 2L", "veredito": "mesmo"},
+    {"k": "aranha bovina congelada a vacuo masterboi || coracao bovino congelado a vacuo masterboi", "a": "Aranha Bovina Congelada a Vácuo Masterboi", "b": "Coração Bovino Congelado a Vácuo Masterboi", "veredito": "diferente"},
+    {"k": "refrigerante guarana antarctica ou pepsi cola gf 200ml trad ou zero || refrigerante guarana antarctica ou pepsi gf 200ml tradicional ou zero acucar", "a": "Refrigerante Guaraná Antarctica ou Pepsi GF 200ml Tradicional ou Zero Açúcar", "b": "Refrigerante Guaraná Antarctica ou Pepsi Cola Gf 200ml Trad ou Zero", "veredito": "mesmo"},
+    {"k": "racao champ 85g sache sabores || racao whiskas 85g sache sabores", "a": "Ração Whiskas 85g Sachê Sabores", "b": "Ração Champ 85g Sachê Sabores", "veredito": "diferente"},
+    {"k": "azeite de oliva extra virgem minos 500ml || azeite de oliva extravirgem andorinha 500ml", "a": "Azeite de Oliva Extra Virgem Minos 500ml", "b": "Azeite de Oliva Extravirgem Andorinha 500ml", "veredito": "diferente"},
+    {"k": "sabonete intimo topz 200ml || sabonete liquido intimo topz 200ml", "a": "Sabonete Líquido Íntimo Topz 200ml", "b": "Sabonete Intimo Topz 200ml", "veredito": "mesmo"},
+    {"k": "shampoo e condicionador procao 500ml || shampoo e condicionador procao 500ml erva santa", "a": "Shampoo e Condicionador Procao 500ml Erva Santa", "b": "Shampoo e Condicionador Procão 500ml", "veredito": "mesmo"},
+    {"k": "desodorante roll on herbissimo 50ml (fragrancias) || desodorante roll on rexona 50ml fragrancias", "a": "Desodorante Roll On Rexona 50ml Fragrâncias", "b": "Desodorante Roll On Herbíssimo 50ml (Fragrâncias)", "veredito": "diferente"},
+    {"k": "farinha de trigo farina 1kg sem fermento || farinha de trigo finna 1kg papel s/fermento", "a": "Farinha de Trigo Farina 1Kg sem Fermento", "b": "Farinha de Trigo Finna 1kg Papel S/Fermento", "veredito": "diferente"},
+    {"k": "bolacha felita chef 200g (manteiga - palito) || bolacha felita chef 200g (manteiga do sertao)", "a": "Bolacha Felitá Chef 200g (Manteiga - Palito)", "b": "Bolacha Felitá Chef 200g (Manteiga do Sertão)", "veredito": "diferente"}
+  ],
+  "incertos": [
+    {"k": "feijao preto maximo 1kg || feijao preto maximo 1kg urbano", "a": "Feijão Preto Máximo 1Kg Urbano", "b": "Feijão Preto Máximo 1kg"},
+    {"k": "presunto cozido rezende fatiado kg || presunto cozido rezende kg", "a": "Presunto Cozido Rezende kg", "b": "Presunto Cozido Rezende Fatiado kg"},
+    {"k": "coxa com sobrecoxa de frango resfriada kg || coxa e sobrecoxa de frango resfriada natto", "a": "Coxa e Sobrecoxa de Frango Resfriada Natto", "b": "Coxa com Sobrecoxa de Frango Resfriada kg"}
+  ]
+}

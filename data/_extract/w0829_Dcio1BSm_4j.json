@@ -1,0 +1,37 @@
+{
+  "shortcode": "Dcio1BSm_4j",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-27",
+  "fim": "2026-08-28",
+  "titulo": "Feirão Horti Fruti",
+  "pages": {
+    "Dcio1BSm_4j_p1": [
+      {"n": "Macaxeira", "p": "2,49", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "Dcio1BSm_4j_p2": [
+      {"n": "Batata Doce Roxa", "p": "3,29", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "Dcio1BSm_4j_p3": [
+      {"n": "Cebola Branca", "p": "3,98", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "Dcio1BSm_4j_p4": [
+      {"n": "Cenoura", "p": "5,99", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "Dcio1BSm_4j_p5": [
+      {"n": "Laranja Pera", "p": "1,78", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "Dcio1BSm_4j_p6": [
+      {"n": "Banana Prata ou Pacovan", "p": "3,19", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "Dcio1BSm_4j_p7": [
+      {"n": "Abacaxi", "p": "3,39", "u": "cada", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "Dcio1BSm_4j_p8": [
+      {"n": "Goiaba", "p": "3,99", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "Dcio1BSm_4j_p9": [
+      {"n": "Pera Importada ou Limão Siciliano", "p": "12,99", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ]
+  }
+}

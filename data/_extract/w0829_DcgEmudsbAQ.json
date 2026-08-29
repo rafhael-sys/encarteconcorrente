@@ -1,0 +1,26 @@
+{
+  "shortcode": "DcgEmudsbAQ",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-26",
+  "fim": "2026-08-27",
+  "titulo": "Horti Fruti Leva Mais — Quarta e Quinta (João Câmara e Macau)",
+  "pages": {
+    "DcgEmudsbAQ_p1": [
+      {"n": "Banana Pacovan", "p": "2,98", "u": "kg", "x": 2, "y": 42, "w": 22, "h": 17},
+      {"n": "Cebola Branca", "p": "3,49", "u": "kg", "x": 26, "y": 42, "w": 22, "h": 17},
+      {"n": "Morango Reis Fruit 250g Premium", "p": "6,49", "u": "un", "x": 50, "y": 42, "w": 23, "h": 17},
+      {"n": "Tomate Extra", "p": "2,99", "u": "kg", "x": 75, "y": 42, "w": 22, "h": 17},
+      {"n": "Abacate", "p": "3,99", "u": "kg", "x": 1, "y": 60, "w": 19, "h": 19},
+      {"n": "Alho à Granel", "p": "22,90", "u": "kg", "x": 21, "y": 60, "w": 19, "h": 19},
+      {"n": "Batata Inglesa", "p": "3,99", "u": "kg", "x": 41, "y": 60, "w": 19, "h": 19},
+      {"n": "Cenoura", "p": "5,98", "u": "kg", "x": 60, "y": 60, "w": 19, "h": 19},
+      {"n": "Melão Espanhol / Japonês / Português", "p": "3,98", "u": "kg", "x": 79, "y": 60, "w": 20, "h": 19},
+      {"n": "Laranja Pêra", "p": "1,99", "u": "kg", "x": 1, "y": 79, "w": 19, "h": 17},
+      {"n": "Pêra", "p": "12,98", "u": "kg", "x": 21, "y": 79, "w": 19, "h": 17},
+      {"n": "Tangerina Importada", "p": "10,98", "u": "kg", "x": 41, "y": 79, "w": 19, "h": 17},
+      {"n": "Uva Vitória Marcelo Frazão 500g s/ Semente", "p": "5,39", "u": "un", "x": 60, "y": 79, "w": 19, "h": 17},
+      {"n": "Sacola Retornável", "p": "5,89", "u": "un", "x": 79, "y": 79, "w": 20, "h": 17}
+    ]
+  }
+}

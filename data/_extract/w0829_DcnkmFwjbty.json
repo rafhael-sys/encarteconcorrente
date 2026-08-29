@@ -1,0 +1,28 @@
+{
+  "shortcode": "DcnkmFwjbty",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-28",
+  "fim": "2026-09-03",
+  "titulo": "Mês do Cliente — Grandes Ofertas",
+  "pages": {
+    "DcnkmFwjbty_p1": [
+      {"n": "Bisteca Suína Congelada kg", "p": "12,99", "u": "kg", "x": 8, "y": 28, "w": 84, "h": 58}
+    ],
+    "DcnkmFwjbty_p2": [
+      {"n": "Leite em Pó Bom Gosto Integral 700g", "p": "19,98", "u": "cada", "x": 8, "y": 28, "w": 84, "h": 58}
+    ],
+    "DcnkmFwjbty_p3": [
+      {"n": "Feijão Carioca Compadre Zé Tipo 1 1kg", "p": "6,49", "u": "cada", "x": 8, "y": 28, "w": 84, "h": 58}
+    ],
+    "DcnkmFwjbty_p4": [
+      {"n": "Galinha Leve Q'Delícia Congelada kg", "p": "5,69", "u": "kg", "x": 8, "y": 28, "w": 84, "h": 58}
+    ],
+    "DcnkmFwjbty_p5": [
+      {"n": "Refrigerante Guaraná Antarctica PET 2L", "p": "8,19", "u": "cada", "x": 8, "y": 28, "w": 84, "h": 58}
+    ],
+    "DcnkmFwjbty_p6": [
+      {"n": "Detergente em Pó Omo Lavagem Perfeita SC 1,6kg", "p": "19,90", "u": "cada", "x": 8, "y": 28, "w": 84, "h": 58}
+    ]
+  }
+}

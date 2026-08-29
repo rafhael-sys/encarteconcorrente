@@ -278787,5 +278787,3937 @@
    "w": 21,
    "h": 8
   }
+ ],
+ "Dcio1BSm_4j_p1": [
+  {
+   "n": "Macaxeira",
+   "p": "2,49",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "Dcio1BSm_4j_p2": [
+  {
+   "n": "Batata Doce Roxa",
+   "p": "3,29",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "Dcio1BSm_4j_p3": [
+  {
+   "n": "Cebola Branca",
+   "p": "3,98",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "Dcio1BSm_4j_p4": [
+  {
+   "n": "Cenoura",
+   "p": "5,99",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "Dcio1BSm_4j_p5": [
+  {
+   "n": "Laranja Pera",
+   "p": "1,78",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "Dcio1BSm_4j_p6": [
+  {
+   "n": "Banana Prata ou Pacovan",
+   "p": "3,19",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "Dcio1BSm_4j_p7": [
+  {
+   "n": "Abacaxi",
+   "p": "3,39",
+   "u": "cada",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "Dcio1BSm_4j_p8": [
+  {
+   "n": "Goiaba",
+   "p": "3,99",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "Dcio1BSm_4j_p9": [
+  {
+   "n": "Pera Importada ou Limão Siciliano",
+   "p": "12,99",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "DclNqdpgI-T_p1": [
+  {
+   "n": "Melão Japonês",
+   "p": "3,49",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "DclNqdpgI-T_p2": [
+  {
+   "n": "Tomate",
+   "p": "3,49",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "DclNqdpgI-T_p3": [
+  {
+   "n": "Melão Português, Orange ou Gália",
+   "p": "3,89",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "DclNqdpgI-T_p4": [
+  {
+   "n": "Uva Vitória Sem Sementes Bdj 500g",
+   "p": "4,39",
+   "u": "cada",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "DclNqdpgI-T_p5": [
+  {
+   "n": "Alface Crespa, Coentro ou Couve Manteiga Unid",
+   "p": "1,49",
+   "u": "cada",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "DclNqdpgI-T_p6": [
+  {
+   "n": "Jerimum Leite",
+   "p": "1,89",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "DclNqdpgI-T_p7": [
+  {
+   "n": "Chuchu",
+   "p": "2,89",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "DclNqdpgI-T_p8": [
+  {
+   "n": "Goma de Mandioca Sinhá Maria 1kg",
+   "p": "4,39",
+   "u": "cada",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "DclNqdpgI-T_p9": [
+  {
+   "n": "Batatinha",
+   "p": "4,49",
+   "u": "kg",
+   "x": 8,
+   "y": 34,
+   "w": 84,
+   "h": 56
+  }
+ ],
+ "Dcj7EyAmXsE_p1": [
+  {
+   "n": "Açúcar Alegre Triturado 1kg",
+   "p": "2,59",
+   "u": "cada",
+   "x": 1,
+   "y": 34,
+   "w": 24,
+   "h": 22
+  },
+  {
+   "n": "Bisteca Suína Congelada kg",
+   "p": "12,99",
+   "u": "kg",
+   "x": 25,
+   "y": 34,
+   "w": 25,
+   "h": 22
+  },
+  {
+   "n": "Chã de Fora (Coxão Duro) Bovino Resfriado kg",
+   "p": "33,99",
+   "u": "kg",
+   "x": 50,
+   "y": 34,
+   "w": 25,
+   "h": 22
+  },
+  {
+   "n": "Peito de Frango Ave Nova ou Super Frango Congelado kg",
+   "p": "8,99",
+   "u": "kg",
+   "x": 75,
+   "y": 34,
+   "w": 24,
+   "h": 22
+  },
+  {
+   "n": "Arroz Parboilizado Seu Arroz Tipo 1 1kg",
+   "p": "3,39",
+   "u": "cada",
+   "x": 2,
+   "y": 57,
+   "w": 23,
+   "h": 21
+  },
+  {
+   "n": "Feijão Carioca Compadre Zé Tipo 1 1kg",
+   "p": "6,49",
+   "u": "cada",
+   "x": 26,
+   "y": 57,
+   "w": 24,
+   "h": 21
+  },
+  {
+   "n": "Flocão de Milho Vitamilho 500g",
+   "p": "1,35",
+   "u": "cada",
+   "x": 50,
+   "y": 57,
+   "w": 24,
+   "h": 21
+  },
+  {
+   "n": "Macarrão Espaguete Estrela Gostoso 400g",
+   "p": "1,99",
+   "u": "cada",
+   "x": 75,
+   "y": 57,
+   "w": 23,
+   "h": 21
+  },
+  {
+   "n": "Óleo de Soja Vitaliv PET 900ml",
+   "p": "7,29",
+   "u": "cada",
+   "x": 2,
+   "y": 78,
+   "w": 23,
+   "h": 21
+  },
+  {
+   "n": "Café Moído Bangu SC 250g",
+   "p": "10,99",
+   "u": "cada",
+   "x": 26,
+   "y": 78,
+   "w": 24,
+   "h": 21
+  },
+  {
+   "n": "Margarina Puro Sabor com Sal 500g",
+   "p": "3,99",
+   "u": "cada",
+   "x": 50,
+   "y": 78,
+   "w": 24,
+   "h": 21
+  },
+  {
+   "n": "Farinha de Trigo Rosa Branca 1kg",
+   "p": "3,69",
+   "u": "cada",
+   "x": 75,
+   "y": 78,
+   "w": 23,
+   "h": 21
+  }
+ ],
+ "Dcj7EyAmXsE_p2": [
+  {
+   "n": "Creme de Leite CCGL TP 200g",
+   "p": "2,69",
+   "u": "cada",
+   "x": 1,
+   "y": 1,
+   "w": 24,
+   "h": 20
+  },
+  {
+   "n": "Leite em Pó Bom Gosto Integral 700g",
+   "p": "19,98",
+   "u": "cada",
+   "x": 26,
+   "y": 1,
+   "w": 24,
+   "h": 20
+  },
+  {
+   "n": "Galinha Leve Q'Delícia Congelada kg",
+   "p": "5,69",
+   "u": "kg",
+   "x": 51,
+   "y": 1,
+   "w": 24,
+   "h": 20
+  },
+  {
+   "n": "Costela Bovina Congelada kg",
+   "p": "19,98",
+   "u": "kg",
+   "x": 76,
+   "y": 1,
+   "w": 23,
+   "h": 20
+  },
+  {
+   "n": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
+   "p": "16,98",
+   "u": "cada",
+   "x": 1,
+   "y": 21,
+   "w": 24,
+   "h": 20
+  },
+  {
+   "n": "Hambúrguer Perdigão Ave e Bovino 56g",
+   "p": "0,99",
+   "u": "cada",
+   "x": 26,
+   "y": 21,
+   "w": 24,
+   "h": 20
+  },
+  {
+   "n": "Amaciante Concentrado para Roupas Downy Fragrâncias 1L",
+   "p": "17,99",
+   "u": "cada",
+   "x": 51,
+   "y": 21,
+   "w": 24,
+   "h": 20
+  },
+  {
+   "n": "Detergente em Pó Omo Lavagem Perfeita SC 1,6kg",
+   "p": "19,90",
+   "u": "cada",
+   "x": 76,
+   "y": 21,
+   "w": 23,
+   "h": 20
+  },
+  {
+   "n": "Batata Palha Boa 800g",
+   "p": "18,99",
+   "u": "cada",
+   "x": 1,
+   "y": 59,
+   "w": 20,
+   "h": 19
+  },
+  {
+   "n": "Molho de Tomate Tambaú Tradicional, Hot Dog ou Pizza SC 1,7kg",
+   "p": "9,98",
+   "u": "cada",
+   "x": 21,
+   "y": 59,
+   "w": 20,
+   "h": 19
+  },
+  {
+   "n": "Catchup Tambaú 100% Nordestino Tradicional PET 3,4kg",
+   "p": "22,98",
+   "u": "cada",
+   "x": 41,
+   "y": 59,
+   "w": 20,
+   "h": 19
+  },
+  {
+   "n": "Achocolatado em Pó Nescau Profissional SC 2,01kg",
+   "p": "36,90",
+   "u": "cada",
+   "x": 61,
+   "y": 59,
+   "w": 20,
+   "h": 19
+  },
+  {
+   "n": "Macarrão Parafuso Vitarella 400g",
+   "p": "2,89",
+   "u": "cada",
+   "x": 81,
+   "y": 59,
+   "w": 18,
+   "h": 19
+  },
+  {
+   "n": "Café com Leite 3 Corações ou Santa Clara LT 300g",
+   "p": "14,99",
+   "u": "cada",
+   "x": 1,
+   "y": 78,
+   "w": 20,
+   "h": 20
+  },
+  {
+   "n": "Biscoito Cream Cracker Vitarella Tradicional 350g",
+   "p": "3,99",
+   "u": "cada",
+   "x": 21,
+   "y": 78,
+   "w": 20,
+   "h": 20
+  },
+  {
+   "n": "Maionese Arisco SC 400g",
+   "p": "4,98",
+   "u": "cada",
+   "x": 41,
+   "y": 78,
+   "w": 20,
+   "h": 20
+  },
+  {
+   "n": "Bombom Amor Carioca Tradicional, Branco ou Duo CX 200g",
+   "p": "8,29",
+   "u": "cada",
+   "x": 61,
+   "y": 78,
+   "w": 20,
+   "h": 20
+  },
+  {
+   "n": "Azeite de Oliva Borges Extra Virgem VD 500ml",
+   "p": "22,98",
+   "u": "cada",
+   "x": 81,
+   "y": 78,
+   "w": 18,
+   "h": 20
+  }
+ ],
+ "Dcj7EyAmXsE_p3": [
+  {
+   "n": "Refrigerante Guaraná Antarctica PET 2L",
+   "p": "8,19",
+   "u": "cada",
+   "x": 1,
+   "y": 1,
+   "w": 19,
+   "h": 20
+  },
+  {
+   "n": "Água Mineral Cristalina sem Gás PET 500ml",
+   "p": "0,78",
+   "u": "cada",
+   "x": 21,
+   "y": 1,
+   "w": 19,
+   "h": 20
+  },
+  {
+   "n": "Suco de Uva Galiotto Tinto Integral VD 1L",
+   "p": "12,79",
+   "u": "cada",
+   "x": 41,
+   "y": 1,
+   "w": 19,
+   "h": 20
+  },
+  {
+   "n": "Kit Coca Cola + Fanta Laranja 2L",
+   "p": "18,49",
+   "u": "cada",
+   "x": 61,
+   "y": 1,
+   "w": 19,
+   "h": 20
+  },
+  {
+   "n": "Smirnoff Ice Sabores Long Neck 275ml",
+   "p": "4,99",
+   "u": "cada",
+   "x": 81,
+   "y": 1,
+   "w": 18,
+   "h": 20
+  },
+  {
+   "n": "Vodka Destilada Smirnoff 998ml",
+   "p": "31,89",
+   "u": "cada",
+   "x": 1,
+   "y": 21,
+   "w": 19,
+   "h": 20
+  },
+  {
+   "n": "Whisky Jack Daniel's Sabores 1L",
+   "p": "109,98",
+   "u": "cada",
+   "x": 21,
+   "y": 21,
+   "w": 19,
+   "h": 20
+  },
+  {
+   "n": "Cachaça Matuta Mel e Limão VD 1L",
+   "p": "38,98",
+   "u": "cada",
+   "x": 41,
+   "y": 21,
+   "w": 19,
+   "h": 20
+  },
+  {
+   "n": "Cerveja Império Puro Malte Lata 350ml",
+   "p": "3,09",
+   "u": "cada",
+   "x": 61,
+   "y": 21,
+   "w": 19,
+   "h": 20
+  },
+  {
+   "n": "Cerveja Praya Lager Long Neck 330ml",
+   "p": "6,09",
+   "u": "cada",
+   "x": 81,
+   "y": 21,
+   "w": 18,
+   "h": 20
+  },
+  {
+   "n": "Requeijão Cremoso Clan Tradicional ou Light 200g",
+   "p": "6,49",
+   "u": "cada",
+   "x": 1,
+   "y": 41,
+   "w": 19,
+   "h": 19
+  },
+  {
+   "n": "Bebida Láctea Betânia Sabores BDJ 540g",
+   "p": "4,59",
+   "u": "cada",
+   "x": 21,
+   "y": 41,
+   "w": 19,
+   "h": 19
+  },
+  {
+   "n": "Bebida Láctea Vitaclan ou Batclan Sabores SC 900g",
+   "p": "4,48",
+   "u": "cada",
+   "x": 41,
+   "y": 41,
+   "w": 19,
+   "h": 19
+  },
+  {
+   "n": "Morango Moa Congelado PC 1,02kg",
+   "p": "13,99",
+   "u": "cada",
+   "x": 61,
+   "y": 41,
+   "w": 19,
+   "h": 19
+  },
+  {
+   "n": "Batata Pré-frita McCain Corte Fino 1,5kg",
+   "p": "27,49",
+   "u": "cada",
+   "x": 81,
+   "y": 41,
+   "w": 18,
+   "h": 19
+  },
+  {
+   "n": "Linguiça de Carne Suína Saudali Congelada kg",
+   "p": "14,89",
+   "u": "kg",
+   "x": 1,
+   "y": 60,
+   "w": 19,
+   "h": 19
+  },
+  {
+   "n": "Presunto de Peru Perdigão Peça ou Fatiado kg",
+   "p": "26,49",
+   "u": "kg",
+   "x": 21,
+   "y": 60,
+   "w": 19,
+   "h": 19
+  },
+  {
+   "n": "Creme Dental Oral B Sabores 70g",
+   "p": "3,19",
+   "u": "cada",
+   "x": 41,
+   "y": 60,
+   "w": 19,
+   "h": 19
+  },
+  {
+   "n": "Desodorante Aerossol Dove Men ou Women Fragrâncias 200ml",
+   "p": "16,90",
+   "u": "cada",
+   "x": 61,
+   "y": 60,
+   "w": 19,
+   "h": 19
+  },
+  {
+   "n": "Água Sanitária Dragão 2L",
+   "p": "3,89",
+   "u": "cada",
+   "x": 81,
+   "y": 60,
+   "w": 18,
+   "h": 19
+  },
+  {
+   "n": "Detergente Líquido Invicto Fragrâncias 500ml",
+   "p": "1,89",
+   "u": "cada",
+   "x": 1,
+   "y": 79,
+   "w": 19,
+   "h": 20
+  },
+  {
+   "n": "Detergente Líquido para Roupas Ala Lavanda ou Coco 3L",
+   "p": "21,99",
+   "u": "cada",
+   "x": 21,
+   "y": 79,
+   "w": 19,
+   "h": 20
+  },
+  {
+   "n": "Sabão em Barra Minuano Neutro 5x160g",
+   "p": "9,98",
+   "u": "cada",
+   "x": 41,
+   "y": 79,
+   "w": 19,
+   "h": 20
+  },
+  {
+   "n": "Desinfetante Kalipto Fragrâncias 750ml",
+   "p": "3,19",
+   "u": "cada",
+   "x": 61,
+   "y": 79,
+   "w": 19,
+   "h": 20
+  },
+  {
+   "n": "Papel Higiênico Sublime Noble Folha Dupla 20m 12 Unids",
+   "p": "11,99",
+   "u": "cada",
+   "x": 81,
+   "y": 79,
+   "w": 18,
+   "h": 20
+  }
+ ],
+ "Dcj7EyAmXsE_p4": [],
+ "DcmgFJvmXeZ_p1": [
+  {
+   "n": "Farofa de Israel SC 500g (exceto Ceasa)",
+   "p": "27,99",
+   "u": "cada",
+   "x": 4,
+   "y": 29,
+   "w": 92,
+   "h": 55
+  }
+ ],
+ "DcmgFJvmXeZ_p2": [
+  {
+   "n": "Picanha Suína Temperada Nutribras congelada",
+   "p": "26,99",
+   "u": "kg",
+   "x": 4,
+   "y": 29,
+   "w": 92,
+   "h": 55
+  }
+ ],
+ "DcmgFJvmXeZ_p3": [
+  {
+   "n": "Manteiga Itambé com sal PT 500g",
+   "p": "20,49",
+   "u": "cada",
+   "x": 4,
+   "y": 29,
+   "w": 92,
+   "h": 55
+  }
+ ],
+ "DcmgFJvmXeZ_p4": [
+  {
+   "n": "Sorvete Kibon Cremosíssimo sabores PT 1,5L",
+   "p": "19,79",
+   "u": "cada",
+   "x": 4,
+   "y": 28,
+   "w": 92,
+   "h": 56
+  }
+ ],
+ "DcmgFJvmXeZ_p5": [
+  {
+   "n": "Costela Suína Premium Sadia congelada",
+   "p": "14,99",
+   "u": "kg",
+   "x": 4,
+   "y": 29,
+   "w": 92,
+   "h": 55
+  }
+ ],
+ "DcmgFJvmXeZ_p6": [
+  {
+   "n": "Almôndega Chuletão mista congelada 1kg",
+   "p": "12,99",
+   "u": "cada",
+   "x": 4,
+   "y": 27,
+   "w": 92,
+   "h": 57
+  }
+ ],
+ "DcmgFJvmXeZ_p7": [
+  {
+   "n": "Frango a Passarinho Bom Todo temperado IQF 1kg",
+   "p": "11,98",
+   "u": "cada",
+   "x": 4,
+   "y": 28,
+   "w": 92,
+   "h": 56
+  }
+ ],
+ "DcmgFJvmXeZ_p8": [
+  {
+   "n": "Mortadela de Frango Friato peça ou pedaço",
+   "p": "6,79",
+   "u": "kg",
+   "x": 4,
+   "y": 30,
+   "w": 92,
+   "h": 54
+  }
+ ],
+ "DcmgFJvmXeZ_p9": [
+  {
+   "n": "Fígado de Frango Perdigão congelado SC 1kg",
+   "p": "5,49",
+   "u": "cada",
+   "x": 4,
+   "y": 29,
+   "w": 92,
+   "h": 55
+  }
+ ],
+ "DcmgFJvmXeZ_p10": [
+  {
+   "n": "Steak de Frango Perdigão 100g",
+   "p": "1,65",
+   "u": "cada",
+   "x": 4,
+   "y": 25,
+   "w": 92,
+   "h": 58
+  }
+ ],
+ "DckFspjjtIZ_p1": [],
+ "DckFspjjtIZ_p2": [
+  {
+   "n": "Molho para Salada Liza Rosé 234ml",
+   "p": "8,99",
+   "u": "cada",
+   "x": 36,
+   "y": 22,
+   "w": 12,
+   "h": 13
+  },
+  {
+   "n": "Molho para Salada Liza Queijo 234ml",
+   "p": "8,99",
+   "u": "cada",
+   "x": 31,
+   "y": 61,
+   "w": 22,
+   "h": 27
+  },
+  {
+   "n": "Molho para Salada Liza Caseiro 234ml",
+   "p": "8,99",
+   "u": "cada",
+   "x": 65,
+   "y": 39,
+   "w": 20,
+   "h": 24
+  }
+ ],
+ "DckFspjjtIZ_p3": [
+  {
+   "n": "Extrato de Tomate Pomodoro Extratomato 265g",
+   "p": "2,19",
+   "u": "cada",
+   "x": 23,
+   "y": 50,
+   "w": 21,
+   "h": 22
+  }
+ ],
+ "DckFspjjtIZ_p4": [
+  {
+   "n": "Molho Madeira com Champignon Tambaú 300g",
+   "p": "2,79",
+   "u": "cada",
+   "x": 43,
+   "y": 38,
+   "w": 22,
+   "h": 25
+  }
+ ],
+ "DckFspjjtIZ_p5": [
+  {
+   "n": "Extrato de Tomate Elefante Sabores Strogonoff Pote 380g",
+   "p": "6,99",
+   "u": "cada",
+   "x": 40,
+   "y": 53,
+   "w": 50,
+   "h": 19
+  },
+  {
+   "n": "Extrato de Tomate Elefante Tradicional TP 135g",
+   "p": "3,29",
+   "u": "cada",
+   "x": 6,
+   "y": 59,
+   "w": 14,
+   "h": 6
+  },
+  {
+   "n": "Extrato de Tomate Elefante 170g",
+   "p": "5,69",
+   "u": "cada",
+   "x": 28,
+   "y": 57,
+   "w": 9,
+   "h": 5
+  }
+ ],
+ "DckFspjjtIZ_p6": [
+  {
+   "n": "Molho de Tomate Tarantella Tradicional 1,7kg",
+   "p": "10,79",
+   "u": "cada",
+   "x": 47,
+   "y": 40,
+   "w": 43,
+   "h": 45
+  }
+ ],
+ "DckFspjjtIZ_p7": [
+  {
+   "n": "Molho Pesto Pomarola Chef 190g",
+   "p": "20,79",
+   "u": "cada",
+   "x": 17,
+   "y": 34,
+   "w": 25,
+   "h": 26
+  }
+ ],
+ "DckFspjjtIZ_p8": [
+  {
+   "n": "Molho de Tomate Pomarola Tradicional Sachê",
+   "p": "2,29",
+   "u": "cada",
+   "x": 54,
+   "y": 26,
+   "w": 21,
+   "h": 27
+  },
+  {
+   "n": "Molho de Tomate Pomarola com Azeite Sachê 300g",
+   "p": "4,29",
+   "u": "cada",
+   "x": 3,
+   "y": 10,
+   "w": 19,
+   "h": 9
+  },
+  {
+   "n": "Passata de Tomate Pomarola Chef Sachê 300g",
+   "p": "4,49",
+   "u": "cada",
+   "x": 28,
+   "y": 16,
+   "w": 18,
+   "h": 8
+  }
+ ],
+ "DckFspjjtIZ_p9": [
+  {
+   "n": "Macarrão Parafuso Galo Tricolor com Vegetais Sêmola 500g",
+   "p": "4,99",
+   "u": "cada",
+   "x": 55,
+   "y": 33,
+   "w": 33,
+   "h": 27
+  }
+ ],
+ "DcjpwyHAVYO_p1": [
+  {
+   "n": "Arroz Parboilizado Fazenda pct 1kg",
+   "p": "3,29",
+   "u": "cada",
+   "x": 7,
+   "y": 31,
+   "w": 17,
+   "h": 15
+  },
+  {
+   "n": "Leite UHT Natville Integral ou Desnatado cx 1 litro",
+   "p": "5,89",
+   "u": "cada",
+   "x": 24,
+   "y": 31,
+   "w": 17,
+   "h": 15
+  },
+  {
+   "n": "Óleo de Soja Soya tb 900ml",
+   "p": "6,98",
+   "u": "cada",
+   "x": 41,
+   "y": 31,
+   "w": 17,
+   "h": 15
+  },
+  {
+   "n": "Café em Pó Santa Clara Extraforte pct 250g",
+   "p": "11,69",
+   "u": "cada",
+   "x": 58,
+   "y": 31,
+   "w": 17,
+   "h": 15
+  },
+  {
+   "n": "Queijo Mussarela Molfino Importado Fatiado, Peça ou Pedaço",
+   "p": "32,99",
+   "u": "kg",
+   "x": 75,
+   "y": 31,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "n": "Linguiça de Frango ou para Churrasco Aurora",
+   "p": "14,99",
+   "u": "kg",
+   "x": 7,
+   "y": 48,
+   "w": 17,
+   "h": 17
+  },
+  {
+   "n": "Bisteca Suína Sadia",
+   "p": "13,99",
+   "u": "kg",
+   "x": 24,
+   "y": 48,
+   "w": 17,
+   "h": 17
+  },
+  {
+   "n": "Chã de Dentro Bovina Resfriada Pedaço",
+   "p": "37,99",
+   "u": "kg",
+   "x": 41,
+   "y": 48,
+   "w": 17,
+   "h": 17
+  },
+  {
+   "n": "Whisky Black & White gfa 1 litro",
+   "p": "49,90",
+   "u": "cada",
+   "x": 58,
+   "y": 48,
+   "w": 17,
+   "h": 17
+  },
+  {
+   "n": "Amaciante Concentrado Downy (diversos) tb 500ml",
+   "p": "8,89",
+   "u": "cada",
+   "x": 75,
+   "y": 48,
+   "w": 18,
+   "h": 17
+  },
+  {
+   "n": "Molho de Tomate Sadio Tradicional pct 300g",
+   "p": "0,89",
+   "u": "cada",
+   "x": 5,
+   "y": 66,
+   "w": 18,
+   "h": 13
+  },
+  {
+   "n": "Açúcar Refinado Natural Ecoçúcar pct 1kg",
+   "p": "2,49",
+   "u": "cada",
+   "x": 24,
+   "y": 66,
+   "w": 18,
+   "h": 13
+  },
+  {
+   "n": "Manteiga Itacolomy com Sal pt 500g",
+   "p": "18,99",
+   "u": "cada",
+   "x": 43,
+   "y": 66,
+   "w": 18,
+   "h": 13
+  },
+  {
+   "n": "Queijo de Coalho Nordestão",
+   "p": "32,99",
+   "u": "kg",
+   "x": 62,
+   "y": 66,
+   "w": 18,
+   "h": 13
+  },
+  {
+   "n": "Coxas de Frango Sadia Congeladas IQF pct ou bd 1kg",
+   "p": "10,99",
+   "u": "cada",
+   "x": 81,
+   "y": 66,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Filé de Peito de Frango Sadia Congelado pct ou bd 1kg",
+   "p": "16,99",
+   "u": "cada",
+   "x": 5,
+   "y": 81,
+   "w": 18,
+   "h": 14
+  },
+  {
+   "n": "Filezinho de Peito de Frango Aurora ou Seara Congelado bd 1kg",
+   "p": "16,99",
+   "u": "cada",
+   "x": 24,
+   "y": 81,
+   "w": 18,
+   "h": 14
+  },
+  {
+   "n": "Acém, Posta Gorda, Ossobuco e Peito Bovino Reserva com Osso",
+   "p": "29,98",
+   "u": "kg",
+   "x": 43,
+   "y": 81,
+   "w": 18,
+   "h": 14
+  },
+  {
+   "n": "Whisky Jack Daniel's gfa 1 litro",
+   "p": "99,00",
+   "u": "cada",
+   "x": 62,
+   "y": 81,
+   "w": 18,
+   "h": 14
+  }
+ ],
+ "DcjpwyHAVYO_p2": [
+  {
+   "n": "Ovos Brancos Nordestão Tipo Grande ou Extra bd c/30",
+   "p": "12,99",
+   "u": "cada",
+   "x": 5,
+   "y": 12,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Goma Fresca Nordestão pct 1kg",
+   "p": "3,49",
+   "u": "cada",
+   "x": 24,
+   "y": 12,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Cenoura",
+   "p": "5,69",
+   "u": "kg",
+   "x": 43,
+   "y": 12,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Abacaxi",
+   "p": "1,98",
+   "u": "cada",
+   "x": 62,
+   "y": 12,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Alho a Granel",
+   "p": "11,99",
+   "u": "kg",
+   "x": 81,
+   "y": 12,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Salsa, Alface Crespa ou Coentro",
+   "p": "0,99",
+   "u": "cada",
+   "x": 5,
+   "y": 29,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Coco Verde",
+   "p": "0,99",
+   "u": "cada",
+   "x": 24,
+   "y": 29,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Laranja Pera",
+   "p": "1,59",
+   "u": "kg",
+   "x": 43,
+   "y": 29,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Pão de Forma Fabricação Própria Tradicional pct 350g",
+   "p": "4,99",
+   "u": "cada",
+   "x": 62,
+   "y": 29,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Pão para Sanduíche pct 350g, Pão de Forma de Leite ou 39% Integral pct 350g Fabricação Própria",
+   "p": "5,99",
+   "u": "cada",
+   "x": 81,
+   "y": 29,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Bolacha Manteiga do Sertão Jucurutu pct 250g",
+   "p": "4,69",
+   "u": "cada",
+   "x": 5,
+   "y": 46,
+   "w": 18,
+   "h": 17
+  },
+  {
+   "n": "Pão Bisnaguinha Center Massas Tradicional pct 300g",
+   "p": "4,69",
+   "u": "cada",
+   "x": 24,
+   "y": 46,
+   "w": 18,
+   "h": 17
+  },
+  {
+   "n": "Pão de Alho Fabricação Própria pct 350g",
+   "p": "8,99",
+   "u": "cada",
+   "x": 43,
+   "y": 46,
+   "w": 18,
+   "h": 17
+  },
+  {
+   "n": "Compre 1 Pizza Fabricação Própria (sabores) + R$0,01 Leve 1 Refrigerante Pepsi ou Guaraná Antarctica tb 1 litro",
+   "p": "12,99",
+   "u": "cada",
+   "x": 62,
+   "y": 46,
+   "w": 18,
+   "h": 17
+  },
+  {
+   "n": "Flocão de Milho Fortemilho pct 400g",
+   "p": "0,89",
+   "u": "cada",
+   "x": 81,
+   "y": 46,
+   "w": 17,
+   "h": 17
+  },
+  {
+   "n": "Aveia em Flocos Fazenda Sedrez cx 165g",
+   "p": "2,49",
+   "u": "cada",
+   "x": 5,
+   "y": 63,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Café Solúvel Nescafé cx 40g",
+   "p": "3,79",
+   "u": "cada",
+   "x": 24,
+   "y": 63,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Feijão Carioca Kumê pct 1kg",
+   "p": "5,98",
+   "u": "cada",
+   "x": 43,
+   "y": 63,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Leite em Pó Molico Desnatado pct 500g",
+   "p": "25,89",
+   "u": "cada",
+   "x": 62,
+   "y": 63,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Massa Sêmola Estrela Parafuso pct 400g",
+   "p": "2,79",
+   "u": "cada",
+   "x": 81,
+   "y": 63,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Azeite de Oliva Extra Virgem Kristal vd 500ml",
+   "p": "20,99",
+   "u": "cada",
+   "x": 5,
+   "y": 80,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Macarrão Bonsabor Espaguete pct 400g",
+   "p": "1,79",
+   "u": "cada",
+   "x": 24,
+   "y": 80,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Milho Verde ou Dueto Fugini pct 170g",
+   "p": "2,48",
+   "u": "cada",
+   "x": 43,
+   "y": 80,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Bebida Láctea UHT Nescau cx 180ml",
+   "p": "1,59",
+   "u": "cada",
+   "x": 62,
+   "y": 80,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Mistura de Creme de Leite Mococa cx 200g",
+   "p": "1,59",
+   "u": "cada",
+   "x": 81,
+   "y": 80,
+   "w": 17,
+   "h": 16
+  }
+ ],
+ "DcjpwyHAVYO_p3": [
+  {
+   "n": "Molho de Tomate Tarantella Tradicional cx 1,06kg",
+   "p": "5,99",
+   "u": "cada",
+   "x": 5,
+   "y": 12,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Catchup Leto cx 150x Sachet 6g",
+   "p": "8,99",
+   "u": "cada",
+   "x": 24,
+   "y": 12,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Margarina Cremosa Deline Sadia balde 3kg",
+   "p": "22,99",
+   "u": "cada",
+   "x": 43,
+   "y": 12,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Azeite de Oliva Extra Virgem San Frediano tb 2 litros",
+   "p": "72,90",
+   "u": "cada",
+   "x": 62,
+   "y": 12,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Farinha de Trigo Do Padeiro Saco 25kg",
+   "p": "73,90",
+   "u": "cada",
+   "x": 81,
+   "y": 12,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Bombons Sortidos Garoto cx 220g",
+   "p": "9,49",
+   "u": "cada",
+   "x": 5,
+   "y": 29,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Achocolatado em Pó Nescau Nestlé pct 550g",
+   "p": "12,99",
+   "u": "cada",
+   "x": 24,
+   "y": 29,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Biscoito Wafer Kit Kat Nestlé (sabores) pct 41,5g — Leve 2 Pague 1, unidade sai por",
+   "p": "2,99",
+   "u": "cada",
+   "x": 43,
+   "y": 29,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Bebida Láctea Power Whey 15g Proteínas 3 Corações cx 250ml",
+   "p": "5,49",
+   "u": "cada",
+   "x": 62,
+   "y": 29,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Bebida de Amêndoas Almond Breeze cx 1 litro",
+   "p": "13,99",
+   "u": "un",
+   "x": 81,
+   "y": 29,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Margarina Cremosa Primor com Sal pt 1kg",
+   "p": "8,99",
+   "u": "cada",
+   "x": 5,
+   "y": 46,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Requeijão Cremoso Danone Tradicional pt 200g",
+   "p": "5,99",
+   "u": "cada",
+   "x": 24,
+   "y": 46,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Sorvete Piccolo pt 1,5 litro",
+   "p": "12,99",
+   "u": "cada",
+   "x": 43,
+   "y": 46,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Batata Palito EasyChef Congelada pct 2kg",
+   "p": "15,99",
+   "u": "cada",
+   "x": 62,
+   "y": 46,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Steak de Frango Empanado Perdigão pct 100g",
+   "p": "0,99",
+   "u": "cada",
+   "x": 81,
+   "y": 46,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Hambúrguer Misto Texas Burger Seara pct 56g",
+   "p": "0,89",
+   "u": "cada",
+   "x": 5,
+   "y": 63,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Filé de Peixe Merluza ou Tilápia Oceani Congelado pct 800g",
+   "p": "35,99",
+   "u": "cada",
+   "x": 24,
+   "y": 63,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Capa de Filé Bovino Friboi Resfriada Pedaço",
+   "p": "29,98",
+   "u": "kg",
+   "x": 43,
+   "y": 63,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Kit 1 Coca-Cola + 1 Fanta Laranja tb 2 litros",
+   "p": "17,99",
+   "u": "cada",
+   "x": 62,
+   "y": 63,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Energético Monster lta 473ml — Leve 6 Pague 5, unidade sai por",
+   "p": "7,99",
+   "u": "cada",
+   "x": 81,
+   "y": 63,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Água Mineral Ster Bom sem Gás tb 510ml",
+   "p": "0,69",
+   "u": "cada",
+   "x": 5,
+   "y": 80,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Bebida Mista Tampico Frutas Cítricas tb 1,5 litro",
+   "p": "4,99",
+   "u": "cada",
+   "x": 24,
+   "y": 80,
+   "w": 18,
+   "h": 16
+  },
+  {
+   "n": "Cerveja Devassa lta 350ml",
+   "p": "2,59",
+   "u": "cada",
+   "x": 43,
+   "y": 80,
+   "w": 18,
+   "h": 16
+  }
+ ],
+ "DcjpwyHAVYO_p4": [
+  {
+   "n": "Sabonete Palmolive (diversos) pct 85g",
+   "p": "1,69",
+   "u": "cada",
+   "x": 5,
+   "y": 12,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Creme Dental Colgate Total tb 90g",
+   "p": "7,99",
+   "u": "cada",
+   "x": 29,
+   "y": 12,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Kit Seda Shampoo tb 300ml + Condicionador tb 190ml (diversos)",
+   "p": "13,99",
+   "u": "cada",
+   "x": 53,
+   "y": 12,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Sabonete Líquido Nordestão Diversos tb 1 litro",
+   "p": "10,99",
+   "u": "cada",
+   "x": 77,
+   "y": 12,
+   "w": 21,
+   "h": 14
+  },
+  {
+   "n": "Lava-louças Tanlux tb 500ml",
+   "p": "0,99",
+   "u": "cada",
+   "x": 5,
+   "y": 27,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Água Sanitária Dragão tb 1 litro",
+   "p": "1,89",
+   "u": "cada",
+   "x": 29,
+   "y": 27,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Lava-roupas em Pó Ala (diversos) pct 400g",
+   "p": "2,28",
+   "u": "cada",
+   "x": 53,
+   "y": 27,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Lava-roupas em Pó Ativ Nordestão pct 800g",
+   "p": "4,59",
+   "u": "cada",
+   "x": 77,
+   "y": 27,
+   "w": 21,
+   "h": 14
+  },
+  {
+   "n": "Lava-roupas Líquido eKonomico Becker tb 3 litros",
+   "p": "8,99",
+   "u": "cada",
+   "x": 5,
+   "y": 42,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Limpador Perfumado Nordestão Ativ Diversos tb 2 litros",
+   "p": "10,99",
+   "u": "cada",
+   "x": 29,
+   "y": 42,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Lava-roupas Líquido Ativ Nordestão tb 3 litros",
+   "p": "19,98",
+   "u": "cada",
+   "x": 53,
+   "y": 42,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Lava-roupas Líquido Nordestão Ativ Lavanda tb 3 litros",
+   "p": "13,99",
+   "u": "cada",
+   "x": 77,
+   "y": 42,
+   "w": 21,
+   "h": 14
+  },
+  {
+   "n": "Toalhas de Papel Caprice pct c/ 2x 50 folhas",
+   "p": "2,99",
+   "u": "cada",
+   "x": 5,
+   "y": 56,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Absorvente Sempre Livre Especial Suave com Abas pct Leve 16 Pague 14",
+   "p": "6,39",
+   "u": "cada",
+   "x": 29,
+   "y": 56,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Papel Higiênico Atualle ou Floral Folha Dupla 20 Metros pct c/12",
+   "p": "9,98",
+   "u": "cada",
+   "x": 53,
+   "y": 56,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Fralda Descartável Personal Baby Pants pct M c/28, G c/24, XG c/22 ou XXG c/20",
+   "p": "26,49",
+   "u": "cada",
+   "x": 77,
+   "y": 56,
+   "w": 21,
+   "h": 14
+  },
+  {
+   "n": "Alimento Úmido para Gatos Friskies pct 85g ou para Cães Dog Chow pct 85g/100g — Leve 3 Pague 2, unidade sai por",
+   "p": "2,13",
+   "u": "cada",
+   "x": 5,
+   "y": 71,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Travesseiro Burdays Eco Pluma",
+   "p": "19,98",
+   "u": "cada",
+   "x": 29,
+   "y": 71,
+   "w": 22,
+   "h": 14
+  },
+  {
+   "n": "Air Fryer Sort Vestcasa 1500W 220V 3,5 litros",
+   "p": "159,90",
+   "u": "cada",
+   "x": 53,
+   "y": 71,
+   "w": 22,
+   "h": 14
+  }
+ ],
+ "DchCc7glbGU_p1": [
+  {
+   "n": "Arroz Parboilizado Tio Manoel 1kg",
+   "p": "3,19",
+   "u": "un",
+   "x": 4,
+   "y": 29,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Feijão Carioca Duzé 1kg",
+   "p": "6,58",
+   "u": "un",
+   "x": 20,
+   "y": 29,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Açúcar Ecoçúcar 1kg",
+   "p": "2,65",
+   "u": "un",
+   "x": 36,
+   "y": 29,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Óleo de Soja Liza 900ml",
+   "p": "6,99",
+   "u": "un",
+   "x": 51,
+   "y": 29,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Flocão de Milho São Braz 500g",
+   "p": "1,19",
+   "u": "un",
+   "x": 67,
+   "y": 29,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Macarrão Espaguete Bonsabor 400g",
+   "p": "1,85",
+   "u": "un",
+   "x": 82,
+   "y": 29,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Leite Pó Integral Ninho 575g",
+   "p": "25,98",
+   "u": "un",
+   "x": 4,
+   "y": 47,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Leite Condensado Damare TP 395g",
+   "p": "4,99",
+   "u": "un",
+   "x": 20,
+   "y": 47,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Creme de Leite Damare 200g",
+   "p": "1,99",
+   "u": "un",
+   "x": 36,
+   "y": 47,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Cerveja Amstel 350ml (leve 12 sai R$ 2,90 cada)",
+   "p": "3,49",
+   "u": "un",
+   "x": 51,
+   "y": 47,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Cerveja Budweiser LN 330ml",
+   "p": "4,89",
+   "u": "un",
+   "x": 67,
+   "y": 47,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Coxa c/ Sobrecoxa Lar Congelada",
+   "p": "7,48",
+   "u": "kg",
+   "x": 82,
+   "y": 47,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Frango a Passarinho Jaguá IQF 1kg",
+   "p": "9,98",
+   "u": "un",
+   "x": 4,
+   "y": 64,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Salsicha Hot Dog Avivar",
+   "p": "5,49",
+   "u": "kg",
+   "x": 20,
+   "y": 64,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Queijo Mussarela Peça/Pedaço",
+   "p": "36,98",
+   "u": "kg",
+   "x": 36,
+   "y": 64,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Costela Ponta de Agulha",
+   "p": "21,98",
+   "u": "kg",
+   "x": 51,
+   "y": 64,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Linguiça de Frango Avivar",
+   "p": "11,89",
+   "u": "kg",
+   "x": 67,
+   "y": 64,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Bisteca Pernil Suíno Congelado",
+   "p": "11,98",
+   "u": "kg",
+   "x": 82,
+   "y": 64,
+   "w": 14,
+   "h": 17
+  },
+  {
+   "n": "Ovo Branco Grande Iana BDJ c/30",
+   "p": "14,98",
+   "u": "bdj",
+   "x": 4,
+   "y": 82,
+   "w": 14,
+   "h": 16
+  },
+  {
+   "n": "Água Sanitária Olimpo 1L",
+   "p": "1,89",
+   "u": "un",
+   "x": 20,
+   "y": 82,
+   "w": 14,
+   "h": 16
+  },
+  {
+   "n": "Amaciante Concentrado Downy 450ml/500ml Fragrâncias",
+   "p": "8,99",
+   "u": "un",
+   "x": 36,
+   "y": 82,
+   "w": 14,
+   "h": 16
+  },
+  {
+   "n": "Papel Higiênico Floral F/D 20m c/12",
+   "p": "9,98",
+   "u": "un",
+   "x": 51,
+   "y": 82,
+   "w": 14,
+   "h": 16
+  },
+  {
+   "n": "Desodorante Aerossol Rexona 150ml Fragrâncias",
+   "p": "13,89",
+   "u": "un",
+   "x": 67,
+   "y": 82,
+   "w": 14,
+   "h": 16
+  },
+  {
+   "n": "Fralda Descartável Personal Baby Pants Jumbo (M28 G24 XG22 XXG20)",
+   "p": "25,98",
+   "u": "un",
+   "x": 82,
+   "y": 82,
+   "w": 14,
+   "h": 16
+  }
+ ],
+ "DchCc7glbGU_p2": [
+  {
+   "n": "Café São Braz Extra Forte 250g",
+   "p": "11,89",
+   "u": "un",
+   "x": 4,
+   "y": 0,
+   "w": 14,
+   "h": 11
+  },
+  {
+   "n": "Biscoito Maria / Maizena Estrela 307g",
+   "p": "4,59",
+   "u": "un",
+   "x": 20,
+   "y": 0,
+   "w": 14,
+   "h": 11
+  },
+  {
+   "n": "Macarrão Parafuso Vitarella 400g",
+   "p": "2,99",
+   "u": "un",
+   "x": 36,
+   "y": 0,
+   "w": 14,
+   "h": 11
+  },
+  {
+   "n": "Macarrão Instantâneo Lámen Vitarella 74,3g Sabores",
+   "p": "1,19",
+   "u": "un",
+   "x": 51,
+   "y": 0,
+   "w": 14,
+   "h": 11
+  },
+  {
+   "n": "Farinha de Trigo Especial Finna 1kg",
+   "p": "3,79",
+   "u": "un",
+   "x": 67,
+   "y": 0,
+   "w": 14,
+   "h": 11
+  },
+  {
+   "n": "Bolacha Manteiga do Sertão Jucurutu 250g",
+   "p": "4,99",
+   "u": "un",
+   "x": 82,
+   "y": 0,
+   "w": 14,
+   "h": 11
+  },
+  {
+   "n": "Biscoito Recheado Premium Vitamassa 130g Sabores",
+   "p": "1,49",
+   "u": "un",
+   "x": 4,
+   "y": 11,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Leite UHT Damare 1L",
+   "p": "5,99",
+   "u": "un",
+   "x": 20,
+   "y": 11,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Molho Tomate Sadio SC 300g",
+   "p": "0,99",
+   "u": "un",
+   "x": 36,
+   "y": 11,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Sardinha Nautique 125g",
+   "p": "4,98",
+   "u": "un",
+   "x": 51,
+   "y": 11,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Dueto Fugini SC 170g",
+   "p": "2,98",
+   "u": "un",
+   "x": 67,
+   "y": 11,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Pão de Forma Tradicional Center Massas 400g",
+   "p": "4,99",
+   "u": "un",
+   "x": 82,
+   "y": 11,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Refrigerante Coca-Cola 1,5L",
+   "p": "6,79",
+   "u": "un",
+   "x": 4,
+   "y": 23,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Refrigerante Guaraná Antarctica 2L",
+   "p": "7,99",
+   "u": "un",
+   "x": 20,
+   "y": 23,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Cachaça Caranguejo Prata 350ml",
+   "p": "2,99",
+   "u": "un",
+   "x": 36,
+   "y": 23,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Frango Congelado Bom Todo",
+   "p": "9,98",
+   "u": "kg",
+   "x": 51,
+   "y": 23,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Coxinha da Asa Jaguá IQF 1kg",
+   "p": "12,98",
+   "u": "un",
+   "x": 67,
+   "y": 23,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Carne Bovina Chã de Fora Resfriada",
+   "p": "38,98",
+   "u": "kg",
+   "x": 82,
+   "y": 23,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Hambúrguer Misto Chuletão 56g",
+   "p": "0,69",
+   "u": "un",
+   "x": 4,
+   "y": 34,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Linguiça Calabresa Saudali",
+   "p": "18,98",
+   "u": "kg",
+   "x": 20,
+   "y": 34,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Empanado de Frango Lar 100g",
+   "p": "1,19",
+   "u": "un",
+   "x": 36,
+   "y": 34,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Mortadela de Frango Friato",
+   "p": "7,89",
+   "u": "kg",
+   "x": 51,
+   "y": 34,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Batata Congelada Mazid 2kg",
+   "p": "19,80",
+   "u": "un",
+   "x": 67,
+   "y": 34,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Bebida Láctea Clan SC 900ml Sabores",
+   "p": "4,79",
+   "u": "un",
+   "x": 82,
+   "y": 34,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Requeijão Cremoso Clan 200g Sabores",
+   "p": "7,49",
+   "u": "un",
+   "x": 4,
+   "y": 46,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Margarina Primor 500g",
+   "p": "4,79",
+   "u": "un",
+   "x": 20,
+   "y": 46,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Fígado Bovino Congelado",
+   "p": "14,98",
+   "u": "kg",
+   "x": 36,
+   "y": 46,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Capa de Filé Congelada do Chef",
+   "p": "37,98",
+   "u": "kg",
+   "x": 51,
+   "y": 46,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Goma de Tapioca Ouro Fino 1kg",
+   "p": "4,89",
+   "u": "un",
+   "x": 67,
+   "y": 46,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Maçã Vermelha Nacional",
+   "p": "8,49",
+   "u": "kg",
+   "x": 82,
+   "y": 46,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Uva Vitória Marcelo Frazão 500g",
+   "p": "5,39",
+   "u": "un",
+   "x": 4,
+   "y": 58,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Papel Toalha Scala c/3 Rolos 360fls",
+   "p": "16,89",
+   "u": "un",
+   "x": 20,
+   "y": 58,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Desinfetante UAU 2L 10% Desconto",
+   "p": "9,49",
+   "u": "un",
+   "x": 36,
+   "y": 58,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Lava Roupas Pó ALA SC 400g",
+   "p": "2,58",
+   "u": "un",
+   "x": 51,
+   "y": 58,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Lava Roupas Líquido Tanlux 3L",
+   "p": "9,98",
+   "u": "un",
+   "x": 67,
+   "y": 58,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Lava Louças Alice 500ml Fragrâncias",
+   "p": "0,98",
+   "u": "un",
+   "x": 82,
+   "y": 58,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Limpador Perfumado UAU 1L Fragrâncias 20% Desconto",
+   "p": "9,79",
+   "u": "un",
+   "x": 4,
+   "y": 70,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Sabão em Barra Minuano Neutro 5x160g",
+   "p": "9,98",
+   "u": "un",
+   "x": 21,
+   "y": 70,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Absorvente Naturalmente Gel c/ Abas e s/ Abas Leve8 Pague7",
+   "p": "2,99",
+   "u": "un",
+   "x": 41,
+   "y": 70,
+   "w": 16,
+   "h": 12
+  },
+  {
+   "n": "Shampoo Darling 350ml Fragrâncias",
+   "p": "5,99",
+   "u": "un",
+   "x": 62,
+   "y": 70,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Kit Shampoo Pantene 300ml + Condicionador 175ml",
+   "p": "26,98",
+   "u": "un",
+   "x": 82,
+   "y": 70,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Creme de Tratamento Skala 1kg",
+   "p": "9,49",
+   "u": "un",
+   "x": 4,
+   "y": 82,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Sabonete Even Suave 85g Fragrâncias",
+   "p": "1,89",
+   "u": "un",
+   "x": 24,
+   "y": 82,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Creme Dental Colgate MPA 90g",
+   "p": "4,59",
+   "u": "un",
+   "x": 43,
+   "y": 82,
+   "w": 15,
+   "h": 12
+  },
+  {
+   "n": "Desodorante Aerossol Above 150ml Fragrâncias",
+   "p": "5,99",
+   "u": "un",
+   "x": 62,
+   "y": 82,
+   "w": 14,
+   "h": 12
+  },
+  {
+   "n": "Sabonete Líquido Oli 500ml Fragrâncias",
+   "p": "5,89",
+   "u": "un",
+   "x": 82,
+   "y": 82,
+   "w": 14,
+   "h": 12
+  }
+ ],
+ "Dci2ovkyiYB_p1": [
+  {
+   "n": "Café Santa Clara 250g a Vácuo/Almofada Classic/Extra Forte",
+   "p": "11,19",
+   "u": "cada",
+   "x": 2,
+   "y": 28,
+   "w": 22,
+   "h": 22
+  },
+  {
+   "n": "Café Kimimo 250g Almofada/a Vácuo",
+   "p": "9,58",
+   "u": "cada",
+   "x": 27,
+   "y": 28,
+   "w": 21,
+   "h": 22
+  },
+  {
+   "n": "Café São Braz 250g a Vácuo/Almofada Extra Forte",
+   "p": "9,51",
+   "u": "cada",
+   "x": 51,
+   "y": 28,
+   "w": 22,
+   "h": 22
+  },
+  {
+   "n": "Pão Center Massas 400g Forma",
+   "p": "3,99",
+   "u": "cada",
+   "x": 76,
+   "y": 28,
+   "w": 22,
+   "h": 22
+  },
+  {
+   "n": "Achoc Pó Nescau 550g Sachet",
+   "p": "11,11",
+   "u": "cada",
+   "x": 2,
+   "y": 51,
+   "w": 22,
+   "h": 21
+  },
+  {
+   "n": "Achoc Pó Italac Chocky 700g Sachet",
+   "p": "9,58",
+   "u": "cada",
+   "x": 27,
+   "y": 51,
+   "w": 21,
+   "h": 21
+  },
+  {
+   "n": "Lava Roupas Líq Absoluto 3L Fragrâncias",
+   "p": "13,48",
+   "u": "cada",
+   "x": 51,
+   "y": 51,
+   "w": 22,
+   "h": 21
+  },
+  {
+   "n": "Lava Roupa OMO 3L Fragrâncias",
+   "p": "33,59",
+   "u": "cada",
+   "x": 76,
+   "y": 51,
+   "w": 22,
+   "h": 21
+  },
+  {
+   "n": "Lava Roupa Pó Brilhante 1,6kg Fragrâncias",
+   "p": "13,99",
+   "u": "cada",
+   "x": 2,
+   "y": 73,
+   "w": 22,
+   "h": 21
+  },
+  {
+   "n": "Lava Roupa Pó ALA 1,6kg Fragrâncias",
+   "p": "10,39",
+   "u": "cada",
+   "x": 27,
+   "y": 73,
+   "w": 21,
+   "h": 21
+  },
+  {
+   "n": "Amaciante Roupa Comfort 1L Conc Fragrâncias",
+   "p": "18,95",
+   "u": "cada",
+   "x": 51,
+   "y": 73,
+   "w": 22,
+   "h": 21
+  },
+  {
+   "n": "Amaciante Roupa Fofo 900ml Fragrâncias",
+   "p": "11,59",
+   "u": "cada",
+   "x": 76,
+   "y": 73,
+   "w": 22,
+   "h": 21
+  }
+ ],
+ "Dcllc5JgG1S_p1": [
+  {
+   "n": "Peito Serrado",
+   "p": "26,49",
+   "u": "kg",
+   "x": 2,
+   "y": 36,
+   "w": 22,
+   "h": 18
+  },
+  {
+   "n": "Lombo Serrado",
+   "p": "26,98",
+   "u": "kg",
+   "x": 26,
+   "y": 36,
+   "w": 22,
+   "h": 18
+  },
+  {
+   "n": "Carne Bovina Posta Gorda c/ Osso",
+   "p": "28,98",
+   "u": "kg",
+   "x": 50,
+   "y": 36,
+   "w": 23,
+   "h": 18
+  },
+  {
+   "n": "Carne Dianteira de Sol",
+   "p": "36,98",
+   "u": "kg",
+   "x": 75,
+   "y": 36,
+   "w": 22,
+   "h": 18
+  },
+  {
+   "n": "Carne Moída Dianteira",
+   "p": "27,98",
+   "u": "kg",
+   "x": 5,
+   "y": 55,
+   "w": 27,
+   "h": 20
+  },
+  {
+   "n": "Fígado Bovino Congelada",
+   "p": "14,98",
+   "u": "kg",
+   "x": 37,
+   "y": 55,
+   "w": 27,
+   "h": 20
+  },
+  {
+   "n": "Costela Ponta de Agulha",
+   "p": "21,98",
+   "u": "kg",
+   "x": 68,
+   "y": 55,
+   "w": 28,
+   "h": 20
+  },
+  {
+   "n": "Carne Bisteca de Pernil Suíno",
+   "p": "11,98",
+   "u": "kg",
+   "x": 5,
+   "y": 75,
+   "w": 27,
+   "h": 19
+  },
+  {
+   "n": "Capa de Filé do Chef",
+   "p": "37,98",
+   "u": "kg",
+   "x": 37,
+   "y": 75,
+   "w": 27,
+   "h": 19
+  },
+  {
+   "n": "Linguiça de Frango / Churrasco Avivar",
+   "p": "11,98",
+   "u": "kg",
+   "x": 68,
+   "y": 75,
+   "w": 28,
+   "h": 19
+  }
+ ],
+ "DcgEmudsbAQ_p1": [
+  {
+   "n": "Banana Pacovan",
+   "p": "2,98",
+   "u": "kg",
+   "x": 2,
+   "y": 42,
+   "w": 22,
+   "h": 17
+  },
+  {
+   "n": "Cebola Branca",
+   "p": "3,49",
+   "u": "kg",
+   "x": 26,
+   "y": 42,
+   "w": 22,
+   "h": 17
+  },
+  {
+   "n": "Morango Reis Fruit 250g Premium",
+   "p": "6,49",
+   "u": "un",
+   "x": 50,
+   "y": 42,
+   "w": 23,
+   "h": 17
+  },
+  {
+   "n": "Tomate Extra",
+   "p": "2,99",
+   "u": "kg",
+   "x": 75,
+   "y": 42,
+   "w": 22,
+   "h": 17
+  },
+  {
+   "n": "Abacate",
+   "p": "3,99",
+   "u": "kg",
+   "x": 1,
+   "y": 60,
+   "w": 19,
+   "h": 19
+  },
+  {
+   "n": "Alho à Granel",
+   "p": "22,90",
+   "u": "kg",
+   "x": 21,
+   "y": 60,
+   "w": 19,
+   "h": 19
+  },
+  {
+   "n": "Batata Inglesa",
+   "p": "3,99",
+   "u": "kg",
+   "x": 41,
+   "y": 60,
+   "w": 19,
+   "h": 19
+  },
+  {
+   "n": "Cenoura",
+   "p": "5,98",
+   "u": "kg",
+   "x": 60,
+   "y": 60,
+   "w": 19,
+   "h": 19
+  },
+  {
+   "n": "Melão Espanhol / Japonês / Português",
+   "p": "3,98",
+   "u": "kg",
+   "x": 79,
+   "y": 60,
+   "w": 20,
+   "h": 19
+  },
+  {
+   "n": "Laranja Pêra",
+   "p": "1,99",
+   "u": "kg",
+   "x": 1,
+   "y": 79,
+   "w": 19,
+   "h": 17
+  },
+  {
+   "n": "Pêra",
+   "p": "12,98",
+   "u": "kg",
+   "x": 21,
+   "y": 79,
+   "w": 19,
+   "h": 17
+  },
+  {
+   "n": "Tangerina Importada",
+   "p": "10,98",
+   "u": "kg",
+   "x": 41,
+   "y": 79,
+   "w": 19,
+   "h": 17
+  },
+  {
+   "n": "Uva Vitória Marcelo Frazão 500g s/ Semente",
+   "p": "5,39",
+   "u": "un",
+   "x": 60,
+   "y": 79,
+   "w": 19,
+   "h": 17
+  },
+  {
+   "n": "Sacola Retornável",
+   "p": "5,89",
+   "u": "un",
+   "x": 79,
+   "y": 79,
+   "w": 20,
+   "h": 17
+  }
+ ],
+ "DcmDD8ATPAC_p1": [
+  {
+   "n": "Óleo Extraordinário Pantene Finalizador Queratina 95ml Leve 2 Pague 1",
+   "p": "27,49",
+   "u": "cada",
+   "x": 46,
+   "y": 60,
+   "w": 42,
+   "h": 38
+  }
+ ],
+ "atacadao_ab174b8886_p1": [
+  {
+   "n": "Coentro/ Couve Manteiga/ Alface Crespa Maço",
+   "p": "1,59",
+   "u": "maço",
+   "x": 5,
+   "y": 24,
+   "w": 43,
+   "h": 14
+  },
+  {
+   "n": "Cenoura Quilo",
+   "p": "6,19",
+   "u": "kg",
+   "x": 52,
+   "y": 24,
+   "w": 44,
+   "h": 14
+  },
+  {
+   "n": "Manteiga Itambé Resfriada Com Sal Pote com 500g",
+   "p": "23,49",
+   "u": "un",
+   "x": 5,
+   "y": 39,
+   "w": 43,
+   "h": 14
+  },
+  {
+   "n": "Batata Pré-Frita Natto Congelada Pacote com 2kg",
+   "p": "22,90",
+   "u": "un",
+   "x": 52,
+   "y": 39,
+   "w": 44,
+   "h": 14
+  },
+  {
+   "n": "Energético Red Bull Vários Sabores Lata com 250ml",
+   "p": "8,39",
+   "u": "un",
+   "x": 5,
+   "y": 54,
+   "w": 43,
+   "h": 13
+  },
+  {
+   "n": "Cerveja Devassa Puro Malte Lata com 350ml",
+   "p": "2,49",
+   "u": "un",
+   "x": 52,
+   "y": 54,
+   "w": 44,
+   "h": 13
+  },
+  {
+   "n": "Salgadinho Elma Chips Vários Sabores Pacote com 21g",
+   "p": "0,85",
+   "u": "un",
+   "x": 5,
+   "y": 68,
+   "w": 43,
+   "h": 14
+  },
+  {
+   "n": "Lava Roupas em Pó OMO Lavagem Perfeita Pacote com 2,4kg",
+   "p": "24,90",
+   "u": "un",
+   "x": 52,
+   "y": 68,
+   "w": 44,
+   "h": 14
+  }
+ ],
+ "atacadao_529ee8d455_p1": [
+  {
+   "n": "Coentro/ Alface Crespa/ Couve Manteiga Maço/ Unidade",
+   "p": "1,59",
+   "u": "maço",
+   "x": 3,
+   "y": 22,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Repolho Branco Quilo",
+   "p": "3,89",
+   "u": "kg",
+   "x": 23,
+   "y": 22,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Batata Lavada Quilo",
+   "p": "4,89",
+   "u": "kg",
+   "x": 42,
+   "y": 22,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Cenoura Quilo",
+   "p": "6,19",
+   "u": "kg",
+   "x": 62,
+   "y": 22,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Alho a Granel Quilo",
+   "p": "17,79",
+   "u": "kg",
+   "x": 82,
+   "y": 22,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Abacate Quilo",
+   "p": "3,39",
+   "u": "kg",
+   "x": 3,
+   "y": 35,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Banana Pacovan Quilo",
+   "p": "3,39",
+   "u": "kg",
+   "x": 23,
+   "y": 35,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Macaxeira Quilo",
+   "p": "2,89",
+   "u": "kg",
+   "x": 42,
+   "y": 35,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Abóbora Leite Quilo",
+   "p": "2,39",
+   "u": "kg",
+   "x": 62,
+   "y": 35,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Ovo Branco Grande PVC Bandeja com 30 Unidades",
+   "p": "14,99",
+   "u": "un",
+   "x": 82,
+   "y": 35,
+   "w": 16,
+   "h": 13
+  },
+  {
+   "n": "Carne Bovina Cupim Friboi Congelada Preço por Quilo na Peça",
+   "p": "39,90",
+   "u": "kg",
+   "x": 3,
+   "y": 53,
+   "w": 17,
+   "h": 14
+  },
+  {
+   "n": "Carne Bovina Fraldinha Friboi Resfriada Preço por Quilo na Peça",
+   "p": "39,90",
+   "u": "kg",
+   "x": 23,
+   "y": 53,
+   "w": 17,
+   "h": 14
+  },
+  {
+   "n": "Carne Bovina Maminha Friboi Resfriada Preço por Quilo na Peça",
+   "p": "49,90",
+   "u": "kg",
+   "x": 42,
+   "y": 53,
+   "w": 17,
+   "h": 14
+  },
+  {
+   "n": "Carne Bovina Picanha Bordon Resfriada Fatiada Preço por Quilo na Peça",
+   "p": "49,90",
+   "u": "kg",
+   "x": 62,
+   "y": 53,
+   "w": 17,
+   "h": 14
+  },
+  {
+   "n": "Carne Bovina Picanha Maturatta Resfriada Preço por Quilo na Peça",
+   "p": "112,50",
+   "u": "kg",
+   "x": 82,
+   "y": 53,
+   "w": 16,
+   "h": 14
+  }
+ ],
+ "atacadao_529ee8d455_p2": [
+  {
+   "n": "Frango Mauricéa Congelado Preço por Quilo na Peça",
+   "p": "8,99",
+   "u": "kg",
+   "x": 3,
+   "y": 20,
+   "w": 17,
+   "h": 24
+  },
+  {
+   "n": "Coxa com Sobrecoxa de Frango Copacol Congelada Preço por Quilo no Pacote",
+   "p": "8,49",
+   "u": "kg",
+   "x": 23,
+   "y": 20,
+   "w": 17,
+   "h": 24
+  },
+  {
+   "n": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+   "p": "17,49",
+   "u": "un",
+   "x": 42,
+   "y": 20,
+   "w": 17,
+   "h": 24
+  },
+  {
+   "n": "Manteiga Itacolomy Resfriada Com Sal Pote com 500g",
+   "p": "22,90",
+   "u": "un",
+   "x": 62,
+   "y": 20,
+   "w": 17,
+   "h": 24
+  },
+  {
+   "n": "Margarina Claybom Resfriada Com Sal Pote com 1kg",
+   "p": "9,49",
+   "u": "un",
+   "x": 82,
+   "y": 20,
+   "w": 16,
+   "h": 24
+  },
+  {
+   "n": "Linguiça Tipo Calabresa Perdigão Pacote com 2,5kg",
+   "p": "63,90",
+   "u": "un",
+   "x": 3,
+   "y": 45,
+   "w": 17,
+   "h": 24
+  },
+  {
+   "n": "Margarina Medalha de Ouro Balde com 3kg",
+   "p": "33,89",
+   "u": "un",
+   "x": 23,
+   "y": 45,
+   "w": 17,
+   "h": 24
+  },
+  {
+   "n": "Batata Pré-Frita Rapmix Congelada Pacote com 2kg",
+   "p": "19,90",
+   "u": "un",
+   "x": 42,
+   "y": 45,
+   "w": 17,
+   "h": 24
+  },
+  {
+   "n": "Mortadela Tony Frango/ Sem Toucinho Preço por Quilo na Peça",
+   "p": "7,59",
+   "u": "kg",
+   "x": 62,
+   "y": 45,
+   "w": 17,
+   "h": 24
+  },
+  {
+   "n": "Açaí Ster Bom Congelado Mix Tradicional Pote com 1L",
+   "p": "18,98",
+   "u": "un",
+   "x": 82,
+   "y": 45,
+   "w": 16,
+   "h": 24
+  },
+  {
+   "n": "Polpa de Fruta Canaã Congelada Goiaba/ Acerola/ Manga Unidade com 100g",
+   "p": "0,79",
+   "u": "un",
+   "x": 3,
+   "y": 70,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Sorvete Ster Bom Congelado Vários Sabores Pote com 2L",
+   "p": "23,98",
+   "u": "un",
+   "x": 23,
+   "y": 70,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Bebida Láctea Whey Itambé Vários Sabores TP com 250ml",
+   "p": "6,39",
+   "u": "un",
+   "x": 42,
+   "y": 70,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Bebida Láctea Batavo Bob Esponja Resfriada Morango Bandeja com 510g",
+   "p": "4,79",
+   "u": "un",
+   "x": 62,
+   "y": 70,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Leite Fermentado Bob Esponja Resfriado Vários Sabores Conjunto com 6x80g",
+   "p": "6,29",
+   "u": "un",
+   "x": 82,
+   "y": 70,
+   "w": 16,
+   "h": 25
+  }
+ ],
+ "atacadao_529ee8d455_p3": [
+  {
+   "n": "Açúcar Cristal Olho D'Água Pacote com 1kg",
+   "p": "2,89",
+   "u": "un",
+   "x": 3,
+   "y": 19,
+   "w": 17,
+   "h": 19
+  },
+  {
+   "n": "Arroz Mariano Parboilizado Tipo 1 Pacote com 1kg",
+   "p": "3,99",
+   "u": "un",
+   "x": 23,
+   "y": 19,
+   "w": 17,
+   "h": 19
+  },
+  {
+   "n": "Azeite de Oliva Gomes da Costa Extra Virgem Vidro com 500ml",
+   "p": "24,90",
+   "u": "un",
+   "x": 42,
+   "y": 19,
+   "w": 17,
+   "h": 19
+  },
+  {
+   "n": "Farinha de Trigo Boa Sorte Tipo 1 Pacote com 1kg",
+   "p": "3,49",
+   "u": "un",
+   "x": 62,
+   "y": 19,
+   "w": 17,
+   "h": 19
+  },
+  {
+   "n": "Feijão Carioca Da Casa Tipo 2 Pacote com 1kg",
+   "p": "7,69",
+   "u": "un",
+   "x": 82,
+   "y": 19,
+   "w": 16,
+   "h": 19
+  },
+  {
+   "n": "Biscoito Recheado Bono/ Negresco Nestlé Vários Sabores Pacote com 90g",
+   "p": "2,58",
+   "u": "un",
+   "x": 3,
+   "y": 39,
+   "w": 17,
+   "h": 18
+  },
+  {
+   "n": "Creme de Leite CCGL TP com 200g",
+   "p": "2,59",
+   "u": "un",
+   "x": 23,
+   "y": 39,
+   "w": 17,
+   "h": 18
+  },
+  {
+   "n": "Macarrão de Sêmola Vitarella Parafuso/ Penne Pacote com 400g",
+   "p": "3,79",
+   "u": "un",
+   "x": 42,
+   "y": 39,
+   "w": 17,
+   "h": 18
+  },
+  {
+   "n": "Café Santa Clara Almofada/ Vácuo Pacote com 250g",
+   "p": "14,99",
+   "u": "un",
+   "x": 62,
+   "y": 39,
+   "w": 17,
+   "h": 18
+  },
+  {
+   "n": "Café Solúvel Melitta Tradicional/ Extra Forte Sachê com 40g",
+   "p": "4,49",
+   "u": "un",
+   "x": 82,
+   "y": 39,
+   "w": 16,
+   "h": 18
+  },
+  {
+   "n": "Café Gourmet Melitta Sul de Minas/ Mogiana Pouch com 250g",
+   "p": "21,98",
+   "u": "un",
+   "x": 3,
+   "y": 58,
+   "w": 17,
+   "h": 18
+  },
+  {
+   "n": "Farofa Kodilar Temperada Pacote com 400g",
+   "p": "4,98",
+   "u": "un",
+   "x": 23,
+   "y": 58,
+   "w": 17,
+   "h": 18
+  },
+  {
+   "n": "Chocolate Hershey's Vários Sabores Unidade com 82g",
+   "p": "5,99",
+   "u": "un",
+   "x": 42,
+   "y": 58,
+   "w": 17,
+   "h": 18
+  },
+  {
+   "n": "Chocolate Snickers Vários Sabores Unidade com 45g",
+   "p": "3,89",
+   "u": "un",
+   "x": 62,
+   "y": 58,
+   "w": 17,
+   "h": 18
+  },
+  {
+   "n": "Maionese Hellmann's Sachê com 200g",
+   "p": "4,69",
+   "u": "un",
+   "x": 82,
+   "y": 58,
+   "w": 16,
+   "h": 18
+  },
+  {
+   "n": "Milho Verde Bonare Pouch com 170g",
+   "p": "2,89",
+   "u": "un",
+   "x": 3,
+   "y": 77,
+   "w": 17,
+   "h": 19
+  },
+  {
+   "n": "Farinha de Mandioca Yoki Temperada Pacote com 800g",
+   "p": "12,90",
+   "u": "un",
+   "x": 23,
+   "y": 77,
+   "w": 17,
+   "h": 19
+  },
+  {
+   "n": "Tempero Sazón Vários Sabores Pacote com 60g",
+   "p": "4,38",
+   "u": "un",
+   "x": 42,
+   "y": 77,
+   "w": 17,
+   "h": 19
+  },
+  {
+   "n": "Pão de Forma Plusvita Tradicional Pacote com 480g",
+   "p": "8,59",
+   "u": "un",
+   "x": 62,
+   "y": 77,
+   "w": 17,
+   "h": 19
+  },
+  {
+   "n": "Leite de Coco Bom Coco Pet com 500ml",
+   "p": "2,99",
+   "u": "un",
+   "x": 82,
+   "y": 77,
+   "w": 16,
+   "h": 19
+  }
+ ],
+ "atacadao_529ee8d455_p4": [
+  {
+   "n": "Suco de Uva OQ Integral Tinto Garrafa com 1,5L",
+   "p": "14,90",
+   "u": "un",
+   "x": 3,
+   "y": 19,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Energético Baly Vários Sabores Lata com 473ml",
+   "p": "6,99",
+   "u": "un",
+   "x": 23,
+   "y": 19,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Refrigerante Guaraná Antarctica Original/ Zero Pet com 2L",
+   "p": "7,49",
+   "u": "un",
+   "x": 42,
+   "y": 19,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Refrigerante Guaraná Antarctica Original/ Zero Pet com 200ml",
+   "p": "1,79",
+   "u": "un",
+   "x": 62,
+   "y": 19,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Mini Refrigerante Dore Vários Sabores Pet com 250ml",
+   "p": "1,29",
+   "u": "un",
+   "x": 82,
+   "y": 19,
+   "w": 16,
+   "h": 25
+  },
+  {
+   "n": "Refrigerante Coca-Cola Zero Barcode Pack com 8x350ml",
+   "p": "26,90",
+   "u": "un",
+   "x": 3,
+   "y": 45,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Água Mineral Indaiá Sem Gás Pet com 500ml",
+   "p": "1,19",
+   "u": "un",
+   "x": 23,
+   "y": 45,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Suco Fazenda Doce Sol Uva Integral Garrafa com 1,35L",
+   "p": "11,90",
+   "u": "un",
+   "x": 42,
+   "y": 45,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Cachaça Matuta Mel e Limão Garrafa com 1L",
+   "p": "37,90",
+   "u": "un",
+   "x": 62,
+   "y": 45,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Cachaça Ypióca 150 Garrafa com 700ml",
+   "p": "47,90",
+   "u": "un",
+   "x": 82,
+   "y": 45,
+   "w": 16,
+   "h": 25
+  },
+  {
+   "n": "Cerveja Amstel Sleek Lata com 350ml",
+   "p": "3,29",
+   "u": "un",
+   "x": 3,
+   "y": 71,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Licor Amarula Garrafa com 750ml",
+   "p": "89,90",
+   "u": "un",
+   "x": 23,
+   "y": 71,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Tequila Jose Cuervo Gold Garrafa com 750ml",
+   "p": "124,90",
+   "u": "un",
+   "x": 42,
+   "y": 71,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Vodka Orloff Garrafa com 1L",
+   "p": "24,90",
+   "u": "un",
+   "x": 62,
+   "y": 71,
+   "w": 17,
+   "h": 25
+  },
+  {
+   "n": "Vinho Adega do Vale Vários Tipos Garrafa com 750ml",
+   "p": "16,90",
+   "u": "un",
+   "x": 82,
+   "y": 71,
+   "w": 16,
+   "h": 25
+  }
+ ],
+ "atacadao_529ee8d455_p5": [
+  {
+   "n": "Absorvente Sempre Livre Conforto Noturno Suave Pacote com 8 Unidades",
+   "p": "6,99",
+   "u": "un",
+   "x": 3,
+   "y": 18,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Creme Dental Colgate Vários Tipos Tubo com 220g",
+   "p": "14,90",
+   "u": "un",
+   "x": 23,
+   "y": 18,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Papel Higiênico Fofex Soft Folha Simples 30m Pacote com 4 Rolos",
+   "p": "3,20",
+   "u": "un",
+   "x": 42,
+   "y": 18,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Sabonete Líquido Johnson's Baby Várias Fragrâncias Refil com 180ml",
+   "p": "11,90",
+   "u": "un",
+   "x": 62,
+   "y": 18,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Sabonete Palmolive Naturals Vários Tipos Unidade com 85g",
+   "p": "2,39",
+   "u": "un",
+   "x": 82,
+   "y": 18,
+   "w": 16,
+   "h": 16
+  },
+  {
+   "n": "Protetor Diário Sym Sem Perfume Pacote com 80 Unidades",
+   "p": "15,50",
+   "u": "un",
+   "x": 3,
+   "y": 35,
+   "w": 17,
+   "h": 15
+  },
+  {
+   "n": "Sabonete Phebo Várias Fragrâncias Unidade com 90g",
+   "p": "3,99",
+   "u": "un",
+   "x": 23,
+   "y": 35,
+   "w": 17,
+   "h": 15
+  },
+  {
+   "n": "Aparelho de Barbear Gillette Prestobarba 3 Sensitive/ Tradicional Blister com 4 Unidades",
+   "p": "26,90",
+   "u": "un",
+   "x": 42,
+   "y": 35,
+   "w": 17,
+   "h": 15
+  },
+  {
+   "n": "Colônia Seiva de Alfazema Lavanda Frasco com 118ml",
+   "p": "16,90",
+   "u": "un",
+   "x": 62,
+   "y": 35,
+   "w": 17,
+   "h": 15
+  },
+  {
+   "n": "Creme Dental Oral-B 4 em 1 Tubo com 70g",
+   "p": "4,29",
+   "u": "un",
+   "x": 82,
+   "y": 35,
+   "w": 16,
+   "h": 15
+  },
+  {
+   "n": "Creme para Pentear Pantene Vários Tipos Frasco com 240g",
+   "p": "13,90",
+   "u": "un",
+   "x": 3,
+   "y": 51,
+   "w": 17,
+   "h": 14
+  },
+  {
+   "n": "Papel Higiênico Rose Folha Simples 20m Pacote com 12 Rolos Leve 12 Pague 11",
+   "p": "6,99",
+   "u": "un",
+   "x": 23,
+   "y": 51,
+   "w": 17,
+   "h": 14
+  },
+  {
+   "n": "Aparelho de Barbear Bic Flex 3 Blister com 4 Unidades Leve 4 Pague 3",
+   "p": "17,90",
+   "u": "un",
+   "x": 42,
+   "y": 51,
+   "w": 17,
+   "h": 14
+  },
+  {
+   "n": "Shampoo OX Vários Tipos Frasco com 400ml",
+   "p": "27,90",
+   "u": "un",
+   "x": 62,
+   "y": 51,
+   "w": 17,
+   "h": 14
+  },
+  {
+   "n": "Condicionador OX Vários Tipos Frasco com 400ml",
+   "p": "29,90",
+   "u": "un",
+   "x": 82,
+   "y": 51,
+   "w": 16,
+   "h": 14
+  },
+  {
+   "n": "Lava Roupas Líquido Ala Cuidado do Coco/ Lavanda Bombona com 3L",
+   "p": "17,90",
+   "u": "un",
+   "x": 3,
+   "y": 68,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Álcool Tubarão 46º INPM Frasco com 200ml",
+   "p": "2,79",
+   "u": "un",
+   "x": 23,
+   "y": 68,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Alvejante Brillux Bombona com 5L Leve 5L Pague 4,5L",
+   "p": "17,90",
+   "u": "un",
+   "x": 42,
+   "y": 68,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Desinfetante Guarani Vários Tipos Frasco com 2L",
+   "p": "4,69",
+   "u": "un",
+   "x": 62,
+   "y": 68,
+   "w": 17,
+   "h": 16
+  },
+  {
+   "n": "Detergente Líquido Ypê Clear/ Neutro Bombona com 5L",
+   "p": "18,90",
+   "u": "un",
+   "x": 82,
+   "y": 68,
+   "w": 16,
+   "h": 16
+  },
+  {
+   "n": "Lava Roupas em Pó Assim Triplação Bicarbonato Pacote com 1,6kg",
+   "p": "14,90",
+   "u": "un",
+   "x": 3,
+   "y": 85,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Limpador Multiuso Dragão Classic/ Campestre Frasco com 500ml",
+   "p": "3,49",
+   "u": "un",
+   "x": 23,
+   "y": 85,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Alvejante para Roupa Dragão Multiuso Frasco com 1L",
+   "p": "3,29",
+   "u": "un",
+   "x": 42,
+   "y": 85,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Limpador Perfumado Casa & Perfume Vários Tipos Frasco com 1L",
+   "p": "7,90",
+   "u": "un",
+   "x": 62,
+   "y": 85,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Inseticida Aerossol SBP Vários Tipos Tubo com 380ml",
+   "p": "15,90",
+   "u": "un",
+   "x": 82,
+   "y": 85,
+   "w": 16,
+   "h": 13
+  }
+ ],
+ "atacadao_529ee8d455_p6": [
+  {
+   "n": "Toalha de Papel Splash Interfolhas Branca Pacote com 1000 Folhas",
+   "p": "23,90",
+   "u": "un",
+   "x": 3,
+   "y": 14,
+   "w": 47,
+   "h": 12
+  },
+  {
+   "n": "Copo Americano Nadir Ref. 2010 Unidade",
+   "p": "1,29",
+   "u": "un",
+   "x": 52,
+   "y": 14,
+   "w": 45,
+   "h": 12
+  },
+  {
+   "n": "Caixa Térmica Tropical Soprano Várias Cores 28L Unidade",
+   "p": "79,00",
+   "u": "un",
+   "x": 3,
+   "y": 27,
+   "w": 47,
+   "h": 13
+  },
+  {
+   "n": "Folha de Alumínio Wyda 30cm x 7,5m Rolo",
+   "p": "5,49",
+   "u": "un",
+   "x": 52,
+   "y": 27,
+   "w": 45,
+   "h": 13
+  },
+  {
+   "n": "Garrafa Térmica Personal Termolar Azul 1L Unidade",
+   "p": "33,00",
+   "u": "un",
+   "x": 3,
+   "y": 41,
+   "w": 47,
+   "h": 13
+  },
+  {
+   "n": "Pote Redondo Biovita Plasvale 1L Ref. 241 Unidade",
+   "p": "2,99",
+   "u": "un",
+   "x": 52,
+   "y": 41,
+   "w": 45,
+   "h": 13
+  },
+  {
+   "n": "Pote Retangular Plasvale 900ml Unidade",
+   "p": "2,99",
+   "u": "un",
+   "x": 3,
+   "y": 55,
+   "w": 47,
+   "h": 13
+  },
+  {
+   "n": "Kit Pote Plasvale Mais 530ml Conjunto com 4 Unidades",
+   "p": "6,90",
+   "u": "un",
+   "x": 52,
+   "y": 55,
+   "w": 45,
+   "h": 13
+  },
+  {
+   "n": "Pá de Lixo Plástica Noviça Com Cabo Unidade",
+   "p": "21,90",
+   "u": "un",
+   "x": 3,
+   "y": 68,
+   "w": 47,
+   "h": 13
+  },
+  {
+   "n": "Saco de Lixo Embalixo Reforçado 30L Rolo com 50 Unidades",
+   "p": "22,90",
+   "u": "un",
+   "x": 52,
+   "y": 68,
+   "w": 45,
+   "h": 13
+  }
+ ],
+ "nosso_cd8b045379_p1": [
+  {
+   "n": "Bombom Garoto 220g",
+   "p": "9,48",
+   "u": "un",
+   "x": 4,
+   "y": 17,
+   "w": 15,
+   "h": 21
+  },
+  {
+   "n": "Leite Condensado Italac 395g",
+   "p": "5,85",
+   "u": "un",
+   "x": 20,
+   "y": 17,
+   "w": 15,
+   "h": 21
+  },
+  {
+   "n": "Macarrão Aliança 400g",
+   "p": "1,65",
+   "u": "un",
+   "x": 35,
+   "y": 17,
+   "w": 15,
+   "h": 21
+  },
+  {
+   "n": "Óleo de Soja Coamo 900ml",
+   "p": "7,38",
+   "u": "un",
+   "x": 50,
+   "y": 17,
+   "w": 15,
+   "h": 21
+  },
+  {
+   "n": "Leite em Pó Bom Gosto 700g Integral",
+   "p": "19,68",
+   "u": "un",
+   "x": 65,
+   "y": 17,
+   "w": 15,
+   "h": 21
+  },
+  {
+   "n": "Café Pilão 250g",
+   "p": "11,38",
+   "u": "un",
+   "x": 80,
+   "y": 17,
+   "w": 16,
+   "h": 21
+  },
+  {
+   "n": "Carne Bovina Costela Ponta de Agulha",
+   "p": "21,48",
+   "u": "kg",
+   "x": 4,
+   "y": 40,
+   "w": 17,
+   "h": 17
+  },
+  {
+   "n": "Carne Bovina Coxão Mole",
+   "p": "38,98",
+   "u": "kg",
+   "x": 22,
+   "y": 40,
+   "w": 17,
+   "h": 17
+  },
+  {
+   "n": "Ponta de Costela Suína",
+   "p": "13,48",
+   "u": "kg",
+   "x": 40,
+   "y": 40,
+   "w": 17,
+   "h": 17
+  },
+  {
+   "n": "Filé de Peito Aurora 1kg Bandeja",
+   "p": "16,98",
+   "u": "un",
+   "x": 58,
+   "y": 40,
+   "w": 17,
+   "h": 17
+  },
+  {
+   "n": "Linguiça Aurora Suína ou Frango",
+   "p": "15,98",
+   "u": "kg",
+   "x": 76,
+   "y": 40,
+   "w": 17,
+   "h": 17
+  },
+  {
+   "n": "Cerveja Brahma 350ml Lata",
+   "p": "3,18",
+   "u": "un",
+   "x": 4,
+   "y": 58,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Cerveja Spaten 350ml Lata",
+   "p": "4,38",
+   "u": "un",
+   "x": 22,
+   "y": 58,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Vinho Quinta do Morgado 750ml (Exceto Bordô)",
+   "p": "14,98",
+   "u": "un",
+   "x": 40,
+   "y": 58,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Whisky Red Label 1L",
+   "p": "76,98",
+   "u": "un",
+   "x": 58,
+   "y": 58,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Refrigerante Kuat Guaraná 2 Litros",
+   "p": "7,38",
+   "u": "un",
+   "x": 76,
+   "y": 58,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Tomate Cajá ou Longa Vida",
+   "p": "3,98",
+   "u": "kg",
+   "x": 4,
+   "y": 72,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Alho Redinha 180g ou 200g",
+   "p": "4,98",
+   "u": "kg",
+   "x": 22,
+   "y": 72,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Laranja Pêra",
+   "p": "1,78",
+   "u": "kg",
+   "x": 40,
+   "y": 72,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Tangerina Nacional",
+   "p": "6,98",
+   "u": "kg",
+   "x": 58,
+   "y": 72,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Ovos Brancos ou Vermelhos Grandes ou Extras Bandeja com 30",
+   "p": "14,88",
+   "u": "un",
+   "x": 76,
+   "y": 72,
+   "w": 20,
+   "h": 13
+  },
+  {
+   "n": "Creme Dental Colgate Total 12 90g",
+   "p": "9,48",
+   "u": "un",
+   "x": 4,
+   "y": 86,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Desodorante Aerosol Dove 90g Original",
+   "p": "13,88",
+   "u": "un",
+   "x": 22,
+   "y": 86,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Água Sanitária Limpa Fácil ou Clorito 1L",
+   "p": "1,85",
+   "u": "un",
+   "x": 40,
+   "y": 86,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Amaciante de Roupa Sonho L2P 1,8L",
+   "p": "8,48",
+   "u": "un",
+   "x": 58,
+   "y": 86,
+   "w": 17,
+   "h": 13
+  },
+  {
+   "n": "Ração Chanin 1kg",
+   "p": "9,98",
+   "u": "un",
+   "x": 76,
+   "y": 86,
+   "w": 20,
+   "h": 13
+  }
  ]
 }

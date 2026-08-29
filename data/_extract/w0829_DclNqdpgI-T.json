@@ -1,0 +1,37 @@
+{
+  "shortcode": "DclNqdpgI-T",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-27",
+  "fim": "2026-08-28",
+  "titulo": "Feirão Horti Fruti",
+  "pages": {
+    "DclNqdpgI-T_p1": [
+      {"n": "Melão Japonês", "p": "3,49", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "DclNqdpgI-T_p2": [
+      {"n": "Tomate", "p": "3,49", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "DclNqdpgI-T_p3": [
+      {"n": "Melão Português, Orange ou Gália", "p": "3,89", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "DclNqdpgI-T_p4": [
+      {"n": "Uva Vitória Sem Sementes Bdj 500g", "p": "4,39", "u": "cada", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "DclNqdpgI-T_p5": [
+      {"n": "Alface Crespa, Coentro ou Couve Manteiga Unid", "p": "1,49", "u": "cada", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "DclNqdpgI-T_p6": [
+      {"n": "Jerimum Leite", "p": "1,89", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "DclNqdpgI-T_p7": [
+      {"n": "Chuchu", "p": "2,89", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "DclNqdpgI-T_p8": [
+      {"n": "Goma de Mandioca Sinhá Maria 1kg", "p": "4,39", "u": "cada", "x": 8, "y": 34, "w": 84, "h": 56}
+    ],
+    "DclNqdpgI-T_p9": [
+      {"n": "Batatinha", "p": "4,49", "u": "kg", "x": 8, "y": 34, "w": 84, "h": 56}
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "certos": [
+    {
+      "k": "batata pre-frita mccain congelada 2kg || batata pre-frita mccain congelada pacote com 2kg",
+      "a": "Batata Pré-frita McCain Congelada 2kg",
+      "b": "Batata Pré-Frita McCain Congelada Pacote com 2Kg",
+      "veredito": "mesmo"
+    },
+    {
+      "k": "vinagre de alcool palmeiron 500ml || vinagre de alcool sadio 500ml",
+      "a": "Vinagre de Álcool SADIO 500ml",
+      "b": "Vinagre de Álcool Palmeiron 500ml",
+      "veredito": "diferente"
+    },
+    {
+      "k": "cerveja praya s/ gluten long neck 330ml || cerveja praya s/gluten gf 330ml",
+      "a": "Cerveja Praya s/ Glúten Long Neck 330ml",
+      "b": "Cerveja Praya S/Gluten GF 330ml",
+      "veredito": "mesmo"
+    },
+    {
+      "k": "banana prata ou pacovan kg || banana prata/pacovan",
+      "a": "Banana Prata ou Pacovan kg",
+      "b": "Banana Prata/Pacovan",
+      "veredito": "mesmo"
+    },
+    {
+      "k": "capa de file bovino resfriada a vacuo || capa de file bovino resfriada kg",
+      "a": "Capa de Filé Bovino Resfriada a Vácuo",
+      "b": "Capa de Filé Bovino Resfriada kg",
+      "veredito": "mesmo"
+    },
+    {
+      "k": "chocolate choco trio nestle sabores tablete 90g || chocolate recheado nestle sabores tablete 90g",
+      "a": "Chocolate Recheado Nestlé Sabores Tablete 90g",
+      "b": "Chocolate Choco Trio Nestlé Sabores Tablete 90g",
+      "veredito": "diferente"
+    },
+    {
+      "k": "carne bovina maminha kg || carne bovina picanha kg",
+      "a": "Carne Bovina Picanha kg",
+      "b": "Carne Bovina Maminha kg",
+      "veredito": "diferente"
+    },
+    {
+      "k": "cafe santa clara classico 250g || cafe santa clara classico almofada 250g",
+      "a": "Café Santa Clara Clássico Almofada 250g",
+      "b": "Café Santa Clara Clássico 250g",
+      "veredito": "mesmo"
+    },
+    {
+      "k": "sandalia aloha havaianas varios tamanhos branca par || sandalia track waves havaianas varios tamanhos branco par",
+      "a": "Sandália Track Waves Havaianas vários tamanhos Branco par",
+      "b": "Sandalia Aloha Havaianas Varios Tamanhos Branca Par",
+      "veredito": "diferente"
+    },
+    {
+      "k": "papel higienico folha dupla personal vip leve 24 pague 22 rolos 30m || papel higienico folha dupla velud vip leve 16 pague 15 rolos 30m",
+      "a": "Papel Higiênico Folha Dupla Personal Vip Leve 24 Pague 22 Rolos 30m",
+      "b": "Papel Higiênico Folha Dupla Velud Vip Leve 16 Pague 15 Rolos 30m",
+      "veredito": "diferente"
+    },
+    {
+      "k": "carne bovina maminha kg || carne bovina patinho kg",
+      "a": "Carne Bovina Patinho kg",
+      "b": "Carne Bovina Maminha kg",
+      "veredito": "diferente"
+    },
+    {
+      "k": "agua sanitaria dragao bombona com 5l || agua sanitaria ype bombona com 5l",
+      "a": "Água Sanitária Ypê Bombona com 5L",
+      "b": "Agua Sanitaria Dragao Bombona com 5L",
+      "veredito": "diferente"
+    }
+  ],
+  "incertos": [
+    {
+      "k": "refrigerante pepsi cola / zero pet com 2l || refrigerante pepsi cola pet 2l",
+      "a": "Refrigerante Pepsi Cola PET 2L",
+      "b": "Refrigerante Pepsi Cola / Zero Pet com 2L"
+    }
+  ]
+}

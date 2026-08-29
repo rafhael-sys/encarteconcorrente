@@ -1,0 +1,40 @@
+{
+  "shortcode": "DcmgFJvmXeZ",
+  "discard": false,
+  "discard_reason": "",
+  "inicio": "2026-08-29",
+  "fim": "2026-08-31",
+  "titulo": "Mês do Cliente — Ofertas de sábado a segunda",
+  "pages": {
+    "DcmgFJvmXeZ_p1": [
+      {"n": "Farofa de Israel SC 500g (exceto Ceasa)", "p": "27,99", "u": "cada", "x": 4, "y": 29, "w": 92, "h": 55}
+    ],
+    "DcmgFJvmXeZ_p2": [
+      {"n": "Picanha Suína Temperada Nutribras congelada", "p": "26,99", "u": "kg", "x": 4, "y": 29, "w": 92, "h": 55}
+    ],
+    "DcmgFJvmXeZ_p3": [
+      {"n": "Manteiga Itambé com sal PT 500g", "p": "20,49", "u": "cada", "x": 4, "y": 29, "w": 92, "h": 55}
+    ],
+    "DcmgFJvmXeZ_p4": [
+      {"n": "Sorvete Kibon Cremosíssimo sabores PT 1,5L", "p": "19,79", "u": "cada", "x": 4, "y": 28, "w": 92, "h": 56}
+    ],
+    "DcmgFJvmXeZ_p5": [
+      {"n": "Costela Suína Premium Sadia congelada", "p": "14,99", "u": "kg", "x": 4, "y": 29, "w": 92, "h": 55}
+    ],
+    "DcmgFJvmXeZ_p6": [
+      {"n": "Almôndega Chuletão mista congelada 1kg", "p": "12,99", "u": "cada", "x": 4, "y": 27, "w": 92, "h": 57}
+    ],
+    "DcmgFJvmXeZ_p7": [
+      {"n": "Frango a Passarinho Bom Todo temperado IQF 1kg", "p": "11,98", "u": "cada", "x": 4, "y": 28, "w": 92, "h": 56}
+    ],
+    "DcmgFJvmXeZ_p8": [
+      {"n": "Mortadela de Frango Friato peça ou pedaço", "p": "6,79", "u": "kg", "x": 4, "y": 30, "w": 92, "h": 54}
+    ],
+    "DcmgFJvmXeZ_p9": [
+      {"n": "Fígado de Frango Perdigão congelado SC 1kg", "p": "5,49", "u": "cada", "x": 4, "y": 29, "w": 92, "h": 55}
+    ],
+    "DcmgFJvmXeZ_p10": [
+      {"n": "Steak de Frango Perdigão 100g", "p": "1,65", "u": "cada", "x": 4, "y": 25, "w": 92, "h": 58}
+    ]
+  }
+}
