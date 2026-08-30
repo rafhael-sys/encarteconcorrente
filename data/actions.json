@@ -17986,5 +17986,23 @@
   ],
   "fonte": "web",
   "link": "https://www.nossoatacarejo.com.br/encarte/nosso-final-de-semana-rn/5"
+ },
+ {
+  "id": "atacadao_57b3b44303",
+  "perfil": "atacadao.com.br",
+  "titulo": "Boa do Dia",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-08-30",
+  "fim": "2026-08-30",
+  "carrossel": false,
+  "shortcode": "atacadao_57b3b44303",
+  "caption": "Boa do Dia",
+  "adicionado_em": "2026-08-30",
+  "paginas": [
+   "atacadao_57b3b44303_p1.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
  }
 ]

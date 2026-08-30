@@ -28260,5 +28260,386 @@
   "b": "Bolacha Felitá Chef 200g (Manteiga do Sertão)",
   "veredito": "diferente",
   "quando": "2026-08-29"
+ },
+ "molho para salada liza queijo 234ml || molho para salada liza queijos 234ml": {
+  "a": "Molho para Salada Liza Queijos 234ml",
+  "b": "Molho para Salada Liza Queijo 234ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "achocolatado em po nescau profissional 2,01kg || achocolatado em po nescau profissional sc 2,01kg": {
+  "a": "Achocolatado em Po Nescau Profissional 2,01kg",
+  "b": "Achocolatado em Pó Nescau Profissional SC 2,01kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "detergente em po omo lavagem perfeita 1,6kg || detergente em po omo lavagem perfeita sc 1,6kg": {
+  "a": "Detergente em Pó Omo Lavagem Perfeita 1,6kg",
+  "b": "Detergente em Pó Omo Lavagem Perfeita SC 1,6kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "presunto de peru perdigao peca ou fatiado || presunto de peru perdigao peca ou fatiado kg": {
+  "a": "Presunto de Peru Perdigão Peça ou Fatiado",
+  "b": "Presunto de Peru Perdigão Peça ou Fatiado kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "passata de tomate pomarola chef sache 300g || passata de tomate pomarola chef sc 300g": {
+  "a": "Passata de Tomate Pomarola Chef SC 300g",
+  "b": "Passata de Tomate Pomarola Chef Sachê 300g",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "bombom amor carioca tradicional branco ou duo 200g || bombom amor carioca tradicional, branco ou duo cx 200g": {
+  "a": "Bombom Amor Carioca Tradicional Branco ou Duo 200g",
+  "b": "Bombom Amor Carioca Tradicional, Branco ou Duo CX 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "creme para pentear pantene varios tipos frasco 240g || creme para pentear pantene varios tipos frasco com 240g": {
+  "a": "Creme para Pentear Pantene vários tipos frasco 240g",
+  "b": "Creme para Pentear Pantene Vários Tipos Frasco com 240g",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "mini refrigerante dore varios sabores pet 250ml || mini refrigerante dore varios sabores pet com 250ml": {
+  "a": "Mini Refrigerante Dore Vários Sabores Pet 250ml",
+  "b": "Mini Refrigerante Dore Vários Sabores Pet com 250ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "farinha de mandioca yoki temperada pacote 800g || farinha de mandioca yoki temperada pacote com 800g": {
+  "a": "Farinha de Mandioca Yoki Temperada Pacote 800g",
+  "b": "Farinha de Mandioca Yoki Temperada Pacote com 800g",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "figado bovino congelada || figado bovino congelado": {
+  "a": "Fígado Bovino Congelado",
+  "b": "Fígado Bovino Congelada",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "desinfetante guarani varios tipos frasco 2l || desinfetante guarani varios tipos frasco com 2l": {
+  "a": "Desinfetante Guarani Vários Tipos Frasco 2L",
+  "b": "Desinfetante Guarani Vários Tipos Frasco com 2L",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "manteiga itambe resfriada com sal pote 500g || manteiga itambe resfriada com sal pote com 500g": {
+  "a": "Manteiga Itambé Resfriada com sal pote 500g",
+  "b": "Manteiga Itambé Resfriada Com Sal Pote com 500g",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "galinha leve q'delicia congelada || galinha leve q'delicia congelada kg": {
+  "a": "Galinha Leve Q'Delícia Congelada",
+  "b": "Galinha Leve Q'Delícia Congelada kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "energetico baly varios sabores lata 473ml || energetico baly varios sabores lata com 473ml": {
+  "a": "Energético Baly vários sabores lata 473ml",
+  "b": "Energético Baly Vários Sabores Lata com 473ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "molho pesto pomarola chef 190g || molho pesto pomarola chef vd 190g": {
+  "a": "Molho Pesto Pomarola Chef VD 190g",
+  "b": "Molho Pesto Pomarola Chef 190g",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "cachaca caranguejo prata 350ml || cachaca caranguejo prata lt 350ml": {
+  "a": "Cachaça Caranguejo Prata LT 350ml",
+  "b": "Cachaça Caranguejo Prata 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "leite condensado damare 395g || leite condensado damare tp 395g": {
+  "a": "Leite Condensado Damare 395g",
+  "b": "Leite Condensado Damare TP 395g",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "cachaca caranguejo lata 350ml || cachaca caranguejo prata 350ml": {
+  "a": "Cachaça Caranguejo Lata 350ml",
+  "b": "Cachaça Caranguejo Prata 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "agua mineral indaia sem gas pet 500ml || agua mineral indaia sem gas pet com 500ml": {
+  "a": "Água Mineral Indaiá Sem Gás Pet 500ml",
+  "b": "Água Mineral Indaiá Sem Gás Pet com 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "goma de tapioca ouro fino 1kg || goma tapioca ouro fino 1kg": {
+  "a": "Goma Tapioca Ouro Fino 1kg",
+  "b": "Goma de Tapioca Ouro Fino 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "creme dental colgate total 12 90g || creme dental colgate total tb 90g": {
+  "a": "Creme Dental Colgate Total 12 90g",
+  "b": "Creme Dental Colgate Total tb 90g",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "creme de leite ccgl tp 200g || creme de leite ccgl tp com 200g": {
+  "a": "Creme de Leite CCGL TP 200g",
+  "b": "Creme de Leite CCGL TP com 200g",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "dueto fugini sache 170g || dueto fugini sc 170g": {
+  "a": "Dueto FUGINI Sachê 170g",
+  "b": "Dueto Fugini SC 170g",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "milho verde ou dueto fugini pct 170g || milho verde ou dueto fugini sache 170g": {
+  "a": "Milho Verde ou Dueto Fugini Sachê 170g",
+  "b": "Milho Verde ou Dueto Fugini pct 170g",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "dueto fugini 170g || dueto fugini sc 170g": {
+  "a": "Dueto Fugini 170g",
+  "b": "Dueto Fugini SC 170g",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "azeite de oliva gomes da costa extra virgem 500ml || azeite de oliva gomes da costa extra virgem vidro com 500ml": {
+  "a": "Azeite de Oliva Gomes da Costa Extra Virgem 500ml",
+  "b": "Azeite de Oliva Gomes da Costa Extra Virgem Vidro com 500ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "papel higienico fofex soft folha simples 30m 4 rolos || papel higienico fofex soft folha simples 30m pacote com 4 rolos": {
+  "a": "Papel Higiênico Fofex Soft Folha Simples 30m 4 rolos",
+  "b": "Papel Higiênico Fofex Soft Folha Simples 30m Pacote com 4 Rolos",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "lava roupas em po assim triplacao bicarbonato pacote com 1,6kg || lava-roupas em po assim triplacao bicarbonato 1,6kg": {
+  "a": "Lava-Roupas em Pó Assim Triplação Bicarbonato 1,6kg",
+  "b": "Lava Roupas em Pó Assim Triplação Bicarbonato Pacote com 1,6kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "farinha de trigo rosa branca 1kg || farinha de trigo tipo 1 rosa branca 1kg": {
+  "a": "Farinha de Trigo Tipo 1 Rosa Branca 1kg",
+  "b": "Farinha de Trigo Rosa Branca 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "goma de tapioca ouro fino 1kg || goma para tapioca ouro fino 1kg": {
+  "a": "Goma para Tapioca Ouro Fino 1kg",
+  "b": "Goma de Tapioca Ouro Fino 1kg",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "figado bovino congelada || figado bovino congelado kg": {
+  "a": "Fígado Bovino Congelado kg",
+  "b": "Fígado Bovino Congelada",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "absorvente sempre livre especial suave com abas pct leve 16 pague 14 || absorvente sempre livre suave com abas leve 16 pague 14": {
+  "a": "Absorvente Sempre Livre Suave com Abas Leve 16 Pague 14",
+  "b": "Absorvente Sempre Livre Especial Suave com Abas pct Leve 16 Pague 14",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "bebida lactea whey itambe varios sabores tp com 250ml || bebida lactea whey zero lactose itambe varios sabores tp com 250ml": {
+  "a": "Bebida Láctea Whey Zero Lactose Itambé Vários sabores TP com 250ml",
+  "b": "Bebida Láctea Whey Itambé Vários Sabores TP com 250ml",
+  "veredito": "mesmo",
+  "quando": "2026-08-30",
+  "aplicado": true
+ },
+ "absorvente sempre livre conforto noturno suave pacote com 16 unidades || absorvente sempre livre conforto noturno suave pacote com 8 unidades": {
+  "a": "Absorvente Sempre Livre Conforto noturno Suave Pacote com 16 unidades",
+  "b": "Absorvente Sempre Livre Conforto Noturno Suave Pacote com 8 Unidades",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "file de peito de frango aurora ou seara congelado bd 1kg || filezinho de peito de frango aurora ou seara congelado bd 1kg": {
+  "a": "Filé de Peito de Frango Aurora ou Seara Congelado bd 1kg",
+  "b": "Filezinho de Peito de Frango Aurora ou Seara Congelado bd 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "file de peito de frango aurora congelado bandeja com 1kg || file de peito de frango seara congelado bandeja com 1kg": {
+  "a": "Filé de Peito de Frango Seara Congelado Bandeja com 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "file de peito de frango aurora congelado bandeja com 1kg || file de peito de frango lar congelado bandeja com 1kg": {
+  "a": "File de Peito de Frango Lar Congelado Bandeja com 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "carne bovina fraldinha friboi resfriada preco por quilo na peca || carne bovina maminha friboi resfriada preco por quilo na peca": {
+  "a": "Carne Bovina Fraldinha Friboi Resfriada Preço por Quilo na Peça",
+  "b": "Carne Bovina Maminha Friboi Resfriada Preço por Quilo na Peça",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "cachaca caranguejo prata 12x350ml || cachaca caranguejo prata 350ml": {
+  "a": "Cachaça Caranguejo Prata 12x350ml",
+  "b": "Cachaça Caranguejo Prata 350ml",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "papel higienico rose folha dupla - 20m pacote com 12 rolos (leve 12 pague 11) || papel higienico rose folha simples 20m pacote com 12 rolos leve 12 pague 11": {
+  "a": "Papel Higiênico Rose Folha Dupla - 20m Pacote com 12 rolos (Leve 12 Pague 11)",
+  "b": "Papel Higiênico Rose Folha Simples 20m Pacote com 12 Rolos Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "desinfetante guarani varios tipos frasco com 2l || desinfetante urca varios tipos frasco com 2l": {
+  "a": "Desinfetante Urca Vários Tipos Frasco com 2L",
+  "b": "Desinfetante Guarani Vários Tipos Frasco com 2L",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "file de peito de frango aurora congelado bandeja com 1kg || file de peito de frango sadia congelado bandeja com 1kg": {
+  "a": "File de Peito de Frango Sadia Congelado Bandeja com 1kg",
+  "b": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "linguica de carne suina saudali congelada kg || linguica de carne suina seara congelada kg": {
+  "a": "Linguiça de Carne Suína Seara Congelada kg",
+  "b": "Linguiça de Carne Suína Saudali Congelada kg",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "coxa c/ sobrecoxa congelada || coxa c/ sobrecoxa lar congelada": {
+  "a": "Coxa c/ Sobrecoxa Congelada",
+  "b": "Coxa c/ Sobrecoxa Lar Congelada",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "manteiga itacolomy resfriada com sal pote com 500g || manteiga itambe resfriada com sal pote com 500g": {
+  "a": "Manteiga Itacolomy Resfriada Com Sal Pote com 500g",
+  "b": "Manteiga Itambé Resfriada Com Sal Pote com 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "batata pre-frita masterboi congelada pacote com 2kg || batata pre-frita natto congelada pacote com 2kg": {
+  "a": "Batata Pré-Frita Masterboi Congelada Pacote com 2kg",
+  "b": "Batata Pré-Frita Natto Congelada Pacote com 2kg",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "papel higienico familiar soft folha simples 30m pacote com 4 rolos || papel higienico fofex soft folha simples 30m pacote com 4 rolos": {
+  "a": "Papel Higiênico Familiar Soft Folha Simples 30m Pacote com 4 rolos",
+  "b": "Papel Higiênico Fofex Soft Folha Simples 30m Pacote com 4 Rolos",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "papel higienico sublime folha dupla 20m 4 unids || papel higienico sublime noble folha dupla 20m 12 unids": {
+  "a": "Papel Higiênico Sublime Folha Dupla 20m 4 unids",
+  "b": "Papel Higiênico Sublime Noble Folha Dupla 20m 12 Unids",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "batata pre-frita natto congelada pacote com 2kg || batata pre-frita rapmix congelada pacote com 2kg": {
+  "a": "Batata Pré-Frita Natto Congelada Pacote com 2kg",
+  "b": "Batata Pré-Frita Rapmix Congelada Pacote com 2kg",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "manteiga itambe resfriada com sal pote com 500g || manteiga tirolez resfriada com sal pote com 500g": {
+  "a": "Manteiga Tirolez Resfriada com sal Pote com 500g",
+  "b": "Manteiga Itambé Resfriada Com Sal Pote com 500g",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "bebida lactea betania sabores bdj 540g || bebida lactea clan sabores bdj 540g": {
+  "a": "Bebida Lactea Clan Sabores BDJ 540g",
+  "b": "Bebida Láctea Betânia Sabores BDJ 540g",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "macarrao parafuso estrela 400g || macarrao parafuso vitarella 400g": {
+  "a": "Macarrão Parafuso Estrela 400g",
+  "b": "Macarrão Parafuso Vitarella 400g",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "molho para salada liza caseiro 234ml || molho para salada liza queijo 234ml": {
+  "a": "Molho para Salada Liza Queijo 234ml",
+  "b": "Molho para Salada Liza Caseiro 234ml",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "molho para salada liza queijos 234ml || molho para salada liza rose 234ml": {
+  "a": "Molho para Salada Liza Queijos 234ml",
+  "b": "Molho para Salada Liza Rosé 234ml",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "molho para salada liza caseiro 234ml || molho para salada liza rose 234ml": {
+  "a": "Molho para Salada Liza Rosé 234ml",
+  "b": "Molho para Salada Liza Caseiro 234ml",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "arroz parboilizado agrodez tipo 1 1kg || arroz parboilizado seu arroz tipo 1 1kg": {
+  "a": "Arroz Parboilizado AGRODEZ Tipo 1 1kg",
+  "b": "Arroz Parboilizado Seu Arroz Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "presunto de peru perdigao peca ou fatiado kg || presunto de peru seara peca ou fatiado kg": {
+  "a": "Presunto de Peru Seara peça ou fatiado kg",
+  "b": "Presunto de Peru Perdigão Peça ou Fatiado kg",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
+ },
+ "arroz parboilizado safra tipo 1 1kg || arroz parboilizado seu arroz tipo 1 1kg": {
+  "a": "Arroz Parboilizado Safra Tipo 1 1kg",
+  "b": "Arroz Parboilizado Seu Arroz Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-08-30"
  }
 }

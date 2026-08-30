@@ -282719,5 +282719,79 @@
    "w": 20,
    "h": 13
   }
+ ],
+ "atacadao_57b3b44303_p1": [
+  {
+   "n": "Batata Lavada Quilo",
+   "p": "4,89",
+   "u": "kg",
+   "x": 5,
+   "y": 24,
+   "w": 43,
+   "h": 14
+  },
+  {
+   "n": "Abacate Quilo",
+   "p": "3,39",
+   "u": "kg",
+   "x": 52,
+   "y": 24,
+   "w": 44,
+   "h": 14
+  },
+  {
+   "n": "Lasanha Perdigão Congelada Bolonhesa/Frango Embalagem com 600g",
+   "p": "12,90",
+   "u": "un",
+   "x": 5,
+   "y": 39,
+   "w": 43,
+   "h": 14
+  },
+  {
+   "n": "Coxa com Sobrecoxa de Frango Lar Congelada Preço por quilo no pacote",
+   "p": "7,99",
+   "u": "kg",
+   "x": 52,
+   "y": 39,
+   "w": 44,
+   "h": 14
+  },
+  {
+   "n": "Refrigerante Refri Indaiá Vários sabores Pet com 2L",
+   "p": "3,99",
+   "u": "un",
+   "x": 5,
+   "y": 54,
+   "w": 43,
+   "h": 13
+  },
+  {
+   "n": "Cerveja Heineken Sleek Lata com 350ml",
+   "p": "4,69",
+   "u": "un",
+   "x": 52,
+   "y": 54,
+   "w": 44,
+   "h": 13
+  },
+  {
+   "n": "Sabonete Suave Even Várias fragrâncias Unidade com 85g",
+   "p": "1,59",
+   "u": "un",
+   "x": 5,
+   "y": 68,
+   "w": 43,
+   "h": 14
+  },
+  {
+   "n": "Papel Higiênico Rose Folha Simples 20m Pacote com 12 Rolos Leve 12 Pague 11",
+   "p": "6,95",
+   "u": "un",
+   "x": 52,
+   "y": 68,
+   "w": 44,
+   "h": 14
+  }
  ]
 }

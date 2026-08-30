@@ -1,0 +1,294 @@
+{
+ "validacoes": [
+  {
+   "a": "Molho para Salada Liza Queijos 234ml",
+   "b": "Molho para Salada Liza Queijo 234ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Po Nescau Profissional 2,01kg",
+   "b": "Achocolatado em Pó Nescau Profissional SC 2,01kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente em Pó Omo Lavagem Perfeita 1,6kg",
+   "b": "Detergente em Pó Omo Lavagem Perfeita SC 1,6kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Presunto de Peru Perdigão Peça ou Fatiado",
+   "b": "Presunto de Peru Perdigão Peça ou Fatiado kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Passata de Tomate Pomarola Chef SC 300g",
+   "b": "Passata de Tomate Pomarola Chef Sachê 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bombom Amor Carioca Tradicional Branco ou Duo 200g",
+   "b": "Bombom Amor Carioca Tradicional, Branco ou Duo CX 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme para Pentear Pantene vários tipos frasco 240g",
+   "b": "Creme para Pentear Pantene Vários Tipos Frasco com 240g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mini Refrigerante Dore Vários Sabores Pet 250ml",
+   "b": "Mini Refrigerante Dore Vários Sabores Pet com 250ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Mandioca Yoki Temperada Pacote 800g",
+   "b": "Farinha de Mandioca Yoki Temperada Pacote com 800g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fígado Bovino Congelado",
+   "b": "Fígado Bovino Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desinfetante Guarani Vários Tipos Frasco 2L",
+   "b": "Desinfetante Guarani Vários Tipos Frasco com 2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Manteiga Itambé Resfriada com sal pote 500g",
+   "b": "Manteiga Itambé Resfriada Com Sal Pote com 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Galinha Leve Q'Delícia Congelada",
+   "b": "Galinha Leve Q'Delícia Congelada kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Energético Baly vários sabores lata 473ml",
+   "b": "Energético Baly Vários Sabores Lata com 473ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho Pesto Pomarola Chef VD 190g",
+   "b": "Molho Pesto Pomarola Chef 190g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cachaça Caranguejo Prata LT 350ml",
+   "b": "Cachaça Caranguejo Prata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Condensado Damare 395g",
+   "b": "Leite Condensado Damare TP 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cachaça Caranguejo Lata 350ml",
+   "b": "Cachaça Caranguejo Prata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Mineral Indaiá Sem Gás Pet 500ml",
+   "b": "Água Mineral Indaiá Sem Gás Pet com 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Goma Tapioca Ouro Fino 1kg",
+   "b": "Goma de Tapioca Ouro Fino 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme Dental Colgate Total 12 90g",
+   "b": "Creme Dental Colgate Total tb 90g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Leite CCGL TP 200g",
+   "b": "Creme de Leite CCGL TP com 200g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Dueto FUGINI Sachê 170g",
+   "b": "Dueto Fugini SC 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Milho Verde ou Dueto Fugini Sachê 170g",
+   "b": "Milho Verde ou Dueto Fugini pct 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Dueto Fugini 170g",
+   "b": "Dueto Fugini SC 170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Azeite de Oliva Gomes da Costa Extra Virgem 500ml",
+   "b": "Azeite de Oliva Gomes da Costa Extra Virgem Vidro com 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Fofex Soft Folha Simples 30m 4 rolos",
+   "b": "Papel Higiênico Fofex Soft Folha Simples 30m Pacote com 4 Rolos",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava-Roupas em Pó Assim Triplação Bicarbonato 1,6kg",
+   "b": "Lava Roupas em Pó Assim Triplação Bicarbonato Pacote com 1,6kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Farinha de Trigo Tipo 1 Rosa Branca 1kg",
+   "b": "Farinha de Trigo Rosa Branca 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Goma para Tapioca Ouro Fino 1kg",
+   "b": "Goma de Tapioca Ouro Fino 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fígado Bovino Congelado kg",
+   "b": "Fígado Bovino Congelada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Suave com Abas Leve 16 Pague 14",
+   "b": "Absorvente Sempre Livre Especial Suave com Abas pct Leve 16 Pague 14",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Whey Zero Lactose Itambé Vários sabores TP com 250ml",
+   "b": "Bebida Láctea Whey Itambé Vários Sabores TP com 250ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Conforto noturno Suave Pacote com 16 unidades",
+   "b": "Absorvente Sempre Livre Conforto Noturno Suave Pacote com 8 Unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Aurora ou Seara Congelado bd 1kg",
+   "b": "Filezinho de Peito de Frango Aurora ou Seara Congelado bd 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Seara Congelado Bandeja com 1kg",
+   "b": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "File de Peito de Frango Lar Congelado Bandeja com 1kg",
+   "b": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Bovina Fraldinha Friboi Resfriada Preço por Quilo na Peça",
+   "b": "Carne Bovina Maminha Friboi Resfriada Preço por Quilo na Peça",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cachaça Caranguejo Prata 12x350ml",
+   "b": "Cachaça Caranguejo Prata 350ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Rose Folha Dupla - 20m Pacote com 12 rolos (Leve 12 Pague 11)",
+   "b": "Papel Higiênico Rose Folha Simples 20m Pacote com 12 Rolos Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desinfetante Urca Vários Tipos Frasco com 2L",
+   "b": "Desinfetante Guarani Vários Tipos Frasco com 2L",
+   "veredito": "diferente"
+  },
+  {
+   "a": "File de Peito de Frango Sadia Congelado Bandeja com 1kg",
+   "b": "Filé de Peito de Frango Aurora Congelado Bandeja com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguiça de Carne Suína Seara Congelada kg",
+   "b": "Linguiça de Carne Suína Saudali Congelada kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa c/ Sobrecoxa Congelada",
+   "b": "Coxa c/ Sobrecoxa Lar Congelada",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Manteiga Itacolomy Resfriada Com Sal Pote com 500g",
+   "b": "Manteiga Itambé Resfriada Com Sal Pote com 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Pré-Frita Masterboi Congelada Pacote com 2kg",
+   "b": "Batata Pré-Frita Natto Congelada Pacote com 2kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Familiar Soft Folha Simples 30m Pacote com 4 rolos",
+   "b": "Papel Higiênico Fofex Soft Folha Simples 30m Pacote com 4 Rolos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Sublime Folha Dupla 20m 4 unids",
+   "b": "Papel Higiênico Sublime Noble Folha Dupla 20m 12 Unids",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Pré-Frita Natto Congelada Pacote com 2kg",
+   "b": "Batata Pré-Frita Rapmix Congelada Pacote com 2kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Manteiga Tirolez Resfriada com sal Pote com 500g",
+   "b": "Manteiga Itambé Resfriada Com Sal Pote com 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Lactea Clan Sabores BDJ 540g",
+   "b": "Bebida Láctea Betânia Sabores BDJ 540g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Macarrão Parafuso Estrela 400g",
+   "b": "Macarrão Parafuso Vitarella 400g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Molho para Salada Liza Queijo 234ml",
+   "b": "Molho para Salada Liza Caseiro 234ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Molho para Salada Liza Queijos 234ml",
+   "b": "Molho para Salada Liza Rosé 234ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Molho para Salada Liza Rosé 234ml",
+   "b": "Molho para Salada Liza Caseiro 234ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Parboilizado AGRODEZ Tipo 1 1kg",
+   "b": "Arroz Parboilizado Seu Arroz Tipo 1 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Presunto de Peru Seara peça ou fatiado kg",
+   "b": "Presunto de Peru Perdigão Peça ou Fatiado kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Parboilizado Safra Tipo 1 1kg",
+   "b": "Arroz Parboilizado Seu Arroz Tipo 1 1kg",
+   "veredito": "diferente"
+  }
+ ]
+}
