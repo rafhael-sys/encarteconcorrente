@@ -1,0 +1,28 @@
+{
+  "shortcode": "DchDGXIErij",
+  "validade_impressa": {"inicio": "2026-08-27", "fim": "2026-08-28"},
+  "paginas": {
+    "DchDGXIErij_p1": [
+      {"n": "Melão Espanhol", "p": "2,88", "u": "kg", "x": 2, "y": 40, "w": 17, "h": 17},
+      {"n": "Abacaxi", "p": "3,88", "u": "un", "x": 22, "y": 40, "w": 17, "h": 17},
+      {"n": "Laranja Pera", "p": "2,38", "u": "kg", "x": 42, "y": 40, "w": 17, "h": 17},
+      {"n": "Goma Fresca Caicó 1kg", "p": "3,98", "u": "un", "x": 61, "y": 40, "w": 17, "h": 17},
+      {"n": "Ovos Enavis ou Filadélfia Grandes Brancos c/ 30 Und", "p": "13,48", "u": "un", "x": 80, "y": 40, "w": 18, "h": 17},
+      {"n": "Banana Pacovan", "p": "3,88", "u": "kg", "x": 2, "y": 57, "w": 17, "h": 15},
+      {"n": "Abacate", "p": "4,98", "u": "kg", "x": 22, "y": 57, "w": 17, "h": 15},
+      {"n": "Uva Vitória Seleta Bandeja 500g", "p": "4,98", "u": "un", "x": 40, "y": 57, "w": 18, "h": 15},
+      {"n": "Uva Verde Seleta Bandeja 500g", "p": "7,98", "u": "un", "x": 60, "y": 57, "w": 18, "h": 15},
+      {"n": "Maçã Nacional", "p": "6,98", "u": "kg", "x": 80, "y": 57, "w": 18, "h": 15},
+      {"n": "Tangerina Murcot", "p": "5,98", "u": "kg", "x": 2, "y": 72, "w": 17, "h": 14},
+      {"n": "Beterraba", "p": "3,98", "u": "kg", "x": 22, "y": 72, "w": 17, "h": 14},
+      {"n": "Cebola Branca", "p": "3,88", "u": "kg", "x": 42, "y": 72, "w": 17, "h": 14},
+      {"n": "Batata Inglesa", "p": "4,68", "u": "kg", "x": 61, "y": 72, "w": 17, "h": 14},
+      {"n": "Cenoura", "p": "5,78", "u": "kg", "x": 80, "y": 72, "w": 18, "h": 14},
+      {"n": "Inahme Cara São Tome", "p": "4,98", "u": "kg", "x": 2, "y": 85, "w": 17, "h": 14},
+      {"n": "Chuchu", "p": "2,98", "u": "kg", "x": 22, "y": 85, "w": 17, "h": 14},
+      {"n": "Coentro Sempre Verde", "p": "1,88", "u": "un", "x": 42, "y": 85, "w": 17, "h": 14},
+      {"n": "Alface Crespa, Lisa ou Couve Folha", "p": "1,98", "u": "un", "x": 61, "y": 85, "w": 17, "h": 14},
+      {"n": "Alho a Granel", "p": "16,98", "u": "kg", "x": 80, "y": 85, "w": 18, "h": 14}
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "shortcode": "DchVYErkj0q",
+  "validade_impressa": {"inicio": "2026-08-27", "fim": "2026-08-28"},
+  "paginas": {
+    "DchVYErkj0q_p1": [
+      {"n": "Óleo de Soja Vila Velha 900ml", "p": "7,49", "u": "un", "x": 9, "y": 54, "w": 13, "h": 9},
+      {"n": "Macarrão Espaguete Yara 400g", "p": "1,89", "u": "un", "x": 22, "y": 50, "w": 12, "h": 9},
+      {"n": "Café Santa Clara Extraforte Almofada ou a Vácuo 250g", "p": "11,99", "u": "un", "x": 36, "y": 44, "w": 13, "h": 9},
+      {"n": "Leite em Pó Bom Gosto Sachê 700g", "p": "19,99", "u": "un", "x": 48, "y": 40, "w": 15, "h": 8},
+      {"n": "Açúcar Triturado Alegre 1Kg", "p": "2,69", "u": "un", "x": 51, "y": 48, "w": 15, "h": 9},
+      {"n": "Arroz Parboilizado Panelaço 1Kg", "p": "3,49", "u": "un", "x": 33, "y": 53, "w": 14, "h": 9},
+      {"n": "Farinha de Trigo Finna Tradicional 1Kg", "p": "3,69", "u": "un (sem fermento)", "x": 15, "y": 60, "w": 15, "h": 10},
+      {"n": "Papel Higiênico Mili Max Folha Dupla 4x60m", "p": "9,99", "u": "un (neutro)", "x": 52, "y": 55, "w": 18, "h": 11},
+      {"n": "Batata Palito Pré-Frita EasyChef Pacote 2Kg", "p": "16,99", "u": "un", "x": 24, "y": 65, "w": 18, "h": 11},
+      {"n": "Linguiça de Frango Lar 1Kg", "p": "11,99", "u": "un (tradicional ou fininha)", "x": 55, "y": 65, "w": 13, "h": 10},
+      {"n": "Filé de Peito de Frango Canção Bandeja 1Kg", "p": "15,99", "u": "un", "x": 68, "y": 62, "w": 14, "h": 10},
+      {"n": "Coxas com Sobrecoxas de Frango com Dorsal", "p": "6,99", "u": "kg", "x": 42, "y": 72, "w": 13, "h": 8},
+      {"n": "Salsicha Hot-Dog Rara", "p": "4,99", "u": "kg", "x": 30, "y": 75, "w": 12, "h": 8}
+    ],
+    "DchVYErkj0q_p2": [
+      {"n": "Óleo de Soja Vila Velha 900ml", "p": "7,49", "u": "un", "x": 12, "y": 26, "w": 20, "h": 16},
+      {"n": "Macarrão Espaguete Yara 400g", "p": "1,89", "u": "un", "x": 31, "y": 26, "w": 17, "h": 16},
+      {"n": "Café Santa Clara Extraforte Almofada ou a Vácuo 250g", "p": "11,99", "u": "un", "x": 50, "y": 27, "w": 19, "h": 14},
+      {"n": "Leite em Pó Bom Gosto Sachê 700g", "p": "19,99", "u": "un", "x": 70, "y": 26, "w": 20, "h": 15},
+      {"n": "Farinha de Trigo Finna Tradicional 1Kg", "p": "3,69", "u": "un (sem fermento)", "x": 12, "y": 41, "w": 25, "h": 15},
+      {"n": "Arroz Parboilizado Panelaço 1Kg", "p": "3,49", "u": "un", "x": 38, "y": 41, "w": 24, "h": 15},
+      {"n": "Açúcar Triturado Alegre 1Kg", "p": "2,69", "u": "un", "x": 63, "y": 41, "w": 27, "h": 15},
+      {"n": "Batata Palito Pré-Frita EasyChef Pacote 2Kg", "p": "16,99", "u": "un", "x": 13, "y": 57, "w": 31, "h": 15},
+      {"n": "Papel Higiênico Mili Max Folha Dupla 4x60m", "p": "9,99", "u": "un (neutro)", "x": 48, "y": 57, "w": 42, "h": 15},
+      {"n": "Salsicha Hot-Dog Rara", "p": "4,99", "u": "kg", "x": 10, "y": 73, "w": 15, "h": 11},
+      {"n": "Coxas com Sobrecoxas de Frango com Dorsal", "p": "6,99", "u": "kg", "x": 29, "y": 72, "w": 15, "h": 11},
+      {"n": "Linguiça de Frango Lar 1Kg", "p": "11,99", "u": "un (tradicional ou fininha)", "x": 50, "y": 70, "w": 16, "h": 12},
+      {"n": "Filé de Peito de Frango Canção Bandeja 1Kg", "p": "15,99", "u": "un", "x": 70, "y": 72, "w": 20, "h": 12}
+    ],
+    "DchVYErkj0q_p3": [
+      {"n": "Creme Culinário Triangulo Mineiro 200g", "p": "1,79", "u": "un", "x": 14, "y": 3, "w": 24, "h": 9},
+      {"n": "Molho de Tomate Predilecta Tradicional Sachê 300g", "p": "1,49", "u": "un", "x": 39, "y": 3, "w": 23, "h": 9},
+      {"n": "Bebida Láctea Mocoquinha Sabor Chocolate 200ml", "p": "1,29", "u": "un", "x": 62, "y": 3, "w": 26, "h": 9},
+      {"n": "Feijão Carioca Precioso 1Kg", "p": "6,49", "u": "un", "x": 12, "y": 12, "w": 28, "h": 10},
+      {"n": "Creme de Leite Glória 200g", "p": "1,99", "u": "un", "x": 42, "y": 13, "w": 20, "h": 9},
+      {"n": "Flocão de Milho Flokão 400g", "p": "0,95", "u": "un", "x": 62, "y": 13, "w": 27, "h": 9},
+      {"n": "Refrigerante Indaiá 2L", "p": "3,99", "u": "un (sabores, exceto cola)", "x": 11, "y": 25, "w": 22, "h": 10},
+      {"n": "Vinho San Telmo Malbec Argentino 750ml", "p": "29,99", "u": "un", "x": 33, "y": 25, "w": 17, "h": 10},
+      {"n": "Vinho Tinto Gran Bodega 750ml", "p": "19,99", "u": "un", "x": 52, "y": 25, "w": 17, "h": 10},
+      {"n": "Vinho Tinto Suave Galiotto 750ml", "p": "14,99", "u": "un", "x": 70, "y": 25, "w": 20, "h": 10},
+      {"n": "Cerveja Imperio Ultra Long Neck 275ml", "p": "3,29", "u": "un", "x": 12, "y": 36, "w": 17, "h": 9},
+      {"n": "Carne Bovina Cupim", "p": "37,99", "u": "kg", "x": 30, "y": 35, "w": 20, "h": 11},
+      {"n": "Hambúrguer Misto Chuletão 56g", "p": "0,69", "u": "un", "x": 50, "y": 36, "w": 17, "h": 7},
+      {"n": "Linguiça Suína Chuletão", "p": "12,99", "u": "kg", "x": 68, "y": 36, "w": 22, "h": 8},
+      {"n": "Cerveja Puro Malte Pilsen 3.0 Lata 350ml", "p": "2,69", "u": "un", "x": 12, "y": 46, "w": 16, "h": 8},
+      {"n": "Pernil Suíno", "p": "11,99", "u": "kg", "x": 28, "y": 46, "w": 17, "h": 8},
+      {"n": "Coxinha da Asa Canção IQF 1Kg", "p": "11,99", "u": "un", "x": 48, "y": 44, "w": 19, "h": 10},
+      {"n": "Presunto sem Capa Suinco", "p": "19,99", "u": "kg", "x": 68, "y": 45, "w": 22, "h": 9},
+      {"n": "Linguiça Saudali Calabresa 500g", "p": "9,99", "u": "un", "x": 11, "y": 55, "w": 21, "h": 10},
+      {"n": "Galinha Matriz Somave", "p": "7,99", "u": "kg", "x": 38, "y": 55, "w": 24, "h": 10},
+      {"n": "Morango Inteiro Congelado EasyChef 1,01Kg", "p": "11,99", "u": "un", "x": 63, "y": 55, "w": 27, "h": 10},
+      {"n": "Água Sanitária Dragão 1L", "p": "1,89", "u": "un", "x": 11, "y": 67, "w": 19, "h": 9},
+      {"n": "Desinfetante Dragão 2L", "p": "5,99", "u": "un (fragrâncias)", "x": 30, "y": 67, "w": 19, "h": 9},
+      {"n": "Sabão em Barra Neutro Invicto 5x180g", "p": "8,99", "u": "un", "x": 50, "y": 67, "w": 19, "h": 9},
+      {"n": "Pedra Sanitária Azulim 25g", "p": "2,49", "u": "un (fragrâncias)", "x": 70, "y": 67, "w": 20, "h": 9}
+    ]
+  }
+}

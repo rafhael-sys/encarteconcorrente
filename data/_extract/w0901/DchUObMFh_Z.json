@@ -1,0 +1,34 @@
+{
+  "shortcode": "DchUObMFh_Z",
+  "validade_impressa": {"inicio": "2026-08-27", "fim": "2026-08-27"},
+  "paginas": {
+    "DchUObMFh_Z_p1": [
+      {"n": "Abacate", "p": "4,49", "u": "kg", "x": 8, "y": 28, "w": 30, "h": 30},
+      {"n": "Banana Prata ou Pacovan", "p": "3,49", "u": "kg", "x": 5, "y": 61, "w": 38, "h": 29},
+      {"n": "Batata Inglesa", "p": "4,49", "u": "kg", "x": 44, "y": 27, "w": 25, "h": 19},
+      {"n": "Cebola Branca", "p": "3,49", "u": "kg", "x": 72, "y": 27, "w": 24, "h": 19},
+      {"n": "Cebola Roxa", "p": "4,49", "u": "kg", "x": 44, "y": 49, "w": 25, "h": 19},
+      {"n": "Cenoura", "p": "5,99", "u": "kg", "x": 71, "y": 48, "w": 26, "h": 20},
+      {"n": "Goiaba", "p": "3,99", "u": "kg", "x": 44, "y": 72, "w": 25, "h": 18},
+      {"n": "Goma de Mandioca 1Kg", "p": "4,49", "u": "un", "x": 71, "y": 70, "w": 26, "h": 20}
+    ],
+    "DchUObMFh_Z_p2": [
+      {"n": "Jerimum de Leite", "p": "1,99", "u": "kg", "x": 2, "y": 27, "w": 40, "h": 29},
+      {"n": "Melão Espanhol ou Japonês", "p": "3,99", "u": "kg", "x": 2, "y": 59, "w": 42, "h": 31},
+      {"n": "Inhame Cará", "p": "4,99", "u": "kg", "x": 44, "y": 26, "w": 26, "h": 20},
+      {"n": "Laranja", "p": "1,99", "u": "kg", "x": 72, "y": 28, "w": 24, "h": 18},
+      {"n": "Tangerina", "p": "4,99", "u": "kg", "x": 44, "y": 50, "w": 26, "h": 19},
+      {"n": "Mamão Formosa", "p": "3,99", "u": "kg", "x": 70, "y": 48, "w": 27, "h": 21},
+      {"n": "Maçã Nacional", "p": "5,99", "u": "kg", "x": 44, "y": 72, "w": 26, "h": 19},
+      {"n": "Tomate", "p": "2,99", "u": "kg", "x": 71, "y": 72, "w": 26, "h": 19}
+    ],
+    "DchUObMFh_Z_p3": [
+      {"n": "Ovos Brancos Bandeja com 30 Unidades", "p": "13,99", "u": "un", "x": 1, "y": 27, "w": 44, "h": 27},
+      {"n": "Uva Preta Vitória sem Sementes Seleta Bandeja 500g", "p": "5,99", "u": "un", "x": 7, "y": 56, "w": 32, "h": 32},
+      {"n": "Uva Verde sem Sementes Seleta Bandeja 500g", "p": "9,99", "u": "un", "x": 45, "y": 31, "w": 27, "h": 27},
+      {"n": "Uva Vermelha sem Sementes Seleta Bandeja 500g", "p": "8,49", "u": "un", "x": 72, "y": 32, "w": 25, "h": 25},
+      {"n": "Uva Vitória sem Semente Seleção Mimo Bandeja 400g", "p": "8,99", "u": "un", "x": 45, "y": 61, "w": 26, "h": 28},
+      {"n": "Uva Vitória sem Semente Turma da Mônica Bandeja 250g", "p": "4,99", "u": "un", "x": 72, "y": 61, "w": 25, "h": 28}
+    ]
+  }
+}

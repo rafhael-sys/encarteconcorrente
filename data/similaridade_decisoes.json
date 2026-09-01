@@ -28641,5 +28641,387 @@
   "b": "Arroz Parboilizado Seu Arroz Tipo 1 1kg",
   "veredito": "diferente",
   "quando": "2026-08-30"
+ },
+ "acucar cristal olho d'agua pacote com 1kg || acucar cristal olho d'agua triturado pacote com 1kg": {
+  "a": "Açúcar Cristal Olho D'Água Triturado Pacote com 1kg",
+  "b": "Açúcar Cristal Olho D'Água Pacote com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "batata pre-frita masterboi congelada pacote com 2kg || batata pre-frita rapmix congelada pacote com 2kg": {
+  "a": "Batata Pré-Frita Masterboi Congelada Pacote com 2kg",
+  "b": "Batata Pré-Frita Rapmix Congelada Pacote com 2kg",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "molho para salada liza caseiro 234ml || molho para salada liza queijos 234ml": {
+  "a": "Molho para Salada Liza Queijos 234ml",
+  "b": "Molho para Salada Liza Caseiro 234ml",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "queijo mussarela molfino importado fatiado, peca ou pedaco || queijo mussarela tregar importado fatiado, peca ou pedaco": {
+  "a": "Queijo Mussarela Tregar Importado Fatiado, Peça ou Pedaço",
+  "b": "Queijo Mussarela Molfino Importado Fatiado, Peça ou Pedaço",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "suco de uva galiotto 1l (tinto - integral) || suco de uva galiotto tinto integral vd 1l": {
+  "a": "Suco de Uva Galiotto 1L (Tinto - Integral)",
+  "b": "Suco de Uva Galiotto Tinto Integral VD 1L",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "bisteca de pernil suino || carne bisteca de pernil suino": {
+  "a": "Bisteca de Pernil Suino",
+  "b": "Carne Bisteca de Pernil Suíno",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "lava roupas po ala sc 400g || lava-roupas em po ala 400g": {
+  "a": "Lava-Roupas em Pó Ala 400g",
+  "b": "Lava Roupas Pó ALA SC 400g",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "molho de tomate sadio 300g || molho tomate sadio sc 300g": {
+  "a": "Molho de Tomate Sadio 300g",
+  "b": "Molho Tomate Sadio SC 300g",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "bebida lactea betania sabores bdj 540g || bebida lactea polpa betania sabores bandeja 540g": {
+  "a": "Bebida Láctea Polpa Betânia Sabores Bandeja 540g",
+  "b": "Bebida Láctea Betânia Sabores BDJ 540g",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "lava roupas liq absoluto 3l fragrancias || lava roupas liq marilux 3l fragrancias": {
+  "a": "Lava Roupas Liq Marilux 3L Fragrancias",
+  "b": "Lava Roupas Líq Absoluto 3L Fragrâncias",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "sabonete palmolive naturals varias fragrancias unidade com 85g || sabonete palmolive naturals varios tipos unidade com 85g": {
+  "a": "Sabonete Palmolive Naturals Varias Fragrancias Unidade com 85g",
+  "b": "Sabonete Palmolive Naturals Vários Tipos Unidade com 85g",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "arroz parboilizado seu arroz tipo 1 1kg || arroz parboilizado urbano tipo 1 1kg": {
+  "a": "Arroz Parboilizado Urbano Tipo 1 1kg",
+  "b": "Arroz Parboilizado Seu Arroz Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "amaciante concentrado brilux diversos tb 500ml || amaciante concentrado downy (diversos) tb 500ml": {
+  "a": "Amaciante Concentrado Brilux diversos tb 500ml",
+  "b": "Amaciante Concentrado Downy (diversos) tb 500ml",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "capa de file bovina friboi resfriada kg || capa de file bovino friboi resfriada pedaco": {
+  "a": "Capa de Filé Bovina Friboi Resfriada kg",
+  "b": "Capa de Filé Bovino Friboi Resfriada Pedaço",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "cerveja praya lager long neck 330ml || cerveja praya s/ gluten long neck 330ml": {
+  "a": "Cerveja Praya s/ Glúten Long Neck 330ml",
+  "b": "Cerveja Praya Lager Long Neck 330ml",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "bebida lactea uht nescau chocolate 180ml || bebida lactea uht nescau cx 180ml": {
+  "a": "Bebida Láctea UHT Nescau Chocolate 180ml",
+  "b": "Bebida Láctea UHT Nescau cx 180ml",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "biscoito recheado bono/ negresco nestle varios sabores pacote com 90g || biscoito recheado bono/negresco nestle pacote com 90g": {
+  "a": "Biscoito Recheado Bono/Negresco Nestlé Pacote com 90g",
+  "b": "Biscoito Recheado Bono/ Negresco Nestlé Vários Sabores Pacote com 90g",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "file de peito de frango sadia congelado pct ou bd 1kg || filezinho de peito de frango sadia congelado bdj 1kg": {
+  "a": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+  "b": "Filé de Peito de Frango Sadia Congelado pct ou bd 1kg",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "aparelho de barbear bic flex 3 blister com 4 unidades || aparelho de barbear bic flex 3 blister com 4 unidades leve 4 pague 3": {
+  "a": "Aparelho de Barbear Bic Flex 3 Blister com 4 unidades",
+  "b": "Aparelho de Barbear Bic Flex 3 Blister com 4 Unidades Leve 4 Pague 3",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "carne bovina costela em tira friboi congelada (preco por quilo na peca) || carne bovina cupim friboi congelada preco por quilo na peca": {
+  "a": "Carne Bovina Costela em Tira Friboi Congelada (preço por quilo na peça)",
+  "b": "Carne Bovina Cupim Friboi Congelada Preço por Quilo na Peça",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "agua mineral cristalina sem gas pet 500ml || agua mineral indaia sem gas pet 500ml": {
+  "a": "Água Mineral Indaiá Sem Gás Pet 500ml",
+  "b": "Água Mineral Cristalina sem Gás PET 500ml",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "achoc po italac chocky 700g sachet || achocolatado em po italac chocky 700g sachet": {
+  "a": "Achocolatado em Po Italac Chocky 700g Sachet",
+  "b": "Achoc Pó Italac Chocky 700g Sachet",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "batata pre-frita masterboi congelada pacote 2kg || batata pre-frita natto congelada pacote com 2kg": {
+  "a": "Batata Pré-Frita Masterboi Congelada Pacote 2kg",
+  "b": "Batata Pré-Frita Natto Congelada Pacote com 2kg",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "arroz parboilizado mariano tipo 1 1kg || arroz parboilizado seu arroz tipo 1 1kg": {
+  "a": "Arroz Parboilizado Mariano Tipo 1 1kg",
+  "b": "Arroz Parboilizado Seu Arroz Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "bebida lactea uht nescau cx 180ml || bebida lactea uht nescau cx 180ml chocolate": {
+  "a": "Bebida Lactea UHT Nescau CX 180ml Chocolate",
+  "b": "Bebida Láctea UHT Nescau cx 180ml",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "linguica calabresa sadia kg || linguica calabresa saudali": {
+  "a": "Linguiça Calabresa Sadia kg",
+  "b": "Linguiça Calabresa Saudali",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "shampoo clear varios tipos frasco 400ml || shampoo elseve varios tipos frasco com 400ml": {
+  "a": "Shampoo Clear Vários Tipos Frasco 400ml",
+  "b": "Shampoo Elseve Varios Tipos Frasco com 400ml",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "linguica tipo calabresa aurora || linguica tipo calabresa suinco": {
+  "a": "Linguica Tipo Calabresa Aurora",
+  "b": "Linguiça Tipo Calabresa Suinco",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "pao de alho fabricacao propria pct 350g || pao de alho fabricacao propria tradicional pct 350g": {
+  "a": "Pão de Alho Fabricação Própria Tradicional pct 350g",
+  "b": "Pão de Alho Fabricação Própria pct 350g",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "filezinho de peito de frango aurora ou seara congelado bd 1kg || filezinho de peito de frango sadia congelado bdj 1kg": {
+  "a": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+  "b": "Filezinho de Peito de Frango Aurora ou Seara Congelado bd 1kg",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "sobrecoxa de frango mauricea resfriada || sobrecoxa de frango resfriada": {
+  "a": "Sobrecoxa de Frango Resfriada",
+  "b": "Sobrecoxa de Frango Mauricea Resfriada",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "abs semp livre ad 32un c/abas || absorvente sempre livre ad 32un c/abas": {
+  "a": "ABS Semp Livre AD 32un c/abas",
+  "b": "Absorvente Sempre Livre AD 32un c/Abas",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "inseticida aerosol baygon 360ml acao total || inseticida aerossol baygon 360ml acao total tradicional": {
+  "a": "Inseticida Aerosol Baygon 360ml Ação Total",
+  "b": "Inseticida Aerossol Baygon 360ml Ação Total Tradicional",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "escova dental colgate pro alivio c/2 || escova dental colgate total c/2": {
+  "a": "Escova Dental Colgate Total c/2",
+  "b": "Escova Dental Colgate Pro Alívio c/2",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "absorvente sempre livre adapt suave c/ abas || absorvente sempre livre adapt suave c/ abas leve8 pague7": {
+  "a": "Absorvente Sempre Livre Adapt Suave c/ Abas Leve8 Pague7",
+  "b": "Absorvente Sempre Livre Adapt Suave c/ Abas",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "bebida lactea clan sc 900ml sabores || bebida lactea isis 900ml sabores": {
+  "a": "Bebida Láctea Isis 900ml Sabores",
+  "b": "Bebida Láctea Clan SC 900ml Sabores",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "papel higienico caprice folha dupla leve 12 pague 11 || papel higienico clear luxo folha dupla 20m leve 12 pague 11": {
+  "a": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+  "b": "Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "papel higienico nobel sublime folha dupla 20m 12 unidades || papel higienico sublime noble folha dupla 20m 12 unids": {
+  "a": "Papel Higiênico Nobel Sublime Folha Dupla 20m 12 Unidades",
+  "b": "Papel Higiênico Sublime Noble Folha Dupla 20m 12 Unids",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "queijo mussarela fatiado galbani 150g || queijo mussarela fatiado litoral 150g": {
+  "a": "Queijo Mussarela Fatiado Litoral 150g",
+  "b": "Queijo Mussarela Fatiado Galbani 150g",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "batata fininhas bem brasil 1,5kg || batata pre-frita fininhas bem brasil 1,5kg": {
+  "a": "Batata Pré-Frita Fininhas Bem Brasil 1,5Kg",
+  "b": "Batata Fininhas Bem Brasil 1,5Kg",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "agua mineral sterbom s/ gas 510ml || agua mineral sterbom sem gas pet com 510ml": {
+  "a": "Água Mineral Sterbom Sem gás Pet com 510ml",
+  "b": "Agua Mineral Sterbom S/ Gas 510Ml",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "refrigerante antarctica guarana 2 litros || refrigerante kuat guarana 2 litros": {
+  "a": "Refrigerante Antarctica Guaraná 2 Litros",
+  "b": "Refrigerante Kuat Guaraná 2 Litros",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "acucar demerara petribu pacote com 1kg || acucar demerara uniao pacote com 1kg": {
+  "a": "Açúcar Demerara União Pacote com 1kg",
+  "b": "Açúcar Demerara Petribu Pacote com 1Kg",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "arroz parboilizado blue soft tipo 1 1kg || arroz parboilizado safra tipo 1 1kg": {
+  "a": "Arroz Parboilizado Blue Soft Tipo 1 1kg",
+  "b": "Arroz Parboilizado Safra Tipo 1 1kg",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "cerveja eisenbahn pilsen lata 350ml || cerveja eisenbahn pilsen puro malte lata 350ml": {
+  "a": "Cerveja Eisenbahn Pilsen Lata 350ml",
+  "b": "Cerveja Eisenbahn Pilsen Puro Malte Lata 350ml",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "absorvente sempre livre adapt c/8 suave || absorvente sempre livre adapt suave c/ abas": {
+  "a": "Absorvente Sempre Livre Adapt c/8 Suave",
+  "b": "Absorvente Sempre Livre Adapt Suave c/ Abas",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "lava roupa liquido omo 3l fragrancias || lava roupas liquido top clear 3l (fragrancias)": {
+  "a": "Lava Roupa Liquido OMO 3L Fragrancias",
+  "b": "Lava Roupas Líquido Top Clear 3L (fragrâncias)",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "coxa e sobrecoxa de frango lar com dorsal || coxa e sobrecoxa de frango sem dorsal kg": {
+  "a": "Coxa e Sobrecoxa de Frango sem Dorsal kg",
+  "b": "Coxa E Sobrecoxa De Frango Lar Com Dorsal",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "arroz kika parboilizado tipo 1 pacote 1kg || arroz urbano parboilizado tipo 1 pacote com 1kg": {
+  "a": "Arroz Kika Parboilizado Tipo 1 Pacote 1kg",
+  "b": "Arroz Urbano Parboilizado Tipo 1 Pacote com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "cerveja praya lager long neck 330ml || cerveja praya lager puro malte long neck 330ml": {
+  "a": "Cerveja Praya Lager Puro Malte Long Neck 330ml",
+  "b": "Cerveja Praya Lager Long Neck 330ml",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "sabonete cremoso harrop 1l || sabonete p/ maos harrop 1l": {
+  "a": "Sabonete p/ Mãos Harrop 1L",
+  "b": "Sabonete Cremoso Harrop 1L",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "auroggets 275g sabores || auroggets aurora 275g sabores": {
+  "a": "Auroggets 275g Sabores",
+  "b": "Auroggets Aurora 275g Sabores",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "feijao carioca belo grao 1kg || feijao carioca kero 1kg": {
+  "a": "Feijão Carioca Kero 1kg",
+  "b": "Feijão Carioca Belô Grão 1Kg",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "lava roupa em po ala 400g || lava roupas po ala sc 400g": {
+  "a": "Lava Roupa em Pó Ala 400g",
+  "b": "Lava Roupas Pó ALA SC 400g",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "carne bovina dianteira de sol || carne dianteira de sol": {
+  "a": "Carne Bovina Dianteira de Sol",
+  "b": "Carne Dianteira de Sol",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
+ },
+ "queijo mussarela davaca fatiado, peca e pedaco || queijo mussarela natville fatiado, peca ou pedaco": {
+  "a": "Queijo Mussarela Natville Fatiado, Peça ou Pedaço",
+  "b": "Queijo Mussarela Davaca Fatiado, Peca E Pedaco",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "file de peito de frango sadia congelado bandeja com 1kg || file de peito de frango sadia congelado iqf 1kg": {
+  "a": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
+  "b": "File de Peito de Frango Sadia Congelado Bandeja com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "farinha de trigo farina tradicional pacote 1kg || farinha de trigo finna tradicional tipo 1 pacote com 1kg": {
+  "a": "Farinha de Trigo Farina Tradicional Pacote 1kg",
+  "b": "Farinha de Trigo Finna Tradicional Tipo 1 Pacote com 1kg",
+  "veredito": "diferente",
+  "quando": "2026-09-01"
+ },
+ "tira manchas em gel vanish multiuso/white refil 1,2l || tira-manchas em gel vanish tipos refil 1,2l": {
+  "a": "Tira Manchas em Gel Vanish Multiuso/White Refil 1,2L",
+  "b": "Tira-Manchas em Gel Vanish Tipos Refil 1,2L",
+  "veredito": "mesmo",
+  "quando": "2026-09-01",
+  "aplicado": true
  }
 }

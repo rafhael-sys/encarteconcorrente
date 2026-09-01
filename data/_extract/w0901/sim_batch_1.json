@@ -1,0 +1,262 @@
+[
+ {
+  "k": "acucar cristal olho d'agua pacote com 1kg || acucar cristal olho d'agua triturado pacote com 1kg",
+  "a": "Açúcar Cristal Olho D'Água Triturado Pacote com 1kg",
+  "b": "Açúcar Cristal Olho D'Água Pacote com 1kg",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/atacadao_4e474d2e42_p2.jpg",
+   "nome_impresso": "Açúcar Cristal Olho D'Água Triturado Pacote com 1kg",
+   "regiao_pct": {
+    "x": 4,
+    "y": 18,
+    "w": 21,
+    "h": 17
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_529ee8d455_p3.jpg",
+   "nome_impresso": "Açúcar Cristal Olho D'Água Pacote com 1kg",
+   "regiao_pct": {
+    "x": 3,
+    "y": 19,
+    "w": 17,
+    "h": 19
+   }
+  },
+  "r": 0.891
+ },
+ {
+  "k": "batata pre-frita masterboi congelada pacote com 2kg || batata pre-frita rapmix congelada pacote com 2kg",
+  "a": "Batata Pré-Frita Masterboi Congelada Pacote com 2kg",
+  "b": "Batata Pré-Frita Rapmix Congelada Pacote com 2kg",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/atacadao_7cf4291f23_p2.jpg",
+   "nome_impresso": "Batata Pré-Frita Masterboi Congelada Pacote com 2kg",
+   "regiao_pct": {
+    "x": 63,
+    "y": 57,
+    "w": 33,
+    "h": 14
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_529ee8d455_p2.jpg",
+   "nome_impresso": "Batata Pré-Frita Rapmix Congelada Pacote com 2kg",
+   "regiao_pct": {
+    "x": 42,
+    "y": 45,
+    "w": 17,
+    "h": 24
+   }
+  },
+  "r": 0.889
+ },
+ {
+  "k": "molho para salada liza caseiro 234ml || molho para salada liza queijos 234ml",
+  "a": "Molho para Salada Liza Queijos 234ml",
+  "b": "Molho para Salada Liza Caseiro 234ml",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_208460a243_p1.jpg",
+   "nome_impresso": "Molho para Salada Liza Queijos 234ml",
+   "regiao_pct": {
+    "x": 21,
+    "y": 35,
+    "w": 19,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DckFspjjtIZ_p2.jpg",
+   "nome_impresso": "Molho para Salada Liza Caseiro 234ml",
+   "regiao_pct": {
+    "x": 65,
+    "y": 39,
+    "w": 20,
+    "h": 24
+   }
+  },
+  "r": 0.889
+ },
+ {
+  "k": "queijo mussarela molfino importado fatiado, peca ou pedaco || queijo mussarela tregar importado fatiado, peca ou pedaco",
+  "a": "Queijo Mussarela Tregar Importado Fatiado, Peça ou Pedaço",
+  "b": "Queijo Mussarela Molfino Importado Fatiado, Peça ou Pedaço",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/sfvs_fechames_p1.jpg",
+   "nome_impresso": "Queijo Mussarela Tregar Importado Fatiado, Peça ou Pedaço",
+   "regiao_pct": {
+    "x": 21.8,
+    "y": 29.5,
+    "w": 18.2,
+    "h": 17
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcjpwyHAVYO_p1.jpg",
+   "nome_impresso": "Queijo Mussarela Molfino Importado Fatiado, Peça ou Pedaço",
+   "regiao_pct": {
+    "x": 75,
+    "y": 31,
+    "w": 18,
+    "h": 15
+   }
+  },
+  "r": 0.887
+ },
+ {
+  "k": "suco de uva galiotto 1l (tinto - integral) || suco de uva galiotto tinto integral vd 1l",
+  "a": "Suco de Uva Galiotto 1L (Tinto - Integral)",
+  "b": "Suco de Uva Galiotto Tinto Integral VD 1L",
+  "foto_a": {
+   "imagem": "data/pages/DbjcA11jxwm_p4.jpg",
+   "nome_impresso": "Suco de Uva Galiotto 1L (Tinto - Integral)",
+   "regiao_pct": {
+    "x": 41,
+    "y": 24,
+    "w": 17,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dcj7EyAmXsE_p3.jpg",
+   "nome_impresso": "Suco de Uva Galiotto Tinto Integral VD 1L",
+   "regiao_pct": {
+    "x": 41,
+    "y": 1,
+    "w": 19,
+    "h": 20
+   }
+  },
+  "r": 0.886
+ },
+ {
+  "k": "bisteca de pernil suino || carne bisteca de pernil suino",
+  "a": "Bisteca de Pernil Suino",
+  "b": "Carne Bisteca de Pernil Suíno",
+  "foto_a": {
+   "imagem": "data/pages/Db_jA94FS8e_p1.jpg",
+   "nome_impresso": "Bisteca de Pernil Suino",
+   "regiao_pct": {
+    "x": 86,
+    "y": 73,
+    "w": 12,
+    "h": 10
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dcllc5JgG1S_p1.jpg",
+   "nome_impresso": "Carne Bisteca de Pernil Suíno",
+   "regiao_pct": {
+    "x": 5,
+    "y": 75,
+    "w": 27,
+    "h": 19
+   }
+  },
+  "r": 0.885
+ },
+ {
+  "k": "lava roupas po ala sc 400g || lava-roupas em po ala 400g",
+  "a": "Lava-Roupas em Pó Ala 400g",
+  "b": "Lava Roupas Pó ALA SC 400g",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/fav_sextou_p2.jpg",
+   "nome_impresso": "Lava Roupa em Pó Ala 400g",
+   "regiao_pct": {
+    "x": 75.2,
+    "y": 61.3,
+    "w": 16.6,
+    "h": 13.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DchCc7glbGU_p2.jpg",
+   "nome_impresso": "Lava Roupas Pó ALA SC 400g",
+   "regiao_pct": {
+    "x": 51,
+    "y": 58,
+    "w": 14,
+    "h": 12
+   }
+  },
+  "r": 0.885
+ },
+ {
+  "k": "molho de tomate sadio 300g || molho tomate sadio sc 300g",
+  "a": "Molho de Tomate Sadio 300g",
+  "b": "Molho Tomate Sadio SC 300g",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/Dag1cX2DH80_p2.jpg",
+   "nome_impresso": "Molho de Tomate Sadio 300g",
+   "regiao_pct": {
+    "x": 67.8,
+    "y": 64.0,
+    "w": 11.6,
+    "h": 10.3
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DchCc7glbGU_p2.jpg",
+   "nome_impresso": "Molho Tomate Sadio SC 300g",
+   "regiao_pct": {
+    "x": 36,
+    "y": 11,
+    "w": 14,
+    "h": 12
+   }
+  },
+  "r": 0.885
+ },
+ {
+  "k": "bebida lactea betania sabores bdj 540g || bebida lactea polpa betania sabores bandeja 540g",
+  "a": "Bebida Láctea Polpa Betânia Sabores Bandeja 540g",
+  "b": "Bebida Láctea Betânia Sabores BDJ 540g",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/assai_168587-572_p3.jpg",
+   "nome_impresso": "Bebida Láctea Polpa Betânia Sabores Bandeja 540g",
+   "regiao_pct": {
+    "x": 69,
+    "y": 43,
+    "w": 18,
+    "h": 12
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dcj7EyAmXsE_p3.jpg",
+   "nome_impresso": "Bebida Láctea Betânia Sabores BDJ 540g",
+   "regiao_pct": {
+    "x": 21,
+    "y": 41,
+    "w": 19,
+    "h": 19
+   }
+  },
+  "r": 0.884
+ },
+ {
+  "k": "lava roupas liq absoluto 3l fragrancias || lava roupas liq marilux 3l fragrancias",
+  "a": "Lava Roupas Liq Marilux 3L Fragrancias",
+  "b": "Lava Roupas Líq Absoluto 3L Fragrâncias",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DayVMzZmolG_p1.jpg",
+   "nome_impresso": "Lava Roupas Liq Marilux 3L Fragrancias",
+   "regiao_pct": {
+    "x": 68,
+    "y": 76,
+    "w": 15,
+    "h": 17
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dci2ovkyiYB_p1.jpg",
+   "nome_impresso": "Lava Roupas Líq Absoluto 3L Fragrâncias",
+   "regiao_pct": {
+    "x": 51,
+    "y": 51,
+    "w": 22,
+    "h": 21
+   }
+  },
+  "r": 0.883
+ }
+]

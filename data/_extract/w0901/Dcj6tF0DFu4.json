@@ -1,0 +1,26 @@
+{
+  "shortcode": "Dcj6tF0DFu4",
+  "validade_impressa": {"inicio": "2026-08-28", "fim": "2026-08-30"},
+  "paginas": {
+    "Dcj6tF0DFu4_p1": [
+      {"n": "Cerveja Amstel Lata 350ml", "p": "2,90", "u": "un (leve 12 pague 10, preço da unidade na promoção)", "x": 12, "y": 26, "w": 18, "h": 15},
+      {"n": "Linguiça de Frango Lar 1kg Regular/Fininha", "p": "11,98", "u": "un", "x": 38, "y": 24, "w": 25, "h": 16},
+      {"n": "Ponta de Costela Suína", "p": "12,98", "u": "kg", "x": 64, "y": 26, "w": 24, "h": 14},
+      {"n": "Leite UHT Damare 1L Integral/Desnatado", "p": "5,99", "u": "un", "x": 17, "y": 40, "w": 20, "h": 16},
+      {"n": "Patinho Bovino Resfriado", "p": "38,98", "u": "kg", "x": 37, "y": 42, "w": 27, "h": 16},
+      {"n": "Açúcar Triturado Alegre 1kg", "p": "2,69", "u": "un", "x": 66, "y": 41, "w": 23, "h": 15},
+      {"n": "Coxa de Frango Lar IQF 700g", "p": "8,98", "u": "un", "x": 4, "y": 63, "w": 15, "h": 13},
+      {"n": "Sobrecoxa de Frango Resfriada", "p": "13,98", "u": "kg", "x": 19, "y": 63, "w": 15, "h": 13},
+      {"n": "Refrigerante Dore 2L Sabores (Exceto Cola)", "p": "4,99", "u": "un", "x": 36, "y": 62, "w": 15, "h": 14},
+      {"n": "Refrigerante Dore Cola 2L", "p": "5,49", "u": "un", "x": 53, "y": 62, "w": 12, "h": 14},
+      {"n": "Bombom Nestlé 220g Especialidades", "p": "13,98", "u": "un", "x": 63, "y": 63, "w": 17, "h": 13},
+      {"n": "Creme de Leite Damare 200g", "p": "1,99", "u": "un", "x": 80, "y": 63, "w": 15, "h": 13},
+      {"n": "Leite Condensado Damare 395g Semidesnatado", "p": "4,99", "u": "un", "x": 4, "y": 76, "w": 15, "h": 13},
+      {"n": "Leite em Pó Mimo 400g Integral", "p": "10,98", "u": "un", "x": 19, "y": 76, "w": 14, "h": 13},
+      {"n": "Papel Higiênico Atualle Folha Dupla 20m c/12", "p": "12,49", "u": "un", "x": 32, "y": 76, "w": 15, "h": 13},
+      {"n": "Lava Roupas Líquido Tanlux 3L", "p": "9,98", "u": "un", "x": 48, "y": 76, "w": 13, "h": 13},
+      {"n": "Lava Roupas em Pó Sonho 400g Fragrâncias", "p": "2,39", "u": "un", "x": 60, "y": 76, "w": 17, "h": 13},
+      {"n": "Pizza RedeMAIS", "p": "13,98", "u": "un", "x": 78, "y": 76, "w": 17, "h": 13}
+    ]
+  }
+}

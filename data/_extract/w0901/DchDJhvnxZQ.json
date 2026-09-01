@@ -1,0 +1,28 @@
+{
+  "shortcode": "DchDJhvnxZQ",
+  "validade_impressa": {"inicio": "2026-08-27", "fim": "2026-08-28"},
+  "paginas": {
+    "DchDJhvnxZQ_p1": [
+      {"n": "Melão Espanhol", "p": "2,88", "u": "kg", "x": 3, "y": 40, "w": 18, "h": 18},
+      {"n": "Abacaxi", "p": "3,48", "u": "un", "x": 22, "y": 40, "w": 18, "h": 18},
+      {"n": "Laranja Pera", "p": "1,98", "u": "kg", "x": 41, "y": 40, "w": 18, "h": 18},
+      {"n": "Goma Fresca Caicó 1kg", "p": "3,98", "u": "un", "x": 60, "y": 40, "w": 18, "h": 18},
+      {"n": "Ovos Enavis ou Filadélfia Grandes Brancos c/30 Und", "p": "13,48", "u": "un", "x": 79, "y": 40, "w": 18, "h": 18},
+      {"n": "Banana Pacovan", "p": "2,98", "u": "kg", "x": 3, "y": 58, "w": 18, "h": 15},
+      {"n": "Abacate", "p": "3,88", "u": "kg", "x": 22, "y": 58, "w": 18, "h": 15},
+      {"n": "Uva Vitória Marcelo Frazão 500g", "p": "4,68", "u": "un", "x": 41, "y": 58, "w": 18, "h": 15},
+      {"n": "Uva Verde Seleta Bandeja 500g", "p": "7,98", "u": "un", "x": 60, "y": 58, "w": 18, "h": 15},
+      {"n": "Maçã Nacional", "p": "6,98", "u": "kg", "x": 79, "y": 58, "w": 18, "h": 15},
+      {"n": "Tangerina Murcot", "p": "5,48", "u": "kg (impresso \"R$548\", sem vírgula)", "x": 3, "y": 72, "w": 18, "h": 13},
+      {"n": "Beterraba", "p": "3,98", "u": "kg", "x": 22, "y": 72, "w": 18, "h": 13},
+      {"n": "Cebola Branca", "p": "3,48", "u": "kg", "x": 41, "y": 72, "w": 18, "h": 13},
+      {"n": "Batata Inglesa", "p": "4,68", "u": "kg", "x": 60, "y": 72, "w": 18, "h": 13},
+      {"n": "Cenoura", "p": "5,78", "u": "kg", "x": 79, "y": 72, "w": 18, "h": 13},
+      {"n": "Inhame Cará São Tomé", "p": "4,78", "u": "kg", "x": 3, "y": 84, "w": 18, "h": 14},
+      {"n": "Chuchu", "p": "2,98", "u": "kg", "x": 22, "y": 84, "w": 18, "h": 14},
+      {"n": "Coentro", "p": "1,68", "u": "un", "x": 41, "y": 84, "w": 18, "h": 14},
+      {"n": "Alface Crespa, Lisa ou Couve Folha", "p": "1,68", "u": "un", "x": 60, "y": 84, "w": 18, "h": 14},
+      {"n": "Alho a Granel", "p": "17,98", "u": "kg", "x": 79, "y": 84, "w": 18, "h": 14}
+    ]
+  }
+}

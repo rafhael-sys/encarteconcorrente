@@ -1,0 +1,18 @@
+{
+  "shortcode": "Dcg0OQ-IDtC",
+  "validade_impressa": {"inicio": "2026-08-27", "fim": "2026-08-28"},
+  "paginas": {
+    "Dcg0OQ-IDtC_p1": [
+      {"n": "Peito de Frango Cong Real Kg", "p": "9,29", "u": "kg", "x": 2, "y": 33, "w": 9, "h": 23},
+      {"n": "Coxa c/ Sobrecoxa c/ Dorsal Kg", "p": "7,19", "u": "kg", "x": 12, "y": 33, "w": 9, "h": 23},
+      {"n": "Linguiça p/ Churrasco ou Frango Aurora Kg", "p": "15,98", "u": "kg", "x": 21, "y": 33, "w": 9, "h": 23},
+      {"n": "Mortadela de Frango Tony Kg", "p": "7,49", "u": "kg", "x": 31, "y": 33, "w": 9, "h": 23},
+      {"n": "Queijo Mussarela Proc Caicó Pç ou Pdç Kg", "p": "29,98", "u": "kg", "x": 41, "y": 33, "w": 9, "h": 23},
+      {"n": "Óleo de Soja Vitaliv 900ml", "p": "6,99", "u": "un", "x": 50, "y": 33, "w": 9, "h": 23},
+      {"n": "Arroz Parb Kika 1kg", "p": "3,39", "u": "un", "x": 60, "y": 33, "w": 9, "h": 23},
+      {"n": "Feijão Carioca Duzé 1kg", "p": "5,98", "u": "un", "x": 70, "y": 33, "w": 9, "h": 23},
+      {"n": "Mac Espaguete Bonsabor 400g", "p": "1,87", "u": "un", "x": 79, "y": 33, "w": 9, "h": 23},
+      {"n": "Flocão de Milho Fortemilho 400g", "p": "0,94", "u": "un", "x": 89, "y": 33, "w": 9, "h": 23}
+    ]
+  }
+}

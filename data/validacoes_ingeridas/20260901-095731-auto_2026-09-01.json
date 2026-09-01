@@ -1,0 +1,299 @@
+{
+ "validacoes": [
+  {
+   "a": "Açúcar Cristal Olho D'Água Triturado Pacote com 1kg",
+   "b": "Açúcar Cristal Olho D'Água Pacote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Pré-Frita Masterboi Congelada Pacote com 2kg",
+   "b": "Batata Pré-Frita Rapmix Congelada Pacote com 2kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Molho para Salada Liza Queijos 234ml",
+   "b": "Molho para Salada Liza Caseiro 234ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Mussarela Tregar Importado Fatiado, Peça ou Pedaço",
+   "b": "Queijo Mussarela Molfino Importado Fatiado, Peça ou Pedaço",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Suco de Uva Galiotto 1L (Tinto - Integral)",
+   "b": "Suco de Uva Galiotto Tinto Integral VD 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bisteca de Pernil Suino",
+   "b": "Carne Bisteca de Pernil Suíno",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava-Roupas em Pó Ala 400g",
+   "b": "Lava Roupas Pó ALA SC 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Molho de Tomate Sadio 300g",
+   "b": "Molho Tomate Sadio SC 300g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Polpa Betânia Sabores Bandeja 540g",
+   "b": "Bebida Láctea Betânia Sabores BDJ 540g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Liq Marilux 3L Fragrancias",
+   "b": "Lava Roupas Líq Absoluto 3L Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sabonete Palmolive Naturals Varias Fragrancias Unidade com 85g",
+   "b": "Sabonete Palmolive Naturals Vários Tipos Unidade com 85g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Arroz Parboilizado Urbano Tipo 1 1kg",
+   "b": "Arroz Parboilizado Seu Arroz Tipo 1 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Amaciante Concentrado Brilux diversos tb 500ml",
+   "b": "Amaciante Concentrado Downy (diversos) tb 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Capa de Filé Bovina Friboi Resfriada kg",
+   "b": "Capa de Filé Bovino Friboi Resfriada Pedaço",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Praya s/ Glúten Long Neck 330ml",
+   "b": "Cerveja Praya Lager Long Neck 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea UHT Nescau Chocolate 180ml",
+   "b": "Bebida Láctea UHT Nescau cx 180ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Recheado Bono/Negresco Nestlé Pacote com 90g",
+   "b": "Biscoito Recheado Bono/ Negresco Nestlé Vários Sabores Pacote com 90g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+   "b": "Filé de Peito de Frango Sadia Congelado pct ou bd 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Aparelho de Barbear Bic Flex 3 Blister com 4 unidades",
+   "b": "Aparelho de Barbear Bic Flex 3 Blister com 4 Unidades Leve 4 Pague 3",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Costela em Tira Friboi Congelada (preço por quilo na peça)",
+   "b": "Carne Bovina Cupim Friboi Congelada Preço por Quilo na Peça",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Água Mineral Indaiá Sem Gás Pet 500ml",
+   "b": "Água Mineral Cristalina sem Gás PET 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Achocolatado em Po Italac Chocky 700g Sachet",
+   "b": "Achoc Pó Italac Chocky 700g Sachet",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Pré-Frita Masterboi Congelada Pacote 2kg",
+   "b": "Batata Pré-Frita Natto Congelada Pacote com 2kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Parboilizado Mariano Tipo 1 1kg",
+   "b": "Arroz Parboilizado Seu Arroz Tipo 1 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Lactea UHT Nescau CX 180ml Chocolate",
+   "b": "Bebida Láctea UHT Nescau cx 180ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Linguiça Calabresa Sadia kg",
+   "b": "Linguiça Calabresa Saudali",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Shampoo Clear Vários Tipos Frasco 400ml",
+   "b": "Shampoo Elseve Varios Tipos Frasco com 400ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Linguica Tipo Calabresa Aurora",
+   "b": "Linguiça Tipo Calabresa Suinco",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Pão de Alho Fabricação Própria Tradicional pct 350g",
+   "b": "Pão de Alho Fabricação Própria pct 350g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filezinho de Peito de Frango Sadia Congelado BDJ 1kg",
+   "b": "Filezinho de Peito de Frango Aurora ou Seara Congelado bd 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sobrecoxa de Frango Resfriada",
+   "b": "Sobrecoxa de Frango Mauricea Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "ABS Semp Livre AD 32un c/abas",
+   "b": "Absorvente Sempre Livre AD 32un c/Abas",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Inseticida Aerosol Baygon 360ml Ação Total",
+   "b": "Inseticida Aerossol Baygon 360ml Ação Total Tradicional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Escova Dental Colgate Total c/2",
+   "b": "Escova Dental Colgate Pro Alívio c/2",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Absorvente Sempre Livre Adapt Suave c/ Abas Leve8 Pague7",
+   "b": "Absorvente Sempre Livre Adapt Suave c/ Abas",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Isis 900ml Sabores",
+   "b": "Bebida Láctea Clan SC 900ml Sabores",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+   "b": "Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Nobel Sublime Folha Dupla 20m 12 Unidades",
+   "b": "Papel Higiênico Sublime Noble Folha Dupla 20m 12 Unids",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Fatiado Litoral 150g",
+   "b": "Queijo Mussarela Fatiado Galbani 150g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Batata Pré-Frita Fininhas Bem Brasil 1,5Kg",
+   "b": "Batata Fininhas Bem Brasil 1,5Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Mineral Sterbom Sem gás Pet com 510ml",
+   "b": "Agua Mineral Sterbom S/ Gas 510Ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Refrigerante Antarctica Guaraná 2 Litros",
+   "b": "Refrigerante Kuat Guaraná 2 Litros",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Açúcar Demerara União Pacote com 1kg",
+   "b": "Açúcar Demerara Petribu Pacote com 1Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Parboilizado Blue Soft Tipo 1 1kg",
+   "b": "Arroz Parboilizado Safra Tipo 1 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Eisenbahn Pilsen Lata 350ml",
+   "b": "Cerveja Eisenbahn Pilsen Puro Malte Lata 350ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Sempre Livre Adapt c/8 Suave",
+   "b": "Absorvente Sempre Livre Adapt Suave c/ Abas",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupa Liquido OMO 3L Fragrancias",
+   "b": "Lava Roupas Líquido Top Clear 3L (fragrâncias)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coxa e Sobrecoxa de Frango sem Dorsal kg",
+   "b": "Coxa E Sobrecoxa De Frango Lar Com Dorsal",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Arroz Kika Parboilizado Tipo 1 Pacote 1kg",
+   "b": "Arroz Urbano Parboilizado Tipo 1 Pacote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Cerveja Praya Lager Puro Malte Long Neck 330ml",
+   "b": "Cerveja Praya Lager Long Neck 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sabonete p/ Mãos Harrop 1L",
+   "b": "Sabonete Cremoso Harrop 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Auroggets 275g Sabores",
+   "b": "Auroggets Aurora 275g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Kero 1kg",
+   "b": "Feijão Carioca Belô Grão 1Kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Lava Roupa em Pó Ala 400g",
+   "b": "Lava Roupas Pó ALA SC 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Dianteira de Sol",
+   "b": "Carne Dianteira de Sol",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Natville Fatiado, Peça ou Pedaço",
+   "b": "Queijo Mussarela Davaca Fatiado, Peca E Pedaco",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Filé de Peito de Frango Sadia Congelado IQF 1kg",
+   "b": "File de Peito de Frango Sadia Congelado Bandeja com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha de Trigo Farina Tradicional Pacote 1kg",
+   "b": "Farinha de Trigo Finna Tradicional Tipo 1 Pacote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Tira Manchas em Gel Vanish Multiuso/White Refil 1,2L",
+   "b": "Tira-Manchas em Gel Vanish Tipos Refil 1,2L",
+   "veredito": "mesmo"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+  "shortcode": "assai_170679-572",
+  "validade_impressa": null,
+  "paginas": {
+    "assai_170679-572_p1": [
+      {"n": "Café Solúvel Nescafé Nestlé Tipos Sachê 40g", "p": "3,99", "u": "un", "x": 5, "y": 22, "w": 17, "h": 16},
+      {"n": "Farinha Láctea Nestlé Pacote 210g", "p": "8,19", "u": "un", "x": 24, "y": 22, "w": 17, "h": 16},
+      {"n": "Biscoito Recheado Negresco Nestlé Sabores Pacote 90g", "p": "2,29", "u": "un", "x": 42, "y": 22, "w": 17, "h": 16},
+      {"n": "Biscoito Recheado Bono Nestlé Sabores Pacote 90g", "p": "2,29", "u": "un", "x": 60, "y": 22, "w": 17, "h": 16},
+      {"n": "Composto Lácteo Prebio Fases +1 ou +3 Ninho Nestlé Lata 400g", "p": "24,99", "u": "un", "x": 78, "y": 22, "w": 17, "h": 16},
+      {"n": "Neston 3 Cereais Nestlé Pacote 600g", "p": "15,90", "u": "un", "x": 5, "y": 38, "w": 17, "h": 15},
+      {"n": "Farinha de Aveia Nestlé Caixeta 170g", "p": "3,49", "u": "un", "x": 24, "y": 38, "w": 17, "h": 15},
+      {"n": "Snack Infantil Meu Lanchinho Mucilon Nestlé Sabores Pacote 35g", "p": "5,19", "u": "un", "x": 42, "y": 38, "w": 17, "h": 15},
+      {"n": "Chocolate Recheado Nestlé Sabores Tablete 90g", "p": "8,99", "u": "un", "x": 60, "y": 38, "w": 17, "h": 15},
+      {"n": "Chocolate Talento Garoto Sabores Tablete 85g", "p": "8,49", "u": "un", "x": 78, "y": 38, "w": 17, "h": 15},
+      {"n": "Leite em Pó Desnatado Rico em Cálcio Molico Nestlé Pacote 500g", "p": "29,99", "u": "un", "x": 5, "y": 53, "w": 17, "h": 16},
+      {"n": "Cápsula Dolce Gusto Nestlé Sabores Caixeta 10x6g/7g/8g/10g/11g/11,25g/13,5g/16g/17g/17,2g", "p": "17,99", "u": "un", "x": 24, "y": 53, "w": 17, "h": 16},
+      {"n": "Cápsula Nescafé Nestlé Sabores Caixeta 10x4g/46g", "p": "18,99", "u": "un", "x": 42, "y": 53, "w": 17, "h": 16},
+      {"n": "Bebida Láctea Nestlé Sabores PET 270ml/280ml", "p": "6,49", "u": "un", "x": 60, "y": 53, "w": 17, "h": 16},
+      {"n": "Aveia em Flocos Regulares ou Finos Nestlé Caixeta 170g", "p": "3,49", "u": "un", "x": 78, "y": 53, "w": 17, "h": 16}
+    ]
+  }
+}

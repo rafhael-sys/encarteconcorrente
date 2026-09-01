@@ -1,0 +1,17 @@
+{
+  "shortcode": "DcuHEEEjwZ3",
+  "validade_impressa": {"inicio": "2026-09-01", "fim": "2026-09-01"},
+  "paginas": {
+    "DcuHEEEjwZ3_p1": [
+      {"n": "Meio da Asa de Frango Bom Todo 1kg (Bandeja)", "p": "11,49", "u": "un", "x": 5, "y": 34, "w": 22, "h": 25},
+      {"n": "Chã de Fora Bovino (Resfriado)", "p": "37,99", "u": "kg", "x": 28, "y": 34, "w": 22, "h": 25},
+      {"n": "Capa de Filé Bovino (Resfriado)", "p": "33,99", "u": "kg", "x": 51, "y": 34, "w": 22, "h": 25},
+      {"n": "Linguiça de Frango Lar/Linguiça de Churrasco Suinco", "p": "12,99", "u": "kg", "x": 74, "y": 34, "w": 23, "h": 25},
+      {"n": "Moela de Frango Lar 700g", "p": "8,99", "u": "un", "x": 5, "y": 60, "w": 22, "h": 26},
+      {"n": "Coxinha da Asa de Frango/Frango a Passarinho Lar 700g (Temperados)", "p": "7,99", "u": "un", "x": 28, "y": 60, "w": 22, "h": 26},
+      {"n": "Linguiça Tipo Calabresa Nutribras ou Suinco", "p": "19,99", "u": "kg", "x": 51, "y": 60, "w": 22, "h": 26},
+      {"n": "Fígado de Frango Lar 700g", "p": "3,99", "u": "un", "x": 74, "y": 60, "w": 23, "h": 26}
+    ],
+    "DcuHEEEjwZ3_p2": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "shortcode": "DcrpGk-DHcf",
+  "validade_impressa": {"inicio": "2026-08-31", "fim": "2026-09-01"},
+  "paginas": {
+    "DcrpGk-DHcf_p1": [
+      {"n": "Frango a Passarinho Jaguá IQF 1kg", "p": "9,98", "u": "un", "x": 6, "y": 39, "w": 22, "h": 15},
+      {"n": "Bisteca de Pernil Suíno Coopavel", "p": "11,98", "u": "kg", "x": 28, "y": 39, "w": 22, "h": 15},
+      {"n": "Costela Bovina Ponta de Agulha", "p": "21,98", "u": "kg", "x": 51, "y": 39, "w": 22, "h": 15},
+      {"n": "Ovos Branco Granja Almeida Bandeja c/30", "p": "13,98", "u": "un", "x": 73, "y": 39, "w": 21, "h": 15},
+      {"n": "Feijão Carioca Duzé Tipo 1 1kg", "p": "6,69", "u": "un", "x": 6, "y": 54, "w": 18, "h": 17},
+      {"n": "Óleo de Soja Vitaliv 900ml", "p": "6,98", "u": "un", "x": 25, "y": 54, "w": 18, "h": 17},
+      {"n": "Molho de Tomate Sadio Sachê 300g Tradicional/Manjericão/Pizza", "p": "0,99", "u": "un", "x": 44, "y": 54, "w": 18, "h": 17},
+      {"n": "Macarrão Espaguete Bonsabor 400g", "p": "1,85", "u": "un", "x": 62, "y": 54, "w": 18, "h": 17},
+      {"n": "Leite em Pó Aurora Integral 750g", "p": "24,98", "u": "un", "x": 80, "y": 54, "w": 17, "h": 17},
+      {"n": "Café União Tradicional/Extra Forte 250g Pouch", "p": "10,98", "u": "un", "x": 6, "y": 73, "w": 18, "h": 18},
+      {"n": "Amaciante de Roupas Concentrado Downy 500ml Fragrâncias", "p": "8,99", "u": "un", "x": 25, "y": 73, "w": 18, "h": 18},
+      {"n": "Água Sanitária Olimpo 1L", "p": "1,89", "u": "un", "x": 44, "y": 73, "w": 18, "h": 18},
+      {"n": "Papel Higiênico Floral Folha Dupla 20m c/12 Neutro", "p": "9,98", "u": "un", "x": 62, "y": 73, "w": 18, "h": 18},
+      {"n": "Lava Roupas em Pó Ala 400g Fragrâncias Sachê", "p": "2,59", "u": "un", "x": 80, "y": 73, "w": 17, "h": 18}
+    ],
+    "DcrpGk-DHcf_p2": [
+      {"n": "Coxa com Sobrecoxa de Frango c/ Dorsal Jaguá", "p": "7,49", "u": "kg", "x": 6, "y": 12, "w": 28, "h": 18},
+      {"n": "Carne Bovina Chã de Fora Resfriada", "p": "38,90", "u": "kg", "x": 36, "y": 12, "w": 28, "h": 18},
+      {"n": "Queijo Mussarela Domilac", "p": "37,98", "u": "kg", "x": 66, "y": 12, "w": 28, "h": 18},
+      {"n": "Empanado de Frango Lar 100g", "p": "1,19", "u": "un", "x": 5, "y": 32, "w": 22, "h": 17},
+      {"n": "Filé de Peito de Frango Jaguá", "p": "15,89", "u": "kg", "x": 27, "y": 32, "w": 22, "h": 17},
+      {"n": "Goma para Tapioca Delícia Potiguar 1kg", "p": "4,29", "u": "un", "x": 49, "y": 32, "w": 22, "h": 17},
+      {"n": "Batata Congelada Lar 2kg Palito", "p": "19,98", "u": "un", "x": 71, "y": 32, "w": 23, "h": 17},
+      {"n": "Pão de Forma/Bisnaguinha Center Massas 400/300g Tradicional", "p": "4,99", "u": "un", "x": 5, "y": 51, "w": 22, "h": 18},
+      {"n": "Farinha de Trigo Dona Maria 1kg Tradicional", "p": "3,79", "u": "un", "x": 27, "y": 51, "w": 22, "h": 18},
+      {"n": "Refrigerante Coca-Cola 1,5L", "p": "6,79", "u": "un", "x": 49, "y": 51, "w": 22, "h": 18},
+      {"n": "Cerveja Itaipava Pilsen Lata 350ml", "p": "2,48", "u": "un", "x": 71, "y": 51, "w": 23, "h": 18},
+      {"n": "Lava Louças Tanlux 500ml Fragrâncias", "p": "1,09", "u": "un", "x": 5, "y": 72, "w": 22, "h": 18},
+      {"n": "Desodorante Aerosol Rexona 150ml Fragrâncias", "p": "13,98", "u": "un", "x": 27, "y": 72, "w": 22, "h": 18},
+      {"n": "Lava Roupas Líquido Omo 1,8L Lavagem Perfeita", "p": "19,89", "u": "un", "x": 49, "y": 72, "w": 24, "h": 18}
+    ]
+  }
+}

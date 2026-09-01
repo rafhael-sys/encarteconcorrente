@@ -1,0 +1,20 @@
+{
+  "shortcode": "atacadao_53752fa680",
+  "validade_impressa": null,
+  "paginas": {
+    "atacadao_53752fa680_p1": [
+      {"n": "Cenoura Quilo", "p": "5,99", "u": "kg", "x": 3, "y": 24, "w": 30, "h": 13},
+      {"n": "Alho a Granel Quilo", "p": "17,59", "u": "kg", "x": 34, "y": 24, "w": 30, "h": 13},
+      {"n": "Cebola Branca Quilo", "p": "5,99", "u": "kg", "x": 65, "y": 24, "w": 31, "h": 13},
+      {"n": "Pimentão Verde Quilo", "p": "4,99", "u": "kg", "x": 3, "y": 39, "w": 30, "h": 13},
+      {"n": "Beterraba Quilo", "p": "3,99", "u": "kg", "x": 34, "y": 39, "w": 30, "h": 13},
+      {"n": "Chuchu Quilo", "p": "3,59", "u": "kg", "x": 65, "y": 39, "w": 31, "h": 13},
+      {"n": "Manga Tommy Quilo", "p": "5,99", "u": "kg", "x": 3, "y": 54, "w": 30, "h": 13},
+      {"n": "Banana Pacovan Quilo", "p": "2,99", "u": "kg", "x": 34, "y": 54, "w": 30, "h": 13},
+      {"n": "Mamão Hawai/Papaya Quilo", "p": "5,99", "u": "kg", "x": 65, "y": 54, "w": 31, "h": 13},
+      {"n": "Maçã Nacional Gala Quilo", "p": "6,99", "u": "kg", "x": 3, "y": 70, "w": 30, "h": 13},
+      {"n": "Pera Importada Quilo", "p": "13,99", "u": "kg", "x": 34, "y": 70, "w": 30, "h": 13},
+      {"n": "Uva Thompson Bandeja com 500g", "p": "7,99", "u": "un", "x": 65, "y": 70, "w": 31, "h": 13}
+    ]
+  }
+}

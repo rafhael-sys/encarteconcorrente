@@ -1,0 +1,16 @@
+{
+  "shortcode": "atacadao_0b70eb111e",
+  "validade_impressa": null,
+  "paginas": {
+    "atacadao_0b70eb111e_p1": [
+      {"n": "Alho a Granel Quilo", "p": "17,79", "u": "kg", "x": 3, "y": 21, "w": 44, "h": 17},
+      {"n": "Ovo Branco Grande PVC Bandeja com 30 Unidades", "p": "13,79", "u": "un", "x": 51, "y": 21, "w": 45, "h": 17},
+      {"n": "Hambúrguer Jundiaí Congelado Carne Bovina/Frango Caixeta com 36x56g", "p": "21,90", "u": "un", "x": 3, "y": 38, "w": 44, "h": 16},
+      {"n": "Peito de Frango Copacol Congelado", "p": "9,79", "u": "kg (preço por quilo no pacote)", "x": 51, "y": 38, "w": 45, "h": 16},
+      {"n": "Farinha de Trigo Farina Pacote com 1kg", "p": "2,95", "u": "un", "x": 3, "y": 54, "w": 44, "h": 15},
+      {"n": "Feijão Carioca Eu Kero Tipo 2 Pacote com 1kg", "p": "6,99", "u": "un", "x": 51, "y": 54, "w": 45, "h": 15},
+      {"n": "Lava Roupas Líquido Becker Versátil Bombona com 5L", "p": "24,90", "u": "un", "x": 3, "y": 69, "w": 44, "h": 16},
+      {"n": "Água Sanitária Dragão Bombona com 5L", "p": "9,95", "u": "un", "x": 51, "y": 69, "w": 45, "h": 16}
+    ]
+  }
+}

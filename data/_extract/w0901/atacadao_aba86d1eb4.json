@@ -1,0 +1,22 @@
+{
+  "shortcode": "atacadao_aba86d1eb4",
+  "validade_impressa": null,
+  "paginas": {
+    "atacadao_aba86d1eb4_p1": [
+      {"n": "Coxa de Frango Resfriada Mauricéa", "p": "11,50", "u": "kg", "x": 3, "y": 28, "w": 45, "h": 15},
+      {"n": "Frango Inteiro Resfriado Mauricéa", "p": "10,90", "u": "kg", "x": 51, "y": 28, "w": 45, "h": 15},
+      {"n": "Peito de Frango com Osso Resfriado Mauricéa", "p": "14,50", "u": "kg", "x": 3, "y": 45, "w": 45, "h": 14},
+      {"n": "Sobrecoxa de Frango Resfriada Mauricéa", "p": "11,90", "u": "kg", "x": 51, "y": 45, "w": 45, "h": 14},
+      {"n": "Carne Bovina Acém sem Osso Friboi Reserva Resfriada", "p": "38,90", "u": "kg", "x": 3, "y": 61, "w": 45, "h": 14},
+      {"n": "Carne Bovina Chambaril Dianteiro Friboi Reserva Resfriada", "p": "25,90", "u": "kg", "x": 51, "y": 61, "w": 45, "h": 14},
+      {"n": "Carne Bovina com Osso Paleta Friboi Reserva Resfriada", "p": "28,90", "u": "kg", "x": 3, "y": 76, "w": 45, "h": 15},
+      {"n": "Carne Bovina Patinho sem Osso Friboi Reserva Resfriada", "p": "48,90", "u": "kg", "x": 51, "y": 76, "w": 45, "h": 15}
+    ],
+    "atacadao_aba86d1eb4_p2": [
+      {"n": "Queijo Mussarela Girolanda Fatiado", "p": "46,90", "u": "kg (R$ 4,69 a cada 100g)", "x": 3, "y": 20, "w": 45, "h": 26},
+      {"n": "Salsicha Hot Dog Natto Resfriada", "p": "7,90", "u": "kg (R$ 0,79 a cada 100g)", "x": 51, "y": 20, "w": 45, "h": 26},
+      {"n": "Pão Francês Pancristal", "p": "11,90", "u": "kg (R$ 1,19 a cada 100g)", "x": 3, "y": 55, "w": 45, "h": 26},
+      {"n": "Pão de Hot Dog Pancristal", "p": "17,90", "u": "kg (R$ 1,79 a cada 100g)", "x": 51, "y": 55, "w": 45, "h": 26}
+    ]
+  }
+}

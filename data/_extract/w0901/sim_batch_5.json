@@ -1,0 +1,262 @@
+[
+ {
+  "k": "bebida lactea clan sc 900ml sabores || bebida lactea isis 900ml sabores",
+  "a": "Bebida Láctea Isis 900ml Sabores",
+  "b": "Bebida Láctea Clan SC 900ml Sabores",
+  "foto_a": {
+   "imagem": "data/pages/DblBTqfFYyN_p2.jpg",
+   "nome_impresso": "Bebida Láctea Isis 900ml Sabores",
+   "regiao_pct": {
+    "x": 39,
+    "y": 85,
+    "w": 18,
+    "h": 12
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DchCc7glbGU_p2.jpg",
+   "nome_impresso": "Bebida Láctea Clan SC 900ml Sabores",
+   "regiao_pct": {
+    "x": 82,
+    "y": 34,
+    "w": 14,
+    "h": 12
+   }
+  },
+  "r": 0.866
+ },
+ {
+  "k": "papel higienico caprice folha dupla leve 12 pague 11 || papel higienico clear luxo folha dupla 20m leve 12 pague 11",
+  "a": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+  "b": "Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11",
+  "foto_a": {
+   "imagem": "data/pages/story_miramarsupermercado_3956472749811760721.jpg",
+   "nome_impresso": "Papel Higiênico Caprice Folha Dupla Leve 12 Pague 11",
+   "regiao_pct": {
+    "x": 48,
+    "y": 21,
+    "w": 49,
+    "h": 30
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dcer4JtmkZc_p5.jpg",
+   "nome_impresso": "Papel Higiênico Clear Luxo Folha Dupla 20m Leve 12 Pague 11",
+   "regiao_pct": {
+    "x": 52,
+    "y": 62,
+    "w": 42,
+    "h": 28
+   }
+  },
+  "r": 0.865
+ },
+ {
+  "k": "papel higienico nobel sublime folha dupla 20m 12 unidades || papel higienico sublime noble folha dupla 20m 12 unids",
+  "a": "Papel Higiênico Nobel Sublime Folha Dupla 20m 12 Unidades",
+  "b": "Papel Higiênico Sublime Noble Folha Dupla 20m 12 Unids",
+  "foto_a": {
+   "imagem": "data/pages/story_mirassolatacado_3953286743390582836.jpg",
+   "nome_impresso": "Papel Higiênico Nobel Sublime Folha Dupla 20m 12 Unidades",
+   "regiao_pct": {
+    "x": 8,
+    "y": 44,
+    "w": 42,
+    "h": 21
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dcj7EyAmXsE_p3.jpg",
+   "nome_impresso": "Papel Higiênico Sublime Noble Folha Dupla 20m 12 Unids",
+   "regiao_pct": {
+    "x": 81,
+    "y": 79,
+    "w": 18,
+    "h": 20
+   }
+  },
+  "r": 0.865
+ },
+ {
+  "k": "queijo mussarela fatiado galbani 150g || queijo mussarela fatiado litoral 150g",
+  "a": "Queijo Mussarela Fatiado Litoral 150g",
+  "b": "Queijo Mussarela Fatiado Galbani 150g",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DaluZT4mE6m_p3.jpg",
+   "nome_impresso": "Queijo Mussarela Fatiado Litoral 150g",
+   "regiao_pct": {
+    "x": 50,
+    "y": 34,
+    "w": 11,
+    "h": 9
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_170148-572_p1.jpg",
+   "nome_impresso": "Queijo Mussarela Fatiado Galbani 150g",
+   "regiao_pct": {
+    "x": 2,
+    "y": 22,
+    "w": 18,
+    "h": 14
+   }
+  },
+  "r": 0.865
+ },
+ {
+  "k": "batata fininhas bem brasil 1,5kg || batata pre-frita fininhas bem brasil 1,5kg",
+  "a": "Batata Pré-Frita Fininhas Bem Brasil 1,5Kg",
+  "b": "Batata Fininhas Bem Brasil 1,5Kg",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DaOjlIUExHg_p4.jpg",
+   "nome_impresso": "Batata Pré-Frita Fininhas Bem Brasil 1,5Kg",
+   "regiao_pct": {
+    "x": 31,
+    "y": 67,
+    "w": 22,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcKJFuYFnss_p2.jpg",
+   "nome_impresso": "Batata Fininhas Bem Brasil 1,5Kg",
+   "regiao_pct": {
+    "x": 3,
+    "y": 51,
+    "w": 31,
+    "h": 20
+   }
+  },
+  "r": 0.865
+ },
+ {
+  "k": "agua mineral sterbom s/ gas 510ml || agua mineral sterbom sem gas pet com 510ml",
+  "a": "Água Mineral Sterbom Sem gás Pet com 510ml",
+  "b": "Agua Mineral Sterbom S/ Gas 510Ml",
+  "foto_a": {
+   "imagem": "data/pages/atacadao_49a1847c67_p2.jpg",
+   "nome_impresso": "Água Mineral Sterbom Sem gás Pet com 510ml",
+   "regiao_pct": {
+    "x": 33,
+    "y": 37,
+    "w": 30,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Db_jAlGFqp0_p1.jpg",
+   "nome_impresso": "Agua Mineral Sterbom S/ Gas 510Ml",
+   "regiao_pct": {
+    "x": 40,
+    "y": 80,
+    "w": 14,
+    "h": 13
+   }
+  },
+  "r": 0.865
+ },
+ {
+  "k": "refrigerante antarctica guarana 2 litros || refrigerante kuat guarana 2 litros",
+  "a": "Refrigerante Antarctica Guaraná 2 Litros",
+  "b": "Refrigerante Kuat Guaraná 2 Litros",
+  "foto_a": {
+   "imagem": "data/pages/nosso_c7ec707a19_p1.jpg",
+   "nome_impresso": "Refrigerante Antarctica Guaraná 2 Litros",
+   "regiao_pct": {
+    "x": 80,
+    "y": 64,
+    "w": 17,
+    "h": 12
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/nosso_cd8b045379_p1.jpg",
+   "nome_impresso": "Refrigerante Kuat Guaraná 2 Litros",
+   "regiao_pct": {
+    "x": 76,
+    "y": 58,
+    "w": 17,
+    "h": 13
+   }
+  },
+  "r": 0.865
+ },
+ {
+  "k": "acucar demerara petribu pacote com 1kg || acucar demerara uniao pacote com 1kg",
+  "a": "Açúcar Demerara União Pacote com 1kg",
+  "b": "Açúcar Demerara Petribu Pacote com 1Kg",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/atacadao_8c56c3d971_p1.jpg",
+   "nome_impresso": "Açúcar Demerara União Pacote com 1kg",
+   "regiao_pct": {
+    "x": 3.8,
+    "y": 52.3,
+    "w": 46,
+    "h": 15
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_eae9c63c05_p3.jpg",
+   "nome_impresso": "Açúcar Demerara Petribu Pacote com 1Kg",
+   "regiao_pct": {
+    "x": 4,
+    "y": 15,
+    "w": 18,
+    "h": 16
+   }
+  },
+  "r": 0.865
+ },
+ {
+  "k": "arroz parboilizado blue soft tipo 1 1kg || arroz parboilizado safra tipo 1 1kg",
+  "a": "Arroz Parboilizado Blue Soft Tipo 1 1kg",
+  "b": "Arroz Parboilizado Safra Tipo 1 1kg",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DaoUj8YjXJP_p1.jpg",
+   "nome_impresso": "Arroz Parboilizado Blue Soft Tipo 1 1kg",
+   "regiao_pct": {
+    "x": 78,
+    "y": 30,
+    "w": 17,
+    "h": 15
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcR5gSXm9zS_p1.jpg",
+   "nome_impresso": "Arroz Parboilizado Safra Tipo 1 1kg",
+   "regiao_pct": {
+    "x": 0,
+    "y": 37,
+    "w": 25,
+    "h": 21
+   }
+  },
+  "r": 0.865
+ },
+ {
+  "k": "cerveja eisenbahn pilsen lata 350ml || cerveja eisenbahn pilsen puro malte lata 350ml",
+  "a": "Cerveja Eisenbahn Pilsen Lata 350ml",
+  "b": "Cerveja Eisenbahn Pilsen Puro Malte Lata 350ml",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DbJzQS-G14k_p3.jpg",
+   "nome_impresso": "Cerveja Eisenbahn Pilsen Lata 350ml",
+   "regiao_pct": {
+    "x": 36,
+    "y": 34,
+    "w": 10,
+    "h": 6
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcR3dzUD-Nj_p3.jpg",
+   "nome_impresso": "Cerveja Eisenbahn Pilsen Puro Malte Lata 350ml",
+   "regiao_pct": {
+    "x": 8,
+    "y": 40,
+    "w": 14,
+    "h": 12
+   }
+  },
+  "r": 0.864
+ }
+]

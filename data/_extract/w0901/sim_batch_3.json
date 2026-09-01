@@ -1,0 +1,262 @@
+[
+ {
+  "k": "carne bovina costela em tira friboi congelada (preco por quilo na peca) || carne bovina cupim friboi congelada preco por quilo na peca",
+  "a": "Carne Bovina Costela em Tira Friboi Congelada (preço por quilo na peça)",
+  "b": "Carne Bovina Cupim Friboi Congelada Preço por Quilo na Peça",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/atacadao_7e7ddc79ac_p2.jpg",
+   "nome_impresso": "Carne Bovina Costela em Tira Friboi Congelada (preço por quilo na peça)",
+   "regiao_pct": {
+    "x": 4,
+    "y": 21.5,
+    "w": 22.5,
+    "h": 17.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_529ee8d455_p1.jpg",
+   "nome_impresso": "Carne Bovina Cupim Friboi Congelada Preço por Quilo na Peça",
+   "regiao_pct": {
+    "x": 3,
+    "y": 53,
+    "w": 17,
+    "h": 14
+   }
+  },
+  "r": 0.875
+ },
+ {
+  "k": "ovos brancos ou vermelhos grandes ou extras bandeja com 30 || ovos vermelhos grande ou extra bandeja com 30",
+  "a": "Ovos Vermelhos Grande ou Extra Bandeja com 30",
+  "b": "Ovos Brancos ou Vermelhos Grandes ou Extras Bandeja com 30",
+  "foto_a": {
+   "imagem": "data/pages/nosso_4b194e6429_p1.jpg",
+   "nome_impresso": "Ovos Vermelhos Grande ou Extra Bandeja com 30",
+   "regiao_pct": {
+    "x": 66,
+    "y": 48,
+    "w": 16,
+    "h": 10
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/nosso_cd8b045379_p1.jpg",
+   "nome_impresso": "Ovos Brancos ou Vermelhos Grandes ou Extras Bandeja com 30",
+   "regiao_pct": {
+    "x": 76,
+    "y": 72,
+    "w": 20,
+    "h": 13
+   }
+  },
+  "r": 0.874
+ },
+ {
+  "k": "ovos brancos grandes ou extras bandeja com 30 || ovos brancos ou vermelhos grandes ou extras bandeja com 30",
+  "a": "Ovos Brancos Grandes ou Extras Bandeja com 30",
+  "b": "Ovos Brancos ou Vermelhos Grandes ou Extras Bandeja com 30",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/nosso_ea3c7382a4_p1.jpg",
+   "nome_impresso": "Ovos Brancos Grandes ou Extras Bandeja com 30",
+   "regiao_pct": {
+    "x": 66,
+    "y": 42,
+    "w": 30,
+    "h": 15
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/nosso_cd8b045379_p1.jpg",
+   "nome_impresso": "Ovos Brancos ou Vermelhos Grandes ou Extras Bandeja com 30",
+   "regiao_pct": {
+    "x": 76,
+    "y": 72,
+    "w": 20,
+    "h": 13
+   }
+  },
+  "r": 0.874
+ },
+ {
+  "k": "agua mineral cristalina sem gas pet 500ml || agua mineral indaia sem gas pet 500ml",
+  "a": "Água Mineral Indaiá Sem Gás Pet 500ml",
+  "b": "Água Mineral Cristalina sem Gás PET 500ml",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/atacadao_c192194845_p2.jpg",
+   "nome_impresso": "Água Mineral Indaiá Sem Gás Pet 500ml",
+   "regiao_pct": {
+    "x": 51.6,
+    "y": 60.4,
+    "w": 41.4,
+    "h": 15.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dcj7EyAmXsE_p3.jpg",
+   "nome_impresso": "Água Mineral Cristalina sem Gás PET 500ml",
+   "regiao_pct": {
+    "x": 21,
+    "y": 1,
+    "w": 19,
+    "h": 20
+   }
+  },
+  "r": 0.872
+ },
+ {
+  "k": "achoc po italac chocky 700g sachet || achocolatado em po italac chocky 700g sachet",
+  "a": "Achocolatado em Po Italac Chocky 700g Sachet",
+  "b": "Achoc Pó Italac Chocky 700g Sachet",
+  "foto_a": {
+   "imagem": "data/pages/DcJWI18yEH6_p1.jpg",
+   "nome_impresso": "Achocolatado em Po Italac Chocky 700g Sachet",
+   "regiao_pct": {
+    "x": 26,
+    "y": 53,
+    "w": 22,
+    "h": 21
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dci2ovkyiYB_p1.jpg",
+   "nome_impresso": "Achoc Pó Italac Chocky 700g Sachet",
+   "regiao_pct": {
+    "x": 27,
+    "y": 51,
+    "w": 21,
+    "h": 21
+   }
+  },
+  "r": 0.872
+ },
+ {
+  "k": "peito de frango ave nova ou super frango congelado kg || peito de frango super frango congelado kg",
+  "a": "Peito de Frango Super Frango Congelado KG",
+  "b": "Peito de Frango Ave Nova ou Super Frango Congelado kg",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/mv_julho_p2.jpg",
+   "nome_impresso": "Peito de Frango Super Frango Congelado KG",
+   "regiao_pct": {
+    "x": 1.5,
+    "y": 1.0,
+    "w": 24.3,
+    "h": 19.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dcj7EyAmXsE_p1.jpg",
+   "nome_impresso": "Peito de Frango Ave Nova ou Super Frango Congelado kg",
+   "regiao_pct": {
+    "x": 75,
+    "y": 34,
+    "w": 24,
+    "h": 22
+   }
+  },
+  "r": 0.872
+ },
+ {
+  "k": "batata pre-frita masterboi congelada pacote 2kg || batata pre-frita natto congelada pacote com 2kg",
+  "a": "Batata Pré-Frita Masterboi Congelada Pacote 2kg",
+  "b": "Batata Pré-Frita Natto Congelada Pacote com 2kg",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/atacadao_f55407ece3_p1.jpg",
+   "nome_impresso": "Batata Pré-Frita Masterboi Congelada Pacote 2kg",
+   "regiao_pct": {
+    "x": 66.0,
+    "y": 62.400000000000006,
+    "w": 30.5,
+    "h": 13.0
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_ab174b8886_p1.jpg",
+   "nome_impresso": "Batata Pré-Frita Natto Congelada Pacote com 2kg",
+   "regiao_pct": {
+    "x": 52,
+    "y": 39,
+    "w": 44,
+    "h": 14
+   }
+  },
+  "r": 0.872
+ },
+ {
+  "k": "arroz parboilizado mariano tipo 1 1kg || arroz parboilizado seu arroz tipo 1 1kg",
+  "a": "Arroz Parboilizado Mariano Tipo 1 1kg",
+  "b": "Arroz Parboilizado Seu Arroz Tipo 1 1kg",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/atacadao_420adb49f1_p1.jpg",
+   "nome_impresso": "Arroz Mariano Parboilizado Tipo 1 Pacote com 1kg",
+   "regiao_pct": {
+    "x": 26.9,
+    "y": 20,
+    "w": 23.8,
+    "h": 29.8
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dcj7EyAmXsE_p1.jpg",
+   "nome_impresso": "Arroz Parboilizado Seu Arroz Tipo 1 1kg",
+   "regiao_pct": {
+    "x": 2,
+    "y": 57,
+    "w": 23,
+    "h": 21
+   }
+  },
+  "r": 0.868
+ },
+ {
+  "k": "polpa de fruta canaa congelada caju/goiaba/manga unidade 100g || polpa de fruta canaa congelada goiaba/ acerola/ manga unidade com 100g",
+  "a": "Polpa de Fruta Canaã Congelada Caju/Goiaba/Manga Unidade 100g",
+  "b": "Polpa de Fruta Canaã Congelada Goiaba/ Acerola/ Manga Unidade com 100g",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/atacadao_806f2b524a_p2.jpg",
+   "nome_impresso": "Polpa de Fruta Canaã Congelada Caju/Goiaba/Manga Unidade 100g",
+   "regiao_pct": {
+    "x": 35,
+    "y": 72,
+    "w": 15,
+    "h": 10
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_529ee8d455_p2.jpg",
+   "nome_impresso": "Polpa de Fruta Canaã Congelada Goiaba/ Acerola/ Manga Unidade com 100g",
+   "regiao_pct": {
+    "x": 3,
+    "y": 70,
+    "w": 17,
+    "h": 25
+   }
+  },
+  "r": 0.868
+ },
+ {
+  "k": "bebida lactea uht nescau cx 180ml || bebida lactea uht nescau cx 180ml chocolate",
+  "a": "Bebida Lactea UHT Nescau CX 180ml Chocolate",
+  "b": "Bebida Láctea UHT Nescau cx 180ml",
+  "foto_a": {
+   "imagem": "data/pages/Db1f1slmpp3_p3.jpg",
+   "nome_impresso": "Bebida Lactea UHT Nescau CX 180ml Chocolate",
+   "regiao_pct": {
+    "x": 6,
+    "y": 13,
+    "w": 11,
+    "h": 9
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcjpwyHAVYO_p2.jpg",
+   "nome_impresso": "Bebida Láctea UHT Nescau cx 180ml",
+   "regiao_pct": {
+    "x": 62,
+    "y": 80,
+    "w": 18,
+    "h": 16
+   }
+  },
+  "r": 0.868
+ }
+]
