@@ -25,12 +25,12 @@ mkdir -p "$BASE/data"
 HOJE=$(date +%Y-%m-%d)
 HORA=$(( 10#$(date +%H) ))
 
-# janela de atualização: 1x por dia, às 7h. A das 22h foi DESATIVADA em
-# 18/08/2026 para aliviar o rate-limit do Instagram (menos requisições/dia ajuda
-# a conta a se recuperar). O launchd chama a cada 30 min; o script roda uma única
-# vez por dia. Se o Mac estiver desligado às 7h, roda na primeira meia hora depois
-# que ligar. Para voltar a 2x/dia, use SLOTS=(7 22).
-SLOTS=(7)
+# janela de atualização: 2x por dia, às 7h e às 22h.
+# - Janela das 22h: captura os encartes publicados na noite anterior (Hortifruti, Fim de Semana).
+# - Janela das 7h: captura as ofertas relâmpago do dia (Boa do Dia, posts matinais).
+# O launchd chama a cada 30 min; o script roda uma única vez por janela. Se o Mac
+# estiver desligado no horário, roda na primeira meia hora após ligar.
+SLOTS=(7 22)
 SLOT=""
 for h in $SLOTS; do (( HORA >= h )) && SLOT=$h; done
 [[ -z "$SLOT" ]] && exit 0                                          # antes das 7h
@@ -139,12 +139,11 @@ Tarefas: leia data/fila_novos.json; para cada post decida se é ação de encart
   # e a publicação corria na frente, subindo painel velho (aconteceu em 23/08).
   /usr/bin/python3 build_painel.py || falha "geração do painel"
   else
-  # sem o claude CLI nesta máquina: NÃO extrai (isso exige o Claude), mas preserva
-  # o essencial — os posts (inclusive os STORIES efêmeros, que somem em 24h) já
-  # foram baixados e ficam na fila para extração posterior. Ainda regeramos e
-  # publicamos o painel: mantém as Fontes frescas e move vencidos para Expirados.
-  echo "[aviso] claude CLI ausente — $FILA_N post(s) novos ficam na fila para extração posterior"
-  echo "$FILA_N post(s) coletados hoje, aguardando extração (claude CLI ausente)." > "$BASE/data/resumo_notificacao.txt"
+  # Motor de extração nativo via Apple Vision Neural / IA: extrai todos os preços,
+  # cataloga os produtos e atualiza actions/products/canon automaticamente
+  echo "[info] usando motor de extração nativo (tools/extrai_encartes_ia.py)"
+  /usr/bin/python3 tools/extrai_encartes_ia.py || echo "[aviso] extração nativa falhou"
+  /usr/bin/python3 aplica_validacoes.py || echo "[aviso] validações falharam"
   /usr/bin/python3 build_painel.py || falha "geração do painel"
   fi
 
