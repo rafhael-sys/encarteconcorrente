@@ -1,89 +1,87 @@
 {
  "Rede Mais": {
-  "ultima_coleta_ok": "2026-08-31 07:05",
+  "ultima_coleta_ok": "2026-09-02 08:04",
   "ultimo_erro": null,
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "Rede Super Show": {
-  "ultima_coleta_ok": "2026-09-01 08:50",
-  "ultimo_erro": null,
-  "ultimo_story_ok": "2026-08-18 09:15"
+  "ultima_coleta_ok": "2026-09-02 07:49",
+  "ultimo_erro": null
  },
  "Favorito Super / Atacado Favorito": {
   "ultima_coleta_ok": "2026-08-31 07:05",
-  "ultimo_erro": null,
+  "ultimo_erro": "2026-09-01 10:45: resposta vazia (rate-limit ou cookie inválido)",
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "Queiroz Atacadão": {
-  "ultima_coleta_ok": "2026-08-31 08:39",
-  "ultimo_erro": null,
-  "ultimo_story_ok": "2026-08-18 09:15"
+  "ultima_coleta_ok": "2026-09-02 07:49",
+  "ultimo_erro": null
  },
  "SuperFácil Atacado": {
-  "ultima_coleta_ok": "2026-08-31 07:05",
+  "ultima_coleta_ok": "2026-09-02 08:04",
   "ultimo_erro": null,
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "SuperFácil Vale do Sol": {
   "ultima_coleta_ok": "2026-08-31 07:05",
-  "ultimo_erro": null,
+  "ultimo_erro": "2026-09-01 10:45: resposta vazia (rate-limit ou cookie inválido)",
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "Mar Vermelho Atacado": {
   "ultima_coleta_ok": "2026-08-29 07:17",
-  "ultimo_erro": null,
+  "ultimo_erro": "2026-09-01 10:45: resposta vazia (rate-limit ou cookie inválido)",
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "Leva Mais Atacarejo": {
   "ultima_coleta_ok": "2026-08-31 07:05",
-  "ultimo_erro": null,
+  "ultimo_erro": "2026-09-01 10:45: resposta vazia (rate-limit ou cookie inválido)",
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "Miramar Supermercado": {
   "ultima_coleta_ok": "2026-08-29 07:17",
-  "ultimo_erro": null,
+  "ultimo_erro": "2026-09-01 10:45: resposta vazia (rate-limit ou cookie inválido)",
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "Mirassol Atacado": {
   "ultima_coleta_ok": "2026-08-31 07:05",
-  "ultimo_erro": null,
+  "ultimo_erro": "2026-09-01 10:45: resposta vazia (rate-limit ou cookie inválido)",
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "Super Nordestão": {
-  "ultima_coleta_ok": "2026-08-31 07:05",
+  "ultima_coleta_ok": "2026-09-02 08:04",
   "ultimo_erro": null,
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "Assaí Atacadista": {
-  "ultima_coleta_ok": "2026-09-01 09:35",
+  "ultima_coleta_ok": "2026-09-02 07:49",
   "ultimo_erro": null
  },
  "Atacadão": {
-  "ultima_coleta_ok": "2026-09-01 09:35",
+  "ultima_coleta_ok": "2026-09-02 07:49",
   "ultimo_erro": null
  },
  "Leva Mais Atacarejo João Câmara": {
-  "ultima_coleta_ok": "2026-08-31 07:05",
+  "ultima_coleta_ok": "2026-09-02 08:04",
   "ultimo_erro": null,
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "Atacarejo Santo Antônio": {
   "ultima_coleta_ok": "2026-08-31 08:39",
-  "ultimo_erro": null,
+  "ultimo_erro": "2026-09-01 10:45: resposta vazia (rate-limit ou cookie inválido)",
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "Nosso Atacarejo": {
-  "ultima_coleta_ok": "2026-08-31 10:48",
-  "ultimo_erro": "2026-09-01 09:35: catálogo de encartes não encontrado na página (curl e navegador)"
+  "ultima_coleta_ok": "2026-09-02 07:49",
+  "ultimo_erro": null
  },
  "Rede Supercop": {
   "ultima_coleta_ok": "2026-08-31 07:05",
-  "ultimo_erro": null,
+  "ultimo_erro": "2026-09-01 10:45: resposta vazia (rate-limit ou cookie inválido)",
   "ultimo_story_ok": "2026-08-18 09:15"
  },
  "Corte Fácil Atacarejo": {
   "ultima_coleta_ok": "2026-08-31 07:05",
-  "ultimo_erro": null,
+  "ultimo_erro": "2026-09-01 10:45: resposta vazia (rate-limit ou cookie inválido)",
   "ultimo_story_ok": "2026-08-18 09:15"
  }
 }

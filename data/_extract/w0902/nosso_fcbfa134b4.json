@@ -1,0 +1,24 @@
+{
+  "shortcode": "nosso_fcbfa134b4",
+  "validade_impressa": "Nossa Quarta & Quinta - Data das Ofertas: 02 e 03 Setembro - Estado do RN",
+  "paginas": {
+    "nosso_fcbfa134b4_p1": [
+      {"n": "Carne Bovina Costela Ponta de Agulha Kg", "p": "21,98", "u": "kg", "x": 6, "y": 21, "w": 18, "h": 23},
+      {"n": "Carne Bovina Capa de Filé Kg", "p": "32,98", "u": "kg", "x": 24, "y": 21, "w": 18, "h": 23},
+      {"n": "Filé de Peito Bom Todo 1Kg Bandeja", "p": "18,98", "u": "kg", "x": 42, "y": 21, "w": 18, "h": 23},
+      {"n": "Linguiça Seara Kg Suína", "p": "14,98", "u": "kg", "x": 60, "y": 21, "w": 18, "h": 23},
+      {"n": "Empanado Seara 100g Steak", "p": "1,39", "u": "un", "x": 78, "y": 21, "w": 16, "h": 23},
+      {"n": "Cenoura", "p": "5,98", "u": "kg", "x": 6, "y": 45, "w": 16, "h": 14},
+      {"n": "Alho Redinha 180g ou 200g", "p": "5,58", "u": "un", "x": 22, "y": 45, "w": 14, "h": 14},
+      {"n": "Morango 200g", "p": "5,98", "u": "un", "x": 36, "y": 45, "w": 14, "h": 14},
+      {"n": "Laranja Pêra", "p": "1,78", "u": "kg", "x": 50, "y": 45, "w": 14, "h": 14},
+      {"n": "Ovos Brancos ou Vermelhos Grande ou Extra Bandeja com 30", "p": "16,98", "u": "un", "x": 64, "y": 45, "w": 30, "h": 14},
+      {"n": "Mistura Láctea Mococa 200g", "p": "1,49", "u": "cada", "x": 6, "y": 60, "w": 15, "h": 32},
+      {"n": "Macarrão Gostoso 400g Espaguete", "p": "1,99", "u": "cada", "x": 21, "y": 60, "w": 14, "h": 32},
+      {"n": "Arroz Caçarola ou Seu Arroz 1Kg Parboilizado", "p": "3,45", "u": "cada", "x": 35, "y": 60, "w": 15, "h": 32},
+      {"n": "Leite em Pó Bom Gosto 700g Integral", "p": "18,98", "u": "cada", "x": 50, "y": 60, "w": 15, "h": 32},
+      {"n": "Cerveja Skol 350ml Pilsen", "p": "3,15", "u": "cada", "x": 65, "y": 60, "w": 14, "h": 32},
+      {"n": "Refrigerante Antarctica 2L Guaraná", "p": "7,98", "u": "cada", "x": 79, "y": 60, "w": 15, "h": 32}
+    ]
+  }
+}

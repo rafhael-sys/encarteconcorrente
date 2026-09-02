@@ -18396,5 +18396,161 @@
   ],
   "fonte": "web",
   "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "assai_171164-572",
+  "perfil": "assai.com.br",
+  "titulo": "Assaí — Ofertas (02 e 03/09)",
+  "banner": "Assaí Atacadista",
+  "segmento": "atacarejo",
+  "inicio": "2026-09-02",
+  "fim": "2026-09-03",
+  "carrossel": true,
+  "shortcode": "assai_171164-572",
+  "caption": "Preços válidos de 02/09/2026 até 03/09/2026",
+  "adicionado_em": "2026-09-02",
+  "paginas": [
+   "assai_171164-572_p1.jpg",
+   "assai_171164-572_p2.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.assai.com.br/ofertas/rio-grande-do-norte/assai-natal"
+ },
+ {
+  "id": "atacadao_63182e38b6",
+  "perfil": "atacadao.com.br",
+  "titulo": "Atacadão — Boa do Dia (02/09)",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-09-02",
+  "fim": "2026-09-02",
+  "carrossel": false,
+  "shortcode": "atacadao_63182e38b6",
+  "caption": "Boa do Dia",
+  "adicionado_em": "2026-09-02",
+  "paginas": [
+   "atacadao_63182e38b6_p1.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_06a8f44ac3",
+  "perfil": "atacadao.com.br",
+  "titulo": "Atacadão — Super Ofertas (01 a 07/09)",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-09-01",
+  "fim": "2026-09-07",
+  "carrossel": true,
+  "shortcode": "atacadao_06a8f44ac3",
+  "caption": "Super Ofertas",
+  "adicionado_em": "2026-09-02",
+  "paginas": [
+   "atacadao_06a8f44ac3_p1.jpg",
+   "atacadao_06a8f44ac3_p2.jpg",
+   "atacadao_06a8f44ac3_p3.jpg",
+   "atacadao_06a8f44ac3_p4.jpg",
+   "atacadao_06a8f44ac3_p5.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_b09397a8ec",
+  "perfil": "atacadao.com.br",
+  "titulo": "Atacadão — Super Ofertas Betânia (02 a 07/09)",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-09-02",
+  "fim": "2026-09-07",
+  "carrossel": false,
+  "shortcode": "atacadao_b09397a8ec",
+  "caption": "Super Ofertas",
+  "adicionado_em": "2026-09-02",
+  "paginas": [
+   "atacadao_b09397a8ec_p1.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_0ca3ad8ffb",
+  "perfil": "atacadao.com.br",
+  "titulo": "Atacadão — Super Ofertas Danone (02 a 07/09)",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-09-02",
+  "fim": "2026-09-07",
+  "carrossel": false,
+  "shortcode": "atacadao_0ca3ad8ffb",
+  "caption": "Super Ofertas",
+  "adicionado_em": "2026-09-02",
+  "paginas": [
+   "atacadao_0ca3ad8ffb_p1.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "atacadao_e765c34b02",
+  "perfil": "atacadao.com.br",
+  "titulo": "Atacadão — Festival Perfumaria e Limpeza (01 a 10/09)",
+  "banner": "Atacadão",
+  "segmento": "atacarejo",
+  "inicio": "2026-09-01",
+  "fim": "2026-09-10",
+  "carrossel": true,
+  "shortcode": "atacadao_e765c34b02",
+  "caption": "Festival Perfumaria e Limpeza",
+  "adicionado_em": "2026-09-02",
+  "paginas": [
+   "atacadao_e765c34b02_p1.jpg",
+   "atacadao_e765c34b02_p2.jpg",
+   "atacadao_e765c34b02_p3.jpg",
+   "atacadao_e765c34b02_p4.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.atacadao.com.br/loja/natal-sul"
+ },
+ {
+  "id": "nosso_fcbfa134b4",
+  "perfil": "nossoatacarejo.com.br",
+  "titulo": "Nosso Atacarejo — Nossa Quarta & Quinta (02 e 03/09)",
+  "banner": "Nosso Atacarejo",
+  "segmento": "atacarejo",
+  "inicio": "2026-09-02",
+  "fim": "2026-09-03",
+  "carrossel": false,
+  "shortcode": "nosso_fcbfa134b4",
+  "caption": "Nossa Quarta & Quinta",
+  "adicionado_em": "2026-09-02",
+  "paginas": [
+   "nosso_fcbfa134b4_p1.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.nossoatacarejo.com.br/encarte/quarta-e-quinta-rn/5"
+ },
+ {
+  "id": "nosso_7a203ffc72",
+  "perfil": "nossoatacarejo.com.br",
+  "titulo": "Nosso Atacarejo — Encarte do Mês (01 a 14/09)",
+  "banner": "Nosso Atacarejo",
+  "segmento": "atacarejo",
+  "inicio": "2026-09-01",
+  "fim": "2026-09-14",
+  "carrossel": true,
+  "shortcode": "nosso_7a203ffc72",
+  "caption": "Encarte do Mês",
+  "adicionado_em": "2026-09-02",
+  "paginas": [
+   "nosso_7a203ffc72_p1.jpg",
+   "nosso_7a203ffc72_p2.jpg",
+   "nosso_7a203ffc72_p3.jpg",
+   "nosso_7a203ffc72_p4.jpg",
+   "nosso_7a203ffc72_p5.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.nossoatacarejo.com.br/encarte/encarte-do-mes-rn/5"
  }
 ]

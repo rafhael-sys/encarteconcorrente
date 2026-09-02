@@ -1,0 +1,340 @@
+[
+ {
+  "k": "bebida lactea yobem betania sabores 250g || bebida lactea yobem betania sabores tp 250g",
+  "a": "Bebida Láctea Yobem Betânia Sabores 250g",
+  "b": "Bebida Láctea Yobem Betânia Sabores TP 250g",
+  "foto_a": {
+   "imagem": "data/pages/assai_169233-572_p2.jpg",
+   "nome_impresso": "Bebida Láctea Yobem Betânia Sabores 250g",
+   "regiao_pct": {
+    "x": 64,
+    "y": 25,
+    "w": 16,
+    "h": 12
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_170665-572_p2.jpg",
+   "nome_impresso": "Bebida Láctea Yobem Betânia Sabores TP 250g",
+   "regiao_pct": {
+    "x": 63,
+    "y": 19,
+    "w": 17,
+    "h": 16
+   }
+  },
+  "r": 0.964
+ },
+ {
+  "k": "travesseiro eco pluma comftex 50x70cm || travesseiro eco pluma contex 50x70cm",
+  "a": "Travesseiro Eco Pluma Comftex 50x70cm",
+  "b": "Travesseiro Eco Pluma Contex 50x70cm",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/qz_vaibrasil_p3.jpg",
+   "nome_impresso": "Travesseiro Eco Pluma Comftex 50x70cm",
+   "regiao_pct": {
+    "x": 6.1,
+    "y": 86.8,
+    "w": 8.5,
+    "h": 12.8
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcmaaO7Gsqe_p3.jpg",
+   "nome_impresso": "Travesseiro Eco Pluma Contex 50x70cm",
+   "regiao_pct": {
+    "x": 37,
+    "y": 86,
+    "w": 8,
+    "h": 12
+   }
+  },
+  "r": 0.959
+ },
+ {
+  "k": "creme de acai moa pote 1l || creme de acai moa pt 1l",
+  "a": "Creme de Açaí Moa Pt 1L",
+  "b": "Creme de Açaí Môa Pote 1L",
+  "foto_a": {
+   "imagem": "data/pages/Dbq-8_tmFbL_p2.jpg",
+   "nome_impresso": "Creme de Açaí Moa Pt 1L",
+   "regiao_pct": {
+    "x": 49,
+    "y": 70,
+    "w": 11,
+    "h": 12
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_170665-572_p3.jpg",
+   "nome_impresso": "Creme de Açaí Môa Pote 1L",
+   "regiao_pct": {
+    "x": 56,
+    "y": 51,
+    "w": 17,
+    "h": 15
+   }
+  },
+  "r": 0.958
+ },
+ {
+  "k": "beb achocolatada italakinho 200ml || bebida achocolatada italakinho 200ml",
+  "a": "Bebida Achocolatada Italakinho 200ml",
+  "b": "Beb Achocolatada Italakinho 200ml",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DbHVClGIOF5_p2.jpg",
+   "nome_impresso": "Bebida Achocolatada Italakinho 200ml",
+   "regiao_pct": {
+    "x": 89,
+    "y": 57,
+    "w": 12,
+    "h": 9
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DchWYETIFog_p1.jpg",
+   "nome_impresso": "Beb Achocolatada Italakinho 200ml",
+   "regiao_pct": {
+    "x": 21,
+    "y": 73,
+    "w": 16,
+    "h": 13
+   }
+  },
+  "r": 0.957
+ },
+ {
+  "k": "sobrecoxa de frango sadia pct 1kg || sobrecoxa frango sadia pct 1kg",
+  "a": "Sobrecoxa de Frango Sadia pct 1kg",
+  "b": "Sobrecoxa Frango Sadia PCT 1kg",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/qz_vaibrasil_p2.jpg",
+   "nome_impresso": "Sobrecoxa de Frango Sadia Pct 1kg",
+   "regiao_pct": {
+    "x": 70.6,
+    "y": 39.6,
+    "w": 7.4,
+    "h": 10.4
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcmaaO7Gsqe_p2.jpg",
+   "nome_impresso": "Sobrecoxa Frango Sadia PCT 1kg",
+   "regiao_pct": {
+    "x": 51,
+    "y": 47,
+    "w": 7,
+    "h": 10
+   }
+  },
+  "r": 0.952
+ },
+ {
+  "k": "pao de queijo delicia mineira 1kg cong tradicional || pao de queijo delicia mineira 1kg congelado tradicional",
+  "a": "Pão de Queijo Delícia Mineira 1kg Congelado Tradicional",
+  "b": "Pão de Queijo Delícia Mineira 1kg Cong Tradicional",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/Dai5Aw-GzCL_p2.jpg",
+   "nome_impresso": "Pão de Queijo Delícia Mineira 1kg Congelado Tradicional",
+   "regiao_pct": {
+    "x": 37.1,
+    "y": 76.6,
+    "w": 9.0,
+    "h": 9.7
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcmaaO7Gsqe_p2.jpg",
+   "nome_impresso": "Pão de Queijo Delícia Mineira 1kg Cong Tradicional",
+   "regiao_pct": {
+    "x": 66,
+    "y": 47,
+    "w": 7,
+    "h": 10
+   }
+  },
+  "r": 0.952
+ },
+ {
+  "k": "inahme cara sao tome || inhame cara sao tome",
+  "a": "Inhame Cara São Tomé",
+  "b": "Inahme Cara São Tome",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/Da1IbCLG78L_p2.jpg",
+   "nome_impresso": "Inhame Cara São Tomé",
+   "regiao_pct": {
+    "x": 53,
+    "y": 58,
+    "w": 8,
+    "h": 9
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DchDGXIErij_p1.jpg",
+   "nome_impresso": "Inahme Cara São Tome",
+   "regiao_pct": {
+    "x": 2,
+    "y": 85,
+    "w": 17,
+    "h": 14
+   }
+  },
+  "r": 0.95
+ },
+ {
+  "k": "pao de alho bom todo cong 400g tradicional || pao de alho bom todo congelado 400g tradicional",
+  "a": "Pão de Alho Bom Todo Congelado 400g Tradicional",
+  "b": "Pão de Alho Bom Todo Cong 400g Tradicional",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/qz_ofertaco_p2.jpg",
+   "nome_impresso": "Pão de Alho Bom Todo Congelado 400g Tradicional",
+   "regiao_pct": {
+    "x": 50.8,
+    "y": 80.4,
+    "w": 10.2,
+    "h": 9.8
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcmaaO7Gsqe_p2.jpg",
+   "nome_impresso": "Pão de Alho Bom Todo Cong 400g Tradicional",
+   "regiao_pct": {
+    "x": 81,
+    "y": 47,
+    "w": 7,
+    "h": 10
+   }
+  },
+  "r": 0.944
+ },
+ {
+  "k": "cr dental colgate mpa 90g || creme dental colgate mpa 90g",
+  "a": "Creme Dental Colgate MPA 90g",
+  "b": "Cr Dental Colgate MPA 90g",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DalUVkKleuL_p1.jpg",
+   "nome_impresso": "Creme Dental Colgate MPA 90g",
+   "regiao_pct": {
+    "x": 60.7,
+    "y": 81.0,
+    "w": 18.9,
+    "h": 8.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DchWYETIFog_p2.jpg",
+   "nome_impresso": "Cr Dental Colgate MPA 90g",
+   "regiao_pct": {
+    "x": 83,
+    "y": 72,
+    "w": 15,
+    "h": 12
+   }
+  },
+  "r": 0.943
+ },
+ {
+  "k": "toalhas umedecidas felita baby c/ 48 || toalhas umedecidas felita baby c/96",
+  "a": "Toalhas Umedecidas Felitá Baby C/ 48",
+  "b": "Toalhas Umedecidas Felitá Baby C/96",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DabVyKuj5YB_p6.jpg",
+   "nome_impresso": "Toalhas Umedecidas Felitá Baby C/ 48",
+   "regiao_pct": {
+    "x": 15.5,
+    "y": 75.0,
+    "w": 30.0,
+    "h": 19.5
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcriSVWj4E7_p3.jpg",
+   "nome_impresso": "Toalhas Umedecidas Felitá Baby C/96",
+   "regiao_pct": {
+    "x": 62,
+    "y": 20,
+    "w": 17,
+    "h": 12
+   }
+  },
+  "r": 0.943
+ },
+ {
+  "k": "agua sanitaria marilux 5l || agua sanitaria marilux gl 5l",
+  "a": "Água Sanitária Marilux 5L",
+  "b": "Água Sanitária Marilux GL 5L",
+  "foto_a": {
+   "imagem": "data/pages/DcHg2p1mnjy_p3.jpg",
+   "nome_impresso": "Água Sanitária Marilux 5L",
+   "regiao_pct": {
+    "x": 25,
+    "y": 57,
+    "w": 9,
+    "h": 9
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcmaaO7Gsqe_p2.jpg",
+   "nome_impresso": "Água Sanitária Marilux GL 5L",
+   "regiao_pct": {
+    "x": 43,
+    "y": 78,
+    "w": 11,
+    "h": 13
+   }
+  },
+  "r": 0.943
+ },
+ {
+  "k": "lava roupa po tixan ype sch 1,6kg fragrancias || lava roupas em po tixan ype sache 1,6kg fragrancias",
+  "a": "Lava Roupa Po Tixan Ype Sch 1,6kg Fragrâncias",
+  "b": "Lava Roupas em Pó Tixan Ypê Sachê 1,6kg Fragrâncias",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DbdQP8ulpAW_p2.jpg",
+   "nome_impresso": "Lava Roupa Po Tixan Ype Sch 1,6kg Fragrâncias",
+   "regiao_pct": {
+    "x": 77,
+    "y": 7,
+    "w": 18,
+    "h": 27
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcmanVTH2KW_p3.jpg",
+   "nome_impresso": "Lava Roupas em Pó Tixan Ypê Sachê 1,6kg Fragrâncias",
+   "regiao_pct": {
+    "x": 47,
+    "y": 60,
+    "w": 9,
+    "h": 12
+   }
+  },
+  "r": 0.938
+ },
+ {
+  "k": "esponja multiuso bombril c/4 (emb. promocional) || esponja multiuso brilhus c/4 (emb. promocional)",
+  "a": "Esponja Multiuso Bombril C/4 (Emb. Promocional)",
+  "b": "Esponja Multiuso Brilhus C/4 (Emb. Promocional)",
+  "foto_a": {
+   "imagem": "data/pages/DbT_N-5D8EV_p8.jpg",
+   "nome_impresso": "Esponja Multiuso Bombril C/4 (Emb. Promocional)",
+   "regiao_pct": {
+    "x": 66,
+    "y": 6,
+    "w": 30,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcriSVWj4E7_p5.jpg",
+   "nome_impresso": "Esponja Multiuso Brilhus C/4 (Emb. Promocional)",
+   "regiao_pct": {
+    "x": 50,
+    "y": 75,
+    "w": 25,
+    "h": 16
+   }
+  },
+  "r": 0.933
+ }
+]

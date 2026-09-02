@@ -1,0 +1,370 @@
+{
+ "shortcode": "assai_171164-572",
+ "validade_impressa": "02/09 a 03/09/26 (Preços válidos para as lojas do Rio Grande do Norte de 02/09/2026 a 03/09/2026 ou enquanto durarem os estoques)",
+ "paginas": {
+  "assai_171164-572_p1": [
+   {
+    "n": "Abacate",
+    "p": "3,99",
+    "u": "kg",
+    "x": 3,
+    "y": 22,
+    "w": 16,
+    "h": 15
+   },
+   {
+    "n": "Abacaxi Unidade",
+    "p": "3,49",
+    "u": "cada",
+    "x": 22,
+    "y": 22,
+    "w": 16,
+    "h": 15
+   },
+   {
+    "n": "Coentro Maço",
+    "p": "1,49",
+    "u": "cada",
+    "x": 41,
+    "y": 22,
+    "w": 15,
+    "h": 15
+   },
+   {
+    "n": "Alho a Granel",
+    "p": "18,99",
+    "u": "kg",
+    "x": 59,
+    "y": 22,
+    "w": 15,
+    "h": 15
+   },
+   {
+    "n": "Banana-Pacovam",
+    "p": "3,49",
+    "u": "kg",
+    "x": 77,
+    "y": 22,
+    "w": 19,
+    "h": 15
+   },
+   {
+    "n": "Mamão-Formosa",
+    "p": "3,49",
+    "u": "kg",
+    "x": 3,
+    "y": 38,
+    "w": 16,
+    "h": 14
+   },
+   {
+    "n": "Batata-Doce Rosa",
+    "p": "4,69",
+    "u": "kg",
+    "x": 22,
+    "y": 38,
+    "w": 16,
+    "h": 14
+   },
+   {
+    "n": "Cenoura",
+    "p": "6,29",
+    "u": "kg",
+    "x": 41,
+    "y": 38,
+    "w": 15,
+    "h": 14
+   },
+   {
+    "n": "Couve-Manteiga Maço",
+    "p": "1,49",
+    "u": "cada",
+    "x": 59,
+    "y": 38,
+    "w": 15,
+    "h": 14
+   },
+   {
+    "n": "Goma de Mandioca para Tapioca Precioso Pacote 500g",
+    "p": "2,29",
+    "u": "cada",
+    "x": 77,
+    "y": 38,
+    "w": 19,
+    "h": 14
+   },
+   {
+    "n": "Manga-Tommy",
+    "p": "4,99",
+    "u": "kg",
+    "x": 3,
+    "y": 52,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "n": "Tangerina Importada",
+    "p": "9,89",
+    "u": "kg",
+    "x": 22,
+    "y": 52,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "n": "Laranja-Pera",
+    "p": "1,79",
+    "u": "kg",
+    "x": 41,
+    "y": 52,
+    "w": 15,
+    "h": 18
+   },
+   {
+    "n": "Maçã-Gala",
+    "p": "6,99",
+    "u": "kg",
+    "x": 59,
+    "y": 52,
+    "w": 15,
+    "h": 18
+   },
+   {
+    "n": "Cebola Nacional",
+    "p": "5,69",
+    "u": "kg",
+    "x": 77,
+    "y": 52,
+    "w": 19,
+    "h": 18
+   },
+   {
+    "n": "Uva-Vitória Bandeja 500g",
+    "p": "4,49",
+    "u": "bdj",
+    "x": 3,
+    "y": 74,
+    "w": 17,
+    "h": 21
+   },
+   {
+    "n": "Pimentão-Verde",
+    "p": "4,79",
+    "u": "kg",
+    "x": 22,
+    "y": 74,
+    "w": 16,
+    "h": 21
+   },
+   {
+    "n": "Repolho-Verde",
+    "p": "3,89",
+    "u": "kg",
+    "x": 40,
+    "y": 74,
+    "w": 16,
+    "h": 21
+   },
+   {
+    "n": "Tangerina-Murcote",
+    "p": "5,79",
+    "u": "kg",
+    "x": 58,
+    "y": 74,
+    "w": 16,
+    "h": 21
+   },
+   {
+    "n": "Tomate-Rasteiro",
+    "p": "4,49",
+    "u": "kg",
+    "x": 76,
+    "y": 74,
+    "w": 20,
+    "h": 21
+   }
+  ],
+  "assai_171164-572_p2": [
+   {
+    "n": "Coxão Mole Bovino Resfriado a Vácuo Masterboi",
+    "p": "39,90",
+    "u": "kg (de 44,90, no App Meu Assaí, válido para até 5kg)",
+    "x": 4,
+    "y": 4,
+    "w": 15,
+    "h": 25
+   },
+   {
+    "n": "Peito Bovino com Osso Masterboi",
+    "p": "26,90",
+    "u": "kg (de 29,90, no App Meu Assaí, válido para até 5kg)",
+    "x": 23,
+    "y": 4,
+    "w": 15,
+    "h": 25
+   },
+   {
+    "n": "Coxão Duro Bovino Resfriado",
+    "p": "36,90",
+    "u": "kg (de 41,90, no App Meu Assaí, válido para até 5kg)",
+    "x": 42,
+    "y": 4,
+    "w": 15,
+    "h": 25
+   },
+   {
+    "n": "Cupim Bovino Congelado a Vácuo Masterboi",
+    "p": "35,90",
+    "u": "kg (de 39,90, no App Meu Assaí, válido para até 5kg)",
+    "x": 60,
+    "y": 4,
+    "w": 15,
+    "h": 25
+   },
+   {
+    "n": "Língua Bovina Congelada Masterboi",
+    "p": "22,90",
+    "u": "kg (de 25,90, no App Meu Assaí, válido para até 5kg)",
+    "x": 78,
+    "y": 4,
+    "w": 18,
+    "h": 25
+   },
+   {
+    "n": "Patinho Bovino Resfriado a Vácuo Masterboi",
+    "p": "43,90",
+    "u": "kg",
+    "x": 4,
+    "y": 29,
+    "w": 15,
+    "h": 20
+   },
+   {
+    "n": "Acém Bovino Resfriado a Vácuo Masterboi",
+    "p": "39,90",
+    "u": "kg",
+    "x": 23,
+    "y": 29,
+    "w": 15,
+    "h": 20
+   },
+   {
+    "n": "Peito Bovino Resfriado a Vácuo Masterboi",
+    "p": "39,90",
+    "u": "kg",
+    "x": 42,
+    "y": 29,
+    "w": 15,
+    "h": 20
+   },
+   {
+    "n": "Aranha Bovina Congelada a Vácuo Masterboi",
+    "p": "38,90",
+    "u": "kg",
+    "x": 60,
+    "y": 29,
+    "w": 15,
+    "h": 20
+   },
+   {
+    "n": "Coxão Duro Bovino Resfriado a Vácuo Master Grill Masterboi",
+    "p": "44,90",
+    "u": "kg",
+    "x": 78,
+    "y": 29,
+    "w": 18,
+    "h": 20
+   },
+   {
+    "n": "Pernil Suíno sem Osso Resfriado Reserva",
+    "p": "23,90",
+    "u": "kg",
+    "x": 4,
+    "y": 49,
+    "w": 15,
+    "h": 19
+   },
+   {
+    "n": "Costelinha Suína Resfriada Reserva",
+    "p": "24,90",
+    "u": "kg",
+    "x": 23,
+    "y": 49,
+    "w": 15,
+    "h": 19
+   },
+   {
+    "n": "Bisteca Suína Resfriada",
+    "p": "15,90",
+    "u": "kg",
+    "x": 42,
+    "y": 49,
+    "w": 15,
+    "h": 19
+   },
+   {
+    "n": "Carne Moída Bovina Congelada Fortboi Embalagem 500g",
+    "p": "7,90",
+    "u": "cada",
+    "x": 60,
+    "y": 49,
+    "w": 15,
+    "h": 19
+   },
+   {
+    "n": "Jerked Beef Dianteiro Frinense Pacote 500g",
+    "p": "27,90",
+    "u": "cada",
+    "x": 78,
+    "y": 49,
+    "w": 18,
+    "h": 19
+   },
+   {
+    "n": "Rabo Bovino Resfriado ou Congelado Masterboi",
+    "p": "37,90",
+    "u": "kg",
+    "x": 4,
+    "y": 68,
+    "w": 15,
+    "h": 18
+   },
+   {
+    "n": "Bucho Bovino Resfriado ou Congelado Masterboi",
+    "p": "17,90",
+    "u": "kg",
+    "x": 23,
+    "y": 68,
+    "w": 15,
+    "h": 18
+   },
+   {
+    "n": "Baço Bovino Congelado a Vácuo Masterboi",
+    "p": "5,90",
+    "u": "kg",
+    "x": 42,
+    "y": 68,
+    "w": 15,
+    "h": 18
+   },
+   {
+    "n": "Filé de Peito de Frango Resfriado Bom Todo",
+    "p": "25,90",
+    "u": "kg",
+    "x": 60,
+    "y": 68,
+    "w": 15,
+    "h": 18
+   },
+   {
+    "n": "Linguiça de Frango Resfriada Aurora",
+    "p": "22,90",
+    "u": "kg",
+    "x": 78,
+    "y": 68,
+    "w": 18,
+    "h": 18
+   }
+  ]
+ }
+}

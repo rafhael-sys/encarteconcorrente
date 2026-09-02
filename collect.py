@@ -41,6 +41,22 @@ def _carrega_cookie():
     return c
 COOKIE = _carrega_cookie()
 
+
+def _carrega_proxy():
+    """Proxy HTTP/S (opcional) para evitar rate-limit de IP no Instagram.
+    Busca em IG_PROXY (env), ~/.config/ig_proxy ou .ig_proxy no projeto."""
+    p = (os.environ.get('IG_PROXY') or '').strip()
+    if not p:
+        for caminho in (os.path.expanduser('~/.config/ig_proxy'), os.path.join(BASE, '.ig_proxy')):
+            try:
+                p = open(caminho, encoding='utf-8').read().strip()
+                if p:
+                    break
+            except OSError:
+                continue
+    return p
+PROXY = _carrega_proxy()
+
 # legenda que sugere ação de encarte/oferta com produto
 KEYWORDS = re.compile(
     r'encarte|oferta|ofertaço|promoç|válid[ao]s?\s|feirão|festival|fecha\s*m[êe]s|'
@@ -48,6 +64,9 @@ KEYWORDS = re.compile(
 
 
 def sh(args, **kw):
+    if PROXY and '--proxy' not in args and '-x' not in args:
+        if args and args[0] == 'curl':
+            args = [args[0], '--proxy', PROXY] + args[1:]
     return subprocess.run(args, capture_output=True, text=True, timeout=60, **kw)
 
 

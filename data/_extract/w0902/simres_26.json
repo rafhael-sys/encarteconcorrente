@@ -1,0 +1,15 @@
+{"resultados": [
+ {"k": "papel higienico mili max folha dupla 4x60m || papel higienico mili max folha dupla 60m c/4", "veredito": "mesmo", "motivo": "Mesmo pacote Mili Max Folha Dupla 4 rolos de 60m nas duas fotos; 60M c/4 = 4x60m, só grafia"},
+ {"k": "aveia sao braz 165g (em flocos ou flocos finos) || aveia sao braz 165g (flocos/flocos finos)", "veredito": "mesmo", "motivo": "Mesmas caixas Aveia São Braz 165g flocos/flocos finos nas duas fotos"},
+ {"k": "biscoito recheado negresco nestle sabores pacote 90g || biscoito recheado negresco sabores pacote 90g", "veredito": "mesmo", "motivo": "Mesmo Negresco 90g (marca Nestlé) com embalagem idêntica nos dois encartes Assaí"},
+ {"k": "ketchup hellmann's 380g (tradicional/picante, exceto supreme) || ketchup hellmann's 380g (tradicional/picante/supreme)", "veredito": "incerto", "motivo": "Mesma marca e tamanho, mas uma oferta inclui Supreme (garrafa NBA na foto) e a outra exclui explicitamente"},
+ {"k": "carne bovina acem sem osso friboi reserva resfriada || carne bovina acem sem osso reserva resfriada", "veredito": "mesmo", "motivo": "As duas fotos trazem o selo Friboi Reserva; mesmo acém sem osso reserva resfriado"},
+ {"k": "fralda descartavel personal baby prot || fralda descartavel personal baby prot jumbo", "veredito": "mesmo", "motivo": "Fotos mostram pacote idêntico Personal Baby Total Protect Pants G c/24; Jumbo é só descrição do pacote"},
+ {"k": "alimento para gatos friskies sabores sache 85g || alimento para gatos whiskas sabores sache 85g", "veredito": "diferente", "motivo": "Marcas distintas: sachê Whiskas em uma foto e Friskies na outra"},
+ {"k": "iogurte natural nestle sabores copo 160g/170g || iogurte natural nestle sabores pt 160g ou 170g", "veredito": "mesmo", "motivo": "Mesmo iogurte natural Nestlé 160g/170g; pote e copo descrevem a mesma embalagem"},
+ {"k": "biscoito recheado bono nestle sabores pacote 90g || biscoito recheado negresco nestle sabores pacote 90g", "veredito": "diferente", "motivo": "Negresco e Bono são biscoitos distintos, lado a lado na mesma página"},
+ {"k": "protetor diario mili c/15 || protetor diario mili c/40", "veredito": "incerto", "motivo": "Mesma marca e variante (sem perfume, sem abas), mas embalagens com 15 vs 40 unidades"},
+ {"k": "chocolate talento garoto sabores pacote 85g || chocolate talento garoto sabores tablete 85g", "veredito": "mesmo", "motivo": "Mesmos tabletes Talento Garoto 85g nas duas fotos; pacote/tablete é só grafia"},
+ {"k": "bolacha jucurutu manteiga do sertao 250g || bolacha massas jucurutu manteiga do sertao 250g", "veredito": "mesmo", "motivo": "Mesmo pacote Massas Jucurutu Manteiga do Sertão 250g nas duas fotos"},
+ {"k": "desodorante anti transpirante aerosol monange 150ml || desodorante antitranspirante aerosol dove 150ml", "veredito": "diferente", "motivo": "Marcas distintas: Dove em uma foto e Monange na outra"}
+]}

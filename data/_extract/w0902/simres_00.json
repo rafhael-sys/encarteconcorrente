@@ -1,0 +1,69 @@
+{
+ "resultados": [
+  {
+   "k": "inseticida aerosol raid 420ml lev+ pag- fragrancias || inseticida aerosol raid 420ml lv+ pag- fragrancias",
+   "veredito": "mesmo",
+   "motivo": "Encartes gêmeos Queiroz: mesmo tile (3 latas Raid, mesmo preço 15,29, mesma posição); só grafia LV+/Lev+ difere"
+  },
+  {
+   "k": "chocolate em barra hershey's 75/77/82/85g || chocolate em barra hersheys 75/77/82/85g",
+   "veredito": "mesmo",
+   "motivo": "Tile idêntico nos encartes gêmeos (barras Hershey's 75/77/82/85g a 7,28); só o apóstrofo difere"
+  },
+  {
+   "k": "mac instantaneo lamen vitarella 74g || mac instataneo lamen vitarella 74g",
+   "veredito": "mesmo",
+   "motivo": "Mesma loja, mesma imagem (Vitarella Lámen carne 74g a 0,49) nas duas páginas; só typo no nome"
+  },
+  {
+   "k": "travesseiro eco pluma conftex 50x70cm || travesseiro eco pluma contex 50x70cm",
+   "veredito": "mesmo",
+   "motivo": "Tile idêntico nos encartes gêmeos (travesseiro branco 50x70cm a 22,98); Contex/Conftex é variação de OCR"
+  },
+  {
+   "k": "chocolate snicker's 45g (sabores) || chocolate snickers 45g (sabores)",
+   "veredito": "mesmo",
+   "motivo": "Mesmas barras Snickers 45g sabores (incl. Dark) nos dois encartes Super Show; só o apóstrofo difere"
+  },
+  {
+   "k": "salgadinho piraque 50g sabores || salgadinhos piraque 50g (sabores)",
+   "veredito": "mesmo",
+   "motivo": "Mesmos pacotes verdes Salgadinho Piraquê 50g sabores nas duas fotos; mesma marca, tamanho e linha"
+  },
+  {
+   "k": "achocolatado em po 3 coracoes sache 700g chocolatto || achocolatado em po 3 coracoes sch 700g chocolatto",
+   "veredito": "mesmo",
+   "motivo": "Mesmo sachê 3 Corações Chocolatto 700g nas duas fotos; SCH é abreviação de sachê"
+  },
+  {
+   "k": "carne bovina costela p.a || carne bovina costela pa",
+   "veredito": "mesmo",
+   "motivo": "Mesmo corte açougue sem marca (costela bovina ponta de agulha, kg) com foto de costela crua nos dois"
+  },
+  {
+   "k": "queijo jucurutu mussarela interfolhada 500g || queijo jucurutu mussarela interfoliada 500g",
+   "veredito": "mesmo",
+   "motivo": "Tile idêntico nos encartes gêmeos (Jucurutu mussarela interfoliada 500g a 22,89); só grafia difere"
+  },
+  {
+   "k": "queijo mussarela proc caico pc ou pdc kg || queijo mussarela proc calco pc ou pdc kg",
+   "veredito": "mesmo",
+   "motivo": "Mesma loja Atacarejo, mesma foto (peça de mussarela Caicó); 'Calco' é erro de leitura de 'Caicó'"
+  },
+  {
+   "k": "travesseiro eco pluma comftex 50x70cm || travesseiro eco pluma conftex 50x70cm",
+   "veredito": "mesmo",
+   "motivo": "Mesma linha Eco Pluma 50x70cm (travesseiro branco) em encartes da mesma rede Queiroz; Comftex/Conftex é grafia"
+  },
+  {
+   "k": "choc kit kat latte macchiato 41,5g || choc kit kat latte machiatto 41,5g",
+   "veredito": "mesmo",
+   "motivo": "Mesmo Kit Kat Latte Macchiato 41,5g (embalagem marrom) nas duas fotos; só grafia do sabor difere"
+  },
+  {
+   "k": "frango a passarinho seara 1kg || frango passarinho seara 1kg",
+   "veredito": "mesmo",
+   "motivo": "Story mostra gôndola com pacotes Seara Frango a Passarinho 1kg (etiqueta confirma); mesmo produto do encarte"
+  }
+ ]
+}

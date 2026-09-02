@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Coleta de encartes de fontes WEB (fora do Instagram).
 
-Fontes ativas: Assaí Atacadista (loja Natal), Atacadão (loja Natal-Sul) e
-Nosso Atacarejo (loja Assú/RN). Validade vem dos dados de cada site.
-Documentação das descobertas: docs_assai_api.md, docs_atacadao_api.md e
-docs_nosso_api.md.
+Fontes ativas: Assaí Atacadista (loja Natal), Atacadão (loja Natal-Sul),
+Nosso Atacarejo (loja Assú/RN), Queiroz Atacadão (lojas RN) e
+Rede Super Show (RN). Validade vem dos dados de cada site/encarte.
+Documentação das descobertas: docs_assai_api.md, docs_atacadao_api.md,
+docs_nosso_api.md, docs_queiroz_api.md e docs_supershow_api.md.
 """
 import json
 import os
@@ -408,6 +409,170 @@ def coleta_nosso(seen, fila):
     return novos
 
 
+QUEIROZ_HOME = 'https://grupoqrz.com.br/'
+
+
+def coleta_queiroz(seen, fila):
+    """Coleta encartes em PDF do Queiroz Atacadão diretamente de grupoqrz.com.br.
+    Lojas do RN: Parnamirim, João Câmara / Ceará-Mirim / São Gonçalo, Mossoró / Assú."""
+    import re
+    import hashlib
+    html = ''
+    for t in range(3):
+        try:
+            r = sh(['curl', '-sL', '--compressed', '-A', UA, QUEIROZ_HOME])
+            if r.returncode == 0 and r.stdout:
+                html = r.stdout
+                break
+        except subprocess.SubprocessError:
+            pass
+        if t < 2:
+            time.sleep(10)
+    if not html:
+        raise ValueError('página do Grupo QRZ não respondeu (curl 3x)')
+
+    # Extrai links de PDF associados às classes das lojas do RN
+    padroes_rn = [
+        ('Parnamirim', r'class=[\"\'][^\"\']*qaParnamirim[^\"\']*[\"\'][^>]*>.*?href=[\"\'](https?://[^\"]+?\.pdf)[\"\']'),
+        ('João Câmara / Ceará-Mirim / São Gonçalo', r'class=[\"\'][^\"\']*qaJoaoCamara[^\"\']*[\"\'][^>]*>.*?href=[\"\'](https?://[^\"]+?\.pdf)[\"\']'),
+        ('Mossoró e Assú', r'class=[\"\'][^\"\']*qaMossoroAssu[^\"\']*[\"\'][^>]*>.*?href=[\"\'](https?://[^\"]+?\.pdf)[\"\']'),
+        ('Hiper Queiroz RN', r'class=[\"\'][^\"\']*hqRN[^\"\']*[\"\'][^>]*>.*?href=[\"\'](https?://[^\"]+?\.pdf)[\"\']'),
+    ]
+
+    encontrados = {}
+    for praca, regex in padroes_rn:
+        m = re.search(regex, html, re.S | re.IGNORECASE)
+        if m:
+            pdf_url = m.group(1).strip()
+            if pdf_url:
+                encontrados[pdf_url] = praca
+
+    if not encontrados:
+        for pdf_url in set(re.findall(r'href=[\"\'](https?://grupoqrz\.com\.br/wp-content/uploads/[^\"]+?\.pdf)[\"\']', html, re.I)):
+            encontrados[pdf_url] = 'RN'
+
+    novos = 0
+    hoje = datetime.date.today().isoformat()
+    for pdf_url, praca in encontrados.items():
+        chave = f'queiroz:{pdf_url}'
+        if chave in seen:
+            continue
+        aid = 'queiroz_' + hashlib.md5(pdf_url.encode()).hexdigest()[:10]
+        pdf = os.path.join(PAGES, f'{aid}.pdf')
+        try:
+            sh(['curl', '-sL', '-A', UA, '-o', pdf, pdf_url])
+            if not os.path.exists(pdf) or os.path.getsize(pdf) < 5000:
+                raise ValueError('PDF corrompido ou vazio')
+            with open(pdf, 'rb') as f:
+                if f.read(5) != b'%PDF-':
+                    raise ValueError('arquivo baixado não é PDF válido')
+            linhas = pdf_para_jpg(pdf, os.path.join(PAGES, aid), 1600)
+            files = [os.path.basename(ln) for ln in linhas]
+            if not files:
+                raise ValueError('conversão do PDF não gerou páginas')
+        except Exception as e:
+            print(f'[aviso] queiroz {praca} ({pdf_url}): {e}; fica para a próxima', file=sys.stderr)
+            continue
+        finally:
+            try:
+                os.remove(pdf)
+            except OSError:
+                pass
+        if files:
+            fila.append({
+                'shortcode': aid,
+                'perfil': 'grupoqrz.com.br',
+                'banner': 'Queiroz Atacadão',
+                'segmento': 'atacarejo',
+                'caption': f'Encarte Queiroz Atacadão - {praca}',
+                'taken_at': 0,
+                'carrossel': len(files) > 1,
+                'paginas': files,
+                'coletado_em': hoje,
+                'fonte': 'web',
+                'link': 'https://grupoqrz.com.br/#encarte',
+                'validade_confiavel': False,
+            })
+            novos += 1
+            seen.add(chave)
+        time.sleep(1)
+    return novos
+
+
+SUPERSHOW_HOME = 'https://redesupershow.com.br/'
+
+
+def coleta_supershow(seen, fila):
+    """Coleta encartes em PDF da Rede Super Show diretamente de redesupershow.com.br."""
+    import re
+    import hashlib
+    html = ''
+    for t in range(3):
+        try:
+            r = sh(['curl', '-sL', '--compressed', '-A', UA, SUPERSHOW_HOME])
+            if r.returncode == 0 and r.stdout:
+                html = r.stdout
+                break
+        except subprocess.SubprocessError:
+            pass
+        if t < 2:
+            time.sleep(10)
+    if not html:
+        raise ValueError('página da Rede Super Show não respondeu (curl 3x)')
+
+    pdfs = list(set(re.findall(r'href=[\"\'](https?://redesupershow\.com\.br/wp-content/uploads/[^\"]+?\.pdf)[\"\']', html, re.I)))
+    if not pdfs:
+        print('[aviso] supershow: nenhum PDF de encarte encontrado na home', file=sys.stderr)
+        return 0
+
+    novos = 0
+    hoje = datetime.date.today().isoformat()
+    for pdf_url in pdfs:
+        chave = f'supershow:{pdf_url}'
+        if chave in seen:
+            continue
+        aid = 'supershow_' + hashlib.md5(pdf_url.encode()).hexdigest()[:10]
+        pdf = os.path.join(PAGES, f'{aid}.pdf')
+        try:
+            sh(['curl', '-sL', '-A', UA, '-o', pdf, pdf_url])
+            if not os.path.exists(pdf) or os.path.getsize(pdf) < 5000:
+                raise ValueError('PDF corrompido ou vazio')
+            with open(pdf, 'rb') as f:
+                if f.read(5) != b'%PDF-':
+                    raise ValueError('arquivo baixado não é PDF válido')
+            linhas = pdf_para_jpg(pdf, os.path.join(PAGES, aid), 1600)
+            files = [os.path.basename(ln) for ln in linhas]
+            if not files:
+                raise ValueError('conversão do PDF não gerou páginas')
+        except Exception as e:
+            print(f'[aviso] supershow ({pdf_url}): {e}; fica para a próxima', file=sys.stderr)
+            continue
+        finally:
+            try:
+                os.remove(pdf)
+            except OSError:
+                pass
+        if files:
+            fila.append({
+                'shortcode': aid,
+                'perfil': 'redesupershow.com.br',
+                'banner': 'Rede Super Show',
+                'segmento': 'varejo',
+                'caption': 'Encarte Digital Super Show',
+                'taken_at': 0,
+                'carrossel': len(files) > 1,
+                'paginas': files,
+                'coletado_em': hoje,
+                'fonte': 'web',
+                'link': SUPERSHOW_HOME,
+                'validade_confiavel': False,
+            })
+            novos += 1
+            seen.add(chave)
+        time.sleep(1)
+    return novos
+
+
 def main():
     seen_path = os.path.join(DATA, 'posts_vistos.json')
     fila_path = os.path.join(DATA, 'fila_novos.json')
@@ -419,7 +584,9 @@ def main():
     total, falhas = 0, []
     fontes_web = [('assai', 'Assaí Atacadista', coleta_assai),
                   ('atacadao', 'Atacadão', coleta_atacadao),
-                  ('nosso', 'Nosso Atacarejo', coleta_nosso)]
+                  ('nosso', 'Nosso Atacarejo', coleta_nosso),
+                  ('queiroz', 'Queiroz Atacadão', coleta_queiroz),
+                  ('supershow', 'Rede Super Show', coleta_supershow)]
     for nome, rotulo, fonte in fontes_web:
         try:
             total += fonte(seen, fila)
@@ -440,3 +607,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

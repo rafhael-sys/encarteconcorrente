@@ -1,0 +1,340 @@
+[
+ {
+  "k": "papel higienico mili max folha dupla 4x60m || papel higienico mili max folha dupla 60m c/4",
+  "a": "Papel Higiênico MILI MAX Folha Dupla 60M c/4",
+  "b": "Papel Higiênico Mili Max Folha Dupla 4x60m",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DalvyHMjuE0_p1.jpg",
+   "nome_impresso": "Papel Higiênico MILI MAX Folha Dupla 60M c/4",
+   "regiao_pct": {
+    "x": 5,
+    "y": 55,
+    "w": 20,
+    "h": 17
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DchVYErkj0q_p2.jpg",
+   "nome_impresso": "Papel Higiênico Mili Max Folha Dupla 4x60m",
+   "regiao_pct": {
+    "x": 48,
+    "y": 57,
+    "w": 42,
+    "h": 15
+   }
+  },
+  "r": 0.93
+ },
+ {
+  "k": "aveia sao braz 165g (em flocos ou flocos finos) || aveia sao braz 165g (flocos/flocos finos)",
+  "a": "Aveia São Braz 165g (em flocos ou flocos finos)",
+  "b": "Aveia São Braz 165g (Flocos/Flocos Finos)",
+  "foto_a": {
+   "imagem": "data/pages/DbeX14yE7Pt_p3.jpg",
+   "nome_impresso": "Aveia São Braz 165g (em flocos ou flocos finos)",
+   "regiao_pct": {
+    "x": 8,
+    "y": 4,
+    "w": 28,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcriSVWj4E7_p4.jpg",
+   "nome_impresso": "Aveia São Braz 165g (Flocos/Flocos Finos)",
+   "regiao_pct": {
+    "x": 26,
+    "y": 10,
+    "w": 16,
+    "h": 15
+   }
+  },
+  "r": 0.929
+ },
+ {
+  "k": "biscoito recheado negresco nestle sabores pacote 90g || biscoito recheado negresco sabores pacote 90g",
+  "a": "Biscoito Recheado Negresco Sabores Pacote 90g",
+  "b": "Biscoito Recheado Negresco Nestlé Sabores Pacote 90g",
+  "foto_a": {
+   "imagem": "data/pages/assai_170312-572_p1.jpg",
+   "nome_impresso": "Biscoito Recheado Negresco Sabores Pacote 90g",
+   "regiao_pct": {
+    "x": 41,
+    "y": 23,
+    "w": 18,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_170679-572_p1.jpg",
+   "nome_impresso": "Biscoito Recheado Negresco Nestlé Sabores Pacote 90g",
+   "regiao_pct": {
+    "x": 42,
+    "y": 22,
+    "w": 17,
+    "h": 16
+   }
+  },
+  "r": 0.928
+ },
+ {
+  "k": "ketchup hellmann's 380g (tradicional/picante, exceto supreme) || ketchup hellmann's 380g (tradicional/picante/supreme)",
+  "a": "Ketchup Hellmann's 380g (Tradicional/Picante/Supreme)",
+  "b": "Ketchup Hellmann's 380g (Tradicional/Picante, exceto Supreme)",
+  "foto_a": {
+   "imagem": "data/pages/DbjcA11jxwm_p6.jpg",
+   "nome_impresso": "Ketchup Hellmann's 380g (Tradicional/Picante/Supreme)",
+   "regiao_pct": {
+    "x": 8,
+    "y": 52,
+    "w": 28,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcriSVWj4E7_p3.jpg",
+   "nome_impresso": "Ketchup Hellmann's 380g (Tradicional/Picante, exceto Supreme)",
+   "regiao_pct": {
+    "x": 61,
+    "y": 52,
+    "w": 17,
+    "h": 14
+   }
+  },
+  "r": 0.927
+ },
+ {
+  "k": "carne bovina acem sem osso friboi reserva resfriada || carne bovina acem sem osso reserva resfriada",
+  "a": "Carne Bovina Acém sem Osso Reserva Resfriada",
+  "b": "Carne Bovina Acém sem Osso Friboi Reserva Resfriada",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/atacadao_cb8d108830_p1.jpg",
+   "nome_impresso": "Carne Bovina Acém sem Osso Reserva Resfriada",
+   "regiao_pct": {
+    "x": 66,
+    "y": 54,
+    "w": 29,
+    "h": 19
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/atacadao_aba86d1eb4_p1.jpg",
+   "nome_impresso": "Carne Bovina Acém sem Osso Friboi Reserva Resfriada",
+   "regiao_pct": {
+    "x": 3,
+    "y": 61,
+    "w": 45,
+    "h": 14
+   }
+  },
+  "r": 0.926
+ },
+ {
+  "k": "fralda descartavel personal baby prot || fralda descartavel personal baby prot jumbo",
+  "a": "Fralda Descartável Personal Baby Prot",
+  "b": "Fralda Descartável Personal Baby Prot Jumbo",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DabRmxqHxTB_p3.jpg",
+   "nome_impresso": "Fralda Descartável Personal Baby Prot",
+   "regiao_pct": {
+    "x": 55.5,
+    "y": 72.6,
+    "w": 8.1,
+    "h": 13.0
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DchGt8zEk2h_p3.jpg",
+   "nome_impresso": "Fralda Descartável Personal Baby Prot Jumbo",
+   "regiao_pct": {
+    "x": 56,
+    "y": 70,
+    "w": 12,
+    "h": 15
+   }
+  },
+  "r": 0.925
+ },
+ {
+  "k": "alimento para gatos friskies sabores sache 85g || alimento para gatos whiskas sabores sache 85g",
+  "a": "Alimento para Gatos Whiskas Sabores Sachê 85g",
+  "b": "Alimento para Gatos Friskies Sabores Sachê 85g",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/assai_49121-564_p4.jpg",
+   "nome_impresso": "Alimento para Gatos Whiskas Sabores Sachê 85g",
+   "regiao_pct": {
+    "x": 30,
+    "y": 73,
+    "w": 18,
+    "h": 11
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_170665-572_p4.jpg",
+   "nome_impresso": "Alimento para Gatos Friskies Sabores Sachê 85g",
+   "regiao_pct": {
+    "x": 42,
+    "y": 65,
+    "w": 18,
+    "h": 17
+   }
+  },
+  "r": 0.923
+ },
+ {
+  "k": "iogurte natural nestle sabores copo 160g/170g || iogurte natural nestle sabores pt 160g ou 170g",
+  "a": "Iogurte Natural Nestlé Sabores Pt 160g ou 170g",
+  "b": "Iogurte Natural Nestlé Sabores Copo 160g/170g",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DadzqY0mMeB_p7.jpg",
+   "nome_impresso": "Iogurte Natural Nestlé Sabores Pt 160g ou 170g",
+   "regiao_pct": {
+    "x": 8,
+    "y": 30,
+    "w": 19,
+    "h": 15
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_170665-572_p3.jpg",
+   "nome_impresso": "Iogurte Natural Nestlé Sabores Copo 160g/170g",
+   "regiao_pct": {
+    "x": 39,
+    "y": 35,
+    "w": 17,
+    "h": 16
+   }
+  },
+  "r": 0.923
+ },
+ {
+  "k": "biscoito recheado bono nestle sabores pacote 90g || biscoito recheado negresco nestle sabores pacote 90g",
+  "a": "Biscoito Recheado Negresco Nestlé Sabores Pacote 90g",
+  "b": "Biscoito Recheado Bono Nestlé Sabores Pacote 90g",
+  "foto_a": {
+   "imagem": "data/pages/assai_170679-572_p1.jpg",
+   "nome_impresso": "Biscoito Recheado Negresco Nestlé Sabores Pacote 90g",
+   "regiao_pct": {
+    "x": 42,
+    "y": 22,
+    "w": 17,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_170679-572_p1.jpg",
+   "nome_impresso": "Biscoito Recheado Bono Nestlé Sabores Pacote 90g",
+   "regiao_pct": {
+    "x": 60,
+    "y": 22,
+    "w": 17,
+    "h": 16
+   }
+  },
+  "r": 0.92
+ },
+ {
+  "k": "protetor diario mili c/15 || protetor diario mili c/40",
+  "a": "Protetor Diário MILI c/15",
+  "b": "Protetor Diário Mili C/40",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/DalvyHMjuE0_p2.jpg",
+   "nome_impresso": "Protetor Diário MILI c/15",
+   "regiao_pct": {
+    "x": 54,
+    "y": 65,
+    "w": 18,
+    "h": 14
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcriSVWj4E7_p4.jpg",
+   "nome_impresso": "Protetor Diário Mili C/40",
+   "regiao_pct": {
+    "x": 38,
+    "y": 70,
+    "w": 24,
+    "h": 19
+   }
+  },
+  "r": 0.92
+ },
+ {
+  "k": "chocolate talento garoto sabores pacote 85g || chocolate talento garoto sabores tablete 85g",
+  "a": "Chocolate Talento Garoto Sabores Pacote 85g",
+  "b": "Chocolate Talento Garoto Sabores Tablete 85g",
+  "foto_a": {
+   "imagem": "data/pages/assai_170312-572_p1.jpg",
+   "nome_impresso": "Chocolate Talento Garoto Sabores Pacote 85g",
+   "regiao_pct": {
+    "x": 2,
+    "y": 54,
+    "w": 18,
+    "h": 16
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/assai_170679-572_p1.jpg",
+   "nome_impresso": "Chocolate Talento Garoto Sabores Tablete 85g",
+   "regiao_pct": {
+    "x": 78,
+    "y": 38,
+    "w": 17,
+    "h": 15
+   }
+  },
+  "r": 0.92
+ },
+ {
+  "k": "bolacha jucurutu manteiga do sertao 250g || bolacha massas jucurutu manteiga do sertao 250g",
+  "a": "Bolacha Jucurutu Manteiga do Sertão 250g",
+  "b": "Bolacha Massas Jucurutu Manteiga do Sertão 250g",
+  "foto_a": {
+   "imagem": "data/arquivo/pages/qz_ofertaco_p3.jpg",
+   "nome_impresso": "Bolacha Jucurutu Manteiga do Sertão PCT 250g",
+   "regiao_pct": {
+    "x": 84.5,
+    "y": 4.4,
+    "w": 12,
+    "h": 13.4
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/Dcme_Z9oExB_p3.jpg",
+   "nome_impresso": "Bolacha Massas Jucurutu Manteiga do Sertão 250g",
+   "regiao_pct": {
+    "x": 13,
+    "y": 30,
+    "w": 25,
+    "h": 12
+   }
+  },
+  "r": 0.92
+ },
+ {
+  "k": "desodorante anti transpirante aerosol monange 150ml || desodorante antitranspirante aerosol dove 150ml",
+  "a": "Desodorante Antitranspirante Aerosol Dove 150ml",
+  "b": "Desodorante Anti Transpirante Aerosol Monange 150ml",
+  "foto_a": {
+   "imagem": "data/pages/Db1f1slmpp3_p3.jpg",
+   "nome_impresso": "Desodorante Antitranspirante Aerosol Dove 150ml",
+   "regiao_pct": {
+    "x": 30,
+    "y": 72,
+    "w": 8,
+    "h": 10
+   }
+  },
+  "foto_b": {
+   "imagem": "data/pages/DcmanVTH2KW_p3.jpg",
+   "nome_impresso": "Desodorante Anti Transpirante Aerosol Monange 150ml",
+   "regiao_pct": {
+    "x": 5,
+    "y": 86,
+    "w": 8,
+    "h": 13
+   }
+  },
+  "r": 0.918
+ }
+]

@@ -1,0 +1,69 @@
+{
+ "resultados": [
+  {
+   "k": "oleo de soja concordia 900ml || oleo de soja concordia/liza 900ml",
+   "veredito": "mesmo",
+   "motivo": "Óleo de soja Concórdia 900ml presente nas duas fotos; A apenas inclui Liza como alternativa da mesma oferta"
+  },
+  {
+   "k": "farinha de trigo finna pct 1kg || farinha de trigo finna trad 1kg",
+   "veredito": "mesmo",
+   "motivo": "Ambas mostram Finna Tradicional 1kg; embalagem/grafia irrelevantes"
+  },
+  {
+   "k": "aveia em flocos finos ou regulares apti 150g || aveia em flocos finos ou regulares apti caixeta 150g",
+   "veredito": "mesmo",
+   "motivo": "Mesmas caixetas Apti flocos finos/regulares 150g nas duas páginas do Assaí"
+  },
+  {
+   "k": "mac espaguete bonsabor 400g || macarrao espaguete bonsabor 400g",
+   "veredito": "mesmo",
+   "motivo": "Foto A mostra os mesmos pacotes longos de espaguete Bonsabor 400g da foto B"
+  },
+  {
+   "k": "ovos enaves ou filadelfia grande branco c/30 || ovos enavis ou filadelfia grandes brancos c/ 30 und",
+   "veredito": "mesmo",
+   "motivo": "Ovos brancos grandes Enaves/Filadélfia c/30 nas duas; Enaves/Enavis é só grafia"
+  },
+  {
+   "k": "papel higienico folha dupla velud vip 12 unidades 30m || papel higienico folha dupla velud vip pacote 12 unidades de 30m",
+   "veredito": "mesmo",
+   "motivo": "Mesmo pacote Velud VIP folha dupla 12 un 30m nas duas páginas do Assaí"
+  },
+  {
+   "k": "cerveja imperio ultra long neck 275ml || cerveja imperio ultra pilsen long neck 275ml",
+   "veredito": "mesmo",
+   "motivo": "Garrafas idênticas Império Ultra long neck 275ml; Ultra é pilsen, só o nome varia"
+  },
+  {
+   "k": "carne bov bisteca do contra file kg || carne bovina bisteca do contra file",
+   "veredito": "mesmo",
+   "motivo": "Mesmo corte bovino (bisteca do contra filé) por kg, sem marca, nas duas fotos"
+  },
+  {
+   "k": "amaciante de roupas concentrado downy 500ml fragrancias || amaciante de roupas concentrado mon bijou 500ml fragrancias",
+   "veredito": "diferente",
+   "motivo": "Marcas distintas: Mon Bijou na foto A vs Downy na foto B"
+  },
+  {
+   "k": "amaciante de roupas concentrado comfort 500ml fragrancias || amaciante de roupas concentrado downy 500ml fragrancias",
+   "veredito": "diferente",
+   "motivo": "Marcas distintas: Comfort na foto A vs Downy na foto B"
+  },
+  {
+   "k": "papel higienico folha dupla velud vip pacote 12 rolos de 30m || papel higienico folha dupla velud vip pacote 12 unidades de 30m",
+   "veredito": "mesmo",
+   "motivo": "Mesmo Velud VIP folha dupla 12x30m; rolos/unidades é a mesma coisa, mesma imagem e preço"
+  },
+  {
+   "k": "polpa de fruta ster bom 1kg caju/goiaba/manga/tamarindo || polpa ster bom 1kg caju/goiaba/manga/tamarindo",
+   "veredito": "mesmo",
+   "motivo": "Polpa Ster Bom 1kg, mesmos sabores e mesmo preço nas duas páginas"
+  },
+  {
+   "k": "linguica de churrasco ou frango aurora || linguica p/ churrasco de frango aurora",
+   "veredito": "mesmo",
+   "motivo": "Mesma oferta Aurora linguiça churrasco/frango kg; pacotes Aurora idênticos nas duas fotos"
+  }
+ ]
+}

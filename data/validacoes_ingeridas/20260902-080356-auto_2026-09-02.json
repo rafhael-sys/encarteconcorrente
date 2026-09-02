@@ -1,0 +1,309 @@
+{
+ "validacoes": [
+  {
+   "a": "Inseticida Aerosol Raid 420ml LV+ PAG- Fragrâncias",
+   "b": "Inseticida Aerosol Raid 420ml Lev+ Pag- Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chocolate em Barra Hershey's 75/77/82/85g",
+   "b": "Chocolate em Barra Hersheys 75/77/82/85g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mac Instantâneo Lámen Vitarella 74g",
+   "b": "Mac Instataneo Lamen Vitarella 74g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Travesseiro Eco Pluma Contex 50x70cm",
+   "b": "Travesseiro Eco Pluma Conftex 50x70cm",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Chocolate Snickers 45g (Sabores)",
+   "b": "Chocolate Snicker's 45g (Sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Salgadinho PIRAQUÊ 50g Sabores",
+   "b": "Salgadinhos Piraquê 50g (sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Achocolatado em Po 3 Coracoes Sache 700g Chocolatto",
+   "b": "Achocolatado em Pó 3 Corações SCH 700g Chocolatto",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Costela P.A",
+   "b": "Carne Bovina Costela PA",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Jucurutu Mussarela Interfoliada 500g",
+   "b": "Queijo Jucurutu Mussarela Interfolhada 500g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Proc Calco Pç ou Pdç KG",
+   "b": "Queijo Mussarela Proc Caicó Pç ou Pdç Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Travesseiro Eco Pluma Comftex 50x70cm",
+   "b": "Travesseiro Eco Pluma Conftex 50x70cm",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Choc Kit Kat Latte Machiatto 41,5g",
+   "b": "Choc Kit Kat Latte Macchiato 41,5g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Frango Passarinho Seara 1kg",
+   "b": "Frango à Passarinho Seara 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Yobem Betânia Sabores 250g",
+   "b": "Bebida Láctea Yobem Betânia Sabores TP 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Travesseiro Eco Pluma Comftex 50x70cm",
+   "b": "Travesseiro Eco Pluma Contex 50x70cm",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme de Açaí Moa Pt 1L",
+   "b": "Creme de Açaí Môa Pote 1L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Achocolatada Italakinho 200ml",
+   "b": "Beb Achocolatada Italakinho 200ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sobrecoxa de Frango Sadia pct 1kg",
+   "b": "Sobrecoxa Frango Sadia PCT 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pão de Queijo Delícia Mineira 1kg Congelado Tradicional",
+   "b": "Pão de Queijo Delícia Mineira 1kg Cong Tradicional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Inhame Cara São Tomé",
+   "b": "Inahme Cara São Tome",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Pão de Alho Bom Todo Congelado 400g Tradicional",
+   "b": "Pão de Alho Bom Todo Cong 400g Tradicional",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme Dental Colgate MPA 90g",
+   "b": "Cr Dental Colgate MPA 90g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Toalhas Umedecidas Felitá Baby C/ 48",
+   "b": "Toalhas Umedecidas Felitá Baby C/96",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Água Sanitária Marilux 5L",
+   "b": "Água Sanitária Marilux GL 5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupa Po Tixan Ype Sch 1,6kg Fragrâncias",
+   "b": "Lava Roupas em Pó Tixan Ypê Sachê 1,6kg Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Esponja Multiuso Bombril C/4 (Emb. Promocional)",
+   "b": "Esponja Multiuso Brilhus C/4 (Emb. Promocional)",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico MILI MAX Folha Dupla 60M c/4",
+   "b": "Papel Higiênico Mili Max Folha Dupla 4x60m",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aveia São Braz 165g (em flocos ou flocos finos)",
+   "b": "Aveia São Braz 165g (Flocos/Flocos Finos)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Recheado Negresco Sabores Pacote 90g",
+   "b": "Biscoito Recheado Negresco Nestlé Sabores Pacote 90g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Acém sem Osso Reserva Resfriada",
+   "b": "Carne Bovina Acém sem Osso Friboi Reserva Resfriada",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Descartável Personal Baby Prot",
+   "b": "Fralda Descartável Personal Baby Prot Jumbo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Alimento para Gatos Whiskas Sabores Sachê 85g",
+   "b": "Alimento para Gatos Friskies Sabores Sachê 85g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Iogurte Natural Nestlé Sabores Pt 160g ou 170g",
+   "b": "Iogurte Natural Nestlé Sabores Copo 160g/170g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Recheado Negresco Nestlé Sabores Pacote 90g",
+   "b": "Biscoito Recheado Bono Nestlé Sabores Pacote 90g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Chocolate Talento Garoto Sabores Pacote 85g",
+   "b": "Chocolate Talento Garoto Sabores Tablete 85g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bolacha Jucurutu Manteiga do Sertão 250g",
+   "b": "Bolacha Massas Jucurutu Manteiga do Sertão 250g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Antitranspirante Aerosol Dove 150ml",
+   "b": "Desodorante Anti Transpirante Aerosol Monange 150ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha de Trigo Finna pct 1kg",
+   "b": "Farinha de Trigo Finna Trad 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Aveia em Flocos Finos ou Regulares Apti 150g",
+   "b": "Aveia em Flocos Finos ou Regulares Apti Caixeta 150g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Macarrão Espaguete Bonsabor 400g",
+   "b": "Mac Espaguete Bonsabor 400g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Enaves ou Filadélfia Grande Branco C/30",
+   "b": "Ovos Enavis ou Filadélfia Grandes Brancos c/ 30 Und",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Folha Dupla Velud VIP 12 unidades 30m",
+   "b": "Papel Higiênico Folha Dupla Velud VIP Pacote 12 Unidades de 30m",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja Império Ultra Pilsen Long Neck 275ml",
+   "b": "Cerveja Imperio Ultra Long Neck 275ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Bisteca do Contra Filé",
+   "b": "Carne Bov Bisteca do Contra Filé Kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante de Roupas Concentrado MON BIJOU 500ml Fragrâncias",
+   "b": "Amaciante de Roupas Concentrado Downy 500ml Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Amaciante de Roupas Concentrado Comfort 500ml Fragrancias",
+   "b": "Amaciante de Roupas Concentrado Downy 500ml Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Folha Dupla Velud VIP Pacote 12 Rolos de 30m",
+   "b": "Papel Higiênico Folha Dupla Velud VIP Pacote 12 Unidades de 30m",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Polpa Ster Bom 1kg Caju/Goiaba/Manga/Tamarindo",
+   "b": "Polpa de Fruta Ster Bom 1kg Caju/Goiaba/Manga/Tamarindo",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Filezinho de Frango Sassami Sadia 1kg (Bandeja)",
+   "b": "Filezinho de Frango Sadia 1kg (Bandeja)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Carne Bovina Costela P.A. kg",
+   "b": "Carne Bovina Costela PA",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Parmesão Ralado Regina Pct 50g",
+   "b": "Queijo Tipo Parmesão Ralado Regina Pacote 50g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Lava Roupas Líquido +eKonômico 3L",
+   "b": "Lava Roupas Líquido Becker + Ëkonomico 3L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Fralda Mili Love&Care Jumbo",
+   "b": "Fralda Mili Love&Care Jumbo Pants",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Mingau Mucilon 600g Sabores",
+   "b": "Mingau Mucilon Sachê 600g Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Uva Verde sem Semente Seleção Mimo Bandeja 500g",
+   "b": "Uva Verde sem Sementes Seleta Bandeja 500g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Tipo Parmesão Ralado Vigor Pacote 50g",
+   "b": "Queijo Tipo Parmesão Ralado Regina Pacote 50g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Ovos Iana Grandes Brancos c/30und",
+   "b": "Ovos Enavis Grandes Brancos c/ 30 Und",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Farinha de Trigo Finna Tradicional 1kg",
+   "b": "Farinha de Trigo Finna Trad 1kg",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite Em Pó Bom Gosto 700g",
+   "b": "Leite em Pó Bom Gosto Sachê 700g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Biscoito Recheado Bono Nestlé Vários sabores Pacote com 90g",
+   "b": "Biscoito Recheado Bono Nestlé Sabores Pacote 90g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mistura Láctea Condensada Mococa 395g",
+   "b": "Mistura Condensada Mococa 395g",
+   "veredito": "mesmo"
+  }
+ ]
+}

@@ -53,6 +53,9 @@ def carrega_contas() -> list[str]:
 
 def _sh(args: list[str]) -> str:
     """Roda um curl e devolve stdout (texto), com timeout curto."""
+    if collect.PROXY and '--proxy' not in args and '-x' not in args:
+        if args and args[0] == 'curl':
+            args = [args[0], '--proxy', collect.PROXY] + args[1:]
     return subprocess.run(args, capture_output=True, text=True, timeout=40).stdout
 
 

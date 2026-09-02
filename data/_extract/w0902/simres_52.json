@@ -1,0 +1,15 @@
+{"resultados": [
+ {"k": "filezinho de frango sadia 1kg (bandeja) || filezinho de frango sassami sadia 1kg (bandeja)", "veredito": "mesmo", "motivo": "As duas imagens mostram a mesma bandeja Sadia Filezinho (Sassami) 1kg; a foto b só omite 'Sassami' no texto, mas a embalagem é idêntica."},
+ {"k": "carne bovina costela p.a. kg || carne bovina costela pa", "veredito": "mesmo", "motivo": "Mesmo corte in natura: costela bovina P.A. vendida por kg nos dois encartes, sem marca/variante."},
+ {"k": "queijo parmesao ralado regina pct 50g || queijo tipo parmesao ralado regina pacote 50g", "veredito": "mesmo", "motivo": "Mesmo pacote Regina queijo parmesão ralado 50g nas duas imagens."},
+ {"k": "lava roupas liquido +ekonomico 3l || lava roupas liquido becker + ekonomico 3l", "veredito": "mesmo", "motivo": "Mesma garrafa azul '+eKonômico' 3L (linha Becker) nas duas imagens; um encarte só omite o fabricante."},
+ {"k": "fralda mili love&care jumbo || fralda mili love&care jumbo pants", "veredito": "diferente", "motivo": "Foto a mostra fraldas Mili Love&Care Jumbo tradicionais (XG22/G24/M26); foto b é a versão Pants (calça, G30) — variante distinta."},
+ {"k": "mingau mucilon 600g sabores || mingau mucilon sache 600g sabores", "veredito": "mesmo", "motivo": "Mesmo sachê Nestlé Mucilon 600g sabores nas duas imagens."},
+ {"k": "uva verde sem semente selecao mimo bandeja 500g || uva verde sem sementes seleta bandeja 500g", "veredito": "diferente", "motivo": "Marcas distintas visíveis: bandeja Mimo (Green Dreams) vs bandeja Seleta, ambas uva verde 500g."},
+ {"k": "queijo tipo parmesao ralado regina pacote 50g || queijo tipo parmesao ralado vigor pacote 50g", "veredito": "diferente", "motivo": "Marcas distintas visíveis nos pacotes: Vigor vs Regina, ambos ralado 50g."},
+ {"k": "ovos enavis grandes brancos c/ 30 und || ovos iana grandes brancos c/30und", "veredito": "diferente", "motivo": "Marcas distintas: foto a mostra bandeja com logo Iana; foto b é Ovos Enavis — ambas 30 ovos brancos grandes, mas marcas diferentes."},
+ {"k": "farinha de trigo finna trad 1kg || farinha de trigo finna tradicional 1kg", "veredito": "mesmo", "motivo": "Mesma farinha Finna Tradicional 1kg (pacote branco/vermelho) nas duas imagens; 'Trad' é só abreviação."},
+ {"k": "leite em po bom gosto 700g || leite em po bom gosto sache 700g", "veredito": "mesmo", "motivo": "Mesmo sachê Bom Gosto leite em pó integral 700g nas duas imagens."},
+ {"k": "biscoito recheado bono nestle sabores pacote 90g || biscoito recheado bono nestle varios sabores pacote com 90g", "veredito": "mesmo", "motivo": "Mesmo Bono Nestlé recheado 90g vários sabores nas duas imagens."},
+ {"k": "mistura condensada mococa 395g || mistura lactea condensada mococa 395g", "veredito": "mesmo", "motivo": "Mesma Mistura Láctea Condensada Mococa 395g nas duas imagens; um encarte só encurta o nome."}
+]}

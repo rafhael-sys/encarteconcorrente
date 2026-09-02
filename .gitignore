@@ -14,3 +14,8 @@ tools/node_modules/
 # artefatos do Python
 __pycache__/
 *.pyc
+
+# configurações locais e proxy (segurança)
+.ig_proxy
+.env
+
