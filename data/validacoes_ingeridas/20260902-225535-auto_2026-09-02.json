@@ -1,0 +1,314 @@
+{
+ "validacoes": [
+  {
+   "a": "Limpador Casa & Perfume Sensualidad Bombona com 5L",
+   "b": "Limpador Casa & Perfume Sensualidade bombona com 5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sobremesa Danone Danette Resfriada Chocolate/Chocolate Branco Bandeja com 540g",
+   "b": "Sobremesa Danone Danette Resfriado Chocolate/Chocolate Branco Bandeja com 540g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Whisky Ballantines Scotch Finest 1L",
+   "b": "Whisky Ballantine's Scotch Finest 1l",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Brancos ou Vermelhos Grandes ou Extras Bandeja com 30",
+   "b": "Ovos Brancos ou Vermelhos Grande ou Extra Bandeja com 30",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxas com Sobrecoxas de Frango com Dorsal Kg",
+   "b": "Coxas com Sobrecoxas de Frango com Dorsal R$",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante para Roupas Concentrado Downy Várias fragrâncias Frasco com 1,5L",
+   "b": "Amaciante de Roupas Concentrado Downy várias fragrâncias frasco com 1,5L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "terbom Sterborr de Celta Polpa de Caju Sterbor",
+   "b": "terbom Sterborr de Celta Polpa de Caju Sterbor 699",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa Com Sobrecoxa de Frango Com Dorsal",
+   "b": "Coxas com Sobrecoxas de Frango com Dorsal R$",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Folha de Alumínio Wyda 30cm x 7,5m Rolo",
+   "b": "Folha de Alumínio Wyda 45cm x 7,5m rolo",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Sorvete Sterbom Pote 2 litros Sabores",
+   "b": "Sorvete Sterbom Pote 1,5 litros Sabores",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorante Aerossol Axe Vários tipos Frasco com 200ml",
+   "b": "Desodorante Aerossol Nivea Vários tipos Frasco com 200ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Rabo Bovino Resfriado ou Congelado Masterboi",
+   "b": "Bucho Bovino Resfriado ou Congelado Masterboi",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Água Mineral Sterbom GF 500ml c/gás",
+   "b": "Água Mineral Ster Bom 500ml C/gás",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Coxa com Sobrecoxa de Frango com Dorsal kg",
+   "b": "Coxas com Sobrecoxas de Frango com Dorsal R$",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Água Sanitária Dragão 2L",
+   "b": "AGUA SANITÁRIA ragão 2L R$",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Papel Higiênico Dama Folha Dupla 30m Pacote com 12 Rolos",
+   "b": "Papel Higiênico Klass Folha Dupla - 30m Pacote com 12 rolos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Bebida Láctea YoPro Vários sabores TP com 250ml",
+   "b": "Bebida Láctea Yobem Vários sabores TP com 250ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Loção Hidratante Skala Vários tipos Frasco com 400ml",
+   "b": "Loção Hidratante Paixão Vários tipos Frasco com 400ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Iogurte Nestlé Resfriado Vários sabores Garrafa com 1,15kg",
+   "b": "Iogurte Itambé Resfriado vários sabores garrafa com 1,15kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Absorvente Diana Suave com Abas Pacote com 16 Unidades",
+   "b": "Absorvente Noturno Diana Suave com abas Pacote com 16 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Papel Higiênico Velud Folha dupla 30m Pacote com 12 rolos",
+   "b": "Papel Higiênico Klass Folha Dupla - 30m Pacote com 12 rolos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Toalha Umedecida Mili 96un",
+   "b": "Toalhas Umedecidas Mili C/96un",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bebida Láctea Batclan Bandeja 540g Sabores",
+   "b": "Bebida Láctea Betânia Bandeja 540g Sabores",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Creatina Integralmedica PT 300g Hardcore",
+   "b": "Creatina Pó Integralmedica 300g Hardcore",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Mais de João Câmara e Macau. válidas somente nos dias 02/09 e 03/09/2026. R$ KG R$ KG ALHO À GRANEL KG",
+   "b": "Mais de João Câmara e Macau. válidas somente nos dias 02/09 e 03/09/2026. KG R$ KG LARANJA PÊRA KG",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Galinha Leve Qdelicia kg",
+   "b": "Galinha Leve Q'delicia",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "R$ O KG SAI POR: CAIXA 36X56G R$ HAMBURGUER MISTO QUEIJO MUSSARELA REZENDE - CAIXA 36X56G PEÇA - CAIXA +20KG (Mínimo de 05 caixas) (Mínimo de 01 caixa) Even Guaranı R$ Even CAXA 12XUND FARDO 25X400G R$ Campos de Lavanda",
+   "b": "O KG SAI POR: CAIXA 36X56G R$ HAMBURGUER MISTO QUEIJO MUSSARELA REZENDE - CAIXA 36X56G PEÇA - CAIXA +20KG (Mínimo de 05 caixas) (Mínimo de 01 caixa) Even Guaranı R$ Even CAXA 12XUND FARDO 25X400G R$ Campos de Lavanda SABONETE EVEN LAVA ROUPAS PO GUARANI -",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Noturno Lady Suave com Abas Pacote com 32 Unidades",
+   "b": "Absorvente Noturno Diana Suave com abas Pacote com 16 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Detergente Líquido Limpol Vários tipos Frasco com 500ml",
+   "b": "Detergente Líquido Absoluto vários tipos frasco com 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Doce de Leite Itambé 350g",
+   "b": "Doce de Leite Itambé 350g Pote",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Suco Néctar Jandaia 1L Sabores",
+   "b": "Néctar Jandaia 1l Sabores",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Absorvente Noturno Sym Suave com Abas Pacote com 8 Unidades",
+   "b": "Absorvente Noturno Diana Suave com abas Pacote com 16 unidades",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Desodorizador Sanitário Pedra Harpic Flores/Lavanda Unidade com 20g",
+   "b": "Desodorizador Sanitário Pedra Harpic Plus Lavanda/ Flores Unidade com 20g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Líquido Atol Vários Tipos Frasco 500ml",
+   "b": "Detergente Líquido Absoluto vários tipos frasco com 500ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "COXINHA DA ASA DE FRANGO / FRANGO A PASSARINHO LAR 700G (TEMPERADO) Nesta promoção, com o Familia Show. a unidade sai por: R$",
+   "b": "COXINHA DA ASA DE FRANGO / FRANGO A PASSARINHO LAR 700G (TEMPERADO) Nesta promoção, com o Familia Show. a unidade sai por: cada R$ os estoques. TRASPA",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Desodorante Roll-On Above Vários Tipos Frasco 50ml",
+   "b": "Desodorante Roll-On Nivea Vários tipos Frasco com 50ml",
+   "veredito": "diferente"
+  },
+  {
+   "a": "NE OFERTA FRANGO A PASSARINHO BOM TODO 1KG (IQF-TEMPERADO) Nesta promoção, com o Familia Show, a unidade sal por: R$",
+   "b": "FRANGO A PASSARINHO BOM TODO 1KG (IQF-TEMPERADO) Nesta promoção, com o Familia Show, a unidade sal por: R$ 03/09/2026.",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Queijo Mussarela Peça/Pedaço",
+   "b": "Queijo Mussarela Kg (peça ou pedaço)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Creme Dental Closeup Vários tipos Tubo com 70g",
+   "b": "Creme Dental Even vários tipos tubo com 70g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "MOELA DE FRANGO 700G Nesta promoção, com o Familia Show, a unidade sai por R$",
+   "b": "MOELA DE FRANGO LAR 700G Nesta promoção, com o Família Show, a unidade sai por: família ShOW R$",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Feijão Carioca Eu Kero Tipo 2 Pacote com 1kg",
+   "b": "Feijão Carioca Urbano Tipo 1 pacote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Feijão Carioca Kicaldo Tipo 1 Pacote com 1kg",
+   "b": "Feijão Carioca Urbano Tipo 1 pacote com 1kg",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Panela de Pressão Panelux Polida 4,5L",
+   "b": "Panela de Pressão Panelux 4,5l",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Cerveja CORONA Long Neck 330ml",
+   "b": "Cerveja Corona Pilsen Long Neck 330ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Detergente Limpol 500ml Fragrâncias",
+   "b": "Detergente Ypê 500ml Fragrâncias",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Coalhada Clan desnatada com ou sem adoçante 240g",
+   "b": "Coalhada Desnatada Clam com ou sem Adoçante 240g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Tempero Especial Folha Verde 500ml",
+   "b": "Vinagre/Tempero Especial Folha Verde 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Batata Frita Ruffles 33g ou Salgadinho Doritos 32g (sabores)",
+   "b": "Batata Frita Ruffles 33g ou Doritos 32g (sabores)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Leite UHT ITALAC 1L Integral/Desnatado",
+   "b": "Leite UHT Damare 1L Integral/Desnatado",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Queijo Tipo Mussarela Girolanda Fatiado/kg",
+   "b": "Queijo Mussarela Girolanda Fatiado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Folha de Alumínio Wyda 30cm x 4m Rolo",
+   "b": "Folha de Alumínio Wyda 45cm x 7,5m rolo",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Leite Condensado Natville ou Bendito 395g",
+   "b": "Leite Con. Natville ou Bendito 395g",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Kit OX Shampoo + Condicionador Vários Tipos",
+   "b": "Kit Shampoo + Condicionador Skala Vários tipos",
+   "veredito": "diferente"
+  },
+  {
+   "a": "COLORÍFICO Marilan Darilan Dona: clara PRACTER CRACKER R$ R$ FARDO 14X400G CAIXA 24X300G R$ SAMANTALA E PACOTES Unida Neto 300/ BISCOITO CREAM CRACKER COLORIFICO DONA MARILAN PREMIUM - CAIXA CLARA - FARDO 20X500G 24X300G (Mínimo de 03 caixas) (Mínimo de 03 fardos) Morango NAUTIQUE olate NAU Fugir Fugin R$ Ketchi Ketu UND CAIXA 50X125G NAuTIQuE R$",
+   "b": "clara PRACTER CRACKER R$ R$ FARDO 14X400G CAIXA 24X300G R$ SAMANTALA E PACOTES Unida Neto 300/ BISCOITO CREAM CRACKER COLORIFICO DONA MARILAN PREMIUM - CAIXA CLARA - FARDO 20X500G 24X300G (Mínimo de 03 caixas) (Mínimo de 03 fardos) Morango NAUTIQUE olate NAU Fugir Fugin R$ Ketchi Ketu UND CAIXA 50X125G NAuTIQuE R$ SARDINHA NAUTIQUE BISCOITO WAFER ESTRELA",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Capa de Filé Bovino Resfriado Friboi",
+   "b": "Capa de Filé Bovino (Resfriado)",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Amaciante Concentrado Downny 500ml Fragrancias",
+   "b": "Amaciante de Roupas Concentrado Downy 500ml Fragrâncias",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Limpador Multiuso Uau Várias Fragrâncias Frasco 500ml",
+   "b": "Limpador Multiuso Uau Perfumes Várias fragrâncias Frasco com 500ml",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Bolacha Manteiga do Sertão Massas São Francisco 200g",
+   "b": "Bolacha Manteiga Palito Massas São Francisco 200g",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Limpador Perfumado Veja Fragrâncias Frasco 2L",
+   "b": "Limpador Perfumado Veja Várias fragrâncias Frasco com 2L",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Sardinha Ralada em Óleo ou Molho de Tomate 88 80g/90g",
+   "b": "Sardinha Ralada em Óleo ou Molho de Tomate 88 Lata 80g/90g Drenado",
+   "veredito": "mesmo"
+  },
+  {
+   "a": "Ovos Vermelhos Grande ou Extra Bandeja com 30",
+   "b": "Ovos Brancos ou Vermelhos Grande ou Extra Bandeja com 30",
+   "veredito": "diferente"
+  },
+  {
+   "a": "Carne Suína Temp Suínos Jucurutu KG",
+   "b": "Carne Suína Temperada Suínos Jucurutu",
+   "veredito": "mesmo"
+  }
+ ]
+}
