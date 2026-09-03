@@ -4483,3 +4483,61 @@
 - MESMO: «Travesseiro Eco Pluma Contex 50x70cm» == «Travesseiro Eco Pluma Conftex 50x70cm»
 - DIFERENTES: «Uva Verde sem Semente Seleção Mimo Bandeja 500g» != «Uva Verde sem Sementes Seleta Bandeja 500g»
 - MESMO: «Whisky Ballantines Scotch Finest 1L» == «Whisky Ballantine's Scotch Finest 1l»
+- MESMO: «Achocolatado em Po Chocolatto 560g» == «Achocolatado em Pó Chocolatto Sachê 560g»
+- DIFERENTES: «Azeite de Oliva Extra Virgem Fioz 500ml» != «Azeite de Oliva Extra Virgem Monini 500ml»
+- DIFERENTES: «Azeite de Oliva Extra Virgem Minos 500ml» != «Azeite de Oliva Extra Virgem Monini 500ml»
+- MESMO: «Azeite de Oliva Extra Virgem Monini vd 500ml» == «Azeite de Oliva Extra Virgem Monini 500ml»
+- DIFERENTES: «Body Splash Ekopure 200ml Fragrâncias» != «Body Splash Ekopure Secret 200ml (fragrâncias)»
+- MESMO: «Café Gourmet Santa Clara PC 250g» == «Café Gourmet Santa Clara 250g»
+- MESMO: «Carne Bovina Chã de Fora Resfriada» == «Carne Bovina Chã de Fora Resfriado»
+- MESMO: «Carne Bovina Chã de Fora Resfriado Kg» == «Carne Bovina Chã de Fora Resfriado»
+- MESMO: «Cebola Branca/Roxa» == «Cebola Branca ou Roxa»
+- MESMO: «Colorífico São Braz Cor & Sabor 500g» == «Colorífico São Braz Cor e Sabor 500g»
+- MESMO: «Coxa com Sobrecoxa de Frango com Dorsal kg» == «Coxas com Sobrecoxas de Frango com Dorsal»
+- MESMO: «Coxão Mole Bovino Resfriado kg» == «Coxão Mole Bovino Resfriado»
+- MESMO: «Coxão Mole Suínos Jucurutu kg» == «Coxão Mole Suínos Jucurutu»
+- MESMO: «Doce de Leite Cremoso Clan 380g» == «Doce de Leite Cremoso Clan Pote 380g»
+- MESMO: «Dueto ou Milho Verde Predilecta Sachê 170g» == «Dueto ou Milho Predilecta Sachê 170g»
+- MESMO: «Espetinho de Contra Filé Seridoense Cong. 300g» == «Espetinho de Contra Filé Seridoense Congelado 300g»
+- MESMO: «Esponja Multiuso Tinindo Leve 4 Pague 3» == «Esponja Multiuso Tinindo Leve 4 e Pague 3»
+- MESMO: «Esponja Multiuso Tinindo Leve4 Pague3» == «Esponja Multiuso Tinindo Leve 4 e Pague 3»
+- DIFERENTES: «Filé de Peito de Frango Aurora Congelado Bandeja com 1kg» != «Filé de Peito de Frango Mauricéa Congelado Bandeja 1kg»
+- DIFERENTES: «Filé de Peito de Frango Aurora congelado BDJ 1kg» != «Filé de Peito de Frango Mauricéa Congelado Bandeja 1kg»
+- DIFERENTES: «Filé de Peito de Frango Envelopado Lar Congelado» != «Filé de Peito de Frango Envelopado Ave Nova Congelado»
+- MESMO: «Filé de Peixe Tilápia Aurora 800g Congelada» == «Filé de Peixe Tilápia Aurora 800g Congelado»
+- MESMO: «Filé Peixe Tilápia Aurora 800g Congelado» == «Filé de Peixe Tilápia Aurora 800g Congelado»
+- MESMO: «Fralda Descartável Mili Love & Care Jumbo (tamanhos)» == «Fralda Descartável Mili Love e Care Jumbo (tamanhos)»
+- DIFERENTES: «Fralda Descartável Mili Love & Care Pants Jumbo (tamanhos)» != «Fralda Descartável Mili Love e Care Jumbo (tamanhos)»
+- MESMO: «Fraldas Descartaveis Mili Love & Care Jumbo (Tamanhos)» == «Fralda Descartável Mili Love e Care Jumbo (tamanhos)»
+- MESMO: «Fralda Descartável Turma da Mônica Shortinho (tamanhos)» == «Fralda Descartável Turma da Mônica Shortinho Jumbo (tamanhos)»
+- MESMO: «Fraldas Descartáveis Turma da Mônica Short Jumbo (Tamanhos)» == «Fralda Descartável Turma da Mônica Shortinho Jumbo (tamanhos)»
+- MESMO: «Fralda Descartável Turma da Mônica Shortinho Jumbo» == «Fralda Descartável Turma da Mônica Shortinho Jumbo (tamanhos)»
+- MESMO: «Frango Bom Todo Cong c/Miúdos» == «Frango Bom Todo Congelado c/ Miúdos»
+- MESMO: «Goma de Tapioca Dona Deta 800g» == «Goma de Mandioca Dona Deta 800g»
+- MESMO: «Inseticida Aerossol Raid FR 420ml Fragrâncias» == «Inseticida Aerosol Raid FR 420ml Fragrâncias»
+- MESMO: «Lava Roupas Líquido +eKonômico 3L» == «Lava-roupas Líquido eKonomico Becker 3L»
+- MESMO: «Linguiça p/ Churrasco de Frango Aurora» == «Linguiça de Churrasco/Frango Aurora»
+- MESMO: «Linguiça para Churrasco Suínos Jucurutu Kg» == «Linguiça para Churrasco Suínos Jucurutu»
+- MESMO: «Pao Center Massas Forma 400g/Bisnaguinha 300g» == «Pão Center Massas Forma 400g ou Bisnaguinha 300g»
+- MESMO: «Pão Massa Fina Queiroz KG» == «Pão Massa Fina Queiroz»
+- MESMO: «Papel Higiênico Neutro Mili Sensitive Care Folha Dupla 30 Metros pct c/12» == «Papel Higiênico Neutro Mili Sensitive Care Folha Dupla 30m (c/12)»
+- DIFERENTES: «Peito de Frango Real congelado» != «Peito de Frango Lar Congelado»
+- MESMO: «Peixe Posta Tilápia Cruz Congelado 1kg» == «Peixe em Posta Tilápia Cruz Congelada 1kg»
+- MESMO: «Polpa De Fruta Sterbom 400g Caju/Goiaba/Manga/Tamarindo» == «Polpa de Frutas Ster Bom 400g (Abacaxi/Caju/Goiaba/Manga/Tamarindo)»
+- MESMO: «Polpa De Fruta Sterbom 400g Caju/Goiaba/Manga/Tamarindo» == «Polpa de Frutas Ster Bom 400g (caju, goiaba, manga ou tamarindo)»
+- MESMO: «Polpa de Frutas Ster Bom 400g (abacaxi, caju, goiaba, manga ou tamarindo)» == «Polpa de Frutas Ster Bom 400g (Abacaxi/Caju/Goiaba/Manga/Tamarindo)»
+- MESMO: «Polpa de Frutas Ster Bom 400g (abacaxi, caju, goiaba, manga ou tamarindo)» == «Polpa de Frutas Ster Bom 400g (caju, goiaba, manga ou tamarindo)»
+- MESMO: «Polpa Fruta Sterbom 400g Caju, Goiaba, Manga ou Tamarindo» == «Polpa de Frutas Ster Bom 400g (caju, goiaba, manga ou tamarindo)»
+- MESMO: «Polpa Nossa Fruta 1kg Goiaba/Manga/Tamarindo» == «Polpa Nossa Fruta 1kg (Caju, Goiaba, Manga, Tamarindo)»
+- MESMO: «Polpa Nossafruta 1kg Sabores (caju, goiaba, manga, tamarindo)» == «Polpa Nossa Fruta 1kg (Caju, Goiaba, Manga, Tamarindo)»
+- DIFERENTES: «Prendedor de Madeira para Roupas Prende Mais com 12 Unidades» != «Prendedor de Plástico para Roupas Prende Mais com 12 Unidades»
+- DIFERENTES: «Prendedor de Madeira para Roupas Prende Mais com 12 Unidades» != «Prendedor Gigante de Madeira para Roupas Prende Mais com 12 Unidades»
+- MESMO: «Queijo do Reino Ilda Lata ou Fracionado» == «Queijo Reino ILDA Lata ou Fracionado»
+- DIFERENTES: «Queijo Reino Tirolez Lata ou Fracionado» != «Queijo Reino ILDA Lata ou Fracionado»
+- DIFERENTES: «Sabonete Líquido Muriel Baby 250ml (fragrâncias)» != «Sabonete Líquido Muriel Baby Refil 250ml (fragrâncias)»
+- DIFERENTES: «Sabonete Líquido Muriel Baby 500ml (fragrâncias)» != «Sabonete Líquido Muriel Baby Refil 500ml (fragrâncias)»
+- MESMO: «Toalha de Papel Mili Multiuso com 2 Rolos de 55 Toalhas 19cmx20,5cm» == «Toalha de Papel Mili Multiuso com 2 Rolos de 55 Toalhas»
+- DIFERENTES: «Toalhas Umedecidas Mili Love & Care com 50 Unidades» != «Toalhas Umedecidas Mili Love e Care 100 Unidades»
+- MESMO: «Uva Thompson Bandeja com 500g» == «Uva Thompson Bandeja 500g»
+- MESMO: «Uva Vitória Marcelo Frazão 500g» == «Uva Vitória Marcelo Frazão Band 500g»
+- MESMO: «Vinho Tinto Gran Bodega Malbec 750ml» == «Vinho Gran Bodega Malbec 750ml»

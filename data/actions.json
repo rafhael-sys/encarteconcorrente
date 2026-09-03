@@ -19365,5 +19365,40 @@
    "DczV4YGoKGa_p4.jpg",
    "DczV4YGoKGa_p5.jpg"
   ]
+ },
+ {
+  "id": "DczzCwpOT4H",
+  "perfil": "superfacilatacado",
+  "titulo": "Feirão de Frutas, Legumes e Verduras SuperFácil — RN (03 a 05/09)",
+  "banner": "SuperFácil Atacado",
+  "segmento": "atacarejo",
+  "inicio": "2026-09-03",
+  "fim": "2026-09-05",
+  "carrossel": false,
+  "shortcode": "DczzCwpOT4H",
+  "caption": "🌽🥕 FEIRÃO DE FRUTAS, LEGUMES E VERDURAS É NO SUPERFÁCIL! 💚🛒\n\nE o melhor: É NO RN! Preços especiais pra você encher o carrinho e economizar de verdade!\n\n🍎 Maçã | 🥕 Cenoura | 🍌 Banana | 🍊 Tangerina | 🧄 Alho | 🥬 Alface | 🍠 Macaxeira e muito mais!\n\n📅 De 03 a 05 de setembro\n📍 SuperFácil – lojas do Rio Grande do Norte\n⚠️ Exceto lojas de Mossoró e João Pessoa.\n\nRN, bora aproveitar? 🛒💚\nCorre que é só de quinta a sábado e enquanto durarem os estoques! 🔥",
+  "adicionado_em": "2026-09-03",
+  "paginas": [
+   "DczzCwpOT4H_p1.jpg"
+  ]
+ },
+ {
+  "id": "assai_171225-572",
+  "perfil": "assai.com.br",
+  "titulo": "Assaí — Especial App Meu Assaí (03 a 09/09)",
+  "banner": "Assaí Atacadista",
+  "segmento": "atacarejo",
+  "inicio": "2026-09-03",
+  "fim": "2026-09-09",
+  "carrossel": true,
+  "shortcode": "assai_171225-572",
+  "caption": "Preços válidos de 03/09/2026 até 09/09/2026",
+  "adicionado_em": "2026-09-03",
+  "paginas": [
+   "assai_171225-572_p1.jpg",
+   "assai_171225-572_p2.jpg"
+  ],
+  "fonte": "web",
+  "link": "https://www.assai.com.br/ofertas/rio-grande-do-norte/assai-natal"
  }
 ]

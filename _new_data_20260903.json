@@ -1,0 +1,90 @@
+{
+ "hoje": "2026-09-03",
+ "actions": [
+  {
+   "id": "DczzCwpOT4H",
+   "titulo": "Feirão de Frutas, Legumes e Verduras SuperFácil — RN (03 a 05/09)",
+   "banner": "SuperFácil Atacado",
+   "segmento": "atacarejo",
+   "inicio": "2026-09-03",
+   "fim": "2026-09-05",
+   "carrossel": false,
+   "paginas": ["DczzCwpOT4H_p1.jpg"]
+  },
+  {
+   "id": "assai_171225-572",
+   "titulo": "Assaí — Especial App Meu Assaí (03 a 09/09)",
+   "banner": "Assaí Atacadista",
+   "segmento": "atacarejo",
+   "inicio": "2026-09-03",
+   "fim": "2026-09-09",
+   "carrossel": true,
+   "paginas": ["assai_171225-572_p1.jpg", "assai_171225-572_p2.jpg"],
+   "fonte": "web",
+   "link": "https://www.assai.com.br/ofertas/rio-grande-do-norte/assai-natal"
+  }
+ ],
+ "products": {
+  "DczzCwpOT4H_p1": [
+   {"n": "Alho a Granel", "p": "11,99", "u": "kg", "x": 13, "y": 31, "w": 18, "h": 12},
+   {"n": "Ovos Brancos Nordestão Tipo Grande ou Extra bd c/30", "p": "14,99", "u": "cada", "x": 35, "y": 31, "w": 19, "h": 12},
+   {"n": "Goma Fresca Sinhá Maria Peneirada pct 1kg", "p": "3,99", "u": "cada", "x": 64, "y": 30, "w": 21, "h": 13},
+   {"n": "Alface Crespa ou Coentro", "p": "1,49", "u": "cada", "x": 19, "y": 48, "w": 16, "h": 13},
+   {"n": "Macaxeira", "p": "2,79", "u": "kg", "x": 37, "y": 48, "w": 17, "h": 13},
+   {"n": "Inhame", "p": "13,99", "u": "kg", "x": 66, "y": 48, "w": 18, "h": 13},
+   {"n": "Cenoura", "p": "6,99", "u": "kg", "x": 13, "y": 65, "w": 19, "h": 13},
+   {"n": "Maçã Vermelha", "p": "6,49", "u": "kg", "x": 35, "y": 65, "w": 19, "h": 13},
+   {"n": "Tangerina Murcote", "p": "4,49", "u": "kg", "x": 65, "y": 65, "w": 18, "h": 13},
+   {"n": "Laranja Pera", "p": "1,79", "u": "kg", "x": 11, "y": 82, "w": 20, "h": 13},
+   {"n": "Banana Pacovan", "p": "2,99", "u": "kg", "x": 37, "y": 82, "w": 18, "h": 13},
+   {"n": "Uva Vitória Marcelo Frazão sem Sementes cb 500g", "p": "4,99", "u": "cada", "x": 64, "y": 82, "w": 21, "h": 13}
+  ],
+  "assai_171225-572_p1": [
+   {"n": "Queijo Tipo Mussarela Fatiado Itambé 150g", "p": "8,89", "u": "cada (no app; de 9,90)", "x": 1, "y": 22, "w": 17, "h": 12},
+   {"n": "Batata Frita Smiles Congelada McCain Pacote 1,05kg", "p": "18,70", "u": "cada (no app; de 20,79)", "x": 21, "y": 22, "w": 17, "h": 12},
+   {"n": "Fraldinha Bovina Resfriada a Vácuo Masterboi Kg", "p": "36,90", "u": "kg (no app; de 41,90)", "x": 41, "y": 22, "w": 17, "h": 12},
+   {"n": "Sobrecoxas de Frango Congeladas Sadia Pacote 1QF ZIP 1kg", "p": "12,50", "u": "cada (no app; de 13,90)", "x": 61, "y": 22, "w": 17, "h": 12},
+   {"n": "Coxas e Sobrecoxas de Frango Congeladas Mauriceia Kg", "p": "9,99", "u": "kg (no app; de 11,75)", "x": 81, "y": 22, "w": 17, "h": 12},
+   {"n": "Pizza Congelada Rezende Sabores Caixeta 400g", "p": "12,90", "u": "cada (no app; de 14,75)", "x": 1, "y": 37, "w": 17, "h": 12},
+   {"n": "Salsicha de Frango para Hot-Dog Seara Pacote 500g", "p": "8,09", "u": "cada (no app; de 8,99)", "x": 21, "y": 37, "w": 17, "h": 12},
+   {"n": "Hambúrguer Misto Faroeste Burger Aurora Caixeta 672g", "p": "15,79", "u": "cada (no app; de 17,99)", "x": 41, "y": 37, "w": 17, "h": 12},
+   {"n": "Requeijão Cremoso Tradicional Clan Pote 400g", "p": "12,39", "u": "cada (no app; de 13,69)", "x": 61, "y": 37, "w": 17, "h": 12},
+   {"n": "Petit-Suisse Chambinho Sabores Bandeja 320g", "p": "8,99", "u": "cada (no app; de 9,99)", "x": 81, "y": 37, "w": 17, "h": 12},
+   {"n": "Suco Maratá Sabores TP 200ml", "p": "1,59", "u": "cada (no app; de 2,29)", "x": 1, "y": 54, "w": 17, "h": 14},
+   {"n": "Cerveja Ultra Lager Amstel Lata 269ml", "p": "3,59", "u": "cada (no app; de 4,39)", "x": 21, "y": 54, "w": 17, "h": 14},
+   {"n": "Refrigerante de Caju Tradicional ou Zero Açúcar São Geraldo PET 2L", "p": "8,09", "u": "un (no app; de 8,99)", "x": 41, "y": 54, "w": 17, "h": 14},
+   {"n": "Vinho Chileno Cosecha Tarapacá Tipos Garrafa 750ml", "p": "26,90", "u": "un (no app; de 33,90)", "x": 61, "y": 54, "w": 17, "h": 14},
+   {"n": "Vodka Nacional Smirnoff Garrafa 998ml", "p": "37,90", "u": "un (no app; de 49,90)", "x": 81, "y": 54, "w": 17, "h": 14},
+   {"n": "Feijão Preto Tipo 1 Kumê Pacote 1kg", "p": "5,59", "u": "cada (no app; de 6,10)", "x": 1, "y": 73, "w": 18, "h": 17},
+   {"n": "Café Tradicional ou Extraforte Melitta Pacote Pouch 250g", "p": "13,49", "u": "cada (no app; de 14,99)", "x": 21, "y": 73, "w": 17, "h": 17},
+   {"n": "Flocão de Milho Fortemilho Pacote 400g", "p": "0,89", "u": "cada (no app; de 1,15)", "x": 41, "y": 73, "w": 17, "h": 17},
+   {"n": "Macarrão Spaghetti Bonsabor 400g", "p": "1,99", "u": "cada (no app; de 2,19)", "x": 61, "y": 73, "w": 17, "h": 17},
+   {"n": "Biscoito Cream Cracker Tradicional ou Água e Sal Fortaleza Pacote 350g", "p": "4,99", "u": "cada (no app; de 5,89)", "x": 81, "y": 73, "w": 17, "h": 17}
+  ],
+  "assai_171225-572_p2": [
+   {"n": "Ketchup ou Maionese Supreme Hellmann's Garrafa 390g/330g", "p": "12,39", "u": "cada (no app; de 18,39)", "x": 1, "y": 8, "w": 17, "h": 15},
+   {"n": "Patê de Atum Gomes da Costa Sabores Pote 150g", "p": "7,39", "u": "cada (no app; de 11,29)", "x": 21, "y": 8, "w": 17, "h": 15},
+   {"n": "Molho Pronto Tradicional ou de Pizza Julieta Sachê 310g", "p": "1,09", "u": "cada (no app; de 1,39)", "x": 41, "y": 8, "w": 17, "h": 15},
+   {"n": "Café Solúvel Tradicional 3 Corações Sachê 40g", "p": "4,59", "u": "cada (no app; de 5,59)", "x": 61, "y": 8, "w": 17, "h": 15},
+   {"n": "Aveia em Flocos Regulares ou Finos Apti Caixeta 150g", "p": "2,89", "u": "cada (no app; de 3,75)", "x": 81, "y": 8, "w": 17, "h": 15},
+   {"n": "Papel Higiênico Folha Dupla Neve Pacote Leve 12 Pague 11 Rolos de 30m", "p": "20,90", "u": "cada (no app; de 24,49)", "x": 1, "y": 30, "w": 17, "h": 15},
+   {"n": "Sabonete Naturals Palmolive Fragrâncias Pack 340g", "p": "5,99", "u": "cada (no app; de 7,85)", "x": 21, "y": 30, "w": 17, "h": 15},
+   {"n": "Desodorante Aerossol Axe Fragrâncias Frasco 200ml", "p": "9,69", "u": "cada (no app; de 12,90)", "x": 41, "y": 30, "w": 17, "h": 15},
+   {"n": "Creme Dental Kolynos Sorriso Caixeta 90g", "p": "2,89", "u": "cada (no app; de 4,79)", "x": 61, "y": 30, "w": 17, "h": 15},
+   {"n": "Protetor Diário Delicacy Pacote Leve 50 Pague 45 Unidades", "p": "6,49", "u": "cada (no app; de 11,85)", "x": 81, "y": 30, "w": 17, "h": 15},
+   {"n": "Shampoo Clear Men Tipos Frasco 400ml", "p": "21,19", "u": "cada (no app; de 31,49)", "x": 1, "y": 53, "w": 17, "h": 15},
+   {"n": "Coloração Creme Gloss Casting L'Oréal Cores Unidade", "p": "30,29", "u": "cada (no app; de 37,89)", "x": 21, "y": 53, "w": 17, "h": 15},
+   {"n": "Lava-Roupas em Pó Sonho Fragrâncias Pacote 800g", "p": "5,59", "u": "cada (no app; de 6,29)", "x": 41, "y": 53, "w": 17, "h": 15},
+   {"n": "Lava-Roupa Líquido Ala Refil Fragrâncias Refil 700ml", "p": "6,79", "u": "cada (no app; de 7,59)", "x": 61, "y": 53, "w": 17, "h": 15},
+   {"n": "Sabão em Barra Neutro Ypê Pack 5x160g", "p": "10,90", "u": "cada (no app; de 13,79)", "x": 81, "y": 53, "w": 17, "h": 15},
+   {"n": "Amaciante de Roupas Vida Macia Fragrâncias Frasco 500ml", "p": "5,95", "u": "cada (no app; de 6,99)", "x": 1, "y": 75, "w": 17, "h": 16},
+   {"n": "Água Sanitária Clorito Frasco 1L", "p": "1,89", "u": "cada (no app; de 2,29)", "x": 21, "y": 75, "w": 17, "h": 16},
+   {"n": "Limpador Perfumado Casa & Perfume Fragrâncias Frasco 500ml", "p": "3,99", "u": "cada (no app; de 5,69)", "x": 41, "y": 75, "w": 17, "h": 16},
+   {"n": "Lava-Louças Guarani Fragrâncias Frasco 2L", "p": "5,49", "u": "cada (no app; de 6,89)", "x": 61, "y": 75, "w": 17, "h": 16},
+   {"n": "Desinfetante Dragão Fragrâncias Frasco 2L", "p": "3,99", "u": "cada (no app; de 6,19)", "x": 81, "y": 75, "w": 17, "h": 16}
+  ]
+ },
+ "descartes": [
+  {"shortcode": "Dc0cjgtjduJ", "motivo": "subconjunto do flyer Mês do Cliente (Dcj7EyAmXsE) — mesmo banner Mar Vermelho Atacado e período 28/08-03/09; os 6 produtos avulsos já constam no flyer com o mesmo preço (0 produto novo)"}
+ ]
+}
